@@ -1,0 +1,66 @@
+english,italian,english_base_word,is_base
+
+### Nouns ###
+
+currency,valuta,currency,true
+a currency,una valuta,currency,false
+the currency,la valuta,currency,false
+the currencies,le valute,currency,false
+
+small change,spiccioli,small change,true
+the small change,il piccolo cambiamento,small change,false
+
+money,denaro / soldi,money,true
+the money,il denaro / i soldi,money,false
+
+European money,euro,euro,true
+
+coin,moneta,coin,true
+a coin,una moneta,coin,false
+the coin,la moneta,coin,false
+the coins,le monete,coin,false
+
+bank,la banca,bank,true
+a bank,una banca,bank,false
+the bank,la banca,bank,false
+the banks,le banche,bank,false
+
+exchange rate,corso di cambio,exchange rate,true
+the exchange rate,il corso di cambio,exchange rate,false
+
+credit,credito,credit,true
+
+credit card,carta di credito,credit card,true
+a credit card,una carta di credito,credit,false
+the credit card,la carta di credito,credit,false
+the credit cards,le carte di credito,credit,false
+
+### Verbs ###
+
+to change,cambiare,change,true
+I change,io cambio,change,false
+you change (familiar),tu cambi,change,false
+you change (polite),Lei cambia,change,false
+we change,noi cambiamo,change,false
+you all change,voi cambiate,change,false
+they change,loro cambiano,change,false
+I changed,io cambiavo,change,false
+you changed (familiar),tu cambiavi,change,false
+you changed (polite),Lei cambiava,change,false
+we changed,noi cambiavamo,change,false
+you all changed,voi cambiavate,change,false
+they changed,loro cambiavano,change,false
+
+buy,comprare,comprare,true
+I buy,io compro,comprare,false
+you buy (familiar),tu compri,comprare,false
+you buy (polite),Lei compra,comprare,false
+we buy,noi compriamo,comprare,false
+you all buy,voi comprate,comprare,false
+they buy,loro comprano,comprare,false
+I bought,io compravo,comprare,false
+you bought (familiar),tu compravi,comprare,false
+you bought (polite),Lei comprava,comprare,false
+we bought,noi compravamo,comprare,false
+you all bought,voi compravate,comprare,false
+they bought,loro compravano,comprare,false

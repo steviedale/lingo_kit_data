@@ -1,0 +1,41 @@
+english,italian,english_base_word,is_base
+
+### Pronouns ###
+I,io,I,true
+you (familiar),tu,you (familiar),true
+you (polite),Lei,you (polite),true
+he,lui,he,true
+she,lei,she,true
+we,noi,we,true
+you all,voi,you all,true
+they,loro,they,true
+
+### Phrases ###
+good morning / good day,buongiorno,good morning / good day,true
+good evening,buonasera,good evening,true
+good night,buonanotte,good night,true
+goodbye,arrivederci,goodbye,true
+hello / goodbye,ciao,hello / goodbye,true
+please,per favore,please,true
+please,per piacere,please,true
+thank you,grazie,thank you,true
+you're welcome / please,prego,you're welcome / please,true
+
+### Adverbs ###
+yes,sì,yes,true
+no,no,no,true
+
+### Adjectives ###
+good,buono,good,true
+good,buona,good,false
+
+bad,cativo,bad,true
+bad,cativa,bad,false
+
+this,questo,this,true
+this,questa,this,false
+
+### Nouns ###
+sir / mister,signore,sir / mister,true
+madam / misses,signora,madam / misses,true
+miss,signorina,miss,true

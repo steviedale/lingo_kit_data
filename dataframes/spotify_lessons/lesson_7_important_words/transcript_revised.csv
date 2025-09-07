@@ -1,0 +1,150 @@
+english,italian,english_base_word,is_base
+
+### Prepositions ###
+over there (masculine),là,over there,true
+over there (feminine),lì,over there,false
+
+### Adjectives ###
+
+open (masculine),aperto,open,true
+open (feminine),aperta,open,false
+open (masculine) (plural),aperti,open,false
+open (feminine) (plural),aperte,open,false
+
+closed (masculine),chiuso,closed,true
+closed (feminine),chiusa,closed,false
+closed (masculine) (plural),chiusi,closed,false
+closed (feminine) (plural),chiuse,closed,false
+
+### Noun ###
+
+water,acqua,water,true
+a water,un'acqua,water,false
+the water,l'acqua,water,false
+the waters,le acque,water,false
+
+drinking water,acqua potabile
+a drinking water,un'acqua potabile,drinking water,false
+the drinking water,l'acqua potabile,drinking water,false
+the drinking waters,le acque potabili,drinking water,false
+
+luggage,i bagagli,luggage,true
+the luggage,i bagagli,luggage,false
+
+
+suitcase,valigia,valigia,true
+a suitcase,una valigia,suitcase,false
+the suitcase,la valigia,suitcase,false
+the suitcases,le valigie,suitcase,false
+
+this (masculine),questo,questo,true
+this (feminine),questa,questo,false
+this (masculine) (plural),questi,questo,false
+this (feminine) (plural),queste,questo,false
+
+that (masculine),quello,quello,true
+that (feminine),quella,quello,false
+that (masculine) (plural),quegli,quello,false
+that (feminine) (plural),quelle,quello,false
+
+
+ticket,biglietto,ticket,true
+a ticket,un biglietto,ticket,false
+the ticket,il biglietto,ticket,false
+the tickets,i biglietti,ticket,false
+
+backpack,zaino,backpack,true
+a backpack,uno zaino,backpack,false
+the backpack,lo zaino,backpack,false
+the backpacks,gli zaini,backpack,false
+
+counter,banco,counter,true
+a counter,un banco,counter,false
+the counter,il banco,counter,false
+the counters,i banchi,counter,false
+
+baggage claim,ritiro bagagli,baggage claim,true
+a baggage claim,un ritiro bagagli,baggage claim,false
+the baggage claim,il ritiro bagagli,baggage claim,false
+the baggage claims,i ritiri bagagli,baggage claim,false
+
+locker,armadietto,locker,true
+a locker,un armadietto,locker,false
+the locker,un armadietto,locker,false
+the lockers,gli armadietti,locker,false
+
+railroad,ferrovia,railroad,true
+a railroad,una ferrovia,railroad,false
+the railroad,la ferrovia,railroad,false
+the railroads,le ferrovie,railroad,false
+
+little town,piazza,little town,true
+a little town,una piazza,little town,false
+the little town,la piazza,little town,false
+the little towns,le piazze,little town,false
+
+village,villaggio,village,true
+a village,un villaggio,village,false
+the village,il villaggio,village,false
+the villages,i villaggi,village,false
+
+city,città,city,true
+a city,una città,city,false
+the city,la città,city,false
+the cities,le città,city,false
+
+map,cartina,map,true
+a map,una cartina,map,false
+the map,la cartina,map,false
+the maps,le cartine,map,false
+
+passport,passaporto,passport,true
+a passport,un passaporto,passport,false
+the passport,il passaporto,passport,false
+the passports,i passaporti,passport,false
+
+booklet,blocchetto,booklet,true
+a booklet,un blocchetto,booklet,false
+the booklet,il blocchetto,booklet,false
+the booklets,i blocchetti,booklet,false
+
+police,polizia,police,true
+a police,una polizia,police,false
+the police,la polizia,police,false
+the police (plural),le polizie,police,false
+
+police officer,poliziotto,police officer,true
+a police officer,un poliziotto,police officer,false
+police officer (feminine),guardia,police officer,false
+
+### Possessive Pronouns ###
+
+my (masculine) (singular),il mio,my,true
+my (feminine) (singular),la mia,my,false
+my (masculine) (plural),i miei,my,false
+my (feminine) (plural),le mie,my,false
+
+your (familiar) (masculine) (singular),il tuo,your,false
+your (familiar) (feminine) (singular),la tua,your,false
+your (familiar) (masculine) (plural),i tuoi,your,false
+your (familiar) (feminine) (plural),le tue,your,false
+
+your (polite) (masculine) (singular),il Suo,your,false
+your (polite) (feminine) (singular),la Sua,your,false
+your (polite) (masculine) (plural),i Suoi,your,false
+your (polite) (feminine) (plural),le Sue,your,false
+
+our (masculine) (singular),il nostro,our,true
+our (feminine) (singular),la nostra,our,false
+our (masculine) (plural),i nostri,our,false
+our (feminine) (plural),le nostre,our,false
+
+you all (masculine) (singular),il vostro,you all,true
+you all (feminine) (singular),la vostra,you all,false
+you all (masculine) (plural),i vostri,you all,false
+you all (feminine) (plural),le vostre,you all,false
+
+their (masculine) (singular),il loro,their,true
+their (feminine) (singular),la loro,their,false
+their (masculine) (plural),i loro,their,false
+their (feminine) (plural),le loro,their,false

@@ -1,0 +1,7 @@
+english,italian,base_term,is_base,topic,part_of_speech
+the (masculine),il,the,True,foundational_words,article
+the (feminine),la,the,False,foundational_words,article
+the (masculine) (plural),i,the,False,foundational_words,article
+the (feminine) (plural),le,the,False,foundational_words,article
+a / an (masculine),un / uno,a,True,foundational_words,article
+a / an (feminine),un' / una,a,False,foundational_words,article

@@ -1,0 +1,23 @@
+english,italian,base_term,is_base,topic,part_of_speech
+I,io,I,True,foundational_words,pronoun
+you,tu,you,True,foundational_words,pronoun
+you (formal),Lei,you,True,foundational_words,pronoun
+he,lui,he,True,foundational_words,pronoun
+she,lei,she,True,foundational_words,pronoun
+we,noi,we,True,foundational_words,pronoun
+you (plural),voi,you,True,foundational_words,pronoun
+they,loro,they,True,foundational_words,pronoun
+me,mi,I,False,foundational_words,pronoun
+you (object),ti,you,False,foundational_words,pronoun
+to her,le,her,False,foundational_words,pronoun
+to him,gli,him,False,foundational_words,pronoun
+us,ci,we,False,foundational_words,pronoun
+you (plural object),vi,you,False,foundational_words,pronoun
+oneself,si,oneself,False,foundational_words,pronoun
+it/him,lo,it,False,foundational_words,pronoun
+it/her,la,it,False,foundational_words,pronoun
+them (masculine),li,they,False,foundational_words,pronoun
+them (feminine),le,they,False,foundational_words,pronoun
+who,chi,who,False,foundational_words,pronoun
+what / that,che,what,False,foundational_words,pronoun
+which,quale,which,False,foundational_words,pronoun

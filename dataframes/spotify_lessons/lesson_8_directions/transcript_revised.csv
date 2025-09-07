@@ -1,0 +1,66 @@
+english,italian,english_base_word,is_base
+
+### Adverb ###
+to the right,a destra,to the right,true
+to the left,a sinistra,to the left,true
+
+### Verbs ###
+to turn,girare,turn,true
+I turn,io giro,turn,false
+you turn (familiar),tu giri,turn,false
+you turn (polite),Lei gira,turn,false
+we turn,noi giriamo,turn,false
+you all turn,voi girate,turn,false
+they turn,loro girano,turn,false
+I turned,io giravo,turn,false
+you turned (familiar),tu giravi,turn,false
+you turned (polite),Lei girava,turn,false
+we turned,noi giravamo,turn,false
+you all turned,voi giravate,turn,false
+they turned,loro giravano,turn,false
+
+### Nouns ###
+street,strada,street,true
+a street,una strada,street,false
+the street,la strada,street,false
+the streets,le strade,street,false
+ahead,avanti,ahead,true
+
+corner,angolo,corner,true
+a corner,un angolo,corner,false
+the corner,l'angolo,corner,false
+the corners,gli angoli,corner,false
+
+side,lato / fianco,side,true
+a side,un lato / un fianco,side,false
+the side,il lato / il fianco,side,false
+the sides,i lati / i fianchi,side,false
+
+end,fine,end,true
+the end,la fine,end,false
+
+here,qui / qua,here,true
+
+there,là / lì,there,true
+
+over there / down there,laggiù,over there / down there,true
+
+address,indirizzo,address,true
+an address,un indirizzo,address,false
+the address,l'indirizzo,address,false
+the addresses,gli indirizzi,address,false
+
+### Phrases ###
+around the corner,dietro l'angolo,around the corner,true
+straight ahead,dritto / sempre dritto,straight ahead,false
+near the corner,vicino all'angolo,near the corner,true
+
+### Adjectives ###
+near (masculine),vicino,near,true
+near (feminine),vicina,near,false
+
+far (masculine),lontano,far,true
+far (feminine),lontana,far,false
+
+next to,vicino a,next to,true
+as far as,fino a,as far as,true

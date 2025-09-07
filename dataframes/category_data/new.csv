@@ -1,0 +1,1774 @@
+part_of_speech,base_word_italian,english,italian,topics,base_word_english
+adjective,blu,blue,blu,[color],blue
+adjective,azzurro,light blue,azzurro,[color],light blue
+adjective,azzurro,light blue,azzurra,[color],light blue
+adjective,rosso,red,rosso,[color],red
+adjective,rosso,red,rossa,[color],red
+adjective,verde,green,verde,[color],green
+adjective,giallo,yellow,giallo,[color],yellow
+adjective,giallo,yellow,gialla,[color],yellow
+adjective,nero,black,nero,[color],black
+adjective,nero,black,nera,[color],black
+adjective,bianco,white,bianco,[color],white
+adjective,bianco,white,bianca,[color],white
+adjective,viola,purple,viola,[color],purple
+adjective,rosa,pink,rosa,[color],pink
+adjective,arancione,orange,arancione,[color],orange
+adjective,grigio,gray,grigio,[color],gray
+adjective,grigio,gray,grigia,[color],gray
+adjective,marrone,brown,marrone,[color],brown
+adjective,economico,cheap,economico,[cost],cheap
+adjective,economico,cheap,economica,[cost],cheap
+adjective,caro,expensive,caro,[cost],expensive
+adjective,caro,expensive,cara,[cost],expensive
+adjective,gratuito,free,gratuito,[cost],free
+adjective,gratuito,free,gratuita,[cost],free
+adjective,conveniente,affordable,conveniente,[cost],affordable
+adjective,costoso,costly,costoso,[cost],costly
+adjective,costoso,costly,costosa,[cost],costly
+adjective,scontato,discounted,scontato,[cost],discounted
+adjective,scontato,discounted,scontata,[cost],discounted
+adjective,lussuoso,luxurious,lussuoso,[cost],luxurious
+adjective,lussuoso,luxurious,lussuosa,[cost],luxurious
+adjective,inestimabile,priceless,inestimabile,[cost],priceless
+adjective,ragionevole,reasonable,ragionevole,[cost],reasonable
+adjective,troppo caro,overpriced,troppo caro,[cost],overpriced
+adjective,troppo caro,overpriced,troppo cara,[cost],overpriced
+adjective,felice,happy,felice,[emotion],happy
+adjective,triste,sad,triste,[emotion],sad
+adjective,arrabbiato,angry,arrabbiato,[emotion],angry
+adjective,arrabbiato,angry,arrabbiata,[emotion],angry
+adjective,eccitato,excited,eccitato,[emotion],excited
+adjective,eccitato,excited,eccitata,[emotion],excited
+adjective,annoiato,bored,annoiato,[emotion],bored
+adjective,annoiato,bored,annoiata,[emotion],bored
+adjective,nervoso,nervous,nervoso,[emotion],nervous
+adjective,nervoso,nervous,nervosa,[emotion],nervous
+adjective,calmo,calm,calmo,[emotion],calm
+adjective,calmo,calm,calma,[emotion],calm
+adjective,stanco,tired,stanco,[emotion],tired
+adjective,stanco,tired,stanca,[emotion],tired
+adjective,sorpreso,surprised,sorpreso,[emotion],surprised
+adjective,sorpreso,surprised,sorpresa,[emotion],surprised
+adjective,buono,good,buono,[general],good
+adjective,buono,good,buona,[general],good
+adjective,buono,good,buoni,[general],good
+adjective,buono,good,buone,[general],good
+adjective,cattivo,bad,cattivo,[general],bad
+adjective,cattivo,bad,cattiva,[general],bad
+adjective,cattivo,bad,cattivi,[general],bad
+adjective,cattivo,bad,cattive,[general],bad
+adjective,grande,big,grande,[general],big
+adjective,grande,big,grandi,[general],big
+adjective,piccolo,small,piccolo,[general],small
+adjective,piccolo,small,piccola,[general],small
+adjective,piccolo,small,piccoli,[general],small
+adjective,piccolo,small,piccole,[general],small
+adjective,bello,beautiful,bello,[general],beautiful
+adjective,bello,beautiful,bella,[general],beautiful
+adjective,bello,beautiful,belli,[general],beautiful
+adjective,bello,beautiful,belle,[general],beautiful
+adjective,brutto,ugly,brutto,[general],ugly
+adjective,brutto,ugly,brutta,[general],ugly
+adjective,brutto,ugly,brutti,[general],ugly
+adjective,brutto,ugly,brutte,[general],ugly
+adjective,nuovo,new,nuovo,[general],new
+adjective,nuovo,new,nuova,[general],new
+adjective,nuovo,new,nuovi,[general],new
+adjective,nuovo,new,nuove,[general],new
+adjective,vecchio,old,vecchio,[general],old
+adjective,vecchio,old,vecchia,[general],old
+adjective,vecchio,old,vecchi,[general],old
+adjective,vecchio,old,vecchie,[general],old
+adjective,caldo,hot,caldo,[general],hot
+adjective,caldo,hot,calda,[general],hot
+adjective,caldo,hot,caldi,[general],hot
+adjective,caldo,hot,calde,[general],hot
+adjective,freddo,cold,freddo,[general],cold
+adjective,freddo,cold,fredda,[general],cold
+adjective,freddo,cold,freddi,[general],cold
+adjective,freddo,cold,fredde,[general],cold
+adjective,felice,happy,felici,[general],happy
+adjective,facile,easy,facile,[general],easy
+adjective,facile,easy,facili,[general],easy
+adjective,eccellente,excellent,eccellente,[quality],excellent
+adjective,terribile,terrible,terribile,[quality],terrible
+adjective,perfetto,perfect,perfetto,[quality],perfect
+adjective,perfetto,perfect,perfetta,[quality],perfect
+adjective,scarso,poor,scarso,[quality],poor
+adjective,scarso,poor,scarsa,[quality],poor
+adjective,medio,average,medio,[quality],average
+adjective,medio,average,media,[quality],average
+adjective,autentico,authentic,autentico,[quality],authentic
+adjective,autentico,authentic,autentica,[quality],authentic
+adjective,falso,fake,falso,[quality],fake
+adjective,falso,fake,falsa,[quality],fake
+adjective,molti,many,molti,[quantity],many
+adjective,molti,many,molte,[quantity],many
+adjective,pochi,few,pochi,[quantity],few
+adjective,pochi,few,poche,[quantity],few
+adjective,alcuni,some,alcuni,[quantity],some
+adjective,alcuni,some,alcune,[quantity],some
+adjective,tutto,all,tutti,[quantity],all
+adjective,tutto,all,tutte,[quantity],all
+adjective,abbastanza,enough,abbastanza,[quantity],enough
+adjective,poco,little,poco,[quantity],little
+adjective,poco,little,poca,[quantity],little
+adjective,diversi,several,diversi,[quantity],several
+adjective,diversi,several,diverse,[quantity],several
+adjective,numerosi,numerous,numerosi,[quantity],numerous
+adjective,numerosi,numerous,numerose,[quantity],numerous
+adjective,singolo,single,singolo,[quantity],single
+adjective,singolo,single,singola,[quantity],single
+adjective,tutto,all,tutto,[quantity],all
+adjective,tutto,all,tutta,[quantity],all
+adjective,usato,used,usato,[shopping],used
+adjective,usato,used,usata,[shopping],used
+adjective,alla,fashionable,alla moda,[shopping],fashionable
+adjective,trendy,trendy,trendy,[shopping],trendy
+adjective,fuori,out of style,fuori moda,[shopping],out of style
+adjective,comodo,comfortable,comodo,[shopping],comfortable
+adjective,comodo,comfortable,comoda,[shopping],comfortable
+adjective,scomodo,uncomfortable,scomodo,[shopping],uncomfortable
+adjective,scomodo,uncomfortable,scomoda,[shopping],uncomfortable
+adjective,rotto,broken,rotto,[shopping],broken
+adjective,rotto,broken,rotta,[shopping],broken
+adjective,disponibile,available,disponibile,[shopping],available
+adjective,esaurito,sold out,esaurito,[shopping],sold out
+adjective,esaurito,sold out,esaurita,[shopping],sold out
+adjective,alto,tall,alto,[size],tall
+adjective,alto,tall,alta,[size],tall
+adjective,alto,tall,alti,[size],tall
+adjective,alto,tall,alte,[size],tall
+adjective,basso,short (height),basso,[size],short (height)
+adjective,basso,short (height),bassa,[size],short (height)
+adjective,basso,short (height),bassi,[size],short (height)
+adjective,basso,short (height),basse,[size],short (height)
+adjective,lungo,long,lungo,[size],long
+adjective,lungo,long,lunga,[size],long
+adjective,lungo,long,lunghi,[size],long
+adjective,lungo,long,lunghe,[size],long
+adjective,largo,wide,largo,[size],wide
+adjective,largo,wide,larga,[size],wide
+adjective,largo,wide,larghi,[size],wide
+adjective,largo,wide,larghe,[size],wide
+adjective,stretto,narrow,stretto,[size],narrow
+adjective,stretto,narrow,stretta,[size],narrow
+adjective,stretto,narrow,stretti,[size],narrow
+adjective,stretto,narrow,strette,[size],narrow
+adjective,enorme,huge,enorme,[size],huge
+adjective,enorme,huge,enormi,[size],huge
+adjective,minuscolo,tiny,minuscolo,[size],tiny
+adjective,minuscolo,tiny,minuscola,[size],tiny
+adjective,minuscolo,tiny,minuscoli,[size],tiny
+adjective,minuscolo,tiny,minuscole,[size],tiny
+adjective,spesso,thick,spesso,[size],thick
+adjective,spesso,thick,spessa,[size],thick
+adjective,spesso,thick,spessi,[size],thick
+adjective,spesso,thick,spesse,[size],thick
+adjective,sottile,thin,sottile,[size],thin
+adjective,sottile,thin,sottili,[size],thin
+adjective,gigantesco,gigantic,gigantesco,[size],gigantic
+adjective,gigantesco,gigantic,gigantesca,[size],gigantic
+adjective,gigantesco,gigantic,giganteschi,[size],gigantic
+adjective,gigantesco,gigantic,gigantesche,[size],gigantic
+adjective,massiccio,massive,massiccio,[size],massive
+adjective,massiccio,massive,massiccia,[size],massive
+adjective,massiccio,massive,massicci,[size],massive
+adjective,massiccio,massive,massicce,[size],massive
+adjective,minuto,petite,minuto,[size],petite
+adjective,minuto,petite,minuta,[size],petite
+adjective,minuto,petite,minuti,[size],petite
+adjective,minuto,petite,minute,[size],petite
+adjective,compatto,compact,compatto,[size],compact
+adjective,compatto,compact,compatta,[size],compact
+adjective,compatto,compact,compatti,[size],compact
+adjective,compatto,compact,compatte,[size],compact
+adjective,ingombrante,bulky,ingombrante,[size],bulky
+adjective,ingombrante,bulky,ingombranti,[size],bulky
+adjective,ampio,ample,ampio,[size],ample
+adjective,ampio,ample,ampia,[size],ample
+adjective,ampio,ample,ampi,[size],ample
+adjective,ampio,ample,ampie,[size],ample
+adjective,vasto,vast,vasto,[size],vast
+adjective,vasto,vast,vasta,[size],vast
+adjective,vasto,vast,vasti,[size],vast
+adjective,vasto,vast,vaste,[size],vast
+adjective,microscopico,microscopic,microscopico,[size],microscopic
+adjective,microscopico,microscopic,microscopica,[size],microscopic
+adjective,microscopico,microscopic,microscopici,[size],microscopic
+adjective,microscopico,microscopic,microscopiche,[size],microscopic
+adjective,tiepido,warm,tiepido,[temperature],warm
+adjective,tiepido,warm,tiepida,[temperature],warm
+adjective,tiepido,warm,tiepidi,[temperature],warm
+adjective,tiepido,warm,tiepide,[temperature],warm
+adjective,fresco,cool,fresco,[temperature],cool
+adjective,fresco,cool,fresca,[temperature],cool
+adjective,fresco,cool,freschi,[temperature],cool
+adjective,fresco,cool,fresche,[temperature],cool
+adjective,gelido,freezing,gelido,[temperature],freezing
+adjective,gelido,freezing,gelida,[temperature],freezing
+adjective,gelido,freezing,gelidi,[temperature],freezing
+adjective,gelido,freezing,gelide,[temperature],freezing
+adjective,ghiacciato,icy,ghiacciato,[temperature],icy
+adjective,ghiacciato,icy,ghiacciata,[temperature],icy
+adjective,ghiacciato,icy,ghiacciati,[temperature],icy
+adjective,ghiacciato,icy,ghiacciate,[temperature],icy
+adjective,afoso,sweltering,afoso,[temperature],sweltering
+adjective,afoso,sweltering,afosa,[temperature],sweltering
+adjective,afoso,sweltering,afosi,[temperature],sweltering
+adjective,afoso,sweltering,afose,[temperature],sweltering
+adjective,torrido,blistering,torrido,[temperature],blistering
+adjective,torrido,blistering,torrida,[temperature],blistering
+adjective,torrido,blistering,torridi,[temperature],blistering
+adjective,torrido,blistering,torride,[temperature],blistering
+adjective,temperato,temperate,temperato,[temperature],temperate
+adjective,temperato,temperate,temperata,[temperature],temperate
+adjective,temperato,temperate,temperati,[temperature],temperate
+adjective,temperato,temperate,temperate,[temperature],temperate
+adjective,mite,mild,mite,[temperature],mild
+adjective,mite,mild,miti,[temperature],mild
+adjective,bollente,boiling,bollente,[temperature],boiling
+adjective,bollente,boiling,bollenti,[temperature],boiling
+adjective,rovente,scorching,rovente,[temperature],scorching
+adjective,rovente,scorching,roventi,[temperature],scorching
+adjective,glaciale,glacial,glaciale,[temperature],glacial
+adjective,glaciale,glacial,glaciali,[temperature],glacial
+noun,angolo,a corner,un angolo,[directions],a corner
+noun,angolo,the corner,l'angolo,[directions],the corner
+noun,angolo,the corners,gli angoli,[directions],the corners
+noun,incrocio,an intersection,un incrocio,[directions],an intersection
+noun,incrocio,the intersection,l'incrocio,[directions],the intersection
+noun,incroci,the intersections,gli incroci,[directions],the intersections
+noun,rotonda,a roundabout,una rotonda,[directions],a roundabout
+noun,rotonda,the roundabout,la rotonda,[directions],the roundabout
+noun,rotonde,the roundabouts,le rotonde,[directions],the roundabouts
+noun,ponte,a bridge,un ponte,[directions],a bridge
+noun,ponte,the bridge,il ponte,[directions],the bridge
+noun,ponti,the bridges,i ponti,[directions],the bridges
+noun,tunnel,a tunnel,un tunnel,[directions],a tunnel
+noun,tunnel,the tunnel,il tunnel,[directions],the tunnel
+noun,tunnel,the tunnels,i tunnel,[directions],the tunnels
+noun,strada,a street,una strada,[directions],a street
+noun,strada,the street,la strada,[directions],the street
+noun,strada,the streets,le strade,[directions],the streets
+noun,viale,an avenue,un viale,[directions],an avenue
+noun,viale,the avenue,il viale,[directions],the avenue
+noun,viali,the avenues,i viali,[directions],the avenues
+noun,piazza,a square,una piazza,[directions],a square
+noun,piazza,the square,la piazza,[directions],the square
+noun,piazza,the squares,le piazze,[directions],the squares
+noun,isolato,a block,un isolato,[directions],a block
+noun,isolato,the block,l'isolato,[directions],the block
+noun,isolato,the blocks,gli isolati,[directions],the blocks
+noun,segnale,a sign,un segnale,[directions],a sign
+noun,segnale,the sign,il segnale,[directions],the sign
+noun,segnale,the signs,i segnali,[directions],the signs
+noun,fermata,a stop,una fermata,[directions],a stop
+noun,fermata,the stop,la fermata,[directions],the stop
+noun,fermata,the stops,le fermate,[directions],the stops
+noun,ingresso,an entrance,un ingresso,[directions],an entrance
+noun,ingresso,the entrance,l'ingresso,[directions],the entrance
+noun,ingresso,the entrances,gli ingressi,[directions],the entrances
+noun,uscita,an exit,un'uscita,[directions],an exit
+noun,uscita,the exit,l'uscita,[directions],the exit
+noun,uscita,the exits,le uscite,[directions],the exits
+noun,semaforo,a traffic light,un semaforo,[directions],a traffic light
+noun,semaforo,the traffic light,il semaforo,[directions],the traffic light
+noun,semaforo,the traffic lights,i semafori,[directions],the traffic lights
+noun,svolta,a turn,una svolta,[directions],a turn
+noun,svolta,the turn,la svolta,[directions],the turn
+noun,svolta,the turns,le svolte,[directions],the turns
+noun,nord,the north,il nord,[directions],the north
+noun,nord,a north,un nord,[directions],a north
+noun,sud,the south,il sud,[directions],the south
+noun,sud,a south,un sud,[directions],a south
+noun,est,the east,l'est,[directions],the east
+noun,est,an east,un est,[directions],an east
+noun,ovest,the west,l'ovest,[directions],the west
+noun,ovest,a west,un ovest,[directions],a west
+noun,sinistra,a left,una sinistra,[directions],a left
+noun,sinistra,the left,la sinistra,[directions],the left
+noun,destra,a right,una destra,[directions],a right
+noun,destra,the right,la destra,[directions],the right
+noun,acqua,the water,l'acqua,[drinks],the water
+noun,acqua,water,acqua,[drinks],water
+noun,acqua naturale,the still water,l'acqua naturale,[drinks],the still water
+noun,acqua naturale,still water,acqua naturale,[drinks],still water
+noun,acqua frizzante,the sparkling water,l'acqua frizzante,[drinks],the sparkling water
+noun,acqua frizzante,sparkling water,acqua frizzante,[drinks],sparkling water
+noun,caffè,the coffee,il caffè,[drinks],the coffee
+noun,caffè,coffee,caffè,[drinks],coffee
+noun,caffè,a coffee,un caffè,[drinks],a coffee
+noun,espresso,the espresso,l'espresso,[drinks],the espresso
+noun,espresso,an espresso,un espresso,[drinks],an espresso
+noun,cappuccino,the cappuccino,il cappuccino,[drinks],the cappuccino
+noun,cappuccino,a cappuccino,un cappuccino,[drinks],a cappuccino
+noun,tè,the tea,il tè,[drinks],the tea
+noun,tè,tea,tè,[drinks],tea
+noun,tè,a tea,un tè,[drinks],a tea
+noun,tisana,the herbal tea,la tisana,[drinks],the herbal tea
+noun,tisana,an herbal tea,una tisana,[drinks],an herbal tea
+noun,succo,the juice,il succo,[drinks],the juice
+noun,succo,a juice,un succo,[drinks],a juice
+noun,succo d'arancia,the orange juice,il succo d'arancia,[drinks],the orange juice
+noun,succo d'arancia,an orange juice,un succo d'arancia,[drinks],an orange juice
+noun,vino,the wine,il vino,[drinks],the wine
+noun,vino,wine,vino,[drinks],wine
+noun,bicchiere di vino,a glass of wine,un bicchiere di vino,[drinks],a glass of wine
+noun,vino rosso,the red wine,il vino rosso,[drinks],the red wine
+noun,vino bianco,the white wine,il vino bianco,[drinks],the white wine
+noun,birra,the beer,la birra,[drinks],the beer
+noun,birra,beer,birra,[drinks],beer
+noun,birra,a beer,una birra,[drinks],a beer
+noun,birra alla spina,the draft beer,la birra alla spina,[drinks],the draft beer
+noun,birra alla spina,a draft beer,una birra alla spina,[drinks],a draft beer
+noun,cocktail,the cocktail,il cocktail,[drinks],the cocktail
+noun,cocktail,a cocktail,un cocktail,[drinks],a cocktail
+noun,bibita,the soda,la bibita gassata,[drinks],the soda
+noun,bibita,soda,bibita gassata,[drinks],soda
+noun,cola,the cola,la cola,[drinks],the cola
+noun,cola,a cola,una cola,[drinks],a cola
+noun,latte,the milk,il latte,[drinks],the milk
+noun,latte,milk,latte,[drinks],milk
+noun,bicchiere di latte,a glass of milk,un bicchiere di latte,[drinks],a glass of milk
+noun,cioccolata calda,the hot chocolate,la cioccolata calda,[drinks],the hot chocolate
+noun,cioccolata calda,a hot chocolate,una cioccolata calda,[drinks],a hot chocolate
+noun,limonata,the lemonade,la limonata,[drinks],the lemonade
+noun,limonata,a lemonade,una limonata,[drinks],a lemonade
+noun,tè freddo,the iced tea,il tè freddo,[drinks],the iced tea
+noun,tè freddo,an iced tea,un tè freddo,[drinks],an iced tea
+noun,acqua minerale frizzante,the sparkling mineral water,l'acqua minerale frizzante,[drinks],the sparkling mineral water
+noun,acqua minerale naturale,the still mineral water,l'acqua minerale naturale,[drinks],the still mineral water
+noun,vestito,the dress,il vestito,[fashion],the dress
+noun,vestito,a dress,un vestito,[fashion],a dress
+noun,vestito,the dresses,i vestiti,[fashion],the dresses
+noun,camicia,the shirt,la camicia,[fashion],the shirt
+noun,camicia,a shirt,una camicia,[fashion],a shirt
+noun,camicia,the shirts,le camicie,[fashion],the shirts
+noun,maglietta,the t-shirt,la maglietta,[fashion],the t-shirt
+noun,maglietta,a t-shirt,una maglietta,[fashion],a t-shirt
+noun,maglietta,the t-shirts,le magliette,[fashion],the t-shirts
+noun,pantaloni,the pants,i pantaloni,[fashion],the pants
+noun,pantaloni,pants,pantaloni,[fashion],pants
+noun,jeans,the jeans,i jeans,[fashion],the jeans
+noun,jeans,jeans,jeans,[fashion],jeans
+noun,gonna,the skirt,la gonna,[fashion],the skirt
+noun,gonna,a skirt,una gonna,[fashion],a skirt
+noun,gonna,the skirts,le gonne,[fashion],the skirts
+noun,completo,the suit,il completo,[fashion],the suit
+noun,completo,a suit,un completo,[fashion],a suit
+noun,completo,the suits,i completi,[fashion],the suits
+noun,giacca,the jacket,la giacca,[fashion],the jacket
+noun,giacca,a jacket,una giacca,[fashion],a jacket
+noun,giaccha,the jackets,le giacche,[fashion],the jackets
+noun,cappotto,the coat,il cappotto,[fashion],the coat
+noun,cappotto,a coat,un cappotto,[fashion],a coat
+noun,cappotto,the coats,i cappotti,[fashion],the coats
+noun,maglione,the sweater,il maglione,[fashion],the sweater
+noun,maglione,a sweater,un maglione,[fashion],a sweater
+noun,maglione,the sweaters,i maglioni,[fashion],the sweaters
+noun,scarpa,the shoe,la scarpa,[fashion],the shoe
+noun,scarpa,a shoe,una scarpa,[fashion],a shoe
+noun,scarpa,the shoes,le scarpe,[fashion],the shoes
+noun,stivale,the boot,lo stivale,[fashion],the boot
+noun,stivale,a boot,uno stivale,[fashion],a boot
+noun,stivale,the boots,gli stivali,[fashion],the boots
+noun,sandalo,the sandal,il sandalo,[fashion],the sandal
+noun,sandalo,a sandal,un sandalo,[fashion],a sandal
+noun,sandalo,the sandals,i sandali,[fashion],the sandals
+noun,sciarpa,the scarf,la sciarpa,[fashion],the scarf
+noun,sciarpa,a scarf,una sciarpa,[fashion],a scarf
+noun,sciarpa,the scarves,le sciarpe,[fashion],the scarves
+noun,cappello,the hat,il cappello,[fashion],the hat
+noun,cappello,a hat,un cappello,[fashion],a hat
+noun,cappello,the hats,i cappelli,[fashion],the hats
+noun,pane,the bread,il pane,[food],the bread
+noun,pane,bread,pane,[food],bread
+noun,panino,the sandwich,il panino,[food],the sandwich
+noun,panino,a sandwich,un panino,[food],a sandwich
+noun,panino,the sandwiches,i panini,[food],the sandwiches
+noun,pizza,the pizza,la pizza,[food],the pizza
+noun,pizza,a pizza,una pizza,[food],a pizza
+noun,pizza,the pizzas,le pizze,[food],the pizzas
+noun,pasta,pasta,pasta,[food],pasta
+noun,pasta,the pasta,la pasta,[food],the pasta
+noun,formaggio,the cheese,il formaggio,[food],the cheese
+noun,formaggio,cheese,formaggio,[food],cheese
+noun,mela,the apple,la mela,[food],the apple
+noun,mela,an apple,una mela,[food],an apple
+noun,mela,the apples,le mele,[food],the apples
+noun,banana,the banana,la banana,[food],the banana
+noun,banana,a banana,una banana,[food],a banana
+noun,banana,the bananas,le banane,[food],the bananas
+noun,arancia,the orange,l'arancia,[food],the orange
+noun,arancia,an orange,un'arancia,[food],an orange
+noun,arancia,the oranges,le arance,[food],the oranges
+noun,carota,the carrot,la carota,[food],the carrot
+noun,carota,a carrot,una carota,[food],a carrot
+noun,carota,the carrots,le carote,[food],the carrots
+noun,pomodoro,the tomato,il pomodoro,[food],the tomato
+noun,pomodoro,a tomato,un pomodoro,[food],a tomato
+noun,pomodoro,the tomatoes,i pomodori,[food],the tomatoes
+noun,insalata,the salad,l'insalata,[food],the salad
+noun,insalata,a salad,un'insalata,[food],a salad
+noun,insalata,the salads,le insalate,[food],the salads
+noun,zuppa,the soup,la zuppa,[food],the soup
+noun,zuppa,a soup,una zuppa,[food],a soup
+noun,bistecca,the steak,la bistecca,[food],the steak
+noun,bistecca,a steak,una bistecca,[food],a steak
+noun,bistecca,the steaks,le bistecche,[food],the steaks
+noun,pesce,fish,pesce,[food],fish
+noun,pesce,the fish,il pesce,[food],the fish
+noun,pollo,chicken,pollo,[food],chicken
+noun,pollo,the chicken,il pollo,[food],the chicken
+noun,riso,rice,riso,[food],rice
+noun,riso,the rice,il riso,[food],the rice
+noun,uovo,the egg,l'uovo,[food],the egg
+noun,uovo,an egg,un uovo,[food],an egg
+noun,uovo,the eggs,le uova,[food],the eggs
+noun,gelato,the ice cream,il gelato,[food],the ice cream
+noun,gelato,an ice cream,un gelato,[food],an ice cream
+noun,gelato,the ice creams,i gelati,[food],the ice creams
+noun,burro,the butter,il burro,[food],the butter
+noun,burro,butter,burro,[food],butter
+noun,olio,the olive oil,l'olio d'oliva,[food],the olive oil
+noun,olio,olive oil,olio d'oliva,[food],olive oil
+noun,casa,the house,la casa,[general],the house
+noun,casa,a house,una casa,[general],a house
+noun,casa,the houses,le case,[general],the houses
+noun,appartamento,the apartment,l'appartamento,[general],the apartment
+noun,appartamento,an apartment,un appartamento,[general],an apartment
+noun,appartamento,the apartments,gli appartamenti,[general],the apartments
+noun,stanza,the room,la stanza,[general],the room
+noun,stanza,a room,una stanza,[general],a room
+noun,stanza,the rooms,le stanze,[general],the rooms
+noun,letto,the bed,il letto,[general],the bed
+noun,letto,a bed,un letto,[general],a bed
+noun,letto,the beds,i letti,[general],the beds
+noun,tavolo,the table,il tavolo,[general],the table
+noun,tavolo,a table,un tavolo,[general],a table
+noun,tavolo,the tables,i tavoli,[general],the tables
+noun,sedia,the chair,la sedia,[general],the chair
+noun,sedia,a chair,una sedia,[general],a chair
+noun,sedia,the chairs,le sedie,[general],the chairs
+noun,porta,the door,la porta,[general],the door
+noun,porta,a door,una porta,[general],a door
+noun,porta,the doors,le porte,[general],the doors
+noun,finestra,the window,la finestra,[general],the window
+noun,finestra,a window,una finestra,[general],a window
+noun,finestra,the windows,le finestre,[general],the windows
+noun,chiave,the key,la chiave,[general],the key
+noun,chiave,a key,una chiave,[general],a key
+noun,chiave,the keys,le chiavi,[general],the keys
+noun,telefono,the phone,il telefono,[general],the phone
+noun,telefono,a phone,un telefono,[general],a phone
+noun,telefono,the phones,i telefoni,[general],the phones
+noun,computer,the computer,il computer,[general],the computer
+noun,computer,a computer,un computer,[general],a computer
+noun,computer,the computers,i computer,[general],the computers
+noun,libro,the book,il libro,[general],the book
+noun,libro,a book,un libro,[general],a book
+noun,libro,the books,i libri,[general],the books
+noun,penna,the pen,la penna,[general],the pen
+noun,penna,a pen,una penna,[general],a pen
+noun,penna,the pens,le penne,[general],the pens
+noun,foto,the photo,la foto,[general],the photo
+noun,foto,a photo,una foto,[general],a photo
+noun,foto,the photos,le foto,[general],the photos
+noun,mappa,the map,la mappa,[general],the map
+noun,mappa,a map,una mappa,[general],a map
+noun,mappa,the maps,le mappe,[general],the maps
+noun,denaro,the money,il denaro,[general],the money
+noun,denaro,money,denaro,[general],money
+noun,idea,the idea,l'idea,[general],the idea
+noun,idea,an idea,un'idea,[general],an idea
+noun,idea,the ideas,le idee,[general],the ideas
+noun,problema,the problem,il problema,[general],the problem
+noun,problema,a problem,un problema,[general],a problem
+noun,problema,the problems,i problemi,[general],the problems
+noun,cosa,the thing,la cosa,[general],the thing
+noun,cosa,a thing,una cosa,[general],a thing
+noun,cosa,the things,le cose,[general],the things
+noun,metallo,the metal,il metallo,[jewelry and metal working],the metal
+noun,metallo,a metal,un metallo,[jewelry and metal working],a metal
+noun,metallo,the metals,i metalli,[jewelry and metal working],the metals
+noun,argento,the silver,l'argento,[jewelry and metal working],the silver
+noun,argento,silver,argento,[jewelry and metal working],silver
+noun,oro,the gold,l'oro,[jewelry and metal working],the gold
+noun,oro,gold,oro,[jewelry and metal working],gold
+noun,rame,the copper,il rame,[jewelry and metal working],the copper
+noun,rame,copper,rame,[jewelry and metal working],copper
+noun,ottone,the brass,l'ottone,[jewelry and metal working],the brass
+noun,ottone,brass,ottone,[jewelry and metal working],brass
+noun,bronzo,the bronze,il bronzo,[jewelry and metal working],the bronze
+noun,bronzo,bronze,bronzo,[jewelry and metal working],bronze
+noun,gemma,the gem,la gemma,[jewelry and metal working],the gem
+noun,gemma,a gem,una gemma,[jewelry and metal working],a gem
+noun,gemma,the gems,le gemme,[jewelry and metal working],the gems
+noun,pietra,the stone,la pietra,[jewelry and metal working],the stone
+noun,pietra,a stone,una pietra,[jewelry and metal working],a stone
+noun,pietra,the stones,le pietre,[jewelry and metal working],the stones
+noun,diamante,the diamond,il diamante,[jewelry and metal working],the diamond
+noun,diamante,a diamond,un diamante,[jewelry and metal working],a diamond
+noun,diamante,the diamonds,i diamanti,[jewelry and metal working],the diamonds
+noun,anello,the ring,l'anello,[jewelry and metal working],the ring
+noun,anello,a ring,un anello,[jewelry and metal working],a ring
+noun,anello,the rings,gli anelli,[jewelry and metal working],the rings
+noun,collana,the necklace,la collana,[jewelry and metal working],the necklace
+noun,collana,a necklace,una collana,[jewelry and metal working],a necklace
+noun,collana,the necklaces,le collane,[jewelry and metal working],the necklaces
+noun,bracciale,the bracelet,il bracciale,[jewelry and metal working],the bracelet
+noun,bracciale,a bracelet,un bracciale,[jewelry and metal working],a bracelet
+noun,bracciale,the bracelets,i bracciali,[jewelry and metal working],the bracelets
+noun,torcia,the torch,la torcia,[jewelry and metal working],the torch
+noun,torcia,a torch,una torcia,[jewelry and metal working],a torch
+noun,torcia,the torches,le torce,[jewelry and metal working],the torches
+noun,fiamma,the flame,la fiamma,[jewelry and metal working],the flame
+noun,fiamma,a flame,una fiamma,[jewelry and metal working],a flame
+noun,fiamma,the flames,le fiamme,[jewelry and metal working],the flames
+noun,sega,the saw,la sega,[jewelry and metal working],the saw
+noun,sega,a saw,una sega,[jewelry and metal working],a saw
+noun,sega,the saws,le seghe,[jewelry and metal working],the saws
+noun,incudine,the anvil,l'incudine,[jewelry and metal working],the anvil
+noun,incudine,an anvil,un'incudine,[jewelry and metal working],an anvil
+noun,incudine,the anvils,le incudini,[jewelry and metal working],the anvils
+noun,martello,the hammer,il martello,[jewelry and metal working],the hammer
+noun,martello,a hammer,un martello,[jewelry and metal working],a hammer
+noun,martello,the hammers,i martelli,[jewelry and metal working],the hammers
+noun,lima,the file,la lima,[jewelry and metal working],the file
+noun,lima,a file,una lima,[jewelry and metal working],a file
+noun,lima,the files,le lime,[jewelry and metal working],the files
+noun,pinze,pliers,pinze,[jewelry and metal working],pliers
+noun,pinze,the pliers,le pinze,[jewelry and metal working],the pliers
+noun,flussante,the flux,il flussante,[jewelry and metal working],the flux
+noun,flussante,flux,flussante,[jewelry and metal working],flux
+noun,stagno,the solder,lo stagno,[jewelry and metal working],the solder
+noun,stagno,solder,stagno,[jewelry and metal working],solder
+noun,crogiolo,the crucible,il crogiolo,[jewelry and metal working],the crucible
+noun,crogiolo,a crucible,un crogiolo,[jewelry and metal working],a crucible
+noun,crogiolo,the crucibles,i crogioli,[jewelry and metal working],the crucibles
+noun,stampo,the mold,lo stampo,[jewelry and metal working],the mold
+noun,stampo,a mold,uno stampo,[jewelry and metal working],a mold
+noun,stampo,the molds,gli stampi,[jewelry and metal working],the molds
+noun,platino,the platinum,il platino,[jewelry and metal working],the platinum
+noun,platino,platinum,platino,[jewelry and metal working],platinum
+noun,palladio,the palladium,il palladio,[jewelry and metal working],the palladium
+noun,palladio,palladium,palladio,[jewelry and metal working],palladium
+noun,acciaio,the steel,l'acciaio,[jewelry and metal working],the steel
+noun,acciaio,steel,acciaio,[jewelry and metal working],steel
+noun,titanio,the titanium,il titanio,[jewelry and metal working],the titanium
+noun,titanio,titanium,titanio,[jewelry and metal working],titanium
+noun,niobio,the niobium,il niobio,[jewelry and metal working],the niobium
+noun,niobio,niobium,niobio,[jewelry and metal working],niobium
+noun,lastra,the sheet,la lastra,[jewelry and metal working],the sheet
+noun,lastra,a sheet,una lastra,[jewelry and metal working],a sheet
+noun,lastre,the sheets,le lastre,[jewelry and metal working],the sheets
+noun,filo,the wire,il filo,[jewelry and metal working],the wire
+noun,filo,a wire,un filo,[jewelry and metal working],a wire
+noun,filo,the wires,i fili,[jewelry and metal working],the wires
+noun,lingotto,the ingot,il lingotto,[jewelry and metal working],the ingot
+noun,lingotto,an ingot,un lingotto,[jewelry and metal working],an ingot
+noun,lingotto,the ingots,i lingotti,[jewelry and metal working],the ingots
+noun,granulato,the grain,il granulato,[jewelry and metal working],the grain
+noun,granulato,grain,granulato,[jewelry and metal working],grain
+noun,rubino,the ruby,il rubino,[jewelry and metal working],the ruby
+noun,rubino,a ruby,un rubino,[jewelry and metal working],a ruby
+noun,rubino,the rubies,i rubini,[jewelry and metal working],the rubies
+noun,zaffiro,the sapphire,lo zaffiro,[jewelry and metal working],the sapphire
+noun,zaffiro,a sapphire,uno zaffiro,[jewelry and metal working],a sapphire
+noun,zaffiro,the sapphires,gli zaffiri,[jewelry and metal working],the sapphires
+noun,smeraldo,the emerald,lo smeraldo,[jewelry and metal working],the emerald
+noun,smeraldo,an emerald,uno smeraldo,[jewelry and metal working],an emerald
+noun,smeraldo,the emeralds,gli smeraldi,[jewelry and metal working],the emeralds
+noun,opale,the opal,l'opale,[jewelry and metal working],the opal
+noun,opale,an opal,un opale,[jewelry and metal working],an opal
+noun,opale,the opals,gli opali,[jewelry and metal working],the opals
+noun,ametista,the amethyst,l'ametista,[jewelry and metal working],the amethyst
+noun,ametista,an amethyst,un'ametista,[jewelry and metal working],an amethyst
+noun,ametista,the amethysts,le ametiste,[jewelry and metal working],the amethysts
+noun,topazio,the topaz,il topazio,[jewelry and metal working],the topaz
+noun,topazio,a topaz,un topazio,[jewelry and metal working],a topaz
+noun,topazio,the topazes,i topazi,[jewelry and metal working],the topazes
+noun,quarzo,the quartz,il quarzo,[jewelry and metal working],the quartz
+noun,quarzo,quartz,quarzo,[jewelry and metal working],quartz
+noun,turchese,the turquoise,il turchese,[jewelry and metal working],the turquoise
+noun,turchese,a turquoise,un turchese,[jewelry and metal working],a turquoise
+noun,turchese,the turquoises,i turchesi,[jewelry and metal working],the turquoises
+noun,laminatoio,the rolling mill,il laminatoio,[jewelry and metal working],the rolling mill
+noun,laminatoio,a rolling mill,un laminatoio,[jewelry and metal working],a rolling mill
+noun,laminatoio,the rolling mills,i laminatoi,[jewelry and metal working],the rolling mills
+noun,trafila,the drawplate,la trafila,[jewelry and metal working],the drawplate
+noun,trafila,a drawplate,una trafila,[jewelry and metal working],a drawplate
+noun,trafila,the drawplates,le trafile,[jewelry and metal working],the drawplates
+noun,mandrino,the mandrel,il mandrino,[jewelry and metal working],the mandrel
+noun,mandrino,a mandrel,un mandrino,[jewelry and metal working],a mandrel
+noun,mandrino,the mandrels,i mandrini,[jewelry and metal working],the mandrels
+noun,fresa,the bur,la fresa,[jewelry and metal working],the bur
+noun,fresa,a bur,una fresa,[jewelry and metal working],a bur
+noun,fresa,the burs,le frese,[jewelry and metal working],the burs
+noun,ruota,the polishing wheel,la ruota di lucidatura,[jewelry and metal working],the polishing wheel
+noun,ruota,a polishing wheel,una ruota di lucidatura,[jewelry and metal working],a polishing wheel
+noun,ruota,the polishing wheels,le ruote di lucidatura,[jewelry and metal working],the polishing wheels
+noun,buratto,the tumbler,il buratto,[jewelry and metal working],the tumbler
+noun,buratto,a tumbler,un buratto,[jewelry and metal working],a tumbler
+noun,buratto,the tumblers,i buratti,[jewelry and metal working],the tumblers
+noun,lente,the loupe,la lente d'ingrandimento,[jewelry and metal working],the loupe
+noun,lente,a loupe,una lente d'ingrandimento,[jewelry and metal working],a loupe
+noun,calibro,the caliper,il calibro,[jewelry and metal working],the caliper
+noun,calibro,a caliper,un calibro,[jewelry and metal working],a caliper
+noun,tassello,the bench pin,il tassello da banco,[jewelry and metal working],the bench pin
+noun,decapante,the pickle,il decapante,[jewelry and metal working],the pickle
+noun,decapante,pickle,decapante,[jewelry and metal working],pickle
+noun,patina,the patina,la patina,[jewelry and metal working],the patina
+noun,patina,patina,patina,[jewelry and metal working],patina
+noun,chiusura,the clasp,la chiusura,[jewelry and metal working],the clasp
+noun,chiusura,a clasp,una chiusura,[jewelry and metal working],a clasp
+noun,chiusura,the clasps,le chiusure,[jewelry and metal working],the clasps
+noun,catena,the chain,la catena,[jewelry and metal working],the chain
+noun,catena,a chain,una catena,[jewelry and metal working],a chain
+noun,catena,the chains,le catene,[jewelry and metal working],the chains
+noun,anellino,the jump ring,l'anellino,[jewelry and metal working],the jump ring
+noun,anellino,a jump ring,un anellino,[jewelry and metal working],a jump ring
+noun,anellino,the jump rings,gli anellini,[jewelry and metal working],the jump rings
+noun,castone,the bezel,il castone,[jewelry and metal working],the bezel
+noun,castone,a bezel,un castone,[jewelry and metal working],a bezel
+noun,castone,the bezels,i castoni,[jewelry and metal working],the bezels
+noun,incastonatura,the setting,l'incastonatura,[jewelry and metal working],the setting
+noun,griffe,the prong,la griffe,[jewelry and metal working],the prong
+noun,uomo,the man,l'uomo,[people],the man
+noun,uomo,a man,un uomo,[people],a man
+noun,uomo,the men,gli uomini,[people],the men
+noun,donna,the woman,la donna,[people],the woman
+noun,donna,a woman,una donna,[people],a woman
+noun,donna,the women,le donne,[people],the women
+noun,bambino,the child,il bambino,[people],the child
+noun,bambino,a child,un bambino,[people],a child
+noun,bambino,the children,i bambini,[people],the children
+noun,ragazzo,the boy,il ragazzo,[people],the boy
+noun,ragazzo,a boy,un ragazzo,[people],a boy
+noun,ragazzo,the boys,i ragazzi,[people],the boys
+noun,ragazzo,the girl,la ragazza,[people],the girl
+noun,ragazzo,a girl,una ragazza,[people],a girl
+noun,ragazzo,the girls,le ragazze,[people],the girls
+noun,amico,the friend,l'amico,[people],the friend
+noun,amico,a friend,un amico,[people],a friend
+noun,amico,the friends,gli amici,[people],the friends
+noun,amico,the friend,l'amica,[people],the friend
+noun,amico,a friend,un'amica,[people],a friend
+noun,amico,the friends,le amiche,[people],the friends
+noun,turista,the tourist,il turista,[people],the tourist
+noun,turista,a tourist,un turista,[people],a tourist
+noun,turista,the tourists,i turisti,[people],the tourists
+noun,turista,the tourist,la turista,[people],the tourist
+noun,turista,a tourist,una turista,[people],a tourist
+noun,turista,the tourists,le turiste,[people],the tourists
+noun,dottore,the doctor,il dottore,[people],the doctor
+noun,dottore,a doctor,un dottore,[people],a doctor
+noun,dottore,the doctors,i dottori,[people],the doctors
+noun,dottore,the doctor,la dottoressa,[people],the doctor
+noun,dottore,a doctor,una dottoressa,[people],a doctor
+noun,dottore,the doctors,le dottoresse,[people],the doctors
+noun,cameriere,the waiter,il cameriere,[people],the waiter
+noun,cameriere,a waiter,un cameriere,[people],a waiter
+noun,cameriere,the waiters,i camerieri,[people],the waiters
+noun,cameriere,the waitress,la cameriera,[people],the waitress
+noun,cameriere,a waitress,una cameriera,[people],a waitress
+noun,cameriere,the waitresses,le cameriere,[people],the waitresses
+noun,studente,the student,lo studente,[people],the student
+noun,studente,a student,uno studente,[people],a student
+noun,studente,the students,gli studenti,[people],the students
+noun,studente,the student,la studentessa,[people],the student
+noun,studente,a student,una studentessa,[people],a student
+noun,studente,the students,le studentesse,[people],the students
+noun,poliziotto,the police officer,il poliziotto,[people],the police officer
+noun,poliziotto,a police officer,un poliziotto,[people],a police officer
+noun,poliziotto,the police officers,i poliziotti,[people],the police officers
+noun,infermiere,the nurse,l'infermiere,[people],the nurse
+noun,infermiere,a nurse,un infermiere,[people],a nurse
+noun,infermiere,the nurses,gli infermieri,[people],the nurses
+noun,cantante,the singer,il cantante,[people],the singer
+noun,cantante,a singer,un cantante,[people],a singer
+noun,cantante,the singers,i cantanti,[people],the singers
+noun,città,the city,la città,[places],the city
+noun,città,a city,una città,[places],a city
+noun,città,the cities,le città,[places],the cities
+noun,paese,the town,il paese,[places],the town
+noun,paese,a town,un paese,[places],a town
+noun,paese,the towns,i paesi,[places],the towns
+noun,parco,the park,il parco,[places],the park
+noun,parco,a park,un parco,[places],a park
+noun,parco,the parks,i parchi,[places],the parks
+noun,museo,the museum,il museo,[places],the museum
+noun,museo,a museum,un museo,[places],a museum
+noun,museo,the museums,i musei,[places],the museums
+noun,chiesa,the church,la chiesa,[places],the church
+noun,chiesa,a church,una chiesa,[places],a church
+noun,chiesa,the churches,le chiese,[places],the churches
+noun,stazione,the station,la stazione,[places],the station
+noun,stazione,a station,una stazione,[places],a station
+noun,stazione,the stations,le stazioni,[places],the stations
+noun,aeroporto,the airport,l'aeroporto,[places],the airport
+noun,aeroporto,an airport,un aeroporto,[places],an airport
+noun,aeroporto,the airports,gli aeroporti,[places],the airports
+noun,hotel,the hotel,l'hotel,[places],the hotel
+noun,hotel,a hotel,un hotel,[places],a hotel
+noun,hotel,the hotels,gli hotel,[places],the hotels
+noun,ristorante,the restaurant,il ristorante,[places],the restaurant
+noun,ristorante,a restaurant,un ristorante,[places],a restaurant
+noun,ristorante,the restaurants,i ristoranti,[places],the restaurants
+noun,supermercato,the supermarket,il supermercato,[places],the supermarket
+noun,supermercato,a supermarket,un supermercato,[places],a supermarket
+noun,supermercato,the supermarkets,i supermercati,[places],the supermarkets
+noun,farmacia,the pharmacy,la farmacia,[places],the pharmacy
+noun,farmacia,a pharmacy,una farmacia,[places],a pharmacy
+noun,farmacia,the pharmacies,le farmacie,[places],the pharmacies
+noun,ospedale,the hospital,l'ospedale,[places],the hospital
+noun,ospedale,a hospital,un ospedale,[places],a hospital
+noun,ospedale,the hospitals,gli ospedali,[places],the hospitals
+noun,scuola,the school,la scuola,[places],the school
+noun,scuola,a school,una scuola,[places],a school
+noun,scuola,the schools,le scuole,[places],the schools
+noun,università,the university,l'università,[places],the university
+noun,università,a university,un'università,[places],a university
+noun,università,the universities,le università,[places],the universities
+noun,spiaggia,the beach,la spiaggia,[places],the beach
+noun,spiaggia,a beach,una spiaggia,[places],a beach
+noun,spiagga,the beaches,le spiagge,[places],the beaches
+noun,menù,a menu,un menù,[restaurant],a menu
+noun,menù,the menu,il menù,[restaurant],the menu
+noun,menù,the menus,i menù,[restaurant],the menus
+noun,conto,a bill,un conto,[restaurant],a bill
+noun,conto,the bill,il conto,[restaurant],the bill
+noun,conto,the bills,i conti,[restaurant],the bills
+noun,prenotazione,a reservation,una prenotazione,[restaurant],a reservation
+noun,prenotazione,the reservation,la prenotazione,[restaurant],the reservation
+noun,prenotazione,the reservations,le prenotazioni,[restaurant],the reservations
+noun,bicchiere,a glass,un bicchiere,[restaurant],a glass
+noun,bicchiere,the glass,il bicchiere,[restaurant],the glass
+noun,bicchiere,the glasses,i bicchieri,[restaurant],the glasses
+noun,piatto,a plate,un piatto,[restaurant],a plate
+noun,piatto,the plate,il piatto,[restaurant],the plate
+noun,piatto,the plates,i piatti,[restaurant],the plates
+noun,forchetta,a fork,una forchetta,[restaurant],a fork
+noun,forchetta,the fork,la forchetta,[restaurant],the fork
+noun,forchetta,the forks,le forchette,[restaurant],the forks
+noun,coltello,a knife,un coltello,[restaurant],a knife
+noun,coltello,the knife,il coltello,[restaurant],the knife
+noun,coltello,the knives,i coltelli,[restaurant],the knives
+noun,cucchiaio,a spoon,un cucchiaio,[restaurant],a spoon
+noun,cucchiaio,the spoon,il cucchiaio,[restaurant],the spoon
+noun,cucchiaio,the spoons,i cucchiai,[restaurant],the spoons
+noun,tovagliolo,a napkin,un tovagliolo,[restaurant],a napkin
+noun,tovagliolo,the napkin,il tovagliolo,[restaurant],the napkin
+noun,tovagliolo,the napkins,i tovaglioli,[restaurant],the napkins
+noun,pane,a bread,un pane,[restaurant],a bread
+noun,pane,the breads,i pani,[restaurant],the breads
+noun,vino,a wine,un vino,[restaurant],a wine
+noun,vino,the wines,i vini,[restaurant],the wines
+noun,birra,the beers,le birre,[restaurant],the beers
+noun,acqua,a water,un'acqua,[restaurant],a water
+noun,acqua,the waters,le acque,[restaurant],the waters
+noun,dolce,a dessert,un dolce,[restaurant],a dessert
+noun,dolce,the dessert,il dolce,[restaurant],the dessert
+noun,dolce,the desserts,i dolci,[restaurant],the desserts
+noun,ricevuta,a receipt,una ricevuta,[restaurant],a receipt
+noun,ricevuta,the receipt,la ricevuta,[restaurant],the receipt
+noun,ricevuta,the receipts,le ricevute,[restaurant],the receipts
+noun,mancia,a tip,una mancia,[restaurant],a tip
+noun,mancia,the tip,la mancia,[restaurant],the tip
+noun,mancia,the tips,le mance,[restaurant],the tips
+noun,pasta,a pasta,una pasta,[restaurant],a pasta
+noun,pasta,the pastas,le paste,[restaurant],the pastas
+noun,giorno,the day,il giorno,[time],the day
+noun,giorno,a day,un giorno,[time],a day
+noun,giorno,the days,i giorni,[time],the days
+noun,settimana,the week,la settimana,[time],the week
+noun,settimana,a week,una settimana,[time],a week
+noun,settimana,the weeks,le settimane,[time],the weeks
+noun,mese,the month,il mese,[time],the month
+noun,mese,a month,un mese,[time],a month
+noun,mese,the months,i mesi,[time],the months
+noun,anno,the year,l'anno,[time],the year
+noun,anno,a year,un anno,[time],a year
+noun,anno,the years,gli anni,[time],the years
+noun,mattina,the morning,la mattina,[time],the morning
+noun,mattina,a morning,una mattina,[time],a morning
+noun,mattina,the mornings,le mattine,[time],the mornings
+noun,pomeriggio,the afternoon,il pomeriggio,[time],the afternoon
+noun,pomeriggio,an afternoon,un pomeriggio,[time],an afternoon
+noun,pomeriggo,the afternoons,i pomeriggi,[time],the afternoons
+noun,sera,the evening,la sera,[time],the evening
+noun,sera,an evening,una sera,[time],an evening
+noun,sera,the evenings,le sere,[time],the evenings
+noun,notte,the night,la notte,[time],the night
+noun,notte,a night,una notte,[time],a night
+noun,notte,the nights,le notti,[time],the nights
+noun,fine settimana,the weekend,il fine settimana,[time],the weekend
+noun,fine settimana,a weekend,un fine settimana,[time],a weekend
+noun,fine settimana,the weekends,i fine settimana,[time],the weekends
+noun,ora,the hour,l'ora,[time],the hour
+noun,ora,an hour,un'ora,[time],an hour
+noun,ora,the hours,le ore,[time],the hours
+noun,minuto,the minute,il minuto,[time],the minute
+noun,minuto,a minute,un minuto,[time],a minute
+noun,minuto,the minutes,i minuti,[time],the minutes
+noun,secondo,the second,il secondo,[time],the second
+noun,secondo,a second,un secondo,[time],a second
+noun,secondo,the seconds,i secondi,[time],the seconds
+noun,oggi,today,oggi,[time],today
+noun,domani,tomorrow,domani,[time],tomorrow
+noun,ieri,yesterday,ieri,[time],yesterday
+noun,festa,the holiday,la festa,[time],the holiday
+noun,festa,a holiday,una festa,[time],a holiday
+noun,feste,the holidays,le feste,[time],the holidays
+noun,stagione,the season,la stagione,[time],the season
+noun,stagione,a season,una stagione,[time],a season
+noun,stagioni,the seasons,le stagioni,[time],the seasons
+noun,primavera,the spring,la primavera,[time],the spring
+noun,primavera,a spring,una primavera,[time],a spring
+noun,primavere,the springs,le primavere,[time],the springs
+noun,estate,the summer,l'estate,[time],the summer
+noun,estate,a summer,un'estate,[time],a summer
+noun,estati,the summers,le estati,[time],the summers
+noun,autunno,the autumn,l'autunno,[time],the autumn
+noun,autunno,an autumn,un autunno,[time],an autumn
+noun,autunno,the autumns,gli autunni,[time],the autumns
+noun,inverno,the winter,l'inverno,[time],the winter
+noun,inverno,a winter,un inverno,[time],a winter
+noun,inverno,the winters,gli inverni,[time],the winters
+noun,biglietto,the ticket,il biglietto,[travel],the ticket
+noun,biglietto,a ticket,un biglietto,[travel],a ticket
+noun,biglietto,the tickets,i biglietti,[travel],the tickets
+noun,passaporto,the passport,il passaporto,[travel],the passport
+noun,passaporto,a passport,un passaporto,[travel],a passport
+noun,passaporto,the passports,i passaporti,[travel],the passports
+noun,visto,the visa,il visto,[travel],the visa
+noun,visto,a visa,un visto,[travel],a visa
+noun,visto,the visas,i visti,[travel],the visas
+noun,viaggio,the trip,il viaggio,[travel],the trip
+noun,viaggio,a trip,un viaggio,[travel],a trip
+noun,viaggi,the trips,i viaggi,[travel],the trips
+noun,vacanza,the vacation,la vacanza,[travel],the vacation
+noun,vacanza,a vacation,una vacanza,[travel],a vacation
+noun,vacanze,the vacations,le vacanze,[travel],the vacations
+noun,guida,the guidebook,la guida,[travel],the guidebook
+noun,guida,a guidebook,una guida,[travel],a guidebook
+noun,guide,the guidebooks,le guide,[travel],the guidebooks
+noun,tour,the tour,il tour,[travel],the tour
+noun,tour,a tour,un tour,[travel],a tour
+noun,tour,the tours,i tour,[travel],the tours
+noun,autobus,the bus,l'autobus,[travel],the bus
+noun,autobus,a bus,un autobus,[travel],a bus
+noun,autobus,the buses,gli autobus,[travel],the buses
+noun,treno,the train,il treno,[travel],the train
+noun,treno,a train,un treno,[travel],a train
+noun,treno,the trains,i treni,[travel],the trains
+noun,aircraft,the plane,l'aereo,[travel],the plane
+noun,aircraft,a plane,un aereo,[travel],a plane
+noun,aircraft,the planes,gli aerei,[travel],the planes
+noun,auto,the car,l'auto,[travel],the car
+noun,auto,a car,un'auto,[travel],a car
+noun,auto,the cars,le auto,[travel],the cars
+noun,taxi,the taxi,il taxi,[travel],the taxi
+noun,taxi,a taxi,un taxi,[travel],a taxi
+noun,taxi,the taxis,i taxi,[travel],the taxis
+noun,valigia,the suitcase,la valigia,[travel],the suitcase
+noun,valigia,a suitcase,una valigia,[travel],a suitcase
+noun,valigie,the suitcases,le valigie,[travel],the suitcases
+noun,zaino,the backpack,lo zaino,[travel],the backpack
+noun,zaino,a backpack,uno zaino,[travel],a backpack
+noun,zaino,the backpacks,gli zaini,[travel],the backpacks
+noun,posto,the seat,il posto,[travel],the seat
+noun,posto,a seat,un posto,[travel],a seat
+noun,posto,the seats,i posti,[travel],the seats
+noun,gate,the gate,il gate,[travel],the gate
+noun,gate,a gate,un gate,[travel],a gate
+noun,gate,the gates,i gate,[travel],the gates
+noun,carta,the boarding pass,la carta d'imbarco,[travel],the boarding pass
+noun,carta,a boarding pass,una carta d'imbarco,[travel],a boarding pass
+noun,carte,the boarding passes,le carte d'imbarco,[travel],the boarding passes
+noun,bagaglio,the luggage,il bagaglio,[travel],the luggage
+noun,bagaglio,luggage,bagaglio,[travel],luggage
+noun,sole,the sun,il sole,[weather],the sun
+noun,sole,sun,sole,[weather],sun
+noun,luna,the moon,la luna,[weather],the moon
+noun,luna,moon,luna,[weather],moon
+noun,cielo,the sky,il cielo,[weather],the sky
+noun,cielo,sky,cielo,[weather],sky
+noun,nuvola,the cloud,la nuvola,[weather],the cloud
+noun,nuvola,a cloud,una nuvola,[weather],a cloud
+noun,nuvole,the clouds,le nuvole,[weather],the clouds
+noun,pioggia,the rain,la pioggia,[weather],the rain
+noun,pioggia,rain,pioggia,[weather],rain
+noun,neve,the snow,la neve,[weather],the snow
+noun,neve,snow,neve,[weather],snow
+noun,vento,the wind,il vento,[weather],the wind
+noun,vento,wind,vento,[weather],wind
+noun,tempesta,the storm,la tempesta,[weather],the storm
+noun,tempesta,a storm,una tempesta,[weather],a storm
+noun,tempeste,the storms,le tempeste,[weather],the storms
+noun,tuono,the thunder,il tuono,[weather],the thunder
+noun,tuono,thunder,tuono,[weather],thunder
+noun,fulmine,the lightning,il fulmine,[weather],the lightning
+noun,fulmine,lightning,fulmine,[weather],lightning
+noun,nebbia,the fog,la nebbia,[weather],the fog
+noun,nebbia,fog,nebbia,[weather],fog
+noun,foschia,the mist,la foschia,[weather],the mist
+noun,foschia,mist,foschia,[weather],mist
+noun,pioggerella,the drizzle,la pioggerella,[weather],the drizzle
+noun,pioggerella,drizzle,pioggerella,[weather],drizzle
+noun,grandine,the hail,la grandine,[weather],the hail
+noun,grandine,hail,grandine,[weather],hail
+noun,brezza,the breeze,la brezza,[weather],the breeze
+noun,brezza,a breeze,una brezza,[weather],a breeze
+noun,brezze,the breezes,le brezze,[weather],the breezes
+noun,arcobaleno,the rainbow,l'arcobaleno,[weather],the rainbow
+noun,arcobaleno,a rainbow,un arcobaleno,[weather],a rainbow
+noun,arcobaleno,the rainbows,gli arcobaleni,[weather],the rainbows
+noun,ghiaccio,the ice,il ghiaccio,[weather],the ice
+noun,ghiaccio,ice,ghiaccio,[weather],ice
+noun,caldo,the heat,il caldo,[weather],the heat
+noun,caldo,heat,caldo,[weather],heat
+noun,freddo,the cold,il freddo,[weather],the cold
+noun,umidità,the humidity,l'umidità,[weather],the humidity
+noun,umidità,humidity,umidità,[weather],humidity
+noun,temperatura,the temperature,la temperatura,[weather],the temperature
+noun,temperature,the temperatures,le temperature,[weather],the temperatures
+noun,tempo,the weather,il tempo,[weather],the weather
+noun,tempo,weather,tempo,[weather],weather
+noun,clima,the climate,il clima,[weather],the climate
+noun,clima,climate,clima,[weather],climate
+pronoun,questo,this,questo,[demonstrative],this
+pronoun,questo,this,questa,[demonstrative],this
+pronoun,questo,these,questi,[demonstrative],these
+pronoun,questo,these,queste,[demonstrative],these
+pronoun,quello,that,quello,[demonstrative],that
+pronoun,quello,that,quella,[demonstrative],that
+pronoun,quello,those,quelli,[demonstrative],those
+pronoun,quello,those,quelle,[demonstrative],those
+pronoun,qualcuno,someone,qualcuno,[indefinite],someone
+pronoun,qualcosa,something,qualcosa,[indefinite],something
+pronoun,nessuno,nobody,nessuno,[indefinite],nobody
+pronoun,niente,nothing,niente,[indefinite],nothing
+pronoun,chi,who,chi,[interrogative],who
+pronoun,che,what,che cosa,[interrogative],what
+pronoun,quale,which,quale,[interrogative],which
+pronoun,quale,which,quali,[interrogative],which
+pronoun,mi,me,mi,[object],me
+pronoun,ti,you,ti,[object],you
+pronoun,lo,him,lo,[object],him
+pronoun,la,her,la,[object],her
+pronoun,ci,us,ci,[object],us
+pronoun,vi,you,vi,[object],you
+pronoun,li,them,li,[object],them
+pronoun,li,them,le,[object],them
+pronoun,gli,to him,gli,[object],to him
+pronoun,mio,mine,il mio,[possessive],mine
+pronoun,mio,mine,la mia,[possessive],mine
+pronoun,mio,mine,i miei,[possessive],mine
+pronoun,mio,mine,le mie,[possessive],mine
+pronoun,tuo,yours,il tuo,[possessive],yours
+pronoun,tuo,yours,la tua,[possessive],yours
+pronoun,tuoi,yours,i tuoi,[possessive],yours
+pronoun,tuo,yours,le tue,[possessive],yours
+pronoun,suo,his/hers,il suo,[possessive],his/hers
+pronoun,suo,his/hers,la sua,[possessive],his/hers
+pronoun,suo,his/hers,i suoi,[possessive],his/hers
+pronoun,suo,his/hers,le sue,[possessive],his/hers
+pronoun,nostro,ours,il nostro,[possessive],ours
+pronoun,nostro,ours,la nostra,[possessive],ours
+pronoun,nostro,ours,i nostri,[possessive],ours
+pronoun,nostro,ours,le nostre,[possessive],ours
+pronoun,vostro,yours,il vostro,[possessive],yours
+pronoun,vostro,yours,la vostra,[possessive],yours
+pronoun,vostro,yours,i vostri,[possessive],yours
+pronoun,vostro,yours,le vostre,[possessive],yours
+pronoun,loro,theirs,il loro,[possessive],theirs
+pronoun,loro,theirs,la loro,[possessive],theirs
+pronoun,loro,theirs,i loro,[possessive],theirs
+pronoun,loro,theirs,le loro,[possessive],theirs
+pronoun,me,myself,mi,[reflexive],myself
+pronoun,ti,yourself,ti,[reflexive],yourself
+pronoun,sé,himself/herself/itself,si,[reflexive],himself/herself/itself
+pronoun,sé,yourself,si,[reflexive],yourself
+pronoun,ci,ourselves,ci,[reflexive],ourselves
+pronoun,vi,yourselves,vi,[reflexive],yourselves
+pronoun,si,themselves,si,[reflexive],themselves
+pronoun,iare,I,io,[subject],I
+pronoun,tu,you,tu,[subject],you
+pronoun,lui,he,lui,[subject],he
+pronoun,lei,she,lei,[subject],she
+pronoun,noi,we,noi,[subject],we
+pronoun,voi,you,voi,[subject],you
+pronoun,loro,they,loro,[subject],they
+verb,girare,to turn,girare,[directions],to turn
+verb,girare,I turn,giro,[directions],I turn
+verb,girare,you turn,girate,[directions],you turn
+verb,girare,you (plural) turn,girate,[directions],you (plural) turn
+verb,girare,she turns,gira,[directions],she turns
+verb,girare,he turns,gira,[directions],he turns
+verb,girare,we turn,giriamo,[directions],we turn
+verb,girare,they turn,girano,[directions],they turn
+verb,girare,I turned,ho girato,[directions],I turned
+verb,girare,you turned,hai girato,[directions],you turned
+verb,girare,she turned,ha girato,[directions],she turned
+verb,girare,he turned,ha girato,[directions],he turned
+verb,girare,we turned,abbiamo girato,[directions],we turned
+verb,girare,they turned,sono girati,[directions],they turned
+verb,girare,you (plural) turned,vi siete girati,[directions],you (plural) turned
+verb,girare,turning,girando,[directions],turning
+verb,andare,to go,andare,[directions],to go
+verb,andare,I go,vado,[directions],I go
+verb,andare,you go,vai,[directions],you go
+verb,andare,you (plural) go,andate,[directions],you (plural) go
+verb,andare,she goes,va,[directions],she goes
+verb,andare,he goes,va,[directions],he goes
+verb,andare,we go,noi andiamo,[directions],we go
+verb,andare,they go,vanno,[directions],they go
+verb,andare,I went,sono andato,[directions],I went
+verb,andare,you went,sei andato,[directions],you went
+verb,andare,she went,è andata,[directions],she went
+verb,andare,he went,è andato,[directions],he went
+verb,andare,we went,siamo andati,[directions],we went
+verb,andare,they went,sono andati,[directions],they went
+verb,andare,you (plural) went,vi siete andati,[directions],you (plural) went
+verb,andare,going,andando,[directions],going
+verb,continuare,to continue,continuare,[directions],to continue
+verb,continuare,I continue,continuo,[directions],I continue
+verb,continuare,you continue,continui,[directions],you continue
+verb,continuare,you (plural) continue,continuate,[directions],you (plural) continue
+verb,continuare,she continues,continua,[directions],she continues
+verb,continuare,he continues,continua,[directions],he continues
+verb,continuare,we continue,continuiamo,[directions],we continue
+verb,continuare,they continue,continuano,[directions],they continue
+verb,oh,I continued,ho continuato,[directions],I continued
+verb,continuare,you continued,hai continuato,[directions],you continued
+verb,continuare,she continued,ha continuato,[directions],she continued
+verb,continuare,he continued,ha continuato,[directions],he continued
+verb,continuare,we continued,abbiamo continuato,[directions],we continued
+verb,continuare,they continued,hanno continuato,[directions],they continued
+verb,continuare,you (plural) continued,vi siete continuati,[directions],you (plural) continued
+verb,continuando,continuing,continuando,[directions],continuing
+verb,attraversare,to cross,attraversare,[directions],to cross
+verb,attraversare,I cross,attraverso,[directions],I cross
+verb,attraversare,you cross,attraversi,[directions],you cross
+verb,attraversare,you (plural) cross,attraversate,[directions],you (plural) cross
+verb,attraversare,she crosses,attraversa,[directions],she crosses
+verb,attraversare,he crosses,attraversa,[directions],he crosses
+verb,attraversare,we cross,attraversiamo,[directions],we cross
+verb,attraversare,they cross,attraversano,[directions],they cross
+verb,oh,I crossed,ho attraversato,[directions],I crossed
+verb,attraversare,you crossed,hai attraversato,[directions],you crossed
+verb,attraversare,she crossed,ha attraversato,[directions],she crossed
+verb,attraversare,he crossed,ha attraversato,[directions],he crossed
+verb,attraversare,we crossed,abbiamo attraversato,[directions],we crossed
+verb,attraversare,they crossed,hanno attraversato,[directions],they crossed
+verb,attraversare,you (plural) crossed,vi siete attraversati,[directions],you (plural) crossed
+verb,attraversando,crossing,attraversando,[directions],crossing
+verb,fermarsi,to stop,fermarsi,[directions],to stop
+verb,fermarsi,I stop,mi fermo,[directions],I stop
+verb,fermarsi,you stop,ti fermi,[directions],you stop
+verb,fermarsi,you (plural) stop,vi fermate,[directions],you (plural) stop
+verb,fermarsi,she stops,si ferma,[directions],she stops
+verb,fermarsi,he stops,si ferma,[directions],he stops
+verb,fermarsi,we stop,ci fermiamo,[directions],we stop
+verb,fermarsi,they stop,si fermano,[directions],they stop
+verb,fermarsi,I stopped,mi sono fermato,[directions],I stopped
+verb,fermarsi,you stopped,ti sei fermato,[directions],you stopped
+verb,fermarsi,she stopped,si è fermata,[directions],she stopped
+verb,fermarsi,he stopped,si è fermato,[directions],he stopped
+verb,fermarsi,we stopped,ci siamo fermati,[directions],we stopped
+verb,fermarsi,they stopped,si sono fermati,[directions],they stopped
+verb,fermarsi,you (plural) stopped,vi siete fermati,[directions],you (plural) stopped
+verb,fermarsi,stopping,fermandomi,[directions],stopping
+verb,seguire,to follow,seguire,[directions],to follow
+verb,seguare,I follow,seguo,[directions],I follow
+verb,seguire,you follow,segui,[directions],you follow
+verb,seguire,you (plural) follow,seguite,[directions],you (plural) follow
+verb,seguire,she follows,segue,[directions],she follows
+verb,seguire,he follows,segue,[directions],he follows
+verb,seguire,we follow,seguiamo,[directions],we follow
+verb,seguire,they follow,seguono,[directions],they follow
+verb,oh,I followed,ho seguito,[directions],I followed
+verb,seguire,you followed,hai seguito,[directions],you followed
+verb,seguire,she followed,ha seguito,[directions],she followed
+verb,seguire,he followed,ha seguito,[directions],he followed
+verb,seguire,we followed,abbiamo seguito,[directions],we followed
+verb,seguire,they followed,hanno seguito,[directions],they followed
+verb,seguire,you (plural) followed,vi siete seguiti,[directions],you (plural) followed
+verb,seguendo,following,seguendo,[directions],following
+verb,oltrepassare,to pass,oltrepassare,[directions],to pass
+verb,oltrepassare,I pass,oltrepasso,[directions],I pass
+verb,oltrepassare,you pass,oltrepassi,[directions],you pass
+verb,oltrepassare,she passes,oltrepassa,[directions],she passes
+verb,oltrepassare,he passes,oltrepassa,[directions],he passes
+verb,oltrepassare,you (plural) pass,oltrepassate,[directions],you (plural) pass
+verb,oltrepassare,we pass,oltrepassiamo,[directions],we pass
+verb,oltrepassare,they pass,oltrepassano,[directions],they pass
+verb,oh,I passed,ho oltrepassato,[directions],I passed
+verb,oltrepassare,you passed,hai oltrepassato,[directions],you passed
+verb,oltrepassare,she passed,ha oltrepassato,[directions],she passed
+verb,oltrepassare,he passed,ha oltrepassato,[directions],he passed
+verb,oltrepassare,we followed,abbiamo oltrepassato,[directions],we followed
+verb,oltrepassare,they passed,hanno oltrepassato,[directions],they passed
+verb,oltrepassare,you (plural) passed,vi siete oltrepassati,[directions],you (plural) passed
+verb,oltrepassando,passing,oltrepassando,[directions],passing
+verb,entrare,to enter,entrare,[directions],to enter
+verb,entrare,I enter,entro,[directions],I enter
+verb,entrare,you enter,entri,[directions],you enter
+verb,entrare,she enters,entra,[directions],she enters
+verb,entrare,he enters,entra,[directions],he enters
+verb,entrare,you (plural) enter,entrate,[directions],you (plural) enter
+verb,entrare,we enter,entriamo,[directions],we enter
+verb,entrare,they enter,entrano,[directions],they enter
+verb,soh-nare,I entered,sono entrato,[directions],I entered
+verb,entrare,you entered,seI entrato,[directions],you entered
+verb,entrare,she entered,è entrata,[directions],she entered
+verb,entrare,he entered,è entrato,[directions],he entered
+verb,entrare,we entered,siamo entrati,[directions],we entered
+verb,entrare,they entered,sono entrati,[directions],they entered
+verb,entrare,you (plural) entered,vi siete entrati,[directions],you (plural) entered
+verb,entrando,entering,entrando,[directions],entering
+verb,uscire,to exit,uscire,[directions],to exit
+verb,escare,I exit,esco,[directions],I exit
+verb,uscire,you exit,esci,[directions],you exit
+verb,uscire,she exits,esce,[directions],she exits
+verb,uscire,he exits,esce,[directions],he exits
+verb,uscire,you (plural) exit,uscite,[directions],you (plural) exit
+verb,uscire,we exit,usciamo,[directions],we exit
+verb,uscire,they exit,escono,[directions],they exit
+verb,soh-nare,I exited,sono uscito,[directions],I exited
+verb,uscire,you exited,sei uscito,[directions],you exited
+verb,uscire,she exited,è uscita,[directions],she exited
+verb,uscire,he exited,è uscito,[directions],he exited
+verb,uscire,we exited,siamo usciti,[directions],we exited
+verb,uscire,they exited,sono usciti,[directions],they exited
+verb,uscire,you (plural) exited,vi siete usciti,[directions],you (plural) exited
+verb,uscendo,exiting,uscendo,[directions],exiting
+verb,cercare,to look for,cercare,[directions],to look for
+verb,cercare,I look for,cerco,[directions],I look for
+verb,cercare,you look for,cerca,[directions],you look for
+verb,cercare,she looks for,cerca,[directions],she looks for
+verb,cercare,he looks for,cerca,[directions],he looks for
+verb,cercare,you (plural) look for,cercate,[directions],you (plural) look for
+verb,cercare,we look for,cercamos,[directions],we look for
+verb,cercare,they look for,cercano,[directions],they look for
+verb,oh,I looked for,ho cercato,[directions],I looked for
+verb,cercare,you looked for,hai cercato,[directions],you looked for
+verb,cercare,she looked for,ha cercato,[directions],she looked for
+verb,cercare,he looked for,ha cercato,[directions],he looked for
+verb,cercare,we looked for,abbiamo cercato,[directions],we looked for
+verb,cercare,they looked for,hanno cercato,[directions],they looked for
+verb,cercare,you (plural) looked for,vi siete cercati,[directions],you (plural) looked for
+verb,cercando,looking for,cercando,[directions],looking for
+verb,amare,to love,amare,[emotions],to love
+verb,amare,I love,amo,[emotions],I love
+verb,amare,you love,ami,[emotions],you love
+verb,amare,you (plural) love,amate,[emotions],you (plural) love
+verb,amare,he loves,ama,[emotions],he loves
+verb,amare,she loves,ama,[emotions],she loves
+verb,amare,we love,amiamo,[emotions],we love
+verb,amare,they love,amano,[emotions],they love
+verb,amare,I loved,ho amato,[emotions],I loved
+verb,amare,you loved,hai amato,[emotions],you loved
+verb,amare,you (plural) loved,avete amato,[emotions],you (plural) loved
+verb,amare,he loved,ha amato,[emotions],he loved
+verb,amare,she loved,ha amato,[emotions],she loved
+verb,amare,we loved,abbiamo amato,[emotions],we loved
+verb,amare,they loved,hanno amato,[emotions],they loved
+verb,amare,loving,amando,[emotions],loving
+verb,apprezzare,to like/appreciate,apprezzare,[emotions],to like/appreciate
+verb,apprezzare,I like/appreciate,apprezzo,[emotions],I like/appreciate
+verb,apprezzare,you like/appreciate,apprezzi,[emotions],you like/appreciate
+verb,apprezzare,you (plural) like/appreciate,apprezzate,[emotions],you (plural) like/appreciate
+verb,apprezzare,he likes/appreciates,apprezza,[emotions],he likes/appreciates
+verb,apprezzare,she likes/appreciates,apprezza,[emotions],she likes/appreciates
+verb,apprezzare,we like/appreciate,apprezziamo,[emotions],we like/appreciate
+verb,apprezzare,they like/appreciate,apprezzano,[emotions],they like/appreciate
+verb,apprezzare,I liked/appreciated,ho apprezzato,[emotions],I liked/appreciated
+verb,apprezzare,you liked/appreciated,hai apprezzato,[emotions],you liked/appreciated
+verb,apprezzare,you (plural) liked/appreciated,avete apprezzato,[emotions],you (plural) liked/appreciated
+verb,apprezzare,he liked/appreciated,ha apprezzato,[emotions],he liked/appreciated
+verb,apprezzare,she liked/appreciated,ha apprezzato,[emotions],she liked/appreciated
+verb,apprezzare,we liked/appreciated,abbiamo apprezzato,[emotions],we liked/appreciated
+verb,apprezzare,they liked/appreciated,hanno apprezzato,[emotions],they liked/appreciated
+verb,apprezzare,appreciating,apprezzando,[emotions],appreciating
+verb,sentire,to feel,sentire,[emotions],to feel
+verb,sentire,I feel,sento,[emotions],I feel
+verb,sentire,you feel,senti,[emotions],you feel
+verb,sentire,you (plural) feel,sentite,[emotions],you (plural) feel
+verb,sentire,he feels,sente,[emotions],he feels
+verb,sentire,she feels,sente,[emotions],she feels
+verb,sentire,we feel,sentiamo,[emotions],we feel
+verb,sentire,they feel,sentono,[emotions],they feel
+verb,sentire,I felt,ho sentito,[emotions],I felt
+verb,sentire,you felt,hai sentito,[emotions],you felt
+verb,sentire,you (plural) felt,avete sentito,[emotions],you (plural) felt
+verb,sentire,he felt,ha sentito,[emotions],he felt
+verb,sentire,she felt,ha sentito,[emotions],she felt
+verb,sentire,we felt,abbiamo sentito,[emotions],we felt
+verb,sentire,they felt,hanno sentito,[emotions],they felt
+verb,sentire,feeling,sentendo,[emotions],feeling
+verb,sperare,to hope,sperare,[emotions],to hope
+verb,sperare,I hope,spero,[emotions],I hope
+verb,sperare,you hope,speri,[emotions],you hope
+verb,sperare,you (plural) hope,sperate,[emotions],you (plural) hope
+verb,sperare,he hopes,spera,[emotions],he hopes
+verb,sperare,she hopes,spera,[emotions],she hopes
+verb,sperare,we hope,speriamo,[emotions],we hope
+verb,sperare,they hope,sperano,[emotions],they hope
+verb,sperare,I hoped,ho sperato,[emotions],I hoped
+verb,sperare,you hoped,hai sperato,[emotions],you hoped
+verb,sperare,you (plural) hoped,avete sperato,[emotions],you (plural) hoped
+verb,sperare,he hoped,ha sperato,[emotions],he hoped
+verb,sperare,she hoped,ha sperato,[emotions],she hoped
+verb,sperare,we hoped,abbiamo sperato,[emotions],we hoped
+verb,sperare,they hoped,hanno sperato,[emotions],they hoped
+verb,sperare,hoping,sperando,[emotions],hoping
+verb,temere,to fear,temere,[emotions],to fear
+verb,temere,I fear,temo,[emotions],I fear
+verb,temere,you fear,temi,[emotions],you fear
+verb,temere,you (plural) fear,temete,[emotions],you (plural) fear
+verb,temere,he fears,teme,[emotions],he fears
+verb,temere,she fears,teme,[emotions],she fears
+verb,temere,we fear,temiamo,[emotions],we fear
+verb,temere,they fear,temono,[emotions],they fear
+verb,temere,I feared,ho temuto,[emotions],I feared
+verb,temere,you feared,hai temuto,[emotions],you feared
+verb,temere,you (plural) feared,avete temuto,[emotions],you (plural) feared
+verb,temere,he feared,ha temuto,[emotions],he feared
+verb,temere,she feared,ha temuto,[emotions],she feared
+verb,temere,we feared,abbiamo temuto,[emotions],we feared
+verb,temere,they feared,hanno temuto,[emotions],they feared
+verb,temere,fearing,temendo,[emotions],fearing
+verb,preoccuparsi,to worry,preoccuparsi,[emotions],to worry
+verb,preoccuparsi,I worry,mi preoccupo,[emotions],I worry
+verb,preoccuparsi,you worry,ti preoccupi,[emotions],you worry
+verb,preoccuparsi,you (plural) worry,vi preoccupate,[emotions],you (plural) worry
+verb,preoccuparsi,he worries,si preoccupa,[emotions],he worries
+verb,preoccuparsi,she worries,si preoccupa,[emotions],she worries
+verb,preoccuparsi,we worry,ci preoccupiamo,[emotions],we worry
+verb,preoccuparsi,they worry,si preoccupano,[emotions],they worry
+verb,preoccupare,I worried,mi sono preoccupato,[emotions],I worried
+verb,preoccupare,you worried,ti sei preoccupato,[emotions],you worried
+verb,preoccupare,you (plural) worried,vi siete preoccupati,[emotions],you (plural) worried
+verb,preoccupare,he worried,si è preoccupato,[emotions],he worried
+verb,preoccupare,she worried,si è preoccupata,[emotions],she worried
+verb,preoccupare,we worried,ci siamo preoccupati,[emotions],we worried
+verb,preoccupare,they worried,si sono preoccupati,[emotions],they worried
+verb,preoccupandomare,worrying,preoccupandomi,[emotions],worrying
+verb,rilassarsi,to relax,rilassarsi,[emotions],to relax
+verb,rilassarsi,I relax,mi rilasso,[emotions],I relax
+verb,rilassarsi,you relax,ti rilassi,[emotions],you relax
+verb,rilassarsi,you (plural) relax,vi rilassate,[emotions],you (plural) relax
+verb,rilassarsi,he relaxes,si rilassa,[emotions],he relaxes
+verb,rilassarsi,she relaxes,si rilassa,[emotions],she relaxes
+verb,rilassarsi,we relax,ci rilassiamo,[emotions],we relax
+verb,rilassarsi,they relax,si rilassano,[emotions],they relax
+verb,rilassare,I relaxed,mi sono rilassato,[emotions],I relaxed
+verb,rilassare,you relaxed,ti sei rilassato,[emotions],you relaxed
+verb,rilassare,you (plural) relaxed,vi siete rilassati,[emotions],you (plural) relaxed
+verb,rilassare,he relaxed,si è rilassato,[emotions],he relaxed
+verb,rilassare,she relaxed,si è rilassata,[emotions],she relaxed
+verb,rilassare,we relaxed,ci siamo rilassati,[emotions],we relaxed
+verb,rilassare,they relaxed,si sono rilassati,[emotions],they relaxed
+verb,rilassandomare,relaxing,rilassandomi,[emotions],relaxing
+verb,sorridere,to smile,sorridere,[emotions],to smile
+verb,sorridere,I smile,sorrido,[emotions],I smile
+verb,sorridere,you smile,sorri,[emotions],you smile
+verb,sorridere,you (plural) smile,sorridete,[emotions],you (plural) smile
+verb,sorridere,he smiles,sorride,[emotions],he smiles
+verb,sorridere,she smiles,sorride,[emotions],she smiles
+verb,sorridere,we smile,sorride,[emotions],we smile
+verb,sorridere,they smile,sorridono,[emotions],they smile
+verb,sorrisare,I smiled,ho sorriso,[emotions],I smiled
+verb,sorrisare,you smiled,hai sorriso,[emotions],you smiled
+verb,sorrisare,you (plural) smiled,avete sorriso,[emotions],you (plural) smiled
+verb,sorrisare,he smiled,ha sorriso,[emotions],he smiled
+verb,sorrisare,she smiled,ha sorriso,[emotions],she smiled
+verb,sorrisare,we smiled,abbiamo sorriso,[emotions],we smiled
+verb,sorrisare,they smiled,hanno sorriso,[emotions],they smiled
+verb,sorridere,smiling,sorridendo,[emotions],smiling
+verb,piangere,to cry,piangere,[emotions],to cry
+verb,piangere,I cry,piango,[emotions],I cry
+verb,piangere,you cry,piangi,[emotions],you cry
+verb,piangere,you (plural) cry,piangete,[emotions],you (plural) cry
+verb,piangere,he cries,piange,[emotions],he cries
+verb,piangere,she cries,piange,[emotions],she cries
+verb,piangere,we cry,piangiamo,[emotions],we cry
+verb,piangere,they cry,piangono,[emotions],they cry
+verb,piantare,I cried,ho pianto,[emotions],I cried
+verb,piantare,you cried,hai pianto,[emotions],you cried
+verb,piantare,you (plural) cried,avete pianto,[emotions],you (plural) cried
+verb,piantare,he cried,ha pianto,[emotions],he cried
+verb,piantare,she cried,ha pianto,[emotions],she cried
+verb,piantare,we cried,abbiamo pianto,[emotions],we cried
+verb,piantare,they cried,hanno pianto,[emotions],they cried
+verb,piangere,crying,piangendo,[emotions],crying
+verb,divertirsi,to enjoy oneself,divertirsi,[emotions],to enjoy oneself
+verb,divertare,I enjoy myself,mi diverto,[emotions],I enjoy myself
+verb,divertare,you enjoy yourself,ti diverti,[emotions],you enjoy yourself
+verb,divertare,you (plural) enjoy yourself,vi divertite,[emotions],you (plural) enjoy yourself
+verb,divertare,he enjoys himself,si diverte,[emotions],he enjoys himself
+verb,divertare,she enjoys herself,si diverte,[emotions],she enjoys herself
+verb,divertare,we enjoy ourselves,ci divertiamo,[emotions],we enjoy ourselves
+verb,divertare,they enjoy themselves,si divertono,[emotions],they enjoy themselves
+verb,divertire,I enjoyed myself,mi sono divertito,[emotions],I enjoyed myself
+verb,divertire,you enjoyed yourself,ti sei divertito,[emotions],you enjoyed yourself
+verb,divertire,you (plural) enjoyed yourself,vi siete divertiti,[emotions],you (plural) enjoyed yourself
+verb,divertire,he enjoyed himself,si è divertito,[emotions],he enjoyed himself
+verb,divertire,she enjoyed herself,si è divertita,[emotions],she enjoyed herself
+verb,divertire,we enjoyed ourselves,ci siamo divertiti,[emotions],we enjoyed ourselves
+verb,divertire,they enjoyed themselves,si sono divertiti,[emotions],they enjoyed themselves
+verb,divertendomare,enjoying oneself,divertendomi,[emotions],enjoying oneself
+verb,saldare,to solder,saldare,[jewelry and metal working],to solder
+verb,saldare,I solder,saldo,[jewelry and metal working],I solder
+verb,saldare,you solder,saldi,[jewelry and metal working],you solder
+verb,saldare,she solders,salda,[jewelry and metal working],she solders
+verb,saldare,he solders,salda,[jewelry and metal working],he solders
+verb,saldare,we solder,saldiamo,[jewelry and metal working],we solder
+verb,saldare,they solder,saldano,[jewelry and metal working],they solder
+verb,saldare,you (plural) solder,saldete,[jewelry and metal working],you (plural) solder
+verb,saldare,I soldered,ho saldato,[jewelry and metal working],I soldered
+verb,saldare,you soldered,hai saldato,[jewelry and metal working],you soldered
+verb,saldare,she soldered,ha saldato,[jewelry and metal working],she soldered
+verb,saldare,he soldered,ha saldato,[jewelry and metal working],he soldered
+verb,saldare,we soldered,abbiamo saldato,[jewelry and metal working],we soldered
+verb,saldare,they soldered,hanno saldato,[jewelry and metal working],they soldered
+verb,saldare,you (plural) soldered,avete saldato,[jewelry and metal working],you (plural) soldered
+verb,saldare,soldering,saldando,[jewelry and metal working],soldering
+verb,fondere,to melt,fondere,[jewelry and metal working],to melt
+verb,fondare,I melt,fondo,[jewelry and metal working],I melt
+verb,fondere,you melt,fondi,[jewelry and metal working],you melt
+verb,fondere,she melts,fonde,[jewelry and metal working],she melts
+verb,fondere,he melts,fonde,[jewelry and metal working],he melts
+verb,fondere,we melt,fondiamo,[jewelry and metal working],we melt
+verb,fondere,they melt,fondono,[jewelry and metal working],they melt
+verb,fondere,you (plural) melt,fondete,[jewelry and metal working],you (plural) melt
+verb,fondere,I melted,ho fuso,[jewelry and metal working],I melted
+verb,fondere,you melted,hai fuso,[jewelry and metal working],you melted
+verb,fondere,she melted,ha fuso,[jewelry and metal working],she melted
+verb,fondere,he melted,ha fuso,[jewelry and metal working],he melted
+verb,fondere,we melted,abbiamo fuso,[jewelry and metal working],we melted
+verb,fondere,they melted,hanno fuso,[jewelry and metal working],they melted
+verb,fondere,you (plural) melted,avete fuso,[jewelry and metal working],you (plural) melted
+verb,fondere,melting,fon­dendo,[jewelry and metal working],melting
+verb,colare,to cast,colare,[jewelry and metal working],to cast
+verb,colare,I cast,colo,[jewelry and metal working],I cast
+verb,colare,you cast,colii,[jewelry and metal working],you cast
+verb,colare,she casts,cola,[jewelry and metal working],she casts
+verb,colare,he casts,cola,[jewelry and metal working],he casts
+verb,colare,we cast,coliamo,[jewelry and metal working],we cast
+verb,colare,they cast,colano,[jewelry and metal working],they cast
+verb,colare,you (plural) cast,colate,[jewelry and metal working],you (plural) cast
+verb,colare,I casted,ho colato,[jewelry and metal working],I casted
+verb,colare,you casted,hai colato,[jewelry and metal working],you casted
+verb,colare,she casted,ha colato,[jewelry and metal working],she casted
+verb,colare,he casted,ha colato,[jewelry and metal working],he casted
+verb,colare,we casted,abbiamo colato,[jewelry and metal working],we casted
+verb,colare,they casted,hanno colato,[jewelry and metal working],they casted
+verb,colare,you (plural) casted,avete colato,[jewelry and metal working],you (plural) casted
+verb,colare,casting,colando,[jewelry and metal working],casting
+verb,lucidare,to polish,lucidare,[jewelry and metal working],to polish
+verb,lucidare,I polish,lucido,[jewelry and metal working],I polish
+verb,lucidare,you polish,lucidi,[jewelry and metal working],you polish
+verb,lucidare,she polishes,lucida,[jewelry and metal working],she polishes
+verb,lucidare,he polishes,lucida,[jewelry and metal working],he polishes
+verb,lucidare,we polish,lucidiamo,[jewelry and metal working],we polish
+verb,lucidare,they polish,lucidano,[jewelry and metal working],they polish
+verb,lucidare,you (plural) polish,lucidate,[jewelry and metal working],you (plural) polish
+verb,lucidare,I polished,ho lucidato,[jewelry and metal working],I polished
+verb,lucidare,you polished,hai lucidato,[jewelry and metal working],you polished
+verb,lucidare,she polished,ha lucidato,[jewelry and metal working],she polished
+verb,lucidare,he polished,ha lucidato,[jewelry and metal working],he polished
+verb,lucidare,we polished,abbiamo lucidato,[jewelry and metal working],we polished
+verb,lucidare,they polished,hanno lucidato,[jewelry and metal working],they polished
+verb,lucidare,you (plural) polished,avete lucidato,[jewelry and metal working],you (plural) polished
+verb,lucidare,polishing,lucidando,[jewelry and metal working],polishing
+verb,martellare,to hammer,martellare,[jewelry and metal working],to hammer
+verb,martellare,I hammer,martello,[jewelry and metal working],I hammer
+verb,martellare,you hammer,martelli,[jewelry and metal working],you hammer
+verb,martellare,she hammers,martella,[jewelry and metal working],she hammers
+verb,martellare,he hammers,martella,[jewelry and metal working],he hammers
+verb,martellare,we hammer,martelliamo,[jewelry and metal working],we hammer
+verb,martellare,they hammer,martellano,[jewelry and metal working],they hammer
+verb,martellare,you (plural) hammer,martellate,[jewelry and metal working],you (plural) hammer
+verb,martellare,I hammered,ho martellato,[jewelry and metal working],I hammered
+verb,martellare,you hammered,hai martellato,[jewelry and metal working],you hammered
+verb,martellare,she hammered,ha martellato,[jewelry and metal working],she hammered
+verb,martellare,he hammered,ha martellato,[jewelry and metal working],he hammered
+verb,martellare,we hammered,abbiamo martellato,[jewelry and metal working],we hammered
+verb,martellare,they hammered,hanno martellato,[jewelry and metal working],they hammered
+verb,martellare,you (plural) hammered,avete martellato,[jewelry and metal working],you (plural) hammered
+verb,martellare,hammering,martellando,[jewelry and metal working],hammering
+verb,segare,to saw,segare,[jewelry and metal working],to saw
+verb,segare,I saw,sego,[jewelry and metal working],I saw
+verb,segare,you saw,seghi,[jewelry and metal working],you saw
+verb,segare,she saws,sega,[jewelry and metal working],she saws
+verb,segare,he saws,sega,[jewelry and metal working],he saws
+verb,segare,we saw,seghiamo,[jewelry and metal working],we saw
+verb,segare,they saw,seghano,[jewelry and metal working],they saw
+verb,segare,you (plural) saw,seghiate,[jewelry and metal working],you (plural) saw
+verb,segare,I sawed,ho segato,[jewelry and metal working],I sawed
+verb,segare,you sawed,hai segato,[jewelry and metal working],you sawed
+verb,segare,she sawed,ha segato,[jewelry and metal working],she sawed
+verb,segare,he sawed,ha segato,[jewelry and metal working],he sawed
+verb,segare,we sawed,abbiamo segato,[jewelry and metal working],we sawed
+verb,segare,they sawed,hanno segato,[jewelry and metal working],they sawed
+verb,segare,you (plural) sawed,avete segato,[jewelry and metal working],you (plural) sawed
+verb,segare,sawing,segando,[jewelry and metal working],sawing
+verb,limare,to file,limare,[jewelry and metal working],to file
+verb,limare,I file,limo,[jewelry and metal working],I file
+verb,limare,you file,limi,[jewelry and metal working],you file
+verb,limare,she files,limia,[jewelry and metal working],she files
+verb,limare,he files,limia,[jewelry and metal working],he files
+verb,limare,we file,limiamo,[jewelry and metal working],we file
+verb,limare,they file,limiano,[jewelry and metal working],they file
+verb,limare,you (plural) file,limiate,[jewelry and metal working],you (plural) file
+verb,limare,I filed,ho limato,[jewelry and metal working],I filed
+verb,limare,you filed,hai limato,[jewelry and metal working],you filed
+verb,limare,she filed,ha limato,[jewelry and metal working],she filed
+verb,limare,he filed,ha limato,[jewelry and metal working],he filed
+verb,limare,we filed,abbiamo limato,[jewelry and metal working],we filed
+verb,limare,they filed,hanno limato,[jewelry and metal working],they filed
+verb,limare,you (plural) filed,avete limato,[jewelry and metal working],you (plural) filed
+verb,limare,filing,limando,[jewelry and metal working],filing
+verb,forare,to drill,forare,[jewelry and metal working],to drill
+verb,forare,I drill,foro,[jewelry and metal working],I drill
+verb,forare,you drill,fori,[jewelry and metal working],you drill
+verb,forare,she drills,fora,[jewelry and metal working],she drills
+verb,forare,he drills,fora,[jewelry and metal working],he drills
+verb,forare,we drill,foriamo,[jewelry and metal working],we drill
+verb,forare,they drill,forano,[jewelry and metal working],they drill
+verb,forare,you (plural) drill,forate,[jewelry and metal working],you (plural) drill
+verb,forare,I drilled,ho forato,[jewelry and metal working],I drilled
+verb,forare,you drilled,hai forato,[jewelry and metal working],you drilled
+verb,forare,she drilled,ha forato,[jewelry and metal working],she drilled
+verb,forare,he drilled,ha forato,[jewelry and metal working],he drilled
+verb,forare,we drilled,abbiamo forato,[jewelry and metal working],we drilled
+verb,forare,they drilled,hanno forato,[jewelry and metal working],they drilled
+verb,forare,you (plural) drilled,avete forato,[jewelry and metal working],you (plural) drilled
+verb,forare,drilling,forando,[jewelry and metal working],drilling
+verb,incidere,to engrave,incidere,[jewelry and metal working],to engrave
+verb,incidare,I engrave,incido,[jewelry and metal working],I engrave
+verb,incidere,you engrave,incidi,[jewelry and metal working],you engrave
+verb,incidere,she engraves,incide,[jewelry and metal working],she engraves
+verb,incidere,he engraves,incide,[jewelry and metal working],he engraves
+verb,incidere,we engrave,incidiamo,[jewelry and metal working],we engrave
+verb,incidere,they engrave,incidono,[jewelry and metal working],they engrave
+verb,incidere,you (plural) engrave,incidete,[jewelry and metal working],you (plural) engrave
+verb,incidere,I engraved,ho inciso,[jewelry and metal working],I engraved
+verb,incidere,you engraved,hai inciso,[jewelry and metal working],you engraved
+verb,incidere,she engraved,ha inciso,[jewelry and metal working],she engraved
+verb,incidere,he engraved,ha inciso,[jewelry and metal working],he engraved
+verb,incidere,we engraved,abbiamo inciso,[jewelry and metal working],we engraved
+verb,incidere,they engraved,hanno inciso,[jewelry and metal working],they engraved
+verb,incidere,you (plural) engraved,avete inciso,[jewelry and metal working],you (plural) engraved
+verb,incidere,engraving,incidendo,[jewelry and metal working],engraving
+verb,incastonare,to set,incastonare,[jewelry and metal working],to set
+verb,incastonare,I set,incastono,[jewelry and metal working],I set
+verb,incastonare,you set,incastoni,[jewelry and metal working],you set
+verb,incastonare,she sets,incastona,[jewelry and metal working],she sets
+verb,incastonare,he sets,incastona,[jewelry and metal working],he sets
+verb,incastonare,we set,incastoniamo,[jewelry and metal working],we set
+verb,incastonare,they set,incastonano,[jewelry and metal working],they set
+verb,incastonare,you (plural) set,incastonate,[jewelry and metal working],you (plural) set
+verb,incastonare,I set (past),ho incastonato,[jewelry and metal working],I set (past)
+verb,incastonare,you set (past),hai incastonato,[jewelry and metal working],you set (past)
+verb,incastonare,she set (past),ha incastonato,[jewelry and metal working],she set (past)
+verb,incastonare,he set (past),ha incastonato,[jewelry and metal working],he set (past)
+verb,incastonare,we set (past),abbiamo incastonato,[jewelry and metal working],we set (past)
+verb,incastonare,they set (past),hanno incastonato,[jewelry and metal working],they set (past)
+verb,incastonare,you (plural) set (past),avete incastonato,[jewelry and metal working],you (plural) set (past)
+verb,incastonare,setting,incastonando,[jewelry and metal working],setting
+verb,ricuocere,to anneal,ricuocere,[jewelry and metal working],to anneal
+verb,ricuociare,I anneal,ricuocio,[jewelry and metal working],I anneal
+verb,ricuociare,you anneal,ricuoci,[jewelry and metal working],you anneal
+verb,ricuociare,she anneals,ricuoce,[jewelry and metal working],she anneals
+verb,ricuociare,he anneals,ricuoce,[jewelry and metal working],he anneals
+verb,ricuociare,we anneal,ricuociamo,[jewelry and metal working],we anneal
+verb,ricuociare,they anneal,ricuociono,[jewelry and metal working],they anneal
+verb,ricuociare,you (plural) anneal,ricuocete,[jewelry and metal working],you (plural) anneal
+verb,ricuociare,I annealed,ho ricotto,[jewelry and metal working],I annealed
+verb,ricuociare,you annealed,hai ricotto,[jewelry and metal working],you annealed
+verb,ricuociare,she annealed,ha ricotto,[jewelry and metal working],she annealed
+verb,ricuociare,he annealed,ha ricotto,[jewelry and metal working],he annealed
+verb,ricuociare,we annealed,abbiamo ricotto,[jewelry and metal working],we annealed
+verb,ricuociare,they annealed,hanno ricotto,[jewelry and metal working],they annealed
+verb,ricuociare,you (plural) annealed,avete ricotto,[jewelry and metal working],you (plural) annealed
+verb,ricuociare,annealing,ricuocendo,[jewelry and metal working],annealing
+verb,levigare,to sand,levigare,[jewelry and metal working],to sand
+verb,levigare,I sand,levigo,[jewelry and metal working],I sand
+verb,levigare,you sand,levighi,[jewelry and metal working],you sand
+verb,levigare,she sands,leviga,[jewelry and metal working],she sands
+verb,levigare,he sands,leviga,[jewelry and metal working],he sands
+verb,levigare,we sand,levighiamo,[jewelry and metal working],we sand
+verb,levigare,they sand,levigano,[jewelry and metal working],they sand
+verb,levigare,you (plural) sand,levigate,[jewelry and metal working],you (plural) sand
+verb,levigare,I sanded,ho levigato,[jewelry and metal working],I sanded
+verb,levigare,you sanded,hai levigato,[jewelry and metal working],you sanded
+verb,levigare,she sanded,ha levigato,[jewelry and metal working],she sanded
+verb,levigare,he sanded,ha levigato,[jewelry and metal working],he sanded
+verb,levigare,we sanded,abbiamo levigato,[jewelry and metal working],we sanded
+verb,levigare,they sanded,hanno levigato,[jewelry and metal working],they sanded
+verb,levigare,you (plural) sanded,avete levigato,[jewelry and metal working],you (plural) sanded
+verb,levigare,sanding,levigando,[jewelry and metal working],sanding
+verb,ossidare,to oxidize,ossidare,[jewelry and metal working],to oxidize
+verb,ossidare,I oxidize,ossido,[jewelry and metal working],I oxidize
+verb,ossidare,you oxidize,ossidi,[jewelry and metal working],you oxidize
+verb,ossidare,she oxidizes,ossida,[jewelry and metal working],she oxidizes
+verb,ossidare,he oxidizes,ossida,[jewelry and metal working],he oxidizes
+verb,ossidare,we oxidize,ossidiamo,[jewelry and metal working],we oxidize
+verb,ossidare,they oxidize,ossidano,[jewelry and metal working],they oxidize
+verb,ossidare,you (plural) oxidize,ossidate,[jewelry and metal working],you (plural) oxidize
+verb,ossidare,I oxidized,ho ossidato,[jewelry and metal working],I oxidized
+verb,ossidare,you oxidized,hai ossidato,[jewelry and metal working],you oxidized
+verb,ossidare,she oxidized,ha ossidato,[jewelry and metal working],she oxidized
+verb,ossidare,he oxidized,ha ossidato,[jewelry and metal working],he oxidized
+verb,ossidare,we oxidized,abbiamo ossidato,[jewelry and metal working],we oxidized
+verb,ossidare,they oxidized,hanno ossidato,[jewelry and metal working],they oxidized
+verb,ossidare,you (plural) oxidized,avete ossidato,[jewelry and metal working],you (plural) oxidized
+verb,ossidare,oxidizing,ossidando,[jewelry and metal working],oxidizing
+verb,laminare,to roll,laminare,[jewelry and metal working],to roll
+verb,laminare,I roll,lamino,[jewelry and metal working],I roll
+verb,laminare,you roll,lamini,[jewelry and metal working],you roll
+verb,laminare,she rolls,lamina,[jewelry and metal working],she rolls
+verb,laminare,he rolls,lamina,[jewelry and metal working],he rolls
+verb,laminare,we roll,laminiamo,[jewelry and metal working],we roll
+verb,laminare,they roll,laminano,[jewelry and metal working],they roll
+verb,laminare,you (plural) roll,laminate,[jewelry and metal working],you (plural) roll
+verb,laminare,I rolled,ho laminato,[jewelry and metal working],I rolled
+verb,laminare,you rolled,hai laminato,[jewelry and metal working],you rolled
+verb,laminare,she rolled,ha laminato,[jewelry and metal working],she rolled
+verb,laminare,he rolled,ha laminato,[jewelry and metal working],he rolled
+verb,laminare,we rolled,abbiamo laminato,[jewelry and metal working],we rolled
+verb,laminare,they rolled,hanno laminato,[jewelry and metal working],they rolled
+verb,laminare,you (plural) rolled,avete laminato,[jewelry and metal working],you (plural) rolled
+verb,laminare,rolling,laminando,[jewelry and metal working],rolling
+verb,trafilare,to draw,trafilare,[jewelry and metal working],to draw
+verb,trafilare,I draw,trafilo,[jewelry and metal working],I draw
+verb,trafilare,you draw,trafilini,[jewelry and metal working],you draw
+verb,trafilare,she draws,trafilina,[jewelry and metal working],she draws
+verb,trafilare,he draws,trafilina,[jewelry and metal working],he draws
+verb,trafilare,we draw,trafiliniamo,[jewelry and metal working],we draw
+verb,trafilare,they draw,trafilano,[jewelry and metal working],they draw
+verb,trafilare,you (plural) draw,trafilate,[jewelry and metal working],you (plural) draw
+verb,trafilare,I drew (wire),ho trafilato,[jewelry and metal working],I drew (wire)
+verb,trafilare,you drew (wire),hai trafilato,[jewelry and metal working],you drew (wire)
+verb,trafilare,she drew (wire),ha trafilato,[jewelry and metal working],she drew (wire)
+verb,trafilare,he drew (wire),ha trafilato,[jewelry and metal working],he drew (wire)
+verb,trafilare,we drew (wire),abbiamo trafilato,[jewelry and metal working],we drew (wire)
+verb,trafilare,they drew (wire),hanno trafilato,[jewelry and metal working],they drew (wire)
+verb,trafilare,you (plural) drew (wire),avete trafilato,[jewelry and metal working],you (plural) drew (wire)
+verb,trafilare,drawing (wire),trafilando,[jewelry and metal working],drawing (wire)
+verb,misurare,to measure,misurare,[jewelry and metal working],to measure
+verb,misurare,I measure,misuro,[jewelry and metal working],I measure
+verb,misurare,you measure,misuri,[jewelry and metal working],you measure
+verb,misurare,she measures,misura,[jewelry and metal working],she measures
+verb,misurare,he measures,misura,[jewelry and metal working],he measures
+verb,misurare,we measure,misuriamo,[jewelry and metal working],we measure
+verb,misurare,they measure,misurano,[jewelry and metal working],they measure
+verb,misurare,you (plural) measure,misurate,[jewelry and metal working],you (plural) measure
+verb,misurare,I measured,ho misurato,[jewelry and metal working],I measured
+verb,misurare,you measured,hai misurato,[jewelry and metal working],you measured
+verb,misurare,she measured,ha misurato,[jewelry and metal working],she measured
+verb,misurare,he measured,ha misurato,[jewelry and metal working],he measured
+verb,misurare,we measured,abbiamo misurato,[jewelry and metal working],we measured
+verb,misurare,they measured,hanno misurato,[jewelry and metal working],they measured
+verb,misurare,you (plural) measured,avete misurato,[jewelry and metal working],you (plural) measured
+verb,misurare,measuring,misurando,[jewelry and metal working],measuring
+verb,spazzolare,to buff,spazzolare,[jewelry and metal working],to buff
+verb,spazzolare,I buff,spazzolo,[jewelry and metal working],I buff
+verb,spazzolare,you buff,spazzoli,[jewelry and metal working],you buff
+verb,spazzolare,she buffs,spazzola,[jewelry and metal working],she buffs
+verb,spazzolare,he buffs,spazzola,[jewelry and metal working],he buffs
+verb,spazzolare,we buff,spazzoliamo,[jewelry and metal working],we buff
+verb,spazzolare,they buff,spazzolano,[jewelry and metal working],they buff
+verb,spazzolare,you (plural) buff,spazzolate,[jewelry and metal working],you (plural) buff
+verb,spazzolare,I buffed,ho spazzolato,[jewelry and metal working],I buffed
+verb,spazzolare,you buffed,hai spazzolato,[jewelry and metal working],you buffed
+verb,spazzolare,she buffed,ha spazzolato,[jewelry and metal working],she buffed
+verb,spazzolare,he buffed,ha spazzolato,[jewelry and metal working],he buffed
+verb,spazzolare,we buffed,abbiamo spazzolato,[jewelry and metal working],we buffed
+verb,spazzolare,they buffed,hanno spazzolato,[jewelry and metal working],they buffed
+verb,spazzolare,you (plural) buffed,avete spazzolato,[jewelry and metal working],you (plural) buffed
+verb,spazzolare,buffing,spazzolando,[jewelry and metal working],buffing
+verb,decapare,to pickle,decapare,[jewelry and metal working],to pickle
+verb,decapare,I pickle,decapo,[jewelry and metal working],I pickle
+verb,decapare,you pickle,decapi,[jewelry and metal working],you pickle
+verb,decapare,she pickles,decapa,[jewelry and metal working],she pickles
+verb,decapare,he pickles,decapa,[jewelry and metal working],he pickles
+verb,decapare,we pickle,decapiamo,[jewelry and metal working],we pickle
+verb,decapare,they pickle,decapano,[jewelry and metal working],they pickle
+verb,decapare,you (plural) pickle,decapate,[jewelry and metal working],you (plural) pickle
+verb,decapare,I pickled,ho decapato,[jewelry and metal working],I pickled
+verb,decapare,you pickled,hai decapato,[jewelry and metal working],you pickled
+verb,decapare,she pickled,ha decapato,[jewelry and metal working],she pickled
+verb,decapare,he pickled,ha decapato,[jewelry and metal working],he pickled
+verb,decapare,we pickled,abbiamo decapato,[jewelry and metal working],we pickled
+verb,decapare,they pickled,hanno decapato,[jewelry and metal working],they pickled
+verb,decapare,you (plural) pickled,avete decapato,[jewelry and metal working],you (plural) pickled
+verb,decapare,pickling,decapando,[jewelry and metal working],pickling
+verb,temprare,to quench,temprare,[jewelry and metal working],to quench
+verb,temprare,I quench,tempro,[jewelry and metal working],I quench
+verb,temprare,you quench,tempri,[jewelry and metal working],you quench
+verb,temprare,she quenches,tempra,[jewelry and metal working],she quenches
+verb,temprare,he quenches,tempra,[jewelry and metal working],he quenches
+verb,temprare,we quench,tempriamo,[jewelry and metal working],we quench
+verb,temprare,they quench,temprano,[jewelry and metal working],they quench
+verb,temprare,you (plural) quench,temprate,[jewelry and metal working],you (plural) quench
+verb,temprare,I quenched,ho temprato,[jewelry and metal working],I quenched
+verb,temprare,you quenched,hai temprato,[jewelry and metal working],you quenched
+verb,temprare,she quenched,ha temprato,[jewelry and metal working],she quenched
+verb,temprare,he quenched,ha temprato,[jewelry and metal working],he quenched
+verb,temprare,we quenched,abbiamo temprato,[jewelry and metal working],we quenched
+verb,temprare,they quenched,hanno temprato,[jewelry and metal working],they quenched
+verb,temprare,you (plural) quenched,avete temprato,[jewelry and metal working],you (plural) quenched
+verb,temprare,quenching,temprando,[jewelry and metal working],quenching
+verb,piegare,to bend,piegare,[jewelry and metal working],to bend
+verb,piegare,I bend,piego,[jewelry and metal working],I bend
+verb,piegare,you bend,pieghi,[jewelry and metal working],you bend
+verb,piegare,she bends,piega,[jewelry and metal working],she bends
+verb,piegare,he bends,piega,[jewelry and metal working],he bends
+verb,piegare,we bend,pieghiamo,[jewelry and metal working],we bend
+verb,piegare,they bend,piegano,[jewelry and metal working],they bend
+verb,piegare,you (plural) bend,piegate,[jewelry and metal working],you (plural) bend
+verb,piegare,I bent,ho piegato,[jewelry and metal working],I bent
+verb,piegare,you bent,hai piegato,[jewelry and metal working],you bent
+verb,piegare,she bent,ha piegato,[jewelry and metal working],she bent
+verb,piegare ,he bent,ha piegato,[jewelry and metal working],he bent
+verb,piegare,we bent,abbiamo piegato,[jewelry and metal working],we bent
+verb,piegare,they bent,hanno piegato,[jewelry and metal working],they bent
+verb,piegare,you (plural) bent,avete piegato,[jewelry and metal working],you (plural) bent
+verb,piegare,bending,piegando,[jewelry and metal working],bending
+verb,comprare,to buy,comprare,[shopping],to buy
+verb,comprare,I buy,compro,[shopping],I buy
+verb,comprare,you buy,compri,[shopping],you buy
+verb,comprare,she buys,compra,[shopping],she buys
+verb,comprare,he buys,compra,[shopping],he buys
+verb,comprare,we buy,compriamo,[shopping],we buy
+verb,comprare,they buy,comprano,[shopping],they buy
+verb,comprare,you (plural) buy,comprate,[shopping],you (plural) buy
+verb,comprare,I bought,ho comprato,[shopping],I bought
+verb,comprare,you bought,hai comprato,[shopping],you bought
+verb,comprare,she bought,ha comprato,[shopping],she bought
+verb,comprare,he bought,ha comprato,[shopping],he bought
+verb,comprare,we bought,abbiamo comprato,[shopping],we bought
+verb,comprare,they bought,hanno comprato,[shopping],they bought
+verb,comprare,you (plural) bought,avete comprato,[shopping],you (plural) bought
+verb,comprare,buying,comprando,[shopping],buying
+verb,pagare,to pay,pagare,[shopping],to pay
+verb,pagare,I pay,pago,[shopping],I pay
+verb,pagare,you pay,paghi,[shopping],you pay
+verb,pagare,she pays,paga,[shopping],she pays
+verb,pagare,he pays,paga,[shopping],he pays
+verb,pagare,we pay,paghiamo,[shopping],we pay
+verb,pagare,they pay,pagano,[shopping],they pay
+verb,pagare,you (plural) pay,pagate,[shopping],you (plural) pay
+verb,pagare,I paid,ho pagato,[shopping],I paid
+verb,pagare,you paid,hai pagato,[shopping],you paid
+verb,pagare,she paid,ha pagato,[shopping],she paid
+verb,pagare,he paid,ha pagato,[shopping],he paid
+verb,pagare,we paid,abbiamo pagato,[shopping],we paid
+verb,pagare,they paid,hanno pagato,[shopping],they paid
+verb,pagare,you (plural) paid,avete pagato,[shopping],you (plural) paid
+verb,pagare,paying,pagando,[shopping],paying
+verb,provare,to try on,provare,[shopping],to try on
+verb,provare,I try on,provo,[shopping],I try on
+verb,provare,you try on,provi,[shopping],you try on
+verb,provare,she tries on,prova,[shopping],she tries on
+verb,provare,he tries on,prova,[shopping],he tries on
+verb,provare,we try on,proviamo,[shopping],we try on
+verb,provare,they try on,provano,[shopping],they try on
+verb,provare,you (plural) try on,provate,[shopping],you (plural) try on
+verb,provare,I tried on,ho provato,[shopping],I tried on
+verb,provare,you tried on,hai provato,[shopping],you tried on
+verb,provare,she tried on,ha provato,[shopping],she tried on
+verb,provare,he tried on,ha provato,[shopping],he tried on
+verb,provare,we tried on,abbiamo provato,[shopping],we tried on
+verb,provare,they tried on,hanno provato,[shopping],they tried on
+verb,provare,you (plural) tried on,avete provato,[shopping],you (plural) tried on
+verb,provare,trying on,provando,[shopping],trying on
+verb,costare,to cost,costare,[shopping],to cost
+verb,costare,costing,costando,[shopping],costing
+verb,scegliere,to choose,scegliere,[shopping],to choose
+verb,scegliere,I choose,scelgo,[shopping],I choose
+verb,scegliere,you choose,scegli,[shopping],you choose
+verb,scegliere,she chooses,sceglie,[shopping],she chooses
+verb,scegliere,he chooses,sceglie,[shopping],he chooses
+verb,scegliere,we choose,scegliamo,[shopping],we choose
+verb,scegliere,they choose,scegono,[shopping],they choose
+verb,scegliere,you (plural) choose,scegliete,[shopping],you (plural) choose
+verb,sceltare,I chose,ho scelto,[shopping],I chose
+verb,sceltare,you chose,hai scelto,[shopping],you chose
+verb,sceltare,she chose,ha scelto,[shopping],she chose
+verb,sceltare,he chose,ha scelto,[shopping],he chose
+verb,sceltare,we chose,abbiamo scelto,[shopping],we chose
+verb,sceltare,they chose,hanno scelto,[shopping],they chose
+verb,sceltare,you (plural) chose,avete scelto,[shopping],you (plural) chose
+verb,scegliere,choosing,scegliendo,[shopping],choosing
+verb,cambiare,to exchange,cambiare,[shopping],to exchange
+verb,cambiare,I exchange,cambio,[shopping],I exchange
+verb,cambiare,you exchange,cambi,[shopping],you exchange
+verb,cambiare,she exchanges,cambia,[shopping],she exchanges
+verb,cambiare,he exchanges,cambia,[shopping],he exchanges
+verb,cambiare,we exchange,cambiamo,[shopping],we exchange
+verb,cambiare,they exchange,cambiano,[shopping],they exchange
+verb,cambiare,you (plural) exchange,cambiate,[shopping],you (plural) exchange
+verb,cambiare,I exchanged,ho cambiato,[shopping],I exchanged
+verb,cambiare,you exchanged,hai cambiato,[shopping],you exchanged
+verb,cambiare,she exchanged,ha cambiato,[shopping],she exchanged
+verb,cambiare,he exchanged,ha cambiato,[shopping],he exchanged
+verb,cambiare,we exchanged,abbiamo cambiato,[shopping],we exchanged
+verb,cambiare,they exchanged,hanno cambiato,[shopping],they exchanged
+verb,cambiare,you (plural) exchanged,avete cambiato,[shopping],you (plural) exchanged
+verb,cambiare,exchanging,cambiando,[shopping],exchanging
+verb,restituire,to return,restituire,[shopping],to return
+verb,restituire,I return,restituisco,[shopping],I return
+verb,restituire,you return,restituisci,[shopping],you return
+verb,restituire,she returns,restituisce,[shopping],she returns
+verb,restituire,he returns,restituisce,[shopping],he returns
+verb,restituire,we return,restituiamo,[shopping],we return
+verb,restituire,they return,restituiscono,[shopping],they return
+verb,restituire,you (plural) return,restituite,[shopping],you (plural) return
+verb,restituire,I returned,ho restituito,[shopping],I returned
+verb,restituire,you returned,hai restituito,[shopping],you returned
+verb,restituire,she returned,ha restituito,[shopping],she returned
+verb,restituire,he returned,ha restituito,[shopping],he returned
+verb,restituire,we returned,abbiamo restituito,[shopping],we returned
+verb,restituire,they returned,hanno restituito,[shopping],they returned
+verb,restituire,you (plural) returned,avete restituito,[shopping],you (plural) returned
+verb,restituire,returning,restituendo,[shopping],returning
+verb,vendere,to sell,vendere,[shopping],to sell
+verb,vendere,I sell,vendo,[shopping],I sell
+verb,vendere,you sell,vendi,[shopping],you sell
+verb,vendere,she sells,vende,[shopping],she sells
+verb,vendere,he sells,vende,[shopping],he sells
+verb,vendere,we sell,vendiamo,[shopping],we sell
+verb,vendere,they sell,vendono,[shopping],they sell
+verb,vendere,you (plural) sell,vendete,[shopping],you (plural) sell
+verb,vendere,I sold,ho venduto,[shopping],I sold
+verb,vendere,you sold,hai venduto,[shopping],you sold
+verb,vendere,she sold,ha venduto,[shopping],she sold
+verb,vendere,he sold,ha venduto,[shopping],he sold
+verb,vendere,we sold,abbiamo venduto,[shopping],we sold
+verb,vendere,they sold,hanno venduto,[shopping],they sold
+verb,vendere,you (plural) sold,avete venduto,[shopping],you (plural) sold
+verb,vendere,selling,vendendo,[shopping],selling
+verb,richiedere,to ask for,richiedere,[shopping],to ask for
+verb,richiedere,I ask for,richiedo,[shopping],I ask for
+verb,richiedere,you ask for,richiedi,[shopping],you ask for
+verb,richiedere,she asks for,richiede,[shopping],she asks for
+verb,richiedere,he asks for,richiede,[shopping],he asks for
+verb,richiedere,we ask for,richiediamo,[shopping],we ask for
+verb,richiedere,they ask for,richiedono,[shopping],they ask for
+verb,richiedere,you (plural) ask for,richiedete,[shopping],you (plural) ask for
+verb,richiestare,I asked for,ho richiesto,[shopping],I asked for
+verb,richiestare,you asked for,hai richiesto,[shopping],you asked for
+verb,richiestare,she asked for,ha richiesto,[shopping],she asked for
+verb,richiestare,he asked for,ha richiesto,[shopping],he asked for
+verb,richiestare,we asked for,abbiamo richiesto,[shopping],we asked for
+verb,richiestare,they asked for,hanno richiesto,[shopping],they asked for
+verb,richiestare,you (plural) asked for,avete richiesto,[shopping],you (plural) asked for
+verb,richiedere,asking for,richiedendo,[shopping],asking for

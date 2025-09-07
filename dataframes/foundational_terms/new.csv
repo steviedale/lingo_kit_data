@@ -1,0 +1,289 @@
+english,italian,is_base,topic,part_of_speech,topics,base_word_english,base_word_italian
+of / from,di,True,foundational_words,preposition,[foundational_words],of / from,di
+to / at,a,True,foundational_words,preposition,[foundational_words],to / at,a
+from / by,da,True,foundational_words,preposition,[foundational_words],from / by,da
+in,in,True,foundational_words,preposition,[foundational_words],in,in
+on / about,su,True,foundational_words,preposition,[foundational_words],on / about,su
+for,per,True,foundational_words,preposition,[foundational_words],for,per
+with,con,True,foundational_words,preposition,[foundational_words],with,con
+without,senza,True,foundational_words,preposition,[foundational_words],without,senza
+between,tra / fra,True,foundational_words,preposition,[foundational_words],between,tra / fra
+above,sopra,True,foundational_words,preposition,[foundational_words],above,sopra
+under,sotto,True,foundational_words,preposition,[foundational_words],under,sotto
+in front of,davanti,True,foundational_words,preposition,[foundational_words],in front of,davanti
+behind,dietro,True,foundational_words,preposition,[foundational_words],behind,dietro
+and,e,True,foundational_words,conjunction,[foundational_words],and,e
+or,o,True,foundational_words,conjunction,[foundational_words],or,o
+but,ma,True,foundational_words,conjunction,[foundational_words],but,ma
+however / but,però,True,foundational_words,conjunction,[foundational_words],however / but,però
+if,se,True,foundational_words,conjunction,[foundational_words],if,se
+while,mentre,True,foundational_words,conjunction,[foundational_words],while,mentre
+because,perché,True,foundational_words,conjunction,[foundational_words],because,perché
+therefore,quindi,True,foundational_words,conjunction,[foundational_words],therefore,quindi
+also,anche,True,foundational_words,conjunction,[foundational_words],also,anche
+not even,neanche,True,foundational_words,conjunction,[foundational_words],not even,neanche
+or / otherwise,oppure,True,foundational_words,conjunction,[foundational_words],or / otherwise,oppure
+to be,essere,True,foundational_words,verb,[foundational_words],to be,essere
+I am,io sono,False,foundational_words,verb,[foundational_words],to be,io sono
+you are (informal),tu sei,False,foundational_words,verb,[foundational_words],to be,tu sei
+you are (formal),Lei è,False,foundational_words,verb,[foundational_words],to be,Lei è
+he is,lui è,False,foundational_words,verb,[foundational_words],to be,lui è
+she is,lei è,False,foundational_words,verb,[foundational_words],to be,lei è
+we are,noi siamo,False,foundational_words,verb,[foundational_words],to be,noi siamo
+you are (plural),voi siete,False,foundational_words,verb,[foundational_words],to be,voi siete
+I was,io ero,False,foundational_words,verb,[foundational_words],to be,io ero
+you were (informal),tu eri,False,foundational_words,verb,[foundational_words],to be,tu eri
+you were (formal),Lei era,False,foundational_words,verb,[foundational_words],to be,Lei era
+he was,lui era,False,foundational_words,verb,[foundational_words],to be,lui era
+she was,lei era,False,foundational_words,verb,[foundational_words],to be,lei era
+we were,noi eravamo,False,foundational_words,verb,[foundational_words],to be,noi eravamo
+you were (plural),voi eravate,False,foundational_words,verb,[foundational_words],to be,voi eravate
+to have,avere,True,foundational_words,verb,[foundational_words],to have,avere
+I have,io ho,False,foundational_words,verb,[foundational_words],to have,io ho
+you have (informal),tu hai,False,foundational_words,verb,[foundational_words],to have,tu hai
+you have (formal),Lei ha,False,foundational_words,verb,[foundational_words],to have,Lei ha
+he has,lui ha,False,foundational_words,verb,[foundational_words],to have,lui ha
+she has,lei ha,False,foundational_words,verb,[foundational_words],to have,lei ha
+we have,noi abbiamo,False,foundational_words,verb,[foundational_words],to have,noi abbiamo
+you have (plural),voi avete,False,foundational_words,verb,[foundational_words],to have,voi avete
+I had,io avevo,False,foundational_words,verb,[foundational_words],to have,io avevo
+you had (informal),tu avevi,False,foundational_words,verb,[foundational_words],to have,tu avevi
+you had (formal),Lei aveva,False,foundational_words,verb,[foundational_words],to have,Lei aveva
+he had,lui aveva,False,foundational_words,verb,[foundational_words],to have,lui aveva
+she had,lei aveva,False,foundational_words,verb,[foundational_words],to have,lei aveva
+we had,noi avevamo,False,foundational_words,verb,[foundational_words],to have,noi avevamo
+you had (plural),voi avevate,False,foundational_words,verb,[foundational_words],to have,voi avevate
+to do / to make,fare,True,foundational_words,verb,[foundational_words],to do / to make,fare
+I do / I make,io faccio,False,foundational_words,verb,[foundational_words],to do / to make,io faccio
+you do / you make (informal),tu fai,False,foundational_words,verb,[foundational_words],to do / to make,tu fai
+you do / you make (formal),Lei fa,False,foundational_words,verb,[foundational_words],to do / to make,Lei fa
+he does / he makes,lui fa,False,foundational_words,verb,[foundational_words],to do / to make,lui fa
+she does / she makes,lei fa,False,foundational_words,verb,[foundational_words],to do / to make,lei fa
+we do / we make,noi facciamo,False,foundational_words,verb,[foundational_words],to do / to make,noi facciamo
+you do / you make (plural),voi fate,False,foundational_words,verb,[foundational_words],to do / to make,voi fate
+I did / I made,io feci,False,foundational_words,verb,[foundational_words],to do / to make,io feci
+you did / you made (informal),tu facesti,False,foundational_words,verb,[foundational_words],to do / to make,tu facesti
+you did / you made (formal),Lei fece,False,foundational_words,verb,[foundational_words],to do / to make,Lei fece
+he did / he made,lui fece,False,foundational_words,verb,[foundational_words],to do / to make,lui fece
+she did / she made,lei fece,False,foundational_words,verb,[foundational_words],to do / to make,lei fece
+we did / we made,noi facemmo,False,foundational_words,verb,[foundational_words],to do / to make,noi facemmo
+you did / you made (plural),voi faceste,False,foundational_words,verb,[foundational_words],to do / to make,voi faceste
+to go,andare,True,foundational_words,verb,[foundational_words],to go,andare
+I go,io vado,False,foundational_words,verb,[foundational_words],to go,io vado
+you go (informal),tu vai,False,foundational_words,verb,[foundational_words],to go,tu vai
+you go (formal),Lei va,False,foundational_words,verb,[foundational_words],to go,Lei va
+he goes,lui va,False,foundational_words,verb,[foundational_words],to go,lui va
+she goes,lei va,False,foundational_words,verb,[foundational_words],to go,lei va
+we go,noi andiamo,False,foundational_words,verb,[foundational_words],to go,noi andiamo
+you go (plural),voi andate,False,foundational_words,verb,[foundational_words],to go,voi andate
+I went,io andai,False,foundational_words,verb,[foundational_words],to go,io andai
+you went (informal),tu andasti,False,foundational_words,verb,[foundational_words],to go,tu andasti
+you went (formal),Lei andò,False,foundational_words,verb,[foundational_words],to go,Lei andò
+he went,lui andò,False,foundational_words,verb,[foundational_words],to go,lui andò
+she went,lei andò,False,foundational_words,verb,[foundational_words],to go,lei andò
+we went,noi andammo,False,foundational_words,verb,[foundational_words],to go,noi andammo
+you went (plural),voi andaste,False,foundational_words,verb,[foundational_words],to go,voi andaste
+to come,venire,True,foundational_words,verb,[foundational_words],to come,venire
+I come,io vengo,False,foundational_words,verb,[foundational_words],to come,io vengo
+you come (informal),tu vieni,False,foundational_words,verb,[foundational_words],to come,tu vieni
+you come (formal),Lei viene,False,foundational_words,verb,[foundational_words],to come,Lei viene
+he comes,lui viene,False,foundational_words,verb,[foundational_words],to come,lui viene
+she comes,lei viene,False,foundational_words,verb,[foundational_words],to come,lei viene
+we come,noi veniamo,False,foundational_words,verb,[foundational_words],to come,noi veniamo
+you come (plural),voi venite,False,foundational_words,verb,[foundational_words],to come,voi venite
+I came,io venni,False,foundational_words,verb,[foundational_words],to come,io venni
+you came (informal),tu venisti,False,foundational_words,verb,[foundational_words],to come,tu venisti
+you came (formal),Lei venne,False,foundational_words,verb,[foundational_words],to come,Lei venne
+he came,lui venne,False,foundational_words,verb,[foundational_words],to come,lui venne
+she came,lei venne,False,foundational_words,verb,[foundational_words],to come,lei venne
+we came,noi venimmo,False,foundational_words,verb,[foundational_words],to come,noi venimmo
+you came (plural),voi veniste,False,foundational_words,verb,[foundational_words],to come,voi veniste
+to give,dare,True,foundational_words,verb,[foundational_words],to give,dare
+I give,io do,False,foundational_words,verb,[foundational_words],to give,io do
+you give (informal),tu dai,False,foundational_words,verb,[foundational_words],to give,tu dai
+you give (formal),Lei dà,False,foundational_words,verb,[foundational_words],to give,Lei dà
+he gives,lui dà,False,foundational_words,verb,[foundational_words],to give,lui dà
+she gives,lei dà,False,foundational_words,verb,[foundational_words],to give,lei dà
+we give,noi diamo,False,foundational_words,verb,[foundational_words],to give,noi diamo
+you give (plural),voi date,False,foundational_words,verb,[foundational_words],to give,voi date
+I gave,io diedi,False,foundational_words,verb,[foundational_words],to give,io diedi
+you gave (informal),tu desti,False,foundational_words,verb,[foundational_words],to give,tu desti
+you gave (formal),Lei diede,False,foundational_words,verb,[foundational_words],to give,Lei diede
+he gave,lui diede,False,foundational_words,verb,[foundational_words],to give,lui diede
+she gave,lei diede,False,foundational_words,verb,[foundational_words],to give,lei diede
+we gave,noi demmo,False,foundational_words,verb,[foundational_words],to give,noi demmo
+you gave (plural),voi deste,False,foundational_words,verb,[foundational_words],to give,voi deste
+to say / to tell,dire,True,foundational_words,verb,[foundational_words],to say / to tell,dire
+I say / I tell,io dico,False,foundational_words,verb,[foundational_words],to say / to tell,io dico
+you say / you tell (informal),tu dici,False,foundational_words,verb,[foundational_words],to say / to tell,tu dici
+you say / you tell (formal),Lei dice,False,foundational_words,verb,[foundational_words],to say / to tell,Lei dice
+he says / he tells,lui dice,False,foundational_words,verb,[foundational_words],to say / to tell,lui dice
+she says / she tells,lei dice,False,foundational_words,verb,[foundational_words],to say / to tell,lei dice
+we say / we tell,noi diciamo,False,foundational_words,verb,[foundational_words],to say / to tell,noi diciamo
+you say / you tell (plural),voi dite,False,foundational_words,verb,[foundational_words],to say / to tell,voi dite
+I said / I told,io dissi,False,foundational_words,verb,[foundational_words],to say / to tell,io dissi
+you said / you told (informal),tu dicesti,False,foundational_words,verb,[foundational_words],to say / to tell,tu dicesti
+you said / you told (formal),Lei disse,False,foundational_words,verb,[foundational_words],to say / to tell,Lei disse
+he said / he told,lui disse,False,foundational_words,verb,[foundational_words],to say / to tell,lui disse
+she said / she told,lei disse,False,foundational_words,verb,[foundational_words],to say / to tell,lei disse
+we said / we told,noi dicemmo,False,foundational_words,verb,[foundational_words],to say / to tell,noi dicemmo
+you said / you told (plural),voi diceste,False,foundational_words,verb,[foundational_words],to say / to tell,voi diceste
+to see,vedere,True,foundational_words,verb,[foundational_words],to see,vedere
+I see,io vedo,False,foundational_words,verb,[foundational_words],to see,io vedo
+you see (informal),tu vedi,False,foundational_words,verb,[foundational_words],to see,tu vedi
+you see (formal),Lei vede,False,foundational_words,verb,[foundational_words],to see,Lei vede
+he sees,lui vede,False,foundational_words,verb,[foundational_words],to see,lui vede
+she sees,lei vede,False,foundational_words,verb,[foundational_words],to see,lei vede
+we see,noi vediamo,False,foundational_words,verb,[foundational_words],to see,noi vediamo
+you see (plural),voi vedete,False,foundational_words,verb,[foundational_words],to see,voi vedete
+I saw,io vidi,False,foundational_words,verb,[foundational_words],to see,io vidi
+you saw (informal),tu vedesti,False,foundational_words,verb,[foundational_words],to see,tu vedesti
+you saw (formal),Lei vide,False,foundational_words,verb,[foundational_words],to see,Lei vide
+he saw,lui vide,False,foundational_words,verb,[foundational_words],to see,lui vide
+she saw,lei vide,False,foundational_words,verb,[foundational_words],to see,lei vide
+we saw,noi vedemmo,False,foundational_words,verb,[foundational_words],to see,noi vedemmo
+you saw (plural),voi vedeste,False,foundational_words,verb,[foundational_words],to see,voi vedeste
+can / to be able,potere,True,foundational_words,verb,[foundational_words],can / to be able,potere
+I can / I am able,io posso,False,foundational_words,verb,[foundational_words],can / to be able,io posso
+you can / you are able (informal),tu puoi,False,foundational_words,verb,[foundational_words],can / to be able,tu puoi
+you can / you are able (formal),Lei può,False,foundational_words,verb,[foundational_words],can / to be able,Lei può
+he can / he is able,lui può,False,foundational_words,verb,[foundational_words],can / to be able,lui può
+she can / she is able,lei può,False,foundational_words,verb,[foundational_words],can / to be able,lei può
+we can / we are able,noi possiamo,False,foundational_words,verb,[foundational_words],can / to be able,noi possiamo
+you can / you are able (plural),voi potete,False,foundational_words,verb,[foundational_words],can / to be able,voi potete
+I could / I was able,io potei,False,foundational_words,verb,[foundational_words],can / to be able,io potei
+you could / you were able (informal),tu potesti,False,foundational_words,verb,[foundational_words],can / to be able,tu potesti
+you could / you were able (formal),Lei poté,False,foundational_words,verb,[foundational_words],can / to be able,Lei poté
+he could / he was able,lui poté,False,foundational_words,verb,[foundational_words],can / to be able,lui poté
+she could / she was able,lei poté,False,foundational_words,verb,[foundational_words],can / to be able,lei poté
+we could / we were able,noi potemmo,False,foundational_words,verb,[foundational_words],can / to be able,noi potemmo
+you could / you were able (plural),voi poteste,False,foundational_words,verb,[foundational_words],can / to be able,voi poteste
+to want,volere,True,foundational_words,verb,[foundational_words],to want,volere
+I want,io voglio,False,foundational_words,verb,[foundational_words],to want,io voglio
+you want (informal),tu vuoi,False,foundational_words,verb,[foundational_words],to want,tu vuoi
+you want (formal),Lei vuole,False,foundational_words,verb,[foundational_words],to want,Lei vuole
+he wants,lui vuole,False,foundational_words,verb,[foundational_words],to want,lui vuole
+she wants,lei vuole,False,foundational_words,verb,[foundational_words],to want,lei vuole
+we want,noi vogliamo,False,foundational_words,verb,[foundational_words],to want,noi vogliamo
+you want (plural),voi volete,False,foundational_words,verb,[foundational_words],to want,voi volete
+I wanted,io volli,False,foundational_words,verb,[foundational_words],to want,io volli
+you wanted (informal),tu volesti,False,foundational_words,verb,[foundational_words],to want,tu volesti
+you wanted (formal),Lei volle,False,foundational_words,verb,[foundational_words],to want,Lei volle
+he wanted,lui volle,False,foundational_words,verb,[foundational_words],to want,lui volle
+she wanted,lei volle,False,foundational_words,verb,[foundational_words],to want,lei volle
+we wanted,noi volemmo,False,foundational_words,verb,[foundational_words],to want,noi volemmo
+you wanted (plural),voi voleste,False,foundational_words,verb,[foundational_words],to want,voi voleste
+must / have to,dovere,True,foundational_words,verb,[foundational_words],must / have to,dovere
+I must / I have to,io devo,False,foundational_words,verb,[foundational_words],must / have to,io devo
+you must / you have to (informal),tu devi,False,foundational_words,verb,[foundational_words],must / have to,tu devi
+you must / you have to (formal),Lei deve,False,foundational_words,verb,[foundational_words],must / have to,Lei deve
+he must / he has to,lui deve,False,foundational_words,verb,[foundational_words],must / have to,lui deve
+she must / she has to,lei deve,False,foundational_words,verb,[foundational_words],must / have to,lei deve
+we must / we have to,noi dobbiamo,False,foundational_words,verb,[foundational_words],must / have to,noi dobbiamo
+you must / you have to (plural),voi dovete,False,foundational_words,verb,[foundational_words],must / have to,voi dovete
+I had to,io dovevo,False,foundational_words,verb,[foundational_words],must / have to,io dovevo
+you had to (informal),tu dovevi,False,foundational_words,verb,[foundational_words],must / have to,tu dovevi
+you had to (formal),Lei doveva,False,foundational_words,verb,[foundational_words],must / have to,Lei doveva
+he had to,lui doveva,False,foundational_words,verb,[foundational_words],must / have to,lui doveva
+she had to,lei doveva,False,foundational_words,verb,[foundational_words],must / have to,lei doveva
+we had to,noi dovevamo,False,foundational_words,verb,[foundational_words],must / have to,noi dovevamo
+you had to (plural),voi dovevate,False,foundational_words,verb,[foundational_words],must / have to,voi dovevate
+to know (fact),sapere,True,foundational_words,verb,[foundational_words],to know (fact),sapere
+I know (fact),io so,False,foundational_words,verb,[foundational_words],to know (fact),io so
+you know (fact) (informal),tu sai,False,foundational_words,verb,[foundational_words],to know (fact),tu sai
+you know (fact) (formal),Lei sa,False,foundational_words,verb,[foundational_words],to know (fact),Lei sa
+he knows (fact),lui sa,False,foundational_words,verb,[foundational_words],to know (fact),lui sa
+she knows (fact),lei sa,False,foundational_words,verb,[foundational_words],to know (fact),lei sa
+we know (fact),noi sappiamo,False,foundational_words,verb,[foundational_words],to know (fact),noi sappiamo
+you know (fact) (plural),voi sapete,False,foundational_words,verb,[foundational_words],to know (fact),voi sapete
+I knew (fact),io seppi,False,foundational_words,verb,[foundational_words],to know (fact),io seppi
+you knew (fact) (informal),tu sapesti,False,foundational_words,verb,[foundational_words],to know (fact),tu sapesti
+you knew (fact) (formal),Lei seppe,False,foundational_words,verb,[foundational_words],to know (fact),Lei seppe
+he knew (fact),lui seppe,False,foundational_words,verb,[foundational_words],to know (fact),lui seppe
+she knew (fact),lei seppe,False,foundational_words,verb,[foundational_words],to know (fact),lei seppe
+we knew (fact),noi sapemmo,False,foundational_words,verb,[foundational_words],to know (fact),noi sapemmo
+you knew (fact) (plural),voi sapeste,False,foundational_words,verb,[foundational_words],to know (fact),voi sapeste
+to stay / to be located,stare,True,foundational_words,verb,[foundational_words],to stay / to be located,stare
+I stay / I am located,io sto,False,foundational_words,verb,[foundational_words],to stay / to be located,io sto
+you stay / you are located (informal),tu stai,False,foundational_words,verb,[foundational_words],to stay / to be located,tu stai
+you stay / you are located (formal),Lei sta,False,foundational_words,verb,[foundational_words],to stay / to be located,Lei sta
+he stays / he is located,lui sta,False,foundational_words,verb,[foundational_words],to stay / to be located,lui sta
+she stays / she is located,lei sta,False,foundational_words,verb,[foundational_words],to stay / to be located,lei sta
+we stay / we are located,noi stiamo,False,foundational_words,verb,[foundational_words],to stay / to be located,noi stiamo
+you stay / you are located (plural),voi state,False,foundational_words,verb,[foundational_words],to stay / to be located,voi state
+I stayed / I was located,io stetti,False,foundational_words,verb,[foundational_words],to stay / to be located,io stetti
+you stayed / you were located (informal),tu stesti,False,foundational_words,verb,[foundational_words],to stay / to be located,tu stesti
+you stayed / you were located (formal),Lei stette,False,foundational_words,verb,[foundational_words],to stay / to be located,Lei stette
+he stayed / he was located,lui stette,False,foundational_words,verb,[foundational_words],to stay / to be located,lui stette
+she stayed / she was located,lei stette,False,foundational_words,verb,[foundational_words],to stay / to be located,lei stette
+we stayed / we were located,noi stemmo,False,foundational_words,verb,[foundational_words],to stay / to be located,noi stemmo
+you stayed / you were located (plural),voi steste,False,foundational_words,verb,[foundational_words],to stay / to be located,voi steste
+to go out,uscire,True,foundational_words,verb,[foundational_words],to go out,uscire
+I go out,io esco,False,foundational_words,verb,[foundational_words],to go out,io esco
+you go out (informal),tu esci,False,foundational_words,verb,[foundational_words],to go out,tu esci
+you go out (formal),Lei esce,False,foundational_words,verb,[foundational_words],to go out,Lei esce
+he goes out,lui esce,False,foundational_words,verb,[foundational_words],to go out,lui esce
+she goes out,lei esce,False,foundational_words,verb,[foundational_words],to go out,lei esce
+we go out,noi usciamo,False,foundational_words,verb,[foundational_words],to go out,noi usciamo
+you go out (plural),voi uscite,False,foundational_words,verb,[foundational_words],to go out,voi uscite
+I went out,io uscii,False,foundational_words,verb,[foundational_words],to go out,io uscii
+you went out (informal),tu uscisti,False,foundational_words,verb,[foundational_words],to go out,tu uscisti
+you went out (formal),Lei uscì,False,foundational_words,verb,[foundational_words],to go out,Lei uscì
+he went out,lui uscì,False,foundational_words,verb,[foundational_words],to go out,lui uscì
+she went out,lei uscì,False,foundational_words,verb,[foundational_words],to go out,lei uscì
+we went out,noi uscimmo,False,foundational_words,verb,[foundational_words],to go out,noi uscimmo
+you went out (plural),voi usciste,False,foundational_words,verb,[foundational_words],to go out,voi usciste
+here (precise),qui,True,foundational_words,adverb,[foundational_words],here,qui
+here (approximate),qua,False,foundational_words,adverb,[foundational_words],here,qua
+there (precise),lì,True,foundational_words,adverb,[foundational_words],there,lì
+there (approximate),là,False,foundational_words,adverb,[foundational_words],there,là
+already,già,True,foundational_words,adverb,[foundational_words],already,già
+still / yet,ancora,True,foundational_words,adverb,[foundational_words],still / yet,ancora
+I,io,True,foundational_words,pronoun,[foundational_words],I,io
+you,tu,True,foundational_words,pronoun,[foundational_words],you,tu
+you (formal),Lei,True,foundational_words,pronoun,[foundational_words],you,Lei
+he,lui,True,foundational_words,pronoun,[foundational_words],he,lui
+she,lei,True,foundational_words,pronoun,[foundational_words],she,lei
+we,noi,True,foundational_words,pronoun,[foundational_words],we,noi
+you (plural),voi,True,foundational_words,pronoun,[foundational_words],you,voi
+they,loro,True,foundational_words,pronoun,[foundational_words],they,loro
+me,mi,False,foundational_words,pronoun,[foundational_words],I,mi
+you (object),ti,False,foundational_words,pronoun,[foundational_words],you,ti
+to her,le,False,foundational_words,pronoun,[foundational_words],her,le
+to him,gli,False,foundational_words,pronoun,[foundational_words],him,gli
+us,ci,False,foundational_words,pronoun,[foundational_words],we,ci
+you (plural object),vi,False,foundational_words,pronoun,[foundational_words],you,vi
+oneself,si,False,foundational_words,pronoun,[foundational_words],oneself,si
+it/him,lo,False,foundational_words,pronoun,[foundational_words],it,lo
+it/her,la,False,foundational_words,pronoun,[foundational_words],it,la
+them (masculine),li,False,foundational_words,pronoun,[foundational_words],they,li
+them (feminine),le,False,foundational_words,pronoun,[foundational_words],they,le
+who,chi,False,foundational_words,pronoun,[foundational_words],who,chi
+what / that,che,False,foundational_words,pronoun,[foundational_words],what,che
+which,quale,False,foundational_words,pronoun,[foundational_words],which,quale
+this (masculine),questo,True,foundational_words,determiner,[foundational_words],this,questo
+this (feminine),questa,False,foundational_words,determiner,[foundational_words],this,questa
+these (masculine),questi,True,foundational_words,determiner,[foundational_words],these,questi
+these (feminine),queste,False,foundational_words,determiner,[foundational_words],these,queste
+that (masculine),quello,True,foundational_words,determiner,[foundational_words],that,quello
+that (feminine),quella,False,foundational_words,determiner,[foundational_words],that,quella
+those (masculine),quelli,False,foundational_words,determiner,[foundational_words],those,quelli
+those (feminine),quelle,False,foundational_words,determiner,[foundational_words],those,quelle
+every,ogni,True,foundational_words,determiner,[foundational_words],every,ogni
+some,qualche,True,foundational_words,determiner,[foundational_words],some,qualche
+a few (masculine),alcuni,True,foundational_words,determiner,[foundational_words],a few,alcuni
+a few (feminine),alcune,False,foundational_words,determiner,[foundational_words],a few,alcune
+the (masculine),il,True,foundational_words,article,[foundational_words],the,il
+the (feminine),la,False,foundational_words,article,[foundational_words],the,la
+the (masculine) (plural),i,False,foundational_words,article,[foundational_words],the,i
+the (feminine) (plural),le,False,foundational_words,article,[foundational_words],the,le
+a / an (masculine),un / uno,True,foundational_words,article,[foundational_words],a,un / uno
+a / an (feminine),un' / una,False,foundational_words,article,[foundational_words],a,un' / una
+where,dove,True,foundational_words,question,[foundational_words],where,dove
+when,quando,True,foundational_words,question,[foundational_words],when,quando
+how,come,True,foundational_words,question,[foundational_words],how,come
+why/because,perché,True,foundational_words,question,[foundational_words],why,perché
+how much (masculine),quanto,True,foundational_words,question,[foundational_words],how much,quanto
+how much (feminine),quanta,False,foundational_words,question,[foundational_words],how much,quanta
+how many (masculine),quanti,True,foundational_words,question,[foundational_words],how many,quanti
+how many (feminine),quante,False,foundational_words,question,[foundational_words],how many,quante

@@ -1,0 +1,12 @@
+english,italian,base_term,is_base,topic,part_of_speech
+and,e,and,True,foundational_words,conjunction
+or,o,or,True,foundational_words,conjunction
+but,ma,but,True,foundational_words,conjunction
+however / but,però,however / but,True,foundational_words,conjunction
+if,se,if,True,foundational_words,conjunction
+while,mentre,while,True,foundational_words,conjunction
+because,perché,because,True,foundational_words,conjunction
+therefore,quindi,therefore,True,foundational_words,conjunction
+also,anche,also,True,foundational_words,conjunction
+not even,neanche,not even,True,foundational_words,conjunction
+or / otherwise,oppure,or / otherwise,True,foundational_words,conjunction

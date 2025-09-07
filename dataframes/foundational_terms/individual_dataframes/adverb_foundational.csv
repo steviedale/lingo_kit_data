@@ -1,0 +1,7 @@
+english,italian,base_term,is_base,topic,part_of_speech
+here (precise),qui,here,True,foundational_words,adverb
+here (approximate),qua,here,False,foundational_words,adverb
+there (precise),lì,there,True,foundational_words,adverb
+there (approximate),là,there,False,foundational_words,adverb
+already,già,already,True,foundational_words,adverb
+still / yet,ancora,still / yet,True,foundational_words,adverb

@@ -1,0 +1,102 @@
+english,italian,english_base_word,is_base
+
+### Nouns ###
+train,treno,train,true
+a train,un treno,train,false
+the train,il treno,train,false
+the trains,i treni,train,false
+
+automobile,macchina,automobile,true
+an automobile,una macchina,automobile,false
+the automobile,la macchina,automobile,false
+the automobiles,le macchine,automobile,false
+
+taxi,taxi,taxi,true
+a taxi,un taxi,taxi,false
+the taxi,il taxi,taxi,false
+the taxis,i taxi,taxi,false
+
+ship,nave,ship,true
+a ship,una nave,taxi,false
+the ship,la nave,taxi,false
+the ships,le navi,taxi,false
+
+airplane,aereo,airplane,true
+an airplain,un aereo,airplane,false
+the airplain,l'aereo,airplane,false
+the airplanes,gli aerei,airplane,false
+
+bus,autobus,bus,true
+a bus,un autobus,bus,false
+the bus,l'autobus,bus,false
+the buses,gli autobus,bus,false
+
+bus stop,fermata dell'autobus,bus stop,true
+a bus stop,una fermata dell'autobus,bus stop,false
+the bus stop,la fermata dell'autobus,bus stop,false
+the bus stops,le fermate dell'autobus,bus stop,false
+
+ticket,biglietto,ticket,true
+a ticket,un biglietto,ticket,false
+the ticket,il biglietto,ticket,false
+the tickets,i biglietti,ticket,false
+
+ticket window,biglietteria,ticket window,true
+a ticket window,una biglietteria,ticket window,false
+the ticket window,la biglietteria,ticket window,false
+the ticket windows,le biglietterie,ticket window,false
+
+airport,aeroporto,airport,true
+an airport,un aeroporto,airport,false
+the airport,l'aeroporto,airport,false
+the airports,gli aeroporti,airport,false
+
+flight,volo,flight,true
+a flight,un volo,flight,false
+the flight,il volo,flight,false
+the flights,i voli,flight,false
+
+connection,connessione,connection,true
+a connection,una coincidenza,connection,false
+the connection,la coincidenza,connection,false
+the connections,le coincidenze,conection,false
+
+gate,uscita,gate,true
+a gate,un'uscita,gate,false
+the gate,l'uscita,gate,false
+the gates,le uscite,gate,false
+
+railway,ferrovia,railway,true
+a railway,una ferrovia,railway,false
+the railway,la ferrovia,railway,false
+the railways,le ferrovie,railway,false
+
+station,stazione,station,true
+a station,una stazione,station,false
+the station,la stazione,station,false
+the stations,le stazioni,station,false
+
+railway station,stazione ferroviaria,railway station,true
+a railway station,una stazione ferroviaria,railway station,false
+the railway station,la stazione ferroviaria,railway station,false
+the railway stations,le stazioni ferroviarie,railway station,false
+
+bus terminal,capolinea dell'autobus,bus terminal,true
+a bus terminal,un capolinea dell'autobus,bus terminal,false
+the bus terminal,il capolinea dell'autobus,bus terminal,false
+the bus terminals,i capolinea dell'autobus,bus terminal,false
+
+platform,marciapiede,platform,true
+a platform,un marciapiede,platform,false
+the platform,il marciapiede,platform,false
+the platforms,i marciapiedi,platform,false
+
+track,binario,track,true
+a track,un binario,track,false
+the track,il binario,track,false
+the tracks,i binari,track,false
+
+traincar,carrozza,traincar,true
+a traincar,una carrozza,traincar,false
+the traincar,la carrozza,traincar,false
+the traincars,le carrozze,traincar,false
