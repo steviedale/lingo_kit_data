@@ -245,14 +245,14 @@ you (formal),Lei,pronoun,[foundational_words],you,Lei,True
 he,lui,pronoun,[foundational_words],he,lui,True
 she,lei,pronoun,[foundational_words],she,lei,True
 we,noi,pronoun,[foundational_words],we,noi,True
-you (plural),voi,pronoun,[foundational_words],you,voi,True
+you (plural),voi,pronoun,[foundational_words],you (plural),voi,True
 they,loro,pronoun,[foundational_words],they,loro,True
 me,mi,pronoun,[foundational_words],I,mi,False
 you (object),ti,pronoun,[foundational_words],you,ti,False
 to her,le,pronoun,[foundational_words],her,le,False
 to him,gli,pronoun,[foundational_words],him,gli,False
 us,ci,pronoun,[foundational_words],we,ci,False
-you (plural object),vi,pronoun,[foundational_words],you,vi,False
+you (plural object),vi,pronoun,[foundational_words],you (plural),vi,False
 oneself,si,pronoun,[foundational_words],oneself,si,False
 it/him,lo,pronoun,[foundational_words],it,lo,False
 it/her,la,pronoun,[foundational_words],it,la,False

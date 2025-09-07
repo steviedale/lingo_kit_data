@@ -1,0 +1,48 @@
+You are given CSV text containing English and Italian terms along with metadata. Your task is to rewrite the CSV text with corrected linguistic annotations and base forms, following these rules:
+
+1. Base Terms
+
+For nouns and noun phrases:
+
+The English base term should be the singular, article-free noun (e.g., "the trains" → base = "train").
+
+The Italian base term should be the standard singular form without articles (e.g., "i treni" → base = "treno").
+
+For adjectives: use the masculine singular form as the Italian base term.
+
+For verbs: use the infinitive in both English and Italian (e.g., "to buy" → base = "buy" / "comprare").
+
+For phrases: keep the base terms consistent with the main noun or verb in the phrase.
+
+2. Part of Speech
+
+If the term is just a noun with articles/determiners (e.g., "the coin", "a train", "the trains"), label it "noun".
+
+If it’s a verb in infinitive form, label "verb".
+
+If it’s a sentence, expression, or question (e.g., "where is the bank"), label "phrase".
+
+3. Synonyms and Variants
+
+Preserve all given synonyms in the "italian_term" column (e.g., "il denaro / i soldi").
+
+Choose only one canonical Italian base form for the "italian_base_term" column (e.g., "denaro").
+
+Choose only one canonical English base form for the "english_base_term" column (e.g., "money").
+
+4. Do Not Normalize Phrases
+
+Keep multi-word base terms like "exchange rate" or "credit card" as-is in the base columns.
+
+Only reduce them when they’re just determiners + noun.
+
+5. Where applicable, add parenthesis to the english terms for polite/familiar or masculine/feminine. Don't abbreviate. Use " (masculine)", " (feminine)", " (polite)", " (familiar)". Also, add " (plural)" if it needs to be specified to distinguish it from another term.
+
+6. Output Format
+
+Output should remain CSV text with the same columns:
+
+english_term,italian_term,part_of_speech,topics,english_base_term,italian_base_term
+
+
+Do not output explanation, only the final CSV.
