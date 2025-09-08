@@ -9,8 +9,12 @@ import hashlib
 from pydub import AudioSegment
 
 
-SAVE_DIR = '/Users/stevie/repos/language_app/data/audio'
-DF_PATH = '/Users/stevie/repos/language_app/data/dataframe.csv'
+# SAVE_DIR = '/Users/stevie/repos/language_app/data/audio'
+# DF_PATH = '/Users/stevie/repos/language_app/data/dataframe.csv'
+
+SAVE_DIR = '/Users/stevie/repos/lingo_kit_data/data/audio'
+DF_PATH = '/Users/stevie/repos/lingo_kit_data/data/dataframe.csv'
+
 
 VOICES = {
     'italian': {
