@@ -998,179 +998,179 @@ you (familiar),tu,pronoun,[subject],you,tu
 he,lui,pronoun,[subject],he,lui
 she,lei,pronoun,[subject],she,lei
 we,noi,pronoun,[subject],we,noi
-you (plural),voi,pronoun,[subject],you,voi
+you (plural),voi,pronoun,[subject],you (plural),voi
 they,loro,pronoun,[subject],they,loro
 to turn,girare,verb,[directions],turn,girare
 I turn,giro,verb,[directions],turn,girare
-you (familiar) turn,giri,verb,[directions],turn,girare
+you turn (familiar),giri,verb,[directions],turn,girare
 you (plural) turn,girate,verb,[directions],turn,girare
 she turns,gira,verb,[directions],turn,girare
 he turns,gira,verb,[directions],turn,girare
 we turn,giriamo,verb,[directions],turn,girare
 they turn,girano,verb,[directions],turn,girare
 I turned,ho girato,verb,[directions],turn,girare
-you (familiar) turned,hai girato,verb,[directions],turn,girare
+you turned (familiar),hai girato,verb,[directions],turn,girare
 she turned,ha girato,verb,[directions],turn,girare
 he turned,ha girato,verb,[directions],turn,girare
 we turned,abbiamo girato,verb,[directions],turn,girare
 they turned,sono girati,verb,[directions],turn,girare
-you (plural) turned,siete girati,verb,[directions],turn,girare
+you turned (plural),siete girati,verb,[directions],turn,girare
 turning,girando,verb,[directions],turn,girare
 to go,andare,verb,[directions],go,andare
 I go,vado,verb,[directions],go,andare
-you (familiar) go,vai,verb,[directions],go,andare
-you (plural) go,andate,verb,[directions],go,andare
+you go (familiar),vai,verb,[directions],go,andare
+you go (plural),andate,verb,[directions],go,andare
 she goes,va,verb,[directions],go,andare
 he goes,va,verb,[directions],go,andare
 we go,andiamo,verb,[directions],go,andare
 they go,vanno,verb,[directions],go,andare
 I went,sono andato,verb,[directions],go,andare
-you (familiar) went,sei andato,verb,[directions],go,andare
+you went (familiar),sei andato,verb,[directions],go,andare
 she went,è andata,verb,[directions],go,andare
 he went,è andato,verb,[directions],go,andare
 we went,siamo andati,verb,[directions],go,andare
 they went,sono andati,verb,[directions],go,andare
-you (plural) went,siete andati,verb,[directions],go,andare
+you went (plural),siete andati,verb,[directions],go,andare
 going,andando,verb,[directions],go,andare
 to continue,continuare,verb,[directions],continue,continuare
 I continue,continuo,verb,[directions],continue,continuare
-you (familiar) continue,continui,verb,[directions],continue,continuare
-you (plural) continue,continuate,verb,[directions],continue,continuare
+you continue (familiar),continui,verb,[directions],continue,continuare
+you continue (plural),continuate,verb,[directions],continue,continuare
 she continues,continua,verb,[directions],continue,continuare
 he continues,continua,verb,[directions],continue,continuare
 we continue,continuiamo,verb,[directions],continue,continuare
 they continue,continuano,verb,[directions],continue,continuare
 I continued,ho continuato,verb,[directions],continue,continuare
-you (familiar) continued,hai continuato,verb,[directions],continue,continuare
+you continued (familiar),hai continuato,verb,[directions],continue,continuare
 she continued,ha continuato,verb,[directions],continue,continuare
 he continued,ha continuato,verb,[directions],continue,continuare
 we continued,abbiamo continuato,verb,[directions],continue,continuare
 they continued,hanno continuato,verb,[directions],continue,continuare
-you (plural) continued,avete continuato,verb,[directions],continue,continuare
+you continued (plural),avete continuato,verb,[directions],continue,continuare
 continuing,continuando,verb,[directions],continue,continuare
 to cross,attraversare,verb,[directions],cross,attraversare
 I cross,attraverso,verb,[directions],cross,attraversare
-you (familiar) cross,attraversi,verb,[directions],cross,attraversare
-you (plural) cross,attraversate,verb,[directions],cross,attraversare
+you cross (familiar),attraversi,verb,[directions],cross,attraversare
+you cross (plural),attraversate,verb,[directions],cross,attraversare
 she crosses,attraversa,verb,[directions],cross,attraversare
 he crosses,attraversa,verb,[directions],cross,attraversare
 we cross,attraversiamo,verb,[directions],cross,attraversare
 they cross,attraversano,verb,[directions],cross,attraversare
 I crossed,ho attraversato,verb,[directions],cross,attraversare
-you (familiar) crossed,hai attraversato,verb,[directions],cross,attraversare
+you crossed (familiar),hai attraversato,verb,[directions],cross,attraversare
 she crossed,ha attraversato,verb,[directions],cross,attraversare
 he crossed,ha attraversato,verb,[directions],cross,attraversare
 we crossed,abbiamo attraversato,verb,[directions],cross,attraversare
 they crossed,hanno attraversato,verb,[directions],cross,attraversare
-you (plural) crossed,avete attraversato,verb,[directions],cross,attraversare
+you crossed (plural),avete attraversato,verb,[directions],cross,attraversare
 crossing,attraversando,verb,[directions],cross,attraversare
 to stop,fermarsi,verb,[directions],stop,fermarsi
 I stop,mi fermo,verb,[directions],stop,fermarsi
-you (familiar) stop,ti fermi,verb,[directions],stop,fermarsi
-you (plural) stop,vi fermate,verb,[directions],stop,fermarsi
+you stop (familiar),ti fermi,verb,[directions],stop,fermarsi
+you stop (plural),vi fermate,verb,[directions],stop,fermarsi
 she stops,si ferma,verb,[directions],stop,fermarsi
 he stops,si ferma,verb,[directions],stop,fermarsi
 we stop,ci fermiamo,verb,[directions],stop,fermarsi
 they stop,si fermano,verb,[directions],stop,fermarsi
 I stopped,mi sono fermato,verb,[directions],stop,fermarsi
-you (familiar) stopped,ti sei fermato,verb,[directions],stop,fermarsi
+you stopped (familiar),ti sei fermato,verb,[directions],stop,fermarsi
 she stopped,si è fermata,verb,[directions],stop,fermarsi
 he stopped,si è fermato,verb,[directions],stop,fermarsi
 we stopped,ci siamo fermati,verb,[directions],stop,fermarsi
 they stopped,si sono fermati,verb,[directions],stop,fermarsi
-you (plural) stopped,vi siete fermati,verb,[directions],stop,fermarsi
+you stopped (plural),vi siete fermati,verb,[directions],stop,fermarsi
 stopping,fermandomi,verb,[directions],stop,fermarsi
 to follow,seguire,verb,[directions],follow,seguire
 I follow,seguo,verb,[directions],follow,seguire
-you (familiar) follow,segui,verb,[directions],follow,seguire
-you (plural) follow,seguite,verb,[directions],follow,seguire
+you follow (familiar),segui,verb,[directions],follow,seguire
+you follow (plural),seguite,verb,[directions],follow,seguire
 she follows,segue,verb,[directions],follow,seguire
 he follows,segue,verb,[directions],follow,seguire
 we follow,seguiamo,verb,[directions],follow,seguire
 they follow,seguono,verb,[directions],follow,seguire
 I followed,ho seguito,verb,[directions],follow,seguire
-you (familiar) followed,hai seguito,verb,[directions],follow,seguire
+you followed (familiar),hai seguito,verb,[directions],follow,seguire
 she followed,ha seguito,verb,[directions],follow,seguire
 he followed,ha seguito,verb,[directions],follow,seguire
 we followed,abbiamo seguito,verb,[directions],follow,seguire
 they followed,hanno seguito,verb,[directions],follow,seguire
-you (plural) followed,avete seguito,verb,[directions],follow,seguire
+you followed (plural),avete seguito,verb,[directions],follow,seguire
 following,seguendo,verb,[directions],follow,seguire
 to pass,oltrepassare,verb,[directions],pass,oltrepassare
 I pass,oltrepasso,verb,[directions],pass,oltrepassare
-you (familiar) pass,oltrepassi,verb,[directions],pass,oltrepassare
+you pass (familiar),oltrepassi,verb,[directions],pass,oltrepassare
 she passes,oltrepassa,verb,[directions],pass,oltrepassare
 he passes,oltrepassa,verb,[directions],pass,oltrepassare
-you (plural) pass,oltrepassate,verb,[directions],pass,oltrepassare
+you pass (plural),oltrepassate,verb,[directions],pass,oltrepassare
 we pass,oltrepassiamo,verb,[directions],pass,oltrepassare
 they pass,oltrepassano,verb,[directions],pass,oltrepassare
 I passed,ho oltrepassato,verb,[directions],pass,oltrepassare
-you (familiar) passed,hai oltrepassato,verb,[directions],pass,oltrepassare
+you passed (familiar),hai oltrepassato,verb,[directions],pass,oltrepassare
 she passed,ha oltrepassato,verb,[directions],pass,oltrepassare
 he passed,ha oltrepassato,verb,[directions],pass,oltrepassare
 we passed,abbiamo oltrepassato,verb,[directions],pass,oltrepassare
 they passed,hanno oltrepassato,verb,[directions],pass,oltrepassare
-you (plural) passed,avete oltrepassato,verb,[directions],pass,oltrepassare
+you passed (plural),avete oltrepassato,verb,[directions],pass,oltrepassare
 passing,oltrepassando,verb,[directions],pass,oltrepassare
 to enter,entrare,verb,[directions],enter,entrare
 I enter,entro,verb,[directions],enter,entrare
-you (familiar) enter,entri,verb,[directions],enter,entrare
+you enter (familiar),entri,verb,[directions],enter,entrare
 she enters,entra,verb,[directions],enter,entrare
 he enters,entra,verb,[directions],enter,entrare
-you (plural) enter,entrate,verb,[directions],enter,entrare
+you enter (plural),entrate,verb,[directions],enter,entrare
 we enter,entriamo,verb,[directions],enter,entrare
 they enter,entrano,verb,[directions],enter,entrare
 I entered,sono entrato,verb,[directions],enter,entrare
-you (familiar) entered,sei entrato,verb,[directions],enter,entrare
+you entered (familiar),sei entrato,verb,[directions],enter,entrare
 she entered,è entrata,verb,[directions],enter,entrare
 he entered,è entrato,verb,[directions],enter,entrare
 we entered,siamo entrati,verb,[directions],enter,entrare
 they entered,sono entrati,verb,[directions],enter,entrare
-you (plural) entered,siete entrati,verb,[directions],enter,entrare
+you entered (plural),siete entrati,verb,[directions],enter,entrare
 entering,entrando,verb,[directions],enter,entrare
 to exit,uscire,verb,[directions],exit,uscire
 I exit,esco,verb,[directions],exit,uscire
-you (familiar) exit,esci,verb,[directions],exit,uscire
+you exit (familiar),esci,verb,[directions],exit,uscire
 she exits,esce,verb,[directions],exit,uscire
 he exits,esce,verb,[directions],exit,uscire
-you (plural) exit,uscite,verb,[directions],exit,uscire
+you exit (plural),uscite,verb,[directions],exit,uscire
 we exit,usciamo,verb,[directions],exit,uscire
 they exit,escono,verb,[directions],exit,uscire
 I exited,sono uscito,verb,[directions],exit,uscire
-you (familiar) exited,sei uscito,verb,[directions],exit,uscire
+you exited (familiar),sei uscito,verb,[directions],exit,uscire
 she exited,è uscita,verb,[directions],exit,uscire
 he exited,è uscito,verb,[directions],exit,uscire
 we exited,siamo usciti,verb,[directions],exit,uscire
 they exited,sono usciti,verb,[directions],exit,uscire
-you (plural) exited,siete usciti,verb,[directions],exit,uscire
+you exited (plural),siete usciti,verb,[directions],exit,uscire
 exiting,uscendo,verb,[directions],exit,uscire
 to look for,cercare,verb,[directions],look for,cercare
 I look for,cerco,verb,[directions],look for,cercare
-you (familiar) look for,cerchi,verb,[directions],look for,cercare
+you look for (familiar),cerchi,verb,[directions],look for,cercare
 she looks for,cerca,verb,[directions],look for,cercare
 he looks for,cerca,verb,[directions],look for,cercare
-you (plural) look for,cercate,verb,[directions],look for,cercare
+you look for (plural),cercate,verb,[directions],look for,cercare
 we look for,cerchiamo,verb,[directions],look for,cercare
 they look for,cercano,verb,[directions],look for,cercare
 I looked for,ho cercato,verb,[directions],look for,cercare
-you (familiar) looked for,hai cercato,verb,[directions],look for,cercare
+you looked for (familiar),hai cercato,verb,[directions],look for,cercare
 she looked for,ha cercato,verb,[directions],look for,cercare
 he looked for,ha cercato,verb,[directions],look for,cercare
 we looked for,abbiamo cercato,verb,[directions],look for,cercare
 they looked for,hanno cercato,verb,[directions],look for,cercare
-you (plural) looked for,avete cercato,verb,[directions],look for,cercare
+you looked for (plural),avete cercato,verb,[directions],look for,cercare
 looking for,cercando,verb,[directions],look for,cercare
 to love,amare,verb,[emotions],love,amare
 I love,amo,verb,[emotions],love,amare
-you (familiar) love,ami,verb,[emotions],love,amare
-you (plural) love,amate,verb,[emotions],love,amare
+you love (familiar),ami,verb,[emotions],love,amare
+you love (plural),amate,verb,[emotions],love,amare
 he loves,ama,verb,[emotions],love,amare
 she loves,ama,verb,[emotions],love,amare
 we love,amiamo,verb,[emotions],love,amare
 they love,amano,verb,[emotions],love,amare
 I loved,ho amato,verb,[emotions],love,amare
-you (familiar) loved,hai amato,verb,[emotions],love,amare
-you (plural) loved,avete amato,verb,[emotions],love,amare
+you loved (familiar),hai amato,verb,[emotions],love,amare
+you loved (plural),avete amato,verb,[emotions],love,amare
 he loved,ha amato,verb,[emotions],love,amare
 she loved,ha amato,verb,[emotions],love,amare
 we loved,abbiamo amato,verb,[emotions],love,amare
@@ -1178,15 +1178,15 @@ they loved,hanno amato,verb,[emotions],love,amare
 loving,amando,verb,[emotions],love,amare
 to like/appreciate,apprezzare,verb,[emotions],like/appreciate,apprezzare
 I like/appreciate,apprezzo,verb,[emotions],like/appreciate,apprezzare
-you (familiar) like/appreciate,apprezzi,verb,[emotions],like/appreciate,apprezzare
-you (plural) like/appreciate,apprezzate,verb,[emotions],like/appreciate,apprezzare
+you like/appreciate (familiar),apprezzi,verb,[emotions],like/appreciate,apprezzare
+you like/appreciate (plural),apprezzate,verb,[emotions],like/appreciate,apprezzare
 he likes/appreciates,apprezza,verb,[emotions],like/appreciate,apprezzare
 she likes/appreciates,apprezza,verb,[emotions],like/appreciate,apprezzare
 we like/appreciate,apprezziamo,verb,[emotions],like/appreciate,apprezzare
 they like/appreciate,apprezzano,verb,[emotions],like/appreciate,apprezzare
 I liked/appreciated,ho apprezzato,verb,[emotions],like/appreciate,apprezzare
-you (familiar) liked/appreciated,hai apprezzato,verb,[emotions],like/appreciate,apprezzare
-you (plural) liked/appreciated,avete apprezzato,verb,[emotions],like/appreciate,apprezzare
+you liked/appreciated (familiar),hai apprezzato,verb,[emotions],like/appreciate,apprezzare
+you liked/appreciated (plural),avete apprezzato,verb,[emotions],like/appreciate,apprezzare
 he liked/appreciated,ha apprezzato,verb,[emotions],like/appreciate,apprezzare
 she liked/appreciated,ha apprezzato,verb,[emotions],like/appreciate,apprezzare
 we liked/appreciated,abbiamo apprezzato,verb,[emotions],like/appreciate,apprezzare
@@ -1194,15 +1194,15 @@ they liked/appreciated,hanno apprezzato,verb,[emotions],like/appreciate,apprezza
 appreciating,apprezzando,verb,[emotions],like/appreciate,apprezzare
 to feel,sentire,verb,[emotions],feel,sentire
 I feel,sento,verb,[emotions],feel,sentire
-you (familiar) feel,senti,verb,[emotions],feel,sentire
-you (plural) feel,sentite,verb,[emotions],feel,sentire
+you feel (familiar),senti,verb,[emotions],feel,sentire
+you feel (plural),sentite,verb,[emotions],feel,sentire
 he feels,sente,verb,[emotions],feel,sentire
 she feels,sente,verb,[emotions],feel,sentire
 we feel,sentiamo,verb,[emotions],feel,sentire
 they feel,sentono,verb,[emotions],feel,sentire
 I felt,ho sentito,verb,[emotions],feel,sentire
-you (familiar) felt,hai sentito,verb,[emotions],feel,sentire
-you (plural) felt,avete sentito,verb,[emotions],feel,sentire
+you felt (familiar),hai sentito,verb,[emotions],feel,sentire
+you felt (plural),avete sentito,verb,[emotions],feel,sentire
 he felt,ha sentito,verb,[emotions],feel,sentire
 she felt,ha sentito,verb,[emotions],feel,sentire
 we felt,abbiamo sentito,verb,[emotions],feel,sentire
@@ -1210,15 +1210,15 @@ they felt,hanno sentito,verb,[emotions],feel,sentire
 feeling,sentendo,verb,[emotions],feel,sentire
 to hope,sperare,verb,[emotions],hope,sperare
 I hope,spero,verb,[emotions],hope,sperare
-you (familiar) hope,speri,verb,[emotions],hope,sperare
-you (plural) hope,sperate,verb,[emotions],hope,sperare
+you hope (familiar),speri,verb,[emotions],hope,sperare
+you hope (plural),sperate,verb,[emotions],hope,sperare
 he hopes,spera,verb,[emotions],hope,sperare
 she hopes,spera,verb,[emotions],hope,sperare
 we hope,speriamo,verb,[emotions],hope,sperare
 they hope,sperano,verb,[emotions],hope,sperare
 I hoped,ho sperato,verb,[emotions],hope,sperare
-you (familiar) hoped,hai sperato,verb,[emotions],hope,sperare
-you (plural) hoped,avete sperato,verb,[emotions],hope,sperare
+you hoped (familiar),hai sperato,verb,[emotions],hope,sperare
+you hoped (plural),avete sperato,verb,[emotions],hope,sperare
 he hoped,ha sperato,verb,[emotions],hope,sperare
 she hoped,ha sperato,verb,[emotions],hope,sperare
 we hoped,abbiamo sperato,verb,[emotions],hope,sperare
@@ -1226,15 +1226,15 @@ they hoped,hanno sperato,verb,[emotions],hope,sperare
 hoping,sperando,verb,[emotions],hope,sperare
 to fear,temere,verb,[emotions],fear,temere
 I fear,temo,verb,[emotions],fear,temere
-you (familiar) fear,temi,verb,[emotions],fear,temere
-you (plural) fear,temete,verb,[emotions],fear,temere
+you fear (familiar),temi,verb,[emotions],fear,temere
+you fear (plural),temete,verb,[emotions],fear,temere
 he fears,teme,verb,[emotions],fear,temere
 she fears,teme,verb,[emotions],fear,temere
 we fear,temiamo,verb,[emotions],fear,temere
 they fear,temono,verb,[emotions],fear,temere
 I feared,ho temuto,verb,[emotions],fear,temere
-you (familiar) feared,hai temuto,verb,[emotions],fear,temere
-you (plural) feared,avete temuto,verb,[emotions],fear,temere
+you feared (familiar),hai temuto,verb,[emotions],fear,temere
+you feared (plural),avete temuto,verb,[emotions],fear,temere
 he feared,ha temuto,verb,[emotions],fear,temere
 she feared,ha temuto,verb,[emotions],fear,temere
 we feared,abbiamo temuto,verb,[emotions],fear,temere
@@ -1242,15 +1242,15 @@ they feared,hanno temuto,verb,[emotions],fear,temere
 fearing,temendo,verb,[emotions],fear,temere
 to worry,preoccuparsi,verb,[emotions],worry,preoccuparsi
 I worry,mi preoccupo,verb,[emotions],worry,preoccuparsi
-you (familiar) worry,ti preoccupi,verb,[emotions],worry,preoccuparsi
-you (plural) worry,vi preoccupate,verb,[emotions],worry,preoccuparsi
+you worry (familiar),ti preoccupi,verb,[emotions],worry,preoccuparsi
+you worry (plural),vi preoccupate,verb,[emotions],worry,preoccuparsi
 he worries,si preoccupa,verb,[emotions],worry,preoccuparsi
 she worries,si preoccupa,verb,[emotions],worry,preoccuparsi
 we worry,ci preoccupiamo,verb,[emotions],worry,preoccuparsi
 they worry,si preoccupano,verb,[emotions],worry,preoccuparsi
 I worried (masculine),mi sono preoccupato,verb,[emotions],worry,preoccuparsi
-you (familiar) worried (masculine),ti sei preoccupato,verb,[emotions],worry,preoccuparsi
-you (plural) worried,vi siete preoccupati,verb,[emotions],worry,preoccuparsi
+you worried (masculine) (familiar),ti sei preoccupato,verb,[emotions],worry,preoccuparsi
+you worried (plural),vi siete preoccupati,verb,[emotions],worry,preoccuparsi
 he worried,si è preoccupato,verb,[emotions],worry,preoccuparsi
 she worried,si è preoccupata,verb,[emotions],worry,preoccuparsi
 we worried,ci siamo preoccupati,verb,[emotions],worry,preoccuparsi
@@ -1258,15 +1258,15 @@ they worried,si sono preoccupati,verb,[emotions],worry,preoccuparsi
 worrying,preoccupandosi,verb,[emotions],worry,preoccuparsi
 to relax,rilassarsi,verb,[emotions],relax,rilassarsi
 I relax,mi rilasso,verb,[emotions],relax,rilassarsi
-you (familiar) relax,ti rilassi,verb,[emotions],relax,rilassarsi
-you (plural) relax,vi rilassate,verb,[emotions],relax,rilassarsi
+you relax (familiar),ti rilassi,verb,[emotions],relax,rilassarsi
+you relax (plural),vi rilassate,verb,[emotions],relax,rilassarsi
 he relaxes,si rilassa,verb,[emotions],relax,rilassarsi
 she relaxes,si rilassa,verb,[emotions],relax,rilassarsi
 we relax,ci rilassiamo,verb,[emotions],relax,rilassarsi
 they relax,si rilassano,verb,[emotions],relax,rilassarsi
 I relaxed (masculine),mi sono rilassato,verb,[emotions],relax,rilassarsi
-you (familiar) relaxed (masculine),ti sei rilassato,verb,[emotions],relax,rilassarsi
-you (plural) relaxed,vi siete rilassati,verb,[emotions],relax,rilassarsi
+you relaxed (masculine) (familiar),ti sei rilassato,verb,[emotions],relax,rilassarsi
+you relaxed (plural),vi siete rilassati,verb,[emotions],relax,rilassarsi
 he relaxed,si è rilassato,verb,[emotions],relax,rilassarsi
 she relaxed,si è rilassata,verb,[emotions],relax,rilassarsi
 we relaxed,ci siamo rilassati,verb,[emotions],relax,rilassarsi
@@ -1274,15 +1274,15 @@ they relaxed,si sono rilassati,verb,[emotions],relax,rilassarsi
 relaxing,rilassandosi,verb,[emotions],relax,rilassarsi
 to smile,sorridere,verb,[emotions],smile,sorridere
 I smile,sorrido,verb,[emotions],smile,sorridere
-you (familiar) smile,sorridi,verb,[emotions],smile,sorridere
-you (plural) smile,sorridete,verb,[emotions],smile,sorridere
+you smile (familiar),sorridi,verb,[emotions],smile,sorridere
+you smile (plural),sorridete,verb,[emotions],smile,sorridere
 he smiles,sorride,verb,[emotions],smile,sorridere
 she smiles,sorride,verb,[emotions],smile,sorridere
 we smile,sorridiamo,verb,[emotions],smile,sorridere
 they smile,sorridono,verb,[emotions],smile,sorridere
 I smiled,ho sorriso,verb,[emotions],smile,sorridere
-you (familiar) smiled,hai sorriso,verb,[emotions],smile,sorridere
-you (plural) smiled,avete sorriso,verb,[emotions],smile,sorridere
+you smiled (familiar),hai sorriso,verb,[emotions],smile,sorridere
+you smiled (plural),avete sorriso,verb,[emotions],smile,sorridere
 he smiled,ha sorriso,verb,[emotions],smile,sorridere
 she smiled,ha sorriso,verb,[emotions],smile,sorridere
 we smiled,abbiamo sorriso,verb,[emotions],smile,sorridere
@@ -1290,15 +1290,15 @@ they smiled,hanno sorriso,verb,[emotions],smile,sorridere
 smiling,sorridendo,verb,[emotions],smile,sorridere
 to cry,piangere,verb,[emotions],cry,piangere
 I cry,piango,verb,[emotions],cry,piangere
-you (familiar) cry,piangi,verb,[emotions],cry,piangere
-you (plural) cry,piangete,verb,[emotions],cry,piangere
+you cry (familiar),piangi,verb,[emotions],cry,piangere
+you cry (plural),piangete,verb,[emotions],cry,piangere
 he cries,piange,verb,[emotions],cry,piangere
 she cries,piange,verb,[emotions],cry,piangere
 we cry,piangiamo,verb,[emotions],cry,piangere
 they cry,piangono,verb,[emotions],cry,piangere
 I cried,ho pianto,verb,[emotions],cry,piangere
-you (familiar) cried,hai pianto,verb,[emotions],cry,piangere
-you (plural) cried,avete pianto,verb,[emotions],cry,piangere
+you cried (familiar),hai pianto,verb,[emotions],cry,piangere
+you cried (plural),avete pianto,verb,[emotions],cry,piangere
 he cried,ha pianto,verb,[emotions],cry,piangere
 she cried,ha pianto,verb,[emotions],cry,piangere
 we cried,abbiamo pianto,verb,[emotions],cry,piangere
@@ -1306,15 +1306,15 @@ they cried,hanno pianto,verb,[emotions],cry,piangere
 crying,piangendo,verb,[emotions],cry,piangere
 to enjoy oneself,divertirsi,verb,[emotions],enjoy oneself,divertirsi
 I enjoy myself,mi diverto,verb,[emotions],enjoy oneself,divertirsi
-you (familiar) enjoy yourself,ti diverti,verb,[emotions],enjoy oneself,divertirsi
-you (plural) enjoy yourselves,vi divertite,verb,[emotions],enjoy oneself,divertirsi
+you enjoy yourself (familiar),ti diverti,verb,[emotions],enjoy oneself,divertirsi
+you enjoy yourselves (plural),vi divertite,verb,[emotions],enjoy oneself,divertirsi
 he enjoys himself,si diverte,verb,[emotions],enjoy oneself,divertirsi
 she enjoys herself,si diverte,verb,[emotions],enjoy oneself,divertirsi
 we enjoy ourselves,ci divertiamo,verb,[emotions],enjoy oneself,divertirsi
 they enjoy themselves,si divertono,verb,[emotions],enjoy oneself,divertirsi
 I enjoyed myself (masculine),mi sono divertito,verb,[emotions],enjoy oneself,divertirsi
-you (familiar) enjoyed yourself (masculine),ti sei divertito,verb,[emotions],enjoy oneself,divertirsi
-you (plural) enjoyed yourselves,vi siete divertiti,verb,[emotions],enjoy oneself,divertirsi
+you enjoyed yourself (masculine) (familiar),ti sei divertito,verb,[emotions],enjoy oneself,divertirsi
+you enjoyed yourselves (plural),vi siete divertiti,verb,[emotions],enjoy oneself,divertirsi
 he enjoyed himself,si è divertito,verb,[emotions],enjoy oneself,divertirsi
 she enjoyed herself,si è divertita,verb,[emotions],enjoy oneself,divertirsi
 we enjoyed ourselves,ci siamo divertiti,verb,[emotions],enjoy oneself,divertirsi
@@ -1322,451 +1322,451 @@ they enjoyed themselves,si sono divertiti,verb,[emotions],enjoy oneself,divertir
 enjoying oneself,divertendosi,verb,[emotions],enjoy oneself,divertirsi
 to solder,saldare,verb,[jewelry and metal working],solder,saldare
 I solder,saldo,verb,[jewelry and metal working],solder,saldare
-you (familiar) solder,saldi,verb,[jewelry and metal working],solder,saldare
+you solder (familiar),saldi,verb,[jewelry and metal working],solder,saldare
 she solders,salda,verb,[jewelry and metal working],solder,saldare
 he solders,salda,verb,[jewelry and metal working],solder,saldare
 we solder,saldiamo,verb,[jewelry and metal working],solder,saldare
 they solder,saldano,verb,[jewelry and metal working],solder,saldare
-you (plural) solder,saldate,verb,[jewelry and metal working],solder,saldare
+you solder (plural),saldate,verb,[jewelry and metal working],solder,saldare
 I soldered,ho saldato,verb,[jewelry and metal working],solder,saldare
-you (familiar) soldered,hai saldato,verb,[jewelry and metal working],solder,saldare
+you soldered (familiar),hai saldato,verb,[jewelry and metal working],solder,saldare
 she soldered,ha saldato,verb,[jewelry and metal working],solder,saldare
 he soldered,ha saldato,verb,[jewelry and metal working],solder,saldare
 we soldered,abbiamo saldato,verb,[jewelry and metal working],solder,saldare
 they soldered,hanno saldato,verb,[jewelry and metal working],solder,saldare
-you (plural) soldered,avete saldato,verb,[jewelry and metal working],solder,saldare
+you soldered (plural),avete saldato,verb,[jewelry and metal working],solder,saldare
 soldering,saldando,verb,[jewelry and metal working],solder,saldare
 to melt,fondere,verb,[jewelry and metal working],melt,fondere
 I melt,fondo,verb,[jewelry and metal working],melt,fondere
-you (familiar) melt,fondi,verb,[jewelry and metal working],melt,fondere
+you melt (familiar),fondi,verb,[jewelry and metal working],melt,fondere
 she melts,fonde,verb,[jewelry and metal working],melt,fondere
 he melts,fonde,verb,[jewelry and metal working],melt,fondere
 we melt,fondiamo,verb,[jewelry and metal working],melt,fondere
 they melt,fondono,verb,[jewelry and metal working],melt,fondere
-you (plural) melt,fondete,verb,[jewelry and metal working],melt,fondere
+you melt (plural),fondete,verb,[jewelry and metal working],melt,fondere
 I melted,ho fuso,verb,[jewelry and metal working],melt,fondere
-you (familiar) melted,hai fuso,verb,[jewelry and metal working],melt,fondere
+you melted (familiar),hai fuso,verb,[jewelry and metal working],melt,fondere
 she melted,ha fuso,verb,[jewelry and metal working],melt,fondere
 he melted,ha fuso,verb,[jewelry and metal working],melt,fondere
 we melted,abbiamo fuso,verb,[jewelry and metal working],melt,fondere
 they melted,hanno fuso,verb,[jewelry and metal working],melt,fondere
-you (plural) melted,avete fuso,verb,[jewelry and metal working],melt,fondere
+you melted (plural),avete fuso,verb,[jewelry and metal working],melt,fondere
 melting,fondendo,verb,[jewelry and metal working],melt,fondere
 to cast,colare,verb,[jewelry and metal working],cast,colare
 I cast,colo,verb,[jewelry and metal working],cast,colare
-you (familiar) cast,coli,verb,[jewelry and metal working],cast,colare
+you cast (familiar),coli,verb,[jewelry and metal working],cast,colare
 she casts,cola,verb,[jewelry and metal working],cast,colare
 he casts,cola,verb,[jewelry and metal working],cast,colare
 we cast,coliamo,verb,[jewelry and metal working],cast,colare
 they cast,colano,verb,[jewelry and metal working],cast,colare
-you (plural) cast,colate,verb,[jewelry and metal working],cast,colare
+you cast (plural),colate,verb,[jewelry and metal working],cast,colare
 I cast,ho colato,verb,[jewelry and metal working],cast,colare
-you (familiar) cast,hai colato,verb,[jewelry and metal working],cast,colare
+you cast (familiar),hai colato,verb,[jewelry and metal working],cast,colare
 she cast,ha colato,verb,[jewelry and metal working],cast,colare
 he cast,ha colato,verb,[jewelry and metal working],cast,colare
 we cast,abbiamo colato,verb,[jewelry and metal working],cast,colare
 they cast,hanno colato,verb,[jewelry and metal working],cast,colare
-you (plural) cast,avete colato,verb,[jewelry and metal working],cast,colare
+you cast (plural),avete colato,verb,[jewelry and metal working],cast,colare
 casting,colando,verb,[jewelry and metal working],cast,colare
 to polish,lucidare,verb,[jewelry and metal working],polish,lucidare
 I polish,lucido,verb,[jewelry and metal working],polish,lucidare
-you (familiar) polish,lucidi,verb,[jewelry and metal working],polish,lucidare
+you polish (familiar),lucidi,verb,[jewelry and metal working],polish,lucidare
 she polishes,lucida,verb,[jewelry and metal working],polish,lucidare
 he polishes,lucida,verb,[jewelry and metal working],polish,lucidare
 we polish,lucidiamo,verb,[jewelry and metal working],polish,lucidare
 they polish,lucidano,verb,[jewelry and metal working],polish,lucidare
-you (plural) polish,lucidate,verb,[jewelry and metal working],polish,lucidare
+you polish (plural),lucidate,verb,[jewelry and metal working],polish,lucidare
 I polished,ho lucidato,verb,[jewelry and metal working],polish,lucidare
-you (familiar) polished,hai lucidato,verb,[jewelry and metal working],polish,lucidare
+you polished (familiar),hai lucidato,verb,[jewelry and metal working],polish,lucidare
 she polished,ha lucidato,verb,[jewelry and metal working],polish,lucidare
 he polished,ha lucidato,verb,[jewelry and metal working],polish,lucidare
 we polished,abbiamo lucidato,verb,[jewelry and metal working],polish,lucidare
 they polished,hanno lucidato,verb,[jewelry and metal working],polish,lucidare
-you (plural) polished,avete lucidato,verb,[jewelry and metal working],polish,lucidare
+you polished (plural),avete lucidato,verb,[jewelry and metal working],polish,lucidare
 polishing,lucidando,verb,[jewelry and metal working],polish,lucidare
 to hammer,martellare,verb,[jewelry and metal working],hammer,martellare
 I hammer,martello,verb,[jewelry and metal working],hammer,martellare
-you (familiar) hammer,martelli,verb,[jewelry and metal working],hammer,martellare
+you hammer (familiar),martelli,verb,[jewelry and metal working],hammer,martellare
 she hammers,martella,verb,[jewelry and metal working],hammer,martellare
 he hammers,martella,verb,[jewelry and metal working],hammer,martellare
 we hammer,martelliamo,verb,[jewelry and metal working],hammer,martellare
 they hammer,martellano,verb,[jewelry and metal working],hammer,martellare
-you (plural) hammer,martellate,verb,[jewelry and metal working],hammer,martellare
+you hammer (plural),martellate,verb,[jewelry and metal working],hammer,martellare
 I hammered,ho martellato,verb,[jewelry and metal working],hammer,martellare
-you (familiar) hammered,hai martellato,verb,[jewelry and metal working],hammer,martellare
+you hammered (familiar),hai martellato,verb,[jewelry and metal working],hammer,martellare
 she hammered,ha martellato,verb,[jewelry and metal working],hammer,martellare
 he hammered,ha martellato,verb,[jewelry and metal working],hammer,martellare
 we hammered,abbiamo martellato,verb,[jewelry and metal working],hammer,martellare
 they hammered,hanno martellato,verb,[jewelry and metal working],hammer,martellare
-you (plural) hammered,avete martellato,verb,[jewelry and metal working],hammer,martellare
+you hammered (plural),avete martellato,verb,[jewelry and metal working],hammer,martellare
 hammering,martellando,verb,[jewelry and metal working],hammer,martellare
 to saw,segare,verb,[jewelry and metal working],saw,segare
 I saw,sego,verb,[jewelry and metal working],saw,segare
-you (familiar) saw,seghi,verb,[jewelry and metal working],saw,segare
+you saw (familiar),seghi,verb,[jewelry and metal working],saw,segare
 she saws,sega,verb,[jewelry and metal working],saw,segare
 he saws,sega,verb,[jewelry and metal working],saw,segare
 we saw,seghiamo,verb,[jewelry and metal working],saw,segare
 they saw,seghano,verb,[jewelry and metal working],saw,segare
-you (plural) saw,segate,verb,[jewelry and metal working],saw,segare
+you saw (plural),segate,verb,[jewelry and metal working],saw,segare
 I sawed,ho segato,verb,[jewelry and metal working],saw,segare
-you (familiar) sawed,hai segato,verb,[jewelry and metal working],saw,segare
+you sawed (familiar),hai segato,verb,[jewelry and metal working],saw,segare
 she sawed,ha segato,verb,[jewelry and metal working],saw,segare
 he sawed,ha segato,verb,[jewelry and metal working],saw,segare
 we sawed,abbiamo segato,verb,[jewelry and metal working],saw,segare
 they sawed,hanno segato,verb,[jewelry and metal working],saw,segare
-you (plural) sawed,avete segato,verb,[jewelry and metal working],saw,segare
+you sawed (plural),avete segato,verb,[jewelry and metal working],saw,segare
 sawing,segando,verb,[jewelry and metal working],saw,segare
 to file,limare,verb,[jewelry and metal working],file,limare
 I file,limo,verb,[jewelry and metal working],file,limare
-you (familiar) file,limi,verb,[jewelry and metal working],file,limare
+you file (familiar),limi,verb,[jewelry and metal working],file,limare
 she files,lima,verb,[jewelry and metal working],file,limare
 he files,lima,verb,[jewelry and metal working],file,limare
 we file,limiamo,verb,[jewelry and metal working],file,limare
 they file,limano,verb,[jewelry and metal working],file,limare
-you (plural) file,limate,verb,[jewelry and metal working],file,limare
+you file (plural),limate,verb,[jewelry and metal working],file,limare
 I filed,ho limato,verb,[jewelry and metal working],file,limare
-you (familiar) filed,hai limato,verb,[jewelry and metal working],file,limare
+you filed (familiar),hai limato,verb,[jewelry and metal working],file,limare
 she filed,ha limato,verb,[jewelry and metal working],file,limare
 he filed,ha limato,verb,[jewelry and metal working],file,limare
 we filed,abbiamo limato,verb,[jewelry and metal working],file,limare
 they filed,hanno limato,verb,[jewelry and metal working],file,limare
-you (plural) filed,avete limato,verb,[jewelry and metal working],file,limare
+you filed (plural),avete limato,verb,[jewelry and metal working],file,limare
 filing,limando,verb,[jewelry and metal working],file,limare
 to drill,forare,verb,[jewelry and metal working],drill,forare
 I drill,foro,verb,[jewelry and metal working],drill,forare
-you (familiar) drill,fori,verb,[jewelry and metal working],drill,forare
+you drill (familiar),fori,verb,[jewelry and metal working],drill,forare
 she drills,fora,verb,[jewelry and metal working],drill,forare
 he drills,fora,verb,[jewelry and metal working],drill,forare
 we drill,foriamo,verb,[jewelry and metal working],drill,forare
 they drill,forano,verb,[jewelry and metal working],drill,forare
-you (plural) drill,forate,verb,[jewelry and metal working],drill,forare
+you drill (plural),forate,verb,[jewelry and metal working],drill,forare
 I drilled,ho forato,verb,[jewelry and metal working],drill,forare
-you (familiar) drilled,hai forato,verb,[jewelry and metal working],drill,forare
+you drilled (familiar),hai forato,verb,[jewelry and metal working],drill,forare
 she drilled,ha forato,verb,[jewelry and metal working],drill,forare
 he drilled,ha forato,verb,[jewelry and metal working],drill,forare
 we drilled,abbiamo forato,verb,[jewelry and metal working],drill,forare
 they drilled,hanno forato,verb,[jewelry and metal working],drill,forare
-you (plural) drilled,avete forato,verb,[jewelry and metal working],drill,forare
+you drilled (plural),avete forato,verb,[jewelry and metal working],drill,forare
 drilling,forando,verb,[jewelry and metal working],drill,forare
 to engrave,incidere,verb,[jewelry and metal working],engrave,incidere
 I engrave,incido,verb,[jewelry and metal working],engrave,incidere
-you (familiar) engrave,incidi,verb,[jewelry and metal working],engrave,incidere
+you engrave (familiar),incidi,verb,[jewelry and metal working],engrave,incidere
 she engraves,incide,verb,[jewelry and metal working],engrave,incidere
 he engraves,incide,verb,[jewelry and metal working],engrave,incidere
 we engrave,incidiamo,verb,[jewelry and metal working],engrave,incidere
 they engrave,incidono,verb,[jewelry and metal working],engrave,incidere
-you (plural) engrave,incidete,verb,[jewelry and metal working],engrave,incidere
+you engrave (plural),incidete,verb,[jewelry and metal working],engrave,incidere
 I engraved,ho inciso,verb,[jewelry and metal working],engrave,incidere
-you (familiar) engraved,hai inciso,verb,[jewelry and metal working],engrave,incidere
+you engraved (familiar),hai inciso,verb,[jewelry and metal working],engrave,incidere
 she engraved,ha inciso,verb,[jewelry and metal working],engrave,incidere
 he engraved,ha inciso,verb,[jewelry and metal working],engrave,incidere
 we engraved,abbiamo inciso,verb,[jewelry and metal working],engrave,incidere
 they engraved,hanno inciso,verb,[jewelry and metal working],engrave,incidere
-you (plural) engraved,avete inciso,verb,[jewelry and metal working],engrave,incidere
+you engraved (plural),avete inciso,verb,[jewelry and metal working],engrave,incidere
 engraving,incidendo,verb,[jewelry and metal working],engrave,incidere
 to set,incastonare,verb,[jewelry and metal working],set,incastonare
-I set,incastono,phrase,[jewelry and metal working],I set,incastono
-you (familiar) set,incastoni,phrase,[jewelry and metal working],you (familiar) set,incastoni
-she sets,incastona,phrase,[jewelry and metal working],she sets,incastona
-he sets,incastona,phrase,[jewelry and metal working],he sets,incastona
-we set,incastoniamo,phrase,[jewelry and metal working],we set,incastoniamo
-they set,incastonano,phrase,[jewelry and metal working],they set,incastonano
-you (plural) set,incastonate,phrase,[jewelry and metal working],you (plural) set,incastonate
-I set (past),ho incastonato,phrase,[jewelry and metal working],I set (past),ho incastonato
-you (familiar) set (past),hai incastonato,phrase,[jewelry and metal working],you (familiar) set (past),hai incastonato
-she set (past),ha incastonato,phrase,[jewelry and metal working],she set (past),ha incastonato
-he set (past),ha incastonato,phrase,[jewelry and metal working],he set (past),ha incastonato
-we set (past),abbiamo incastonato,phrase,[jewelry and metal working],we set (past),abbiamo incastonato
-they set (past),hanno incastonato,phrase,[jewelry and metal working],they set (past),hanno incastonato
-you (plural) set (past),avete incastonato,phrase,[jewelry and metal working],you (plural) set (past),avete incastonato
-setting,incastonando,phrase,[jewelry and metal working],setting,incastonando
+I set,incastono,verb,[jewelry and metal working],set,incastonare
+you set (familiar),incastoni,verb,[jewelry and metal working],set,incastonare
+she sets,incastona,verb,[jewelry and metal working],set,incastonare
+he sets,incastona,verb,[jewelry and metal working],set,incastonare
+we set,incastoniamo,verb,[jewelry and metal working],set,incastonare
+they set,incastonano,verb,[jewelry and metal working],set,incastonare
+you set (plural),incastonate,verb,[jewelry and metal working],set,incastonare
+I set (past),ho incastonato,verb,[jewelry and metal working],set,incastonare
+you set (past) (familiar),hai incastonato,verb,[jewelry and metal working],set,incastonare
+she set (past),ha incastonato,verb,[jewelry and metal working],set,incastonare
+he set (past),ha incastonato,verb,[jewelry and metal working],set,incastonare
+we set (past),abbiamo incastonato,verb,[jewelry and metal working],set,incastonare
+they set (past),hanno incastonato,verb,[jewelry and metal working],set,incastonare
+you set (past) (plural),avete incastonato,verb,[jewelry and metal working],set,incastonare
+setting,incastonando,verb,[jewelry and metal working],set,incastonare
 to anneal,ricuocere,verb,[jewelry and metal working],anneal,ricuocere
-I anneal,ricuocio,phrase,[jewelry and metal working],I anneal,ricuocio
-you (familiar) anneal,ricuoci,phrase,[jewelry and metal working],you (familiar) anneal,ricuoci
-she anneals,ricuoce,phrase,[jewelry and metal working],she anneals,ricuoce
-he anneals,ricuoce,phrase,[jewelry and metal working],he anneals,ricuoce
-we anneal,ricuociamo,phrase,[jewelry and metal working],we anneal,ricuociamo
-they anneal,ricuociono,phrase,[jewelry and metal working],they anneal,ricuociono
-you (plural) anneal,ricuocete,phrase,[jewelry and metal working],you (plural) anneal,ricuocete
-I annealed,ho ricotto,phrase,[jewelry and metal working],I annealed,ho ricotto
-you (familiar) annealed,hai ricotto,phrase,[jewelry and metal working],you (familiar) annealed,hai ricotto
-she annealed,ha ricotto,phrase,[jewelry and metal working],she annealed,ha ricotto
-he annealed,ha ricotto,phrase,[jewelry and metal working],he annealed,ha ricotto
-we annealed,abbiamo ricotto,phrase,[jewelry and metal working],we annealed,abbiamo ricotto
-they annealed,hanno ricotto,phrase,[jewelry and metal working],they annealed,hanno ricotto
-you (plural) annealed,avete ricotto,phrase,[jewelry and metal working],you (plural) annealed,avete ricotto
-annealing,ricuocendo,phrase,[jewelry and metal working],annealing,ricuocendo
+I anneal,ricuocio,verb,[jewelry and metal working],anneal,ricuocere
+you anneal (familiar),ricuoci,verb,[jewelry and metal working],anneal,ricuocere
+she anneals,ricuoce,verb,[jewelry and metal working],anneal,ricuocere
+he anneals,ricuoce,verb,[jewelry and metal working],anneal,ricuocere
+we anneal,ricuociamo,verb,[jewelry and metal working],anneal,ricuocere
+they anneal,ricuociono,verb,[jewelry and metal working],anneal,ricuocere
+you anneal (plural),ricuocete,verb,[jewelry and metal working],anneal,ricuocere
+I annealed,ho ricotto,verb,[jewelry and metal working],anneal,ricuocere
+you annealed (familiar),hai ricotto,verb,[jewelry and metal working],anneal,ricuocere
+she annealed,ha ricotto,verb,[jewelry and metal working],anneal,ricuocere
+he annealed,ha ricotto,verb,[jewelry and metal working],anneal,ricuocere
+we annealed,abbiamo ricotto,verb,[jewelry and metal working],anneal,ricuocere
+they annealed,hanno ricotto,verb,[jewelry and metal working],anneal,ricuocere
+you annealed (plural),avete ricotto,verb,[jewelry and metal working],anneal,ricuocere
+annealing,ricuocendo,verb,[jewelry and metal working],anneal,ricuocere
 to sand,levigare,verb,[jewelry and metal working],sand,levigare
-I sand,levigo,phrase,[jewelry and metal working],I sand,levigo
-you (familiar) sand,levighi,phrase,[jewelry and metal working],you (familiar) sand,levighi
-she sands,leviga,phrase,[jewelry and metal working],she sands,leviga
-he sands,leviga,phrase,[jewelry and metal working],he sands,leviga
-we sand,levighiamo,phrase,[jewelry and metal working],we sand,levighiamo
-they sand,levigano,phrase,[jewelry and metal working],they sand,levigano
-you (plural) sand,levigate,phrase,[jewelry and metal working],you (plural) sand,levigate
-I sanded,ho levigato,phrase,[jewelry and metal working],I sanded,ho levigato
-you (familiar) sanded,hai levigato,phrase,[jewelry and metal working],you (familiar) sanded,hai levigato
-she sanded,ha levigato,phrase,[jewelry and metal working],she sanded,ha levigato
-he sanded,ha levigato,phrase,[jewelry and metal working],he sanded,ha levigato
-we sanded,abbiamo levigato,phrase,[jewelry and metal working],we sanded,abbiamo levigato
-they sanded,hanno levigato,phrase,[jewelry and metal working],they sanded,hanno levigato
-you (plural) sanded,avete levigato,phrase,[jewelry and metal working],you (plural) sanded,avete levigato
-sanding,levigando,phrase,[jewelry and metal working],sanding,levigando
+I sand,levigo,verb,[jewelry and metal working],sand,levigare
+you sand (familiar),levighi,verb,[jewelry and metal working],sand,levigare
+she sands,leviga,verb,[jewelry and metal working],sand,levigare
+he sands,leviga,verb,[jewelry and metal working],sand,levigare
+we sand,levighiamo,verb,[jewelry and metal working],sand,levigare
+they sand,levigano,verb,[jewelry and metal working],sand,levigare
+you sand (plural),levigate,verb,[jewelry and metal working],sand,levigare
+I sanded,ho levigato,verb,[jewelry and metal working],sand,levigare
+you sanded (familiar),hai levigato,verb,[jewelry and metal working],sand,levigare
+she sanded,ha levigato,verb,[jewelry and metal working],sand,levigare
+he sanded,ha levigato,verb,[jewelry and metal working],sand,levigare
+we sanded,abbiamo levigato,verb,[jewelry and metal working],sand,levigare
+they sanded,hanno levigato,verb,[jewelry and metal working],sand,levigare
+you sanded (plural),avete levigato,verb,[jewelry and metal working],sand,levigare
+sanding,levigando,verb,[jewelry and metal working],sand,levigare
 to oxidize,ossidare,verb,[jewelry and metal working],oxidize,ossidare
-I oxidize,ossido,phrase,[jewelry and metal working],I oxidize,ossido
-you (familiar) oxidize,ossidi,phrase,[jewelry and metal working],you (familiar) oxidize,ossidi
-she oxidizes,ossida,phrase,[jewelry and metal working],she oxidizes,ossida
-he oxidizes,ossida,phrase,[jewelry and metal working],he oxidizes,ossida
-we oxidize,ossidiamo,phrase,[jewelry and metal working],we oxidize,ossidiamo
-they oxidize,ossidano,phrase,[jewelry and metal working],they oxidize,ossidano
-you (plural) oxidize,ossidate,phrase,[jewelry and metal working],you (plural) oxidize,ossidate
-I oxidized,ho ossidato,phrase,[jewelry and metal working],I oxidized,ho ossidato
-you (familiar) oxidized,hai ossidato,phrase,[jewelry and metal working],you (familiar) oxidized,hai ossidato
-she oxidized,ha ossidato,phrase,[jewelry and metal working],she oxidized,ha ossidato
-he oxidized,ha ossidato,phrase,[jewelry and metal working],he oxidized,ha ossidato
-we oxidized,abbiamo ossidato,phrase,[jewelry and metal working],we oxidized,abbiamo ossidato
-they oxidized,hanno ossidato,phrase,[jewelry and metal working],they oxidized,hanno ossidato
-you (plural) oxidized,avete ossidato,phrase,[jewelry and metal working],you (plural) oxidized,avete ossidato
-oxidizing,ossidando,phrase,[jewelry and metal working],oxidizing,ossidando
+I oxidize,ossido,verb,[jewelry and metal working],oxidize,ossidare
+you oxidize (familiar),ossidi,verb,[jewelry and metal working],oxidize,ossidare
+she oxidizes,ossida,verb,[jewelry and metal working],oxidize,ossidare
+he oxidizes,ossida,verb,[jewelry and metal working],oxidize,ossidare
+we oxidize,ossidiamo,verb,[jewelry and metal working],oxidize,ossidare
+they oxidize,ossidano,verb,[jewelry and metal working],oxidize,ossidare
+you oxidize (plural),ossidate,verb,[jewelry and metal working],oxidize,ossidare
+I oxidized,ho ossidato,verb,[jewelry and metal working],oxidize,ossidare
+you oxidized (familiar),hai ossidato,verb,[jewelry and metal working],oxidize,ossidare
+she oxidized,ha ossidato,verb,[jewelry and metal working],oxidize,ossidare
+he oxidized,ha ossidato,verb,[jewelry and metal working],oxidize,ossidare
+we oxidized,abbiamo ossidato,verb,[jewelry and metal working],oxidize,ossidare
+they oxidized,hanno ossidato,verb,[jewelry and metal working],oxidize,ossidare
+you oxidized (plural),avete ossidato,verb,[jewelry and metal working],oxidize,ossidare
+oxidizing,ossidando,verb,[jewelry and metal working],oxidize,ossidare
 to roll,laminare,verb,[jewelry and metal working],roll,laminare
-I roll,lamino,phrase,[jewelry and metal working],I roll,lamino
-you (familiar) roll,lamini,phrase,[jewelry and metal working],you (familiar) roll,lamini
-she rolls,lamina,phrase,[jewelry and metal working],she rolls,lamina
-he rolls,lamina,phrase,[jewelry and metal working],he rolls,lamina
-we roll,laminiamo,phrase,[jewelry and metal working],we roll,laminiamo
-they roll,laminano,phrase,[jewelry and metal working],they roll,laminano
-you (plural) roll,laminate,phrase,[jewelry and metal working],you (plural) roll,laminate
-I rolled,ho laminato,phrase,[jewelry and metal working],I rolled,ho laminato
-you (familiar) rolled,hai laminato,phrase,[jewelry and metal working],you (familiar) rolled,hai laminato
-she rolled,ha laminato,phrase,[jewelry and metal working],she rolled,ha laminato
-he rolled,ha laminato,phrase,[jewelry and metal working],he rolled,ha laminato
-we rolled,abbiamo laminato,phrase,[jewelry and metal working],we rolled,abbiamo laminato
-they rolled,hanno laminato,phrase,[jewelry and metal working],they rolled,hanno laminato
-you (plural) rolled,avete laminato,phrase,[jewelry and metal working],you (plural) rolled,avete laminato
-rolling,laminando,phrase,[jewelry and metal working],rolling,laminando
+I roll,lamino,verb,[jewelry and metal working],roll,laminare
+you roll (familiar),lamini,verb,[jewelry and metal working],roll,laminare
+she rolls,lamina,verb,[jewelry and metal working],roll,laminare
+he rolls,lamina,verb,[jewelry and metal working],roll,laminare
+we roll,laminiamo,verb,[jewelry and metal working],roll,laminare
+they roll,laminano,verb,[jewelry and metal working],roll,laminare
+you roll (plural),laminate,verb,[jewelry and metal working],roll,laminare
+I rolled,ho laminato,verb,[jewelry and metal working],roll,laminare
+you rolled (familiar),hai laminato,verb,[jewelry and metal working],roll,laminare
+she rolled,ha laminato,verb,[jewelry and metal working],roll,laminare
+he rolled,ha laminato,verb,[jewelry and metal working],roll,laminare
+we rolled,abbiamo laminato,verb,[jewelry and metal working],roll,laminare
+they rolled,hanno laminato,verb,[jewelry and metal working],roll,laminare
+you rolled (plural),avete laminato,verb,[jewelry and metal working],roll,laminare
+rolling,laminando,verb,[jewelry and metal working],roll,laminare
 to draw,trafilare,verb,[jewelry and metal working],draw,trafilare
-I draw,trafilo,phrase,[jewelry and metal working],I draw,trafilo
-you (familiar) draw,trafili,phrase,[jewelry and metal working],you (familiar) draw,trafili
-she draws,trafi la,phrase,[jewelry and metal working],she draws,trafi la
-he draws,trafila,phrase,[jewelry and metal working],he draws,trafila
-we draw,trafiliamo,phrase,[jewelry and metal working],we draw,trafiliamo
-they draw,trafilano,phrase,[jewelry and metal working],they draw,trafilano
-you (plural) draw,trafilate,phrase,[jewelry and metal working],you (plural) draw,trafilate
-I drew (wire),ho trafilato,phrase,[jewelry and metal working],I drew (wire),ho trafilato
-you (familiar) drew (wire),hai trafilato,phrase,[jewelry and metal working],you (familiar) drew (wire),hai trafilato
-she drew (wire),ha trafilato,phrase,[jewelry and metal working],she drew (wire),ha trafilato
-he drew (wire),ha trafilato,phrase,[jewelry and metal working],he drew (wire),ha trafilato
-we drew (wire),abbiamo trafilato,phrase,[jewelry and metal working],we drew (wire),abbiamo trafilato
-they drew (wire),hanno trafilato,phrase,[jewelry and metal working],they drew (wire),hanno trafilato
-you (plural) drew (wire),avete trafilato,phrase,[jewelry and metal working],you (plural) drew (wire),avete trafilato
-drawing (wire),trafilando,phrase,[jewelry and metal working],drawing (wire),trafilando
+I draw,trafilo,verb,[jewelry and metal working],draw,trafilare
+you draw (familiar),trafili,verb,[jewelry and metal working],draw,trafilare
+she draws,trafila,verb,[jewelry and metal working],draw,trafilare
+he draws,trafila,verb,[jewelry and metal working],draw,trafilare
+we draw,trafiliamo,verb,[jewelry and metal working],draw,trafilare
+they draw,trafilano,verb,[jewelry and metal working],draw,trafilare
+you draw (plural),trafilate,verb,[jewelry and metal working],draw,trafilare
+I drew (wire),ho trafilato,verb,[jewelry and metal working],draw,trafilare
+you drew (wire) (familiar),hai trafilato,verb,[jewelry and metal working],draw,trafilare
+she drew (wire),ha trafilato,verb,[jewelry and metal working],draw,trafilare
+he drew (wire),ha trafilato,verb,[jewelry and metal working],draw,trafilare
+we drew (wire),abbiamo trafilato,verb,[jewelry and metal working],draw,trafilare
+they drew (wire),hanno trafilato,verb,[jewelry and metal working],draw,trafilare
+you drew (wire) (plural),avete trafilato,verb,[jewelry and metal working],draw,trafilare
+drawing (wire),trafilando,verb,[jewelry and metal working],draw,trafilare
 to measure,misurare,verb,[jewelry and metal working],measure,misurare
-I measure,misuro,phrase,[jewelry and metal working],I measure,misuro
-you (familiar) measure,misuri,phrase,[jewelry and metal working],you (familiar) measure,misuri
-she measures,misura,phrase,[jewelry and metal working],she measures,misura
-he measures,misura,phrase,[jewelry and metal working],he measures,misura
-we measure,misuriamo,phrase,[jewelry and metal working],we measure,misuriamo
-they measure,misurano,phrase,[jewelry and metal working],they measure,misurano
-you (plural) measure,misurate,phrase,[jewelry and metal working],you (plural) measure,misurate
-I measured,ho misurato,phrase,[jewelry and metal working],I measured,ho misurato
-you (familiar) measured,hai misurato,phrase,[jewelry and metal working],you (familiar) measured,hai misurato
-she measured,ha misurato,phrase,[jewelry and metal working],she measured,ha misurato
-he measured,ha misurato,phrase,[jewelry and metal working],he measured,ha misurato
-we measured,abbiamo misurato,phrase,[jewelry and metal working],we measured,abbiamo misurato
-they measured,hanno misurato,phrase,[jewelry and metal working],they measured,hanno misurato
-you (plural) measured,avete misurato,phrase,[jewelry and metal working],you (plural) measured,avete misurato
-measuring,misurando,phrase,[jewelry and metal working],measuring,misurando
+I measure,misuro,verb,[jewelry and metal working],measure,misurare
+you measure (familiar),misuri,verb,[jewelry and metal working],measure,misurare
+she measures,misura,verb,[jewelry and metal working],measure,misurare
+he measures,misura,verb,[jewelry and metal working],measure,misurare
+we measure,misuriamo,verb,[jewelry and metal working],measure,misurare
+they measure,misurano,verb,[jewelry and metal working],measure,misurare
+you measure (plural),misurate,verb,[jewelry and metal working],measure,misurare
+I measured,ho misurato,verb,[jewelry and metal working],measure,misurare
+you measured (familiar),hai misurato,verb,[jewelry and metal working],measure,misurare
+she measured,ha misurato,verb,[jewelry and metal working],measure,misurare
+he measured,ha misurato,verb,[jewelry and metal working],measure,misurare
+we measured,abbiamo misurato,verb,[jewelry and metal working],measure,misurare
+they measured,hanno misurato,verb,[jewelry and metal working],measure,misurare
+you measured (plural),avete misurato,verb,[jewelry and metal working],measure,misurare
+measuring,misurando,verb,[jewelry and metal working],measure,misurare
 to buff,spazzolare,verb,[jewelry and metal working],buff,spazzolare
-I buff,spazzolo,phrase,[jewelry and metal working],I buff,spazzolo
-you (familiar) buff,spazzoli,phrase,[jewelry and metal working],you (familiar) buff,spazzoli
-she buffs,spazzola,phrase,[jewelry and metal working],she buffs,spazzola
-he buffs,spazzola,phrase,[jewelry and metal working],he buffs,spazzola
-we buff,spazzoliamo,phrase,[jewelry and metal working],we buff,spazzoliamo
-they buff,spazzolano,phrase,[jewelry and metal working],they buff,spazzolano
-you (plural) buff,spazzolate,phrase,[jewelry and metal working],you (plural) buff,spazzolate
-I buffed,ho spazzolato,phrase,[jewelry and metal working],I buffed,ho spazzolato
-you (familiar) buffed,hai spazzolato,phrase,[jewelry and metal working],you (familiar) buffed,hai spazzolato
-she buffed,ha spazzolato,phrase,[jewelry and metal working],she buffed,ha spazzolato
-he buffed,ha spazzolato,phrase,[jewelry and metal working],he buffed,ha spazzolato
-we buffed,abbiamo spazzolato,phrase,[jewelry and metal working],we buffed,abbiamo spazzolato
-they buffed,hanno spazzolato,phrase,[jewelry and metal working],they buffed,hanno spazzolato
-you (plural) buffed,avete spazzolato,phrase,[jewelry and metal working],you (plural) buffed,avete spazzolato
-buffing,spazzolando,phrase,[jewelry and metal working],buffing,spazzolando
+I buff,spazzolo,verb,[jewelry and metal working],buff,spazzolare
+you buff (familiar),spazzoli,verb,[jewelry and metal working],buff,spazzolare
+she buffs,spazzola,verb,[jewelry and metal working],buff,spazzolare
+he buffs,spazzola,verb,[jewelry and metal working],buff,spazzolare
+we buff,spazzoliamo,verb,[jewelry and metal working],buff,spazzolare
+they buff,spazzolano,verb,[jewelry and metal working],buff,spazzolare
+you buff (plural),spazzolate,verb,[jewelry and metal working],buff,spazzolare
+I buffed,ho spazzolato,verb,[jewelry and metal working],buff,spazzolare
+you buffed (familiar),hai spazzolato,verb,[jewelry and metal working],buff,spazzolare
+she buffed,ha spazzolato,verb,[jewelry and metal working],buff,spazzolare
+he buffed,ha spazzolato,verb,[jewelry and metal working],buff,spazzolare
+we buffed,abbiamo spazzolato,verb,[jewelry and metal working],buff,spazzolare
+they buffed,hanno spazzolato,verb,[jewelry and metal working],buff,spazzolare
+you buffed (plural),avete spazzolato,verb,[jewelry and metal working],buff,spazzolare
+buffing,spazzolando,verb,[jewelry and metal working],buff,spazzolare
 to pickle,decapare,verb,[jewelry and metal working],pickle,decapare
-I pickle,decapo,phrase,[jewelry and metal working],I pickle,decapo
-you (familiar) pickle,decapi,phrase,[jewelry and metal working],you (familiar) pickle,decapi
-she pickles,decapa,phrase,[jewelry and metal working],she pickles,decapa
-he pickles,decapa,phrase,[jewelry and metal working],he pickles,decapa
-we pickle,decapiamo,phrase,[jewelry and metal working],we pickle,decapiamo
-they pickle,decapano,phrase,[jewelry and metal working],they pickle,decapano
-you (plural) pickle,decapate,phrase,[jewelry and metal working],you (plural) pickle,decapate
-I pickled,ho decapato,phrase,[jewelry and metal working],I pickled,ho decapato
-you (familiar) pickled,hai decapato,phrase,[jewelry and metal working],you (familiar) pickled,hai decapato
-she pickled,ha decapato,phrase,[jewelry and metal working],she pickled,ha decapato
-he pickled,ha decapato,phrase,[jewelry and metal working],he pickled,ha decapato
-we pickled,abbiamo decapato,phrase,[jewelry and metal working],we pickled,abbiamo decapato
-they pickled,hanno decapato,phrase,[jewelry and metal working],they pickled,hanno decapato
-you (plural) pickled,avete decapato,phrase,[jewelry and metal working],you (plural) pickled,avete decapato
-pickling,decapando,phrase,[jewelry and metal working],pickling,decapando
+I pickle,decapo,verb,[jewelry and metal working],pickle,decapare
+you pickle (familiar),decapi,verb,[jewelry and metal working],pickle,decapare
+she pickles,decapa,verb,[jewelry and metal working],pickle,decapare
+he pickles,decapa,verb,[jewelry and metal working],pickle,decapare
+we pickle,decapiamo,verb,[jewelry and metal working],pickle,decapare
+they pickle,decapano,verb,[jewelry and metal working],pickle,decapare
+you pickle (plural),decapate,verb,[jewelry and metal working],pickle,decapare
+I pickled,ho decapato,verb,[jewelry and metal working],pickle,decapare
+you pickled (familiar),hai decapato,verb,[jewelry and metal working],pickle,decapare
+she pickled,ha decapato,verb,[jewelry and metal working],pickle,decapare
+he pickled,ha decapato,verb,[jewelry and metal working],pickle,decapare
+we pickled,abbiamo decapato,verb,[jewelry and metal working],pickle,decapare
+they pickled,hanno decapato,verb,[jewelry and metal working],pickle,decapare
+you pickled (plural),avete decapato,verb,[jewelry and metal working],pickle,decapare
+pickling,decapando,verb,[jewelry and metal working],pickle,decapare
 to quench,temprare,verb,[jewelry and metal working],quench,temprare
-I quench,tempro,phrase,[jewelry and metal working],I quench,tempro
-you (familiar) quench,tempri,phrase,[jewelry and metal working],you (familiar) quench,tempri
-she quenches,tempra,phrase,[jewelry and metal working],she quenches,tempra
-he quenches,tempra,phrase,[jewelry and metal working],he quenches,tempra
-we quench,tempriamo,phrase,[jewelry and metal working],we quench,tempriamo
-they quench,temprano,phrase,[jewelry and metal working],they quench,temprano
-you (plural) quench,temprate,phrase,[jewelry and metal working],you (plural) quench,temprate
-I quenched,ho temprato,phrase,[jewelry and metal working],I quenched,ho temprato
-you (familiar) quenched,hai temprato,phrase,[jewelry and metal working],you (familiar) quenched,hai temprato
-she quenched,ha temprato,phrase,[jewelry and metal working],she quenched,ha temprato
-he quenched,ha temprato,phrase,[jewelry and metal working],he quenched,ha temprato
-we quenched,abbiamo temprato,phrase,[jewelry and metal working],we quenched,abbiamo temprato
-they quenched,hanno temprato,phrase,[jewelry and metal working],they quenched,hanno temprato
-you (plural) quenched,avete temprato,phrase,[jewelry and metal working],you (plural) quenched,avete temprato
-quenching,temprando,phrase,[jewelry and metal working],quenching,temprando
+I quench,tempro,verb,[jewelry and metal working],quench,temprare
+you quench (familiar),tempri,verb,[jewelry and metal working],quench,temprare
+she quenches,tempra,verb,[jewelry and metal working],quench,temprare
+he quenches,tempra,verb,[jewelry and metal working],quench,temprare
+we quench,tempriamo,verb,[jewelry and metal working],quench,temprare
+they quench,temprano,verb,[jewelry and metal working],quench,temprare
+you quench (plural),temprate,verb,[jewelry and metal working],quench,temprare
+I quenched,ho temprato,verb,[jewelry and metal working],quench,temprare
+you quenched (familiar),hai temprato,verb,[jewelry and metal working],quench,temprare
+she quenched,ha temprato,verb,[jewelry and metal working],quench,temprare
+he quenched,ha temprato,verb,[jewelry and metal working],quench,temprare
+we quenched,abbiamo temprato,verb,[jewelry and metal working],quench,temprare
+they quenched,hanno temprato,verb,[jewelry and metal working],quench,temprare
+you quenched (plural),avete temprato,verb,[jewelry and metal working],quench,temprare
+quenching,temprando,verb,[jewelry and metal working],quench,temprare
 to bend,piegare,verb,[jewelry and metal working],bend,piegare
-I bend,piego,phrase,[jewelry and metal working],I bend,piego
-you (familiar) bend,pieghi,phrase,[jewelry and metal working],you (familiar) bend,pieghi
-she bends,piega,phrase,[jewelry and metal working],she bends,piega
-he bends,piega,phrase,[jewelry and metal working],he bends,piega
-we bend,pieghiamo,phrase,[jewelry and metal working],we bend,pieghiamo
-they bend,piegano,phrase,[jewelry and metal working],they bend,piegano
-you (plural) bend,piegate,phrase,[jewelry and metal working],you (plural) bend,piegate
-I bent,ho piegato,phrase,[jewelry and metal working],I bent,ho piegato
-you (familiar) bent,hai piegato,phrase,[jewelry and metal working],you (familiar) bent,hai piegato
-she bent,ha piegato,phrase,[jewelry and metal working],she bent,ha piegato
-he bent,ha piegato,phrase,[jewelry and metal working],he bent,ha piegato
-we bent,abbiamo piegato,phrase,[jewelry and metal working],we bent,abbiamo piegato
-they bent,hanno piegato,phrase,[jewelry and metal working],they bent,hanno piegato
-you (plural) bent,avete piegato,phrase,[jewelry and metal working],you (plural) bent,avete piegato
-bending,piegando,phrase,[jewelry and metal working],bending,piegando
+I bend,piego,verb,[jewelry and metal working],bend,piegare
+you bend (familiar),pieghi,verb,[jewelry and metal working],bend,piegare
+she bends,piega,verb,[jewelry and metal working],bend,piegare
+he bends,piega,verb,[jewelry and metal working],bend,piegare
+we bend,pieghiamo,verb,[jewelry and metal working],bend,piegare
+they bend,piegano,verb,[jewelry and metal working],bend,piegare
+you bend (plural),piegate,verb,[jewelry and metal working],bend,piegare
+I bent,ho piegato,verb,[jewelry and metal working],bend,piegare
+you bent (familiar),hai piegato,verb,[jewelry and metal working],bend,piegare
+she bent,ha piegato,verb,[jewelry and metal working],bend,piegare
+he bent,ha piegato,verb,[jewelry and metal working],bend,piegare
+we bent,abbiamo piegato,verb,[jewelry and metal working],bend,piegare
+they bent,hanno piegato,verb,[jewelry and metal working],bend,piegare
+you bent (plural),avete piegato,verb,[jewelry and metal working],bend,piegare
+bending,piegando,verb,[jewelry and metal working],bend,piegare
 to buy,comprare,verb,[shopping],buy,comprare
-I buy,compro,phrase,[shopping],I buy,compro
-you (familiar) buy,compri,phrase,[shopping],you (familiar) buy,compri
-she buys,compra,phrase,[shopping],she buys,compra
-he buys,compra,phrase,[shopping],he buys,compra
-we buy,compriamo,phrase,[shopping],we buy,compriamo
-they buy,comprano,phrase,[shopping],they buy,comprano
-you (plural) buy,comprate,phrase,[shopping],you (plural) buy,comprate
-I bought,ho comprato,phrase,[shopping],I bought,ho comprato
-you (familiar) bought,hai comprato,phrase,[shopping],you (familiar) bought,hai comprato
-she bought,ha comprato,phrase,[shopping],she bought,ha comprato
-he bought,ha comprato,phrase,[shopping],he bought,ha comprato
-we bought,abbiamo comprato,phrase,[shopping],we bought,abbiamo comprato
-they bought,hanno comprato,phrase,[shopping],they bought,hanno comprato
-you (plural) bought,avete comprato,phrase,[shopping],you (plural) bought,avete comprato
-buying,comprando,phrase,[shopping],buying,comprando
+I buy,compro,verb,[shopping],buy,comprare
+you buy (familiar),compri,verb,[shopping],buy,comprare
+she buys,compra,verb,[shopping],buy,comprare
+he buys,compra,verb,[shopping],buy,comprare
+we buy,compriamo,verb,[shopping],buy,comprare
+they buy,comprano,verb,[shopping],buy,comprare
+you buy (plural),comprate,verb,[shopping],buy,comprare
+I bought,ho comprato,verb,[shopping],buy,comprare
+you bought (familiar),hai comprato,verb,[shopping],buy,comprare
+she bought,ha comprato,verb,[shopping],buy,comprare
+he bought,ha comprato,verb,[shopping],buy,comprare
+we bought,abbiamo comprato,verb,[shopping],buy,comprare
+they bought,hanno comprato,verb,[shopping],buy,comprare
+you bought (plural),avete comprato,verb,[shopping],buy,comprare
+buying,comprando,verb,[shopping],buy,comprare
 to pay,pagare,verb,[shopping],pay,pagare
-I pay,pago,phrase,[shopping],I pay,pago
-you (familiar) pay,paghi,phrase,[shopping],you (familiar) pay,paghi
-she pays,paga,phrase,[shopping],she pays,paga
-he pays,paga,phrase,[shopping],he pays,paga
-we pay,paghiamo,phrase,[shopping],we pay,paghiamo
-they pay,pagano,phrase,[shopping],they pay,pagano
-you (plural) pay,pagate,phrase,[shopping],you (plural) pay,pagate
-I paid,ho pagato,phrase,[shopping],I paid,ho pagato
-you (familiar) paid,hai pagato,phrase,[shopping],you (familiar) paid,hai pagato
-she paid,ha pagato,phrase,[shopping],she paid,ha pagato
-he paid,ha pagato,phrase,[shopping],he paid,ha pagato
-we paid,abbiamo pagato,phrase,[shopping],we paid,abbiamo pagato
-they paid,hanno pagato,phrase,[shopping],they paid,hanno pagato
-you (plural) paid,avete pagato,phrase,[shopping],you (plural) paid,avete pagato
-paying,pagando,phrase,[shopping],paying,pagando
+I pay,pago,verb,[shopping],pay,pagare
+you pay (familiar),paghi,verb,[shopping],pay,pagare
+she pays,paga,verb,[shopping],pay,pagare
+he pays,paga,verb,[shopping],pay,pagare
+we pay,paghiamo,verb,[shopping],pay,pagare
+they pay,pagano,verb,[shopping],pay,pagare
+you pay (plural),pagate,verb,[shopping],pay,pagare
+I paid,ho pagato,verb,[shopping],pay,pagare
+you paid (familiar),hai pagato,verb,[shopping],pay,pagare
+she paid,ha pagato,verb,[shopping],pay,pagare
+he paid,ha pagato,verb,[shopping],pay,pagare
+we paid,abbiamo pagato,verb,[shopping],pay,pagare
+they paid,hanno pagato,verb,[shopping],pay,pagare
+you paid (plural),avete pagato,verb,[shopping],pay,pagare
+paying,pagando,verb,[shopping],pay,pagare
 to try on,provare,verb,[shopping],try on,provare
-I try on,provo,phrase,[shopping],I try on,provo
-you (familiar) try on,provi,phrase,[shopping],you (familiar) try on,provi
-she tries on,prova,phrase,[shopping],she tries on,prova
-he tries on,prova,phrase,[shopping],he tries on,prova
-we try on,proviamo,phrase,[shopping],we try on,proviamo
-they try on,provano,phrase,[shopping],they try on,provano
-you (plural) try on,provate,phrase,[shopping],you (plural) try on,provate
-I tried on,ho provato,phrase,[shopping],I tried on,ho provato
-you (familiar) tried on,hai provato,phrase,[shopping],you (familiar) tried on,hai provato
-she tried on,ha provato,phrase,[shopping],she tried on,ha provato
-he tried on,ha provato,phrase,[shopping],he tried on,ha provato
-we tried on,abbiamo provato,phrase,[shopping],we tried on,abbiamo provato
-they tried on,hanno provato,phrase,[shopping],they tried on,hanno provato
-you (plural) tried on,avete provato,phrase,[shopping],you (plural) tried on,avete provato
-trying on,provando,phrase,[shopping],trying on,provando
+I try on,provo,verb,[shopping],try on,provare
+you try on (familiar),provi,verb,[shopping],try on,provare
+she tries on,prova,verb,[shopping],try on,provare
+he tries on,prova,verb,[shopping],try on,provare
+we try on,proviamo,verb,[shopping],try on,provare
+they try on,provano,verb,[shopping],try on,provare
+you try on (plural),provate,verb,[shopping],try on,provare
+I tried on,ho provato,verb,[shopping],try on,provare
+you tried on (familiar),hai provato,verb,[shopping],try on,provare
+she tried on,ha provato,verb,[shopping],try on,provare
+he tried on,ha provato,verb,[shopping],try on,provare
+we tried on,abbiamo provato,verb,[shopping],try on,provare
+they tried on,hanno provato,verb,[shopping],try on,provare
+you tried on (plural),avete provato,verb,[shopping],try on,provare
+trying on,provando,verb,[shopping],try on,provare
 to cost,costare,verb,[shopping],cost,costare
-costing,costando,phrase,[shopping],costing,costando
+costing,costando,verb,[shopping],cost,costare
 to choose,scegliere,verb,[shopping],choose,scegliere
-I choose,scelgo,phrase,[shopping],I choose,scelgo
-you (familiar) choose,scegli,phrase,[shopping],you (familiar) choose,scegli
-she chooses,sceglie,phrase,[shopping],she chooses,sceglie
-he chooses,sceglie,phrase,[shopping],he chooses,sceglie
-we choose,scegliamo,phrase,[shopping],we choose,scegliamo
-they choose,scelgono,phrase,[shopping],they choose,scelgono
-you (plural) choose,scegliete,phrase,[shopping],you (plural) choose,scegliete
-I chose,ho scelto,phrase,[shopping],I chose,ho scelto
-you (familiar) chose,hai scelto,phrase,[shopping],you (familiar) chose,hai scelto
-she chose,ha scelto,phrase,[shopping],she chose,ha scelto
-he chose,ha scelto,phrase,[shopping],he chose,ha scelto
-we chose,abbiamo scelto,phrase,[shopping],we chose,abbiamo scelto
-they chose,hanno scelto,phrase,[shopping],they chose,hanno scelto
-you (plural) chose,avete scelto,phrase,[shopping],you (plural) chose,avete scelto
-choosing,scegliendo,phrase,[shopping],choosing,scegliendo
+I choose,scelgo,verb,[shopping],choose,scegliere
+you choose (familiar),scegli,verb,[shopping],choose,scegliere
+she chooses,sceglie,verb,[shopping],choose,scegliere
+he chooses,sceglie,verb,[shopping],choose,scegliere
+we choose,scegliamo,verb,[shopping],choose,scegliere
+they choose,scelgono,verb,[shopping],choose,scegliere
+you choose (plural),scegliete,verb,[shopping],choose,scegliere
+I chose,ho scelto,verb,[shopping],choose,scegliere
+you chose (familiar),hai scelto,verb,[shopping],choose,scegliere
+she chose,ha scelto,verb,[shopping],choose,scegliere
+he chose,ha scelto,verb,[shopping],choose,scegliere
+we chose,abbiamo scelto,verb,[shopping],choose,scegliere
+they chose,hanno scelto,verb,[shopping],choose,scegliere
+you chose (plural),avete scelto,verb,[shopping],choose,scegliere
+choosing,scegliendo,verb,[shopping],choose,scegliere
 to exchange,cambiare,verb,[shopping],exchange,cambiare
-I exchange,cambio,phrase,[shopping],I exchange,cambio
-you (familiar) exchange,cambi,phrase,[shopping],you (familiar) exchange,cambi
-she exchanges,cambia,phrase,[shopping],she exchanges,cambia
-he exchanges,cambia,phrase,[shopping],he exchanges,cambia
-we exchange,cambiamo,phrase,[shopping],we exchange,cambiamo
-they exchange,cambiano,phrase,[shopping],they exchange,cambiano
-you (plural) exchange,cambiate,phrase,[shopping],you (plural) exchange,cambiate
-I exchanged,ho cambiato,phrase,[shopping],I exchanged,ho cambiato
-you (familiar) exchanged,hai cambiato,phrase,[shopping],you (familiar) exchanged,hai cambiato
-she exchanged,ha cambiato,phrase,[shopping],she exchanged,ha cambiato
-he exchanged,ha cambiato,phrase,[shopping],he exchanged,ha cambiato
-we exchanged,abbiamo cambiato,phrase,[shopping],we exchanged,abbiamo cambiato
-they exchanged,hanno cambiato,phrase,[shopping],they exchanged,hanno cambiato
-you (plural) exchanged,avete cambiato,phrase,[shopping],you (plural) exchanged,avete cambiato
-exchanging,cambiando,phrase,[shopping],exchanging,cambiando
+I exchange,cambio,verb,[shopping],exchange,cambiare
+you exchange (familiar),cambi,verb,[shopping],exchange,cambiare
+she exchanges,cambia,verb,[shopping],exchange,cambiare
+he exchanges,cambia,verb,[shopping],exchange,cambiare
+we exchange,cambiamo,verb,[shopping],exchange,cambiare
+they exchange,cambiano,verb,[shopping],exchange,cambiare
+you exchange (plural),cambiate,verb,[shopping],exchange,cambiare
+I exchanged,ho cambiato,verb,[shopping],exchange,cambiare
+you exchanged (familiar),hai cambiato,verb,[shopping],exchange,cambiare
+she exchanged,ha cambiato,verb,[shopping],exchange,cambiare
+he exchanged,ha cambiato,verb,[shopping],exchange,cambiare
+we exchanged,abbiamo cambiato,verb,[shopping],exchange,cambiare
+they exchanged,hanno cambiato,verb,[shopping],exchange,cambiare
+you exchanged (plural),avete cambiato,verb,[shopping],exchange,cambiare
+exchanging,cambiando,verb,[shopping],exchange,cambiare
 to return,restituire,verb,[shopping],return,restituire
-I return,restituisco,phrase,[shopping],I return,restituisco
-you (familiar) return,restituisci,phrase,[shopping],you (familiar) return,restituisci
-she returns,restituisce,phrase,[shopping],she returns,restituisce
-he returns,restituisce,phrase,[shopping],he returns,restituisce
-we return,restituiamo,phrase,[shopping],we return,restituiamo
-they return,restituiscono,phrase,[shopping],they return,restituiscono
-you (plural) return,restituite,phrase,[shopping],you (plural) return,restituite
-I returned,ho restituito,phrase,[shopping],I returned,ho restituito
-you (familiar) returned,hai restituito,phrase,[shopping],you (familiar) returned,hai restituito
-she returned,ha restituito,phrase,[shopping],she returned,ha restituito
-he returned,ha restituito,phrase,[shopping],he returned,ha restituito
-we returned,abbiamo restituito,phrase,[shopping],we returned,abbiamo restituito
-they returned,hanno restituito,phrase,[shopping],they returned,hanno restituito
-you (plural) returned,avete restituito,phrase,[shopping],you (plural) returned,avete restituito
-returning,restituendo,phrase,[shopping],returning,restituendo
+I return,restituisco,verb,[shopping],return,restituire
+you return (familiar),restituisci,verb,[shopping],return,restituire
+she returns,restituisce,verb,[shopping],return,restituire
+he returns,restituisce,verb,[shopping],return,restituire
+we return,restituiamo,verb,[shopping],return,restituire
+they return,restituiscono,verb,[shopping],return,restituire
+you return (plural),restituite,verb,[shopping],return,restituire
+I returned,ho restituito,verb,[shopping],return,restituire
+you returned (familiar),hai restituito,verb,[shopping],return,restituire
+she returned,ha restituito,verb,[shopping],return,restituire
+he returned,ha restituito,verb,[shopping],return,restituire
+we returned,abbiamo restituito,verb,[shopping],return,restituire
+they returned,hanno restituito,verb,[shopping],return,restituire
+you returned (plural),avete restituito,verb,[shopping],return,restituire
+returning,restituendo,verb,[shopping],return,restituire
 to sell,vendere,verb,[shopping],sell,vendere
-I sell,vendo,phrase,[shopping],I sell,vendo
-you (familiar) sell,vendi,phrase,[shopping],you (familiar) sell,vendi
-she sells,vende,phrase,[shopping],she sells,vende
-he sells,vende,phrase,[shopping],he sells,vende
-we sell,vendiamo,phrase,[shopping],we sell,vendiamo
-they sell,vendono,phrase,[shopping],they sell,vendono
-you (plural) sell,vendete,phrase,[shopping],you (plural) sell,vendete
-I sold,ho venduto,phrase,[shopping],I sold,ho venduto
-you (familiar) sold,hai venduto,phrase,[shopping],you (familiar) sold,hai venduto
-she sold,ha venduto,phrase,[shopping],she sold,ha venduto
-he sold,ha venduto,phrase,[shopping],he sold,ha venduto
-we sold,abbiamo venduto,phrase,[shopping],we sold,abbiamo venduto
-they sold,hanno venduto,phrase,[shopping],they sold,hanno venduto
-you (plural) sold,avete venduto,phrase,[shopping],you (plural) sold,avete venduto
-selling,vendendo,phrase,[shopping],selling,vendendo
+I sell,vendo,verb,[shopping],sell,vendere
+you sell (familiar),vendi,verb,[shopping],sell,vendere
+she sells,vende,verb,[shopping],sell,vendere
+he sells,vende,verb,[shopping],sell,vendere
+we sell,vendiamo,verb,[shopping],sell,vendere
+they sell,vendono,verb,[shopping],sell,vendere
+you sell (plural),vendete,verb,[shopping],sell,vendere
+I sold,ho venduto,verb,[shopping],sell,vendere
+you sold (familiar),hai venduto,verb,[shopping],sell,vendere
+she sold,ha venduto,verb,[shopping],sell,vendere
+he sold,ha venduto,verb,[shopping],sell,vendere
+we sold,abbiamo venduto,verb,[shopping],sell,vendere
+they sold,hanno venduto,verb,[shopping],sell,vendere
+you sold (plural),avete venduto,verb,[shopping],sell,vendere
+selling,vendendo,verb,[shopping],sell,vendere
 to ask for,richiedere,verb,[shopping],ask for,richiedere
-I ask for,richiedo,phrase,[shopping],I ask for,richiedo
-you (familiar) ask for,richiedi,phrase,[shopping],you (familiar) ask for,richiedi
-she asks for,richiede,phrase,[shopping],she asks for,richiede
-he asks for,richiede,phrase,[shopping],he asks for,richiede
-we ask for,richiediamo,phrase,[shopping],we ask for,richiediamo
-they ask for,richiedono,phrase,[shopping],they ask for,richiedono
-you (plural) ask for,richiedete,phrase,[shopping],you (plural) ask for,richiedete
-I asked for,ho richiesto,phrase,[shopping],I asked for,ho richiesto
-you (familiar) asked for,hai richiesto,phrase,[shopping],you (familiar) asked for,hai richiesto
-she asked for,ha richiesto,phrase,[shopping],she asked for,ha richiesto
-he asked for,ha richiesto,phrase,[shopping],he asked for,ha richiesto
-we asked for,abbiamo richiesto,phrase,[shopping],we asked for,abbiamo richiesto
-they asked for,hanno richiesto,phrase,[shopping],they asked for,hanno richiesto
-you (plural) asked for,avete richiesto,phrase,[shopping],you (plural) asked for,avete richiesto
-asking for,richiedendo,phrase,[shopping],asking for,richiedendo
+I ask for,richiedo,verb,[shopping],ask for,richiedere
+you ask for (familiar),richiedi,verb,[shopping],ask for,richiedere
+she asks for,richiede,verb,[shopping],ask for,richiedere
+he asks for,richiede,verb,[shopping],ask for,richiedere
+we ask for,richiediamo,verb,[shopping],ask for,richiedere
+they ask for,richiedono,verb,[shopping],ask for,richiedere
+you ask for (plural),richiedete,verb,[shopping],ask for,richiedere
+I asked for,ho richiesto,verb,[shopping],ask for,richiedere
+you asked for (familiar),hai richiesto,verb,[shopping],ask for,richiedere
+she asked for,ha richiesto,verb,[shopping],ask for,richiedere
+he asked for,ha richiesto,verb,[shopping],ask for,richiedere
+we asked for,abbiamo richiesto,verb,[shopping],ask for,richiedere
+they asked for,hanno richiesto,verb,[shopping],ask for,richiedere
+you asked for (plural),avete richiesto,verb,[shopping],ask for,richiedere
+asking for,richiedendo,verb,[shopping],ask for,richiedere
