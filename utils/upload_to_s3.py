@@ -23,6 +23,7 @@ def list_s3_objects():
         object_list.append(obj.key)
     return object_list
 already_uploaded = list_s3_objects()
+print(f"loaded names of {len(already_uploaded)} files that have already been uploaded to s3")
 
 
 def upload_file(file_path, verbose=False):
@@ -48,7 +49,6 @@ def upload_file(file_path, verbose=False):
 
     if verbose:
         print('uploading to s3...')
-    print('uploading to s3...')
     s3_client = boto3.client('s3')
     try:
         s3_client.upload_file(file_path, bucket, object_name)

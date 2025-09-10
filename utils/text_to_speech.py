@@ -28,7 +28,7 @@ VOICES = {
 }
 
 def get_duration_ms(path):
-    print('getting duration of', path)
+    # print('getting duration of', path)
     audio = AudioSegment.from_file(path)
     return len(audio)  # duration in milliseconds
 
@@ -91,9 +91,11 @@ class TextToSpeech:
             else:
                 if verbose:
                     print("synthesizing...")
+
                 raise Exception(
                     "WARNING: about to synthesize new audio, did you add new words? " + 
                     "If you have just added new words, this is expeceted, just comment out this raise Exception line")
+
                 # Synthesize speech
                 t0 = time.perf_counter()
                 synthesis_input = texttospeech.SynthesisInput(text=text)
