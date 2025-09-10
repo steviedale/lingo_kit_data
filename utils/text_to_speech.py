@@ -28,8 +28,10 @@ VOICES = {
 }
 
 def get_duration_ms(path):
+    print('getting duration of', path)
     audio = AudioSegment.from_file(path)
     return len(audio)  # duration in milliseconds
+
 
 class TextToSpeech:
 
@@ -80,23 +82,29 @@ class TextToSpeech:
             assert(row['voice_name'] == voice_name)
             assert(row['hash'] == hash_key)
             assert(row['audio_file'] == audio_file)
-            duration_ms = get_duration_ms(row['audio_file'])
-            assert(row['duration_ms'] == duration_ms)
 
         else:
-            if verbose:
-                print("synthesizing...")
-            # Synthesize speech
-            t0 = time.perf_counter()
-            synthesis_input = texttospeech.SynthesisInput(text=text)
-            response = self.client.synthesize_speech(
-                input=synthesis_input, voice=self.voice, audio_config=self.audio_config)
-            t1 = time.perf_counter()
-            synthesis_time = t1 - t0
+            if os.path.exists(audio_file):
+                print(f"WARNING: file {audio_file} exists but not in dataframe, adding to dataframe")
+                # since we don't know the synthesis time, just make it -1
+                synthesis_time = -1
+            else:
+                if verbose:
+                    print("synthesizing...")
+                raise Exception(
+                    "WARNING: about to synthesize new audio, did you add new words? " + 
+                    "If you have just added new words, this is expeceted, just comment out this raise Exception line")
+                # Synthesize speech
+                t0 = time.perf_counter()
+                synthesis_input = texttospeech.SynthesisInput(text=text)
+                response = self.client.synthesize_speech(
+                    input=synthesis_input, voice=self.voice, audio_config=self.audio_config)
+                t1 = time.perf_counter()
+                synthesis_time = t1 - t0
 
-            # save audio
-            with open(audio_file, "wb") as out:
-                out.write(response.audio_content) 
+                # save audio
+                with open(audio_file, "wb") as out:
+                    out.write(response.audio_content) 
 
             duration_ms = get_duration_ms(audio_file)
 
