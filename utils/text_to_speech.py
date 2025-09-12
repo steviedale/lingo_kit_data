@@ -32,6 +32,12 @@ def get_duration_ms(path):
     audio = AudioSegment.from_file(path)
     return len(audio)  # duration in milliseconds
 
+def get_audio_hash(text, voice_name, speaking_rate, pitch):
+    param_str = f"{text}{voice_name}{speaking_rate:.2f}{pitch:.2f}"
+    hash_object = hashlib.sha256(param_str.encode('utf-8'))
+    hash_key = hash_object.hexdigest()
+    return hash_key
+
 
 class TextToSpeech:
 
@@ -62,9 +68,7 @@ class TextToSpeech:
         self.audio_config.pitch = pitch
 
         # hash text
-        param_str = f"{text}{voice_name}{speaking_rate:.2f}{pitch:.2f}"
-        hash_object = hashlib.sha256(param_str.encode('utf-8'))
-        hash_key = hash_object.hexdigest()
+        hash_key = get_audio_hash(text, voice_name, speaking_rate, pitch)
 
         audio_file = f'{SAVE_DIR}/{hash_key}.mp3'
 
