@@ -43,9 +43,9 @@ def upload_file(file_path, verbose=False):
             print(f"file {object_name} already exists in bucket {bucket}, skipping upload")
         return True
 
-    raise Exception(
-        "WARNING: about to upload new audio to s3, did you add new words? " + 
-        "If you have just added new words, this is expeceted, just comment out this raise Exception line")
+    # raise Exception(
+    #     "WARNING: about to upload new audio to s3, did you add new words? " + 
+    #     "If you have just added new words, this is expeceted, just comment out this raise Exception line")
 
     if verbose:
         print('uploading to s3...')

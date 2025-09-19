@@ -233,6 +233,53 @@ he went out,lui uscì,verb,[foundational_words],to go out,uscire,False
 she went out,lei uscì,verb,[foundational_words],to go out,uscire,False
 we went out,noi uscimmo,verb,[foundational_words],to go out,uscire,False
 you went out (plural),voi usciste,verb,[foundational_words],to go out,uscire,False
+
+to help,aiutare,verb,[foundational_words],to help,aiutare,True
+I help,io aiuto,verb,[foundational_words],to help,aiutare,False
+you help (informal),tu aiuti,verb,[foundational_words],to help,aiutare,False
+you help (formal),Lei aiuta,verb,[foundational_words],to help,aiutare,False
+he helps,lui aiuta,verb,[foundational_words],to help,aiutare,False
+she helps,lei aiuta,verb,[foundational_words],to help,aiutare,False
+we help,noi aiutiamo,verb,[foundational_words],to help,aiutare,False
+you help (plural),voi aiutate,verb,[foundational_words],to help,aiutare,False
+I helped,io aiutai,verb,[foundational_words],to help,aiutare,False
+you helped (informal),tu aiutasti,verb,[foundational_words],to help,aiutare,False
+you helped (formal),Lei aiutò,verb,[foundational_words],to help,aiutare,False
+he helped,lui aiutò,verb,[foundational_words],to help,aiutare,False
+she helped,lei aiutò,verb,[foundational_words],to help,aiutare,False
+we helped,noi aiutammo,verb,[foundational_words],to help,aiutare,False
+you helped (plural),voi aiutaste,verb,[foundational_words],to help,aiutare,False
+I'm helping,sto aiutando,verb,[foundational_words],to help,aiutare,False
+you're helping (informal),stai aiutando,verb,[foundational_words],to help,aiutare,False
+you're helping (formal),sta aiutando,verb,[foundational_words],to help,aiutare,False
+he's helping,sta aiutando,verb,[foundational_words],to help,aiutare,False
+she's helping,sta aiutando,verb,[foundational_words],to help,aiutare,False
+we're helping,stiamo aiutando,verb,[foundational_words],to help,aiutare,False
+you're helping (plural),state aiutando,verb,[foundational_words],to help,aiutare,False
+they're helping,stanno aiutando,verb,[foundational_words],to help,aiutare,False
+to ask,chiedere,verb,[foundational_words],to ask,chiedere,True
+I ask,io chiedo,verb,[foundational_words],to ask,chiedere,False
+you ask (informal),tu chiedi,verb,[foundational_words],to ask,chiedere,False
+you ask (formal),Lei chiede,verb,[foundational_words],to ask,chiedere,False
+he asks,lui chiede,verb,[foundational_words],to ask,chiedere,False
+she asks,lei chiede,verb,[foundational_words],to ask,chiedere,False
+we ask,noi chiediamo,verb,[foundational_words],to ask,chiedere,False
+you ask (plural),voi chiedete,verb,[foundational_words],to ask,chiedere,False
+I asked,io chiesi,verb,[foundational_words],to ask,chiedere,False
+you asked (informal),tu chiedesti,verb,[foundational_words],to ask,chiedere,False
+you asked (formal),Lei chiese,verb,[foundational_words],to ask,chiedere,False
+he asked,lui chiese,verb,[foundational_words],to ask,chiedere,False
+she asked,lei chiese,verb,[foundational_words],to ask,chiedere,False
+we asked,noi chiedemmo,verb,[foundational_words],to ask,chiedere,False
+you asked (plural),voi chiedeste,verb,[foundational_words],to ask,chiedere,False
+I'm asking,sto chiedendo,verb,[foundational_words],to ask,chiedere,False
+you're asking (informal),stai chiedendo,verb,[foundational_words],to ask,chiedere,False
+you're asking (formal),sta chiedendo,verb,[foundational_words],to ask,chiedere,False
+he's asking,sta chiedendo,verb,[foundational_words],to ask,chiedere,False
+she's asking,sta chiedendo,verb,[foundational_words],to ask,chiedere,False
+we're asking,stiamo chiedendo,verb,[foundational_words],to ask,chiedere,False
+you're asking (plural),state chiedendo,verb,[foundational_words],to ask,chiedere,False
+they're asking,stanno chiedendo,verb,[foundational_words],to ask,chiedere,False
 here (precise),qui,adverb,[foundational_words],here,qui,True
 here (approximate),qua,adverb,[foundational_words],here,qua,False
 there (precise),lì,adverb,[foundational_words],there,lì,True

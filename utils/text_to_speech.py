@@ -7,25 +7,79 @@ import uuid
 import numpy as np
 import hashlib
 from pydub import AudioSegment
+import requests
+import base64
 
 
-# SAVE_DIR = '/Users/stevie/repos/language_app/data/audio'
-# DF_PATH = '/Users/stevie/repos/language_app/data/dataframe.csv'
+API_KEY = open("/Users/stevie/repos/lingo_kit_data/utils/google_cloud_api_key.txt").read().strip()
 
 SAVE_DIR = '/Users/stevie/repos/lingo_kit_data/data/audio'
 DF_PATH = '/Users/stevie/repos/lingo_kit_data/data/dataframe.csv'
 
-
+ENDPOINT = f"https://texttospeech.googleapis.com/v1/text:synthesize?key={API_KEY}"
 VOICES = {
-    'italian': {
-        'male': 'it-IT-Wavenet-D',
-        'female': 'it-IT-Wavenet-C',
-    },
     'english': {
-        'male': 'en-US-Wavenet-D',
-        'female': 'en-US-Wavenet-C',
+        'male': 'en-US-Neural2-D',
+        'female': 'en-US-Neural2-C',
     },
+    'italian': {
+        'male': 'it-IT-Neural2-F',
+        'female': 'it-IT-Neural2-A',
+    }
 }
+
+def ssml_single_word(word, rate, pitch, pause_ms, slash_pause_ms):
+    # Add a period to encourage natural sentence prosody
+    safe = word.strip()
+    safe = safe.replace("/", f'<break time="{slash_pause_ms}ms"/>')
+    if safe[-1] not in ".!?":
+        safe += "."
+    speach_ssml = f"""
+        <speak>
+            <break time="{pause_ms}ms"/>
+            <prosody rate="{rate}" pitch="{pitch}">
+                <p><s>{safe}</s></p>
+            </prosody>
+            <break time="{pause_ms}ms"/>
+        </speak>
+    """.strip()
+    return speach_ssml
+
+
+def synthesize_word(word, voice_name, speaking_rate, outfile):
+    # right now, let's only support the following settings
+    pitch = None
+    pause_ms = 120
+    lang = voice_name.split("-")[0]+"-"+voice_name.split("-")[1]
+    assert(lang in ['en-US', 'it-IT'])
+    if lang == 'en-US':
+        assert(voice_name in VOICES['english'].values())
+        assert(speaking_rate == 0.92)
+    elif lang == 'it-IT':
+        assert(voice_name in VOICES['italian'].values())
+        assert(speaking_rate == 0.7)
+
+    ssml = ssml_single_word(word, rate=speaking_rate, pitch="-1st", pause_ms=pause_ms, slash_pause_ms=500)
+
+    # Optional: also set global audioConfig tweaks (mild adjustments)
+    audio_cfg = {"audioEncoding": "MP3"}
+    if speaking_rate is not None:
+        audio_cfg["speakingRate"] = speaking_rate
+    if pitch is not None:
+        audio_cfg["pitch"] = pitch
+
+    payload = {
+        "input": {"ssml": ssml},
+        "voice": {"languageCode": lang, "name": voice_name},
+        "audioConfig": audio_cfg
+    }
+
+    r = requests.post(ENDPOINT, json=payload, timeout=30)
+    r.raise_for_status()
+    audio_b64 = r.json()["audioContent"]
+    with open(outfile, "wb") as f:
+        f.write(base64.b64decode(audio_b64))
+
 
 def get_duration_ms(path):
     # print('getting duration of', path)
@@ -54,18 +108,13 @@ class TextToSpeech:
         else:
             self.df = pd.read_csv(DF_PATH)
 
-        self.client = texttospeech.TextToSpeechClient()
-        self.voice = texttospeech.VoiceSelectionParams(language_code="it-IT")
-        self.audio_config = texttospeech.AudioConfig(audio_encoding=texttospeech.AudioEncoding.MP3)
-    
     # destructor
     def __del__(self):
         self.save()
 
-    def synthesize(self, text, speaking_rate=0.75, voice_name="it-IT-Wavenet-D", pitch=0, verbose=False):
-        self.voice.name = voice_name
-        self.audio_config.speaking_rate = speaking_rate
-        self.audio_config.pitch = pitch
+    def synthesize(self, text, voice_name, speaking_rate, verbose=False):
+        # pitch is no longer supported for configuration
+        pitch = 0
 
         # hash text
         hash_key = get_audio_hash(text, voice_name, speaking_rate, pitch)
@@ -96,21 +145,18 @@ class TextToSpeech:
                 if verbose:
                     print("synthesizing...")
 
-                raise Exception(
-                    "WARNING: about to synthesize new audio, did you add new words? " + 
-                    "If you have just added new words, this is expeceted, just comment out this raise Exception line")
+                # raise Exception(
+                #     "WARNING: about to synthesize new audio, did you add new words? " + 
+                #     "If you have just added new words, this is expeceted, just comment out this raise Exception line")
 
                 # Synthesize speech
                 t0 = time.perf_counter()
-                synthesis_input = texttospeech.SynthesisInput(text=text)
-                response = self.client.synthesize_speech(
-                    input=synthesis_input, voice=self.voice, audio_config=self.audio_config)
+                synthesize_word(
+                    text, voice_name=voice_name,
+                    speaking_rate=speaking_rate, outfile=audio_file
+                )
                 t1 = time.perf_counter()
                 synthesis_time = t1 - t0
-
-                # save audio
-                with open(audio_file, "wb") as out:
-                    out.write(response.audio_content) 
 
             duration_ms = get_duration_ms(audio_file)
 
@@ -139,6 +185,6 @@ if __name__ == '__main__':
 
     # phrase = 'vorrei un tavolo per due vicino alla finestra'
     phrase = 'this is a test script that should hopefully take a few seconds to finish. Which will give me enought time to debug.'
-    ret = tts.synthesize(phrase, speaking_rate=1.0, voice_name='en-US-Wavenet-D', pitch=0.0, verbose=True)
+    ret = tts.synthesize(phrase, speaking_rate=1.0, voice_name=VOICES['english']['male'], pitch=0.0, verbose=True)
 
     print(ret)
