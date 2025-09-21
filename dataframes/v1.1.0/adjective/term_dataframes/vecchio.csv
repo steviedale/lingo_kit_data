@@ -1,0 +1,5 @@
+term_italian,is_base,base_word_italian,translation_english,gender,plurality,notes,example_sentence_italian,example_sentence_english
+vecchio,true,vecchio,old,masculine,singular,,Il libro è vecchio.,The book is old.
+vecchi,false,vecchio,old,masculine,plural,,I libri sono vecchi.,The books are old.
+vecchia,false,vecchio,old,feminine,singular,,La casa è vecchia.,The house is old.
+vecchie,false,vecchio,old,feminine,plural,,Le sedie sono vecchie.,The chairs are old.

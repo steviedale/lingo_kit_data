@@ -1,0 +1,6 @@
+term_italian,is_base,base_word_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
+spesso,true,spesso,often,"frequency,time",false,false,"base form; comparative periphrastic (più/meno spesso); superlative: spessissimo","Vado spesso in biblioteca.","I often go to the library."
+più spesso,false,spesso,more often,"frequency,time",true,false,"periphrastic comparative (più + base)","Dovresti esercitarti più spesso.","You should practice more often."
+meno spesso,false,spesso,less often,"frequency,time",true,false,"periphrastic comparative (meno + base)","Ora vado al cinema meno spesso.","Now I go to the cinema less often."
+spessissimo,false,spesso,very often,"frequency,time",false,true,"absolute superlative formed with -issimo","Negli ultimi mesi ho viaggiato spessissimo.","In recent months I have traveled very often."
+molto spesso,false,spesso,very often,"frequency,time",false,true,"intensifier + base","Molto spesso dimentico le chiavi.","I very often forget my keys."

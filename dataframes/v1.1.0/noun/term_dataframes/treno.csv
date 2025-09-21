@@ -1,0 +1,18 @@
+term_italian,is_base,base_word_italian,translation_english,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+treno,true,treno,train,masculine,singular,none,n/a,n/a,n/a,base lemma,Treno in arrivo.,Train arriving.
+un treno,false,treno,a train,masculine,singular,indefinite,un,un,n/a,,Ho preso un treno ieri.,I took a train yesterday.
+il treno,false,treno,the train,masculine,singular,definite,il,il,n/a,,Il treno parte alle otto.,The train departs at eight.
+treni,false,treno,trains,masculine,plural,none,n/a,n/a,n/a,plural form,Treni regionali fermano qui.,Regional trains stop here.
+i treni,false,treno,the trains,masculine,plural,definite,i,i,n/a,,I treni sono in ritardo.,The trains are delayed.
+dei treni,false,treno,some trains,masculine,plural,articulated_preposition,dei,dei,di,indefinite plural / di + i,Ho visto dei treni nella stazione.,I saw some trains in the station.
+del treno,false,treno,of the train,masculine,singular,articulated_preposition,del,del,di,contraction of di + il,Il rumore del treno mi ha svegliato.,The noise of the train woke me.
+al treno,false,treno,to the train,masculine,singular,articulated_preposition,al,al,a,contraction of a + il,Corro al treno.,I run to the train.
+ai treni,false,treno,to the trains,masculine,plural,articulated_preposition,ai,ai,a,contraction of a + i,I controlli ai treni sono aumentati.,Checks on the trains have increased.
+dal treno,false,treno,from the train,masculine,singular,articulated_preposition,dal,dal,da,contraction of da + il,Ho salutato Maria dal treno.,I waved to Maria from the train.
+dai treni,false,treno,from the trains,masculine,plural,articulated_preposition,dai,dai,da,contraction of da + i,Le informazioni dai treni arrivano in tempo reale.,Information from the trains arrives in real time.
+nel treno,false,treno,in the train,masculine,singular,articulated_preposition,nel,nel,in,contraction of in + il,C'è caldo nel treno.,It's hot in the train.
+nei treni,false,treno,in the trains,masculine,plural,articulated_preposition,nei,nei,in,contraction of in + i,Nei treni ci sono sedili vuoti.,There are empty seats in the trains.
+sul treno,false,treno,on the train,masculine,singular,articulated_preposition,sul,sul,su,contraction of su + il,Ho perso il libro sul treno.,I lost the book on the train.
+sui treni,false,treno,on the trains,masculine,plural,articulated_preposition,sui,sui,su,contraction of su + i,Sui treni urbani c'è Wi-Fi.,There is Wi-Fi on urban trains.
+col treno,false,treno,with the train/by train,masculine,singular,articulated_preposition,col,col,con,contraction of con + il,Viaggiamo col treno la domenica.,We travel by train on Sundays.
+coi treni,false,treno,with the trains,masculine,plural,articulated_preposition,coi,coi,con,contraction of con + i,L'azienda lavora coi treni per le consegne.,The company works with trains for deliveries.

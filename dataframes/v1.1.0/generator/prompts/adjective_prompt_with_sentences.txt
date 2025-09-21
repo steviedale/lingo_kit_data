@@ -1,0 +1,57 @@
+I want you to generate a CSV text (don't use code to generate) that captures the main variations of an Italian adjective in the exact structure below.
+
+The CSV must have the following columns in this order:
+
+term_italian,is_base,base_word_italian,translation_english,gender,plurality,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian word form (e.g. bello, bella, grandi).
+
+is_base: true only for the base form (masculine singular), otherwise false.
+
+base_word_italian: always the lemma (masculine singular form).
+
+translation_english: the English meaning (e.g. beautiful, large).
+
+gender: one of “masculine”, “feminine”, or “n/a” (for invariable adjectives).
+
+plurality: either “singular”, “plural”, or “n/a” (for invariable adjectives).
+
+notes: short clarifications (e.g. “invariable”, “irregular plural”, “used before vowels”).
+
+example_sentence_italian: a short, natural Italian sentence using this exact form.
+
+example_sentence_english: the English translation of the example sentence.
+
+Formatting rules:
+
+Return the CSV as plain text only, not as a code block.
+
+Each row should represent exactly one adjective form.
+
+The base row must always be the masculine singular form.
+
+Expand gender and plurality explicitly (“masculine”, “feminine”, “singular”, “plural”).
+
+Use consistent lowercase true/false in the boolean column is_base.
+
+For adjectives that change with gender/number, include all four forms (masculine singular, masculine plural, feminine singular, feminine plural).
+
+For invariable adjectives, include both singular and plural if applicable, marking gender as n/a.
+
+Provide natural, everyday example sentences for each form.
+
+Example (full):
+
+term_italian,is_base,base_word_italian,translation_english,gender,plurality,notes,example_sentence_italian,example_sentence_english
+bello,true,bello,beautiful,masculine,singular,,Il ragazzo è bello.,The boy is handsome.
+bella,false,bello,beautiful,feminine,singular,,La casa è bella.,The house is beautiful.
+belli,false,bello,beautiful,masculine,plural,,I fiori sono belli.,The flowers are beautiful.
+belle,false,bello,beautiful,feminine,plural,,Le città sono belle.,The cities are beautiful.
+grande,true,grande,big,n/a,singular,invariable by gender,Il gatto è grande.,The cat is big.
+grandi,false,grande,big,n/a,plural,invariable by gender,I cani sono grandi.,The dogs are big.
+
+Now generate this full CSV text for the adjective [ADJECTIVE] meaning "[ENGLISH TRANSLATION]".
+
+Please output only the CSV text, nothing else.

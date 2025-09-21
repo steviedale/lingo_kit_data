@@ -1,0 +1,25 @@
+term_italian,is_base,base_word_italian,translation_english,mood,tense,person_number,gender,plurality,is_compound,notes
+fare,true,fare,to do / to make,non-finite,infinitive,n/a,n/a,n/a,false,base lemma
+facendo,false,fare,doing / making,non-finite,gerund,n/a,n/a,n/a,false,
+fatte,false,fare,done / made (feminine plural),non-finite,participle,n/a,feminine,plural,false,used with auxiliary 'avere' to form compound tenses
+fatta,false,fare,done / made (feminine singular),non-finite,participle,n/a,feminine,singular,false,used with auxiliary 'avere' to form compound tenses
+fatti,false,fare,done / made (masculine plural),non-finite,participle,n/a,masculine,plural,false,used with auxiliary 'avere' to form compound tenses
+fatto,false,fare,done / made (masculine singular),non-finite,participle,n/a,masculine,singular,false,used with auxiliary 'avere' to form compound tenses
+faccio,false,fare,I do / I make,indicative,present,1s,n/a,singular,false,
+fai,false,fare,you do / you make,indicative,present,2s,n/a,singular,false,
+fa,false,fare,he/she/it does / makes,indicative,present,3s,n/a,singular,false,also 'you (formal)'
+facciamo,false,fare,we do / we make,indicative,present,1p,n/a,plural,false,
+fate,false,fare,you (plural) do / you (plural) make,indicative,present,2p,n/a,plural,false,
+fanno,false,fare,they do / they make,indicative,present,3p,n/a,plural,false,
+facevo,false,fare,I was doing / making,indicative,imperfect,1s,n/a,singular,false,
+facevi,false,fare,you were doing / making,indicative,imperfect,2s,n/a,singular,false,
+faceva,false,fare,he/she/it was doing / making,indicative,imperfect,3s,n/a,singular,false,also 'you (formal)'
+facevamo,false,fare,we were doing / making,indicative,imperfect,1p,n/a,plural,false,
+facevate,false,fare,you (plural) were doing / making,indicative,imperfect,2p,n/a,plural,false,
+facevano,false,fare,they were doing / making,indicative,imperfect,3p,n/a,plural,false,
+ho fatto,false,fare,I have done / I did; I have made / I made,indicative,passato_prossimo,1s,n/a,singular,true,auxiliary 'avere'; participle does not agree with subject gender/number
+hai fatto,false,fare,you have done / you did; you have made / you made,indicative,passato_prossimo,2s,n/a,singular,true,auxiliary 'avere'; participle does not agree with subject gender/number
+ha fatto,false,fare,he/she/it has done / did; has made / made,indicative,passato_prossimo,3s,n/a,singular,true,auxiliary 'avere'; participle does not agree with subject gender/number; also 'you (formal)'
+abbiamo fatto,false,fare,we have done / we did; we have made / we made,indicative,passato_prossimo,1p,n/a,plural,true,auxiliary 'avere'; participle does not agree with subject gender/number
+avete fatto,false,fare,you (plural) have done / you (plural) did; you (plural) have made / you (plural) made,indicative,passato_prossimo,2p,n/a,plural,true,auxiliary 'avere'; participle does not agree with subject gender/number
+hanno fatto,false,fare,they have done / they did; they have made / they made,indicative,passato_prossimo,3p,n/a,plural,true,auxiliary 'avere'; participle does not agree with subject gender/number

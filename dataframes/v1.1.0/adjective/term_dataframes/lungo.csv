@@ -1,0 +1,5 @@
+term_italian,is_base,base_word_italian,translation_english,gender,plurality,notes,example_sentence_italian,example_sentence_english
+lungo,true,lungo,long,masculine,singular,,Il percorso è lungo.,The route is long.
+lunghi,false,lungo,long,masculine,plural,,I fiumi sono lunghi.,The rivers are long.
+lunga,false,lungo,long,feminine,singular,,La strada è lunga.,The road is long.
+lunghe,false,lungo,long,feminine,plural,,Le gonne sono lunghe.,The skirts are long.

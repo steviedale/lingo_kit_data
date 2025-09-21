@@ -1,0 +1,77 @@
+I want you to generate a CSV text (don't use code to generate) that captures the main details of an Italian adverb in the exact structure below.
+
+The CSV must have the following columns in this order:
+term_italian,is_base,base_word_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian adverb form (e.g. velocemente, bene).
+
+is_base: true only for the main/base adverb form, otherwise false.
+
+base_word_italian: always the base lemma of the adverb (typically same as term_italian).
+
+translation_english: the English meaning of the adverb (e.g. quickly, well).
+
+topics: a short list (in quotes) of 1–3 general topics related to this adverb, separated by commas (e.g. "manner, speed"). All rows with the same base_word_italian must share the same topics list.
+
+is_comparative: true if the row represents a comparative form, otherwise false.
+
+is_superlative: true if the row represents a superlative form (including intensifiers), otherwise false.
+
+notes: short clarifications (e.g. “irregular comparative form,” “derived from adjective X,” or “used mainly in spoken Italian”).
+
+example_sentence_italian: a short, natural Italian sentence using this exact adverb form.
+
+example_sentence_english: the English translation of the example sentence.
+
+Formatting rules:
+
+Return the CSV as plain text only, not as a code block.
+
+Each row should represent exactly one adverb form.
+
+Use consistent lowercase true/false in the boolean columns.
+
+Always include the base form plus comparative and superlative forms (if applicable).
+
+If multiple superlative intensifiers exist (e.g. assolutamente, fortissimo), include them as separate rows marked is_base=false and is_superlative=true.
+
+If the adverb is invariable (no comparative/superlative), mark is_comparative=false and is_superlative=false.
+
+Grouping rules (important):
+
+Only group adverbs under the same base_word_italian if they are slight, visible variations of the base form (e.g. formed by adding a suffix like -issimo, a prefix like stra-, or intensifiers like molto velocemente).
+
+Do not group words that have a different-looking root/stem, even if semantically related. For example:
+
+male → malissimo ✅ (works)
+
+male → pessimamente ❌ (doesn’t work)
+
+bene → benissimo ✅ (works)
+
+bene → ottimamente ❌ (doesn’t work)
+
+Irregular forms that do not look like the base adverb (male → peggio, bene → meglio) must be treated as their own independent base adverbs with is_base=true.
+
+Checklist of forms to include (baseline set):
+
+Base adverb form.
+
+Comparative form (if it exists).
+
+Superlative form(s), including intensifiers (if they exist).
+
+Example (full):
+
+term_italian,is_base,base_word_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
+bene,true,bene,well,"manner,quality",false,false,irregular comparative/superlative,"Lui parla bene l'italiano.","He speaks Italian well."
+benissimo,false,bene,very well,"manner,quality",false,true,absolute superlative,"Hai cantato benissimo.","You sang very well."
+molto bene,false,bene,very well,"manner,quality",false,true,intensifier + base,"Parla molto bene il francese.","He speaks French very well."
+male,true,male,badly,"manner,quality",false,false,irregular comparative peggio; superlative formed with -issimo,"Lui gioca male a calcio.","He plays football badly."
+malissimo,false,male,very badly,"manner,quality",false,true,absolute superlative,"Ha cantato malissimo alla festa.","He sang very badly at the party."
+
+Now generate this full CSV text for the adverb [ADVERB] meaning "[ENGLISH TRANSLATION]".
+
+Please output only the csv text, nothing else.
