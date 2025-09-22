@@ -1,18 +1,18 @@
 term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-biglietto,true,biglietto,ticket,"travel,events",masculine,singular,none,n/a,n/a,n/a,base lemma,"Biglietto trovato a terra.","Ticket found on the ground."
-un biglietto,false,biglietto,a ticket,"travel,events",masculine,singular,indefinite,un,un,n/a,,"Ho comprato un biglietto.","I bought a ticket."
-il biglietto,false,biglietto,the ticket,"travel,events",masculine,singular,definite,il,il,n/a,,"Il biglietto è valido.","The ticket is valid."
-biglietti,false,biglietto,tickets,"travel,events",masculine,plural,none,n/a,n/a,n/a,plural form,"Biglietti esauriti.","Tickets sold out."
-i biglietti,false,biglietto,the tickets,"travel,events",masculine,plural,definite,i,i,n/a,,"I biglietti sono sul tavolo.","The tickets are on the table."
-dei biglietti,false,biglietto,some tickets,"travel,events",masculine,plural,articulated_preposition,dei,dei,di,indefinite plural articulated,"Ci sono dei biglietti disponibili.","There are some tickets available."
-del biglietto,false,biglietto,of the ticket,"travel,events",masculine,singular,articulated_preposition,del,del,di,contraction of di + il,"La data del biglietto è domani.","The date on the ticket is tomorrow."
-al biglietto,false,biglietto,to the ticket,"travel,events",masculine,singular,articulated_preposition,al,al,a,contraction of a + il,"Ho aggiunto un codice al biglietto.","I added a code to the ticket."
-dal biglietto,false,biglietto,from the ticket,"travel,events",masculine,singular,articulated_preposition,dal,dal,da,contraction of da + il,"Ho rimosso la macchia dal biglietto.","I removed the stain from the ticket."
-nel biglietto,false,biglietto,in the ticket,"travel,events",masculine,singular,articulated_preposition,nel,nel,in,contraction of in + il,"Nel biglietto c'è scritto il numero del posto.","The seat number is written on the ticket."
-sul biglietto,false,biglietto,on the ticket,"travel,events",masculine,singular,articulated_preposition,sul,sul,su,contraction of su + il,"Ho trovato un appunto sul biglietto.","I found a note on the ticket."
-col biglietto,false,biglietto,with the ticket,"travel,events",masculine,singular,articulated_preposition,col,col,con,contraction of con + il,"Sono entrato col biglietto.","I entered with the ticket."
-ai biglietti,false,biglietto,to the tickets,"travel,events",masculine,plural,articulated_preposition,ai,ai,a,contraction of a + i,"Ho pensato ai biglietti per il concerto.","I thought about the tickets for the concert."
-dai biglietti,false,biglietto,from the tickets,"travel,events",masculine,plural,articulated_preposition,dai,dai,da,contraction of da + i,"Ho tolto le etichette dai biglietti.","I removed the labels from the tickets."
-nei biglietti,false,biglietto,in the tickets,"travel,events",masculine,plural,articulated_preposition,nei,nei,in,contraction of in + i,"Ci sono note nei biglietti.","There are notes in the tickets."
-sui biglietti,false,biglietto,on the tickets,"travel,events",masculine,plural,articulated_preposition,sui,sui,su,contraction of su + i,"Ho scritto i nomi sui biglietti.","I wrote the names on the tickets."
-coi biglietti,false,biglietto,with the tickets,"travel,events",masculine,plural,articulated_preposition,coi,coi,con,contraction of con + i,"Siamo entrati coi biglietti di gruppo.","We entered with the group tickets."
+biglietto,True,biglietto,ticket,"travel,transport",masculine,singular,none,,,,base lemma,Compro un biglietto online.,I buy a ticket online.
+un biglietto,False,biglietto,a ticket,"travel,transport",masculine,singular,indefinite,un,un,,,Mi serve un biglietto.,I need a ticket.
+il biglietto,False,biglietto,the ticket,"travel,transport",masculine,singular,definite,il,il,,,Il biglietto costa poco.,The ticket is cheap.
+biglietti,False,biglietto,tickets,"travel,transport",masculine,plural,none,,,,plural form,Biglietti esauriti.,Tickets sold out.
+i biglietti,False,biglietto,the tickets,"travel,transport",masculine,plural,definite,i,i,,,I biglietti sono validi.,The tickets are valid.
+dei biglietti,False,biglietto,some tickets,"travel,transport",masculine,plural,articulated_preposition,i,dei,di,,Compra dei biglietti extra.,Buy some extra tickets.
+del biglietto,False,biglietto,of the ticket,"travel,transport",masculine,singular,articulated_preposition,il,del,di,,La data del biglietto è sbagliata.,The ticket's date is wrong.
+al biglietto,False,biglietto,to the ticket,"travel,transport",masculine,singular,articulated_preposition,il,al,a,,Aggiungo il nome al biglietto.,I add the name to the ticket.
+ai biglietti,False,biglietto,to the tickets,"travel,transport",masculine,plural,articulated_preposition,i,ai,a,,Accedo ai biglietti digitali.,I access the digital tickets.
+dal biglietto,False,biglietto,from the ticket,"travel,transport",masculine,singular,articulated_preposition,il,dal,da,,Leggo i dati dal biglietto.,I read the data from the ticket.
+dai biglietti,False,biglietto,from the tickets,"travel,transport",masculine,plural,articulated_preposition,i,dai,da,,Codici dai biglietti cartacei.,Codes from the paper tickets.
+nel biglietto,False,biglietto,in the ticket,"travel,transport",masculine,singular,articulated_preposition,il,nel,in,,C'è un errore nel biglietto.,There's an error in the ticket.
+nei biglietti,False,biglietto,in the tickets,"travel,transport",masculine,plural,articulated_preposition,i,nei,in,,Note nei biglietti.,Notes in the tickets.
+sul biglietto,False,biglietto,on the ticket,"travel,transport",masculine,singular,articulated_preposition,il,sul,su,,Firma sul biglietto.,Signature on the ticket.
+sui biglietti,False,biglietto,on the tickets,"travel,transport",masculine,plural,articulated_preposition,i,sui,su,,Sconti sui biglietti.,Discounts on the tickets.
+col biglietto,False,biglietto,with the ticket,"travel,transport",masculine,singular,articulated_preposition,il,col,con,contraction of con + il,Entro col biglietto elettronico.,I enter with the electronic ticket.
+coi biglietti,False,biglietto,with the tickets,"travel,transport",masculine,plural,articulated_preposition,i,coi,con,contraction of con + i,Viaggio coi biglietti prepagati.,I travel with prepaid tickets.

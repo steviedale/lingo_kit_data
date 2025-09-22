@@ -1,20 +1,18 @@
 term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-aeroporto,true,aeroporto,airport,"travel,transport,places",masculine,singular,none,n/a,n/a,n/a,base lemma,"Aeroporto chiuso oggi.","Airport closed today."
-un aeroporto,false,aeroporto,a/an airport,"travel,transport,places",masculine,singular,indefinite,un,un,n/a,,"Ho visto un aeroporto moderno.","I saw a modern airport."
-l'aeroporto,false,aeroporto,the airport,"travel,transport,places",masculine,singular,definite,l',l',n/a,,"L'aeroporto è affollato.","The airport is crowded."
-aeroporti,false,aeroporto,airports,"travel,transport,places",masculine,plural,none,n/a,n/a,n/a,plural form,"Aeroporti in Italia offrono molti servizi.","Airports in Italy offer many services."
-gli aeroporti,false,aeroporto,the airports,"travel,transport,places",masculine,plural,definite,gli,gli,n/a,,"Gli aeroporti italiani sono moderni.","Italian airports are modern."
-degli aeroporti,false,aeroporto,some airports,"travel,transport,places",masculine,plural,articulated_preposition,degli,degli,di,,"Ho visitato degli aeroporti in Europa.","I visited some airports in Europe."
-dell'aeroporto,false,aeroporto,of the airport,"travel,transport,places",masculine,singular,articulated_preposition,dell',dell',di,,"Il parcheggio dell'aeroporto è caro.","The airport parking is expensive."
-all'aeroporto,false,aeroporto,to the airport,"travel,transport,places",masculine,singular,articulated_preposition,all',all',a,,"Vado all'aeroporto domani.","I'm going to the airport tomorrow."
-agli aeroporti,false,aeroporto,to the airports,"travel,transport,places",masculine,plural,articulated_preposition,agli,agli,a,,"I voli sono diretti agli aeroporti internazionali.","The flights are headed to the international airports."
-dall'aeroporto,false,aeroporto,from the airport,"travel,transport,places",masculine,singular,articulated_preposition,dall',dall',da,,"Esco dall'aeroporto e prendo un taxi.","I leave the airport and take a taxi."
-dagli aeroporti,false,aeroporto,from the airports,"travel,transport,places",masculine,plural,articulated_preposition,dagli,dagli,da,,"I passeggeri arrivano dagli aeroporti vicini.","Passengers arrive from the nearby airports."
-nell'aeroporto,false,aeroporto,in the airport,"travel,transport,places",masculine,singular,articulated_preposition,nell',nell',in,,"Nell'aeroporto c'è un bar aperto 24 ore.","There's a 24-hour bar in the airport."
-negli aeroporti,false,aeroporto,in the airports,"travel,transport,places",masculine,plural,articulated_preposition,negli,negli,in,,"Negli aeroporti sono in vigore controlli severi.","There are strict checks in the airports."
-sull'aeroporto,false,aeroporto,on the airport,"travel,transport,places",masculine,singular,articulated_preposition,sull',sull',su,,"Sull'aeroporto si svolge una conferenza oggi.","A conference is taking place at the airport today."
-sugli aeroporti,false,aeroporto,on the airports,"travel,transport,places",masculine,plural,articulated_preposition,sugli,sugli,su,,"Si trovano informazioni sugli aeroporti online.","You can find information about the airports online."
-con l'aeroporto,false,aeroporto,with the airport,"travel,transport,places",masculine,singular,articulated_preposition,l',con l',con,,"Con l'aeroporto chiuso, molti voli sono stati cancellati.","With the airport closed, many flights were canceled."
-con gli aeroporti,false,aeroporto,with the airports,"travel,transport,places",masculine,plural,articulated_preposition,gli,con gli,con,,"Ci coordiniamo con gli aeroporti internazionali.","We coordinate with the international airports."
-col aeroporto,false,aeroporto,with the airport (con + il),"travel,transport,places",masculine,singular,articulated_preposition,il,col,con,"contraction of con + il; not used before vowel, nonstandard","La grafia 'col aeroporto' è scorretta.","The spelling 'col aeroporto' is incorrect."
-coi aeroporti,false,aeroporto,with the airports (con + i),"travel,transport,places",masculine,plural,articulated_preposition,i,coi,con,"contraction of con + i; uncommon before vowel","La grafia 'coi aeroporti' è rara.","The spelling 'coi aeroporti' is rare."
+aeroporto,True,aeroporto,airport,"travel,transport",masculine,singular,none,,,,base lemma,Visito un aeroporto moderno.,I visit a modern airport.
+un aeroporto,False,aeroporto,an airport,"travel,transport",masculine,singular,indefinite,un,un,,,C'è un aeroporto vicino.,There's an airport nearby.
+l'aeroporto,False,aeroporto,the airport,"travel,transport",masculine,singular,definite,l',l',,,L'aeroporto è lontano.,The airport is far.
+aeroporti,False,aeroporto,airports,"travel,transport",masculine,plural,none,,,,plural form,Aeroporti europei sono efficienti.,European airports are efficient.
+gli aeroporti,False,aeroporto,the airports,"travel,transport",masculine,plural,definite,gli,gli,,,Gli aeroporti chiudono tardi.,Airports close late.
+degli aeroporti,False,aeroporto,some airports,"travel,transport",masculine,plural,articulated_preposition,gli,degli,di,,Visitiamo degli aeroporti nuovi.,We visit some new airports.
+dell'aeroporto,False,aeroporto,of the airport,"travel,transport",masculine,singular,articulated_preposition,l',dell',di,,L'uscita dell'aeroporto è a destra.,The airport's exit is on the right.
+all'aeroporto,False,aeroporto,to the airport,"travel,transport",masculine,singular,articulated_preposition,l',all',a,,Arrivo all'aeroporto presto.,I arrive at the airport early.
+agli aeroporti,False,aeroporto,to the airports,"travel,transport",masculine,plural,articulated_preposition,gli,agli,a,,Navette agli aeroporti principali.,Shuttles to the main airports.
+dall'aeroporto,False,aeroporto,from the airport,"travel,transport",masculine,singular,articulated_preposition,l',dall',da,,Esco dall'aeroporto.,I leave the airport.
+dagli aeroporti,False,aeroporto,from the airports,"travel,transport",masculine,plural,articulated_preposition,gli,dagli,da,,Voli dagli aeroporti vicini.,Flights from nearby airports.
+nell'aeroporto,False,aeroporto,in the airport,"travel,transport",masculine,singular,articulated_preposition,l',nell',in,,Mangio nell'aeroporto.,I eat in the airport.
+negli aeroporti,False,aeroporto,in the airports,"travel,transport",masculine,plural,articulated_preposition,gli,negli,in,,Lavori negli aeroporti.,Jobs in airports.
+sull'aeroporto,False,aeroporto,on the airport,"travel,transport",masculine,singular,articulated_preposition,l',sull',su,,Dati sull'aeroporto.,Data about the airport.
+sugli aeroporti,False,aeroporto,on the airports,"travel,transport",masculine,plural,articulated_preposition,gli,sugli,su,,Report sugli aeroporti.,Report on airports.
+con l'aeroporto,False,aeroporto,with the airport,"travel,transport",masculine,singular,articulated_preposition,l',con l',con,,Collaboriamo con l'aeroporto.,We collaborate with the airport.
+con gli aeroporti,False,aeroporto,with the airports,"travel,transport",masculine,plural,articulated_preposition,gli,con gli,con,,Lavoriamo con gli aeroporti regionali.,We work with regional airports.

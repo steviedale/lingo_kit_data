@@ -1,20 +1,18 @@
 term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-camera,true,camera,room,"places,accommodation",feminine,singular,none,n/a,n/a,n/a,base lemma,"La camera è grande.","The room is large."
-una camera,false,camera,a room,"places,accommodation",feminine,singular,indefinite,una,una,n/a,,"Ho prenotato una camera.","I booked a room."
-la camera,false,camera,the room,"places,accommodation",feminine,singular,definite,la,la,n/a,,"La camera ha una bella vista.","The room has a beautiful view."
-camere,false,camera,rooms,"places,accommodation",feminine,plural,none,n/a,n/a,n/a,plural form,"Camere disponibili per il weekend.","Rooms available for the weekend."
-le camere,false,camera,the rooms,"places,accommodation",feminine,plural,definite,le,le,n/a,,"Le camere sono pulite.","The rooms are clean."
-delle camere,false,camera,some rooms,"places,accommodation",feminine,plural,articulated_preposition,le,delle,di,indefinite plural,"Ci sono delle camere libere.","There are some free rooms."
-della camera,false,camera,of the room,"places,accommodation",feminine,singular,articulated_preposition,la,della,di,,"Ho la chiave della camera.","I have the room's key."
-alla camera,false,camera,to the room,"places,accommodation",feminine,singular,articulated_preposition,la,alla,a,,"Porta i bagagli alla camera.","Bring the luggage to the room."
-alle camere,false,camera,to the rooms,"places,accommodation",feminine,plural,articulated_preposition,le,alle,a,,"Ho consegnato le chiavi alle camere.","I delivered the keys to the rooms."
-dalla camera,false,camera,from the room,"places,accommodation",feminine,singular,articulated_preposition,la,dalla,da,,"È uscita dalla camera.","She left the room."
-dalle camere,false,camera,from the rooms,"places,accommodation",feminine,plural,articulated_preposition,le,dalle,da,,"Le tende sono state rimosse dalle camere.","The curtains were removed from the rooms."
-nella camera,false,camera,in the room,"places,accommodation",feminine,singular,articulated_preposition,la,nella,in,,"Nella camera c'è un armadio.","In the room there is a wardrobe."
-nelle camere,false,camera,in the rooms,"places,accommodation",feminine,plural,articulated_preposition,le,nelle,in,,"Nelle camere ci sono ventilatori.","There are fans in the rooms."
-sulla camera,false,camera,on the room,"places,accommodation",feminine,singular,articulated_preposition,la,sulla,su,,"Ho trovato una macchia sulla camera.","I found a stain on the room."
-sulle camere,false,camera,on the rooms,"places,accommodation",feminine,plural,articulated_preposition,le,sulle,su,,"Ho messo etichette sulle camere.","I put labels on the rooms."
-con la camera,false,camera,with the room,"places,accommodation",feminine,singular,articulated_preposition,la,con la,con,,"La porta comunica con la camera.","The door connects to the room."
-con le camere,false,camera,with the rooms,"places,accommodation",feminine,plural,articulated_preposition,le,con le,con,,"Abbiamo coordinato le pulizie con le camere vicine.","We coordinated the cleaning with the neighboring rooms."
-col camera,false,camera,with the room (col, incorrect),"places,accommodation",feminine,singular,articulated_preposition,il,col,con,"not used with feminine nouns; 'col' = con + il","'Col camera' non è corretto; si dice 'con la camera'.","'Col camera' is not correct; say 'con la camera'."
-coi camere,false,camera,with the rooms (coi, incorrect),"places,accommodation",feminine,plural,articulated_preposition,i,coi,con,"not used with feminine nouns; 'coi' = con + i","'Coi camere' non è corretto; si dice 'con le camere'.","'Coi camere' is not correct; say 'con le camere'."
+camera,True,camera,room,"home,travel",feminine,singular,none,,,,base lemma,Prenoto camera doppia.,I book a double room.
+una camera,False,camera,a room,"home,travel",feminine,singular,indefinite,una,una,,,Cerco una camera silenziosa.,I'm looking for a quiet room.
+la camera,False,camera,the room,"home,travel",feminine,singular,definite,la,la,,,La camera è luminosa.,The room is bright.
+camere,False,camera,rooms,"home,travel",feminine,plural,none,,,,plural form,Camere libere stanotte.,Rooms available tonight.
+le camere,False,camera,the rooms,"home,travel",feminine,plural,definite,le,le,,,Le camere sono pulite.,The rooms are clean.
+delle camere,False,camera,some rooms,"home,travel",feminine,plural,articulated_preposition,le,delle,di,,Abbiamo delle camere libere.,We have some available rooms.
+della camera,False,camera,of the room,"home,travel",feminine,singular,articulated_preposition,la,della,di,,La chiave della camera è qui.,The room's key is here.
+alla camera,False,camera,to the room,"home,travel",feminine,singular,articulated_preposition,la,alla,a,,Vado alla camera ora.,I'm going to the room now.
+alle camere,False,camera,to the rooms,"home,travel",feminine,plural,articulated_preposition,le,alle,a,,Accesso alle camere al primo piano.,Access to the rooms on the first floor.
+dalla camera,False,camera,from the room,"home,travel",feminine,singular,articulated_preposition,la,dalla,da,,Esco dalla camera.,I leave the room.
+dalle camere,False,camera,from the rooms,"home,travel",feminine,plural,articulated_preposition,le,dalle,da,,Rumori dalle camere vicine.,Noises from the nearby rooms.
+nella camera,False,camera,in the room,"home,travel",feminine,singular,articulated_preposition,la,nella,in,,C'è luce nella camera.,There is light in the room.
+nelle camere,False,camera,in the rooms,"home,travel",feminine,plural,articulated_preposition,le,nelle,in,,Ventilatori nelle camere.,Fans in the rooms.
+sulla camera,False,camera,on the room,"home,travel",feminine,singular,articulated_preposition,la,sulla,su,,Nota sulla camera 12.,A note about room 12.
+sulle camere,False,camera,on the rooms,"home,travel",feminine,plural,articulated_preposition,le,sulle,su,,Commenti sulle camere.,Comments on the rooms.
+con la camera,False,camera,with the room,"home,travel",feminine,singular,articulated_preposition,la,con la,con,,Pago con la camera inclusa.,I pay with the room included.
+con le camere,False,camera,with the rooms,"home,travel",feminine,plural,articulated_preposition,le,con le,con,,Lavoro con le camere deluxe.,I work with the deluxe rooms.

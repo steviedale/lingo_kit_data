@@ -1,21 +1,18 @@
 term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-macchina,true,macchina,car,"vehicles,transport",feminine,singular,none,n/a,n/a,n/a,base lemma,"La macchina è parcheggiata.","The car is parked."
-una macchina,false,macchina,a car,"vehicles,transport",feminine,singular,indefinite,una,una,n/a,,"Ho comprato una macchina nuova.","I bought a new car."
-la macchina,false,macchina,the car,"vehicles,transport",feminine,singular,definite,la,la,n/a,,"La macchina è rossa.","The car is red."
-macchine,false,macchina,cars,"vehicles,transport",feminine,plural,none,n/a,n/a,n/a,plural form,"Le macchine passano veloci.","Cars pass by quickly."
-le macchine,false,macchina,the cars,"vehicles,transport",feminine,plural,definite,le,le,n/a,,"Le macchine sono parcheggiate.","The cars are parked."
-delle macchine,false,macchina,some cars,"vehicles,transport",feminine,plural,articulated_preposition,le,delle,di,indefinite plural (di + le),"Ho visto delle macchine nel cortile.","I saw some cars in the yard."
-della macchina,false,macchina,of the car,"vehicles,transport",feminine,singular,articulated_preposition,la,della,di,,"Il colore della macchina è blu.","The car's color is blue."
-delle macchine,false,macchina,of the cars,"vehicles,transport",feminine,plural,articulated_preposition,le,delle,di,,"Le luci delle macchine sono accese.","The cars' lights are on."
-alla macchina,false,macchina,to the car,"vehicles,transport",feminine,singular,articulated_preposition,la,alla,a,,"Ho messo la chiave alla macchina.","I put the key in/at the car."
-alle macchine,false,macchina,to the cars,"vehicles,transport",feminine,plural,articulated_preposition,le,alle,a,,"Ho attaccato gli adesivi alle macchine.","I attached the stickers to the cars."
-dalla macchina,false,macchina,from the car,"vehicles,transport",feminine,singular,articulated_preposition,la,dalla,da,,"È scesa dalla macchina.","She got out of the car."
-dalle macchine,false,macchina,from the cars,"vehicles,transport",feminine,plural,articulated_preposition,le,dalle,da,,"Le persone sono scese dalle macchine.","People got out of the cars."
-nella macchina,false,macchina,in the car,"vehicles,transport",feminine,singular,articulated_preposition,la,nella,in,,"C'è una borsa nella macchina.","There is a bag in the car."
-nelle macchine,false,macchina,in the cars,"vehicles,transport",feminine,plural,articulated_preposition,le,nelle,in,,"Ho trovato documenti nelle macchine.","I found documents in the cars."
-sulla macchina,false,macchina,on the car,"vehicles,transport",feminine,singular,articulated_preposition,la,sulla,su,,"C'è della neve sulla macchina.","There is snow on the car."
-sulle macchine,false,macchina,on the cars,"vehicles,transport",feminine,plural,articulated_preposition,le,sulle,su,,"Ci sono graffi sulle macchine.","There are scratches on the cars."
-con la macchina,false,macchina,with the car,"vehicles,transport",feminine,singular,articulated_preposition,la,con la,con,uses full preposition + article (no contraction),"Vengo con la macchina.","I am coming by car / I come with the car."
-con le macchine,false,macchina,with the cars,"vehicles,transport",feminine,plural,articulated_preposition,le,con le,con,uses full preposition + article (no contraction),"Viaggiano con le macchine.","They travel with the cars."
-col macchina,false,macchina,with the car (incorrect),"vehicles,transport",feminine,singular,articulated_preposition,la,col,con,not used with feminine: col = con + il; shown for contrast,"Col macchina non si dice; si dice con la macchina.","'Col macchina' is incorrect; say 'con la macchina'."
-coi macchine,false,macchina,with the cars (incorrect),"vehicles,transport",feminine,plural,articulated_preposition,le,coi,con,not used with feminine: coi = con + i; shown for contrast,"Coi macchine è sbagliato; si dice con le macchine.","'Coi macchine' is wrong; say 'con le macchine'."
+macchina,True,macchina,car,"transport,everyday",feminine,singular,none,,,,base lemma,Guido macchina nuova.,I drive a new car.
+una macchina,False,macchina,a car,"transport,everyday",feminine,singular,indefinite,una,una,,,Noleggio una macchina.,I rent a car.
+la macchina,False,macchina,the car,"transport,everyday",feminine,singular,definite,la,la,,,La macchina è veloce.,The car is fast.
+macchine,False,macchina,cars,"transport,everyday",feminine,plural,none,,,,plural form,Macchine elettriche in città.,Electric cars in the city.
+le macchine,False,macchina,the cars,"transport,everyday",feminine,plural,definite,le,le,,,Le macchine sono parcheggiate.,The cars are parked.
+delle macchine,False,macchina,some cars,"transport,everyday",feminine,plural,articulated_preposition,le,delle,di,,Compriamo delle macchine usate.,We're buying some used cars.
+della macchina,False,macchina,of the car,"transport,everyday",feminine,singular,articulated_preposition,la,della,di,,Il colore della macchina mi piace.,I like the car's color.
+alla macchina,False,macchina,to the car,"transport,everyday",feminine,singular,articulated_preposition,la,alla,a,,Vado alla macchina.,I'm going to the car.
+alle macchine,False,macchina,to the cars,"transport,everyday",feminine,plural,articulated_preposition,le,alle,a,,Accesso alle macchine aziendali.,Access to company cars.
+dalla macchina,False,macchina,from the car,"transport,everyday",feminine,singular,articulated_preposition,la,dalla,da,,Scendo dalla macchina.,I get out of the car.
+dalle macchine,False,macchina,from the cars,"transport,everyday",feminine,plural,articulated_preposition,le,dalle,da,,Rumori dalle macchine.,Noises from the cars.
+nella macchina,False,macchina,in the car,"transport,everyday",feminine,singular,articulated_preposition,la,nella,in,,C'è un cavo nella macchina.,There's a cable in the car.
+nelle macchine,False,macchina,in the cars,"transport,everyday",feminine,plural,articulated_preposition,le,nelle,in,,Bambini nelle macchine.,Children in the cars.
+sulla macchina,False,macchina,on the car,"transport,everyday",feminine,singular,articulated_preposition,la,sulla,su,,Piove sulla macchina.,It's raining on the car.
+sulle macchine,False,macchina,on the cars,"transport,everyday",feminine,plural,articulated_preposition,le,sulle,su,,Polvere sulle macchine.,Dust on the cars.
+con la macchina,False,macchina,with the car,"transport,everyday",feminine,singular,articulated_preposition,la,con la,con,,Vado con la macchina.,I go by car.
+con le macchine,False,macchina,with the cars,"transport,everyday",feminine,plural,articulated_preposition,le,con le,con,,Lavoro con le macchine nuove.,I work with the new cars.

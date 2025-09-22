@@ -1,20 +1,18 @@
 term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-acqua,true,acqua,water,"nature,liquids",feminine,singular,none,n/a,n/a,n/a,"mass noun; usually uncountable","L'acqua è essenziale per la vita.","Water is essential for life."
-un'acqua,false,acqua,a (a bottle/glass of) water,"nature,liquids",feminine,singular,indefinite,un',un',n/a,"used when referring to a single serving or bottle","Vorrei un'acqua frizzante, per favore.","I'd like a sparkling water, please."
-l'acqua,false,acqua,the water,"nature,liquids",feminine,singular,definite,l',l',n/a,,"L'acqua è fredda.","The water is cold."
-acque,false,acqua,waters,"nature,liquids",feminine,plural,none,n/a,n/a,n/a,"plural form; often poetic or technical","Le acque del fiume sono limpide.","The waters of the river are clear."
-le acque,false,acqua,the waters,"nature,liquids",feminine,plural,definite,le,le,n/a,,"Le acque termali attirano molte persone.","The thermal waters attract many people."
-delle acque,false,acqua,some waters,"nature,liquids",feminine,plural,articulated_preposition,le,delle,di,,"Abbiamo analizzato delle acque di sorgente.","We analyzed some spring waters."
-dell'acqua,false,acqua,of the water/the water's,"nature,liquids",feminine,singular,articulated_preposition,l',dell',di,,"Il sapore dell'acqua è neutro.","The taste of the water is neutral."
-all'acqua,false,acqua,to the water,"nature,liquids",feminine,singular,articulated_preposition,l',all',a,,"Ha aggiunto zucchero all'acqua.","He added sugar to the water."
-alle acque,false,acqua,to the waters,"nature,liquids",feminine,plural,articulated_preposition,le,alle,a,,"Mi sono abituato alle acque fredde.","I got used to the cold waters."
-dall'acqua,false,acqua,from the water,"nature,liquids",feminine,singular,articulated_preposition,l',dall',da,,"Ha preso il ghiaccio dall'acqua.","He took the ice from the water."
-dalle acque,false,acqua,from the waters,"nature,liquids",feminine,plural,articulated_preposition,le,dalle,da,,"Le alghe provengono dalle acque costiere.","The algae come from the coastal waters."
-nell'acqua,false,acqua,in the water,"nature,liquids",feminine,singular,articulated_preposition,l',nell',in,,"C'è un pesce nell'acqua.","There is a fish in the water."
-nelle acque,false,acqua,in the waters,"nature,liquids",feminine,plural,articulated_preposition,le,nelle,in,,"Nelle acque profonde vivono specie diverse.","Different species live in the deep waters."
-sull'acqua,false,acqua,on the water,"nature,liquids",feminine,singular,articulated_preposition,l',sull',su,,"La barca galleggia sull'acqua.","The boat floats on the water."
-sulle acque,false,acqua,on the waters,"nature,liquids",feminine,plural,articulated_preposition,le,sulle,su,,"Gli uccelli si posano sulle acque calme.","The birds perch on the calm waters."
-con l'acqua,false,acqua,with the water,"nature,liquids",feminine,singular,articulated_preposition,l',con l',con,,"Mescola il concentrato con l'acqua.","Mix the concentrate with water."
-con le acque,false,acqua,with the waters,"nature,liquids",feminine,plural,articulated_preposition,le,con le,con,,"Il porto si è riempito con le acque alte.","The port filled with high waters."
-col acqua,false,acqua,with the water,"nature,liquids",feminine,singular,articulated_preposition,il,col,con,"not used with feminine nouns; incorrect; use 'con l'acqua'","Forme come 'col acqua' non sono corrette.","Forms like 'col acqua' are not correct."
-coi acque,false,acqua,with the waters,"nature,liquids",feminine,plural,articulated_preposition,i,coi,con,"not used with feminine nouns; incorrect; use 'con le acque'","Le forme 'coi acque' sono scorrette.","The forms 'coi acque' are incorrect."
+acqua,True,acqua,water,"beverages,basics",feminine,singular,none,,,,base lemma,Bevo acqua spesso.,I drink water often.
+un'acqua,False,acqua,a water,"beverages,basics",feminine,singular,indefinite,un',un',,used for a bottle or type,Prendo un'acqua frizzante.,I'll have a sparkling water.
+l'acqua,False,acqua,the water,"beverages,basics",feminine,singular,definite,l',l',,,L'acqua è fredda.,The water is cold.
+acque,False,acqua,waters,"beverages,basics",feminine,plural,none,,,,plural form,Acque limpide circondano l'isola.,Clear waters surround the island.
+le acque,False,acqua,the waters,"beverages,basics",feminine,plural,definite,le,le,,,Le acque sono alte.,The waters are high.
+delle acque,False,acqua,some waters,"beverages,basics",feminine,plural,articulated_preposition,le,delle,di,,Hanno analizzato delle acque.,They analyzed some waters.
+dell'acqua,False,acqua,of the water,"beverages,basics",feminine,singular,articulated_preposition,l',dell',di,,Ho bisogno dell'acqua.,I need the water.
+all'acqua,False,acqua,to the water,"beverages,basics",feminine,singular,articulated_preposition,l',all',a,,Aggiungo limone all'acqua.,I add lemon to the water.
+alle acque,False,acqua,to the waters,"beverages,basics",feminine,plural,articulated_preposition,le,alle,a,,Torniamo alle acque termali.,We return to the thermal waters.
+dall'acqua,False,acqua,from the water,"beverages,basics",feminine,singular,articulated_preposition,l',dall',da,,La barca emerge dall'acqua.,The boat emerges from the water.
+dalle acque,False,acqua,from the waters,"beverages,basics",feminine,plural,articulated_preposition,le,dalle,da,,Il tempio riemerse dalle acque.,The temple re-emerged from the waters.
+nell'acqua,False,acqua,in the water,"beverages,basics",feminine,singular,articulated_preposition,l',nell',in,,C'è sabbia nell'acqua.,There is sand in the water.
+nelle acque,False,acqua,in the waters,"beverages,basics",feminine,plural,articulated_preposition,le,nelle,in,,Nuotiamo nelle acque calme.,We swim in the calm waters.
+sull'acqua,False,acqua,on the water,"beverages,basics",feminine,singular,articulated_preposition,l',sull',su,,Case sull'acqua costano molto.,Houses on the water are expensive.
+sulle acque,False,acqua,on the waters,"beverages,basics",feminine,plural,articulated_preposition,le,sulle,su,,C'è nebbia sulle acque del lago.,There is fog on the lake's waters.
+con l'acqua,False,acqua,with the water,"beverages,basics",feminine,singular,articulated_preposition,l',con l',con,,Lavo i piatti con l'acqua.,I wash the dishes with the water.
+con le acque,False,acqua,with the waters,"beverages,basics",feminine,plural,articulated_preposition,le,con le,con,,Lavoriamo con le acque locali.,We work with the local waters.

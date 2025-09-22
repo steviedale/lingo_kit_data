@@ -1,18 +1,18 @@
 term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-sedia,true,sedia,chair,"furniture,objects",feminine,singular,none,n/a,n/a,n/a,base lemma,"La sedia è comoda.","The chair is comfortable."
-una sedia,false,sedia,a chair,"furniture,objects",feminine,singular,indefinite,una,una,n/a,,"Ho comprato una sedia nuova.","I bought a new chair."
-la sedia,false,sedia,the chair,"furniture,objects",feminine,singular,definite,la,la,n/a,,"La sedia è rotta.","The chair is broken."
-sedie,false,sedia,chairs,"furniture,objects",feminine,plural,none,n/a,n/a,n/a,plural form,"In sala ci sono quattro sedie.","There are four chairs in the room."
-le sedie,false,sedia,the chairs,"furniture,objects",feminine,plural,definite,le,le,n/a,,"Le sedie sono comode.","The chairs are comfortable."
-delle sedie,false,sedia,some chairs,"furniture,objects",feminine,plural,articulated_preposition,le,delle,di,,"Ci servono delle sedie in più.","We need some extra chairs."
-della sedia,false,sedia,of the chair,"furniture,objects",feminine,singular,articulated_preposition,la,della,di,,"La gamba della sedia è rotta.","The leg of the chair is broken."
-alla sedia,false,sedia,to the chair,"furniture,objects",feminine,singular,articulated_preposition,la,alla,a,,"Ho legato il cuscino alla sedia.","I tied the cushion to the chair."
-alle sedie,false,sedia,to the chairs,"furniture,objects",feminine,plural,articulated_preposition,le,alle,a,,"Ho attaccato i cartellini alle sedie.","I attached the tags to the chairs."
-dalla sedia,false,sedia,from the chair,"furniture,objects",feminine,singular,articulated_preposition,la,dalla,da,,"Sono caduto dalla sedia.","I fell off the chair."
-dalle sedie,false,sedia,from the chairs,"furniture,objects",feminine,plural,articulated_preposition,le,dalle,da,,"Ho tolto i cuscini dalle sedie.","I removed the cushions from the chairs."
-nella sedia,false,sedia,in the chair,"furniture,objects",feminine,singular,articulated_preposition,la,nella,in,,"Ho trovato un biglietto nella sedia.","I found a note in the chair."
-nelle sedie,false,sedia,in the chairs,"furniture,objects",feminine,plural,articulated_preposition,le,nelle,in,,"Non ci sono documenti nelle sedie.","There are no documents in the chairs."
-sulla sedia,false,sedia,on the chair,"furniture,objects",feminine,singular,articulated_preposition,la,sulla,su,,"Il gatto dorme sulla sedia.","The cat sleeps on the chair."
-sulle sedie,false,sedia,on the chairs,"furniture,objects",feminine,plural,articulated_preposition,le,sulle,su,,"Ho messo i pacchi sulle sedie.","I put the packages on the chairs."
-con la sedia,false,sedia,with the chair,"furniture,objects",feminine,singular,articulated_preposition,la,con la,con,no contraction with con + la,"Ho spostato il tavolo con la sedia.","I moved the table with the chair."
-con le sedie,false,sedia,with the chairs,"furniture,objects",feminine,plural,articulated_preposition,le,con le,con,,"Ho portato il tavolo con le sedie.","I brought the table with the chairs."
+sedia,True,sedia,chair,"home,furniture",feminine,singular,none,,,,base lemma,Cerco sedia comoda.,I'm looking for a comfortable chair.
+una sedia,False,sedia,a chair,"home,furniture",feminine,singular,indefinite,una,una,,,Mi serve una sedia.,I need a chair.
+la sedia,False,sedia,the chair,"home,furniture",feminine,singular,definite,la,la,,,La sedia è rotta.,The chair is broken.
+sedie,False,sedia,chairs,"home,furniture",feminine,plural,none,,,,plural form,Sedie nuove arrivano oggi.,New chairs arrive today.
+le sedie,False,sedia,the chairs,"home,furniture",feminine,plural,definite,le,le,,,Le sedie sono leggere.,The chairs are light.
+delle sedie,False,sedia,some chairs,"home,furniture",feminine,plural,articulated_preposition,le,delle,di,,Compriamo delle sedie.,We're buying some chairs.
+della sedia,False,sedia,of the chair,"home,furniture",feminine,singular,articulated_preposition,la,della,di,,La gamba della sedia balla.,The chair's leg wobbles.
+alla sedia,False,sedia,to the chair,"home,furniture",feminine,singular,articulated_preposition,la,alla,a,,Mi avvicino alla sedia.,I move closer to the chair.
+alle sedie,False,sedia,to the chairs,"home,furniture",feminine,plural,articulated_preposition,le,alle,a,,Porto cuscini alle sedie.,I bring cushions to the chairs.
+dalla sedia,False,sedia,from the chair,"home,furniture",feminine,singular,articulated_preposition,la,dalla,da,,Mi alzo dalla sedia.,I get up from the chair.
+dalle sedie,False,sedia,from the chairs,"home,furniture",feminine,plural,articulated_preposition,le,dalle,da,,Toglilo dalle sedie.,Remove it from the chairs.
+nella sedia,False,sedia,in the chair,"home,furniture",feminine,singular,articulated_preposition,la,nella,in,,C'è un difetto nella sedia.,There's a flaw in the chair.
+nelle sedie,False,sedia,in the chairs,"home,furniture",feminine,plural,articulated_preposition,le,nelle,in,,Viti nelle sedie nuove.,Screws in the new chairs.
+sulla sedia,False,sedia,on the chair,"home,furniture",feminine,singular,articulated_preposition,la,sulla,su,,Metto la giacca sulla sedia.,I put the jacket on the chair.
+sulle sedie,False,sedia,on the chairs,"home,furniture",feminine,plural,articulated_preposition,le,sulle,su,,Borse sulle sedie.,Bags on the chairs.
+con la sedia,False,sedia,with the chair,"home,furniture",feminine,singular,articulated_preposition,la,con la,con,,Lavoro con la sedia ergonomica.,I work with the ergonomic chair.
+con le sedie,False,sedia,with the chairs,"home,furniture",feminine,plural,articulated_preposition,le,con le,con,,Arredo con le sedie bianche.,I furnish with the white chairs.

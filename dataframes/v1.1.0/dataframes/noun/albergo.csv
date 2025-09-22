@@ -1,20 +1,18 @@
 term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-albergo,true,albergo,hotel,"travel,accommodation",masculine,singular,none,n/a,n/a,n/a,base lemma,"Cerco un albergo economico.","I'm looking for an inexpensive hotel."
-un albergo,false,albergo,a hotel,"travel,accommodation",masculine,singular,indefinite,un,un,n/a,,"Ho prenotato un albergo vicino al centro.","I booked a hotel near the center."
-l'albergo,false,albergo,the hotel,"travel,accommodation",masculine,singular,definite,l',l',n/a,,"L'albergo è pieno questa sera.","The hotel is full tonight."
-alberghi,false,albergo,hotels,"travel,accommodation",masculine,plural,none,n/a,n/a,n/a,plural form,"Alberghi di lusso costano molto.","Luxury hotels cost a lot."
-gli alberghi,false,albergo,the hotels,"travel,accommodation",masculine,plural,definite,gli,gli,n/a,,"Gli alberghi in quella zona sono nuovi.","The hotels in that area are new."
-degli alberghi,false,albergo,some hotels,"travel,accommodation",masculine,plural,articulated_preposition,gli,degli,di,,"Ho visitato degli alberghi durante il viaggio.","I visited some hotels during the trip."
-dell'albergo,false,albergo,of the hotel,"travel,accommodation",masculine,singular,articulated_preposition,l',dell',di,,"La reception dell'albergo è aperta 24 ore.","The hotel's reception is open 24 hours."
-all'albergo,false,albergo,to the hotel,"travel,accommodation",masculine,singular,articulated_preposition,l',all',a,,"Vado all'albergo per ritirare le chiavi.","I'm going to the hotel to pick up the keys."
-agli alberghi,false,albergo,to the hotels,"travel,accommodation",masculine,plural,articulated_preposition,gli,agli,a,,"Consegnerò i documenti agli alberghi selezionati.","I will deliver the documents to the selected hotels."
-dall'albergo,false,albergo,from the hotel,"travel,accommodation",masculine,singular,articulated_preposition,l',dall',da,,"Sono tornato dall'albergo tardi.","I returned from the hotel late."
-dagli alberghi,false,albergo,from the hotels,"travel,accommodation",masculine,plural,articulated_preposition,gli,dagli,da,,"Ho ricevuto recensioni dagli alberghi della zona.","I received reviews from the hotels in the area."
-nell'albergo,false,albergo,in the hotel,"travel,accommodation",masculine,singular,articulated_preposition,l',nell',in,,"C'è una mostra nell'albergo.","There's an exhibition in the hotel."
-negli alberghi,false,albergo,in the hotels,"travel,accommodation",masculine,plural,articulated_preposition,gli,negli,in,,"Negli alberghi della costa c'è sempre turismo.","In the hotels on the coast there's always tourism."
-sull'albergo,false,albergo,on the hotel,"travel,accommodation",masculine,singular,articulated_preposition,l',sull',su,,"Hanno installato pannelli solari sull'albergo.","They installed solar panels on the hotel."
-sugli alberghi,false,albergo,on the hotels,"travel,accommodation",masculine,plural,articulated_preposition,gli,sugli,su,,"Ci sono lavori sugli alberghi vicini.","There are works on the nearby hotels."
-con l'albergo,false,albergo,with the hotel,"travel,accommodation",masculine,singular,articulated_preposition,l',con l',con,,"Ho un accordo con l'albergo per il trasporto.","I have an agreement with the hotel for transportation."
-con gli alberghi,false,albergo,with the hotels,"travel,accommodation",masculine,plural,articulated_preposition,gli,con gli,con,,"L'agenzia collabora con gli alberghi locali.","The agency collaborates with the local hotels."
-col albergo,false,albergo,with the hotel (col, nonstandard),"travel,accommodation",masculine,singular,articulated_preposition,il,col,con,rare/uncommon before vowel; standard: con l'albergo,"Hanno firmato un accordo col albergo vicino.","They signed an agreement with the nearby hotel."
-coi alberghi,false,albergo,with the hotels (coi, nonstandard),"travel,accommodation",masculine,plural,articulated_preposition,i,coi,con,rare/incorrect for this noun; standard: con gli alberghi,"Non è comune lavorare coi alberghi di lusso.","It's not common to work with luxury hotels."
+albergo,True,albergo,hotel,"travel,accommodation",masculine,singular,none,,,,base lemma,Cerco un albergo centrale.,I'm looking for a central hotel.
+un albergo,False,albergo,a hotel,"travel,accommodation",masculine,singular,indefinite,un,un,,,Prenoto un albergo vicino.,I book a nearby hotel.
+l'albergo,False,albergo,the hotel,"travel,accommodation",masculine,singular,definite,l',l',,,L'albergo è pieno.,The hotel is full.
+alberghi,False,albergo,hotels,"travel,accommodation",masculine,plural,none,,,,orthographic change g→gh in plural,Alberghi economici qui.,Cheap hotels here.
+gli alberghi,False,albergo,the hotels,"travel,accommodation",masculine,plural,definite,gli,gli,,,Gli alberghi sono comodi.,The hotels are comfortable.
+degli alberghi,False,albergo,some hotels,"travel,accommodation",masculine,plural,articulated_preposition,gli,degli,di,,Provo degli alberghi nuovi.,I try some new hotels.
+dell'albergo,False,albergo,of the hotel,"travel,accommodation",masculine,singular,articulated_preposition,l',dell',di,,La hall dell'albergo è grande.,The hotel's lobby is big.
+all'albergo,False,albergo,to the hotel,"travel,accommodation",masculine,singular,articulated_preposition,l',all',a,,Torno all'albergo.,I return to the hotel.
+agli alberghi,False,albergo,to the hotels,"travel,accommodation",masculine,plural,articulated_preposition,gli,agli,a,,Servizi agli alberghi cittadini.,Services to city hotels.
+dall'albergo,False,albergo,from the hotel,"travel,accommodation",masculine,singular,articulated_preposition,l',dall',da,,Esco dall'albergo.,I exit the hotel.
+dagli alberghi,False,albergo,from the hotels,"travel,accommodation",masculine,plural,articulated_preposition,gli,dagli,da,,Navette dagli alberghi.,Shuttles from the hotels.
+nell'albergo,False,albergo,in the hotel,"travel,accommodation",masculine,singular,articulated_preposition,l',nell',in,,Resto nell'albergo.,I stay in the hotel.
+negli alberghi,False,albergo,in the hotels,"travel,accommodation",masculine,plural,articulated_preposition,gli,negli,in,,Piscine negli alberghi.,Pools in the hotels.
+sull'albergo,False,albergo,on the hotel,"travel,accommodation",masculine,singular,articulated_preposition,l',sull',su,,Recensione sull'albergo.,A review about the hotel.
+sugli alberghi,False,albergo,on the hotels,"travel,accommodation",masculine,plural,articulated_preposition,gli,sugli,su,,Dati sugli alberghi.,Data on the hotels.
+con l'albergo,False,albergo,with the hotel,"travel,accommodation",masculine,singular,articulated_preposition,l',con l',con,,Lavoro con l'albergo partner.,I work with the partner hotel.
+con gli alberghi,False,albergo,with the hotels,"travel,accommodation",masculine,plural,articulated_preposition,gli,con gli,con,,Accordi con gli alberghi locali.,Agreements with local hotels.

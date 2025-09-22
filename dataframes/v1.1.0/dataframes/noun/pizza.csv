@@ -1,20 +1,18 @@
 term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-pizza,true,pizza,pizza,"food,cuisine",feminine,singular,none,n/a,n/a,n/a,base lemma,"Mangio pizza spesso.","I often eat pizza."
-una pizza,false,pizza,a pizza,"food,cuisine",feminine,singular,indefinite,una,una,n/a,,"Vorrei una pizza margherita.","I would like a margherita pizza."
-la pizza,false,pizza,the pizza,"food,cuisine",feminine,singular,definite,la,la,n/a,,"La pizza è pronta.","The pizza is ready."
-pizze,false,pizza,pizzas,"food,cuisine",feminine,plural,none,n/a,n/a,n/a,plural form,"In Italia si mangiano molte pizze.","In Italy many pizzas are eaten."
-le pizze,false,pizza,the pizzas,"food,cuisine",feminine,plural,definite,le,le,n/a,,"Le pizze sono nel forno.","The pizzas are in the oven."
-delle pizze,false,pizza,some pizzas,"food,cuisine",feminine,plural,articulated_preposition,delle,delle,di,,"Vorrei assaggiare delle pizze diverse.","I would like to try some different pizzas."
-della pizza,false,pizza,of the pizza,"food,cuisine",feminine,singular,articulated_preposition,della,della,di,,"La crosta della pizza è croccante.","The pizza's crust is crispy."
-alla pizza,false,pizza,to the pizza,"food,cuisine",feminine,singular,articulated_preposition,alla,alla,a,,"Aggiungi basilico alla pizza.","Add basil to the pizza."
-alle pizze,false,pizza,to the pizzas,"food,cuisine",feminine,plural,articulated_preposition,alle,alle,a,,"Aggiungo formaggio alle pizze.","I add cheese to the pizzas."
-dalla pizza,false,pizza,from the pizza,"food,cuisine",feminine,singular,articulated_preposition,dalla,dalla,da,,"Ho tolto un pezzo dalla pizza.","I took a piece from the pizza."
-dalle pizze,false,pizza,from the pizzas,"food,cuisine",feminine,plural,articulated_preposition,dalle,dalle,da,,"Ho preso fette dalle pizze.","I took slices from the pizzas."
-nella pizza,false,pizza,in the pizza,"food,cuisine",feminine,singular,articulated_preposition,nella,nella,in,,"C'è basilico nella pizza.","There is basil in the pizza."
-nelle pizze,false,pizza,in the pizzas,"food,cuisine",feminine,plural,articulated_preposition,nelle,nelle,in,,"Ci sono varietà diverse nelle pizze.","There are different varieties in the pizzas."
-sulla pizza,false,pizza,on the pizza,"food,cuisine",feminine,singular,articulated_preposition,sulla,sulla,su,,"Metti il formaggio sulla pizza.","Put the cheese on the pizza."
-sulle pizze,false,pizza,on the pizzas,"food,cuisine",feminine,plural,articulated_preposition,sulle,sulle,su,,"Guarda i condimenti sulle pizze.","Look at the toppings on the pizzas."
-con la pizza,false,pizza,with the pizza,"food,cuisine",feminine,singular,articulated_preposition,con la,con la,con,,"Mangio un'insalata con la pizza.","I eat a salad with the pizza."
-con le pizze,false,pizza,with the pizzas,"food,cuisine",feminine,plural,articulated_preposition,con le,con le,con,,"Ho servito insalate con le pizze.","I served salads with the pizzas."
-col pizza,false,pizza,with the pizza (col, incorrect),"food,cuisine",feminine,singular,articulated_preposition,col,col,con,not used with feminine nouns; incorrect form for 'pizza',"La forma 'col pizza' è scorretta; si dice 'con la pizza'.","The form 'col pizza' is incorrect; one says 'con la pizza'."
-coi pizze,false,pizza,with the pizzas (coi, incorrect),"food,cuisine",feminine,plural,articulated_preposition,coi,coi,con,not used with feminine nouns; incorrect form for 'pizze',"La forma 'coi pizze' non è corretta; si dice 'con le pizze'.","The phrase 'coi pizze' is not correct; one says 'con le pizze'."
+pizza,True,pizza,pizza,"food,dining",feminine,singular,none,,,,base lemma,Ordino pizza stasera.,I'm ordering pizza tonight.
+una pizza,False,pizza,a pizza,"food,dining",feminine,singular,indefinite,una,una,,,Prendo una pizza margherita.,I'll have a margherita pizza.
+la pizza,False,pizza,the pizza,"food,dining",feminine,singular,definite,la,la,,,La pizza è pronta.,The pizza is ready.
+pizze,False,pizza,pizzas,"food,dining",feminine,plural,none,,,,plural form,Pizze grandi escono dal forno.,Large pizzas come out of the oven.
+le pizze,False,pizza,the pizzas,"food,dining",feminine,plural,definite,le,le,,,Le pizze sono ottime.,The pizzas are excellent.
+delle pizze,False,pizza,some pizzas,"food,dining",feminine,plural,articulated_preposition,le,delle,di,,Ordiniamo delle pizze.,We're ordering some pizzas.
+della pizza,False,pizza,of the pizza,"food,dining",feminine,singular,articulated_preposition,la,della,di,,Mangio della pizza.,I eat some pizza.
+alla pizza,False,pizza,to the pizza,"food,dining",feminine,singular,articulated_preposition,la,alla,a,,Aggiungo basilico alla pizza.,I add basil to the pizza.
+alle pizze,False,pizza,to the pizzas,"food,dining",feminine,plural,articulated_preposition,le,alle,a,,Porto olio alle pizze.,I bring oil to the pizzas.
+dalla pizza,False,pizza,from the pizza,"food,dining",feminine,singular,articulated_preposition,la,dalla,da,,Il profumo viene dalla pizza.,The smell comes from the pizza.
+dalle pizze,False,pizza,from the pizzas,"food,dining",feminine,plural,articulated_preposition,le,dalle,da,,Fumo esce dalle pizze.,Smoke comes out of the pizzas.
+nella pizza,False,pizza,in the pizza,"food,dining",feminine,singular,articulated_preposition,la,nella,in,,C'è origano nella pizza.,There's oregano in the pizza.
+nelle pizze,False,pizza,in the pizzas,"food,dining",feminine,plural,articulated_preposition,le,nelle,in,,Mettono olive nelle pizze.,They put olives on the pizzas.
+sulla pizza,False,pizza,on the pizza,"food,dining",feminine,singular,articulated_preposition,la,sulla,su,,Metto olio sulla pizza.,I put oil on the pizza.
+sulle pizze,False,pizza,on the pizzas,"food,dining",feminine,plural,articulated_preposition,le,sulle,su,,Offerte sulle pizze.,Deals on pizzas.
+con la pizza,False,pizza,with the pizza,"food,dining",feminine,singular,articulated_preposition,la,con la,con,,Bevo birra con la pizza.,I drink beer with the pizza.
+con le pizze,False,pizza,with the pizzas,"food,dining",feminine,plural,articulated_preposition,le,con le,con,,Arrivo con le pizze.,I arrive with the pizzas.

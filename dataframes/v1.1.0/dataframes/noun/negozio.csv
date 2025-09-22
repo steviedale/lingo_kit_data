@@ -1,18 +1,18 @@
 term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-negozio,true,negozio,shop,"shopping,commerce",masculine,singular,none,n/a,n/a,n/a,base lemma,"Vedo un negozio in centro.","I see a shop in the center."
-un negozio,false,negozio,a shop,"shopping,commerce",masculine,singular,indefinite,un,un,n/a,,"Ho aperto un negozio vicino a casa.","I opened a shop near home."
-il negozio,false,negozio,the shop,"shopping,commerce",masculine,singular,definite,il,il,n/a,,"Il negozio è chiuso oggi.","The shop is closed today."
-negozi,false,negozio,shops,"shopping,commerce",masculine,plural,none,n/a,n/a,n/a,plural form,"Ci sono molti negozi in città.","There are many shops in the city."
-i negozi,false,negozio,the shops,"shopping,commerce",masculine,plural,definite,i,i,n/a,,"I negozi chiudono la domenica.","The shops close on Sunday."
-dei negozi,false,negozio,some shops,"shopping,commerce",masculine,plural,articulated_preposition,i,dei,di,,"Le insegne dei negozi sono nuove.","The shops' signs are new."
-del negozio,false,negozio,of the shop,"shopping,commerce",masculine,singular,articulated_preposition,il,del,di,,"La vetrina del negozio è luminosa.","The shop's window is bright."
-al negozio,false,negozio,to the shop,"shopping,commerce",masculine,singular,articulated_preposition,il,al,a,,"Vado al negozio domani.","I will go to the shop tomorrow."
-ai negozi,false,negozio,to the shops,"shopping,commerce",masculine,plural,articulated_preposition,i,ai,a,,"Consegnerò i volantini ai negozi del quartiere.","I'll deliver the flyers to the shops in the neighborhood."
-dal negozio,false,negozio,from the shop,"shopping,commerce",masculine,singular,articulated_preposition,il,dal,da,,"Prendo il pacco dal negozio.","I pick up the package from the shop."
-dai negozi,false,negozio,from the shops,"shopping,commerce",masculine,plural,articulated_preposition,i,dai,da,,"Ho ricevuto feedback dai negozi della zona.","I received feedback from the shops in the area."
-nel negozio,false,negozio,in the shop,"shopping,commerce",masculine,singular,articulated_preposition,il,nel,in,,"Ci sono luci nel negozio.","There are lights in the shop."
-nei negozi,false,negozio,in the shops,"shopping,commerce",masculine,plural,articulated_preposition,i,nei,in,,"Troverai offerte nei negozi del centro.","You'll find deals in the shops downtown."
-sul negozio,false,negozio,on the shop,"shopping,commerce",masculine,singular,articulated_preposition,il,sul,su,,"C'è un cartello sul negozio.","There is a sign on the shop."
-sui negozi,false,negozio,on the shops,"shopping,commerce",masculine,plural,articulated_preposition,i,sui,su,,"Ho scritto articoli sui negozi locali.","I wrote articles about local shops."
-col negozio,false,negozio,with the shop,"shopping,commerce",masculine,singular,articulated_preposition,il,col,con,common contraction,"Ho un accordo col negozio vicino.","I have an agreement with the nearby shop."
-coi negozi,false,negozio,with the shops,"shopping,commerce",masculine,plural,articulated_preposition,i,coi,con,common contraction,"Collaboriamo coi negozi del quartiere.","We collaborate with the shops in the neighborhood."
+negozio,True,negozio,shop,"shopping,places",masculine,singular,none,,,,base lemma,Apro negozio nuovo.,I'm opening a new shop.
+un negozio,False,negozio,a shop,"shopping,places",masculine,singular,indefinite,un,un,,,Cerco un negozio economico.,I'm looking for an inexpensive shop.
+il negozio,False,negozio,the shop,"shopping,places",masculine,singular,definite,il,il,,,Il negozio apre alle nove.,The shop opens at nine.
+negozi,False,negozio,shops,"shopping,places",masculine,plural,none,,,,plural form,Negozi piccoli qui.,Small shops here.
+i negozi,False,negozio,the shops,"shopping,places",masculine,plural,definite,i,i,,,I negozi sono chiusi.,The shops are closed.
+dei negozi,False,negozio,some shops,"shopping,places",masculine,plural,articulated_preposition,i,dei,di,,Visito dei negozi locali.,I visit some local shops.
+del negozio,False,negozio,of the shop,"shopping,places",masculine,singular,articulated_preposition,il,del,di,,Il nome del negozio è noto.,The shop's name is well-known.
+al negozio,False,negozio,to the shop,"shopping,places",masculine,singular,articulated_preposition,il,al,a,,Vado al negozio ora.,I'm going to the shop now.
+ai negozi,False,negozio,to the shops,"shopping,places",masculine,plural,articulated_preposition,i,ai,a,,Sconti ai negozi affiliati.,Discounts at affiliated shops.
+dal negozio,False,negozio,from the shop,"shopping,places",masculine,singular,articulated_preposition,il,dal,da,,Torno dal negozio.,I return from the shop.
+dai negozi,False,negozio,from the shops,"shopping,places",masculine,plural,articulated_preposition,i,dai,da,,Merci dai negozi vicini.,Goods from nearby shops.
+nel negozio,False,negozio,in the shop,"shopping,places",masculine,singular,articulated_preposition,il,nel,in,,Lavoro nel negozio.,I work in the shop.
+nei negozi,False,negozio,in the shops,"shopping,places",masculine,plural,articulated_preposition,i,nei,in,,Prezzi nei negozi centrali.,Prices in downtown shops.
+sul negozio,False,negozio,on the shop,"shopping,places",masculine,singular,articulated_preposition,il,sul,su,,Cartello sul negozio.,A sign on the shop.
+sui negozi,False,negozio,on the shops,"shopping,places",masculine,plural,articulated_preposition,i,sui,su,,Regole sui negozi.,Rules about shops.
+col negozio,False,negozio,with the shop,"shopping,places",masculine,singular,articulated_preposition,il,col,con,contraction of con + il,Parlo col negozio online.,I speak with the online shop.
+coi negozi,False,negozio,with the shops,"shopping,places",masculine,plural,articulated_preposition,i,coi,con,contraction of con + i,Collaboro coi negozi locali.,I collaborate with local shops.

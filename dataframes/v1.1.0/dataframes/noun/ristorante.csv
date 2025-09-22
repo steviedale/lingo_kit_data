@@ -1,18 +1,18 @@
 term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-ristorante,true,ristorante,restaurant,"food,places",masculine,singular,none,n/a,n/a,n/a,base lemma,"Ristorante chiuso oggi.","Restaurant closed today."
-un ristorante,false,ristorante,a restaurant,"food,places",masculine,singular,indefinite,un,un,n/a,,"Ho prenotato un ristorante per stasera.","I booked a restaurant for tonight."
-il ristorante,false,ristorante,the restaurant,"food,places",masculine,singular,definite,il,il,n/a,,"Il ristorante è molto famoso.","The restaurant is very famous."
-ristoranti,false,ristorante,restaurants,"food,places",masculine,plural,none,n/a,n/a,n/a,plural form,"I ristoranti sono pieni il sabato.","Restaurants are full on Saturday."
-i ristoranti,false,ristorante,the restaurants,"food,places",masculine,plural,definite,i,i,n/a,,"I ristoranti della zona chiudono tardi.","The restaurants in the area close late."
-dei ristoranti,false,ristorante,some restaurants,"food,places",masculine,plural,articulated_preposition,dei,dei,di,indefinite plural,"Ho provato dei ristoranti nuovi questo mese.","I tried some new restaurants this month."
-del ristorante,false,ristorante,of the restaurant,"food,places",masculine,singular,articulated_preposition,del,del,di,,"Il menu del ristorante è vario.","The restaurant's menu is varied."
-al ristorante,false,ristorante,to the restaurant,"food,places",masculine,singular,articulated_preposition,al,al,a,,"Andiamo al ristorante stasera.","We're going to the restaurant tonight."
-dal ristorante,false,ristorante,from the restaurant,"food,places",masculine,singular,articulated_preposition,dal,dal,da,,"Ho preso una pizza dal ristorante vicino.","I got a pizza from the nearby restaurant."
-nel ristorante,false,ristorante,in the restaurant,"food,places",masculine,singular,articulated_preposition,nel,nel,in,,"Nel ristorante c'era musica dal vivo.","There was live music in the restaurant."
-sul ristorante,false,ristorante,on the restaurant,"food,places",masculine,singular,articulated_preposition,sul,sul,su,used for physical/figurative placement,"C'è un'insegna sul ristorante.","There's a sign on the restaurant."
-col ristorante,false,ristorante,with the restaurant,"food,places",masculine,singular,articulated_preposition,col,col,con,contraction of con + il,"Ho parlato col ristorante per la prenotazione.","I spoke with the restaurant about the reservation."
-ai ristoranti,false,ristorante,to the restaurants,"food,places",masculine,plural,articulated_preposition,ai,ai,a,,"Le consegne ai ristoranti sono sospese domenica.","Deliveries to the restaurants are suspended on Sunday."
-dai ristoranti,false,ristorante,from the restaurants,"food,places",masculine,plural,articulated_preposition,dai,dai,da,,"Ho ricevuto pacchi dai ristoranti locali.","I received packages from the local restaurants."
-nei ristoranti,false,ristorante,in the restaurants,"food,places",masculine,plural,articulated_preposition,nei,nei,in,,"Nei ristoranti bisogna prenotare il sabato.","In the restaurants you must book on Saturdays."
-sui ristoranti,false,ristorante,on/about the restaurants,"food,places",masculine,plural,articulated_preposition,sui,sui,su,used for topics/placement,"Ho letto recensioni sui ristoranti della città.","I read reviews about the city's restaurants."
-coi ristoranti,false,ristorante,with the restaurants,"food,places",masculine,plural,articulated_preposition,coi,coi,con,contraction of con + i,"Collaboriamo coi ristoranti locali per l'evento.","We collaborate with the local restaurants for the event."
+ristorante,True,ristorante,restaurant,"travel,dining",masculine,singular,none,,,,base lemma,Cerco ristorante economico.,I'm looking for an inexpensive restaurant.
+un ristorante,False,ristorante,a restaurant,"travel,dining",masculine,singular,indefinite,un,un,,,Conosco un ristorante buono.,I know a good restaurant.
+il ristorante,False,ristorante,the restaurant,"travel,dining",masculine,singular,definite,il,il,,,Il ristorante apre alle sette.,The restaurant opens at seven.
+ristoranti,False,ristorante,restaurants,"travel,dining",masculine,plural,none,,,,plural form,Ristoranti nuovi aprono spesso.,New restaurants open often.
+i ristoranti,False,ristorante,the restaurants,"travel,dining",masculine,plural,definite,i,i,,,I ristoranti sono pieni.,The restaurants are full.
+dei ristoranti,False,ristorante,some restaurants,"travel,dining",masculine,plural,articulated_preposition,i,dei,di,,Provo dei ristoranti locali.,I try some local restaurants.
+del ristorante,False,ristorante,of the restaurant,"travel,dining",masculine,singular,articulated_preposition,il,del,di,,L'orario del ristorante è online.,The restaurant's hours are online.
+al ristorante,False,ristorante,to the restaurant,"travel,dining",masculine,singular,articulated_preposition,il,al,a,,Andiamo al ristorante.,We're going to the restaurant.
+ai ristoranti,False,ristorante,to the restaurants,"travel,dining",masculine,plural,articulated_preposition,i,ai,a,,Prenoto ai ristoranti del centro.,I book at the downtown restaurants.
+dal ristorante,False,ristorante,from the restaurant,"travel,dining",masculine,singular,articulated_preposition,il,dal,da,,Esco dal ristorante.,I leave the restaurant.
+dai ristoranti,False,ristorante,from the restaurants,"travel,dining",masculine,plural,articulated_preposition,i,dai,da,,Profumi dai ristoranti vicini.,Scents from the nearby restaurants.
+nel ristorante,False,ristorante,in the restaurant,"travel,dining",masculine,singular,articulated_preposition,il,nel,in,,Lavoro nel ristorante.,I work in the restaurant.
+nei ristoranti,False,ristorante,in the restaurants,"travel,dining",masculine,plural,articulated_preposition,i,nei,in,,Non si fuma nei ristoranti.,You can't smoke in restaurants.
+sul ristorante,False,ristorante,on the restaurant,"travel,dining",masculine,singular,articulated_preposition,il,sul,su,,Leggo una recensione sul ristorante.,I read a review about the restaurant.
+sui ristoranti,False,ristorante,on the restaurants,"travel,dining",masculine,plural,articulated_preposition,i,sui,su,,Ho dati sui ristoranti locali.,I have data on local restaurants.
+col ristorante,False,ristorante,with the restaurant,"travel,dining",masculine,singular,articulated_preposition,il,col,con,contraction of con + il,Collaboro col ristorante.,I collaborate with the restaurant.
+coi ristoranti,False,ristorante,with the restaurants,"travel,dining",masculine,plural,articulated_preposition,i,coi,con,contraction of con + i,Lavoriamo coi ristoranti partner.,We work with partner restaurants.

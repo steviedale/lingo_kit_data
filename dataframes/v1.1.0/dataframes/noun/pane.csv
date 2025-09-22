@@ -1,18 +1,18 @@
 term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-pane,true,pane,bread,"food,cooking",masculine,singular,none,n/a,n/a,n/a,mass noun; plural "pani" used for loaves,"Mangio pane tutti i giorni.","I eat bread every day."
-un pane,false,pane,a loaf of bread,"food,cooking",masculine,singular,indefinite,un,un,n/a,,"Ho comprato un pane al forno.","I bought a loaf of bread from the bakery."
-il pane,false,pane,the bread,"food,cooking",masculine,singular,definite,il,il,n/a,,"Il pane è ancora caldo.","The bread is still warm."
-del pane,false,pane,some bread,"food,cooking",masculine,singular,articulated_preposition,del,del,di,partitive (can mean "some bread" or "of the bread"),"Vorrei del pane, per favore.","I would like some bread, please."
-pani,false,pane,loaves,"food,cooking",masculine,plural,none,n/a,n/a,n/a,plural used for loaves (countable),"I pani sono sul tavolo.","The loaves are on the table."
-i pani,false,pane,the loaves,"food,cooking",masculine,plural,definite,i,i,n/a,,"I pani sono stati venduti.","The loaves have been sold."
-dei pani,false,pane,some loaves,"food,cooking",masculine,plural,articulated_preposition,dei,dei,di,partitive plural; used for "some loaves","Ho comprato dei pani per la festa.","I bought some loaves for the party."
-al pane,false,pane,to the bread / to bread,"food,cooking",masculine,singular,articulated_preposition,al,al,a,,"Aggiungi un po' d'olio al pane.","Add a bit of oil to the bread."
-ai pani,false,pane,to the loaves,"food,cooking",masculine,plural,articulated_preposition,ai,ai,a,,"Ho aggiunto semi ai pani.","I added seeds to the loaves."
-dal pane,false,pane,from the bread,"food,cooking",masculine,singular,articulated_preposition,dal,dal,da,,"Ho preso una fetta dal pane.","I took a slice from the bread."
-dai pani,false,pane,from the loaves,"food,cooking",masculine,plural,articulated_preposition,dai,dai,da,,"Ho tolto delle fette dai pani.","I took slices from the loaves."
-nel pane,false,pane,in the bread,"food,cooking",masculine,singular,articulated_preposition,nel,nel,in,,"C'è una bolla d'aria nel pane.","There's an air bubble in the bread."
-nei pani,false,pane,in the loaves,"food,cooking",masculine,plural,articulated_preposition,nei,nei,in,,"Nei pani dolci c'è l'uvetta.","Sweet loaves have raisins."
-sul pane,false,pane,on the bread,"food,cooking",masculine,singular,articulated_preposition,sul,sul,su,,"Metti il prosciutto sul pane.","Put the ham on the bread."
-sui pani,false,pane,on the loaves,"food,cooking",masculine,plural,articulated_preposition,sui,sui,su,,"Metti il burro sui pani caldi.","Put butter on the hot loaves."
-col pane,false,pane,with the bread,"food,cooking",masculine,singular,articulated_preposition,col,col,con,common contraction of con + il,"Mangio la zuppa col pane.","I eat the soup with the bread."
-coi pani,false,pane,with the loaves,"food,cooking",masculine,plural,articulated_preposition,coi,coi,con,common contraction of con + i,"Ho fatto dei crostini coi pani avanzati.","I made croutons with the leftover loaves."
+pane,True,pane,bread,"food,basics",masculine,singular,none,,,,base lemma,Mangio pane caldo.,I eat warm bread.
+un pane,False,pane,a bread,"food,basics",masculine,singular,indefinite,un,un,,used for a loaf,Compro un pane integrale.,I buy a wholemeal loaf.
+il pane,False,pane,the bread,"food,basics",masculine,singular,definite,il,il,,,Il pane è fresco.,The bread is fresh.
+pani,False,pane,breads,"food,basics",masculine,plural,none,,,,plural form,Pani diversi sono in vetrina.,Different breads are on display.
+i pani,False,pane,the breads,"food,basics",masculine,plural,definite,i,i,,,I pani sono artigianali.,The breads are artisanal.
+dei pani,False,pane,some breads,"food,basics",masculine,plural,articulated_preposition,i,dei,di,,Assaggio dei pani tipici.,I taste some typical breads.
+del pane,False,pane,of the bread,"food,basics",masculine,singular,articulated_preposition,il,del,di,,Mangio del pane.,I eat some bread.
+al pane,False,pane,to the bread,"food,basics",masculine,singular,articulated_preposition,il,al,a,,Aggiungo olio al pane.,I add oil to the bread.
+ai pani,False,pane,to the breads,"food,basics",masculine,plural,articulated_preposition,i,ai,a,,Metto etichette ai pani.,I put labels on the breads.
+dal pane,False,pane,from the bread,"food,basics",masculine,singular,articulated_preposition,il,dal,da,,Il profumo viene dal pane.,The aroma comes from the bread.
+dai pani,False,pane,from the breads,"food,basics",masculine,plural,articulated_preposition,i,dai,da,,Le briciole cadono dai pani.,Crumbs fall from the breads.
+nel pane,False,pane,in the bread,"food,basics",masculine,singular,articulated_preposition,il,nel,in,,C'è noci nel pane.,There are nuts in the bread.
+nei pani,False,pane,in the breads,"food,basics",masculine,plural,articulated_preposition,i,nei,in,,Semi nei pani integrali.,Seeds in the whole-grain breads.
+sul pane,False,pane,on the bread,"food,basics",masculine,singular,articulated_preposition,il,sul,su,,Metto miele sul pane.,I put honey on the bread.
+sui pani,False,pane,on the breads,"food,basics",masculine,plural,articulated_preposition,i,sui,su,,Scritte sui pani.,Writings on the breads.
+col pane,False,pane,with the bread,"food,basics",masculine,singular,articulated_preposition,il,col,con,contraction of con + il,Servo formaggio col pane.,I serve cheese with the bread.
+coi pani,False,pane,with the breads,"food,basics",masculine,plural,articulated_preposition,i,coi,con,contraction of con + i,Lavoro coi pani del forno.,I work with the bakery's breads.
