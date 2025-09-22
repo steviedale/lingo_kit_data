@@ -1,4 +1,4 @@
-english,italian,is_base,topic,part_of_speech,topics,base_word_english,base_word_italian
+english,italian,is_base,topic,part_of_speech,topics,base_term_english,base_term_italian
 of / from,di,True,foundational_words,preposition,[foundational_words],of / from,di
 to / at,a,True,foundational_words,preposition,[foundational_words],to / at,a
 from / by,da,True,foundational_words,preposition,[foundational_words],from / by,da

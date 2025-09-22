@@ -1,4 +1,0 @@
-term_italian,is_base,base_word_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
-bene,true,bene,well,"manner,quality",false,false,irregular comparative/superlative,"Lui parla bene l'italiano.","He speaks Italian well."
-benissimo,false,bene,very well,"manner,quality",false,true,absolute superlative,"Hai cantato benissimo.","You sang very well."
-molto bene,false,bene,very well,"manner,quality",false,true,intensifier + base,"Parla molto bene il francese.","He speaks French very well."

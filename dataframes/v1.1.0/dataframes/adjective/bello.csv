@@ -1,0 +1,5 @@
+term_italian,is_base,base_term_italian,translation_english,gender,plurality,notes,example_sentence_italian,example_sentence_english
+bello,true,bello,beautiful,masculine,singular,irregular before certain masculine nouns (forms: bel, bell'),Il ragazzo è bello.,The boy is handsome.
+bella,false,bello,beautiful,feminine,singular,,La casa è bella.,The house is beautiful.
+belli,false,bello,beautiful,masculine,plural,,I fiori sono belli.,The flowers are beautiful.
+belle,false,bello,beautiful,feminine,plural,,Le donne sono belle.,The women are beautiful.

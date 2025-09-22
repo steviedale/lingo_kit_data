@@ -1,5 +1,0 @@
-term_italian,is_base,base_word_italian,translation_english,gender,plurality,notes,example_sentence_italian,example_sentence_english
-basso,true,basso,short (height),masculine,singular,,Il ragazzo è basso.,The boy is short.
-bassi,false,basso,short (height),masculine,plural,,I ragazzi sono bassi.,The boys are short.
-bassa,false,basso,short (height),feminine,singular,,La bambina è bassa.,The girl is short.
-basse,false,basso,short (height),feminine,plural,,Le bambine sono basse.,The girls are short.

@@ -21,3 +21,22 @@ def generate_csv(part_of_speech, base_term, english_translation, output_path, mo
         file.write(response.output_text)
     
     return response.output_text
+
+
+def generate_csv_multi_term(part_of_speech, base_terms, output_path, model='gpt-5-mini', prompt_file=None):
+    if prompt_file is None:
+        prompt_file = f'/Users/stevie/repos/lingo_kit_data/dataframes/v1.1.0/generator/prompts/multi_term/{part_of_speech}.txt'
+    assert(os.path.exists(prompt_file)), f"Prompt file {prompt_file} does not exist"
+    base_terms_str = ', '.join(base_terms)
+    prompt = open(prompt_file).read()
+    prompt = prompt.replace(f'[TERMS]', base_terms_str)
+    
+    response = client.responses.create(
+        model=model,
+        input=prompt
+    )
+    
+    with open(output_path, "w") as file:
+        file.write(response.output_text)
+    
+    return response.output_text

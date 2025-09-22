@@ -1,0 +1,3 @@
+term_italian,is_base,base_term_italian,translation_english,gender,plurality,notes,example_sentence_italian,example_sentence_english
+grande,true,grande,big,n/a,singular,invariable by gender,Il gatto è grande.,The cat is big.
+grandi,false,grande,big,n/a,plural,invariable by gender,I cani sono grandi.,The dogs are big.

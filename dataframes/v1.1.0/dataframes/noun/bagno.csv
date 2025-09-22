@@ -1,0 +1,18 @@
+term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+bagno,true,bagno,bathroom,"places,home",masculine,singular,none,n/a,n/a,n/a,also means bath (the act),Vedo un bagno pulito.,I see a clean bathroom.
+un bagno,false,bagno,a bathroom,"places,home",masculine,singular,indefinite,un,un,n/a,,Ho un bagno nel mio appartamento.,I have a bathroom in my apartment.
+il bagno,false,bagno,the bathroom,"places,home",masculine,singular,definite,il,il,n/a,,Il bagno è al secondo piano.,The bathroom is on the second floor.
+bagni,false,bagno,bathrooms,"places,home",masculine,plural,none,n/a,n/a,n/a,plural form,Bagni pubblici sono rari in centro.,Public bathrooms are rare downtown.
+i bagni,false,bagno,the bathrooms,"places,home",masculine,plural,definite,i,i,n/a,,I bagni dell'hotel sono nuovi.,The hotel's bathrooms are new.
+dei bagni,false,bagno,some bathrooms,"places,home",masculine,plural,articulated_preposition,i,dei,di,,La pulizia dei bagni è importante.,The cleanliness of the bathrooms is important.
+del bagno,false,bagno,of the bathroom,"places,home",masculine,singular,articulated_preposition,il,del,di,,L'odore del bagno è sgradevole.,The smell of the bathroom is unpleasant.
+al bagno,false,bagno,to the bathroom,"places,home",masculine,singular,articulated_preposition,il,al,a,,Vado al bagno.,I'm going to the bathroom.
+ai bagni,false,bagno,to the bathrooms,"places,home",masculine,plural,articulated_preposition,i,ai,a,,I bambini corrono ai bagni.,The children run to the bathrooms.
+dal bagno,false,bagno,from the bathroom,"places,home",masculine,singular,articulated_preposition,il,dal,da,,Esco dal bagno.,I come out of the bathroom.
+dai bagni,false,bagno,from the bathrooms,"places,home",masculine,plural,articulated_preposition,i,dai,da,,L'odore proviene dai bagni.,The smell comes from the bathrooms.
+nel bagno,false,bagno,in the bathroom,"places,home",masculine,singular,articulated_preposition,il,nel,in,,C'è uno specchio nel bagno.,There is a mirror in the bathroom.
+nei bagni,false,bagno,in the bathrooms,"places,home",masculine,plural,articulated_preposition,i,nei,in,,Ci sono specchi nei bagni.,There are mirrors in the bathrooms.
+sul bagno,false,bagno,on the bathroom,"places,home",masculine,singular,articulated_preposition,il,sul,su,,Ho letto un avviso sul bagno.,I read a notice on the bathroom.
+sui bagni,false,bagno,on the bathrooms,"places,home",masculine,plural,articulated_preposition,i,sui,su,,Ci sono informazioni sui bagni pubblici.,There is information about public bathrooms.
+col bagno,false,bagno,with the bathroom,"places,home",masculine,singular,articulated_preposition,il,col,con,contraction of con + il,Mi sono rilassato col bagno caldo.,I relaxed with a hot bath.
+coi bagni,false,bagno,with the bathrooms,"places,home",masculine,plural,articulated_preposition,i,coi,con,contraction of con + i,Gli operai hanno lavorato coi bagni chiusi.,The workers worked with the bathrooms closed.

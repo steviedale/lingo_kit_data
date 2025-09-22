@@ -1,0 +1,5 @@
+term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
+subito,true,subito,immediately,"time,immediacy",false,false,common adverb of immediacy,"Vieni qui subito.","Come here immediately."
+subitissimo,false,subito,very immediately,"time,immediacy",false,true,superlative formed with -issimo; rare/colloquial,"Tornerà subitissimo.","He will return very soon."
+proprio subito,false,subito,right away,"time,immediacy",false,true,intensifier + base; colloquial,"Ho bisogno che tu venga proprio subito.","I need you to come right away."
+subito stesso,false,subito,right away,"time,immediacy",false,true,reinforcement with 'stesso'; colloquial,"È arrivato subito stesso dopo la chiamata.","He arrived right away after the call."

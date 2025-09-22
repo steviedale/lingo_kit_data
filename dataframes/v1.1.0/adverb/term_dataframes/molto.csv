@@ -1,3 +1,0 @@
-term_italian,is_base,base_word_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
-molto,true,molto,very,"degree,intensity",false,false,used as degree adverb; invariable,"Questo libro è molto interessante.","This book is very interesting."
-moltissimo,false,molto,very much,"degree,intensity",false,true,absolute superlative formed with -issimo; used to intensify,"Mi sono divertito moltissimo alla festa.","I had a great time at the party."

@@ -1,5 +1,0 @@
-term_italian,is_base,base_word_italian,translation_english,gender,plurality,notes,example_sentence_italian,example_sentence_english
-alto,true,alto,tall,masculine,singular,,Il ragazzo è alto.,The boy is tall.
-alti,false,alto,tall,masculine,plural,,I ragazzi sono alti.,The boys are tall.
-alta,false,alto,tall,feminine,singular,,La donna è alta.,The woman is tall.
-alte,false,alto,tall,feminine,plural,,Le studentesse sono alte.,The students are tall.
