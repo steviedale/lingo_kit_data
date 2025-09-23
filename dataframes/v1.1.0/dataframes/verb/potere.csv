@@ -1,31 +1,25 @@
-term_italian,is_base,base_term_italian,translation_english,mood,tense,person_number,gender,plurality,is_compound,notes,example_sentence_italian,example_sentence_english
-potere,true,potere,to be able to,non-finite,infinitive,n/a,n/a,n/a,false,base lemma,"Voglio potere parlare.","I want to be able to speak."
-potendo,false,potere,being able,non-finite,gerund,n/a,n/a,n/a,false,,"Sto potendo aiutare mio fratello.","I am being able to help my brother."
-potuto,false,potere,been able (masculine singular),non-finite,participle,n/a,masculine,singular,false,used with auxiliary 'avere' to form compound tenses; can agree when auxiliary 'essere' is used with a following intransitive verb,"Il ragazzo è potuto uscire.","The boy was able to go out."
-potuta,false,potere,been able (feminine singular),non-finite,participle,n/a,feminine,singular,false,used with auxiliary 'avere' to form compound tenses; can agree when auxiliary 'essere' is used with a following intransitive verb,"La bambina è potuta uscire.","The girl was able to go out."
-potuti,false,potere,been able (masculine plural),non-finite,participle,n/a,masculine,plural,false,used with auxiliary 'avere' to form compound tenses; can agree when auxiliary 'essere' is used with a following intransitive verb,"I ragazzi sono potuti entrare.","The boys were able to come in."
-potute,false,potere,been able (feminine plural),non-finite,participle,n/a,feminine,plural,false,used with auxiliary 'avere' to form compound tenses; can agree when auxiliary 'essere' is used with a following intransitive verb,"Le donne sono potute entrare.","The women were able to come in."
-posso,false,potere,I can / I am able to,indicative,present,1s,n/a,singular,false,,"Io posso venire.","I can come."
-puoi,false,potere,you can,indicative,present,2s,n/a,singular,false,,"Tu puoi farlo.","You can do it."
-può,false,potere,he/she/it can,indicative,present,3s,n/a,singular,false,also 'you (formal)',"Lui può venire.","He can come."
-possiamo,false,potere,we can,indicative,present,1p,n/a,plural,false,,"Noi possiamo aspettare.","We can wait."
-potete,false,potere,you (plural) can,indicative,present,2p,n/a,plural,false,,"Voi potete entrare.","You (plural) can enter."
-possono,false,potere,they can,indicative,present,3p,n/a,plural,false,,"Loro possono parlare.","They can speak."
-potevo,false,potere,I could / I was able to,indicative,imperfect,1s,n/a,singular,false,,"Io potevo farlo.","I could do it."
-potevi,false,potere,you could,indicative,imperfect,2s,n/a,singular,false,,"Tu potevi correre più veloce.","You could run faster."
-poteva,false,potere,he/she/it could,indicative,imperfect,3s,n/a,singular,false,also 'you could (formal)',"Lei poteva venire.","She could come."
-potevamo,false,potere,we could,indicative,imperfect,1p,n/a,plural,false,,"Noi potevamo aspettare.","We could wait."
-potevate,false,potere,you (plural) could,indicative,imperfect,2p,n/a,plural,false,,"Voi potevate aiutare.","You (plural) could help."
-potevano,false,potere,they could,indicative,imperfect,3p,n/a,plural,false,,"Loro potevano uscire.","They could go out."
-ho potuto,false,potere,I have been able to / I was able to,indicative,passato_prossimo,1s,masculine,singular,true,uses auxiliary 'avere' to form compound tenses; participle normally invariable,"Ho potuto finire il lavoro.","I was able to finish the work."
-ho potuto,false,potere,I have been able to / I was able to,indicative,passato_prossimo,1s,feminine,singular,true,uses auxiliary 'avere' to form compound tenses; participle normally invariable,"Ho potuto finire il lavoro.","I was able to finish the work."
-hai potuto,false,potere,you have been able to / you were able to,indicative,passato_prossimo,2s,masculine,singular,true,uses auxiliary 'avere' to form compound tenses; participle normally invariable,"Hai potuto risolvere il problema.","You were able to solve the problem."
-hai potuto,false,potere,you have been able to / you were able to,indicative,passato_prossimo,2s,feminine,singular,true,uses auxiliary 'avere' to form compound tenses; participle normally invariable,"Hai potuto risolvere il problema.","You were able to solve the problem."
-ha potuto,false,potere,he/she/it has been able to,indicative,passato_prossimo,3s,masculine,singular,true,uses auxiliary 'avere' to form compound tenses; participle normally invariable; also 'you (formal)',"Ha potuto partire presto.","He was able to leave early."
-ha potuto,false,potere,he/she/it has been able to,indicative,passato_prossimo,3s,feminine,singular,true,uses auxiliary 'avere' to form compound tenses; participle normally invariable; also 'you (formal)',"Ha potuto partire presto.","She was able to leave early."
-abbiamo potuto,false,potere,we have been able to / we were able to,indicative,passato_prossimo,1p,masculine,plural,true,uses auxiliary 'avere' to form compound tenses; participle normally invariable,"Abbiamo potuto vedere il film.","We were able to see the movie."
-abbiamo potuto,false,potere,we have been able to / we were able to,indicative,passato_prossimo,1p,feminine,plural,true,uses auxiliary 'avere' to form compound tenses; participle normally invariable,"Abbiamo potuto vedere il film.","We were able to see the movie."
-avete potuto,false,potere,you (plural) have been able to,indicative,passato_prossimo,2p,masculine,plural,true,uses auxiliary 'avere' to form compound tenses; participle normally invariable,"Avete potuto parlare con lui.","You (plural) were able to speak with him."
-avete potuto,false,potere,you (plural) have been able to,indicative,passato_prossimo,2p,feminine,plural,true,uses auxiliary 'avere' to form compound tenses; participle normally invariable,"Avete potuto parlare con lui.","You (plural) were able to speak with him."
-hanno potuto,false,potere,they have been able to / they were able to,indicative,passato_prossimo,3p,masculine,plural,true,uses auxiliary 'avere' to form compound tenses; participle normally invariable,"Hanno potuto completare il progetto.","They were able to complete the project."
-hanno potuto,false,potere,they have been able to / they were able to,indicative,passato_prossimo,3p,feminine,plural,true,uses auxiliary 'avere' to form compound tenses; participle normally invariable,"Hanno potuto completare il progetto.","They were able to complete the project."
+term_italian,is_base,base_term_italian,translation_english,topics,mood,tense,person_number,gender,plurality,is_compound,notes,example_sentence_italian,example_sentence_english
+potere,True,potere,to be able to/can,"ability,permission",non-finite,infinitive,,,,False,base lemma,Voglio potere aiutare.,I want to be able to help.
+potendo,False,potere,being able,"ability,permission",non-finite,gerund,,,,False,,Sto potendo lavorare.,I am being able to work.
+potute,False,potere,been able (feminine plural),"ability,permission",non-finite,participle,,feminine,plural,False,used with auxiliary 'avere' to form compound tenses,Le ho potute vedere.,I was able to see them.
+potuta,False,potere,been able (feminine singular),"ability,permission",non-finite,participle,,feminine,singular,False,used with auxiliary 'avere' to form compound tenses,L'ho potuta finire.,I was able to finish it.
+potuti,False,potere,been able (masculine plural),"ability,permission",non-finite,participle,,masculine,plural,False,used with auxiliary 'avere' to form compound tenses,Li ho potuti vedere.,I was able to see them.
+potuto,False,potere,been able (masculine singular),"ability,permission",non-finite,participle,,masculine,singular,False,used with auxiliary 'avere' to form compound tenses,Ho potuto farlo.,I was able to do it.
+posso,False,potere,I can,"ability,permission",indicative,present,1s,,singular,False,,Posso entrare.,I can enter.
+puoi,False,potere,you can,"ability,permission",indicative,present,2s,,singular,False,,Puoi venire.,You can come.
+può,False,potere,he/she/it can,"ability,permission",indicative,present,3s,,singular,False,also 'you (formal)',Può aspettare.,He can wait.
+possiamo,False,potere,we can,"ability,permission",indicative,present,1p,,plural,False,,Possiamo aiutare.,We can help.
+potete,False,potere,you (plural) can,"ability,permission",indicative,present,2p,,plural,False,,Potete entrare.,You (plural) can enter.
+possono,False,potere,they can,"ability,permission",indicative,present,3p,,plural,False,,Possono restare.,They can stay.
+potevo,False,potere,I could,"ability,permission",indicative,imperfect,1s,,singular,False,,Io potevo guidare.,I could drive.
+potevi,False,potere,you could,"ability,permission",indicative,imperfect,2s,,singular,False,,Tu potevi venire.,You could come.
+poteva,False,potere,he/she/it could,"ability,permission",indicative,imperfect,3s,,singular,False,also 'you (formal)',Poteva parlare.,He could speak.
+potevamo,False,potere,we could,"ability,permission",indicative,imperfect,1p,,plural,False,,Potevamo uscire.,We could go out.
+potevate,False,potere,you (plural) could,"ability,permission",indicative,imperfect,2p,,plural,False,,Potevate vedere.,You (plural) could see.
+potevano,False,potere,they could,"ability,permission",indicative,imperfect,3p,,plural,False,,Potevano lavorare.,They could work.
+ho potuto,False,potere,I was able to / I have been able to,"ability,permission",indicative,passato_prossimo,1s,,singular,True,uses auxiliary 'avere'; no agreement with subject,Ho potuto entrare.,I was able to enter.
+hai potuto,False,potere,you were able to / you have been able to,"ability,permission",indicative,passato_prossimo,2s,,singular,True,uses auxiliary 'avere'; no agreement with subject,Hai potuto finire.,You were able to finish.
+ha potuto,False,potere,he/she/it was able to / has been able to,"ability,permission",indicative,passato_prossimo,3s,,singular,True,uses auxiliary 'avere'; no agreement with subject; also 'you (formal)',Ha potuto parlare.,He has been able to speak.
+abbiamo potuto,False,potere,we were able to / we have been able to,"ability,permission",indicative,passato_prossimo,1p,,plural,True,uses auxiliary 'avere'; no agreement with subject,Abbiamo potuto aiutare.,We have been able to help.
+avete potuto,False,potere,you (plural) were able to / you (plural) have been able to,"ability,permission",indicative,passato_prossimo,2p,,plural,True,uses auxiliary 'avere'; no agreement with subject,Avete potuto venire.,You (plural) were able to come.
+hanno potuto,False,potere,they were able to / they have been able to,"ability,permission",indicative,passato_prossimo,3p,,plural,True,uses auxiliary 'avere'; no agreement with subject,Hanno potuto entrare.,They have been able to enter.

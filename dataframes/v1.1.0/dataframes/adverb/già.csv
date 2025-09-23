@@ -1,4 +1,2 @@
 term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
-già,true,già,already,"time,temporal",false,false,invariable; used for prior occurrence,"Sono già arrivato.","I have already arrived."
-proprio già,false,già,already (with emphasis),"time,temporal",false,true,intensifier + base; colloquial emphasis,"L'ho proprio già detto.","I've really already said it."
-già già,false,già,already (emphatic/ironic),"time,temporal",false,true,reduplication for emphasis; colloquial,"Già già, lo so.","Yeah, yeah, I know."
+già,True,già,already,"time,aspect",False,False,invariable adverb; no comparative/superlative,Ho già finito i compiti.,I've already finished my homework.

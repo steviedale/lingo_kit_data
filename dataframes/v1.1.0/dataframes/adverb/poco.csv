@@ -1,4 +1,4 @@
 term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
-poco,true,poco,"little, not much","quantity,degree",false,false,"irregular comparative meno; superlative formed with -issimo","Mangio poco.","I don't eat much."
-pochissimo,false,poco,very little,"quantity,degree",false,true,"absolute superlative formed with -issimo","Ho pochissimo tempo oggi.","I have very little time today."
-molto poco,false,poco,very little,"quantity,degree",false,true,"intensifier + base; common colloquial emphasis","Lui lavora molto poco.","He works very little."
+poco,True,poco,"little, not much","quantity,degree",False,False,irregular comparative 'meno' treated separately; absolute superlative with -issimo,Dormo poco durante la settimana.,I sleep little during the week.
+pochissimo,False,poco,very little,"quantity,degree",False,True,absolute superlative,Ha studiato pochissimo per l'esame.,He studied very little for the exam.
+molto poco,False,poco,very little,"quantity,degree",False,True,intensifier + base,Abbiamo speso molto poco per il viaggio.,We spent very little on the trip.

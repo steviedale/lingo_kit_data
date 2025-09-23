@@ -1,31 +1,25 @@
-term_italian,is_base,base_term_italian,translation_english,mood,tense,person_number,gender,plurality,is_compound,notes,example_sentence_italian,example_sentence_english
-fare,true,fare,to do / to make,non-finite,infinitive,n/a,n/a,n/a,false,base lemma,"Voglio fare una torta.","I want to make a cake."
-facendo,false,fare,doing / making,non-finite,gerund,n/a,n/a,n/a,false,,"Sto facendo il mio lavoro.","I am doing my work."
-fatto,false,fare,done / made (masculine singular),non-finite,participle,n/a,masculine,singular,false,"used with auxiliary 'avere' to form compound tenses","Il lavoro è fatto.","The work is done."
-fatta,false,fare,done / made (feminine singular),non-finite,participle,n/a,feminine,singular,false,"used with auxiliary 'avere' to form compound tenses","La torta è fatta.","The cake is made."
-fatti,false,fare,done / made (masculine plural),non-finite,participle,n/a,masculine,plural,false,"used with auxiliary 'avere' to form compound tenses","I compiti sono fatti.","The homework is done."
-fatte,false,fare,done / made (feminine plural),non-finite,participle,n/a,feminine,plural,false,"used with auxiliary 'avere' to form compound tenses","Le torte sono fatte.","The cakes are made."
-faccio,false,fare,I do / I make,indicative,present,1s,n/a,singular,false,,"Io faccio la cena.","I make dinner."
-fai,false,fare,you do / you make,indicative,present,2s,n/a,singular,false,,"Tu fai rumore.","You make noise."
-fa,false,fare,he/she/it does / makes,indicative,present,3s,n/a,singular,false,"also 'you (formal)'","Lei fa una domanda.","She asks a question."
-facciamo,false,fare,we do / we make,indicative,present,1p,n/a,plural,false,,"Noi facciamo una passeggiata.","We go for a walk."
-fate,false,fare,you (plural) do / you (plural) make,indicative,present,2p,n/a,plural,false,,"Voi fate attenzione.","You (plural) pay attention."
-fanno,false,fare,they do / they make,indicative,present,3p,n/a,plural,false,,"Loro fanno sport.","They play sports."
-facevo,false,fare,I was doing / I used to do,indicative,imperfect,1s,n/a,singular,false,,"Io facevo esercizi.","I was doing exercises."
-facevi,false,fare,you were doing / you used to do,indicative,imperfect,2s,n/a,singular,false,,"Tu facevi molti viaggi.","You used to travel a lot."
-faceva,false,fare,he/she/it was doing / used to do,indicative,imperfect,3s,n/a,singular,false,"also 'you were (formal)'","Lui faceva un errore.","He was making a mistake."
-facevamo,false,fare,we were doing / we used to do,indicative,imperfect,1p,n/a,plural,false,,"Noi facevamo tardi.","We used to be late."
-facevate,false,fare,you (plural) were doing / used to do,indicative,imperfect,2p,n/a,plural,false,,"Voi facevate rumore.","You (plural) were noisy."
-facevano,false,fare,they were doing / they used to do,indicative,imperfect,3p,n/a,plural,false,,"Loro facevano confusione.","They were making a mess."
-ho fatta,false,fare,I have done / I did,indicative,passato_prossimo,1s,feminine,singular,true,"uses auxiliary 'avere' to form compound tenses; past participle normally invariable (agreement only with preceding direct object)","L'ho fatta ieri.","I did it yesterday."
-ho fatto,false,fare,I have done / I did,indicative,passato_prossimo,1s,masculine,singular,true,"uses auxiliary 'avere' to form compound tenses; past participle normally invariable (agreement only with preceding direct object)","Ho fatto i compiti.","I did the homework."
-hai fatta,false,fare,you have done / you did,indicative,passato_prossimo,2s,feminine,singular,true,"uses auxiliary 'avere' to form compound tenses; past participle normally invariable (agreement only with preceding direct object)","L'hai fatta?","Did you do it?"
-hai fatto,false,fare,you have done / you did,indicative,passato_prossimo,2s,masculine,singular,true,"uses auxiliary 'avere' to form compound tenses; past participle normally invariable (agreement only with preceding direct object)","Hai fatto un buon lavoro.","You did a good job."
-ha fatta,false,fare,she/you(formal) has done / did,indicative,passato_prossimo,3s,feminine,singular,true,"uses auxiliary 'avere' to form compound tenses; past participle normally invariable (agreement only with preceding direct object); also 'you (formal)'","L'ha fatta ieri.","She/You (formal) did it yesterday."
-ha fatto,false,fare,he/you(formal) has done / did,indicative,passato_prossimo,3s,masculine,singular,true,"uses auxiliary 'avere' to form compound tenses; past participle normally invariable (agreement only with preceding direct object); also 'you (formal)'","Ha fatto una domanda.","He/You (formal) has asked a question."
-abbiamo fatte,false,fare,we have done / we did,indicative,passato_prossimo,1p,feminine,plural,true,"uses auxiliary 'avere' to form compound tenses; past participle normally invariable (agreement only with preceding direct object)","Le abbiamo fatte ieri.","We did them yesterday."
-abbiamo fatti,false,fare,we have done / we did,indicative,passato_prossimo,1p,masculine,plural,true,"uses auxiliary 'avere' to form compound tenses; past participle normally invariable (agreement only with preceding direct object)","Li abbiamo fatti ieri.","We did them yesterday."
-avete fatte,false,fare,you (plural) have done / you (plural) did,indicative,passato_prossimo,2p,feminine,plural,true,"uses auxiliary 'avere' to form compound tenses; past participle normally invariable (agreement only with preceding direct object)","Le avete fatte?","Did you (plural) do them?"
-avete fatti,false,fare,you (plural) have done / you (plural) did,indicative,passato_prossimo,2p,masculine,plural,true,"uses auxiliary 'avere' to form compound tenses; past participle normally invariable (agreement only with preceding direct object)","Li avete fatti ieri?","Did you (plural) do them yesterday?"
-hanno fatte,false,fare,they have done / they did,indicative,passato_prossimo,3p,feminine,plural,true,"uses auxiliary 'avere' to form compound tenses; past participle normally invariable (agreement only with preceding direct object)","Le hanno fatte.","They did them."
-hanno fatti,false,fare,they have done / they did,indicative,passato_prossimo,3p,masculine,plural,true,"uses auxiliary 'avere' to form compound tenses; past participle normally invariable (agreement only with preceding direct object)","Li hanno fatti.","They did them."
+term_italian,is_base,base_term_italian,translation_english,topics,mood,tense,person_number,gender,plurality,is_compound,notes,example_sentence_italian,example_sentence_english
+fare,True,fare,to do/to make,"actions,creation",non-finite,infinitive,,,,False,base lemma,Voglio fare sport.,I want to do sport.
+facendo,False,fare,doing/making,"actions,creation",non-finite,gerund,,,,False,,Sto facendo colazione.,I am having breakfast.
+fatte,False,fare,done/made (feminine plural),"actions,creation",non-finite,participle,,feminine,plural,False,used with auxiliary 'avere' to form compound tenses,Le ho fatte.,I have done them.
+fatta,False,fare,done/made (feminine singular),"actions,creation",non-finite,participle,,feminine,singular,False,used with auxiliary 'avere' to form compound tenses,L'ho fatta.,I did it.
+fatti,False,fare,done/made (masculine plural),"actions,creation",non-finite,participle,,masculine,plural,False,used with auxiliary 'avere' to form compound tenses,Li ho fatti.,I have done them.
+fatto,False,fare,done/made (masculine singular),"actions,creation",non-finite,participle,,masculine,singular,False,used with auxiliary 'avere' to form compound tenses,Ho fatto tutto.,I did everything.
+faccio,False,fare,I do/I make,"actions,creation",indicative,present,1s,,singular,False,,Faccio una foto.,I take a photo.
+fai,False,fare,you do/you make,"actions,creation",indicative,present,2s,,singular,False,,Fai bene.,You do well.
+fa,False,fare,he/she/it does/makes,"actions,creation",indicative,present,3s,,singular,False,also 'you (formal)',Fa caldo.,It is hot.
+facciamo,False,fare,we do/we make,"actions,creation",indicative,present,1p,,plural,False,,Facciamo una torta.,We make a cake.
+fate,False,fare,you (plural) do/you (plural) make,"actions,creation",indicative,present,2p,,plural,False,,Fate attenzione.,Pay attention.
+fanno,False,fare,they do/they make,"actions,creation",indicative,present,3p,,plural,False,,Fanno sport.,They do sports.
+facevo,False,fare,I used to do/I was doing,"actions,creation",indicative,imperfect,1s,,singular,False,,Io facevo sport.,I used to do sports.
+facevi,False,fare,you used to do/you were doing,"actions,creation",indicative,imperfect,2s,,singular,False,,Tu facevi pratica.,You used to practice.
+faceva,False,fare,he/she/it used to do/was doing,"actions,creation",indicative,imperfect,3s,,singular,False,also 'you (formal)',Faceva errori.,He used to make mistakes.
+facevamo,False,fare,we used to do/we were doing,"actions,creation",indicative,imperfect,1p,,plural,False,,Facevamo sport.,We used to do sports.
+facevate,False,fare,you (plural) used to do/were doing,"actions,creation",indicative,imperfect,2p,,plural,False,,Facevate i compiti.,You (plural) used to do homework.
+facevano,False,fare,they used to do/were doing,"actions,creation",indicative,imperfect,3p,,plural,False,,Facevano rumore.,They were making noise.
+ho fatto,False,fare,I did / I have done,"actions,creation",indicative,passato_prossimo,1s,,singular,True,uses auxiliary 'avere'; no agreement with subject,Ho fatto tardi.,I was late.
+hai fatto,False,fare,you did / you have done,"actions,creation",indicative,passato_prossimo,2s,,singular,True,uses auxiliary 'avere'; no agreement with subject,Hai fatto bene.,You did well.
+ha fatto,False,fare,he/she/it did / he/she/it has done,"actions,creation",indicative,passato_prossimo,3s,,singular,True,uses auxiliary 'avere'; no agreement with subject; also 'you (formal)',Ha fatto molto.,He has done a lot.
+abbiamo fatto,False,fare,we did / we have done,"actions,creation",indicative,passato_prossimo,1p,,plural,True,uses auxiliary 'avere'; no agreement with subject,Abbiamo fatto tutto.,We have done everything.
+avete fatto,False,fare,you (plural) did / you (plural) have done,"actions,creation",indicative,passato_prossimo,2p,,plural,True,uses auxiliary 'avere'; no agreement with subject,Avete fatto bene.,You (plural) did well.
+hanno fatto,False,fare,they did / they have done,"actions,creation",indicative,passato_prossimo,3p,,plural,True,uses auxiliary 'avere'; no agreement with subject,Hanno fatto progressi.,They have made progress.

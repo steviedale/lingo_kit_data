@@ -1,4 +1,2 @@
 term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
-sempre,true,sempre,always,"time,frequency",false,false,invariable,"Vado sempre al parco.","I always go to the park."
-sempre più,false,sempre,more and more,"time,frequency",true,false,comparative formed with 'più',"La situazione peggiora sempre più.","The situation is getting worse and worse."
-sempre di più,false,sempre,more and more,"time,frequency",true,false,alternative comparative phrase,"I bambini giocano sempre di più ai videogiochi.","Children play video games more and more."
+sempre,True,sempre,always,"frequency,time",False,False,invariable adverb; no comparative/superlative,Arriva sempre in orario.,He always arrives on time.

@@ -1,5 +1,5 @@
-term_italian,is_base,base_term_italian,translation_english,gender,plurality,notes,example_sentence_italian,example_sentence_english
-piccolo,true,piccolo,small,masculine,singular,,Il bambino è piccolo.,The boy is small.
-piccoli,false,piccolo,small,masculine,plural,,I bambini sono piccoli.,The children are small.
-piccola,false,piccolo,small,feminine,singular,,La borsa è piccola.,The bag is small.
-piccole,false,piccolo,small,feminine,plural,,Le case sono piccole.,The houses are small.
+term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
+piccolo,True,piccolo,small,size,masculine,singular,,Il cane è piccolo.,The dog is small.
+piccola,False,piccolo,small,size,feminine,singular,,La stanza è piccola.,The room is small.
+piccoli,False,piccolo,small,size,masculine,plural,,I paesi sono piccoli.,The towns are small.
+piccole,False,piccolo,small,size,feminine,plural,,Le sedie sono piccole.,The chairs are small.

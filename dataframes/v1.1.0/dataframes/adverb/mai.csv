@@ -1,3 +1,2 @@
 term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
-mai,true,mai,never,"frequency,negation",false,false,"invariable; combines with 'più' to form 'mai più' (never again)","Non l'ho mai visto.","I have never seen him."
-mai più,false,mai,never again,"frequency,negation",false,true,"intensifier phrase; functions as 'never again'","Non lo farò mai più.","I will never do it again."
+mai,True,mai,never,"frequency,negation",False,False,invariable adverb; used with 'non' for negation,Non vado mai al mare d'inverno.,I never go to the beach in winter.

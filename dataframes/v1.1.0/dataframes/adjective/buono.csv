@@ -1,5 +1,5 @@
-term_italian,is_base,base_term_italian,translation_english,gender,plurality,notes,example_sentence_italian,example_sentence_english
-buono,true,buono,good,masculine,singular,apocopic form 'buon' used before some masculine nouns,Il gelato è buono.,The ice cream is good.
-buoni,false,buono,good,masculine,plural,,I biscotti sono buoni.,The cookies are good.
-buona,false,buono,good,feminine,singular,,La pizza è buona.,The pizza is good.
-buone,false,buono,good,feminine,plural,,Le mele sono buone.,The apples are good.
+term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
+buono,True,buono,good,"evaluation,quality",masculine,singular,has apocopated forms before nouns,Il pane è buono.,The bread is good.
+buona,False,buono,good,"evaluation,quality",feminine,singular,,La zuppa è buona.,The soup is good.
+buoni,False,buono,good,"evaluation,quality",masculine,plural,,I biscotti sono buoni.,The cookies are good.
+buone,False,buono,good,"evaluation,quality",feminine,plural,,Le fragole sono buone.,The strawberries are good.

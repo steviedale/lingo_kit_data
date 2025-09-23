@@ -1,31 +1,31 @@
-term_italian,is_base,base_term_italian,translation_english,mood,tense,person_number,gender,plurality,is_compound,notes,example_sentence_italian,example_sentence_english
-essere,true,essere,to be,non-finite,infinitive,n/a,n/a,n/a,false,base lemma,"Voglio essere felice.","I want to be happy."
-essendo,false,essere,being,non-finite,gerund,n/a,n/a,n/a,false,,"Essendo onesto, dico la verità.","Being honest, I tell the truth."
-state,false,essere,been (feminine plural),non-finite,participle,n/a,feminine,plural,false,used with auxiliary 'essere' to form compound tenses,"Sono state fortunate.","They have been lucky."
-stata,false,essere,been (feminine singular),non-finite,participle,n/a,feminine,singular,false,used with auxiliary 'essere' to form compound tenses,"È stata brava.","She has been good."
-stati,false,essere,been (masculine plural),non-finite,participle,n/a,masculine,plural,false,used with auxiliary 'essere' to form compound tenses,"Sono stati gentili.","They have been kind."
-stato,false,essere,been (masculine singular),non-finite,participle,n/a,masculine,singular,false,used with auxiliary 'essere' to form compound tenses,"È stato difficile.","It has been difficult."
-sono,false,essere,I am,indicative,present,1s,n/a,singular,false,,"Io sono felice.","I am happy."
-sei,false,essere,you are,indicative,present,2s,n/a,singular,false,,"Tu sei stanco.","You are tired."
-è,false,essere,he/she/it is,indicative,present,3s,n/a,singular,false,also 'you (formal)',"Lei è gentile.","She is kind."
-siamo,false,essere,we are,indicative,present,1p,n/a,plural,false,,"Noi siamo amici.","We are friends."
-siete,false,essere,you (plural) are,indicative,present,2p,n/a,plural,false,,"Voi siete pronti.","You (plural) are ready."
-sono,false,essere,they are,indicative,present,3p,n/a,plural,false,,"Loro sono studenti.","They are students."
-ero,false,essere,I was,indicative,imperfect,1s,n/a,singular,false,,"Io ero a casa.","I was at home."
-eri,false,essere,you were,indicative,imperfect,2s,n/a,singular,false,,"Tu eri felice.","You were happy."
-era,false,essere,he/she/it was,indicative,imperfect,3s,n/a,singular,false,also 'you were (formal)',"Lui era malato.","He was sick."
-eravamo,false,essere,we were,indicative,imperfect,1p,n/a,plural,false,,"Noi eravamo giovani.","We were young."
-eravate,false,essere,you (plural) were,indicative,imperfect,2p,n/a,plural,false,,"Voi eravate occupati.","You (plural) were busy."
-erano,false,essere,they were,indicative,imperfect,3p,n/a,plural,false,,"Loro erano tristi.","They were sad."
-sono stata,false,essere,I have been / I was,indicative,passato_prossimo,1s,feminine,singular,true,agreement by subject gender/number,"Sono stata fortunata.","I have been lucky."
-sono stato,false,essere,I have been / I was,indicative,passato_prossimo,1s,masculine,singular,true,agreement by subject gender/number,"Sono stato felice.","I have been happy."
-sei stata,false,essere,you have been / you were,indicative,passato_prossimo,2s,feminine,singular,true,agreement by subject gender/number,"Sei stata gentile.","You have been kind."
-sei stato,false,essere,you have been / you were,indicative,passato_prossimo,2s,masculine,singular,true,agreement by subject gender/number,"Sei stato bravo.","You have been good."
-è stata,false,essere,she has been / she was,indicative,passato_prossimo,3s,feminine,singular,true,agreement by subject gender/number; also 'you (formal)',"È stata una bella giornata.","It has been a nice day."
-è stato,false,essere,he has been / he was,indicative,passato_prossimo,3s,masculine,singular,true,agreement by subject gender/number; also 'you (formal)',"È stato un piacere.","It has been a pleasure."
-siamo state,false,essere,we have been / we were,indicative,passato_prossimo,1p,feminine,plural,true,agreement by subject gender/number,"Siamo state fortunate.","We have been lucky."
-siamo stati,false,essere,we have been / we were,indicative,passato_prossimo,1p,masculine,plural,true,agreement by subject gender/number,"Siamo stati amici.","We have been friends."
-siete state,false,essere,you (plural) have been / you (plural) were,indicative,passato_prossimo,2p,feminine,plural,true,agreement by subject gender/number,"Siete state gentili.","You (plural) have been kind."
-siete stati,false,essere,you (plural) have been / you (plural) were,indicative,passato_prossimo,2p,masculine,plural,true,agreement by subject gender/number,"Siete stati forti.","You (plural) have been strong."
-sono state,false,essere,they have been / they were,indicative,passato_prossimo,3p,feminine,plural,true,agreement by subject gender/number,"Sono state brave.","They have been good."
-sono stati,false,essere,they have been / they were,indicative,passato_prossimo,3p,masculine,plural,true,agreement by subject gender/number,"Sono stati felici.","They have been happy."
+term_italian,is_base,base_term_italian,translation_english,topics,mood,tense,person_number,gender,plurality,is_compound,notes,example_sentence_italian,example_sentence_english
+essere,True,essere,to be,"existence,identity",non-finite,infinitive,,,,False,base lemma,Voglio essere felice.,I want to be happy.
+essendo,False,essere,being,"existence,identity",non-finite,gerund,,,,False,,Sto essendo onesto.,I am being honest.
+state,False,essere,been (feminine plural),"existence,identity",non-finite,participle,,feminine,plural,False,used with auxiliary 'essere' to form compound tenses,Sono state fortunate.,They have been lucky.
+stata,False,essere,been (feminine singular),"existence,identity",non-finite,participle,,feminine,singular,False,used with auxiliary 'essere' to form compound tenses,È stata brava.,She has been good.
+stati,False,essere,been (masculine plural),"existence,identity",non-finite,participle,,masculine,plural,False,used with auxiliary 'essere' to form compound tenses,Sono stati gentili.,They have been kind.
+stato,False,essere,been (masculine singular),"existence,identity",non-finite,participle,,masculine,singular,False,used with auxiliary 'essere' to form compound tenses,È stato difficile.,It has been difficult.
+sono,False,essere,I am,"existence,identity",indicative,present,1s,,singular,False,,Io sono felice.,I am happy.
+sei,False,essere,you are,"existence,identity",indicative,present,2s,,singular,False,,Tu sei stanco.,You are tired.
+è,False,essere,he/she/it is,"existence,identity",indicative,present,3s,,singular,False,also 'you (formal)',Lei è gentile.,She is kind.
+siamo,False,essere,we are,"existence,identity",indicative,present,1p,,plural,False,,Noi siamo amici.,We are friends.
+siete,False,essere,you (plural) are,"existence,identity",indicative,present,2p,,plural,False,,Voi siete pronti.,You (plural) are ready.
+sono,False,essere,they are,"existence,identity",indicative,present,3p,,plural,False,,Loro sono studenti.,They are students.
+ero,False,essere,I was,"existence,identity",indicative,imperfect,1s,,singular,False,,Io ero a casa.,I was at home.
+eri,False,essere,you were,"existence,identity",indicative,imperfect,2s,,singular,False,,Tu eri felice.,You were happy.
+era,False,essere,he/she/it was,"existence,identity",indicative,imperfect,3s,,singular,False,also 'you (formal)',Lui era malato.,He was sick.
+eravamo,False,essere,we were,"existence,identity",indicative,imperfect,1p,,plural,False,,Noi eravamo giovani.,We were young.
+eravate,False,essere,you (plural) were,"existence,identity",indicative,imperfect,2p,,plural,False,,Voi eravate occupati.,You (plural) were busy.
+erano,False,essere,they were,"existence,identity",indicative,imperfect,3p,,plural,False,,Loro erano tristi.,They were sad.
+sono stata,False,essere,I have been / I was,"existence,identity",indicative,passato_prossimo,1s,feminine,singular,True,agreement by subject gender/number,Sono stata fortunata.,I have been lucky.
+sono stato,False,essere,I have been / I was,"existence,identity",indicative,passato_prossimo,1s,masculine,singular,True,agreement by subject gender/number,Sono stato felice.,I have been happy.
+sei stata,False,essere,you have been / you were,"existence,identity",indicative,passato_prossimo,2s,feminine,singular,True,agreement by subject gender/number,Sei stata gentile.,You have been kind.
+sei stato,False,essere,you have been / you were,"existence,identity",indicative,passato_prossimo,2s,masculine,singular,True,agreement by subject gender/number,Sei stato bravo.,You have been good.
+è stata,False,essere,she has been / she was,"existence,identity",indicative,passato_prossimo,3s,feminine,singular,True,agreement by subject gender/number; also 'you (formal)',È stata una bella giornata.,It has been a nice day.
+è stato,False,essere,he has been / he was,"existence,identity",indicative,passato_prossimo,3s,masculine,singular,True,agreement by subject gender/number; also 'you (formal)',È stato un piacere.,It has been a pleasure.
+siamo state,False,essere,we have been / we were,"existence,identity",indicative,passato_prossimo,1p,feminine,plural,True,agreement by subject gender/number,Siamo state fortunate.,We have been lucky.
+siamo stati,False,essere,we have been / we were,"existence,identity",indicative,passato_prossimo,1p,masculine,plural,True,agreement by subject gender/number,Siamo stati amici.,We have been friends.
+siete state,False,essere,you (plural) have been / you (plural) were,"existence,identity",indicative,passato_prossimo,2p,feminine,plural,True,agreement by subject gender/number,Siete state gentili.,You (plural) have been kind.
+siete stati,False,essere,you (plural) have been / you (plural) were,"existence,identity",indicative,passato_prossimo,2p,masculine,plural,True,agreement by subject gender/number,Siete stati forti.,You (plural) have been strong.
+sono state,False,essere,they have been / they were,"existence,identity",indicative,passato_prossimo,3p,feminine,plural,True,agreement by subject gender/number,Sono state brave.,They have been good.
+sono stati,False,essere,they have been / they were,"existence,identity",indicative,passato_prossimo,3p,masculine,plural,True,agreement by subject gender/number,Sono stati felici.,They have been happy.

@@ -1,0 +1,107 @@
+I want you to generate a CSV text (don't use code to generate) that captures the main variations of a few Italian verbs that I provide you with, in the exact structure below.
+
+The CSV must have the following columns in this order:
+
+term_italian,is_base,base_term_italian,translation_english,topics,mood,tense,person_number,gender,plurality,is_compound,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian word form (e.g. essere, sono, ero).
+
+is_base: true only for the infinitive/base form, otherwise false.
+
+base_term_italian: always the infinitive (lemma) of the verb.
+
+translation_english: the English meaning of the form (e.g. I am, he was).
+
+topics: a short list (in quotes) of 1–3 general topics related to this verb, separated by commas (e.g. "existence, identity"). All rows with the same base_term_italian must share the same topics list.
+
+mood: one of non-finite, indicative, subjunctive, conditional, imperative.
+
+tense: for example infinitive, gerund, participle, present, imperfect, passato_prossimo.
+
+person_number: use compact codes: "1s", "2s", "3s", "1p", "2p", "3p", or "n/a" if not applicable.
+- "1s" (1st singular = io)
+- "2s" (2nd singular = tu)
+- "3s" (3rd singular = lui/lei/Lei)
+- "1p" (noi)
+- "2p" (voi)
+- "3p" (loro)
+- "n/a" (for infinitive, participles, etc. with no person/number)
+
+gender: write out in full ("masculine", "feminine", or "n/a" if not applicable).
+
+plurality: either "singular", "plural", or "n/a" if not applicable.
+
+is_compound: "true" for compound tenses (e.g. sono stato), otherwise "false".
+
+notes: short clarifications (e.g. “also 'you (formal)'”, or “used with auxiliary 'essere' to form compound tenses”).
+
+example_sentence_italian: a short, natural Italian sentence using this exact word form.
+
+example_sentence_english: the English translation of the example sentence.
+
+Formatting rules:
+
+Return the CSV as plain text only, not as a code block.
+
+Each row should represent exactly one word form.
+
+Expand gender/number labels fully (masculine, feminine, singular, plural).
+
+Use consistent lowercase true/false in the boolean columns.
+
+For participles, list all four gender/number variants.
+
+For compound tenses, include separate rows for each gender/number form.
+
+Include notes about “you (formal)” on 3rd person singular forms only.
+
+Checklist of forms to include (baseline set):
+
+Non-finite: infinitive, gerund, participles (masculine/feminine × singular/plural).
+
+Indicative present: all 6 persons.
+
+Indicative imperfect: all 6 persons.
+
+Indicative passato prossimo: all persons × gender/number agreement.
+
+Example (full):
+
+term_italian,is_base,base_term_italian,translation_english,topics,mood,tense,person_number,gender,plurality,is_compound,notes,example_sentence_italian,example_sentence_english
+essere,true,essere,to be,"existence,identity",non-finite,infinitive,n/a,n/a,n/a,false,base lemma,"Voglio essere felice.","I want to be happy."
+essendo,false,essere,being,"existence,identity",non-finite,gerund,n/a,n/a,n/a,false,,"Sto essendo onesto.","I am being honest."
+state,false,essere,been (feminine plural),"existence,identity",non-finite,participle,n/a,feminine,plural,false,used with auxiliary 'essere' to form compound tenses,"Sono state fortunate.","They have been lucky."
+stata,false,essere,been (feminine singular),"existence,identity",non-finite,participle,n/a,feminine,singular,false,used with auxiliary 'essere' to form compound tenses,"È stata brava.","She has been good."
+stati,false,essere,been (masculine plural),"existence,identity",non-finite,participle,n/a,masculine,plural,false,used with auxiliary 'essere' to form compound tenses,"Sono stati gentili.","They have been kind."
+stato,false,essere,been (masculine singular),"existence,identity",non-finite,participle,n/a,masculine,singular,false,used with auxiliary 'essere' to form compound tenses,"È stato difficile.","It has been difficult."
+sono,false,essere,I am,"existence,identity",indicative,present,1s,n/a,singular,false,,"Io sono felice.","I am happy."
+sei,false,essere,you are,"existence,identity",indicative,present,2s,n/a,singular,false,,"Tu sei stanco.","You are tired."
+è,false,essere,he/she/it is,"existence,identity",indicative,present,3s,n/a,singular,false,also 'you are (formal)',"Lei è gentile.","She is kind."
+siamo,false,essere,we are,"existence,identity",indicative,present,1p,n/a,plural,false,,"Noi siamo amici.","We are friends."
+siete,false,essere,you (plural) are,"existence,identity",indicative,present,2p,n/a,plural,false,,"Voi siete pronti.","You (plural) are ready."
+sono,false,essere,they are,"existence,identity",indicative,present,3p,n/a,plural,false,,"Loro sono studenti.","They are students."
+ero,false,essere,I was,"existence,identity",indicative,imperfect,1s,n/a,singular,false,,"Io ero a casa.","I was at home."
+eri,false,essere,you were,"existence,identity",indicative,imperfect,2s,n/a,singular,false,,"Tu eri felice.","You were happy."
+era,false,essere,he/she/it was,"existence,identity",indicative,imperfect,3s,n/a,singular,false,also 'you were (formal)',"Lui era malato.","He was sick."
+eravamo,false,essere,we were,"existence,identity",indicative,imperfect,1p,n/a,plural,false,,"Noi eravamo giovani.","We were young."
+eravate,false,essere,you (plural) were,"existence,identity",indicative,imperfect,2p,n/a,plural,false,,"Voi eravate occupati.","You (plural) were busy."
+erano,false,essere,they were,"existence,identity",indicative,imperfect,3p,n/a,plural,false,,"Loro erano tristi.","They were sad."
+sono stata,false,essere,I have been / I was,"existence,identity",indicative,passato_prossimo,1s,feminine,singular,true,agreement by subject gender/number,"Sono stata fortunata.","I have been lucky."
+sono stato,false,essere,I have been / I was,"existence,identity",indicative,passato_prossimo,1s,masculine,singular,true,agreement by subject gender/number,"Sono stato felice.","I have been happy."
+sei stata,false,essere,you have been / you were,"existence,identity",indicative,passato_prossimo,2s,feminine,singular,true,agreement by subject gender/number,"Sei stata gentile.","You have been kind."
+sei stato,false,essere,you have been / you were,"existence,identity",indicative,passato_prossimo,2s,masculine,singular,true,agreement by subject gender/number,"Sei stato bravo.","You have been good."
+è stata,false,essere,she has been / she was,"existence,identity",indicative,passato_prossimo,3s,feminine,singular,true,agreement by subject gender/number; also 'you (formal)',"È stata una bella giornata.","It has been a nice day."
+è stato,false,essere,he has been / he was,"existence,identity",indicative,passato_prossimo,3s,masculine,singular,true,agreement by subject gender/number; also 'you (formal)',"È stato un piacere.","It has been a pleasure."
+siamo state,false,essere,we have been / we were,"existence,identity",indicative,passato_prossimo,1p,feminine,plural,true,agreement by subject gender/number,"Siamo state fortunate.","We have been lucky."
+siamo stati,false,essere,we have been / we were,"existence,identity",indicative,passato_prossimo,1p,masculine,plural,true,agreement by subject gender/number,"Siamo stati amici.","We have been friends."
+siete state,false,essere,you (plural) have been / you (plural) were,"existence,identity",indicative,passato_prossimo,2p,feminine,plural,true,agreement by subject gender/number,"Siete state gentili.","You (plural) have been kind."
+siete stati,false,essere,you (plural) have been / you (plural) were,"existence,identity",indicative,passato_prossimo,2p,masculine,plural,true,agreement by subject gender/number,"Siete stati forti.","You (plural) have been strong."
+sono state,false,essere,they have been / they were,"existence,identity",indicative,passato_prossimo,3p,feminine,plural,true,agreement by subject gender/number,"Sono state brave.","They have been good."
+sono stati,false,essere,they have been / they were,"existence,identity",indicative,passato_prossimo,3p,masculine,plural,true,agreement by subject gender/number,"Sono stati felici.","They have been happy."
+
+Now generate this full CSV text for the following Italian verbs:
+[TERMS]
+
+Please output only the csv text, nothing else.

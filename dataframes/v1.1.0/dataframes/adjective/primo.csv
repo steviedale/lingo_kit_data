@@ -1,5 +1,5 @@
-term_italian,is_base,base_term_italian,translation_english,gender,plurality,notes,example_sentence_italian,example_sentence_english
-primo,true,primo,first,masculine,singular,ordinal adjective,Il primo giorno è importante.,The first day is important.
-primi,false,primo,first,masculine,plural,ordinal adjective,I primi capitoli sono interessanti.,The first chapters are interesting.
-prima,false,primo,first,feminine,singular,ordinal adjective,La prima lezione inizia alle nove.,The first lesson starts at nine.
-prime,false,primo,first,feminine,plural,ordinal adjective,Le prime pagine sono facili da leggere.,The first pages are easy to read.
+term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
+primo,True,primo,first,"order,ranking",masculine,singular,,Lui è primo.,He is first.
+prima,False,primo,first,"order,ranking",feminine,singular,,Lei è prima.,She is first.
+primi,False,primo,first,"order,ranking",masculine,plural,,Loro sono primi.,They are first.
+prime,False,primo,first,"order,ranking",feminine,plural,,Loro sono prime.,They are first.

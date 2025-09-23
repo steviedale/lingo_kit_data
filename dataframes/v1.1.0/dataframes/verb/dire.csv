@@ -1,31 +1,25 @@
-term_italian,is_base,base_term_italian,translation_english,mood,tense,person_number,gender,plurality,is_compound,notes,example_sentence_italian,example_sentence_english
-dire,true,dire,to say / to tell,non-finite,infinitive,n/a,n/a,n/a,false,base lemma,"Voglio dire la verità.","I want to tell the truth."
-dicendo,false,dire,telling,non-finite,gerund,n/a,n/a,n/a,false,,"Sto dicendo la verità.","I am telling the truth."
-detto,false,dire,said / told (masculine singular),non-finite,participle,n/a,masculine,singular,false,used with auxiliary 'avere' to form compound tenses,"Detto questo, andiamo.","Having said that, let's go."
-detta,false,dire,said / told (feminine singular),non-finite,participle,n/a,feminine,singular,false,used with auxiliary 'avere' to form compound tenses,"La cosa detta non è vera.","The thing said is not true."
-detti,false,dire,said / told (masculine plural),non-finite,participle,n/a,masculine,plural,false,used with auxiliary 'avere' to form compound tenses,"I detti popolari riflettono la cultura.","Popular sayings reflect culture."
-dette,false,dire,said / told (feminine plural),non-finite,participle,n/a,feminine,plural,false,used with auxiliary 'avere' to form compound tenses,"Le parole dette sono importanti.","The words said are important."
-dico,false,dire,I say / I tell,indicative,present,1s,n/a,singular,false,,"Io dico la verità.","I tell the truth."
-dici,false,dire,you say / you tell,indicative,present,2s,n/a,singular,false,,"Tu dici sempre la verità.","You always tell the truth."
-dice,false,dire,he/she says / he/she tells,indicative,present,3s,n/a,singular,false,also 'you (formal)',"Lei dice la verità.","She says the truth."
-diciamo,false,dire,we say / we tell,indicative,present,1p,n/a,plural,false,,"Noi diciamo sempre la verità.","We always tell the truth."
-dite,false,dire,you (plural) say / you (plural) tell,indicative,present,2p,n/a,plural,false,,"Voi dite la verità.","You (plural) tell the truth."
-dicono,false,dire,they say / they tell,indicative,present,3p,n/a,plural,false,,"Loro dicono cose interessanti.","They say interesting things."
-dicevo,false,dire,I used to say / I was saying,indicative,imperfect,1s,n/a,singular,false,,"Io dicevo la verità.","I used to tell the truth."
-dicevi,false,dire,you used to say,indicative,imperfect,2s,n/a,singular,false,,"Tu dicevi sempre così.","You used to say that."
-diceva,false,dire,he/she used to say,indicative,imperfect,3s,n/a,singular,false,also 'you (formal)',"Lui diceva spesso la stessa cosa.","He used to say the same thing."
-dicevamo,false,dire,we used to say,indicative,imperfect,1p,n/a,plural,false,,"Noi dicevamo la stessa cosa.","We used to say the same thing."
-dicevate,false,dire,you (plural) used to say,indicative,imperfect,2p,n/a,plural,false,,"Voi dicevate spesso questo.","You (plural) used to say this."
-dicevano,false,dire,they used to say,indicative,imperfect,3p,n/a,plural,false,,"Loro dicevano bugie.","They used to tell lies."
-ho detto,false,dire,I have said / I said,indicative,passato_prossimo,1s,masculine,singular,true,uses auxiliary 'avere'; no agreement with subject gender/number,"Ho detto la verità.","I have told the truth."
-ho detto,false,dire,I have said / I said,indicative,passato_prossimo,1s,feminine,singular,true,uses auxiliary 'avere'; no agreement with subject gender/number,"Ho detto la verità.","I have told the truth."
-hai detto,false,dire,you have said / you said,indicative,passato_prossimo,2s,masculine,singular,true,uses auxiliary 'avere'; no agreement with subject gender/number,"Hai detto la verità.","You have told the truth."
-hai detto,false,dire,you have said / you said,indicative,passato_prossimo,2s,feminine,singular,true,uses auxiliary 'avere'; no agreement with subject gender/number,"Hai detto la verità.","You have told the truth."
-ha detto,false,dire,he has said / he said,indicative,passato_prossimo,3s,masculine,singular,true,uses auxiliary 'avere'; no agreement with subject gender/number; also 'you (formal)',"Lui ha detto la verità.","He has told the truth."
-ha detto,false,dire,she has said / she said,indicative,passato_prossimo,3s,feminine,singular,true,uses auxiliary 'avere'; no agreement with subject gender/number; also 'you (formal)',"Lei ha detto la verità.","She has told the truth."
-abbiamo detto,false,dire,we have said / we said,indicative,passato_prossimo,1p,masculine,plural,true,uses auxiliary 'avere'; no agreement with subject gender/number,"Abbiamo detto tutto.","We have said everything."
-abbiamo detto,false,dire,we have said / we said,indicative,passato_prossimo,1p,feminine,plural,true,uses auxiliary 'avere'; no agreement with subject gender/number,"Abbiamo detto tutto.","We have said everything."
-avete detto,false,dire,you (plural) have said / you (plural) said,indicative,passato_prossimo,2p,masculine,plural,true,uses auxiliary 'avere'; no agreement with subject gender/number,"Avete detto la verità.","You (plural) have told the truth."
-avete detto,false,dire,you (plural) have said / you (plural) said,indicative,passato_prossimo,2p,feminine,plural,true,uses auxiliary 'avere'; no agreement with subject gender/number,"Avete detto la verità.","You (plural) have told the truth."
-hanno detto,false,dire,they have said / they said,indicative,passato_prossimo,3p,masculine,plural,true,uses auxiliary 'avere'; no agreement with subject gender/number,"Loro hanno detto la verità.","They have told the truth."
-hanno detto,false,dire,they have said / they said,indicative,passato_prossimo,3p,feminine,plural,true,uses auxiliary 'avere'; no agreement with subject gender/number,"Loro hanno detto la verità.","They have told the truth."
+term_italian,is_base,base_term_italian,translation_english,topics,mood,tense,person_number,gender,plurality,is_compound,notes,example_sentence_italian,example_sentence_english
+dire,True,dire,to say/to tell,"speech, communication",non-finite,infinitive,,,,False,base lemma,Voglio dire la verità.,I want to tell the truth.
+dicendo,False,dire,saying/telling,"speech, communication",non-finite,gerund,,,,False,,Sto dicendo la verità.,I am telling the truth.
+dette,False,dire,said (feminine plural),"speech, communication",non-finite,participle,,feminine,plural,False,used with auxiliary 'avere' to form compound tenses,Le ho dette.,I have said them.
+detta,False,dire,said (feminine singular),"speech, communication",non-finite,participle,,feminine,singular,False,used with auxiliary 'avere' to form compound tenses,L'ho detta.,I said it.
+detti,False,dire,said (masculine plural),"speech, communication",non-finite,participle,,masculine,plural,False,used with auxiliary 'avere' to form compound tenses,Li ho detti.,I have said them.
+detto,False,dire,said (masculine singular),"speech, communication",non-finite,participle,,masculine,singular,False,used with auxiliary 'avere' to form compound tenses,L'ho detto.,I said it.
+dico,False,dire,I say/I tell,"speech, communication",indicative,present,1s,,singular,False,,Dico grazie.,I say thanks.
+dici,False,dire,you say/you tell,"speech, communication",indicative,present,2s,,singular,False,,Dici la verità.,You tell the truth.
+dice,False,dire,he/she/it says/tells,"speech, communication",indicative,present,3s,,singular,False,also 'you (formal)',Dice poco.,He says little.
+diciamo,False,dire,we say/we tell,"speech, communication",indicative,present,1p,,plural,False,,Diciamo tutto.,We say everything.
+dite,False,dire,you (plural) say/you (plural) tell,"speech, communication",indicative,present,2p,,plural,False,,Dite la verità.,You (plural) tell the truth.
+dicono,False,dire,they say/they tell,"speech, communication",indicative,present,3p,,plural,False,,Dicono sempre sì.,They always say yes.
+dicevo,False,dire,I used to say/I was saying,"speech, communication",indicative,imperfect,1s,,singular,False,,Io dicevo spesso sì.,I used to say yes often.
+dicevi,False,dire,you used to say/you were saying,"speech, communication",indicative,imperfect,2s,,singular,False,,Tu dicevi poco.,You used to say little.
+diceva,False,dire,he/she/it used to say/was saying,"speech, communication",indicative,imperfect,3s,,singular,False,also 'you (formal)',Diceva la verità.,He used to tell the truth.
+dicevamo,False,dire,we used to say/we were saying,"speech, communication",indicative,imperfect,1p,,plural,False,,Dicevamo tutto.,We used to say everything.
+dicevate,False,dire,you (plural) used to say/were saying,"speech, communication",indicative,imperfect,2p,,plural,False,,Dicevate sempre sì.,You (plural) always used to say yes.
+dicevano,False,dire,they used to say/were saying,"speech, communication",indicative,imperfect,3p,,plural,False,,Dicevano bugie.,They were telling lies.
+ho detto,False,dire,I said / I have said,"speech, communication",indicative,passato_prossimo,1s,,singular,True,uses auxiliary 'avere'; no agreement with subject,Ho detto tutto.,I said everything.
+hai detto,False,dire,you said / you have said,"speech, communication",indicative,passato_prossimo,2s,,singular,True,uses auxiliary 'avere'; no agreement with subject,Hai detto bene.,You spoke well.
+ha detto,False,dire,he/she/it said / he/she/it has said,"speech, communication",indicative,passato_prossimo,3s,,singular,True,uses auxiliary 'avere'; no agreement with subject; also 'you (formal)',Ha detto la verità.,He has told the truth.
+abbiamo detto,False,dire,we said / we have said,"speech, communication",indicative,passato_prossimo,1p,,plural,True,uses auxiliary 'avere'; no agreement with subject,Abbiamo detto tutto.,We have said everything.
+avete detto,False,dire,you (plural) said / you (plural) have said,"speech, communication",indicative,passato_prossimo,2p,,plural,True,uses auxiliary 'avere'; no agreement with subject,Avete detto poco.,You (plural) said little.
+hanno detto,False,dire,they said / they have said,"speech, communication",indicative,passato_prossimo,3p,,plural,True,uses auxiliary 'avere'; no agreement with subject,Hanno detto no.,They said no.

@@ -1,4 +1,2 @@
 term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
-ancora,true,ancora,"still; yet; again","time,frequency",false,false,common adverb with multiple meanings,"Non ha ancora risposto.","He hasn't replied yet."
-ancora più,false,ancora,"even more; still more","time,frequency",false,true,intensifier + base,"Voglio ancora più tempo.","I want even more time."
-ancora di più,false,ancora,"even more; still more","time,frequency",false,true,intensifier + base (stronger),"Mi piace ancora di più adesso.","I like it even more now."
+ancora,True,ancora,"still, again","time,continuation",False,False,invariable adverb; no comparative/superlative,Sto ancora lavorando sul progetto.,I'm still working on the project.
