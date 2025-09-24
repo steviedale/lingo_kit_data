@@ -1,0 +1,12 @@
+term_italian,is_base,base_word_italian,translation_english,topics,determiner_type,gender,plurality,notes,example_sentence_italian,example_sentence_english
+questo,true,questo,this,"core,objects",demonstrative,masculine,singular,Used for masculine singular nouns near the speaker,Questo libro è interessante.,This book is interesting.
+questa,false,questo,this,"core,objects",demonstrative,feminine,singular,Used for feminine singular nouns near the speaker,Questa casa è grande.,This house is big.
+questi,false,questo,these,"core,objects",demonstrative,masculine,plural,Used for masculine plural nouns near the speaker,Questi ragazzi sono felici.,These boys are happy.
+queste,false,questo,these,"core,objects",demonstrative,feminine,plural,Used for feminine plural nouns near the speaker,Queste scarpe sono nuove.,These shoes are new.
+quel,false,quello,that,"core,objects",demonstrative,masculine,singular,Used before most masculine singular nouns,Quel tavolo è rotondo.,That table is round.
+quello,true,quello,that,"core,objects",demonstrative,masculine,singular,"Used before masculine singular nouns starting with s+consonant, z, ps, gn",Quello zaino è pesante.,That backpack is heavy.
+quelli,false,quello,those,"core,objects",demonstrative,masculine,plural,Used as a pronoun for masculine plural; not used before nouns,Quelli sono belli.,Those are nice.
+quei,false,quello,those,"core,objects",demonstrative,masculine,plural,Used before most masculine plural nouns,Quei fiori sono belli.,Those flowers are beautiful.
+quegli,false,quello,those,"core,objects",demonstrative,masculine,plural,"Used before masculine plural nouns starting with vowels, s+consonant, z, ps, gn",Quegli studenti sono intelligenti.,Those students are intelligent.
+quella,false,quello,that,"core,objects",demonstrative,feminine,singular,Used before feminine singular nouns,Quella porta è chiusa.,That door is closed.
+quelle,false,quello,those,"core,objects",demonstrative,feminine,plural,Used before feminine plural nouns,Quelle ragazze sono simpatiche.,Those girls are nice.

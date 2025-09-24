@@ -1,0 +1,3 @@
+term_italian,is_base,base_word_italian,translation_english,topics,pronoun_kind,person_number,gender,plurality,notes,example_sentence_italian,example_sentence_english
+chi,true,chi,who,"core,questions,people",interrogative,n/a,n/a,n/a,Used to ask about a person,Chi è alla porta?,Who is at the door?
+chi,false,chi,who,"core,grammar,people",relative,n/a,n/a,n/a,Used as a relative pronoun,Non so chi ha parlato.,I don't know who spoke.

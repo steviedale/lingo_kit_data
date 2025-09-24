@@ -1,0 +1,4 @@
+term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
+come,true,come,as,"comparison,manner",false,false,used to introduce comparisons or indicate manner,"Lei canta come una professionista.","She sings as a professional."
+così,true,così,"so, thus, like this, in this way","comparison,manner",false,false,alternative form often used in comparisons,"Era così felice di vederti.","She was so happy to see you."
+altrettanto,true,altrettanto,just as,"comparison,manner",false,false,used to express equivalence,"Sei altrettanto bravo quanto tuo fratello.","You are just as good as your brother."

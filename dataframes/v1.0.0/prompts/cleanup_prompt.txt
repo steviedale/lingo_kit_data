@@ -18,9 +18,9 @@ For phrases: keep the base terms consistent with the main noun or verb in the ph
 
 If the term is just a noun with articles/determiners (e.g., "the coin", "a train", "the trains"), label it "noun".
 
-If it’s a verb in infinitive form, label "verb".
+If it's a verb in infinitive form, label "verb".
 
-If it’s a sentence, expression, or question (e.g., "where is the bank"), label "phrase".
+If it's a sentence, expression, or question (e.g., "where is the bank"), label "phrase".
 
 3. Synonyms and Variants
 
@@ -34,7 +34,7 @@ Choose only one canonical English base form for the "english_base_term" column (
 
 Keep multi-word base terms like "exchange rate" or "credit card" as-is in the base columns.
 
-Only reduce them when they’re just determiners + noun.
+Only reduce them when they're just determiners + noun.
 
 5. Where applicable, add parenthesis to the english terms for polite/familiar or masculine/feminine. Don't abbreviate. Use " (masculine)", " (feminine)", " (polite)", " (familiar)". Also, add " (plural)" if it needs to be specified to distinguish it from another term.
 

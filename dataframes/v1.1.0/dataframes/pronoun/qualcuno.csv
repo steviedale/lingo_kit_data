@@ -1,0 +1,3 @@
+term_italian,is_base,base_word_italian,translation_english,topics,pronoun_kind,person_number,gender,plurality,notes,example_sentence_italian,example_sentence_english
+qualcuno,true,qualcuno,someone,"core,people,indefinite",indefinite,n/a,n/a,singular,Used to refer to an unspecified person,Qualcuno è alla porta.,Someone is at the door.
+qualcuno,false,qualcuno,somebody,"core,people,indefinite",indefinite,n/a,n/a,singular,Alternative translation with the same meaning,Qualcuno ha chiamato.,Somebody called.

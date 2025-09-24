@@ -1,0 +1,10 @@
+term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
+ecco,true,ecco,"here is / there is","presentation,attention",false,false,invariable adverb used to present or draw attention,"Ecco il libro che cercavi.","Here is the book you were looking for."
+eccomi,false,ecco,here I am,"presentation,attention",false,false,pronominal variant with first person singular,"Eccomi pronto!","Here I am, ready!"
+eccoti,false,ecco,here you are,"presentation,attention",false,false,pronominal variant with second person singular,"Eccoti finalmente!","Here you are at last!"
+eccolo,false,ecco,here it is,"presentation,attention",false,false,pronominal variant with third person singular masculine,"Eccolo sul tavolo.","Here it is on the table."
+eccola,false,ecco,here she is,"presentation,attention",false,false,pronominal variant with third person singular feminine,"Eccola che arriva.","Here she is coming."
+eccoci,false,ecco,here we are,"presentation,attention",false,false,pronominal variant with first person plural,"Eccoci arrivati a Roma.","Here we are in Rome."
+eccovi,false,ecco,here you are,"presentation,attention",false,false,pronominal variant with second person plural,"Eccovi i documenti richiesti.","Here you are, the requested documents."
+eccoli,false,ecco,here they are,"presentation,attention",false,false,pronominal variant with third person plural masculine,"Eccoli che giocano in giardino.","Here they are playing in the garden."
+eccole,false,ecco,here they are,"presentation,attention",false,false,pronominal variant with third person plural feminine,"Eccole pronte per la partenza.","Here they are ready to leave."

@@ -1,0 +1,33 @@
+term_italian,is_base,base_word_italian,translation_english,topics,determiner_type,gender,plurality,notes,example_sentence_italian,example_sentence_english
+alcuni,true,alcuno,"some, a few","quantities,uncertainty",quantifier,masculine,plural,Common form to indicate "some",Ho letto alcuni libri.,I read some books.
+alcuno,false,alcuno,"some, any","quantities,uncertainty",quantifier,masculine,singular,Used mostly in negative or interrogative contexts,Non ho alcuno dubbio.,I have no doubt.
+alcuna,false,alcuno,"some, any","quantities,uncertainty",quantifier,feminine,singular,Used mostly in negative or interrogative contexts,Non c'è alcuna possibilità.,There is no chance.
+alcune,false,alcuno,"some, a few","quantities,uncertainty",quantifier,feminine,plural,Common form to indicate "some",Ho visto alcune persone.,I saw some people.
+molto,true,molto,"much, many","quantities,intensity",quantifier,masculine,singular,Base form,Ho molto tempo libero.,I have much free time.
+molta,false,molto,"much, many","quantities,intensity",quantifier,feminine,singular,,C'è molta acqua.,There is much water.
+molti,false,molto,"many","quantities,intensity",quantifier,masculine,plural,,Molti studenti sono assenti.,Many students are absent.
+molte,false,molto,"many","quantities,intensity",quantifier,feminine,plural,,Molte case sono vecchie.,Many houses are old.
+tanto,true,tanto,"so much, so many","quantities,intensity",quantifier,masculine,singular,Base form,Ho tanto lavoro.,I have so much work.
+tanta,false,tanto,"so much, so many","quantities,intensity",quantifier,feminine,singular,,C'è tanta gente.,There are so many people.
+tanti,false,tanto,"so many","quantities,intensity",quantifier,masculine,plural,,Tanti amici sono venuti.,So many friends came.
+tante,false,tanto,"so many","quantities,intensity",quantifier,feminine,plural,,Ho tante idee.,I have so many ideas.
+poco,true,poco,"little, few","quantities,scarcity",quantifier,masculine,singular,Base form,Ho poco tempo.,I have little time.
+poca,false,poco,"little, few","quantities,scarcity",quantifier,feminine,singular,,C'è poca luce.,There is little light.
+pochi,false,poco,"few","quantities,scarcity",quantifier,masculine,plural,,Ci sono pochi studenti.,There are few students.
+poche,false,poco,"few","quantities,scarcity",quantifier,feminine,plural,,Poche persone lo sanno.,Few people know it.
+troppo,true,troppo,"too much, too many","quantities,excess",quantifier,masculine,singular,Base form,Ho troppo zucchero nel caffè.,I have too much sugar in the coffee.
+troppa,false,troppo,"too much, too many","quantities,excess",quantifier,feminine,singular,,Hai troppa energia.,You have too much energy.
+troppi,false,troppo,"too many","quantities,excess",quantifier,masculine,plural,,Ci sono troppi problemi.,There are too many problems.
+troppe,false,troppo,"too many","quantities,excess",quantifier,feminine,plural,,Ho fatto troppe foto.,I took too many photos.
+tutto,true,tutto,"all, everything","quantities,totality",distributive,masculine,singular,Can function also as pronoun,Tutto il mondo lo sa.,The whole world knows it.
+tutta,false,tutto,"all, everything","quantities,totality",distributive,feminine,singular,,Ho visitato tutta la città.,I visited the whole city.
+tutti,false,tutto,"all","quantities,totality",distributive,masculine,plural,,Tutti i ragazzi sono pronti.,All the boys are ready.
+tutte,false,tutto,"all","quantities,totality",distributive,feminine,plural,,Tutte le ragazze cantano.,All the girls sing.
+ciascuno,true,ciascuno,"each, every","distribution,individuals",distributive,masculine,singular,Formal register,Ognuno ha la sua opinione.,Each one has his opinion.
+ciascuna,false,ciascuno,"each, every","distribution,individuals",distributive,feminine,singular,Formal register,Ciascuna persona ha un ruolo.,Each person has a role.
+ogni,true,ogni,"every","distribution,general",distributive,n/a,singular,Invariable form,Ogni giorno studio.,Every day I study.
+ognuno,true,ognuno,"each one, everyone","distribution,individuals",distributive,masculine,singular,Used often as pronoun,Ognuno deve fare la sua parte.,Everyone must do their part.
+ognuna,false,ognuno,"each one, everyone","distribution,individuals",distributive,feminine,singular,Used often as pronoun,Ognuna di loro è pronta.,Each one of them is ready.
+nessuno,true,nessuno,"no, none","negation,quantities",quantifier,masculine,singular,Base form; often used in negatives,Non c'è nessuno qui.,There is no one here.
+nessuna,false,nessuno,"no, none","negation,quantities",quantifier,feminine,singular,,Non ho nessuna idea.,I have no idea.
+qualche,true,qualche,"some, a few","quantities,general",quantifier,n/a,singular,Invariable; used only with singular nouns,Ho qualche amico a Roma.,I have a few friends in Rome.

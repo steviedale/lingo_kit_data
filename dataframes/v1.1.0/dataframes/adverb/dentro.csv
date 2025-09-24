@@ -1,0 +1,4 @@
+term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
+dentro,true,dentro,inside,"place,direction",false,false,invariable adverb of place,"Resta dentro quando piove.","Stay inside when it rains."
+dentissimo,false,dentro,deep inside,"place,direction",false,true,rare emphatic form,"Il segreto è nascosto dentissimo.","The secret is hidden deep inside."
+molto dentro,false,dentro,very inside,"place,direction",false,true,intensifier + base,"È rimasto molto dentro la grotta.","He stayed very deep inside the cave."

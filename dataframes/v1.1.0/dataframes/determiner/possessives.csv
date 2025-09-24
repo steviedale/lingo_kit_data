@@ -1,0 +1,22 @@
+term_italian,is_base,base_word_italian,translation_english,topics,determiner_type,gender,plurality,notes,example_sentence_italian,example_sentence_english
+mio,true,mio,my,"core,family",possessive,masculine,singular,Used before masculine singular nouns.,Questo è il mio libro.,This is my book.
+mia,false,mio,my,"core,family",possessive,feminine,singular,Used before feminine singular nouns.,Questa è la mia casa.,This is my house.
+miei,false,mio,my,"core,family",possessive,masculine,plural,Used before masculine plural nouns.,Questi sono i miei amici.,These are my friends.
+mie,false,mio,my,"core,family",possessive,feminine,plural,Used before feminine plural nouns.,Queste sono le mie scarpe.,These are my shoes.
+tuo,true,tuo,your,"core,family",possessive,masculine,singular,"Informal, used before masculine singular nouns.",Questo è il tuo quaderno.,This is your notebook.
+tua,false,tuo,your,"core,family",possessive,feminine,singular,"Informal, used before feminine singular nouns.",Questa è la tua penna.,This is your pen.
+tuoi,false,tuo,your,"core,family",possessive,masculine,plural,"Informal, used before masculine plural nouns.",Questi sono i tuoi libri.,These are your books.
+tue,false,tuo,your,"core,family",possessive,feminine,plural,"Informal, used before feminine plural nouns.",Queste sono le tue foto.,These are your photos.
+suo,true,suo,his/her/your (formal),"core,people",possessive,masculine,singular,"Can mean his, her, or your (formal).",Questo è il suo cappotto.,This is his/her/your coat.
+sua,false,suo,his/her/your (formal),"core,people",possessive,feminine,singular,"Can mean his, her, or your (formal).",Questa è la sua macchina.,This is his/her/your car.
+suoi,false,suo,his/her/your (formal),"core,people",possessive,masculine,plural,"Can mean his, her, or your (formal).",Questi sono i suoi cani.,These are his/her/your dogs.
+sue,false,suo,his/her/your (formal),"core,people",possessive,feminine,plural,"Can mean his, her, or your (formal).",Queste sono le sue idee.,These are his/her/your ideas.
+nostro,true,nostro,our,"core,family",possessive,masculine,singular,Used before masculine singular nouns.,Questo è il nostro appartamento.,This is our apartment.
+nostra,false,nostro,our,"core,family",possessive,feminine,singular,Used before feminine singular nouns.,Questa è la nostra scuola.,This is our school.
+nostri,false,nostro,our,"core,family",possessive,masculine,plural,Used before masculine plural nouns.,Questi sono i nostri figli.,These are our children.
+nostre,false,nostro,our,"core,family",possessive,feminine,plural,Used before feminine plural nouns.,Queste sono le nostre borse.,These are our bags.
+vostro,true,vostro,your (plural),"core,family",possessive,masculine,singular,Used for addressing multiple people.,Questo è il vostro tavolo.,This is your table.
+vostra,false,vostro,your (plural),"core,family",possessive,feminine,singular,Used for addressing multiple people.,Questa è la vostra stanza.,This is your room.
+vostri,false,vostro,your (plural),"core,family",possessive,masculine,plural,Used for addressing multiple people.,Questi sono i vostri vestiti.,These are your clothes.
+vostre,false,vostro,your (plural),"core,family",possessive,feminine,plural,Used for addressing multiple people.,Queste sono le vostre amiche.,These are your friends.
+loro,true,loro,their,"core,family",possessive,n/a,n/a,Invariable for gender and number.,Questa è la loro casa.,This is their house.

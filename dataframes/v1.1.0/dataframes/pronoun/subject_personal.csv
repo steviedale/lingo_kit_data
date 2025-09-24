@@ -1,9 +1,0 @@
-term_italian,is_base,base_word_italian,translation_english,topics,pronoun_kind,person_number,gender,plurality,notes,example_sentence_italian,example_sentence_english
-io,true,io,I,"core,people,introductions",personal,1s,n/a,singular,Used to refer to oneself,Io sono felice.,I am happy.
-tu,true,tu,you,"core,people,introductions",personal,2s,n/a,singular,Informal singular you,Tu sei gentile.,You are kind.
-Lei,true,Lei,you (formal),"core,people,politeness",personal,2s,n/a,singular,Formal singular you,Lei è molto gentile.,You (formal) are very kind.
-lui,true,lui,he,"core,people,introductions",personal,3s,masculine,singular,Used for masculine third person singular,Lui è mio amico.,He is my friend.
-lei,true,lei,she,"core,people,introductions",personal,3s,feminine,singular,Used for feminine third person singular,Lei è mia sorella.,She is my sister.
-noi,true,noi,we,"core,people,introductions",personal,1p,n/a,plural,Used for first person plural,Noi andiamo al cinema.,We are going to the cinema.
-voi,true,voi,you (plural),"core,people,introductions",personal,2p,n/a,plural,Informal or general plural you,Voi siete studenti.,You (plural) are students.
-loro,true,loro,they,"core,people,introductions",personal,3p,n/a,plural,Used for third person plural,Loro vivono in Italia.,They live in Italy.

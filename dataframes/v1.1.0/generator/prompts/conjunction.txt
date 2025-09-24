@@ -1,0 +1,36 @@
+I want you to generate a CSV text (don't use code to generate) that captures the main details of an Italian conjunction in the exact structure below.
+
+The CSV must have the following columns in this order:
+term_italian,is_base,base_word_italian,translation_english,topics,conjunction_type,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian conjunction (e.g., e, ma, perché).
+
+is_base: true for the most basic/common form, otherwise false.
+
+base_word_italian: usually the same as term_italian, unless it's a slight variation.
+
+translation_english: English meaning (e.g., and, but, because). If the value contains a comma, wrap the whole value in quotes.
+
+topics: a short list of 1–3 general topics related to the term.
+
+The list must be surrounded in quotes.
+
+Topics must be comma-separated.
+
+Topics must not contain spaces (e.g., "core,logic" or "feelings,explanations").
+
+conjunction_type: coordinating, subordinating, correlative.
+
+notes: special remarks or usage notes. If the value contains a comma, wrap the whole value in quotes.
+
+example_sentence_italian: a simple Italian sentence showing usage. If the value contains a comma, wrap the whole value in quotes.
+
+example_sentence_english: the translation of that sentence. If the value contains a comma, wrap the whole value in quotes.
+
+Important formatting rule: Any value that contains a comma must be wrapped in quotes to preserve the CSV structure.
+
+Now generate this full CSV text for the conjunction [CONJUNCTION].
+
+Please output only the csv text, nothing else.

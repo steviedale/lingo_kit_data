@@ -1,0 +1,39 @@
+term_italian,is_base,base_word_italian,translation_english,topics,pronoun_kind,person_number,gender,plurality,notes,example_sentence_italian,example_sentence_english
+Lei,True,Lei,you (formal),"core,people,politeness",personal,2s,,singular,Formal singular you,Lei è molto gentile.,You (formal) are very kind.
+ci,True,ci,us,"core,people,grammar",direct_object,1p,,plural,Used as direct object,Ci vedi?,Do you see us?
+ci,False,ci,ourselves,"core,people,reflexive",reflexive,1p,,plural,Reflexive pronoun,Ci divertiamo.,We enjoy ourselves.
+ci,False,ci,us,"core,people,grammar",indirect_object,1p,,plural,Used as indirect object,Ci dai una mano?,Will you give us a hand?
+gli,True,gli,him,"core,people,grammar",indirect_object,3s,masculine,singular,Indirect object masculine,Gli parlo.,I talk to him.
+io,True,io,I,"core,people,introductions",personal,1s,,singular,Used to refer to oneself,Io sono felice.,I am happy.
+la,True,la,her,"core,people,grammar",direct_object,3s,feminine,singular,Direct object feminine,La conosco.,I know her.
+le,True,le,them,"core,people,grammar",direct_object,3p,feminine,plural,Direct object feminine plural,Le conosco.,I know them.
+le,False,le,her,"core,people,grammar",indirect_object,3s,feminine,singular,Indirect object feminine,Le scrivo.,I write to her.
+lei,True,lei,she,"core,people,introductions",personal,3s,feminine,singular,Used for third person feminine singular,Lei è bella.,She is beautiful.
+lei,False,lei,her,"core,people,emphasis",stressed,3s,feminine,singular,Stressed pronoun,Parlo con lei.,I speak with her.
+li,True,li,them,"core,people,grammar",direct_object,3p,masculine,plural,Direct object masculine plural,Li vedo.,I see them.
+lo,True,lo,him,"core,people,grammar",direct_object,3s,masculine,singular,Direct object masculine,Lo vedo.,I see him.
+loro,True,loro,they,"core,people,introductions",personal,3p,,plural,Used for third person plural,Loro vivono in Italia.,They live in Italy.
+loro,False,loro,them,"core,people,grammar",indirect_object,3p,,plural,Functions as an indirect object pronoun,Ho dato loro un libro.,I gave them a book.
+loro,False,loro,them,"core,people,emphasis",stressed,3p,,plural,Stressed pronoun,Parlo con loro.,I speak with them.
+lui,True,lui,he,"core,people,introductions",personal,3s,masculine,singular,Used for third person masculine singular,Lui è alto.,He is tall.
+lui,False,lui,him,"core,people,emphasis",stressed,3s,masculine,singular,Stressed pronoun,Vado con lui.,I go with him.
+me,True,me,me,"core,people,emphasis",stressed,1s,,singular,Stressed pronoun,Vieni con me.,Come with me.
+mi,True,mi,me,"core,people,grammar",direct_object,1s,,singular,Used as direct object,Mi vedi?,Do you see me?
+mi,False,mi,me,"core,people,grammar",indirect_object,1s,,singular,Used as indirect object,Mi dai un libro?,Will you give me a book?
+mi,False,mi,myself,"core,people,reflexive",reflexive,1s,,singular,Reflexive pronoun,Mi lavo.,I wash myself.
+noi,True,noi,we,"core,people,introductions",personal,1p,,plural,Used for first person plural,Noi siamo amici.,We are friends.
+noi,False,noi,us,"core,people,emphasis",stressed,1p,,plural,Stressed pronoun,Vieni con noi.,Come with us.
+si,True,si,herself,"core,people,reflexive",reflexive,3s,feminine,singular,Reflexive pronoun,Si guarda allo specchio.,She looks at herself in the mirror.
+si,False,si,himself,"core,people,reflexive",reflexive,3s,masculine,singular,Reflexive pronoun,Si veste.,He dresses himself.
+si,False,si,themselves,"core,people,reflexive",reflexive,3p,,plural,Reflexive pronoun,Si aiutano.,They help themselves.
+sé,True,sé,oneself,"core,people,reflexive",reflexive,3s,,singular,Used in formal/written language,Pensa solo a sé.,He thinks only of himself.
+te,True,te,you,"core,people,emphasis",stressed,2s,,singular,Stressed pronoun,Vengo con te.,I come with you.
+ti,True,ti,you,"core,people,grammar",direct_object,2s,,singular,Used as direct object,Ti vedo.,I see you.
+ti,False,ti,you,"core,people,grammar",indirect_object,2s,,singular,Used as indirect object,Ti do un consiglio.,I give you advice.
+ti,False,ti,yourself,"core,people,reflexive",reflexive,2s,,singular,Reflexive pronoun,Ti svegli presto.,You wake yourself early.
+tu,True,tu,you,"core,people,introductions",personal,2s,,singular,Informal singular you,Tu sei gentile.,You are kind.
+vi,True,vi,you (plural),"core,people,grammar",direct_object,2p,,plural,Used as direct object,Vi sento.,I hear you (plural).
+vi,False,vi,you (plural),"core,people,grammar",indirect_object,2p,,plural,Used as indirect object,Vi do un libro.,I give you (plural) a book.
+vi,False,vi,yourselves,"core,people,reflexive",reflexive,2p,,plural,Reflexive pronoun,Vi preparate.,You (plural) get yourselves ready.
+voi,True,voi,you (plural),"core,people,introductions",personal,2p,,plural,Used for second person plural,Voi siete studenti.,You (plural) are students.
+voi,False,voi,you (plural),"core,people,emphasis",stressed,2p,,plural,Stressed pronoun,Vado con voi.,I go with you (plural).

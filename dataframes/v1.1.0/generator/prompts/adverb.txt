@@ -47,11 +47,11 @@ Do not group words that have a different-looking root/stem, even if semantically
 
 male → malissimo ✅ (works)
 
-male → pessimamente ❌ (doesn’t work)
+male → pessimamente ❌ (doesn't work)
 
 bene → benissimo ✅ (works)
 
-bene → ottimamente ❌ (doesn’t work)
+bene → ottimamente ❌ (doesn't work)
 
 Irregular forms that do not look like the base adverb (male → peggio, bene → meglio) must be treated as their own independent base adverbs with is_base=true.
 

@@ -1,0 +1,34 @@
+I want you to generate a CSV text (don't use code to generate) that captures the main details of an Italian preposition in the exact structure below.
+
+The CSV must have the following columns in this order:
+term_italian,is_base,base_word_italian,translation_english,topics,preposition_type,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian preposition (e.g., a, di, con, per).
+
+is_base: true only for the most basic/simple form, otherwise false (e.g., "da" = base, "dallo" = not base).
+
+base_word_italian: the root/simple preposition (e.g., da, in, di).
+
+translation_english: the English meaning (e.g., to, of, with).
+
+topics: a short list of 1–3 general topics related to the term.
+
+The list must be surrounded in quotes.
+
+Topics must be comma-separated.
+
+Topics must not contain spaces (e.g., "core,travel" or "food,shopping").
+
+preposition_type: simple or articulated.
+
+notes: special remarks or restrictions.
+
+example_sentence_italian: a simple Italian sentence showing usage.
+
+example_sentence_english: the translation of that sentence.
+
+Now generate this full CSV text for the preposition [PREPOSITION].
+
+Please output only the csv text, nothing else.

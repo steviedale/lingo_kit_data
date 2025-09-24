@@ -1,4 +1,4 @@
-I want you to generate a CSV text (don’t use code to generate) that captures the main variations of an Italian noun in the exact structure below.
+I want you to generate a CSV text (don't use code to generate) that captures the main variations of an Italian noun in the exact structure below.
 
 The CSV must have the following columns in this order:
 
@@ -24,17 +24,17 @@ article_type: one of:
 
 none (bare lemma or bare plural)
 
-indefinite (un, uno, una, un’)
+indefinite (un, uno, una, un')
 
-definite (il, lo, la, l’, i, gli, le)
+definite (il, lo, la, l', i, gli, le)
 
 articulated_preposition (del, al, dal, nel, sul, col, etc.)
 
-article_italian: the actual article or contraction used (e.g. un, il, gli, dell’, all’, sull’). For none, write "n/a".
+article_italian: the actual article or contraction used (e.g. un, il, gli, dell', all', sull'). For none, write "n/a".
 
-added_particle_italian: the exact piece added to the base term (e.g. il, la, un, dell’, coi). For none, write "n/a".
+added_particle_italian: the exact piece added to the base term (e.g. il, la, un, dell', coi). For none, write "n/a".
 
-preposition: if it’s an articulated preposition, specify which simple preposition (di, a, da, in, su, con). Otherwise "n/a".
+preposition: if it's an articulated preposition, specify which simple preposition (di, a, da, in, su, con). Otherwise "n/a".
 
 notes: short clarifications (e.g. “invariable plural”, “collective noun”, “plural-only”, “contraction of con + il”). Leave blank if not needed.
 
@@ -58,7 +58,7 @@ singular + plural forms with all definite and indefinite articles,
 
 bare plural form,
 
-articulated prepositions for di, a, da, in, su, con with the correct contractions (del/della/dell’/dei/degli/delle, al/allo/all’/ai/agli/alle, etc.),
+articulated prepositions for di, a, da, in, su, con with the correct contractions (del/della/dell'/dei/degli/delle, al/allo/all'/ai/agli/alle, etc.),
 
 contracted forms (col, coi).
 
@@ -94,7 +94,7 @@ un gatto,false,gatto,a cat,"animals,pets",masculine,singular,indefinite,un,un,n/
 il gatto,false,gatto,the cat,"animals,pets",masculine,singular,definite,il,il,n/a,,"Il gatto dorme sul divano.","The cat is sleeping on the couch."
 gatti,false,gatto,cats,"animals,pets",masculine,plural,none,n/a,n/a,n/a,plural form,"Gatti miagolano di notte.","Cats meow at night."
 i gatti,false,gatto,the cats,"animals,pets",masculine,plural,definite,i,i,n/a,,"I gatti giocano in giardino.","The cats are playing in the garden."
-dei gatti,false,gatto,some cats,"animals,pets",masculine,plural,articulated_preposition,i,dei,di,,"Le ciotole dei gatti sono pulite.","The cats’ bowls are clean."
+dei gatti,false,gatto,some cats,"animals,pets",masculine,plural,articulated_preposition,i,dei,di,,"Le ciotole dei gatti sono pulite.","The cats' bowls are clean."
 al gatto,false,gatto,to the cat,"animals,pets",masculine,singular,articulated_preposition,il,al,a,,"Do il latte al gatto.","I give milk to the cat."
 sui gatti,false,gatto,on the cats,"animals,pets",masculine,plural,articulated_preposition,i,sui,su,,"Ho letto un libro sui gatti.","I read a book about cats."
 col gatto,false,gatto,with the cat,"animals,pets",masculine,singular,articulated_preposition,il,col,con,common contraction,"Esco col gatto al guinzaglio.","I go out with the cat on a leash."

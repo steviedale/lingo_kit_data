@@ -1,0 +1,13 @@
+term_italian,is_base,base_word_italian,translation_english,topics,conjunction_type,notes,example_sentence_italian,example_sentence_english
+e,true,e,and,"core,logic",coordinating,,Voglio pane e formaggio,I want bread and cheese
+o,true,o,or,"core,logic",coordinating,,Vuoi tè o caffè?,Do you want tea or coffee?
+oppure,true,oppure,"or, otherwise","core,logic",coordinating,,Possiamo andare al cinema oppure restare a casa,We can go to the cinema or stay at home
+ma,true,ma,but,"core,contrast",coordinating,,Vorrei venire ma sono occupato,I'd like to come but I'm busy
+però,true,però,however,"core,contrast",coordinating,"Used more for emphasis, often at the start of a sentence","Volevo uscire, però pioveva","I wanted to go out, however, it was raining"
+perché,true,perché,"why, because","logic,explanations",subordinating,"Can mean 'because' or 'why' depending on context","Non sono venuto perché ero malato","I didn't come because I was sick"
+se,true,se,if,"logic,conditions",subordinating,,"Se piove, restiamo a casa","If it rains, we'll stay home"
+quando,true,quando,when,"time,conditions",subordinating,,Ti chiamo quando arrivo,I'll call you when I arrive
+mentre,true,mentre,while,"time,contrast",subordinating,"Can indicate simultaneity or contrast",Lei cucinava mentre lui leggeva,"She was cooking while he was reading"
+siccome,true,siccome,since,"logic,explanations",subordinating,"Used to explain reasons, usually at the start of a sentence","Siccome era tardi, siamo tornati a casa","Since it was late, we went home"
+né,true,né,nor,"core,logic",coordinating,"Usually appears in double constructions: né...né...",Non ho né tempo né voglia,I have neither time nor desire
+sia,true,sia,both,"core,logic",correlative,"Appears in paired form: sia...sia...",Mi piace sia il mare sia la montagna,"I like both the sea and the mountains"

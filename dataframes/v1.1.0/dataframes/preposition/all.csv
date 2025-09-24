@@ -1,0 +1,47 @@
+term_italian,is_base,base_word_italian,translation_english,topics,preposition_type,notes,example_sentence_italian,example_sentence_english
+a,true,a,to,"core,travel",simple,Used for direction and indirect objects,Vado a Roma,I go to Rome
+di,true,di,of,"core,ownership",simple,Indicates possession or origin,Il libro di Maria,Maria's book
+da,true,da,from,"core,travel",simple,Used for origin or agent,Vengo da Milano,I come from Milan
+in,true,in,in,"core,location",simple,Used for places and means,Abito in Italia,I live in Italy
+con,true,con,with,"core,people",simple,Indicates accompaniment,Esco con gli amici,I go out with friends
+col,false,con,with,"core,people",articulated,Used before masculine singular nouns starting with a consonant,Esco col mio amico.,I'm going out with my friend.
+coi,false,con,with,"core,people",articulated,Used before masculine plural nouns,Parlo coi ragazzi.,I'm talking with the boys.
+collo,false,con,with,"core,objects",articulated,Used before masculine singular nouns starting with "lo" form,Ho parlato collo studente.,I spoke with the student.
+colla,false,con,with,"core,objects",articulated,Used before feminine singular nouns starting with a consonant,Scrivo colla penna.,I write with the pen.
+cogli,false,con,with,"core,people",articulated,Used before masculine plural nouns starting with a vowel,Esco cogli amici.,I'm going out with the friends.
+colle,false,con,with,"core,places",articulated,Used before feminine plural nouns,Parlo colle ragazze.,I'm talking with the girls.
+coll',false,con,with,"core,people",articulated,Elided form before vowels,Esco coll'amico.,I'm going out with the friend.
+su,true,su,on,"core,location",simple,Indicates position or topic,Il libro è sul tavolo,The book is on the table
+per,true,per,for,"core,purpose",simple,Indicates purpose or duration,Questo è per te,This is for you
+tra,true,tra,between,"core,location",simple,Interchangeable with "fra",La casa è tra due alberi,The house is between two trees
+fra,true,fra,between,"core,location",simple,Often interchangeable with "tra",Ci vediamo fra due giorni,We'll see each other in two days
+del,false,di,of the,"core,ownership",articulated,Combination of "di" + "il",Il colore del cielo,The color of the sky
+dello,false,di,of the,"core,ownership",articulated,Combination of "di" + "lo",Il profumo dello zucchero,The scent of the sugar
+della,false,di,of the,"core,ownership",articulated,Combination of "di" + "la",Il suono della musica,The sound of the music
+dei,false,di,of the,"core,ownership",articulated,Combination of "di" + "i",I giocattoli dei bambini,The toys of the children
+degli,false,di,of the,"core,ownership",articulated,Combination of "di" + "gli",Le opinioni degli studenti,The opinions of the students
+delle,false,di,of the,"core,ownership",articulated,Combination of "di" + "le",Le case delle ragazze,The houses of the girls
+al,false,a,to the,"core,travel",articulated,Combination of "a" + "il",Vado al mercato,I go to the market
+allo,false,a,to the,"core,travel",articulated,Combination of "a" + "lo",Scrivo allo studente,I write to the student
+alla,false,a,to the,"core,travel",articulated,Combination of "a" + "la",Parlo alla maestra,I speak to the teacher
+ai,false,a,to the,"core,travel",articulated,Combination of "a" + "i",Telefono ai ragazzi,I call the boys
+agli,false,a,to the,"core,travel",articulated,Combination of "a" + "gli",Parlo agli amici,I talk to the friends
+alle,false,a,to the,"core,travel",articulated,Combination of "a" + "le",Scrivo alle ragazze,I write to the girls
+dal,false,da,from the,"core,travel",articulated,Combination of "da" + "il",Vengo dal medico,I come from the doctor
+dallo,false,da,from the,"core,travel",articulated,Combination of "da" + "lo",Esco dallo stadio,I exit from the stadium
+dalla,false,da,from the,"core,travel",articulated,Combination of "da" + "la",Parto dalla stazione,I leave from the station
+dai,false,da,from the,"core,travel",articulated,Combination of "da" + "i",Arrivo dai parenti,I arrive from the relatives
+dagli,false,da,from the,"core,travel",articulated,Combination of "da" + "gli",Ritorno dagli amici,I return from the friends
+dalle,false,da,from the,"core,travel",articulated,Combination of "da" + "le",Esco dalle scuole,I exit from the schools
+nel,false,in,in the,"core,location",articulated,Combination of "in" + "il",Sono nel giardino,I am in the garden
+nello,false,in,in the,"core,location",articulated,Combination of "in" + "lo",Entro nello studio,I enter in the studio
+nella,false,in,in the,"core,location",articulated,Combination of "in" + "la",Abito nella città,I live in the city
+nei,false,in,in the,"core,location",articulated,Combination of "in" + "i",I giochi sono nei cassetti,The toys are in the drawers
+negli,false,in,in the,"core,location",articulated,Combination of "in" + "gli",Abito negli appartamenti,I live in the apartments
+nelle,false,in,in the,"core,location",articulated,Combination of "in" + "le",Ci sono libri nelle borse,There are books in the bags
+sul,false,su,on the,"core,location",articulated,Combination of "su" + "il",Il gatto è sul divano,The cat is on the sofa
+sullo,false,su,on the,"core,location",articulated,Combination of "su" + "lo",Il libro è sullo scaffale,The book is on the shelf
+sulla,false,su,on the,"core,location",articulated,Combination of "su" + "la",La penna è sulla sedia,The pen is on the chair
+sui,false,su,on the,"core,location",articulated,Combination of "su" + "i",Ci sono fiori sui tavoli,There are flowers on the tables
+sugli,false,su,on the,"core,location",articulated,Combination of "su" + "gli",I bicchieri sono sugli scaffali,The glasses are on the shelves
+sulle,false,su,on the,"core,location",articulated,Combination of "su" + "le",Le chiavi sono sulle sedie,The keys are on the chairs

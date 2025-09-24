@@ -1,0 +1,16 @@
+term_italian,is_base,base_word_italian,translation_english,topics,article_type,gender,plurality,notes,example_sentence_italian,example_sentence_english
+il,true,il,the,"core,grammar",definite,masculine,singular,Used before most consonants,Il libro è interessante.,The book is interesting.
+lo,true,lo,the,"core,grammar",definite,masculine,singular,"Used before s+consonant, z, ps, gn",Lo studente è intelligente.,The student is intelligent.
+i,true,i,the,"core,grammar",definite,masculine,plural,Plural of "il",I libri sono interessanti.,The books are interesting.
+gli,true,gli,the,"core,grammar",definite,masculine,plural,Plural of "lo" and "l'",Gli studenti sono intelligenti.,The students are intelligent.
+la,true,la,the,"core,grammar",definite,feminine,singular,Used before consonants,La casa è grande.,The house is big.
+le,true,le,the,"core,grammar",definite,feminine,plural,Plural of "la" and "l'",Le case sono grandi.,The houses are big.
+un,true,un,a,"core,grammar",indefinite,masculine,singular,Used before most consonants and vowels,Un amico mi ha chiamato.,A friend called me.
+uno,true,uno,a,"core,grammar",indefinite,masculine,singular,"Used before s+consonant, z, ps, gn",Uno studente ha fatto la domanda.,A student asked the question.
+una,true,una,a,"core,grammar",indefinite,feminine,singular,Used before consonants,Una ragazza è arrivata.,A girl arrived.
+del,true,del,some,"food,grammar",partitive,masculine,singular,Contraction of "di + il",Ho del pane.,I have some bread.
+dello,true,dello,some,"food,grammar",partitive,masculine,singular,Contraction of "di + lo",C'è dello zucchero.,There is some sugar.
+dei,true,dei,some,"food,grammar",partitive,masculine,plural,Contraction of "di + i",Ho dei libri.,I have some books.
+degli,true,degli,some,"food,grammar",partitive,masculine,plural,Contraction of "di + gli",Ho degli amici.,I have some friends.
+della,true,della,some,"food,grammar",partitive,feminine,singular,Contraction of "di + la",Vorrei della frutta.,I would like some fruit.
+delle,true,delle,some,"food,grammar",partitive,feminine,plural,Contraction of "di + le",Ho delle idee.,I have some ideas.

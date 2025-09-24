@@ -1,4 +1,4 @@
-I want you to generate a CSV text (don’t use code to generate) that captures the main details of an Italian pronoun in the exact structure below.
+I want you to generate a CSV text (don't use code to generate) that captures the main details of an Italian pronoun in the exact structure below.
 
 The CSV must have the following columns in this order:
 term_italian,is_base,base_word_italian,translation_english,topics,pronoun_kind,person_number,gender,plurality,notes,example_sentence_italian,example_sentence_english
@@ -29,7 +29,11 @@ Topics must be comma-separated.
 
 Topics must not contain spaces (e.g., "core,people,introductions" or "food,dinner").
 
-pronoun_kind: personal, reflexive, direct_object, indirect_object, demonstrative, possessive, etc.
+pronoun_kind: the type of pronoun (personal, reflexive, direct_object, indirect_object, demonstrative, possessive, etc.).
+
+⚠️ If a pronoun has multiple functions, each function must be listed in a separate row.
+
+Example: loro would appear once as personal and again as indirect_object, with all other values repeated as needed.
 
 person_number: if applicable, 1s, 2s, 3s, 1p, 2p, 3p; use n/a if not applicable.
 
@@ -43,16 +47,15 @@ example_sentence_italian: a simple Italian sentence showing usage.
 
 example_sentence_english: the translation of that sentence.
 
-Here is an example CSV of pronouns:
+Example CSV:
 term_italian,is_base,base_word_italian,translation_english,topics,pronoun_kind,person_number,gender,plurality,notes,example_sentence_italian,example_sentence_english
 io,true,io,I,"core,people,introductions",personal,1s,n/a,singular,Used to refer to oneself,Io sono felice.,I am happy.
 tu,true,tu,you,"core,people,introductions",personal,2s,n/a,singular,Informal singular you,Tu sei gentile.,You are kind.
 Lei,true,Lei,you (formal),"core,people,politeness",personal,2s,n/a,singular,Formal singular you,Lei è molto gentile.,You (formal) are very kind.
-lui,true,lui,he,"core,people,introductions",personal,3s,masculine,singular,Used for masculine third person singular,Lui è mio amico.,He is my friend.
-lei,true,lei,she,"core,people,introductions",personal,3s,feminine,singular,Used for feminine third person singular,Lei è mia sorella.,She is my sister.
-noi,true,noi,we,"core,people,introductions",personal,1p,n/a,plural,Used for first person plural,Noi andiamo al cinema.,We are going to the cinema.
-voi,true,voi,you (plural),"core,people,introductions",personal,2p,n/a,plural,Informal or general plural you,Voi siete studenti.,You (plural) are students.
 loro,true,loro,they,"core,people,introductions",personal,3p,n/a,plural,Used for third person plural,Loro vivono in Italia.,They live in Italy.
+loro,false,loro,them,"core,people,grammar",indirect_object,3p,n/a,plural,Functions as an indirect object pronoun,Ho dato loro un libro.,I gave them a book.
+mi,true,mi,me,"core,people,grammar",direct_object,1s,n/a,singular,Used as direct object,Mi vedi?,Do you see me?
+mi,false,mi,me,"core,people,grammar",indirect_object,1s,n/a,singular,Used as indirect object,Mi dai un libro?,Will you give me a book?
 
 Now generate this full CSV text for the pronoun [PRONOUN].
 
