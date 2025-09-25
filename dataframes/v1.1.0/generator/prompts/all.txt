@@ -1,0 +1,572 @@
+### Adjective
+I want you to generate a CSV text (don't use code to generate) that captures the main variations of an Italian adjective in the exact structure below.
+
+The CSV must have the following columns in this order:
+
+term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian word form (e.g. bello, bella, grandi).
+
+is_base: true only for the base form (masculine singular), otherwise false.
+
+base_term_italian: always the lemma (masculine singular form).
+
+translation_english: the English meaning (e.g. beautiful, large).
+
+topics: a short list (in quotes) of 1–3 general topics related to this adjective, separated by commas (e.g. "appearance, evaluation"). All rows with the same base_term_italian must share the same topics list.
+
+gender: one of “masculine”, “feminine”, or “n/a” (for invariable adjectives).
+
+plurality: either “singular”, “plural”, or “n/a” (for invariable adjectives).
+
+notes: short clarifications (e.g. “invariable”, “irregular plural”, “used before vowels”).
+
+example_sentence_italian: a short, natural Italian sentence using this exact form.
+
+example_sentence_english: the English translation of the example sentence.
+
+Formatting rules:
+
+Return the CSV as plain text only, not as a code block.
+
+Each row should represent exactly one adjective form.
+
+The base row must always be the masculine singular form.
+
+Expand gender and plurality explicitly (“masculine”, “feminine”, “singular”, “plural”).
+
+Use consistent lowercase true/false in the boolean column is_base.
+
+For adjectives that change with gender/number, include all four forms (masculine singular, masculine plural, feminine singular, feminine plural).
+
+For invariable adjectives, include both singular and plural if applicable, marking gender as n/a.
+
+Provide natural, everyday example sentences for each form.
+
+Example (full):
+
+term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
+bello,true,bello,beautiful,"appearance,evaluation",masculine,singular,,Il ragazzo è bello.,The boy is handsome.
+bella,false,bello,beautiful,"appearance,evaluation",feminine,singular,,La casa è bella.,The house is beautiful.
+belli,false,bello,beautiful,"appearance,evaluation",masculine,plural,,I fiori sono belli.,The flowers are beautiful.
+belle,false,bello,beautiful,"appearance,evaluation",feminine,plural,,Le città sono belle.,The cities are beautiful.
+grande,true,grande,big,"size",n/a,singular,invariable by gender,Il gatto è grande.,The cat is big.
+grandi,false,grande,big,"size",n/a,plural,invariable by gender,I cani sono grandi.,The dogs are big.
+
+Now generate this full CSV text for the adjective [ADJECTIVE] meaning "[ENGLISH TRANSLATION]".
+
+Please output only the CSV text, nothing else.
+
+### Adverb 
+I want you to generate a CSV text (don't use code to generate) that captures the main details of an Italian adverb in the exact structure below.
+
+The CSV must have the following columns in this order:
+term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian adverb form (e.g. velocemente, bene).
+
+is_base: true only for the main/base adverb form, otherwise false.
+
+base_term_italian: always the base lemma of the adverb (typically same as term_italian).
+
+translation_english: the English meaning of the adverb (e.g. quickly, well).
+
+topics: a short list (in quotes) of 1–3 general topics related to this adverb, separated by commas (e.g. "manner, speed"). All rows with the same base_term_italian must share the same topics list.
+
+is_comparative: true if the row represents a comparative form, otherwise false.
+
+is_superlative: true if the row represents a superlative form (including intensifiers), otherwise false.
+
+notes: short clarifications (e.g. “irregular comparative form,” “derived from adjective X,” or “used mainly in spoken Italian”).
+
+example_sentence_italian: a short, natural Italian sentence using this exact adverb form.
+
+example_sentence_english: the English translation of the example sentence.
+
+Formatting rules:
+
+Return the CSV as plain text only, not as a code block.
+
+Each row should represent exactly one adverb form.
+
+Use consistent lowercase true/false in the boolean columns.
+
+Always include the base form plus comparative and superlative forms (if applicable).
+
+If multiple superlative intensifiers exist (e.g. assolutamente, fortissimo), include them as separate rows marked is_base=false and is_superlative=true.
+
+If the adverb is invariable (no comparative/superlative), mark is_comparative=false and is_superlative=false.
+
+Grouping rules (important):
+
+Only group adverbs under the same base_term_italian if they are slight, visible variations of the base form (e.g. formed by adding a suffix like -issimo, a prefix like stra-, or intensifiers like molto velocemente).
+
+Do not group words that have a different-looking root/stem, even if semantically related. For example:
+
+male → malissimo ✅ (works)
+
+male → pessimamente ❌ (doesn't work)
+
+bene → benissimo ✅ (works)
+
+bene → ottimamente ❌ (doesn't work)
+
+Irregular forms that do not look like the base adverb (male → peggio, bene → meglio) must be treated as their own independent base adverbs with is_base=true.
+
+Checklist of forms to include (baseline set):
+
+Base adverb form.
+
+Comparative form (if it exists).
+
+Superlative form(s), including intensifiers (if they exist).
+
+Example (full):
+
+term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
+bene,true,bene,well,"manner,quality",false,false,irregular comparative/superlative,"Lui parla bene l'italiano.","He speaks Italian well."
+benissimo,false,bene,very well,"manner,quality",false,true,absolute superlative,"Hai cantato benissimo.","You sang very well."
+molto bene,false,bene,very well,"manner,quality",false,true,intensifier + base,"Parla molto bene il francese.","He speaks French very well."
+male,true,male,badly,"manner,quality",false,false,irregular comparative peggio; superlative formed with -issimo,"Lui gioca male a calcio.","He plays football badly."
+malissimo,false,male,very badly,"manner,quality",false,true,absolute superlative,"Ha cantato malissimo alla festa.","He sang very badly at the party."
+
+Now generate this full CSV text for the adverb [ADVERB] meaning "[ENGLISH TRANSLATION]".
+
+Please output only the csv text, nothing else.
+
+
+### Article
+I want you to generate a CSV text (don't use code to generate) that captures the main details of an Italian article in the exact structure below.
+
+The CSV must have the following columns in this order:
+term_italian,is_base,base_word_italian,translation_english,topics,article_type,gender,plurality,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian article (e.g., il, lo, la, un, uno, una, del, dello, dei, degli).
+
+is_base: true only for the most basic/common form, otherwise false.
+
+base_word_italian: the root article form (e.g., il, un, del).
+
+translation_english: the English meaning (e.g., the, a, some).
+
+topics: a short list of 1–3 general topics related to the term.
+
+The list must be surrounded in quotes.
+
+Topics must be comma-separated.
+
+Topics must not contain spaces (e.g., "core,people" or "food,shopping").
+
+article_type: definite, indefinite, partitive.
+
+gender: masculine, feminine, or n/a.
+
+plurality: singular, plural, or n/a.
+
+notes: special remarks or usage notes.
+
+example_sentence_italian: a simple Italian sentence showing usage.
+
+example_sentence_english: the translation of that sentence.
+
+Now generate this full CSV text for the article [ARTICLE].
+
+Please output only the csv text, nothing else.
+
+### Conjection
+I want you to generate a CSV text (don't use code to generate) that captures the main details of an Italian conjunction in the exact structure below.
+
+The CSV must have the following columns in this order:
+term_italian,is_base,base_word_italian,translation_english,topics,conjunction_type,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian conjunction (e.g., e, ma, perché).
+
+is_base: true for the most basic/common form, otherwise false.
+
+base_word_italian: usually the same as term_italian, unless it's a slight variation.
+
+translation_english: English meaning (e.g., and, but, because). If the value contains a comma, wrap the whole value in quotes.
+
+topics: a short list of 1–3 general topics related to the term.
+
+The list must be surrounded in quotes.
+
+Topics must be comma-separated.
+
+Topics must not contain spaces (e.g., "core,logic" or "feelings,explanations").
+
+conjunction_type: coordinating, subordinating, correlative.
+
+notes: special remarks or usage notes. If the value contains a comma, wrap the whole value in quotes.
+
+example_sentence_italian: a simple Italian sentence showing usage. If the value contains a comma, wrap the whole value in quotes.
+
+example_sentence_english: the translation of that sentence. If the value contains a comma, wrap the whole value in quotes.
+
+Important formatting rule: Any value that contains a comma must be wrapped in quotes to preserve the CSV structure.
+
+Now generate this full CSV text for the conjunction [CONJUNCTION].
+
+Please output only the csv text, nothing else.
+
+### Determiner
+I want you to generate a CSV text (don't use code to generate) that captures the main details of an Italian determiner (excluding articles) in the exact structure below.
+
+The CSV must have the following columns in this order:
+term_italian,is_base,base_word_italian,translation_english,topics,determiner_type,gender,plurality,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian determiner (e.g., questo, quella, mio, alcuni, ogni).
+
+is_base: true only for the most basic/common form, otherwise false.
+
+base_word_italian: the root determiner form (e.g., questo, mio, qualche).
+
+translation_english: the English meaning (e.g., this, my, some, every).
+
+topics: a short list of 1–3 general topics related to the term.
+
+The list must be surrounded in quotes.
+
+Topics must be comma-separated.
+
+Topics must not contain spaces (e.g., "core,family" or "shopping,quantities").
+
+determiner_type: demonstrative, possessive, quantifier, distributive.
+
+gender: masculine, feminine, or n/a.
+
+plurality: singular, plural, or n/a.
+
+notes: special remarks or usage notes.
+
+example_sentence_italian: a simple Italian sentence showing usage.
+
+example_sentence_english: the translation of that sentence.
+
+Now generate this full CSV text for the determiner [DETERMINER].
+
+Please output only the csv text, nothing else.
+
+### Noun
+I want you to generate a CSV text (don't use code to generate) that captures the main variations of an Italian noun in the exact structure below.
+
+The CSV must have the following columns in this order:
+
+term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian word form (e.g. gatto, il gatto, dei gatti).
+
+is_base: true only for the bare singular lemma with no article, otherwise false.
+
+base_term_italian: always the lemma in singular form (e.g. gatto).
+
+translation_english: the English meaning of the form (e.g. cat, the cat, some cats).
+
+topics: a short list (in quotes) of 1–3 general topics related to this noun, separated by commas (e.g. "animals, pets"). All rows with the same base_term_italian must share the same topics list.
+
+gender: masculine, feminine, or n/a (for irregular cases like pronouns or indeclinables).
+
+plurality: singular, plural, or n/a (for indeclinable forms).
+
+article_type: one of:
+
+none (bare lemma or bare plural)
+
+indefinite (un, uno, una, un')
+
+definite (il, lo, la, l', i, gli, le)
+
+articulated_preposition (del, al, dal, nel, sul, col, etc.)
+
+article_italian: the actual article or contraction used (e.g. un, il, gli, dell', all', sull'). For none, write "n/a".
+
+added_particle_italian: the exact piece added to the base term (e.g. il, la, un, dell', coi). For none, write "n/a".
+
+preposition: if it's an articulated preposition, specify which simple preposition (di, a, da, in, su, con). Otherwise "n/a".
+
+notes: short clarifications (e.g. “invariable plural”, “collective noun”, “plural-only”, “contraction of con + il”). Leave blank if not needed.
+
+example_sentence_italian: a short, natural Italian sentence using this exact word form.
+
+example_sentence_english: the English translation of the example sentence.
+
+Formatting rules:
+
+Return the CSV as plain text only, not as a code block.
+
+Each row should represent exactly one word form.
+
+Use consistent lowercase true/false in the boolean column is_base.
+
+Always include:
+
+the bare lemma (singular, no article, is_base = true),
+
+singular + plural forms with all definite and indefinite articles,
+
+bare plural form,
+
+articulated prepositions for di, a, da, in, su, con with the correct contractions (del/della/dell'/dei/degli/delle, al/allo/all'/ai/agli/alle, etc.),
+
+contracted forms (col, coi).
+
+Include invariable or irregular forms with explanatory notes.
+
+If a form is archaic, rare, or plural-only, mention this in notes.
+
+For mass nouns or abstract nouns, include definite and indefinite forms as used in natural Italian.
+
+Checklist of forms to include (baseline set):
+
+Base lemma (bare singular, no article).
+
+Indefinite singular.
+
+Definite singular.
+
+Bare plural form.
+
+Definite plural.
+
+Indefinite plural (with articulated “dei/degli/delle”).
+
+All articulated prepositions (di, a, da, in, su, con) with correct singular and plural forms.
+
+Contractions (col, coi).
+
+Example (full):
+
+term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+gatto,true,gatto,cat,"animals,pets",masculine,singular,none,n/a,n/a,n/a,base lemma,"Vedo un gatto nero.","I see a black cat."
+un gatto,false,gatto,a cat,"animals,pets",masculine,singular,indefinite,un,un,n/a,,"Ho un gatto a casa.","I have a cat at home."
+il gatto,false,gatto,the cat,"animals,pets",masculine,singular,definite,il,il,n/a,,"Il gatto dorme sul divano.","The cat is sleeping on the couch."
+gatti,false,gatto,cats,"animals,pets",masculine,plural,none,n/a,n/a,n/a,plural form,"Gatti miagolano di notte.","Cats meow at night."
+i gatti,false,gatto,the cats,"animals,pets",masculine,plural,definite,i,i,n/a,,"I gatti giocano in giardino.","The cats are playing in the garden."
+dei gatti,false,gatto,some cats,"animals,pets",masculine,plural,articulated_preposition,i,dei,di,,"Le ciotole dei gatti sono pulite.","The cats' bowls are clean."
+al gatto,false,gatto,to the cat,"animals,pets",masculine,singular,articulated_preposition,il,al,a,,"Do il latte al gatto.","I give milk to the cat."
+sui gatti,false,gatto,on the cats,"animals,pets",masculine,plural,articulated_preposition,i,sui,su,,"Ho letto un libro sui gatti.","I read a book about cats."
+col gatto,false,gatto,with the cat,"animals,pets",masculine,singular,articulated_preposition,il,col,con,common contraction,"Esco col gatto al guinzaglio.","I go out with the cat on a leash."
+
+Now generate this full CSV text for the noun [NOUN] meaning “[ENGLISH TRANSLATION]”.
+
+Please output only the csv text, nothing else.
+
+### Preposition
+I want you to generate a CSV text (don't use code to generate) that captures the main details of an Italian preposition in the exact structure below.
+
+The CSV must have the following columns in this order:
+term_italian,is_base,base_word_italian,translation_english,topics,preposition_type,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian preposition (e.g., a, di, con, per).
+
+is_base: true only for the most basic/simple form, otherwise false (e.g., "da" = base, "dallo" = not base).
+
+base_word_italian: the root/simple preposition (e.g., da, in, di).
+
+translation_english: the English meaning (e.g., to, of, with).
+
+topics: a short list of 1–3 general topics related to the term.
+
+The list must be surrounded in quotes.
+
+Topics must be comma-separated.
+
+Topics must not contain spaces (e.g., "core,travel" or "food,shopping").
+
+preposition_type: simple or articulated.
+
+notes: special remarks or restrictions.
+
+example_sentence_italian: a simple Italian sentence showing usage.
+
+example_sentence_english: the translation of that sentence.
+
+Now generate this full CSV text for the preposition [PREPOSITION].
+
+Please output only the csv text, nothing else.
+
+### Pronoun
+I want you to generate a CSV text (don't use code to generate) that captures the main details of an Italian pronoun in the exact structure below.
+
+The CSV must have the following columns in this order:
+term_italian,is_base,base_word_italian,translation_english,topics,pronoun_kind,person_number,gender,plurality,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian pronoun form (e.g., io, lui, noi).
+
+is_base: true only for the most basic/common form of the pronoun, otherwise false.
+
+base_word_italian: the lemma/group representative form (usually the simplest).
+
+translation_english: the English meaning (e.g., I, he, we).
+
+For “you”, follow these rules:
+
+Use “you (formal)” for the formal singular pronoun (Lei).
+
+Use just “you” for informal singular (tu).
+
+Use “you (plural)” for voi.
+
+topics: a short list of 1–3 general topics related to the term.
+
+The list must be surrounded in quotes.
+
+Topics must be comma-separated.
+
+Topics must not contain spaces (e.g., "core,people,introductions" or "food,dinner").
+
+pronoun_kind: the type of pronoun (personal, reflexive, direct_object, indirect_object, demonstrative, possessive, etc.).
+
+⚠️ If a pronoun has multiple functions, each function must be listed in a separate row.
+
+Example: loro would appear once as personal and again as indirect_object, with all other values repeated as needed.
+
+person_number: if applicable, 1s, 2s, 3s, 1p, 2p, 3p; use n/a if not applicable.
+
+gender: masculine, feminine, or n/a.
+
+plurality: singular, plural, or n/a.
+
+notes: brief usage notes or restrictions.
+
+example_sentence_italian: a simple Italian sentence showing usage.
+
+example_sentence_english: the translation of that sentence.
+
+Example CSV:
+term_italian,is_base,base_word_italian,translation_english,topics,pronoun_kind,person_number,gender,plurality,notes,example_sentence_italian,example_sentence_english
+io,true,io,I,"core,people,introductions",personal,1s,n/a,singular,Used to refer to oneself,Io sono felice.,I am happy.
+tu,true,tu,you,"core,people,introductions",personal,2s,n/a,singular,Informal singular you,Tu sei gentile.,You are kind.
+Lei,true,Lei,you (formal),"core,people,politeness",personal,2s,n/a,singular,Formal singular you,Lei è molto gentile.,You (formal) are very kind.
+loro,true,loro,they,"core,people,introductions",personal,3p,n/a,plural,Used for third person plural,Loro vivono in Italia.,They live in Italy.
+loro,false,loro,them,"core,people,grammar",indirect_object,3p,n/a,plural,Functions as an indirect object pronoun,Ho dato loro un libro.,I gave them a book.
+mi,true,mi,me,"core,people,grammar",direct_object,1s,n/a,singular,Used as direct object,Mi vedi?,Do you see me?
+mi,false,mi,me,"core,people,grammar",indirect_object,1s,n/a,singular,Used as indirect object,Mi dai un libro?,Will you give me a book?
+
+Now generate this full CSV text for the pronoun [PRONOUN].
+
+Please output only the csv text, nothing else.
+
+### Verb
+I want you to generate a CSV text (don't use code to generate) that captures the main variations of an Italian verb in the exact structure below.
+
+The CSV must have the following columns in this order:
+
+term_italian,is_base,base_term_italian,translation_english,topics,mood,tense,person_number,gender,plurality,is_compound,notes,example_sentence_italian,example_sentence_english
+
+Column definitions:
+
+term_italian: the Italian word form (e.g. essere, sono, ero).
+
+is_base: true only for the infinitive/base form, otherwise false.
+
+base_term_italian: always the infinitive (lemma) of the verb.
+
+translation_english: the English meaning of the form (e.g. I am, he was).
+
+topics: a short list (in quotes) of 1–3 general topics related to this verb, separated by commas (e.g. "existence, identity"). All rows with the same base_term_italian must share the same topics list.
+
+mood: one of non-finite, indicative, subjunctive, conditional, imperative.
+
+tense: for example infinitive, gerund, participle, present, imperfect, passato_prossimo.
+
+person_number: use compact codes: "1s", "2s", "3s", "1p", "2p", "3p", or "n/a" if not applicable.
+- "1s" (1st singular = io)
+- "2s" (2nd singular = tu)
+- "3s" (3rd singular = lui/lei/Lei)
+- "1p" (noi)
+- "2p" (voi)
+- "3p" (loro)
+- "n/a" (for infinitive, participles, etc. with no person/number)
+
+gender: write out in full ("masculine", "feminine", or "n/a" if not applicable).
+
+plurality: either "singular", "plural", or "n/a" if not applicable.
+
+is_compound: "true" for compound tenses (e.g. sono stato), otherwise "false".
+
+notes: short clarifications (e.g. “also 'you (formal)'”, or “used with auxiliary 'essere' to form compound tenses”).
+
+example_sentence_italian: a short, natural Italian sentence using this exact word form.
+
+example_sentence_english: the English translation of the example sentence.
+
+Formatting rules:
+
+Return the CSV as plain text only, not as a code block.
+
+Each row should represent exactly one word form.
+
+Expand gender/number labels fully (masculine, feminine, singular, plural).
+
+Use consistent lowercase true/false in the boolean columns.
+
+For participles, list all four gender/number variants.
+
+For compound tenses, include separate rows for each gender/number form.
+
+Include notes about “you (formal)” on 3rd person singular forms only.
+
+Checklist of forms to include (baseline set):
+
+Non-finite: infinitive, gerund, participles (masculine/feminine × singular/plural).
+
+Indicative present: all 6 persons.
+
+Indicative imperfect: all 6 persons.
+
+Indicative passato prossimo: all persons × gender/number agreement.
+
+Example (full):
+
+term_italian,is_base,base_term_italian,translation_english,topics,mood,tense,person_number,gender,plurality,is_compound,notes,example_sentence_italian,example_sentence_english
+essere,true,essere,to be,"existence,identity",non-finite,infinitive,n/a,n/a,n/a,false,base lemma,"Voglio essere felice.","I want to be happy."
+essendo,false,essere,being,"existence,identity",non-finite,gerund,n/a,n/a,n/a,false,,"Sto essendo onesto.","I am being honest."
+state,false,essere,been (feminine plural),"existence,identity",non-finite,participle,n/a,feminine,plural,false,used with auxiliary 'essere' to form compound tenses,"Sono state fortunate.","They have been lucky."
+stata,false,essere,been (feminine singular),"existence,identity",non-finite,participle,n/a,feminine,singular,false,used with auxiliary 'essere' to form compound tenses,"È stata brava.","She has been good."
+stati,false,essere,been (masculine plural),"existence,identity",non-finite,participle,n/a,masculine,plural,false,used with auxiliary 'essere' to form compound tenses,"Sono stati gentili.","They have been kind."
+stato,false,essere,been (masculine singular),"existence,identity",non-finite,participle,n/a,masculine,singular,false,used with auxiliary 'essere' to form compound tenses,"È stato difficile.","It has been difficult."
+sono,false,essere,I am,"existence,identity",indicative,present,1s,n/a,singular,false,,"Io sono felice.","I am happy."
+sei,false,essere,you are,"existence,identity",indicative,present,2s,n/a,singular,false,,"Tu sei stanco.","You are tired."
+è,false,essere,he/she/it is,"existence,identity",indicative,present,3s,n/a,singular,false,also 'you are (formal)',"Lei è gentile.","She is kind."
+siamo,false,essere,we are,"existence,identity",indicative,present,1p,n/a,plural,false,,"Noi siamo amici.","We are friends."
+siete,false,essere,you (plural) are,"existence,identity",indicative,present,2p,n/a,plural,false,,"Voi siete pronti.","You (plural) are ready."
+sono,false,essere,they are,"existence,identity",indicative,present,3p,n/a,plural,false,,"Loro sono studenti.","They are students."
+ero,false,essere,I was,"existence,identity",indicative,imperfect,1s,n/a,singular,false,,"Io ero a casa.","I was at home."
+eri,false,essere,you were,"existence,identity",indicative,imperfect,2s,n/a,singular,false,,"Tu eri felice.","You were happy."
+era,false,essere,he/she/it was,"existence,identity",indicative,imperfect,3s,n/a,singular,false,also 'you were (formal)',"Lui era malato.","He was sick."
+eravamo,false,essere,we were,"existence,identity",indicative,imperfect,1p,n/a,plural,false,,"Noi eravamo giovani.","We were young."
+eravate,false,essere,you (plural) were,"existence,identity",indicative,imperfect,2p,n/a,plural,false,,"Voi eravate occupati.","You (plural) were busy."
+erano,false,essere,they were,"existence,identity",indicative,imperfect,3p,n/a,plural,false,,"Loro erano tristi.","They were sad."
+sono stata,false,essere,I have been / I was,"existence,identity",indicative,passato_prossimo,1s,feminine,singular,true,agreement by subject gender/number,"Sono stata fortunata.","I have been lucky."
+sono stato,false,essere,I have been / I was,"existence,identity",indicative,passato_prossimo,1s,masculine,singular,true,agreement by subject gender/number,"Sono stato felice.","I have been happy."
+sei stata,false,essere,you have been / you were,"existence,identity",indicative,passato_prossimo,2s,feminine,singular,true,agreement by subject gender/number,"Sei stata gentile.","You have been kind."
+sei stato,false,essere,you have been / you were,"existence,identity",indicative,passato_prossimo,2s,masculine,singular,true,agreement by subject gender/number,"Sei stato bravo.","You have been good."
+è stata,false,essere,she has been / she was,"existence,identity",indicative,passato_prossimo,3s,feminine,singular,true,agreement by subject gender/number; also 'you (formal)',"È stata una bella giornata.","It has been a nice day."
+è stato,false,essere,he has been / he was,"existence,identity",indicative,passato_prossimo,3s,masculine,singular,true,agreement by subject gender/number; also 'you (formal)',"È stato un piacere.","It has been a pleasure."
+siamo state,false,essere,we have been / we were,"existence,identity",indicative,passato_prossimo,1p,feminine,plural,true,agreement by subject gender/number,"Siamo state fortunate.","We have been lucky."
+siamo stati,false,essere,we have been / we were,"existence,identity",indicative,passato_prossimo,1p,masculine,plural,true,agreement by subject gender/number,"Siamo stati amici.","We have been friends."
+siete state,false,essere,you (plural) have been / you (plural) were,"existence,identity",indicative,passato_prossimo,2p,feminine,plural,true,agreement by subject gender/number,"Siete state gentili.","You (plural) have been kind."
+siete stati,false,essere,you (plural) have been / you (plural) were,"existence,identity",indicative,passato_prossimo,2p,masculine,plural,true,agreement by subject gender/number,"Siete stati forti.","You (plural) have been strong."
+sono state,false,essere,they have been / they were,"existence,identity",indicative,passato_prossimo,3p,feminine,plural,true,agreement by subject gender/number,"Sono state brave.","They have been good."
+sono stati,false,essere,they have been / they were,"existence,identity",indicative,passato_prossimo,3p,masculine,plural,true,agreement by subject gender/number,"Sono stati felici.","They have been happy."
+
+Now generate this full CSV text for the verb [VERB] meaning "[ENGLISH TRANSLATION]".
+
+Please output only the csv text, nothing else.
