@@ -1,3 +1,3 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-noi,True,noi,pronoun,we,"core,people,introductions",personal,1p,,plural,,,False,False,False,,,,,Used for first person plural,Noi siamo amici.,We are friends.
-noi,False,noi,pronoun,us,"core,people,emphasis",stressed,1p,,plural,,,False,False,False,,,,,Stressed pronoun,Vieni con noi.,Come with us.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+noi,True,noi,we,pronoun,we,"core,people",personal,1p,,plural,,,False,False,False,,,,,subject pronoun; tonic form also used after prepositions,noi andiamo al cinema stasera.,We are going to the cinema tonight.
+noi,False,noi,we,pronoun,us,"core,people",indirect_object,1p,,plural,,,False,False,False,,,,,tonic object pronoun used after prepositions; clitic form is ci,Questo regalo è per noi.,This gift is for us.

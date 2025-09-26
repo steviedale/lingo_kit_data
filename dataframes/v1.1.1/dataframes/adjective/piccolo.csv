@@ -1,2 +1,9 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-piccolo,True,piccolo,adjective,"small, little","description,people,size",qualitative,,masculine,singular,,,False,False,False,,,,,regular adjective; absolute superlative: piccolissimo,Un piccolo gatto miagolava.,A small cat was meowing.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+piccolo,True,piccolo,small,adjective,small (masculine),"core,description",,,masculine,singular,,,False,False,False,,,,,,Il mio appartamento è piccolo.,My apartment is small.
+piccola,False,piccolo,small,adjective,small (feminine),"core,description",,,feminine,singular,,,False,False,False,,,,,,La valigia è piccola.,The suitcase is small.
+piccoli,False,piccolo,small,adjective,small (masculine plural),"core,description",,,masculine,plural,,,False,False,False,,,,,,I bambini sono piccoli.,The children are small.
+piccole,False,piccolo,small,adjective,small (feminine plural),"core,description",,,feminine,plural,,,False,False,False,,,,,,Le scarpe sono piccole.,The shoes are small.
+piccolissimo,False,piccolo,small,adjective,very small (masculine),"core,description",,,masculine,singular,,,False,False,False,,,,,intensive superlative form (-issimo),È piccolissimo.,It is very small.
+piccolissima,False,piccolo,small,adjective,very small (feminine),"core,description",,,feminine,singular,,,False,False,False,,,,,,La stanza è piccolissima.,The room is very small.
+piccolissimi,False,piccolo,small,adjective,very small (masculine plural),"core,description",,,masculine,plural,,,False,False,False,,,,,,Hanno cuccioli piccolissimi.,They have very small puppies.
+piccolissime,False,piccolo,small,adjective,very small (feminine plural),"core,description",,,feminine,plural,,,False,False,False,,,,,,Le piante sono piccolissime.,The plants are very small.

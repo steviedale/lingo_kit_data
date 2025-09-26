@@ -1,6 +1,7 @@
 import os
 from openai import OpenAI
 import pandas as pd
+import yaml
 
 
 api_key_path = '/Users/stevie/repos/lingo_kit_data/dataframes/v1.1.1/generator/openaiapikey.txt'
@@ -8,8 +9,45 @@ api_key = open(api_key_path).read().strip()
 client = OpenAI(api_key=api_key)
 
 
+COST_PATH = '/Users/stevie/repos/lingo_kit_data/dataframes/v1.1.1/generator/cost.yaml'
+
+
+# costs (per million tokens)
+COST_TABLE = {
+    'gpt-5-mini': {
+        'input': 0.25,
+        'cached-input': 0.025,
+        'output': 2.0
+    },
+    'gpt-5': {
+        'input': 1.25,
+        'cached-input': 0.125,
+        'output': 10.0
+    }
+}
+
+
+def get_cost(response, model='gpt-5-mini'):
+    total_input_tokens = response.usage.input_tokens
+    cached_input_tokens = response.usage.input_tokens_details.cached_tokens
+    non_cached_input_tokens = total_input_tokens - cached_input_tokens
+    output_tokens = response.usage.output_tokens
+    non_cached_input_token_cost = non_cached_input_tokens * (COST_TABLE[model]['input'] / 1_000_000)
+    cached_input_token_cost = cached_input_tokens * (COST_TABLE[model]['cached-input'] / 1_000_000)
+    output_token_cost = output_tokens * (COST_TABLE[model]['output'] / 1_000_000)
+    total_cost = non_cached_input_token_cost + cached_input_token_cost + output_token_cost
+    return {
+        'non_cached_input_token_cost': non_cached_input_token_cost,
+        'cached_input_token_cost': cached_input_token_cost,
+        'output_token_cost': output_token_cost,
+        'total_cost': total_cost
+    }
+
+
 def generate_csv(italian_term, model='gpt-5-mini', reasoning_effort='low'):
+    current_cost = yaml.load(open(COST_PATH), Loader=yaml.FullLoader)['total_spent']
     prompt_file = f'/Users/stevie/repos/lingo_kit_data/dataframes/v1.1.1/generator/prompts/merged_prompt.txt'
+
     assert(os.path.exists(prompt_file)), f"Prompt file {prompt_file} does not exist"
     prompt = open(prompt_file).read()
 
@@ -29,6 +67,11 @@ def generate_csv(italian_term, model='gpt-5-mini', reasoning_effort='low'):
             "effort": reasoning_effort,
         },
     )
+
+    cost_info = get_cost(response, model=model)
+
+    current_cost += cost_info['total_cost']
+    yaml.dump({'total_spent': current_cost}, open(COST_PATH, 'w'))
 
     temp_path = 'temp.csv'
 
@@ -55,4 +98,5 @@ def generate_csv(italian_term, model='gpt-5-mini', reasoning_effort='low'):
     
     os.remove(temp_path)
 
-    return response, generate_files
+
+    return response, generate_files, cost_info

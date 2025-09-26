@@ -1,2 +1,2 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-tu,True,tu,pronoun,you,"core,people,introductions",personal,2s,,singular,,,False,False,False,,,,,Informal singular you,Tu sei gentile.,You are kind.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+tu,True,tu,you,pronoun,"you (singular, informal)","core,people",personal,2s,,singular,,,False,False,False,,,,,subject pronoun; informal singular; not formal Lei,Tu parli inglese?,Do you speak English?
