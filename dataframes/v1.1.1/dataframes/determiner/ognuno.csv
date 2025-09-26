@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+ognuno,True,ognuno,determiner,"each one, everyone","distribution,individuals",distributive,,masculine,singular,,,False,False,False,,,,,Used often as pronoun,Ognuno deve fare la sua parte.,Everyone must do their part.
+ognuna,False,ognuno,determiner,"each one, everyone","distribution,individuals",distributive,,feminine,singular,,,False,False,False,,,,,Used often as pronoun,Ognuna di loro è pronta.,Each one of them is ready.

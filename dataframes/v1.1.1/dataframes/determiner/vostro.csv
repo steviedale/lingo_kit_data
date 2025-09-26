@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+vostro,True,vostro,determiner,your (plural),"core,family",possessive,,masculine,singular,,,False,False,False,,,,,Used for addressing multiple people.,Questo è il vostro tavolo.,This is your table.
+vostra,False,vostro,determiner,your (plural),"core,family",possessive,,feminine,singular,,,False,False,False,,,,,Used for addressing multiple people.,Questa è la vostra stanza.,This is your room.
+vostri,False,vostro,determiner,your (plural),"core,family",possessive,,masculine,plural,,,False,False,False,,,,,Used for addressing multiple people.,Questi sono i vostri vestiti.,These are your clothes.
+vostre,False,vostro,determiner,your (plural),"core,family",possessive,,feminine,plural,,,False,False,False,,,,,Used for addressing multiple people.,Queste sono le vostre amiche.,These are your friends.

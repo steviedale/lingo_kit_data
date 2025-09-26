@@ -1,0 +1,8 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+in,True,in,preposition,in,"core,location",simple,,,,,,False,False,False,,,,,Used for places and means,Abito in Italia,I live in Italy
+nel,False,in,preposition,in the,"core,location",articulated,,,,,,False,False,False,,,,,"Combination of ""in"" + ""il""",Sono nel giardino,I am in the garden
+nello,False,in,preposition,in the,"core,location",articulated,,,,,,False,False,False,,,,,"Combination of ""in"" + ""lo""",Entro nello studio,I enter in the studio
+nella,False,in,preposition,in the,"core,location",articulated,,,,,,False,False,False,,,,,"Combination of ""in"" + ""la""",Abito nella città,I live in the city
+nei,False,in,preposition,in the,"core,location",articulated,,,,,,False,False,False,,,,,"Combination of ""in"" + ""i""",I giochi sono nei cassetti,The toys are in the drawers
+negli,False,in,preposition,in the,"core,location",articulated,,,,,,False,False,False,,,,,"Combination of ""in"" + ""gli""",Abito negli appartamenti,I live in the apartments
+nelle,False,in,preposition,in the,"core,location",articulated,,,,,,False,False,False,,,,,"Combination of ""in"" + ""le""",Ci sono libri nelle borse,There are books in the bags

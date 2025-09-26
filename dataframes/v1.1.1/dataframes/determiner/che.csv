@@ -1,0 +1,2 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+che,True,che,determiner,which,"core,questions",distributive,,,,,,False,False,False,,,,,Used in interrogative and relative clauses,Che libro leggi?,Which book are you reading?

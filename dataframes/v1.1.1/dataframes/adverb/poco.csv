@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+poco,True,poco,adverb,"little, not much","quantity,degree",,,,,,,False,False,False,,,,,irregular comparative 'meno' treated separately; absolute superlative with -issimo,Dormo poco durante la settimana.,I sleep little during the week.
+pochissimo,False,poco,adverb,very little,"quantity,degree",,,,,,,False,True,False,,,,,absolute superlative,Ha studiato pochissimo per l'esame.,He studied very little for the exam.
+molto poco,False,poco,adverb,very little,"quantity,degree",,,,,,,False,True,False,,,,,intensifier + base,Abbiamo speso molto poco per il viaggio.,We spent very little on the trip.

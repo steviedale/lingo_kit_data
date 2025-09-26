@@ -1,0 +1,8 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+su,True,su,preposition,on,"core,location",simple,,,,,,False,False,False,,,,,Indicates position or topic,Il libro è sul tavolo,The book is on the table
+sul,False,su,preposition,on the,"core,location",articulated,,,,,,False,False,False,,,,,"Combination of ""su"" + ""il""",Il gatto è sul divano,The cat is on the sofa
+sullo,False,su,preposition,on the,"core,location",articulated,,,,,,False,False,False,,,,,"Combination of ""su"" + ""lo""",Il libro è sullo scaffale,The book is on the shelf
+sulla,False,su,preposition,on the,"core,location",articulated,,,,,,False,False,False,,,,,"Combination of ""su"" + ""la""",La penna è sulla sedia,The pen is on the chair
+sui,False,su,preposition,on the,"core,location",articulated,,,,,,False,False,False,,,,,"Combination of ""su"" + ""i""",Ci sono fiori sui tavoli,There are flowers on the tables
+sugli,False,su,preposition,on the,"core,location",articulated,,,,,,False,False,False,,,,,"Combination of ""su"" + ""gli""",I bicchieri sono sugli scaffali,The glasses are on the shelves
+sulle,False,su,preposition,on the,"core,location",articulated,,,,,,False,False,False,,,,,"Combination of ""su"" + ""le""",Le chiavi sono sulle sedie,The keys are on the chairs

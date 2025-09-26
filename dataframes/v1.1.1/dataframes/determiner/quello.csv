@@ -1,0 +1,8 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+quel,False,quello,determiner,that,"core,objects",demonstrative,,masculine,singular,,,False,False,False,,,,,Used before most masculine singular nouns,Quel tavolo è rotondo.,That table is round.
+quello,True,quello,determiner,that,"core,objects",demonstrative,,masculine,singular,,,False,False,False,,,,,"Used before masculine singular nouns starting with s+consonant, z, ps, gn",Quello zaino è pesante.,That backpack is heavy.
+quelli,False,quello,determiner,those,"core,objects",demonstrative,,masculine,plural,,,False,False,False,,,,,Used as a pronoun for masculine plural; not used before nouns,Quelli sono belli.,Those are nice.
+quei,False,quello,determiner,those,"core,objects",demonstrative,,masculine,plural,,,False,False,False,,,,,Used before most masculine plural nouns,Quei fiori sono belli.,Those flowers are beautiful.
+quegli,False,quello,determiner,those,"core,objects",demonstrative,,masculine,plural,,,False,False,False,,,,,"Used before masculine plural nouns starting with vowels, s+consonant, z, ps, gn",Quegli studenti sono intelligenti.,Those students are intelligent.
+quella,False,quello,determiner,that,"core,objects",demonstrative,,feminine,singular,,,False,False,False,,,,,Used before feminine singular nouns,Quella porta è chiusa.,That door is closed.
+quelle,False,quello,determiner,those,"core,objects",demonstrative,,feminine,plural,,,False,False,False,,,,,Used before feminine plural nouns,Quelle ragazze sono simpatiche.,Those girls are nice.

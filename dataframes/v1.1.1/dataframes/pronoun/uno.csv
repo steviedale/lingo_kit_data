@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+uno,True,uno,pronoun,one (masculine),"core,quantifier",indefinite,3s,masculine,singular,,,False,False,False,,,,,used as pronoun often with 'ne' to mean 'one of them',Ne voglio uno.,I want one (of them).
+una,False,uno,pronoun,one (feminine),"core,quantifier",indefinite,3s,feminine,singular,,,False,False,False,,,,,used as feminine pronoun counterpart; often used with 'ne',Ne prendo una.,I'll take one.

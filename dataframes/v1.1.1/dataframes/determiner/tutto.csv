@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+tutto,True,tutto,determiner,"all, everything","quantities,totality",distributive,,masculine,singular,,,False,False,False,,,,,Can function also as pronoun,Tutto il mondo lo sa.,The whole world knows it.
+tutta,False,tutto,determiner,"all, everything","quantities,totality",distributive,,feminine,singular,,,False,False,False,,,,,,Ho visitato tutta la città.,I visited the whole city.
+tutti,False,tutto,determiner,all,"quantities,totality",distributive,,masculine,plural,,,False,False,False,,,,,,Tutti i ragazzi sono pronti.,All the boys are ready.
+tutte,False,tutto,determiner,all,"quantities,totality",distributive,,feminine,plural,,,False,False,False,,,,,,Tutte le ragazze cantano.,All the girls sing.

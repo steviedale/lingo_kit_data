@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+suo,True,suo,determiner,his/her/your (formal),"core,people",possessive,,masculine,singular,,,False,False,False,,,,,"Can mean his, her, or your (formal).",Questo è il suo cappotto.,This is his/her/your coat.
+sua,False,suo,determiner,his/her/your (formal),"core,people",possessive,,feminine,singular,,,False,False,False,,,,,"Can mean his, her, or your (formal).",Questa è la sua macchina.,This is his/her/your car.
+suoi,False,suo,determiner,his/her/your (formal),"core,people",possessive,,masculine,plural,,,False,False,False,,,,,"Can mean his, her, or your (formal).",Questi sono i suoi cani.,These are his/her/your dogs.
+sue,False,suo,determiner,his/her/your (formal),"core,people",possessive,,feminine,plural,,,False,False,False,,,,,"Can mean his, her, or your (formal).",Queste sono le sue idee.,These are his/her/your ideas.

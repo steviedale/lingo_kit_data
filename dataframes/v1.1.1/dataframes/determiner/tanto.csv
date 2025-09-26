@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+tanto,True,tanto,determiner,"so much, so many","quantities,intensity",quantifier,,masculine,singular,,,False,False,False,,,,,Base form,Ho tanto lavoro.,I have so much work.
+tanta,False,tanto,determiner,"so much, so many","quantities,intensity",quantifier,,feminine,singular,,,False,False,False,,,,,,C'è tanta gente.,There are so many people.
+tanti,False,tanto,determiner,so many,"quantities,intensity",quantifier,,masculine,plural,,,False,False,False,,,,,,Tanti amici sono venuti.,So many friends came.
+tante,False,tanto,determiner,so many,"quantities,intensity",quantifier,,feminine,plural,,,False,False,False,,,,,,Ho tante idee.,I have so many ideas.

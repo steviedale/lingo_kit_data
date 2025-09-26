@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+uno,True,uno,determiner,one (masculine),"core,quantifier",quantifier,,masculine,singular,,,False,False,False,,,,,used as numeral determiner; same forms as the indefinite article,Uno studente è arrivato.,One student arrived.
+un,False,uno,determiner,one (masculine),"core,quantifier",quantifier,,masculine,singular,,,False,False,False,,,,,used before vowels and most consonants,Ho letto un articolo.,I read one article.
+una,False,uno,determiner,one (feminine),"core,quantifier",quantifier,,feminine,singular,,,False,False,False,,,,,feminine singular form used as numeral determiner,Una persona ha chiamato.,One person called.
+un',False,uno,determiner,one (feminine),"core,quantifier",quantifier,,feminine,singular,,,False,False,False,,,,,elision of una before a vowel,Un'ora fa è successo.,It happened one hour ago.

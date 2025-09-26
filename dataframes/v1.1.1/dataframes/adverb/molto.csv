@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+molto,True,molto,adverb,"very, a lot","degree,intensity",,,,,,,False,False,False,,,,,degree adverb; comparative 'più' treated separately; absolute superlative with -issimo,Quel film mi è piaciuto molto.,I liked that film a lot.
+moltissimo,False,molto,adverb,very much,"degree,intensity",,,,,,,False,True,False,,,,,absolute superlative,Mi piace moltissimo questa canzone.,I like this song very much.

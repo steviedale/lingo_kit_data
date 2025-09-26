@@ -1,0 +1,263 @@
+You are generating plain-text CSV (not a code block) in a single unified schema for an Italian word.
+If the word can belong to multiple parts of speech, produce all applicable POS families (grouped by lemma) in one CSV output, following the rules below.
+
+⚠️ Critical formatting rule: The output must be a valid CSV.
+
+Every row must have exactly the same number of fields as the header.
+
+If any cell value contains a comma, double quote, or line break, it must be wrapped in double quotes ("…") according to standard CSV rules.
+
+Escape internal quotes by doubling them ("").
+
+Do not add or remove columns.
+
+Do not insert extra commas.
+
+Return only the CSV text, nothing else.
+
+1) Output format (exact header and order)
+
+Output only CSV text using this header exactly:
+
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+
+
+Every row is one concrete surface form (e.g., i gatti, benissimo, che).
+
+If a field is not applicable, write n/a (for booleans, write false).
+
+Use lowercase true/false consistently.
+
+Provide natural, everyday example sentences in Italian + English for each row’s exact form.
+
+Use the same topics string for all rows of the same base lemma.
+
+If any value contains commas, wrap it in double quotes to preserve CSV integrity.
+
+2) Field definitions & allowed values
+
+term_italian: concrete word/phrase form for the row.
+
+is_base: true only for the canonical/base form of that POS family; otherwise false.
+
+base_lemma_italian: canonical lemma for that POS family (e.g., nouns/adj = lemma; verbs = infinitive; adverbs = base adverb; pronouns/determiners/articles/prepositions/conjunctions = simplest base form).
+
+part_of_speech: one of → adjective, adverb, article, conjunction, determiner, noun, preposition, pronoun, verb.
+
+translation_english: concise meaning for this form (e.g., “some cats”, “I am”, “very well”).
+⚠️ Do not use abbreviations in English translations. Always write them out fully (e.g., use “you (plural)”, not “you (pl)”; “you (formal)”, not “you (frm)”).
+When multiple English subjects share the same Italian form, list them separately with slashes (e.g., write “he takes/she takes/you (formal) take” instead of “he/she/you (formal) take”).
+Always explicitly include “you (formal)” when the Italian form also corresponds to the formal second person.
+For adjectives, always add the gender/number label in parentheses directly in the English translation:
+    singular masculine → (masculine)
+    singular feminine → (feminine)
+    plural masculine → (masculine plural)
+    plural feminine → (feminine plural)
+
+topics: quoted, comma-separated tags (1–3), no spaces (e.g., "core,people" or "manner,quality").
+
+subtype (secondary type; else n/a):
+
+article → definite | indefinite | partitive
+
+preposition → simple | articulated
+
+determiner → demonstrative | possessive | quantifier | distributive
+
+conjunction → coordinating | subordinating | correlative
+
+pronoun → pronoun kind (personal, reflexive, direct_object, indirect_object, demonstrative, possessive, …)
+
+others → n/a
+
+person_number: 1s,2s,3s,1p,2p,3p,n/a
+gender: masculine, feminine, n/a
+plurality: singular, plural, n/a
+mood,tense: only for verbs; otherwise n/a
+is_comparative,is_superlative: only for adverbs (else false)
+is_compound: true only for verbs’ compound forms (else false)
+article_type,article_italian,added_particle_italian,preposition: used for noun rows (else n/a)
+notes: short clarifications (e.g., “irregular plural”, “also ‘you (formal)’”, “contraction of con + il”).
+example_sentence_italian / example_sentence_english: short and natural; must match term_italian.
+
+3) POS-specific generation rules
+
+A) Adjective
+
+Include all four forms if variable: masculine/feminine × singular/plural.
+
+For invariable adjectives: include singular & plural with gender = n/a where appropriate.
+
+Base row is masculine singular form (is_base=true).
+
+Keep one topics list across all forms for the lemma.
+
+B) Adverb
+
+Include base adverb form (is_base=true).
+
+Comparative (if exists) → set is_comparative=true.
+
+Superlative/intensified variants (e.g., -issimo, molto X) → one row each with is_superlative=true.
+
+Group only visible morphological/intensifier variants of the same base.
+
+Irregulars with different roots (e.g., bene → meglio, male → peggio) become their own base lemmas.
+
+C) Article
+
+Include all forms with subtype = definite | indefinite | partitive.
+
+Fill gender/plurality as appropriate.
+
+Use notes for phonetic/orthographic contexts (e.g., before vowels).
+
+D) Conjunction
+
+subtype = coordinating | subordinating | correlative.
+
+Wrap values with commas in quotes.
+
+E) Determiner (excluding articles)
+
+subtype = demonstrative | possessive | quantifier | distributive.
+
+Fill gender/plurality appropriately (questo/questa/questi/queste as separate rows).
+
+F) Noun
+Always include at least:
+
+Bare lemma (singular, no article).
+
+Indefinite singular (un/uno/una/un’).
+
+Definite singular (il/lo/la/l’).
+
+Bare plural.
+
+Definite plural (i/gli/le).
+
+Indefinite plural / partitive (dei/degli/delle).
+
+All articulated prepositions (di, a, da, in, su, con).
+
+Fill:
+
+article_type = articulated_preposition
+
+article_italian = contracted article piece
+
+added_particle_italian = exact added piece (e.g., del, alla)
+
+preposition = simple preposition (di/a/da/in/su/con).
+
+Use notes for irregular plurals, invariable forms, mass nouns, contractions, etc.
+
+G) Preposition
+
+subtype = simple or articulated.
+
+For articulated forms, generate contraction rows (match gender/number).
+
+H) Pronoun
+
+subtype = pronoun kind.
+
+If a pronoun has multiple functions, create separate rows per function.
+
+Person mapping: 1s=io, 2s=tu, 3s=lui/lei/Lei, 1p=noi, 2p=voi, 3p=loro.
+
+Handle Lei as 2s formal, voi as 2p plural.
+
+Set gender/number only if encoded in the form.
+
+I) Verb
+Base row: infinitive (is_base=true, mood=non-finite, tense=infinitive).
+
+Also include:
+
+Gerund and participles (all four participle gender/number variants).
+
+Indicative present: all 6 persons.
+
+Indicative imperfect: all 6 persons.
+
+Indicative passato prossimo: all person × gender/number rows, is_compound=true.
+
+Note “used with auxiliary X” if relevant.
+
+For 3rd person singular forms that serve as “you (formal)”, note that too.
+
+4) Disambiguation & coverage
+
+If a word belongs to multiple POS, produce separate POS families (sharing the same base_lemma_italian if truly the same).
+
+If no forms exist for a rule (e.g., invariable adjective), include necessary rows with n/a where appropriate and add clarifications in notes.
+
+Keep examples short, natural, and matching the exact term_italian.
+
+5) Examples
+
+If the word was "prendo" the output would be:
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+prendere,true,prendere,verb,to take,"core,verb",,,,,non-finite,infinitive,false,false,false,,,,,regular -ere verb; past participle irregular 'preso',voglio prendere questo treno.,I want to take this train.
+prendendo,false,prendere,verb,taking,"core,verb",,,,,gerund,n/a,false,false,false,,,,,gerund form,sto prendendo una decisione.,I am making a decision.
+preso,false,prendere,verb,taken,"core,verb",,,masculine,singular,participle,past,false,false,false,,,,,"past participle, irregular root, masculine singular",l'ho preso.,I took it.
+presa,false,prendere,verb,taken,"core,verb",,,feminine,singular,participle,past,false,false,false,,,,,"past participle, irregular root, feminine singular",l'ho presa.,I took it.
+presi,false,prendere,verb,taken,"core,verb",,,masculine,plural,participle,past,false,false,false,,,,,"past participle, irregular root, masculine plural",li ho presi.,I took them.
+prese,false,prendere,verb,taken,"core,verb",,,feminine,plural,participle,past,false,false,false,,,,,"past participle, irregular root, feminine plural",le ho prese.,I took them.
+prendo,false,prendere,verb,I take,"core,verb",,1s,,singular,indicative,present,false,false,false,,,,,,io prendo il treno.,I take the train.
+prendi,false,prendere,verb,you take,"core,verb",,2s,,singular,indicative,present,false,false,false,,,,,,tu prendi il mio libro.,You take my book.
+prende,false,prendere,verb,he takes/she takes/you (formal) take,"core,verb",,3s,,singular,indicative,present,false,false,false,,,,,also used as formal 'Lei',lui prende il pane.,He takes the bread.
+prendiamo,false,prendere,verb,we take,"core,verb",,1p,,plural,indicative,present,false,false,false,,,,,,noi prendiamo un caffè.,We take a coffee.
+prendete,false,prendere,verb,you (plural) take,"core,verb",,2p,,plural,indicative,present,false,false,false,,,,,,voi prendete appunti.,You take notes.
+prendono,false,prendere,verb,they take,"core,verb",,3p,,plural,indicative,present,false,false,false,,,,,,loro prendono il treno.,They take the train.
+prendevo,false,prendere,verb,I was taking,"core,verb",,1s,,singular,indicative,imperfect,false,false,false,,,,,,io prendevo sempre il bus.,I was taking the bus.
+prendevi,false,prendere,verb,you were taking,"core,verb",,2s,,singular,indicative,imperfect,false,false,false,,,,,,tu prendevi il mio posto.,You were taking my seat.
+prendeva,false,prendere,verb,he was taking/she was taking/you (formal) were taking,"core,verb",,3s,,singular,indicative,imperfect,false,false,false,,,,,also used as formal 'Lei',lei prendeva appunti.,She was taking notes.
+prendevamo,false,prendere,verb,we were taking,"core,verb",,1p,,plural,indicative,imperfect,false,false,false,,,,,,noi prendevamo il cibo.,We were taking the food.
+prendevate,false,prendere,verb,you (plural) were taking,"core,verb",,2p,,plural,indicative,imperfect,false,false,false,,,,,,voi prendevate sempre ritardo.,You were always late.
+prendevano,false,prendere,verb,they were taking,"core,verb",,3p,,plural,indicative,imperfect,false,false,false,,,,,,loro prendevano le scale.,They were taking the stairs.
+ho preso,false,prendere,verb,I have taken,"core,verb",,1s,,singular,indicative,passato prossimo,false,false,true,,,,,used with auxiliary avere; past participle 'preso',ho preso il libro.,I have taken the book.
+hai preso,false,prendere,verb,you have taken,"core,verb",,2s,,singular,indicative,passato prossimo,false,false,true,,,,,used with auxiliary avere; past participle 'preso',hai preso il mio numero.,You have taken my number.
+ha preso,false,prendere,verb,he has taken/she has taken/you (formal) have taken,"core,verb",,3s,,singular,indicative,passato prossimo,false,false,true,,,,,used with auxiliary avere; also used as formal 'Lei',ha preso il treno.,He has taken the train.
+abbiamo preso,false,prendere,verb,we have taken,"core,verb",,1p,,plural,indicative,passato prossimo,false,false,true,,,,,used with auxiliary avere; past participle 'preso',abbiamo preso il treno.,We have taken the train.
+avete preso,false,prendere,verb,you (plural) have taken,"core,verb",,2p,,plural,indicative,passato prossimo,false,false,true,,,,,used with auxiliary avere; past participle 'preso',avete preso i biglietti.,You have taken the tickets.
+hanno preso,false,prendere,verb,they have taken,"core,verb",,3p,,plural,indicative,passato prossimo,false,false,true,,,,,used with auxiliary avere; past participle 'preso',hanno preso i biglietti.,They have taken the tickets.
+
+If the word was "ristorante" the output would be:
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+ristorante,true,ristorante,noun,restaurant,"travel,dining",,,masculine,singular,,,false,false,false,n/a,,,,base lemma,Cerco ristorante economico.,I'm looking for an inexpensive restaurant.
+un ristorante,false,ristorante,noun,a restaurant,"travel,dining",,,masculine,singular,,,false,false,false,indefinite,un,un,n/a,,Conosco un ristorante buono.,I know a good restaurant.
+il ristorante,false,ristorante,noun,the restaurant,"travel,dining",,,masculine,singular,,,false,false,false,definite,il,il,n/a,,Il ristorante apre alle sette.,The restaurant opens at seven.
+ristoranti,false,ristorante,noun,restaurants,"travel,dining",,,masculine,plural,,,false,false,false,n/a,,,,plural form,Ristoranti nuovi aprono spesso.,New restaurants open often.
+i ristoranti,false,ristorante,noun,the restaurants,"travel,dining",,,masculine,plural,,,false,false,false,definite,i,i,n/a,,I ristoranti sono pieni.,The restaurants are full.
+dei ristoranti,false,ristorante,noun,some restaurants,"travel,dining",,,masculine,plural,,,false,false,false,indefinite,i,dei,di,partitive plural form,Provo dei ristoranti locali.,I try some local restaurants.
+del ristorante,false,ristorante,noun,of the restaurant,"travel,dining",,,masculine,singular,,,false,false,false,articulated_preposition,il,del,di,contraction of di + il,L'orario del ristorante è online.,The restaurant's hours are online.
+al ristorante,false,ristorante,noun,to the restaurant,"travel,dining",,,masculine,singular,,,false,false,false,articulated_preposition,il,al,a,contraction of a + il,Andiamo al ristorante.,We're going to the restaurant.
+ai ristoranti,false,ristorante,noun,to the restaurants,"travel,dining",,,masculine,plural,,,false,false,false,articulated_preposition,i,ai,a,contraction of a + i,Prenoto ai ristoranti del centro.,I book at the downtown restaurants.
+dal ristorante,false,ristorante,noun,from the restaurant,"travel,dining",,,masculine,singular,,,false,false,false,articulated_preposition,il,dal,da,contraction of da + il,Esco dal ristorante.,I leave the restaurant.
+dai ristoranti,false,ristorante,noun,from the restaurants,"travel,dining",,,masculine,plural,,,false,false,false,articulated_preposition,i,dai,da,contraction of da + i,Profumi dai ristoranti vicini.,Scents from the nearby restaurants.
+nel ristorante,false,ristorante,noun,in the restaurant,"travel,dining",,,masculine,singular,,,false,false,false,articulated_preposition,il,nel,in,contraction of in + il,Lavoro nel ristorante.,I work in the restaurant.
+nei ristoranti,false,ristorante,noun,in the restaurants,"travel,dining",,,masculine,plural,,,false,false,false,articulated_preposition,i,nei,in,contraction of in + i,Non si fuma nei ristoranti.,You can't smoke in restaurants.
+sul ristorante,false,ristorante,noun,about the restaurant,"travel,dining",,,masculine,singular,,,false,false,false,articulated_preposition,il,sul,su,contraction of su + il,Leggo una recensione sul ristorante.,I read a review about the restaurant.
+sui ristoranti,false,ristorante,noun,about the restaurants,"travel,dining",,,masculine,plural,,,false,false,false,articulated_preposition,i,sui,su,contraction of su + i,Ho dati sui ristoranti locali.,I have data about local restaurants.
+col ristorante,false,ristorante,noun,with the restaurant,"travel,dining",,,masculine,singular,,,false,false,false,articulated_preposition,il,col,con,contraction of con + il,Collaboro col ristorante.,I collaborate with the restaurant.
+coi ristoranti,false,ristorante,noun,with the restaurants,"travel,dining",,,masculine,plural,,,false,false,false,articulated_preposition,i,coi,con,contraction of con + i,Lavoriamo coi ristoranti partner.,We work with partner restaurants.
+
+
+6) Now generate
+
+Using all the rules above, generate the full CSV for the Italian word.
+
+⚠️ CSV validity requirement (repeat):
+
+Always include the header.
+
+Each row must have the same number of fields as the header.
+
+If a value contains a comma, line break, or double quote, wrap it in double quotes ("…") and escape any internal quotes as "".
+
+Return only the CSV text, nothing else.
+
+If a certain part of speech version of a word is not commonly used, do not include it (e.g., subito as adjective).

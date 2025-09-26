@@ -1,0 +1,2 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+peggio,True,peggio,adverb,worse,"manner,comparison",,,,,,,True,False,False,,,,,irregular comparative of male; treated as independent base,La situazione va peggio di ieri.,The situation is worse than yesterday.

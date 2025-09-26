@@ -31,7 +31,7 @@ VOICES = {
 def ssml_single_word(word, rate, pitch, pause_ms, slash_pause_ms):
     # Add a period to encourage natural sentence prosody
     safe = word.strip()
-    safe = safe.replace("/", f'<break time="{slash_pause_ms}ms"/>')
+    safe = safe.replace("/", f'.<break time="{slash_pause_ms}ms"/>')
     if safe[-1] not in ".!?":
         safe += "."
     speach_ssml = f"""
@@ -43,6 +43,7 @@ def ssml_single_word(word, rate, pitch, pause_ms, slash_pause_ms):
             <break time="{pause_ms}ms"/>
         </speak>
     """.strip()
+    print(speach_ssml)
     return speach_ssml
 
 
@@ -112,7 +113,7 @@ class TextToSpeech:
     def __del__(self):
         self.save()
 
-    def synthesize(self, text, voice_name, speaking_rate, verbose=False):
+    def synthesize(self, text, voice_name, speaking_rate, verbose=False, force_generate=False):
         # pitch is no longer supported for configuration
         pitch = 0
 
@@ -123,10 +124,9 @@ class TextToSpeech:
 
         # check if text already exists
         match_df = self.df[self.df['hash'] == hash_key]
-        if len(match_df) > 0:
+        if not force_generate and len(match_df) > 0:
             if verbose:
                 print(f"found {hash_key} in dataframe")
-            match_df = self.df[self.df['hash'] == hash_key]
             row = match_df.iloc[0]
             assert(len(match_df) == 1)
             assert(row['text'] == text)
@@ -137,7 +137,7 @@ class TextToSpeech:
             assert(row['audio_file'] == audio_file)
 
         else:
-            if os.path.exists(audio_file):
+            if not force_generate and os.path.exists(audio_file):
                 print(f"WARNING: file {audio_file} exists but not in dataframe, adding to dataframe")
                 # since we don't know the synthesis time, just make it -1
                 synthesis_time = -1
@@ -161,10 +161,15 @@ class TextToSpeech:
             duration_ms = get_duration_ms(audio_file)
 
             # store in dataframe
-            self.df.loc[self.df.shape[0]] = [
-                hash_key, text, audio_file, synthesis_time, voice_name, speaking_rate, pitch, duration_ms
-            ]
-            row = self.df.iloc[-1]
+            if len(match_df) == 0:
+                self.df.loc[self.df.shape[0]] = [
+                    hash_key, text, audio_file, synthesis_time, voice_name, speaking_rate, pitch, duration_ms
+                ]
+                row = self.df.iloc[-1]
+            else:
+                assert(force_generate)
+                assert(len(match_df) == 1)
+                row = match_df.iloc[0]
         data = dict(row)
         # convert np.float to float
         # convert np.int to int

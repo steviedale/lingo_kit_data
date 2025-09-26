@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+lui,True,lui,pronoun,he,"core,people,introductions",personal,3s,masculine,singular,,,False,False,False,,,,,Used for third person masculine singular,Lui è alto.,He is tall.
+lui,False,lui,pronoun,him,"core,people,emphasis",stressed,3s,masculine,singular,,,False,False,False,,,,,Stressed pronoun,Vado con lui.,I go with him.

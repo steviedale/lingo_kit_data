@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+quanto,True,quanto,determiner,how much (masculine),"shopping,quantities",quantifier,,masculine,singular,,,False,False,False,,,,,Used to ask or state quantity,Quanto pane vuoi?,How much bread do you want?
+quanta,False,quanto,determiner,how much (feminine),"shopping,quantities",quantifier,,feminine,singular,,,False,False,False,,,,,"Feminine singular form of ""quanto""",Quanta acqua bevi?,How much water do you drink?
+quanti,False,quanto,determiner,how many (masculine plural),"shopping,quantities",quantifier,,masculine,plural,,,False,False,False,,,,,"Masculine plural form of ""quanto""",Quanti amici hai?,How many friends do you have?
+quante,False,quanto,determiner,how many (feminine plural),"shopping,quantities",quantifier,,feminine,plural,,,False,False,False,,,,,"Feminine plural form of ""quanto""",Quante case vedi?,How many houses do you see?

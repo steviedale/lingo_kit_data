@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+sedia,True,sedia,noun,chair,"furniture,household",countable,,feminine,singular,,,False,False,False,definite,la,,,feminine common noun,La sedia è comoda.,The chair is comfortable.
+sedie,False,sedia,noun,chairs,"furniture,household",countable,,feminine,plural,,,False,False,False,definite,le,,,plural of sedia,Le sedie sono comode.,The chairs are comfortable.

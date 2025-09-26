@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+fare,True,fare,verb,to do/to make,"actions,creation",,,,,non-finite,infinitive,False,False,False,,,,,base lemma,Voglio fare sport.,I want to do sport.
+facendo,False,fare,verb,doing/making,"actions,creation",,,,,non-finite,gerund,False,False,False,,,,,,Sto facendo colazione.,I am having breakfast.
+fatte,False,fare,verb,done/made (feminine plural),"actions,creation",,,feminine,plural,non-finite,participle,False,False,False,,,,,used with auxiliary 'avere' to form compound tenses,Le ho fatte.,I have done them.
+fatta,False,fare,verb,done/made (feminine singular),"actions,creation",,,feminine,singular,non-finite,participle,False,False,False,,,,,used with auxiliary 'avere' to form compound tenses,L'ho fatta.,I did it.
+fatti,False,fare,verb,done/made (masculine plural),"actions,creation",,,masculine,plural,non-finite,participle,False,False,False,,,,,used with auxiliary 'avere' to form compound tenses,Li ho fatti.,I have done them.
+fatto,False,fare,verb,done/made (masculine singular),"actions,creation",,,masculine,singular,non-finite,participle,False,False,False,,,,,used with auxiliary 'avere' to form compound tenses,Ho fatto tutto.,I did everything.
+faccio,False,fare,verb,I do/I make,"actions,creation",,1s,,singular,indicative,present,False,False,False,,,,,,Faccio una foto.,I take a photo.
+fai,False,fare,verb,you do/you make,"actions,creation",,2s,,singular,indicative,present,False,False,False,,,,,,Fai bene.,You do well.
+fa,False,fare,verb,he/she/it does/makes,"actions,creation",,3s,,singular,indicative,present,False,False,False,,,,,also 'you (formal)',Fa caldo.,It is hot.
+facciamo,False,fare,verb,we do/we make,"actions,creation",,1p,,plural,indicative,present,False,False,False,,,,,,Facciamo una torta.,We make a cake.
+fate,False,fare,verb,you (plural) do/you (plural) make,"actions,creation",,2p,,plural,indicative,present,False,False,False,,,,,,Fate attenzione.,Pay attention.
+fanno,False,fare,verb,they do/they make,"actions,creation",,3p,,plural,indicative,present,False,False,False,,,,,,Fanno sport.,They do sports.
+facevo,False,fare,verb,I used to do/I was doing,"actions,creation",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io facevo sport.,I used to do sports.
+facevi,False,fare,verb,you used to do/you were doing,"actions,creation",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu facevi pratica.,You used to practice.
+faceva,False,fare,verb,he/she/it used to do/was doing,"actions,creation",,3s,,singular,indicative,imperfect,False,False,False,,,,,also 'you (formal)',Faceva errori.,He used to make mistakes.
+facevamo,False,fare,verb,we used to do/we were doing,"actions,creation",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Facevamo sport.,We used to do sports.
+facevate,False,fare,verb,you (plural) used to do/were doing,"actions,creation",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Facevate i compiti.,You (plural) used to do homework.
+facevano,False,fare,verb,they used to do/were doing,"actions,creation",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Facevano rumore.,They were making noise.
+ho fatto,False,fare,verb,I did / I have done,"actions,creation",,1s,,singular,indicative,passato_prossimo,False,False,True,,,,,uses auxiliary 'avere'; no agreement with subject,Ho fatto tardi.,I was late.
+hai fatto,False,fare,verb,you did / you have done,"actions,creation",,2s,,singular,indicative,passato_prossimo,False,False,True,,,,,uses auxiliary 'avere'; no agreement with subject,Hai fatto bene.,You did well.
+ha fatto,False,fare,verb,he/she/it did / he/she/it has done,"actions,creation",,3s,,singular,indicative,passato_prossimo,False,False,True,,,,,uses auxiliary 'avere'; no agreement with subject; also 'you (formal)',Ha fatto molto.,He has done a lot.
+abbiamo fatto,False,fare,verb,we did / we have done,"actions,creation",,1p,,plural,indicative,passato_prossimo,False,False,True,,,,,uses auxiliary 'avere'; no agreement with subject,Abbiamo fatto tutto.,We have done everything.
+avete fatto,False,fare,verb,you (plural) did / you (plural) have done,"actions,creation",,2p,,plural,indicative,passato_prossimo,False,False,True,,,,,uses auxiliary 'avere'; no agreement with subject,Avete fatto bene.,You (plural) did well.
+hanno fatto,False,fare,verb,they did / they have done,"actions,creation",,3p,,plural,indicative,passato_prossimo,False,False,True,,,,,uses auxiliary 'avere'; no agreement with subject,Hanno fatto progressi.,They have made progress.

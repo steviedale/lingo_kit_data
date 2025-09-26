@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+treno,True,treno,noun,train,"transport,public",,,masculine,singular,,,False,False,False,none,,,,base lemma,Prendo treno veloce.,I take a fast train.
+un treno,False,treno,noun,a train,"transport,public",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Aspetto un treno regionale.,I'm waiting for a regional train.
+il treno,False,treno,noun,the train,"transport,public",,,masculine,singular,,,False,False,False,definite,il,il,,,Il treno parte alle otto.,The train leaves at eight.
+treni,False,treno,noun,trains,"transport,public",,,masculine,plural,,,False,False,False,none,,,,plural form,Treni puntuali oggi.,Trains are on time today.
+i treni,False,treno,noun,the trains,"transport,public",,,masculine,plural,,,False,False,False,definite,i,i,,,I treni sono pieni.,The trains are full.
+dei treni,False,treno,noun,some trains,"transport,public",,,masculine,plural,,,False,False,False,articulated_preposition,i,dei,di,,Prendiamo dei treni veloci.,We take some fast trains.
+del treno,False,treno,noun,of the train,"transport,public",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,,Il capotreno del treno parla.,The train's conductor is speaking.
+al treno,False,treno,noun,to the train,"transport,public",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,,Salgo al treno.,I get on the train.
+ai treni,False,treno,noun,to the trains,"transport,public",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,,Cambio ai treni regionali.,I transfer to the regional trains.
+dal treno,False,treno,noun,from the train,"transport,public",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,,Scendo dal treno.,I get off the train.
+dai treni,False,treno,noun,from the trains,"transport,public",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,,Ritardi dai treni notturni.,Delays from the night trains.
+nel treno,False,treno,noun,in the train,"transport,public",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,,Mangio nel treno.,I eat on the train.
+nei treni,False,treno,noun,in the trains,"transport,public",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,,Prese nei treni nuovi.,Outlets on the new trains.
+sul treno,False,treno,noun,on the train,"transport,public",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,,Dormo sul treno.,I sleep on the train.
+sui treni,False,treno,noun,on the trains,"transport,public",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,,Bagagli sui treni.,Luggage on the trains.
+col treno,False,treno,noun,with the train,"transport,public",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Viaggio col treno veloce.,I travel with the fast train.
+coi treni,False,treno,noun,with the trains,"transport,public",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Mi muovo coi treni regionali.,I get around with regional trains.

@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+pizza,True,pizza,noun,pizza,"food,dining",,,feminine,singular,,,False,False,False,none,,,,base lemma,Ordino pizza stasera.,I'm ordering pizza tonight.
+una pizza,False,pizza,noun,a pizza,"food,dining",,,feminine,singular,,,False,False,False,indefinite,una,una,,,Prendo una pizza margherita.,I'll have a margherita pizza.
+la pizza,False,pizza,noun,the pizza,"food,dining",,,feminine,singular,,,False,False,False,definite,la,la,,,La pizza è pronta.,The pizza is ready.
+pizze,False,pizza,noun,pizzas,"food,dining",,,feminine,plural,,,False,False,False,none,,,,plural form,Pizze grandi escono dal forno.,Large pizzas come out of the oven.
+le pizze,False,pizza,noun,the pizzas,"food,dining",,,feminine,plural,,,False,False,False,definite,le,le,,,Le pizze sono ottime.,The pizzas are excellent.
+delle pizze,False,pizza,noun,some pizzas,"food,dining",,,feminine,plural,,,False,False,False,articulated_preposition,le,delle,di,,Ordiniamo delle pizze.,We're ordering some pizzas.
+della pizza,False,pizza,noun,of the pizza,"food,dining",,,feminine,singular,,,False,False,False,articulated_preposition,la,della,di,,Mangio della pizza.,I eat some pizza.
+alla pizza,False,pizza,noun,to the pizza,"food,dining",,,feminine,singular,,,False,False,False,articulated_preposition,la,alla,a,,Aggiungo basilico alla pizza.,I add basil to the pizza.
+alle pizze,False,pizza,noun,to the pizzas,"food,dining",,,feminine,plural,,,False,False,False,articulated_preposition,le,alle,a,,Porto olio alle pizze.,I bring oil to the pizzas.
+dalla pizza,False,pizza,noun,from the pizza,"food,dining",,,feminine,singular,,,False,False,False,articulated_preposition,la,dalla,da,,Il profumo viene dalla pizza.,The smell comes from the pizza.
+dalle pizze,False,pizza,noun,from the pizzas,"food,dining",,,feminine,plural,,,False,False,False,articulated_preposition,le,dalle,da,,Fumo esce dalle pizze.,Smoke comes out of the pizzas.
+nella pizza,False,pizza,noun,in the pizza,"food,dining",,,feminine,singular,,,False,False,False,articulated_preposition,la,nella,in,,C'è origano nella pizza.,There's oregano in the pizza.
+nelle pizze,False,pizza,noun,in the pizzas,"food,dining",,,feminine,plural,,,False,False,False,articulated_preposition,le,nelle,in,,Mettono olive nelle pizze.,They put olives on the pizzas.
+sulla pizza,False,pizza,noun,on the pizza,"food,dining",,,feminine,singular,,,False,False,False,articulated_preposition,la,sulla,su,,Metto olio sulla pizza.,I put oil on the pizza.
+sulle pizze,False,pizza,noun,on the pizzas,"food,dining",,,feminine,plural,,,False,False,False,articulated_preposition,le,sulle,su,,Offerte sulle pizze.,Deals on pizzas.
+con la pizza,False,pizza,noun,with the pizza,"food,dining",,,feminine,singular,,,False,False,False,articulated_preposition,la,con la,con,,Bevo birra con la pizza.,I drink beer with the pizza.
+con le pizze,False,pizza,noun,with the pizzas,"food,dining",,,feminine,plural,,,False,False,False,articulated_preposition,le,con le,con,,Arrivo con le pizze.,I arrive with the pizzas.

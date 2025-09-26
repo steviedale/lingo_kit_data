@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+dove,True,dove,adverb,where,"place,location",,,,,,,False,False,False,,,,,invariable adverb of place,Dove abiti?,Where do you live?
+dovunque,False,dove,adverb,wherever,"place,location",,,,,,,False,False,False,,,,,variant form meaning 'wherever',Verrò dovunque tu vada.,I will come wherever you go.
+ovunque,False,dove,adverb,wherever,"place,location",,,,,,,False,False,False,,,,,alternative form of 'dovunque',Puoi trovarmi ovunque.,You can find me anywhere.
