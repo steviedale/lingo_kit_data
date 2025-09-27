@@ -1,4 +1,7 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-ci,True,ci,pronoun,us,"core,people,grammar",direct_object,1p,,plural,,,False,False,False,,,,,Used as direct object,Ci vedi?,Do you see us?
-ci,False,ci,pronoun,ourselves,"core,people,reflexive",reflexive,1p,,plural,,,False,False,False,,,,,Reflexive pronoun,Ci divertiamo.,We enjoy ourselves.
-ci,False,ci,pronoun,us,"core,people,grammar",indirect_object,1p,,plural,,,False,False,False,,,,,Used as indirect object,Ci dai una mano?,Will you give us a hand?
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+ci,True,ci,us/there,pronoun,us/to us,"core,pronoun",personal,1p,,plural,,,False,False,False,,,,,clitic pronoun; becomes 'ce' before lo/la/li/le/ne,Ci hanno chiamato.,They called us.
+ci,False,ci,us/there,pronoun,us,"core,pronoun",direct_object,1p,,plural,,,False,False,False,,,,,direct object; becomes 'ce' before lo/la/li/le/ne,Ci vedi?,Do you see us?
+ci,False,ci,us/there,pronoun,to us,"core,pronoun",indirect_object,1p,,plural,,,False,False,False,,,,,indirect object; becomes 'ce' before lo/la/li/le/ne,Ci dai una mano?,Will you give us a hand?
+ci,False,ci,us/there,pronoun,ourselves/each other,"core,pronoun",reflexive,1p,,plural,,,False,False,False,,,,,marks first person plural reflexive or reciprocal; used with reflexive verbs,Ci sentiamo domani.,We will talk to each other tomorrow.
+ci,False,ci,us/there,pronoun,there,"core,pronoun",locative,,,,,,False,False,False,,,,,locative; also about it or in it with certain verbs like credere and tenere,Ci vado domani.,I am going there tomorrow.
+ci,False,ci,us/there,pronoun,there,"core,pronoun",expletive,,,,,,False,False,False,,,,,presentational with essere; used in 'ci sono' and 'ci è',Ci sono due sedie.,There are two chairs.

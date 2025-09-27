@@ -1,2 +1,2 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-così,True,così,adverb,"so, thus, like this, in this way","comparison,manner",,,,,,,False,False,False,,,,,alternative form often used in comparisons,Era così felice di vederti.,She was so happy to see you.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+così,True,così,so,adverb,so/like this/this way,"manner,logic",,,,,,,False,False,False,,,,,can indicate manner or degree,Fai così.,Do it like this.

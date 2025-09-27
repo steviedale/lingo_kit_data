@@ -1,18 +1,18 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-bar,True,bar,noun,bar,"travel,cafe",,,masculine,singular,,,False,False,False,none,,,,base lemma,Vedo un bar vicino.,I see a nearby bar.
-un bar,False,bar,noun,a bar,"travel,cafe",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Entriamo in un bar.,We're going into a bar.
-il bar,False,bar,noun,the bar,"travel,cafe",,,masculine,singular,,,False,False,False,definite,il,il,,,Il bar apre presto.,The bar opens early.
-bar,False,bar,noun,bars,"travel,cafe",,,masculine,plural,,,False,False,False,none,,,,invariable plural,Bar affollati stasera.,Bars are crowded tonight.
-i bar,False,bar,noun,the bars,"travel,cafe",,,masculine,plural,,,False,False,False,definite,i,i,,invariable plural,I bar sono pieni.,The bars are full.
-dei bar,False,bar,noun,some bars,"travel,cafe",,,masculine,plural,,,False,False,False,articulated_preposition,i,dei,di,invariable plural,Visito dei bar nuovi.,I visit some new bars.
-del bar,False,bar,noun,of the bar,"travel,cafe",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,,Il bancone del bar è lungo.,The bar's counter is long.
-al bar,False,bar,noun,to the bar,"travel,cafe",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,,Andiamo al bar.,We're going to the bar.
-ai bar,False,bar,noun,to the bars,"travel,cafe",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,invariable plural,Lavoro ai bar del porto.,I work at the harbor's bars.
-dal bar,False,bar,noun,from the bar,"travel,cafe",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,,Esco dal bar.,I leave the bar.
-dai bar,False,bar,noun,from the bars,"travel,cafe",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,invariable plural,Rumori dai bar vicini.,Noises from nearby bars.
-nel bar,False,bar,noun,in the bar,"travel,cafe",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,,Lavoro nel bar.,I work in the bar.
-nei bar,False,bar,noun,in the bars,"travel,cafe",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,invariable plural,Musica nei bar del centro.,Music in downtown bars.
-sul bar,False,bar,noun,on the bar,"travel,cafe",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,,Metto il giornale sul bar.,I put the newspaper on the bar.
-sui bar,False,bar,noun,on the bars,"travel,cafe",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,invariable plural,Regole sui bar notturni.,Rules about night bars.
-col bar,False,bar,noun,with the bar,"travel,cafe",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Parlo col bar di quartiere.,I talk with the neighborhood bar.
-coi bar,False,bar,noun,with the bars,"travel,cafe",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Lavoriamo coi bar locali.,We work with local bars.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+bar,True,bar,bar,noun,bar,"travel,dining",,,masculine,singular,,,False,False,False,,,,,base lemma,Cerco bar aperto.,I am looking for an open bar.
+un bar,False,bar,bar,noun,a bar,"travel,dining",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Conosco un bar carino.,I know a nice bar.
+il bar,False,bar,bar,noun,the bar,"travel,dining",,,masculine,singular,,,False,False,False,definite,il,il,,,Il bar apre alle sette.,The bar opens at seven.
+bar,False,bar,bar,noun,bars,"travel,dining",,,masculine,plural,,,False,False,False,,,,,invariable plural,Bar nuovi aprono spesso.,New bars open often.
+i bar,False,bar,bar,noun,the bars,"travel,dining",,,masculine,plural,,,False,False,False,definite,i,i,,,I bar sono pieni.,The bars are full.
+dei bar,False,bar,bar,noun,some bars,"travel,dining",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Provo dei bar locali.,I try some local bars.
+del bar,False,bar,bar,noun,of the bar,"travel,dining",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,L'orario del bar è online.,The bar's hours are online.
+al bar,False,bar,bar,noun,to the bar,"travel,dining",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Andiamo al bar.,We are going to the bar.
+ai bar,False,bar,bar,noun,to the bars,"travel,dining",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Faccio pubblicità ai bar del centro.,I advertise to the downtown bars.
+dal bar,False,bar,bar,noun,from the bar,"travel,dining",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Esco dal bar.,I leave the bar.
+dai bar,False,bar,bar,noun,from the bars,"travel,dining",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Arriva musica dai bar vicini.,Music comes from the nearby bars.
+nel bar,False,bar,bar,noun,in the bar,"travel,dining",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,Lavoro nel bar.,I work in the bar.
+nei bar,False,bar,bar,noun,in the bars,"travel,dining",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Non si fuma nei bar.,You cannot smoke in bars.
+sul bar,False,bar,bar,noun,about the bar,"travel,dining",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Leggo una recensione sul bar.,I read a review about the bar.
+sui bar,False,bar,bar,noun,about the bars,"travel,dining",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Ho dati sui bar locali.,I have data about the local bars.
+col bar,False,bar,bar,noun,with the bar,"travel,dining",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Collaboro col bar.,I collaborate with the bar.
+coi bar,False,bar,bar,noun,with the bars,"travel,dining",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Lavoriamo coi bar partner.,We work with partner bars.

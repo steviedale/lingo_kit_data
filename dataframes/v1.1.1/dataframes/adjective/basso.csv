@@ -1,5 +1,5 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-basso,True,basso,adjective,low,"height,size",,,masculine,singular,,,False,False,False,,,,,,Il tavolo è basso.,The table is low.
-bassa,False,basso,adjective,low,"height,size",,,feminine,singular,,,False,False,False,,,,,,La sedia è bassa.,The chair is low.
-bassi,False,basso,adjective,low,"height,size",,,masculine,plural,,,False,False,False,,,,,,I prezzi sono bassi.,The prices are low.
-basse,False,basso,adjective,low,"height,size",,,feminine,plural,,,False,False,False,,,,,,Le case sono basse.,The houses are low.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+basso,True,basso,low/short,adjective,low/short (masculine),"quality,description",,,masculine,singular,,,False,False,False,,,,,can describe height or level,Il tavolo è basso.,The table is low.
+bassa,False,basso,low/short,adjective,low/short (feminine),"quality,description",,,feminine,singular,,,False,False,False,,,,,,La sedia è bassa.,The chair is low.
+bassi,False,basso,low/short,adjective,low/short (masculine plural),"quality,description",,,masculine,plural,,,False,False,False,,,,,,I soffitti sono bassi.,The ceilings are low.
+basse,False,basso,low/short,adjective,low/short (feminine plural),"quality,description",,,feminine,plural,,,False,False,False,,,,,,Le sedie sono basse.,The chairs are low.

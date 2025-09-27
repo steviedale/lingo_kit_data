@@ -32,6 +32,8 @@ def ssml_single_word(word, rate, pitch, pause_ms, slash_pause_ms):
     # Add a period to encourage natural sentence prosody
     safe = word.strip()
     safe = safe.replace("/", f'.<break time="{slash_pause_ms}ms"/>')
+    safe = safe.replace(" (", f'. (')
+    safe = safe.replace("you. (formal)", "you (formal)")
     if safe[-1] not in ".!?":
         safe += "."
     speach_ssml = f"""

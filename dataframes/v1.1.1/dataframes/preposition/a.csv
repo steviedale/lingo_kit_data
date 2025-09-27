@@ -1,8 +1,9 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-a,True,a,preposition,to,"core,travel",simple,,,,,,False,False,False,,,,,Used for direction and indirect objects,Vado a Roma,I go to Rome
-al,False,a,preposition,to the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""a"" + ""il""",Vado al mercato,I go to the market
-allo,False,a,preposition,to the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""a"" + ""lo""",Scrivo allo studente,I write to the student
-alla,False,a,preposition,to the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""a"" + ""la""",Parlo alla maestra,I speak to the teacher
-ai,False,a,preposition,to the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""a"" + ""i""",Telefono ai ragazzi,I call the boys
-agli,False,a,preposition,to the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""a"" + ""gli""",Parlo agli amici,I talk to the friends
-alle,False,a,preposition,to the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""a"" + ""le""",Scrivo alle ragazze,I write to the girls
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+a,True,a,to,preposition,to/at,"core,grammar",simple,,,,,,False,False,False,,,,,simple preposition used for direction time and indirect objects,Vado a casa.,I am going home.
+al,False,a,to,preposition,to the (masculine singular),"core,grammar",articulated,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Andiamo al cinema.,We are going to the cinema.
+allo,False,a,to,preposition,to the (masculine singular before s+consonant or z),"core,grammar",articulated,,masculine,singular,,,False,False,False,articulated_preposition,lo,allo,a,contraction of a + lo,Parlo allo studente.,I speak to the student.
+all',False,a,to,preposition,to the (before vowel),"core,grammar",articulated,,,singular,,,False,False,False,articulated_preposition,l',all',a,contraction of a + l',Vado all'università.,I go to the university.
+alla,False,a,to,preposition,to the (feminine singular),"core,grammar",articulated,,feminine,singular,,,False,False,False,articulated_preposition,la,alla,a,contraction of a + la,Ritorno alla macchina.,I return to the car.
+ai,False,a,to,preposition,to the (masculine plural),"core,grammar",articulated,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Parlo ai ragazzi.,I speak to the boys.
+agli,False,a,to,preposition,to the (masculine plural before vowel or s+consonant),"core,grammar",articulated,,masculine,plural,,,False,False,False,articulated_preposition,gli,agli,a,contraction of a + gli,Ho parlato agli amici.,I spoke to the friends.
+alle,False,a,to,preposition,to the (feminine plural),"core,grammar",articulated,,feminine,plural,,,False,False,False,articulated_preposition,le,alle,a,contraction of a + le,Vado alle riunioni.,I go to the meetings.

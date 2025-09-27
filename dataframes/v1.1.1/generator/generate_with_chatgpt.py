@@ -92,10 +92,20 @@ def generate_csv(italian_term, model='gpt-5-mini', reasoning_effort='low'):
             base_df = pos_df[pos_df['base_lemma_italian'] == base_term]
 
             output_path = f"/Users/stevie/repos/lingo_kit_data/dataframes/v1.1.1/dataframes/{pos}/{base_term}.csv"
+            os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+            # if the csv file already exists, append a number (so that it doesn't overwrite) 
+            # for example for "test.csv", if it exists, try "test_1.csv", "test_2.csv", etc.
+            if os.path.exists(output_path):
+                i = 1
+                while os.path.exists(output_path.replace('.csv', f'_{i}.csv')):
+                    i += 1
+                output_path = output_path.replace('.csv', f'_{i}.csv')
+
             base_df.to_csv(output_path, index=False)
             generate_files.append(output_path)
             print(f"Saved {len(pos_df)} rows to {output_path}")
-    
+
     os.remove(temp_path)
 
 

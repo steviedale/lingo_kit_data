@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+che,True,che,that/which/who/what/than,pronoun,who/that/which,"core,grammar",relative,,,,,,False,False,False,,,,,invariable relative pronoun,La ragazza che vedi è mia sorella.,The girl that you see is my sister.
+che,False,che,that/which/who/what/than,pronoun,what,"core,grammar",interrogative,,,,,,False,False,False,,,,,often used informally for che cosa,Che vuoi?,What do you want?

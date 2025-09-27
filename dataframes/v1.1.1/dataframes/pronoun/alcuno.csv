@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+alcuno,True,alcuno,some/any,pronoun,any,"core,quantifier",indefinite,,masculine,singular,,,False,False,False,,,,,"used mainly in negative sentences; often with ""ne""",Non ne ho alcuno.,I do not have any.
+alcuna,False,alcuno,some/any,pronoun,any,"core,quantifier",indefinite,,feminine,singular,,,False,False,False,,,,,"used mainly in negative sentences; often with ""ne""",Non ne vedo alcuna.,I do not see any.
+alcuni,False,alcuno,some/any,pronoun,some,"core,quantifier",indefinite,,masculine,plural,,,False,False,False,,,,,plural pronoun meaning some,Alcuni sono arrivati tardi.,Some have arrived late.
+alcune,False,alcuno,some/any,pronoun,some,"core,quantifier",indefinite,,feminine,plural,,,False,False,False,,,,,plural pronoun meaning some,Alcune mancano ancora.,Some are still missing.

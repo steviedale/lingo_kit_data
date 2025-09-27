@@ -1,2 +1,2 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-come,True,come,adverb,as,"comparison,manner",,,,,,,False,False,False,,,,,used to introduce comparisons or indicate manner,Lei canta come una professionista.,She sings as a professional.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+come,True,come,as/like/how,adverb,how,"manner,comparison",,,,,,,False,False,False,,,,,interrogative/exclamative adverb,Dimmi come stai.,Tell me how you are.

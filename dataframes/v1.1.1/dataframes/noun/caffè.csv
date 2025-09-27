@@ -1,18 +1,18 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-caffè,True,caffè,noun,coffee,"beverages,cafe",,,masculine,singular,,,False,False,False,none,,,,base lemma,Vedo un caffè aperto.,I see an open café.
-un caffè,False,caffè,noun,a coffee,"beverages,cafe",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Prendo un caffè al banco.,I'll have a coffee at the counter.
-il caffè,False,caffè,noun,the coffee,"beverages,cafe",,,masculine,singular,,,False,False,False,definite,il,il,,,Il caffè è caldo.,The coffee is hot.
-caffè,False,caffè,noun,coffees,"beverages,cafe",,,masculine,plural,,,False,False,False,none,,,,invariable plural,Caffè italiani sono famosi.,Italian coffees are famous.
-i caffè,False,caffè,noun,the coffees,"beverages,cafe",,,masculine,plural,,,False,False,False,definite,i,i,,invariable plural,I caffè del centro sono pieni.,The cafés downtown are full.
-dei caffè,False,caffè,noun,some coffees,"beverages,cafe",,,masculine,plural,,,False,False,False,articulated_preposition,i,dei,di,invariable plural,Abbiamo preso dei caffè.,We had some coffees.
-del caffè,False,caffè,noun,of the coffee,"beverages,cafe",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,,Bevo del caffè al mattino.,I drink some coffee in the morning.
-al caffè,False,caffè,noun,to the coffee,"beverages,cafe",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,,Aggiungo zucchero al caffè.,I add sugar to the coffee.
-ai caffè,False,caffè,noun,to the coffees,"beverages,cafe",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,invariable plural,Porto biscotti ai caffè.,I bring cookies to the coffees/cafés.
-dal caffè,False,caffè,noun,from the coffee,"beverages,cafe",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,,Sento profumo dal caffè.,I smell aroma from the coffee.
-dai caffè,False,caffè,noun,from the coffees,"beverages,cafe",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,invariable plural,Musica arriva dai caffè.,Music comes from the cafés.
-nel caffè,False,caffè,noun,in the coffee,"beverages,cafe",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,,Metto latte nel caffè.,I put milk in the coffee.
-nei caffè,False,caffè,noun,in the coffees,"beverages,cafe",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,invariable plural,Si fuma meno nei caffè.,People smoke less in cafés.
-sul caffè,False,caffè,noun,on the coffee,"beverages,cafe",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,,Ho letto un articolo sul caffè.,I read an article about coffee.
-sui caffè,False,caffè,noun,on the coffees,"beverages,cafe",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,invariable plural,Parliamo spesso sui caffè.,We often talk about cafés.
-col caffè,False,caffè,noun,with the coffee,"beverages,cafe",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Lo bevo col caffè.,I drink it with the coffee.
-coi caffè,False,caffè,noun,with the coffees,"beverages,cafe",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Arrivano i conti coi caffè.,The bills arrive with the coffees.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+caffè,True,caffè,coffee,noun,coffee,"food,drink",,,masculine,singular,,,False,False,False,,,,,invariable plural,Bevo caffè al mattino.,I drink coffee in the morning.
+un caffè,False,caffè,coffee,noun,a coffee,"food,drink",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Prendo un caffè grazie.,I will have a coffee please.
+il caffè,False,caffè,coffee,noun,the coffee,"food,drink",,,masculine,singular,,,False,False,False,definite,il,il,,,Il caffè è caldo.,The coffee is hot.
+caffè,False,caffè,coffee,noun,coffees,"food,drink",,,masculine,plural,,,False,False,False,,,,,plural form; invariable plural,Caffè artigianali costano di più.,Artisanal coffees cost more.
+i caffè,False,caffè,coffee,noun,the coffees,"food,drink",,,masculine,plural,,,False,False,False,definite,i,i,,,I caffè forti tengono svegli.,Strong coffees keep you awake.
+dei caffè,False,caffè,coffee,noun,some coffees,"food,drink",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form; invariable plural,Ho ordinato dei caffè.,I ordered some coffees.
+del caffè,False,caffè,coffee,noun,of the coffee,"food,drink",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,Il profumo del caffè è intenso.,The aroma of the coffee is intense.
+al caffè,False,caffè,coffee,noun,to the coffee,"food,drink",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Aggiungo latte al caffè.,I add milk to the coffee.
+ai caffè,False,caffè,coffee,noun,to the coffees,"food,drink",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Aggiungo spezie ai caffè.,I add spices to the coffees.
+dal caffè,False,caffè,coffee,noun,from the coffee,"food,drink",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Il profumo viene dal caffè.,The aroma comes from the coffee.
+dai caffè,False,caffè,coffee,noun,from the coffees,"food,drink",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Arrivano aromi dai caffè tostati.,Aromas come from the roasted coffees.
+nel caffè,False,caffè,coffee,noun,in the coffee,"food,drink",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,Metto zucchero nel caffè.,I put sugar in the coffee.
+nei caffè,False,caffè,coffee,noun,in the coffees,"food,drink",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Trovo note di cacao nei caffè brasiliani.,I find cocoa notes in Brazilian coffees.
+sul caffè,False,caffè,coffee,noun,about the coffee,"food,drink",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Ho letto un articolo sul caffè.,I read an article about the coffee.
+sui caffè,False,caffè,coffee,noun,about the coffees,"food,drink",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Ho un report sui caffè italiani.,I have a report about Italian coffees.
+col caffè,False,caffè,coffee,noun,with the coffee,"food,drink",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Mangio una brioche col caffè.,I eat a brioche with the coffee.
+coi caffè,False,caffè,coffee,noun,with the coffees,"food,drink",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Serviamo biscotti coi caffè.,We serve cookies with the coffees.

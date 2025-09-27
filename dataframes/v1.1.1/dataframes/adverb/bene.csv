@@ -1,4 +1,4 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-bene,True,bene,adverb,well,"manner,quality",,,,,,,False,False,False,,,,,irregular comparative 'meglio' treated separately; absolute superlative with -issimo,Lui parla bene l'italiano.,He speaks Italian well.
-benissimo,False,bene,adverb,very well,"manner,quality",,,,,,,False,True,False,,,,,absolute superlative,Hai cantato benissimo.,You sang very well.
-molto bene,False,bene,adverb,very well,"manner,quality",,,,,,,False,True,False,,,,,intensifier + base,Parla molto bene il francese.,He speaks French very well.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+bene,True,bene,well/good,adverb,well,"core,quality",,,,,,,False,False,False,,,,,irregular comparative is 'meglio' (separate lemma),Sto bene.,I am well.
+benissimo,False,bene,well/good,adverb,extremely well,"core,quality",,,,,,,False,True,False,,,,,intensified form (-issimo),Sto benissimo.,I am extremely well.
+molto bene,False,bene,well/good,adverb,very well,"core,quality",,,,,,,False,True,False,,,,,intensified with 'molto',Va molto bene.,It is going very well.

@@ -1,5 +1,5 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-altro,True,altro,adjective,other,"quantity,comparison",,,masculine,singular,,,False,False,False,,,,,,Ho un altro libro.,I have another book.
-altra,False,altro,adjective,other,"quantity,comparison",,,feminine,singular,,,False,False,False,,,,,,Vorrei un'altra tazza.,I would like another cup.
-altri,False,altro,adjective,other,"quantity,comparison",,,masculine,plural,,,False,False,False,,,,,,Ci sono altri problemi.,There are other problems.
-altre,False,altro,adjective,other,"quantity,comparison",,,feminine,plural,,,False,False,False,,,,,,Abbiamo altre idee.,We have other ideas.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+altro,True,altro,other,adjective,other (masculine),"core,quantity",,,masculine,singular,,,False,False,False,,,,,,Prendo un altro caffè.,I am having another coffee.
+altra,False,altro,other,adjective,other (feminine),"core,quantity",,,feminine,singular,,,False,False,False,,,,,,Porti altra acqua per favore.,Bring some more water please.
+altri,False,altro,other,adjective,other (masculine plural),"core,quantity",,,masculine,plural,,,False,False,False,,,,,,Ci sono altri problemi.,There are other problems.
+altre,False,altro,other,adjective,other (feminine plural),"core,quantity",,,feminine,plural,,,False,False,False,,,,,,Ho letto altre storie.,I have read other stories.

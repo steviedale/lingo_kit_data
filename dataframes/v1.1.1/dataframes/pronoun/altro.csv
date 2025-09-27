@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+altro,True,altro,other,pronoun,anything else,"core,quantity",indefinite,,masculine,singular,,,False,False,False,,,,,,Altro?,Anything else?
+altra,False,altro,other,pronoun,another one (feminine),"core,quantity",indefinite,,feminine,singular,,,False,False,False,,,,,,Prendo l'altra.,I will take the other one.
+altri,False,altro,other,pronoun,others,"core,quantity",indefinite,,masculine,plural,,,False,False,False,,,,,,Arrivano gli altri.,The others are arriving.
+altre,False,altro,other,pronoun,others,"core,quantity",indefinite,,feminine,plural,,,False,False,False,,,,,,Le altre sono fuori.,The others are outside.

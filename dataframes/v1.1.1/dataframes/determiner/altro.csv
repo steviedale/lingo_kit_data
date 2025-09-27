@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+altro,True,altro,other,determiner,another,"core,quantity",quantifier,,masculine,singular,,,False,False,False,,,,,,Vorrei un altro biglietto.,I would like another ticket.
+altra,False,altro,other,determiner,another,"core,quantity",quantifier,,feminine,singular,,,False,False,False,,,,,,Prendo un'altra fetta.,I will have another slice.
+altri,False,altro,other,determiner,other,"core,quantity",quantifier,,masculine,plural,,,False,False,False,,,,,,Ci servono altri bicchieri.,We need other glasses.
+altre,False,altro,other,determiner,other,"core,quantity",quantifier,,feminine,plural,,,False,False,False,,,,,,Cerco altre idee.,I am looking for other ideas.

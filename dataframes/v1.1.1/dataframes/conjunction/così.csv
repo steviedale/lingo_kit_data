@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+così,True,così,so,conjunction,so/therefore,"manner,logic",coordinating,,,,,,False,False,False,,,,,links clauses with a consequence,"Pioveva, così siamo rimasti a casa.","It was raining, so we stayed home."
+così,False,così,so,conjunction,as (correlative marker),"manner,logic",correlative,,,,,,False,False,False,,,,,used with 'come' to express 'as ... as',È così alto come suo padre.,He is as tall as his father.

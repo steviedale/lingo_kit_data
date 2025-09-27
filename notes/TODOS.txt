@@ -1,0 +1,9 @@
+- fix overwrite issue with generation (for now let's not overwrite, we'll handling merging manually)
+- plan database structure
+- plan lingo kit creation (adding/removing terms, searching, etc)
+- finish running generation
+- create a script to collect all of the topics for each english/italian base lemma and then feed it to a LLM to consolidate topics
+- budget audio creation:
+    - check how much we've spent on audio
+    - get estimate on cost of regeneration
+    - consider limited generate (maybe not all of the forms of nouns/verbs/adjectives for now)

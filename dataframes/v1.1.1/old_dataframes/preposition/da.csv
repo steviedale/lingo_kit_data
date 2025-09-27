@@ -1,0 +1,8 @@
+term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+da,True,da,preposition,from,"core,travel",simple,,,,,,False,False,False,,,,,Used for origin or agent,Vengo da Milano,I come from Milan
+dal,False,da,preposition,from the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""da"" + ""il""",Vengo dal medico,I come from the doctor
+dallo,False,da,preposition,from the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""da"" + ""lo""",Esco dallo stadio,I exit from the stadium
+dalla,False,da,preposition,from the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""da"" + ""la""",Parto dalla stazione,I leave from the station
+dai,False,da,preposition,from the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""da"" + ""i""",Arrivo dai parenti,I arrive from the relatives
+dagli,False,da,preposition,from the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""da"" + ""gli""",Ritorno dagli amici,I return from the friends
+dalle,False,da,preposition,from the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""da"" + ""le""",Esco dalle scuole,I exit from the schools

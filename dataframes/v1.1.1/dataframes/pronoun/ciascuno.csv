@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+ciascuno,True,ciascuno,each,pronoun,each one,"core,quantifier",distributive,,masculine,singular,,,False,False,False,,,,,often followed by 'di' + article or pronoun; plural forms are rare,Ciascuno deve fare la propria parte.,Each one must do their part.
+ciascuna,False,ciascuno,each,pronoun,each one,"core,quantifier",distributive,,feminine,singular,,,False,False,False,,,,,feminine form,Ciascuna di noi è pronta.,Each one of us is ready.

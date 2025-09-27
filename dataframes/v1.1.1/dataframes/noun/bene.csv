@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+bene,True,bene,well/good,noun,good (benefit),"core,quality",,,masculine,singular,,,False,False,False,,,,,abstract noun; plural 'beni' = assets,Il bene è prezioso.,The good is precious.
+un bene,False,bene,well/good,noun,a good,"core,quality",,,masculine,singular,,,False,False,False,indefinite,un,un,,,È un bene comune.,It is a common good.
+il bene,False,bene,well/good,noun,the good,"core,quality",,,masculine,singular,,,False,False,False,definite,il,il,,,Il bene vince.,The good prevails.
+beni,False,bene,well/good,noun,goods,"core,quality",,,masculine,plural,,,False,False,False,,,,,plural form,Beni essenziali costano poco.,Essential goods cost little.
+i beni,False,bene,well/good,noun,the goods,"core,quality",,,masculine,plural,,,False,False,False,definite,i,i,,,I beni sono tassati.,The goods are taxed.
+dei beni,False,bene,well/good,noun,some goods,"core,quality",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Abbiamo comprato dei beni.,We bought some goods.
+del bene,False,bene,well/good,noun,of the good,"core,quality",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,Il valore del bene è alto.,The value of the good is high.
+al bene,False,bene,well/good,noun,to the good,"core,quality",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Penso al bene di tutti.,I think about the good of everyone.
+ai beni,False,bene,well/good,noun,to the goods,"core,quality",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Danno accesso ai beni essenziali.,They give access to essential goods.
+dal bene,False,bene,well/good,noun,from the good,"core,quality",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Il profitto deriva dal bene.,The profit comes from the asset.
+dai beni,False,bene,well/good,noun,from the goods,"core,quality",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Le tasse provengono dai beni.,Taxes come from the goods.
+nel bene,False,bene,well/good,noun,in the good,"core,quality",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,La forza sta nel bene.,Strength lies in good.
+nei beni,False,bene,well/good,noun,in the goods,"core,quality",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Investo nei beni locali.,I invest in local goods.
+sul bene,False,bene,well/good,noun,about the good,"core,quality",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Leggo un rapporto sul bene.,I read a report about the good.
+sui beni,False,bene,well/good,noun,about the goods,"core,quality",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Ci sono dati sui beni.,There is data about the goods.
+col bene,False,bene,well/good,noun,with the good,"core,quality",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Agiamo col bene comune in mente.,We act with the common good in mind.
+coi beni,False,bene,well/good,noun,with the goods,"core,quality",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Lavoriamo coi beni confiscati.,We work with the confiscated goods.

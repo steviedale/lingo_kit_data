@@ -1,18 +1,18 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-bagno,True,bagno,noun,bathroom,"home,facilities",,,masculine,singular,,,False,False,False,none,,,,base lemma,Cerco bagno pulito.,I'm looking for a clean bathroom.
-un bagno,False,bagno,noun,a bathroom,"home,facilities",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Abbiamo un bagno grande.,We have a large bathroom.
-il bagno,False,bagno,noun,the bathroom,"home,facilities",,,masculine,singular,,,False,False,False,definite,il,il,,,Il bagno è occupato.,The bathroom is occupied.
-bagni,False,bagno,noun,bathrooms,"home,facilities",,,masculine,plural,,,False,False,False,none,,,,plural form,Bagni puliti al piano.,Clean bathrooms on the floor.
-i bagni,False,bagno,noun,the bathrooms,"home,facilities",,,masculine,plural,,,False,False,False,definite,i,i,,,I bagni sono chiusi.,The bathrooms are closed.
-dei bagni,False,bagno,noun,some bathrooms,"home,facilities",,,masculine,plural,,,False,False,False,articulated_preposition,i,dei,di,,Ristrutturiamo dei bagni.,We're renovating some bathrooms.
-del bagno,False,bagno,noun,of the bathroom,"home,facilities",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,,La porta del bagno scricchiola.,The bathroom door squeaks.
-al bagno,False,bagno,noun,to the bathroom,"home,facilities",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,,Vado al bagno.,I'm going to the bathroom.
-ai bagni,False,bagno,noun,to the bathrooms,"home,facilities",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,,Accesso ai bagni a sinistra.,Access to the bathrooms on the left.
-dal bagno,False,bagno,noun,from the bathroom,"home,facilities",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,,Esco dal bagno.,I exit the bathroom.
-dai bagni,False,bagno,noun,from the bathrooms,"home,facilities",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,,Rumori dai bagni.,Noises from the bathrooms.
-nel bagno,False,bagno,noun,in the bathroom,"home,facilities",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,,C'è sapone nel bagno.,There is soap in the bathroom.
-nei bagni,False,bagno,noun,in the bathrooms,"home,facilities",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,,Cartelli nei bagni.,Signs in the bathrooms.
-sul bagno,False,bagno,noun,on the bathroom,"home,facilities",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,,Lavori sul bagno oggi.,Work on the bathroom today.
-sui bagni,False,bagno,noun,on the bathrooms,"home,facilities",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,,Interventi sui bagni pubblici.,Work on public bathrooms.
-col bagno,False,bagno,noun,with the bathroom,"home,facilities",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Problemi col bagno di servizio.,Problems with the service bathroom.
-coi bagni,False,bagno,noun,with the bathrooms,"home,facilities",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Lavoro coi bagni del piano.,I work with the bathrooms on the floor.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+bagno,True,bagno,bathroom,noun,bathroom,"home,bathroom",,,masculine,singular,,,False,False,False,,,,,also 'bath' or 'restroom',Cerco bagno libero.,I am looking for a free bathroom.
+un bagno,False,bagno,bathroom,noun,a bathroom,"home,bathroom",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Cerco un bagno.,I am looking for a bathroom.
+il bagno,False,bagno,bathroom,noun,the bathroom,"home,bathroom",,,masculine,singular,,,False,False,False,definite,il,il,,,Il bagno è occupato.,The bathroom is occupied.
+bagni,False,bagno,bathroom,noun,bathrooms,"home,bathroom",,,masculine,plural,,,False,False,False,,,,,plural form,Bagni pubblici chiudono presto.,Public bathrooms close early.
+i bagni,False,bagno,bathroom,noun,the bathrooms,"home,bathroom",,,masculine,plural,,,False,False,False,definite,i,i,,,I bagni sono puliti.,The bathrooms are clean.
+dei bagni,False,bagno,bathroom,noun,some bathrooms,"home,bathroom",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Ho visto dei bagni nuovi.,I saw some new bathrooms.
+del bagno,False,bagno,bathroom,noun,of the bathroom,"home,bathroom",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,La porta del bagno è chiusa.,The door of the bathroom is closed.
+al bagno,False,bagno,bathroom,noun,to the bathroom,"home,bathroom",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Vado al bagno.,I am going to the bathroom.
+ai bagni,False,bagno,bathroom,noun,to the bathrooms,"home,bathroom",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Andiamo ai bagni pubblici.,We are going to the public bathrooms.
+dal bagno,False,bagno,bathroom,noun,from the bathroom,"home,bathroom",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Esco dal bagno.,I am leaving the bathroom.
+dai bagni,False,bagno,bathroom,noun,from the bathrooms,"home,bathroom",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Odori dai bagni vicini.,Scents from the nearby bathrooms.
+nel bagno,False,bagno,bathroom,noun,in the bathroom,"home,bathroom",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,Entro nel bagno.,I enter the bathroom.
+nei bagni,False,bagno,bathroom,noun,in the bathrooms,"home,bathroom",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Non si fuma nei bagni.,You cannot smoke in bathrooms.
+sul bagno,False,bagno,bathroom,noun,on the bathroom/about the bathroom,"home,bathroom",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,C'è un cartello sul bagno.,There is a sign on the bathroom.
+sui bagni,False,bagno,bathroom,noun,about the bathrooms,"home,bathroom",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Ho dati sui bagni pubblici.,I have data about public bathrooms.
+col bagno,False,bagno,bathroom,noun,with the bathroom,"home,bathroom",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Ho problemi col bagno.,I have problems with the bathroom.
+coi bagni,False,bagno,bathroom,noun,with the bathrooms,"home,bathroom",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Lavoriamo coi bagni pubblici.,We work with public bathrooms.

@@ -41,6 +41,7 @@ term_italian: concrete word/phrase form for the row.
 is_base: true only for the canonical/base form of that POS family; otherwise false.
 
 base_lemma_italian: canonical lemma for that POS family (e.g., nouns/adj = lemma; verbs = infinitive; adverbs = base adverb; pronouns/determiners/articles/prepositions/conjunctions = simplest base form).
+Never add any " (avverbio)", " (sostantivo)", or any other part of speech identifier to the base lemma, it should be just the term. For example, it should not be "ancora (sostantivo)" it should be just "ancora".
 
 base_lemma_english: concise English translation of the base_lemma_italian.
 ⚠️ Every row with the same base_lemma_italian must share the same base_lemma_english.
