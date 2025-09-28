@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+un,True,un,a,article,a (masculine singular),"core,articles",indefinite,,masculine,singular,,,False,False,False,,,,,masculine before most consonants and vowels,Ho un cane.,I have a dog.
+uno,False,un,a,article,a (masculine singular),"core,articles",indefinite,,masculine,singular,,,False,False,False,,,,,"masculine before s+consonant, z, gn, ps, x, y",Vedo uno studente.,I see a student.
+una,False,un,a,article,a (feminine singular),"core,articles",indefinite,,feminine,singular,,,False,False,False,,,,,feminine before consonants,Prendo una mela.,I am taking an apple.
+un’,False,un,a,article,a (feminine singular),"core,articles",indefinite,,feminine,singular,,,False,False,False,,,,,feminine before vowels; apostrophe marks elision,Ho un’amica a Roma.,I have a friend in Rome.

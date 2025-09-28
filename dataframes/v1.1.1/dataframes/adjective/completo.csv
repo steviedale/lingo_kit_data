@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+completo,True,completo,complete/suit,adjective,complete (masculine),"quality,clothing",,,masculine,singular,,,False,False,False,,,,,variable adjective,Il documento è completo.,The document is complete.
+completa,False,completo,complete/suit,adjective,complete (feminine),"quality,clothing",,,feminine,singular,,,False,False,False,,,,,,La lista è completa.,The list is complete.
+completi,False,completo,complete/suit,adjective,complete (masculine plural),"quality,clothing",,,masculine,plural,,,False,False,False,,,,,,I moduli sono completi.,The forms are complete.
+complete,False,completo,complete/suit,adjective,complete (feminine plural),"quality,clothing",,,feminine,plural,,,False,False,False,,,,,,Le tabelle sono complete.,The tables are complete.

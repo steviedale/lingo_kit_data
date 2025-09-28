@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+volere,True,volere,to want,verb,to want,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,modal verb; irregular present; used with auxiliary 'avere',Volere è potere.,Where there is a will there is a way.
+volendo,False,volere,to want,verb,wanting,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Volendo possiamo partire ora.,If we want we can leave now.
+voluto,False,volere,to want,verb,wanted,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle; masculine singular,L'ho voluto.,I wanted it.
+voluta,False,volere,to want,verb,wanted,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle; feminine singular,L'ho voluta.,I wanted it.
+voluti,False,volere,to want,verb,wanted,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle; masculine plural,Li ho voluti.,I wanted them.
+volute,False,volere,to want,verb,wanted,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle; feminine plural,Le ho volute.,I wanted them.
+voglio,False,volere,to want,verb,I want,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Voglio un caffè.,I want a coffee.
+vuoi,False,volere,to want,verb,you want,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Vuoi uscire?,Do you want to go out?
+vuole,False,volere,to want,verb,he wants/she wants/you (formal) want,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Vuole un caffè?,Do you want a coffee?
+vogliamo,False,volere,to want,verb,we want,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Vogliamo vedere il film.,We want to see the movie.
+volete,False,volere,to want,verb,you (plural) want,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Volete venire con noi?,Do you (plural) want to come with us?
+vogliono,False,volere,to want,verb,they want,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Vogliono imparare l'italiano.,They want to learn Italian.
+volevo,False,volere,to want,verb,I was wanting,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Volevo chiamarti.,I was wanting to call you.
+volevi,False,volere,to want,verb,you were wanting,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Volevi quel libro.,You were wanting that book.
+voleva,False,volere,to want,verb,he was wanting/she was wanting/you (formal) were wanting,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Voleva partire presto.,She was wanting to leave early.
+volevamo,False,volere,to want,verb,we were wanting,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Volevamo più tempo.,We were wanting more time.
+volevate,False,volere,to want,verb,you (plural) were wanting,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Volevate una risposta.,You (plural) were wanting an answer.
+volevano,False,volere,to want,verb,they were wanting,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Volevano giocare fuori.,They were wanting to play outside.
+ho voluto,False,volere,to want,verb,I have wanted,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Ho voluto provarci.,I have wanted to try.
+hai voluto,False,volere,to want,verb,you have wanted,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hai voluto cambiare lavoro.,You have wanted to change jobs.
+ha voluto,False,volere,to want,verb,he has wanted/she has wanted/you (formal) have wanted,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha voluto aiutarmi.,He wanted to help me.
+abbiamo voluto,False,volere,to want,verb,we have wanted,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Abbiamo voluto festeggiare.,We have wanted to celebrate.
+avete voluto,False,volere,to want,verb,you (plural) have wanted,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Avete voluto rischiare.,You (plural) have wanted to take a risk.
+hanno voluto,False,volere,to want,verb,they have wanted,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hanno voluto parlare subito.,They have wanted to speak right away.

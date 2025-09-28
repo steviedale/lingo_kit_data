@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+noi,True,noi,we,pronoun,we,"core,people",personal,1p,,plural,,,False,False,False,,,,,subject pronoun,Noi andiamo a casa.,We are going home.
+noi,False,noi,we,pronoun,us,"core,people",direct_object,1p,,plural,,,False,False,False,,,,,stressed form; often 'ci' as clitic,Inviti noi alla festa?,Are you inviting us to the party?
+noi,False,noi,we,pronoun,to us,"core,people",indirect_object,1p,,plural,,,False,False,False,,,,,stressed form; used after prepositions,A noi non piace il caldo.,We do not like the heat.

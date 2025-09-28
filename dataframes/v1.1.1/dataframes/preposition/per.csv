@@ -1,0 +1,2 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+per,True,per,for,preposition,for,"core,preposition",simple,,,,,,False,False,False,,,,,"simple preposition; does not contract with articles in standard Italian; also used for purpose, duration, exchange, routes, and 'times' in math",Questo è per te.,This is for you.

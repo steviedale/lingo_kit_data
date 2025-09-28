@@ -1,0 +1,8 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+il,True,il,the,article,the (masculine singular),"core,grammar",definite,,masculine,singular,,,False,False,False,,,,,before most consonants (masculine singular),Prendo il treno.,I take the train.
+la,False,il,the,article,the (feminine singular),"core,grammar",definite,,feminine,singular,,,False,False,False,,,,,feminine singular before consonant,Pago la cena.,I pay for the dinner.
+i,False,il,the,article,the (masculine plural),"core,grammar",definite,,masculine,plural,,,False,False,False,,,,,masculine plural before consonant,Conosco i ragazzi.,I know the boys.
+le,False,il,the,article,the (feminine plural),"core,grammar",definite,,feminine,plural,,,False,False,False,,,,,feminine plural,Vedo le case.,I see the houses.
+lo,False,il,the,article,"the (masculine singular, before s+consonant, z, gn, ps, x, y)","core,grammar",definite,,masculine,singular,,,False,False,False,,,,,"before s+consonant, z, gn, ps, x, y (masculine singular)",Conosco lo studente.,I know the student.
+gli,False,il,the,article,"the (masculine plural, before vowels, s+consonants, z, gn, ps, x, y)","core,grammar",definite,,masculine,plural,,,False,False,False,,,,,"before vowels, s+consonant, z, gn, ps, x, y (masculine plural)",Vedo gli studenti.,I see the students.
+l',False,il,the,article,"the (singular, before vowel)","core,grammar",definite,,,singular,,,False,False,False,,,,,before vowel (singular),Aspetto l'autobus.,I am waiting for the bus.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+questo,True,questo,this,pronoun,this one,"core,demonstratives",demonstrative,,masculine,singular,,,False,False,False,,,,,,Questo è per te.,This is for you.
+questa,False,questo,this,pronoun,this one,"core,demonstratives",demonstrative,,feminine,singular,,,False,False,False,,,,,,Questa è la migliore.,This one is the best.
+questi,False,questo,this,pronoun,these,"core,demonstratives",demonstrative,,masculine,plural,,,False,False,False,,,,,,Questi sono arrivati.,These have arrived.
+queste,False,questo,this,pronoun,these,"core,demonstratives",demonstrative,,feminine,plural,,,False,False,False,,,,,,Queste non costano molto.,These do not cost much.

@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+improvvisamente,True,improvvisamente,suddenly,adverb,suddenly,"time,manner",,,,,,,False,False,False,,,,,,Improvvisamente ha iniziato a piovere.,Suddenly it started to rain.
+più improvvisamente,False,improvvisamente,suddenly,adverb,more suddenly,"time,manner",,,,,,,True,False,False,,,,,,La musica finì più improvvisamente del previsto.,The music ended more suddenly than expected.
+molto improvvisamente,False,improvvisamente,suddenly,adverb,very suddenly,"time,manner",,,,,,,False,True,False,,,,,,La situazione peggiorò molto improvvisamente.,The situation got worse very suddenly.

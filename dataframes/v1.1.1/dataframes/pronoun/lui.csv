@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+lui,True,lui,he,pronoun,he,"core,people",personal,3s,masculine,singular,,,False,False,False,,,,,stressed/disjunctive subject form; often used for emphasis or contrast; can also mean 'it' for masculine nouns,Lui arriva domani.,He arrives tomorrow.
+lui,False,lui,he,pronoun,him,"core,people",direct_object,3s,masculine,singular,,,False,False,False,,,,,stressed object form; clitic is 'lo',Vedo lui.,I see him.
+lui,False,lui,he,pronoun,to him,"core,people",indirect_object,3s,masculine,singular,,,False,False,False,,,,,used after 'a' and other prepositions; clitic is 'gli',Do il libro a lui.,I give the book to him.

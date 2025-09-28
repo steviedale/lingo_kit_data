@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+vecchio,True,vecchio,old,adjective,old (masculine),"quality,age",,,masculine,singular,,,False,False,False,,,,,,Questo libro è vecchio.,This book is old.
+vecchia,False,vecchio,old,adjective,old (feminine),"quality,age",,,feminine,singular,,,False,False,False,,,,,,La casa è vecchia.,The house is old.
+vecchi,False,vecchio,old,adjective,old (masculine plural),"quality,age",,,masculine,plural,,,False,False,False,,,,,,Quei telefoni sono vecchi.,Those phones are old.
+vecchie,False,vecchio,old,adjective,old (feminine plural),"quality,age",,,feminine,plural,,,False,False,False,,,,,,Le sedie sono vecchie.,The chairs are old.

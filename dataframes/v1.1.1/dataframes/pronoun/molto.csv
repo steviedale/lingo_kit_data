@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+molto,True,molto,very/much/many,pronoun,much,"degree,quantity",indefinite,,masculine,singular,,,False,False,False,,,,,,Molto è cambiato.,Much has changed.
+molti,False,molto,very/much/many,pronoun,many,"degree,quantity",indefinite,,masculine,plural,,,False,False,False,,,,,,Molti non lo sanno.,Many do not know it.
+molte,False,molto,very/much/many,pronoun,many,"degree,quantity",indefinite,,feminine,plural,,,False,False,False,,,,,,Molte hanno risposto.,Many have replied.

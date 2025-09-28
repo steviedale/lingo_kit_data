@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+fino,True,fino,fine/thin,adjective,fine/thin (masculine),"quality,texture",,,masculine,singular,,,False,False,False,,,,,also means refined,Compro sale fino.,I buy fine salt.
+fina,False,fino,fine/thin,adjective,fine/thin (feminine),"quality,texture",,,feminine,singular,,,False,False,False,,,,,also means refined,È una signora fina.,She is a refined lady.
+fini,False,fino,fine/thin,adjective,fine/thin (masculine plural),"quality,texture",,,masculine,plural,,,False,False,False,,,,,also means refined,Ha gusti fini.,He has refined tastes.
+fine,False,fino,fine/thin,adjective,fine/thin (feminine plural),"quality,texture",,,feminine,plural,,,False,False,False,,,,,also means refined,Traccio linee fine.,I draw thin lines.

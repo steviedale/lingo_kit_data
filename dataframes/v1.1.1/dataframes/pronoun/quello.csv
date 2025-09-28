@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+quello,True,quello,that,pronoun,that one,"core,demonstratives",demonstrative,,masculine,singular,,,False,False,False,,,,,demonstrative pronoun,Prendo quello.,I will take that one.
+quella,False,quello,that,pronoun,that one,"core,demonstratives",demonstrative,,feminine,singular,,,False,False,False,,,,,demonstrative pronoun,Voglio quella.,I want that one.
+quelli,False,quello,that,pronoun,those,"core,demonstratives",demonstrative,,masculine,plural,,,False,False,False,,,,,demonstrative pronoun,Preferisco quelli.,I prefer those.
+quelle,False,quello,that,pronoun,those,"core,demonstratives",demonstrative,,feminine,plural,,,False,False,False,,,,,demonstrative pronoun,Mi piacciono quelle.,I like those.

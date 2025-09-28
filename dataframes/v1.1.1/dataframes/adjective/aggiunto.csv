@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+aggiunto,True,aggiunto,added,adjective,added (masculine),"quality,modification",,,masculine,singular,,,False,False,False,,,,,from verb aggiungere,È un valore aggiunto.,It is an added value.
+aggiunta,False,aggiunto,added,adjective,added (feminine),"quality,modification",,,feminine,singular,,,False,False,False,,,,,from verb aggiungere,C'è una tassa aggiunta.,There is an added fee.
+aggiunti,False,aggiunto,added,adjective,added (masculine plural),"quality,modification",,,masculine,plural,,,False,False,False,,,,,from verb aggiungere,I costi aggiunti sono inclusi.,The added costs are included.
+aggiunte,False,aggiunto,added,adjective,added (feminine plural),"quality,modification",,,feminine,plural,,,False,False,False,,,,,from verb aggiungere,Le spese aggiunte sono minime.,The added expenses are minimal.

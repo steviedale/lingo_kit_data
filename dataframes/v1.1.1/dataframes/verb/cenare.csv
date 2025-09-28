@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+cenare,True,cenare,to have dinner,verb,to have dinner,"food,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -are verb,Mi piace cenare presto.,I like to have dinner early.
+cenando,False,cenare,to have dinner,verb,having dinner,"food,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto cenando adesso.,I am having dinner now.
+cenato,False,cenare,to have dinner,verb,had dinner,"food,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle,Ho cenato troppo.,I had too much dinner.
+cenata,False,cenare,to have dinner,verb,had dinner,"food,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle; used predicatively,Sono già cenata.,I have already had dinner.
+cenati,False,cenare,to have dinner,verb,had dinner,"food,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle; used predicatively,Siamo già cenati.,We have already had dinner.
+cenate,False,cenare,to have dinner,verb,had dinner,"food,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle; used predicatively,Siamo già cenate.,We have already had dinner.
+ceno,False,cenare,to have dinner,verb,I have dinner,"food,verb",,1s,,,indicative,present,False,False,False,,,,,,Ceno presto.,I have dinner early.
+ceni,False,cenare,to have dinner,verb,you have dinner,"food,verb",,2s,,,indicative,present,False,False,False,,,,,,Ceni con noi?,Do you have dinner with us?
+cena,False,cenare,to have dinner,verb,he has dinner/she has dinner/you (formal) have dinner,"food,verb",,3s,,,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui cena fuori.,He has dinner out.
+ceniamo,False,cenare,to have dinner,verb,we have dinner,"food,verb",,1p,,,indicative,present,False,False,False,,,,,,Ceniamo insieme.,We have dinner together.
+cenate,False,cenare,to have dinner,verb,you (plural) have dinner,"food,verb",,2p,,,indicative,present,False,False,False,,,,,,Cenate tardi?,Do you have dinner late?
+cenano,False,cenare,to have dinner,verb,they have dinner,"food,verb",,3p,,,indicative,present,False,False,False,,,,,,Cenano alle nove.,They have dinner at nine.
+cenavo,False,cenare,to have dinner,verb,I was having dinner,"food,verb",,1s,,,indicative,imperfect,False,False,False,,,,,,Cenavo sempre alle otto.,I was having dinner at eight.
+cenavi,False,cenare,to have dinner,verb,you were having dinner,"food,verb",,2s,,,indicative,imperfect,False,False,False,,,,,,Cenavi da tua nonna.,You were having dinner at your grandmother's.
+cenava,False,cenare,to have dinner,verb,he was having dinner/she was having dinner/you (formal) were having dinner,"food,verb",,3s,,,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei cenava presto.,She was having dinner early.
+cenavamo,False,cenare,to have dinner,verb,we were having dinner,"food,verb",,1p,,,indicative,imperfect,False,False,False,,,,,,Cenavamo spesso fuori.,We were having dinner out often.
+cenavate,False,cenare,to have dinner,verb,you (plural) were having dinner,"food,verb",,2p,,,indicative,imperfect,False,False,False,,,,,,Cenavate in giardino.,You were having dinner in the garden.
+cenavano,False,cenare,to have dinner,verb,they were having dinner,"food,verb",,3p,,,indicative,imperfect,False,False,False,,,,,,Cenavano con i nonni.,They were having dinner with their grandparents.
+ho cenato,False,cenare,to have dinner,verb,I have had dinner,"food,verb",,1s,,,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Ho cenato tardi.,I have had dinner late.
+hai cenato,False,cenare,to have dinner,verb,you have had dinner,"food,verb",,2s,,,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hai cenato?,Have you had dinner?
+ha cenato,False,cenare,to have dinner,verb,he has had dinner/she has had dinner/you (formal) have had dinner,"food,verb",,3s,,,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha cenato con noi.,He has had dinner with us.
+abbiamo cenato,False,cenare,to have dinner,verb,we have had dinner,"food,verb",,1p,,,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Abbiamo cenato presto.,We have had dinner early.
+avete cenato,False,cenare,to have dinner,verb,you (plural) have had dinner,"food,verb",,2p,,,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Avete cenato insieme.,You have had dinner together.
+hanno cenato,False,cenare,to have dinner,verb,they have had dinner,"food,verb",,3p,,,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hanno cenato alle otto.,They have had dinner at eight.

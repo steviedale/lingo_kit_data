@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+primo,True,primo,first,adjective,first (masculine),"numbers,order,dining",,,masculine,singular,,,False,False,False,,,,,ordinal adjective,È il mio primo giorno.,It is my first day.
+prima,False,primo,first,adjective,first (feminine),"numbers,order,dining",,,feminine,singular,,,False,False,False,,,,,,È la mia prima volta qui.,It is my first time here.
+primi,False,primo,first,adjective,first (masculine plural),"numbers,order,dining",,,masculine,plural,,,False,False,False,,,,,,Sono i nostri primi passi.,They are our first steps.
+prime,False,primo,first,adjective,first (feminine plural),"numbers,order,dining",,,feminine,plural,,,False,False,False,,,,,,Le prime pagine sono facili.,The first pages are easy.

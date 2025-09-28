@@ -3,6 +3,7 @@ dio,True,dio,god,noun,god,"belief,religion",,,masculine,singular,,,False,False,F
 un dio,False,dio,god,noun,a god,"belief,religion",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Hanno inventato un dio.,They invented a god.
 il dio,False,dio,god,noun,the god,"belief,religion",,,masculine,singular,,,False,False,False,definite,il,il,,,Il dio del mare è potente.,The god of the sea is powerful.
 dei,False,dio,god,noun,gods,"belief,religion",,,masculine,plural,,,False,False,False,,,,,irregular plural; often written 'dèi',Dei antichi abitavano il cielo.,Ancient gods dwelled in the sky.
+i dei,False,dio,god,noun,the gods,"religion,culture",,,masculine,plural,,,False,False,False,definite,i,i,,,I dei parlano tra loro.,The gods speak among themselves.
 gli dei,False,dio,god,noun,the gods,"belief,religion",,,masculine,plural,,,False,False,False,definite,gli,gli,,"definite plural uses 'gli'; irregular plural, often written 'gli dèi'",Gli dei litigano tra loro.,The gods argue among themselves.
 dei dei,False,dio,god,noun,some gods,"belief,religion",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form; irregular plural; often written 'dèi',Ho sognato dei dei.,I dreamed of some gods.
 del dio,False,dio,god,noun,of the god,"belief,religion",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,La statua del dio è rotta.,The statue of the god is broken.

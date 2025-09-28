@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+poco,True,poco,little/few,adverb,a little,"quantity,core",,,,,,,False,False,False,,,,,adverb of quantity,Dormo poco.,I sleep a little.
+pochissimo,False,poco,little/few,adverb,very little,"quantity,core",,,,,,,False,True,False,,,,,intensified with -issimo,Oggi ho lavorato pochissimo.,Today I worked very little.

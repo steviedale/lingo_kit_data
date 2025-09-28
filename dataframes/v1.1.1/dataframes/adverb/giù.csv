@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+giù,True,giù,down,adverb,down,"direction,place",,,,,,,False,False,False,,,,,adverb of direction; also used for mood,Guarda giù.,Look down.
+più giù,False,giù,down,adverb,further down,"direction,place",,,,,,,True,False,False,,,,,comparative form commonly used in spatial contexts,L'uscita è più giù.,The exit is further down.
+molto giù,False,giù,down,adverb,very down,"direction,place",,,,,,,False,True,False,,,,,emphasized form often for mood,Oggi mi sento molto giù.,Today I feel very down.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+spesso,True,spesso,thick,adjective,thick (masculine),"quality,physical",,,masculine,singular,,,False,False,False,,,,,,Il vetro è spesso.,The glass is thick.
+spessa,False,spesso,thick,adjective,thick (feminine),"quality,physical",,,feminine,singular,,,False,False,False,,,,,,La coperta è spessa.,The blanket is thick.
+spessi,False,spesso,thick,adjective,thick (masculine plural),"quality,physical",,,masculine,plural,,,False,False,False,,,,,,Questi muri sono spessi.,These walls are thick.
+spesse,False,spesso,thick,adjective,thick (feminine plural),"quality,physical",,,feminine,plural,,,False,False,False,,,,,,Le pareti sono spesse.,The walls are thick.

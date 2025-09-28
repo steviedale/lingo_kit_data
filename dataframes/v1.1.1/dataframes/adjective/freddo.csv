@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+freddo,True,freddo,cold,adjective,cold (masculine),"weather,temperature",,,masculine,singular,,,False,False,False,,,,,,Il vento è freddo.,The wind is cold.
+fredda,False,freddo,cold,adjective,cold (feminine),"weather,temperature",,,feminine,singular,,,False,False,False,,,,,,L'acqua è fredda.,The water is cold.
+freddi,False,freddo,cold,adjective,cold (masculine plural),"weather,temperature",,,masculine,plural,,,False,False,False,,,,,,I giorni sono freddi.,The days are cold.
+fredde,False,freddo,cold,adjective,cold (feminine plural),"weather,temperature",,,feminine,plural,,,False,False,False,,,,,,Le notti sono fredde.,The nights are cold.

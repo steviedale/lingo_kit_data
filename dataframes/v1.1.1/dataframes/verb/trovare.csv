@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+trovare,True,trovare,to find,verb,to find,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -are verb; past participle 'trovato',Voglio trovare il mio telefono.,I want to find my phone.
+trovando,False,trovare,to find,verb,finding,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto trovando la strada.,I am finding the way.
+trovato,False,trovare,to find,verb,found,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,"past participle, masculine singular",L'ho trovato.,I found it.
+trovata,False,trovare,to find,verb,found,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,"past participle, feminine singular",L'ho trovata.,I found it.
+trovati,False,trovare,to find,verb,found,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,"past participle, masculine plural",Li ho trovati.,I found them.
+trovate,False,trovare,to find,verb,found,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,"past participle, feminine plural",Le ho trovate.,I found them.
+trovo,False,trovare,to find,verb,I find,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io trovo il libro.,I find the book.
+trovi,False,trovare,to find,verb,you find,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu trovi facilmente lavoro.,You find work easily.
+trova,False,trovare,to find,verb,he finds/she finds/you (formal) find,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui trova la chiave.,He finds the key.
+troviamo,False,trovare,to find,verb,we find,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi troviamo una soluzione.,We find a solution.
+trovate,False,trovare,to find,verb,you (plural) find,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi trovate un parcheggio.,You (plural) find a parking spot.
+trovano,False,trovare,to find,verb,they find,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro trovano le prove.,They find the evidence.
+trovavo,False,trovare,to find,verb,I was finding,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io trovavo spesso il tempo.,I was often finding the time.
+trovavi,False,trovare,to find,verb,you were finding,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu trovavi scuse.,You were finding excuses.
+trovava,False,trovare,to find,verb,he was finding/she was finding/you (formal) were finding,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei trovava tutto divertente.,She was finding everything fun.
+trovavamo,False,trovare,to find,verb,we were finding,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi trovavamo strade nuove.,We were finding new roads.
+trovavate,False,trovare,to find,verb,you (plural) were finding,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi trovavate sempre qualcosa.,You (plural) were always finding something.
+trovavano,False,trovare,to find,verb,they were finding,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro trovavano soluzioni.,They were finding solutions.
+ho trovato,False,trovare,to find,verb,I have found,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'trovato',Ho trovato le chiavi.,I have found the keys.
+hai trovato,False,trovare,to find,verb,you have found,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'trovato',Hai trovato il posto.,You have found the seat.
+ha trovato,False,trovare,to find,verb,he has found/she has found/you (formal) have found,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha trovato il gatto.,He has found the cat.
+abbiamo trovato,False,trovare,to find,verb,we have found,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'trovato',Abbiamo trovato una risposta.,We have found an answer.
+avete trovato,False,trovare,to find,verb,you (plural) have found,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'trovato',Avete trovato la strada.,You (plural) have found the way.
+hanno trovato,False,trovare,to find,verb,they have found,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'trovato',Hanno trovato lavoro.,They have found work.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+il nostro,True,nostro,our,pronoun,ours (masculine singular),"core,possessive",possessive,1p,masculine,singular,,,False,False,False,,,,,,Il nostro è quello rosso.,Ours is the red one.
+la nostra,False,nostro,our,pronoun,ours (feminine singular),"core,possessive",possessive,1p,feminine,singular,,,False,False,False,,,,,,La nostra è pronta.,Ours is ready.
+i nostri,False,nostro,our,pronoun,ours (masculine plural),"core,possessive",possessive,1p,masculine,plural,,,False,False,False,,,,,,I nostri sono qui.,Ours are here.
+le nostre,False,nostro,our,pronoun,ours (feminine plural),"core,possessive",possessive,1p,feminine,plural,,,False,False,False,,,,,,Le nostre sono sul tavolo.,Ours are on the table.

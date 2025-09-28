@@ -1,0 +1,9 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+quanto,True,quanto,how much/how many/as much as,pronoun,how much,"core,quantity",interrogative,,masculine,singular,,,False,False,False,,,,,,Dimmi quanto vuoi.,Tell me how much you want.
+quanta,False,quanto,how much/how many/as much as,pronoun,how much,"core,quantity",interrogative,,feminine,singular,,,False,False,False,,,,,,Sai quanta ne vuoi?,Do you know how much of it you want?
+quanti,False,quanto,how much/how many/as much as,pronoun,how many,"core,quantity",interrogative,,masculine,plural,,,False,False,False,,,,,,Sai quanti sono?,Do you know how many there are?
+quante,False,quanto,how much/how many/as much as,pronoun,how many,"core,quantity",interrogative,,feminine,plural,,,False,False,False,,,,,,Mi dici quante ne prendi?,Will you tell me how many you are taking?
+quanto,False,quanto,how much/how many/as much as,pronoun,as much as,"core,quantity",relative,,masculine,singular,,,False,False,False,,,,,,Ho fatto quanto potevo.,I did as much as I could.
+quanta,False,quanto,how much/how many/as much as,pronoun,as much as,"core,quantity",relative,,feminine,singular,,,False,False,False,,,,,,Prendine quanta vuoi.,Take as much as you want.
+quanti,False,quanto,how much/how many/as much as,pronoun,all those who,"core,quantity",relative,,masculine,plural,,,False,False,False,,,,,,Sono benvenuti quanti arrivano.,All those who arrive are welcome.
+quante,False,quanto,how much/how many/as much as,pronoun,all those who,"core,quantity",relative,,feminine,plural,,,False,False,False,,,,,,Passano l'esame quante studiano.,All those who study pass the exam.

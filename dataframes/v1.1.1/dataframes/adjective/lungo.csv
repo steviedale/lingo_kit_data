@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+lungo,True,lungo,long/along,adjective,long (masculine),"description,movement",,,masculine,singular,,,False,False,False,,,,,plural adds h to keep hard g,Il viaggio è lungo.,The trip is long.
+lunga,False,lungo,long/along,adjective,long (feminine),"description,movement",,,feminine,singular,,,False,False,False,,,,,,La strada è lunga.,The road is long.
+lunghi,False,lungo,long/along,adjective,long (masculine plural),"description,movement",,,masculine,plural,,,False,False,False,,,,,,I film sono lunghi.,The films are long.
+lunghe,False,lungo,long/along,adjective,long (feminine plural),"description,movement",,,feminine,plural,,,False,False,False,,,,,,Le notti estive sono lunghe.,Summer nights are long.

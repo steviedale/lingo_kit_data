@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+anziano,True,anziano,elderly,adjective,elderly (masculine),"people,age",,,masculine,singular,,,False,False,False,,,,,,Mio nonno è anziano.,My grandfather is elderly.
+anziana,False,anziano,elderly,adjective,elderly (feminine),"people,age",,,feminine,singular,,,False,False,False,,,,,,La vicina è anziana.,The neighbor is elderly.
+anziani,False,anziano,elderly,adjective,elderly (masculine plural),"people,age",,,masculine,plural,,,False,False,False,,,,,,I medici anziani lavorano ancora.,The elderly doctors still work.
+anziane,False,anziano,elderly,adjective,elderly (feminine plural),"people,age",,,feminine,plural,,,False,False,False,,,,,,Le insegnanti anziane sono gentili.,The elderly female teachers are kind.

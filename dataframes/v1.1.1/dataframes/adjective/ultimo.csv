@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+ultimo,True,ultimo,last,adjective,last (masculine),"order,time",,,masculine,singular,,,False,False,False,,,,,,Sono ultimo in fila.,I am last in line.
+ultima,False,ultimo,last,adjective,last (feminine),"order,time",,,feminine,singular,,,False,False,False,,,,,,Sono ultima in fila.,I am last in line.
+ultimi,False,ultimo,last,adjective,last (masculine plural),"order,time",,,masculine,plural,,,False,False,False,,,,,,Siamo ultimi in classifica.,We are last in the standings.
+ultime,False,ultimo,last,adjective,last (feminine plural),"order,time",,,feminine,plural,,,False,False,False,,,,,,Siamo ultime in fila.,We are last in line.

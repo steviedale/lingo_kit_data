@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+abitare,True,abitare,to live,verb,to live,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -are verb; used with auxiliary avere,Voglio abitare in Italia.,I want to live in Italy.
+abitando,False,abitare,to live,verb,living,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto abitando qui per poco.,I am living here for a short time.
+abitato,False,abitare,to live,verb,lived,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,"past participle, masculine singular",Il borgo è abitato.,The village is inhabited.
+abitata,False,abitare,to live,verb,lived,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,"past participle, feminine singular",La casa è abitata.,The house is inhabited.
+abitati,False,abitare,to live,verb,lived,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,"past participle, masculine plural",I quartieri sono abitati.,The neighborhoods are inhabited.
+abitate,False,abitare,to live,verb,lived,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,"past participle, feminine plural",Le case sono abitate.,The houses are inhabited.
+abito,False,abitare,to live,verb,I live,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io abito a Roma.,I live in Rome.
+abiti,False,abitare,to live,verb,you live,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu abiti qui.,You live here.
+abita,False,abitare,to live,verb,he lives/she lives/you (formal) live,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lei abita a Milano.,You live in Milan.
+abitiamo,False,abitare,to live,verb,we live,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi abitiamo insieme.,We live together.
+abitate,False,abitare,to live,verb,you (plural) live,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi abitate in questa zona.,You live in this area.
+abitano,False,abitare,to live,verb,they live,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro abitano in campagna.,They live in the countryside.
+abitavo,False,abitare,to live,verb,I was living,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Da bambino abitavo qui.,As a child I was living here.
+abitavi,False,abitare,to live,verb,you were living,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu abitavi con tua nonna.,You were living with your grandmother.
+abitava,False,abitare,to live,verb,he was living/she was living/you (formal) were living,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei abitava a Torino.,You (formal) were living in Turin.
+abitavamo,False,abitare,to live,verb,we were living,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi abitavamo vicino al mare.,We were living near the sea.
+abitavate,False,abitare,to live,verb,you (plural) were living,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi abitavate in centro.,You (plural) were living downtown.
+abitavano,False,abitare,to live,verb,they were living/you (formal) were living,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,also used as formal 'Loro',Loro abitavano in Italia.,They were living in Italy.
+ho abitato,False,abitare,to live,verb,I have lived,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'abitato',Ho abitato a Bologna.,I have lived in Bologna.
+hai abitato,False,abitare,to live,verb,you have lived,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'abitato',Hai abitato a Londra.,You have lived in London.
+ha abitato,False,abitare,to live,verb,he has lived/she has lived/you (formal) have lived,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'abitato'; also used as formal 'Lei',Ha abitato in Spagna.,He has lived in Spain.
+abbiamo abitato,False,abitare,to live,verb,we have lived,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'abitato',Abbiamo abitato insieme.,We have lived together.
+avete abitato,False,abitare,to live,verb,you (plural) have lived,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'abitato',Avete abitato all'estero.,You (plural) have lived abroad.
+hanno abitato,False,abitare,to live,verb,they have lived,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'abitato',Hanno abitato in campagna.,They have lived in the countryside.

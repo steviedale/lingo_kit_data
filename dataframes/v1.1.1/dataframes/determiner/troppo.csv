@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+troppo,True,troppo,too/too much,determiner,too much,"quantity,degree",quantifier,,masculine,singular,,,False,False,False,,,,,agrees with noun in gender and number,Ho troppo lavoro.,I have too much work.
+troppa,False,troppo,too/too much,determiner,too much,"quantity,degree",quantifier,,feminine,singular,,,False,False,False,,,,,agrees with noun in gender and number,C'è troppa acqua.,There is too much water.
+troppi,False,troppo,too/too much,determiner,too many,"quantity,degree",quantifier,,masculine,plural,,,False,False,False,,,,,agrees with noun in gender and number,Ho troppi impegni.,I have too many commitments.
+troppe,False,troppo,too/too much,determiner,too many,"quantity,degree",quantifier,,feminine,plural,,,False,False,False,,,,,agrees with noun in gender and number,Ci sono troppe cose da fare.,There are too many things to do.

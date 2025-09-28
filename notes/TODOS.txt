@@ -1,5 +1,5 @@
-- fix overwrite issue with generation (for now let's not overwrite, we'll handling merging manually)
-- plan database structure
+TODOS:
+- test organization by looking up terms from harry potter book
 - plan lingo kit creation (adding/removing terms, searching, etc)
 - finish running generation
 - create a script to collect all of the topics for each english/italian base lemma and then feed it to a LLM to consolidate topics
@@ -7,3 +7,11 @@
     - check how much we've spent on audio
     - get estimate on cost of regeneration
     - consider limited generate (maybe not all of the forms of nouns/verbs/adjectives for now)
+- run some CSV integrity checks:
+    - make sure italian term is in italian sentence
+
+
+COMPLETED:
+- [DONE] fix overwrite issue with generation (for now let's not overwrite, we'll handling merging manually)
+- [DONE] plan database structure
+    - https://app.diagrams.net/#G1nr2hJN5lSYkJxkgvQ3JZpWDXfolQ1Swm#%7B%22pageId%22%3A%22-_8Atw3AAGIerG6mIT_r%22%7D

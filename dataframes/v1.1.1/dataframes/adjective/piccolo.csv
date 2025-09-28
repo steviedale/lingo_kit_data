@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+piccolo,True,piccolo,small/little,adjective,small (masculine),"size,quality",,,masculine,singular,,,False,False,False,,,,,,Ho un cane piccolo.,I have a small dog.
+piccola,False,piccolo,small/little,adjective,small (feminine),"size,quality",,,feminine,singular,,,False,False,False,,,,,,Prendo una borsa piccola.,I am getting a small bag.
+piccoli,False,piccolo,small/little,adjective,small (masculine plural),"size,quality",,,masculine,plural,,,False,False,False,,,,,,I gatti sono piccoli.,Cats are small.
+piccole,False,piccolo,small/little,adjective,small (feminine plural),"size,quality",,,feminine,plural,,,False,False,False,,,,,,Le case sono piccole.,The houses are small.

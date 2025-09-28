@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+e,True,e,and,conjunction,and,"core,connector",coordinating,,,,,,False,False,False,,,,,coordinating conjunction to link words/phrases/clauses,Pane e vino.,Bread and wine.
+ed,False,e,and,conjunction,and,"core,connector",coordinating,,,,,,False,False,False,,,,,euphonic variant before words starting with e/è,Arriva Marco ed è contento.,Marco arrives and is happy.

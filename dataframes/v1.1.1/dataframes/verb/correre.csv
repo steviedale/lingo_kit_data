@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+correre,True,correre,to run,verb,to run,"movement,verb",,,,,non-finite,infinitive,False,False,False,,,,,irregular verb; past participle corso; may take avere or essere,Voglio correre domani.,I want to run tomorrow.
+correndo,False,correre,to run,verb,running,"movement,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto correndo adesso.,I am running now.
+corso,False,correre,to run,verb,run,"movement,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle masculine singular,Ho corso per un'ora.,I ran for an hour.
+corsa,False,correre,to run,verb,run,"movement,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle feminine singular used with essere for motion,Sono corsa a casa.,I ran home.
+corsi,False,correre,to run,verb,run,"movement,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle masculine plural,Sono corsi via.,They ran away.
+corse,False,correre,to run,verb,run,"movement,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle feminine plural,Sono corse al negozio.,They ran to the shop.
+corro,False,correre,to run,verb,I run,"movement,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Corro ogni mattina.,I run every morning.
+corri,False,correre,to run,verb,you run,"movement,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Corri troppo veloce.,You run too fast.
+corre,False,correre,to run,verb,he runs/she runs/you (formal) run,"movement,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal Lei,Lui corre piano.,He runs slowly.
+corriamo,False,correre,to run,verb,we run,"movement,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Corriamo al parco.,We run at the park.
+correte,False,correre,to run,verb,you (plural) run,"movement,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Correte insieme.,You run together.
+corrono,False,correre,to run,verb,they run,"movement,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Corrono nella pioggia.,They run in the rain.
+correvo,False,correre,to run,verb,I was running,"movement,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Correvo spesso da ragazzo.,I was running often as a boy.
+correvi,False,correre,to run,verb,you were running,"movement,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Correvi con me da piccolo.,You used to run with me as a child.
+correva,False,correre,to run,verb,he was running/she was running/you (formal) were running,"movement,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal Lei,Lei correva ogni giorno.,She was running every day.
+correvamo,False,correre,to run,verb,we were running,"movement,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Correvamo senza sosta.,We were running without stopping.
+correvate,False,correre,to run,verb,you (plural) were running,"movement,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Correvate in pista.,You were running on the track.
+correvano,False,correre,to run,verb,they were running,"movement,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Correvano al mattino.,They were running in the morning.
+ho corso,False,correre,to run,verb,I have run,"movement,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,usually with auxiliary avere; sometimes essere with motion sense,Ho corso per due chilometri.,I have run for two kilometers.
+hai corso,False,correre,to run,verb,you have run,"movement,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,usually with auxiliary avere; sometimes essere with motion sense,Hai corso bene oggi.,You have run well today.
+ha corso,False,correre,to run,verb,he has run/she has run/you (formal) have run,"movement,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,usually with auxiliary avere; also used as formal Lei; sometimes essere with motion sense,Ha corso una maratona.,He has run a marathon.
+abbiamo corso,False,correre,to run,verb,we have run,"movement,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,usually with auxiliary avere; sometimes essere with motion sense,Abbiamo corso insieme.,We have run together.
+avete corso,False,correre,to run,verb,you (plural) have run,"movement,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,usually with auxiliary avere; sometimes essere with motion sense,Avete corso al parco.,You have run at the park.
+hanno corso,False,correre,to run,verb,they have run,"movement,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,usually with auxiliary avere; sometimes essere with motion sense,Hanno corso velocemente.,They have run quickly.

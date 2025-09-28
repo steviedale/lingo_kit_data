@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+disabitato,True,disabitato,uninhabited,adjective,uninhabited (masculine),"place,description",,,masculine,singular,,,False,False,False,,,,,,Il villaggio è disabitato.,The village is uninhabited.
+disabitata,False,disabitato,uninhabited,adjective,uninhabited (feminine),"place,description",,,feminine,singular,,,False,False,False,,,,,,La casa è disabitata da anni.,The house has been uninhabited for years.
+disabitati,False,disabitato,uninhabited,adjective,uninhabited (masculine plural),"place,description",,,masculine,plural,,,False,False,False,,,,,,Quei paesi sono disabitati.,Those towns are uninhabited.
+disabitate,False,disabitato,uninhabited,adjective,uninhabited (feminine plural),"place,description",,,feminine,plural,,,False,False,False,,,,,,Le isole sono disabitate.,The islands are uninhabited.

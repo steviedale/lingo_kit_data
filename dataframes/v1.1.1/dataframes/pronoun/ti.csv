@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+ti,True,ti,you,pronoun,you,"core,people",direct_object,2s,,,,,False,False,False,,,,,clitic pronoun; direct object; informal 2nd person; not after prepositions (use 'te'),Non ti vedo.,I do not see you.
+ti,False,ti,you,pronoun,to you,"core,people",indirect_object,2s,,,,,False,False,False,,,,,clitic pronoun; indirect object; informal 2nd person; not after prepositions (use 'te'),Domani ti scrivo.,I will write to you tomorrow.
+ti,False,ti,you,pronoun,yourself,"core,people",reflexive,2s,,,,,False,False,False,,,,,clitic pronoun; reflexive; informal 2nd person,Ti lavi le mani?,Do you wash your hands?

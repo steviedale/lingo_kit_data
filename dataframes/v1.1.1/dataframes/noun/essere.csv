@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+essere,True,essere,being,noun,being,"core,concepts",,,masculine,singular,,,False,False,False,,,,,masculine noun; plural esseri,Ogni essere cerca calore.,Every being seeks warmth.
+un essere,False,essere,being,noun,a being,"core,concepts",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Ho visto un essere strano.,I saw a strange being.
+l'essere,False,essere,being,noun,the being,"core,concepts",,,masculine,singular,,,False,False,False,definite,l',l',,,L'essere è complesso.,The being is complex.
+esseri,False,essere,being,noun,beings,"core,concepts",,,masculine,plural,,,False,False,False,,,,,plural form,Esseri diversi convivono.,Different beings coexist.
+gli esseri,False,essere,being,noun,the beings,"core,concepts",,,masculine,plural,,,False,False,False,definite,gli,gli,,,Gli esseri soffrono.,The beings suffer.
+degli esseri,False,essere,being,noun,some beings,"core,concepts",,,masculine,plural,,,False,False,False,indefinite,gli,degli,di,partitive plural form,Studio degli esseri marini.,I study some marine beings.
+dell'essere,False,essere,being,noun,of being,"core,concepts",,,masculine,singular,,,False,False,False,articulated_preposition,l',dell',di,contraction of di + l',Parliamo dell'essere umano.,We talk about being human.
+all'essere,False,essere,being,noun,to being,"core,concepts",,,masculine,singular,,,False,False,False,articulated_preposition,l',all',a,contraction of a + l',Penso all'essere interiore.,I think about being within.
+dall'essere,False,essere,being,noun,from being,"core,concepts",,,masculine,singular,,,False,False,False,articulated_preposition,l',dall',da,contraction of da + l',Tutto nasce dall'essere.,Everything is born from being.
+nell'essere,False,essere,being,noun,in being,"core,concepts",,,masculine,singular,,,False,False,False,articulated_preposition,l',nell',in,contraction of in + l',Trova pace nell'essere.,Find peace in being.
+sull'essere,False,essere,being,noun,about being,"core,concepts",,,masculine,singular,,,False,False,False,articulated_preposition,l',sull',su,contraction of su + l',Leggo un saggio sull'essere.,I read an essay about being.
+coll'essere,False,essere,being,noun,with being,"core,concepts",,,masculine,singular,,,False,False,False,articulated_preposition,l',coll',con,contraction of con + l',Medito coll'essere interiore.,I meditate with the inner being.
+agli esseri,False,essere,being,noun,to the beings,"core,concepts",,,masculine,plural,,,False,False,False,articulated_preposition,gli,agli,a,contraction of a + gli,Mi rivolgo agli esseri umani.,I address the human beings.
+dagli esseri,False,essere,being,noun,from the beings,"core,concepts",,,masculine,plural,,,False,False,False,articulated_preposition,gli,dagli,da,contraction of da + gli,Imparo dagli esseri saggi.,I learn from wise beings.
+negli esseri,False,essere,being,noun,in the beings,"core,concepts",,,masculine,plural,,,False,False,False,articulated_preposition,gli,negli,in,contraction of in + gli,La coscienza è negli esseri.,Consciousness is in the beings.
+sugli esseri,False,essere,being,noun,about the beings,"core,concepts",,,masculine,plural,,,False,False,False,articulated_preposition,gli,sugli,su,contraction of su + gli,Un libro sugli esseri marini.,A book about marine beings.
+coi esseri,False,essere,being,noun,with the beings,"core,concepts",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Parlo coi esseri umani.,I speak with human beings.

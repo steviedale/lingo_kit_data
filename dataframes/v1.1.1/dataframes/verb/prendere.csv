@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+prendere,True,prendere,to take,verb,to take,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -ere verb; past participle irregular 'preso',Voglio prendere questo treno.,I want to take this train.
+prendendo,False,prendere,to take,verb,taking,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto prendendo una decisione.,I am making a decision.
+preso,False,prendere,to take,verb,taken,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,"past participle, irregular root, masculine singular",L'ho preso.,I took it.
+presa,False,prendere,to take,verb,taken,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,"past participle, irregular root, feminine singular",L'ho presa.,I took it.
+presi,False,prendere,to take,verb,taken,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,"past participle, irregular root, masculine plural",Li ho presi.,I took them.
+prese,False,prendere,to take,verb,taken,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,"past participle, irregular root, feminine plural",Le ho prese.,I took them.
+prendo,False,prendere,to take,verb,I take,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io prendo il treno.,I take the train.
+prendi,False,prendere,to take,verb,you take,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu prendi il mio libro.,You take my book.
+prende,False,prendere,to take,verb,he takes/she takes/you (formal) take,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui prende il pane.,He takes the bread.
+prendiamo,False,prendere,to take,verb,we take,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi prendiamo un caffè.,We take a coffee.
+prendete,False,prendere,to take,verb,you (plural) take,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi prendete appunti.,You take notes.
+prendono,False,prendere,to take,verb,they take,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro prendono il treno.,They take the train.
+prendevo,False,prendere,to take,verb,I was taking,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io prendevo sempre il bus.,I was taking the bus.
+prendevi,False,prendere,to take,verb,you were taking,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu prendevi il mio posto.,You were taking my seat.
+prendeva,False,prendere,to take,verb,he was taking/she was taking/you (formal) were taking,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei prendeva appunti.,She was taking notes.
+prendevamo,False,prendere,to take,verb,we were taking,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi prendevamo il cibo.,We were taking the food.
+prendevate,False,prendere,to take,verb,you (plural) were taking,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi prendevate spesso un taxi.,You were often taking a taxi.
+prendevano,False,prendere,to take,verb,they were taking,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro prendevano le scale.,They were taking the stairs.
+ho preso,False,prendere,to take,verb,I have taken,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'preso',Io ho preso il libro.,I have taken the book.
+hai preso,False,prendere,to take,verb,you have taken,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'preso',Tu hai preso il mio numero.,You have taken my number.
+ha preso,False,prendere,to take,verb,he has taken/she has taken/you (formal) have taken,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'preso'; also used as formal 'Lei',Ha preso il treno.,He has taken the train.
+abbiamo preso,False,prendere,to take,verb,we have taken,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'preso',Noi abbiamo preso il treno.,We have taken the train.
+avete preso,False,prendere,to take,verb,you (plural) have taken,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'preso',Voi avete preso i biglietti.,You have taken the tickets.
+hanno preso,False,prendere,to take,verb,they have taken,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'preso',Loro hanno preso i biglietti.,They have taken the tickets.

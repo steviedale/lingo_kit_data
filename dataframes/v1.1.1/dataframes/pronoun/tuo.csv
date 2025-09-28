@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+il tuo,True,tuo,your,pronoun,yours,"core,ownership",possessive,,masculine,singular,,,False,False,False,,,,,possessive pronoun; requires the definite article,Questo è il tuo.,This is yours.
+la tua,False,tuo,your,pronoun,yours,"core,ownership",possessive,,feminine,singular,,,False,False,False,,,,,possessive pronoun; feminine singular,Questa è la tua.,This is yours.
+i tuoi,False,tuo,your,pronoun,yours,"core,ownership",possessive,,masculine,plural,,,False,False,False,,,,,possessive pronoun; masculine plural,Questi sono i tuoi.,These are yours.
+le tue,False,tuo,your,pronoun,yours,"core,ownership",possessive,,feminine,plural,,,False,False,False,,,,,possessive pronoun; feminine plural,Queste sono le tue.,These are yours.

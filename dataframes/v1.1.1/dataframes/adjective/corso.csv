@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+corso,True,corso,Corsican,adjective,Corsican (masculine),"people,geography",,,masculine,singular,,,False,False,False,,,,,,Un piatto corso è piccante.,A Corsican dish is spicy.
+corsa,False,corso,Corsican,adjective,Corsican (feminine),"people,geography",,,feminine,singular,,,False,False,False,,,,,,La cucina corsa è saporita.,Corsican cuisine is tasty.
+corsi,False,corso,Corsican,adjective,Corsican (masculine plural),"people,geography",,,masculine,plural,,,False,False,False,,,,,,I vini corsi sono famosi.,Corsican wines are famous.
+corse,False,corso,Corsican,adjective,Corsican (feminine plural),"people,geography",,,feminine,plural,,,False,False,False,,,,,,Le tradizioni corse sono antiche.,Corsican traditions are ancient.

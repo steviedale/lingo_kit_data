@@ -1,0 +1,37 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+essere,True,essere,to be,verb,to be,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,irregular verb,Voglio essere onesto.,I want to be honest.
+essendo,False,essere,to be,verb,being,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Essendo stanco vado a casa.,Being tired I am going home.
+stato,False,essere,to be,verb,been,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle masculine singular,Ci sono stato ieri.,I was there yesterday.
+stata,False,essere,to be,verb,been,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle feminine singular,Ci sono stata ieri.,I was there yesterday.
+stati,False,essere,to be,verb,been,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle masculine plural,Ci siamo stati molte volte.,We have been there many times.
+state,False,essere,to be,verb,been,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle feminine plural,Ci siete state ieri?,Were you there yesterday?
+sono,False,essere,to be,verb,I am,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io sono a casa.,I am at home.
+sei,False,essere,to be,verb,you are,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Sei pronto?,Are you ready?
+è,False,essere,to be,verb,he is/she is/you (formal) are,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal Lei,Lui è stanco.,He is tired.
+siamo,False,essere,to be,verb,we are,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Siamo amici.,We are friends.
+siete,False,essere,to be,verb,you (plural) are,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Siete liberi stasera?,Are you free tonight?
+sono,False,essere,to be,verb,they are,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro sono felici.,They are happy.
+ero,False,essere,to be,verb,I was,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Quando ero piccolo giocavo fuori.,When I was little I played outside.
+eri,False,essere,to be,verb,you were,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Eri al mare ieri?,Were you at the beach yesterday?
+era,False,essere,to be,verb,he was/she was/you (formal) were,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal Lei,Lei era in ufficio.,She was at the office.
+eravamo,False,essere,to be,verb,we were,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Eravamo in ritardo.,We were late.
+eravate,False,essere,to be,verb,you (plural) were,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Eravate già a casa.,You were already at home.
+erano,False,essere,to be,verb,they were,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Erano contenti.,They were happy.
+sono stato,False,essere,to be,verb,I have been,"core,verb",,1s,masculine,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle stato,Sono stato al museo.,I have been to the museum.
+sono stata,False,essere,to be,verb,I have been,"core,verb",,1s,feminine,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle stato,Sono stata al museo.,I have been to the museum.
+sei stato,False,essere,to be,verb,you have been,"core,verb",,2s,masculine,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle stato,Sei stato bravo.,You have been good.
+sei stata,False,essere,to be,verb,you have been,"core,verb",,2s,feminine,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle stato,Sei stata bravissima.,You have been very good.
+è stato,False,essere,to be,verb,he has been/she has been/you (formal) have been,"core,verb",,3s,masculine,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle stato; also used as formal Lei,È stato difficile.,It has been difficult.
+è stata,False,essere,to be,verb,he has been/she has been/you (formal) have been,"core,verb",,3s,feminine,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle stato; also used as formal Lei,È stata una bella giornata.,It has been a beautiful day.
+siamo stati,False,essere,to be,verb,we have been,"core,verb",,1p,masculine,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle stato,Siamo stati a Roma.,We have been to Rome.
+siamo state,False,essere,to be,verb,we have been,"core,verb",,1p,feminine,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle stato,Siamo state a Roma.,We have been to Rome.
+siete stati,False,essere,to be,verb,you (plural) have been,"core,verb",,2p,masculine,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle stato,Siete stati fortunati.,You have been lucky.
+siete state,False,essere,to be,verb,you (plural) have been,"core,verb",,2p,feminine,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle stato,Siete state fortunate.,You have been fortunate.
+sono stati,False,essere,to be,verb,they have been,"core,verb",,3p,masculine,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle stato,Sono stati gentili.,They have been kind.
+sono state,False,essere,to be,verb,they have been,"core,verb",,3p,feminine,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle stato,Sono state gentili.,They have been kind.
+sia,False,essere,to be,verb,that I be,"core,verb",,1s,,singular,subjunctive,present,False,False,False,,,,,present subjunctive form,Non credo che io sia pronto.,I do not think that I am ready.
+sia,False,essere,to be,verb,that you be,"core,verb",,2s,,singular,subjunctive,present,False,False,False,,,,,present subjunctive form,Spero che tu sia felice.,I hope that you are happy.
+sia,False,essere,to be,verb,that he be/that she be/that you (formal) be,"core,verb",,3s,,singular,subjunctive,present,False,False,False,,,,,present subjunctive form; also used as formal Lei,È possibile che lei sia a casa.,It is possible that she is at home.
+siamo,False,essere,to be,verb,that we be,"core,verb",,1p,,plural,subjunctive,present,False,False,False,,,,,present subjunctive form,Temo che siamo in ritardo.,I fear that we are late.
+siate,False,essere,to be,verb,that you (plural) be,"core,verb",,2p,,plural,subjunctive,present,False,False,False,,,,,present subjunctive form,Spero che siate d'accordo.,I hope that you agree.
+siano,False,essere,to be,verb,that they be,"core,verb",,3p,,plural,subjunctive,present,False,False,False,,,,,present subjunctive form,Dubito che siano arrivati.,I doubt that they have arrived.

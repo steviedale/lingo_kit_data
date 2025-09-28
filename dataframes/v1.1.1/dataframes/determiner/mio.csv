@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+mio,True,mio,my/mine,determiner,my,"core,ownership",possessive,,masculine,singular,,,False,False,False,,,,,first person singular; agrees with noun,Questo è il mio libro.,This is my book.
+mia,False,mio,my/mine,determiner,my,"core,ownership",possessive,,feminine,singular,,,False,False,False,,,,,first person singular; agrees with noun,Prendo la mia borsa.,I take my bag.
+miei,False,mio,my/mine,determiner,my,"core,ownership",possessive,,masculine,plural,,,False,False,False,,,,,first person singular; agrees with noun,Saluto i miei amici.,I greet my friends.
+mie,False,mio,my/mine,determiner,my,"core,ownership",possessive,,feminine,plural,,,False,False,False,,,,,first person singular; agrees with noun,Le mie scarpe sono nuove.,My shoes are new.

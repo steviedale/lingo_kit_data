@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+molto,True,molto,very/much/many,determiner,much,"degree,quantity",quantifier,,masculine,singular,,,False,False,False,,,,,,Ho molto lavoro.,I have a lot of work.
+molta,False,molto,very/much/many,determiner,much,"degree,quantity",quantifier,,feminine,singular,,,False,False,False,,,,,,C'è molta gente.,There are a lot of people.
+molti,False,molto,very/much/many,determiner,many,"degree,quantity",quantifier,,masculine,plural,,,False,False,False,,,,,,Ho molti amici.,I have many friends.
+molte,False,molto,very/much/many,determiner,many,"degree,quantity",quantifier,,feminine,plural,,,False,False,False,,,,,,Ci sono molte idee.,There are many ideas.

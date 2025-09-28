@@ -1,0 +1,19 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+casa,True,casa,house,noun,house,"home,places",,,feminine,singular,,,False,False,False,,,,,base lemma,Cerco casa economica.,I am looking for an inexpensive house.
+una casa,False,casa,house,noun,a house,"home,places",,,feminine,singular,,,False,False,False,indefinite,una,una,,,Ho comprato una casa.,I bought a house.
+la casa,False,casa,house,noun,the house,"home,places",,,feminine,singular,,,False,False,False,definite,la,la,,,La casa è grande.,The house is big.
+case,False,casa,house,noun,houses,"home,places",,,feminine,plural,,,False,False,False,,,,,plural form,Case nuove sorgono qui.,New houses are being built here.
+le case,False,casa,house,noun,the houses,"home,places",,,feminine,plural,,,False,False,False,definite,le,le,,,Le case sono vicine.,The houses are close.
+delle case,False,casa,house,noun,some houses,"home,places",,,feminine,plural,,,False,False,False,indefinite,le,delle,di,partitive plural form,Abbiamo visto delle case.,We saw some houses.
+della casa,False,casa,house,noun,of the house,"home,places",,,feminine,singular,,,False,False,False,articulated_preposition,la,della,di,contraction of di + la,Il tetto della casa è rosso.,The roof of the house is red.
+delle case,False,casa,house,noun,of the houses,"home,places",,,feminine,plural,,,False,False,False,articulated_preposition,le,delle,di,contraction of di + le,Parliamo delle case vecchie.,We are talking about the old houses.
+alla casa,False,casa,house,noun,to the house,"home,places",,,feminine,singular,,,False,False,False,articulated_preposition,la,alla,a,contraction of a + la,Porto i fiori alla casa.,I bring the flowers to the house.
+alle case,False,casa,house,noun,to the houses,"home,places",,,feminine,plural,,,False,False,False,articulated_preposition,le,alle,a,contraction of a + le,Mi avvicino alle case.,I move closer to the houses.
+dalla casa,False,casa,house,noun,from the house,"home,places",,,feminine,singular,,,False,False,False,articulated_preposition,la,dalla,da,contraction of da + la,Esco dalla casa.,I exit the house.
+dalle case,False,casa,house,noun,from the houses,"home,places",,,feminine,plural,,,False,False,False,articulated_preposition,le,dalle,da,contraction of da + le,Passo lontano dalle case.,I pass far from the houses.
+nella casa,False,casa,house,noun,in the house,"home,places",,,feminine,singular,,,False,False,False,articulated_preposition,la,nella,in,contraction of in + la,Vivo nella casa.,I live in the house.
+nelle case,False,casa,house,noun,in the houses,"home,places",,,feminine,plural,,,False,False,False,articulated_preposition,le,nelle,in,contraction of in + le,I bambini giocano nelle case.,The children play in the houses.
+sulla casa,False,casa,house,noun,about the house,"home,places",,,feminine,singular,,,False,False,False,articulated_preposition,la,sulla,su,contraction of su + la,Leggo un articolo sulla casa.,I read an article about the house.
+sulle case,False,casa,house,noun,about the houses,"home,places",,,feminine,plural,,,False,False,False,articulated_preposition,le,sulle,su,contraction of su + le,Ho dati sulle case storiche.,I have data about the historic houses.
+con la casa,False,casa,house,noun,with the house,"home,places",,,feminine,singular,,,False,False,False,articulated_preposition,la,con la,con,no contraction with con,Lavoro con la casa.,I work with the house.
+con le case,False,casa,house,noun,with the houses,"home,places",,,feminine,plural,,,False,False,False,articulated_preposition,le,con le,con,no contraction with con,Collaboriamo con le case editrici.,We collaborate with the publishing houses.

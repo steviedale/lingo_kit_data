@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+adulto,True,adulto,adult,adjective,adult (masculine),"people,age",,,masculine,singular,,,False,False,False,,,,,variable adjective,Il pubblico adulto paga di più.,The adult audience pays more.
+adulta,False,adulto,adult,adjective,adult (feminine),"people,age",,,feminine,singular,,,False,False,False,,,,,,Una donna adulta decide da sola.,An adult woman decides on her own.
+adulti,False,adulto,adult,adjective,adult (masculine plural),"people,age",,,masculine,plural,,,False,False,False,,,,,,I figli adulti vivono da soli.,The adult children live on their own.
+adulte,False,adulto,adult,adjective,adult (feminine plural),"people,age",,,feminine,plural,,,False,False,False,,,,,,Le studentesse adulte lavorano la sera.,The adult students work in the evening.

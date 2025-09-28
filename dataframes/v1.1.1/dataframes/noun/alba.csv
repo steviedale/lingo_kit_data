@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+alba,True,alba,dawn,noun,dawn,"time,nature",,,feminine,singular,,,False,False,False,,,,,regular feminine noun,Cerco alba tranquilla.,I am looking for a peaceful dawn.
+un'alba,False,alba,dawn,noun,a dawn,"time,nature",,,feminine,singular,,,False,False,False,indefinite,un',un',,,È un'alba fredda.,It is a cold dawn.
+l'alba,False,alba,dawn,noun,the dawn,"time,nature",,,feminine,singular,,,False,False,False,definite,l',l',,,L'alba arriva presto.,Dawn arrives early.
+albe,False,alba,dawn,noun,dawns,"time,nature",,,feminine,plural,,,False,False,False,,,,,,Albe fredde sono tipiche qui.,Cold dawns are typical here.
+le albe,False,alba,dawn,noun,the dawns,"time,nature",,,feminine,plural,,,False,False,False,definite,le,le,,,Le albe qui sono spettacolari.,The dawns here are spectacular.
+delle albe,False,alba,dawn,noun,some dawns,"time,nature",,,feminine,plural,,,False,False,False,indefinite,le,delle,di,partitive plural form,Ho visto delle albe incredibili.,I have seen some incredible dawns.
+dell'alba,False,alba,dawn,noun,of the dawn,"time,nature",,,feminine,singular,,,False,False,False,articulated_preposition,l',dell',di,contraction of di + l',Il cielo dell'alba è rosa.,The sky of the dawn is pink.
+all'alba,False,alba,dawn,noun,at dawn,"time,nature",,,feminine,singular,,,False,False,False,articulated_preposition,l',all',a,contraction of a + l',Partiamo all'alba.,We leave at dawn.
+alle albe,False,alba,dawn,noun,to the dawns,"time,nature",,,feminine,plural,,,False,False,False,articulated_preposition,le,alle,a,contraction of a + le,Dedico queste foto alle albe.,I dedicate these photos to the dawns.
+dall'alba,False,alba,dawn,noun,from dawn,"time,nature",,,feminine,singular,,,False,False,False,articulated_preposition,l',dall',da,contraction of da + l',Lavoro dall'alba.,I work from dawn.
+dalle albe,False,alba,dawn,noun,from the dawns,"time,nature",,,feminine,plural,,,False,False,False,articulated_preposition,le,dalle,da,contraction of da + le,Prendo ispirazione dalle albe.,I take inspiration from the dawns.
+nell'alba,False,alba,dawn,noun,in the dawn,"time,nature",,,feminine,singular,,,False,False,False,articulated_preposition,l',nell',in,contraction of in + l',Sparì nell'alba.,He disappeared into the dawn.
+nelle albe,False,alba,dawn,noun,in the dawns,"time,nature",,,feminine,plural,,,False,False,False,articulated_preposition,le,nelle,in,contraction of in + le,Trovo pace nelle albe.,I find peace in the dawns.
+sull'alba,False,alba,dawn,noun,at dawn,"time,nature",,,feminine,singular,,,False,False,False,articulated_preposition,l',sull',su,"contraction of su + l'; often ""around dawn""",Arriviamo sull'alba.,We arrive at dawn.
+sulle albe,False,alba,dawn,noun,about dawns,"time,nature",,,feminine,plural,,,False,False,False,articulated_preposition,le,sulle,su,contraction of su + le,Leggo un libro sulle albe.,I read a book about dawns.
+con l'alba,False,alba,dawn,noun,with the dawn,"time,nature",,,feminine,singular,,,False,False,False,articulated_preposition,l',con l',con,no standard contraction with con + l' in modern usage,Partiremo con l'alba.,We will depart with the dawn.
+con le albe,False,alba,dawn,noun,with the dawns,"time,nature",,,feminine,plural,,,False,False,False,articulated_preposition,le,con le,con,no standard contraction with con + le in modern usage,Ho un calendario con le albe.,I have a calendar with the dawns.

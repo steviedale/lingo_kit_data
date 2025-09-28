@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+sì,True,sì,yes,noun,yes,"core,conversation",,,masculine,singular,,,False,False,False,,,,,base lemma; invariable noun,Dico solo sì.,I say only yes.
+un sì,False,sì,yes,noun,a yes,"core,conversation",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Ho ricevuto un sì.,I received a yes.
+il sì,False,sì,yes,noun,the yes,"core,conversation",,,masculine,singular,,,False,False,False,definite,il,il,,,Il sì è arrivato.,The yes arrived.
+sì,False,sì,yes,noun,yes votes,"core,conversation",,,masculine,plural,,,False,False,False,,,,,invariable plural form,Sì ripetuti annoiano.,Repeated yeses are boring.
+i sì,False,sì,yes,noun,the yes votes,"core,conversation",,,masculine,plural,,,False,False,False,definite,i,i,,invariable plural form,I sì hanno vinto.,The yes votes won.
+dei sì,False,sì,yes,noun,some yes votes,"core,conversation",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Ho sentito dei sì timidi.,I heard some timid yes votes.
+del sì,False,sì,yes,noun,of the yes,"core,conversation",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,Il peso del sì è enorme.,The weight of the yes is enormous.
+al sì,False,sì,yes,noun,to the yes,"core,conversation",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Ha brindato al sì.,He toasted to the yes.
+ai sì,False,sì,yes,noun,to the yes votes,"core,conversation",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Diamo spazio ai sì.,We give space to the yes votes.
+dal sì,False,sì,yes,noun,from the yes,"core,conversation",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Tutto parte dal sì.,Everything starts from the yes.
+dai sì,False,sì,yes,noun,from the yes votes,"core,conversation",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Imparo dai sì e dai no.,I learn from the yes votes and the no votes.
+nel sì,False,sì,yes,noun,in the yes,"core,conversation",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,C'è forza nel sì.,There is strength in the yes.
+nei sì,False,sì,yes,noun,in the yes votes,"core,conversation",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Nei sì si sente coraggio.,In the yes votes you can feel courage.
+sul sì,False,sì,yes,noun,about the yes,"core,conversation",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Discutiamo sul sì.,We discuss the yes.
+sui sì,False,sì,yes,noun,about the yes votes,"core,conversation",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Le analisi sui sì sono pronte.,The analyses about the yes votes are ready.
+col sì,False,sì,yes,noun,with the yes,"core,conversation",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Ha convinto col sì.,He convinced with the yes.
+coi sì,False,sì,yes,noun,with the yes votes,"core,conversation",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Lavora coi sì e coi no.,He works with the yes votes and the no votes.

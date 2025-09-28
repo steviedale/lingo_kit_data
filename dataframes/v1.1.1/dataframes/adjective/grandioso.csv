@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+grandioso,True,grandioso,magnificent,adjective,magnificent (masculine),"manner,quality",,,masculine,singular,,,False,False,False,,,,,variable adjective,È un concerto grandioso.,It is a magnificent concert.
+grandiosa,False,grandioso,magnificent,adjective,magnificent (feminine),"manner,quality",,,feminine,singular,,,False,False,False,,,,,feminine form,È una festa grandiosa.,It is a magnificent party.
+grandiosi,False,grandioso,magnificent,adjective,magnificent (masculine plural),"manner,quality",,,masculine,plural,,,False,False,False,,,,,masculine plural form,Sono progetti grandiosi.,They are magnificent projects.
+grandiose,False,grandioso,magnificent,adjective,magnificent (feminine plural),"manner,quality",,,feminine,plural,,,False,False,False,,,,,feminine plural form,Sono idee grandiose.,They are magnificent ideas.

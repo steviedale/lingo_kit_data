@@ -1,0 +1,6 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+spesso,True,spesso,often,adverb,often,"time,frequency",,,,,,,False,False,False,,,,,adverb of frequency,Vado spesso al cinema.,I often go to the cinema.
+più spesso,False,spesso,often,adverb,more often,"time,frequency",,,,,,,True,False,False,,,,,comparative form,Dovremmo vederci più spesso.,We should see each other more often.
+meno spesso,False,spesso,often,adverb,less often,"time,frequency",,,,,,,True,False,False,,,,,comparative form,Ora piove meno spesso.,It rains less often now.
+spessissimo,False,spesso,often,adverb,very often,"time,frequency",,,,,,,False,True,False,,,,,superlative form,Lei chiama spessissimo.,She calls very often.
+molto spesso,False,spesso,often,adverb,very often,"time,frequency",,,,,,,False,True,False,,,,,intensified form,Arrivo molto spesso in anticipo.,I very often arrive early.

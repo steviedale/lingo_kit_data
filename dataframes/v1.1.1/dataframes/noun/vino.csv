@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+vino,True,vino,wine,noun,wine,"food,drink",,,masculine,singular,,,False,False,False,,,,,mass noun; plural 'vini' for types,Bevo vino la sera.,I drink wine in the evening.
+un vino,False,vino,wine,noun,a wine,"food,drink",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Prendo un vino rosso.,I will have a red wine.
+il vino,False,vino,wine,noun,the wine,"food,drink",,,masculine,singular,,,False,False,False,definite,il,il,,,Il vino è freddo.,The wine is cold.
+vini,False,vino,wine,noun,wines,"food,drink",,,masculine,plural,,,False,False,False,,,,,plural form,Conosco vini toscani.,I know Tuscan wines.
+i vini,False,vino,wine,noun,the wines,"food,drink",,,masculine,plural,,,False,False,False,definite,i,i,,,I vini italiani sono famosi.,Italian wines are famous.
+dei vini,False,vino,wine,noun,some wines,"food,drink",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Assaggio dei vini locali.,I taste some local wines.
+del vino,False,vino,wine,noun,of the wine,"food,drink",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,Parliamo del vino.,We talk about the wine.
+al vino,False,vino,wine,noun,to the wine,"food,drink",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Brindo al vino nuovo.,I toast to the new wine.
+ai vini,False,vino,wine,noun,to the wines,"food,drink",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Abbiniamo i piatti ai vini.,We pair the dishes with the wines.
+dal vino,False,vino,wine,noun,from the wine,"food,drink",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Il profumo viene dal vino.,The aroma comes from the wine.
+dai vini,False,vino,wine,noun,from the wines,"food,drink",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Questi aromi provengono dai vini.,These aromas come from the wines.
+nel vino,False,vino,wine,noun,in the wine,"food,drink",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,Metto le spezie nel vino.,I put the spices in the wine.
+nei vini,False,vino,wine,noun,in the wines,"food,drink",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Trovo note fruttate nei vini.,I find fruity notes in the wines.
+sul vino,False,vino,wine,noun,about the wine,"food,drink",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Leggo un articolo sul vino.,I read an article about the wine.
+sui vini,False,vino,wine,noun,about the wines,"food,drink",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Abbiamo dati sui vini locali.,We have data about local wines.
+col vino,False,vino,wine,noun,with the wine,"food,drink",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Questo formaggio va col vino.,This cheese goes with the wine.
+coi vini,False,vino,wine,noun,with the wines,"food,drink",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Lavoriamo coi vini naturali.,We work with natural wines.

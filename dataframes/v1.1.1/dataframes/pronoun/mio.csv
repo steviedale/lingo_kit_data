@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+il mio,True,mio,my/mine,pronoun,mine,"core,ownership",possessive,,masculine,singular,,,False,False,False,,,,,possessive pronoun; used with definite article,Questo è il mio.,This is mine.
+la mia,False,mio,my/mine,pronoun,mine,"core,ownership",possessive,,feminine,singular,,,False,False,False,,,,,possessive pronoun; used with definite article,Questa è la mia.,This one is mine.
+i miei,False,mio,my/mine,pronoun,mine,"core,ownership",possessive,,masculine,plural,,,False,False,False,,,,,possessive pronoun; used with definite article,Questi sono i miei.,These are mine.
+le mie,False,mio,my/mine,pronoun,mine,"core,ownership",possessive,,feminine,plural,,,False,False,False,,,,,possessive pronoun; used with definite article,Queste sono le mie.,These are mine.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+tanto,True,tanto,so much/so many,determiner,so much,"quantity,intensity",quantifier,,masculine,singular,,,False,False,False,,,,,agrees with noun,Ho tanto tempo oggi.,I have so much time today.
+tanta,False,tanto,so much/so many,determiner,so much,"quantity,intensity",quantifier,,feminine,singular,,,False,False,False,,,,,agrees with noun,Bevo tanta acqua ogni giorno.,I drink so much water every day.
+tanti,False,tanto,so much/so many,determiner,so many,"quantity,intensity",quantifier,,masculine,plural,,,False,False,False,,,,,agrees with noun,Ci sono tanti problemi in ufficio.,There are so many problems at the office.
+tante,False,tanto,so much/so many,determiner,so many,"quantity,intensity",quantifier,,feminine,plural,,,False,False,False,,,,,agrees with noun,Abbiamo tante idee nuove.,We have so many new ideas.

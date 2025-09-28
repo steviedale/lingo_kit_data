@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+amare,True,amare,to love,verb,to love,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -are verb; used with auxiliary avere,Voglio amare senza paura.,I want to love without fear.
+amando,False,amare,to love,verb,loving,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto amando questa canzone.,I am loving this song.
+amato,False,amare,to love,verb,loved,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle masculine singular,L'ho amato.,I loved him/it.
+amata,False,amare,to love,verb,loved,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle feminine singular,L'ho amata.,I loved her/it.
+amati,False,amare,to love,verb,loved,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle masculine plural,Li ho amati.,I loved them.
+amate,False,amare,to love,verb,loved,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle feminine plural,Le ho amate.,I loved them.
+amo,False,amare,to love,verb,I love,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io amo il mare.,I love the sea.
+ami,False,amare,to love,verb,you love,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu ami la musica.,You love music.
+ama,False,amare,to love,verb,he loves/she loves/you (formal) love,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lei ama il teatro.,He loves/She loves/You (formal) love the theater.
+amiamo,False,amare,to love,verb,we love,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi amiamo viaggiare.,We love to travel.
+amate,False,amare,to love,verb,you (plural) love,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi amate la montagna.,You (plural) love the mountains.
+amano,False,amare,to love,verb,they love,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro amano i gatti.,They love cats.
+amavo,False,amare,to love,verb,I was loving/I used to love,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Da giovane amavo correre.,When I was young I used to love running.
+amavi,False,amare,to love,verb,you were loving/you used to love,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Da bambino amavi i treni.,As a child you used to love trains.
+amava,False,amare,to love,verb,he was loving/she was loving/you (formal) were loving,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei amava leggere.,She used to love reading.
+amavamo,False,amare,to love,verb,we were loving/we used to love,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi amavamo uscire tardi.,We used to love going out late.
+amavate,False,amare,to love,verb,you (plural) were loving/you (plural) used to love,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi amavate giocare a carte.,You (plural) used to love playing cards.
+amavano,False,amare,to love,verb,they were loving/they used to love,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro amavano viaggiare.,They used to love traveling.
+ho amato,False,amare,to love,verb,I have loved,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'amato',Ho amato quella città.,I have loved that city.
+hai amato,False,amare,to love,verb,you have loved,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'amato',Hai amato quel film.,You have loved that movie.
+ha amato,False,amare,to love,verb,he has loved/she has loved/you (formal) have loved,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei'; past participle 'amato',Ha amato la sua famiglia.,He has loved his family.
+abbiamo amato,False,amare,to love,verb,we have loved,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'amato',Abbiamo amato il concerto.,We have loved the concert.
+avete amato,False,amare,to love,verb,you (plural) have loved,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'amato',Avete amato la serata.,You (plural) have loved the evening.
+hanno amato,False,amare,to love,verb,they have loved,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'amato',Hanno amato il viaggio.,They have loved the trip.

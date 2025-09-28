@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+sapere,True,sapere,to know,verb,to know,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,"irregular present (so, sai, sa, sappiamo, sapete, sanno); used with auxiliary avere; past participle 'saputo'.",Voglio sapere la verità.,I want to know the truth.
+sapendo,False,sapere,to know,verb,knowing,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,"Sapendo questo, parto subito.","Knowing this, I leave right away."
+saputo,False,sapere,to know,verb,found out,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,"past participle, masculine singular",L'ho saputo.,I found it out.
+saputa,False,sapere,to know,verb,found out,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,"past participle, feminine singular",L'ho saputa.,I found it out.
+saputi,False,sapere,to know,verb,found out,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,"past participle, masculine plural",Li ho saputi.,I found them out.
+sapute,False,sapere,to know,verb,found out,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,"past participle, feminine plural",Le ho sapute.,I found them out.
+so,False,sapere,to know,verb,I know,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Lo so.,I know it.
+sai,False,sapere,to know,verb,you know,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Sai la risposta?,Do you know the answer?
+sa,False,sapere,to know,verb,he knows/she knows/you (formal) know,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Non lo sa.,He does not know it.
+sappiamo,False,sapere,to know,verb,we know,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Lo sappiamo tutti.,We all know it.
+sapete,False,sapere,to know,verb,you (plural) know,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Sapete già tutto.,You already know everything.
+sanno,False,sapere,to know,verb,they know,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Sanno dov'è.,They know where it is.
+sapevo,False,sapere,to know,verb,I knew,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Non sapevo nulla.,I knew nothing.
+sapevi,False,sapere,to know,verb,you knew,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Sapevi del cambio?,Did you know about the change?
+sapeva,False,sapere,to know,verb,he knew/she knew/you (formal) knew,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lo sapeva già.,He already knew it.
+sapevamo,False,sapere,to know,verb,we knew,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Sapevamo la verità.,We knew the truth.
+sapevate,False,sapere,to know,verb,you (plural) knew,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Non sapevate il numero.,You did not know the number.
+sapevano,False,sapere,to know,verb,they knew,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Sapevano che arrivavi.,They knew you were arriving.
+ho saputo,False,sapere,to know,verb,I have found out,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Ho saputo ieri.,I found out yesterday.
+hai saputo,False,sapere,to know,verb,you have found out,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hai saputo la notizia?,Did you find out the news?
+ha saputo,False,sapere,to know,verb,he has found out/she has found out/you (formal) have found out,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha saputo del ritardo.,He found out about the delay.
+abbiamo saputo,False,sapere,to know,verb,we have found out,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Abbiamo saputo tutto.,We have found out everything.
+avete saputo,False,sapere,to know,verb,you (plural) have found out,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Avete saputo del corso?,Did you find out about the course?
+hanno saputo,False,sapere,to know,verb,they have found out,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hanno saputo tardi.,They found out late.

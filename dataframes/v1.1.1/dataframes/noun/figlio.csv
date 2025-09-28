@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+figlio,True,figlio,son,noun,son,"family,people",,,masculine,singular,,,False,False,False,,,,,base lemma,Cerco figlio adottivo.,I am looking for an adoptive son.
+un figlio,False,figlio,son,noun,a son,"family,people",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Hanno un figlio.,They have a son.
+il figlio,False,figlio,son,noun,the son,"family,people",,,masculine,singular,,,False,False,False,definite,il,il,,,Conosco il figlio.,I know the son.
+figli,False,figlio,son,noun,children,"family,people",,,masculine,plural,,,False,False,False,,,,,plural form,Figli crescono in fretta.,Children grow up fast.
+i figli,False,figlio,son,noun,the children,"family,people",,,masculine,plural,,,False,False,False,definite,i,i,,,I figli dormono.,The children are sleeping.
+dei figli,False,figlio,son,noun,some children,"family,people",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Conosco dei figli gentili.,I know some nice children.
+del figlio,False,figlio,son,noun,of the son,"family,people",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,Il nome del figlio è Luca.,The son's name is Luca.
+al figlio,False,figlio,son,noun,to the son,"family,people",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Parlo al figlio.,I speak to the son.
+ai figli,False,figlio,son,noun,to the children,"family,people",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Scrivo ai figli.,I write to the children.
+dal figlio,False,figlio,son,noun,from the son,"family,people",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Ricevo una chiamata dal figlio.,I receive a call from the son.
+dai figli,False,figlio,son,noun,from the children,"family,people",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Ho sentito notizie dai figli.,I heard news from the children.
+nel figlio,False,figlio,son,noun,in the son,"family,people",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,Rivede sé stesso nel figlio.,He sees himself in the son.
+nei figli,False,figlio,son,noun,in the children,"family,people",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Trova conforto nei figli.,He finds comfort in the children.
+sul figlio,False,figlio,son,noun,about the son,"family,people",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Leggo un articolo sul figlio.,I read an article about the son.
+sui figli,False,figlio,son,noun,about the children,"family,people",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Leggo un articolo sui figli.,I read an article about the children.
+col figlio,False,figlio,son,noun,with the son,"family,people",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Esco col figlio.,I go out with the son.
+coi figli,False,figlio,son,noun,with the children,"family,people",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Viaggia coi figli.,He travels with the children.

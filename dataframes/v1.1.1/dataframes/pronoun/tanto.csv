@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+tanto,True,tanto,so much/so many,pronoun,so much,"quantity,intensity",quantifier,,masculine,singular,,,False,False,False,,,,,often with ne,Ne voglio tanto.,I want so much of it.
+tanta,False,tanto,so much/so many,pronoun,so much,"quantity,intensity",quantifier,,feminine,singular,,,False,False,False,,,,,often with ne,Ne è rimasta tanta.,So much of it is left.
+tanti,False,tanto,so much/so many,pronoun,so many,"quantity,intensity",quantifier,,masculine,plural,,,False,False,False,,,,,often with ne,Ne ho visti tanti.,I have seen so many of them.
+tante,False,tanto,so much/so many,pronoun,so many,"quantity,intensity",quantifier,,feminine,plural,,,False,False,False,,,,,often with ne,Ne ho prese tante.,I have taken so many of them.

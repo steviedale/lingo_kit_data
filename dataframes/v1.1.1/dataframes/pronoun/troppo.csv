@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+troppo,True,troppo,too/too much,pronoun,too much,"quantity,degree",quantifier,,,,,,False,False,False,,,,,pronominal use; often with 'ne',Ce n'è troppo.,There is too much of it.
+troppa,False,troppo,too/too much,pronoun,too much,"quantity,degree",quantifier,,feminine,singular,,,False,False,False,,,,,pronominal use; often with 'ne',Ce n'è troppa.,There is too much of it.
+troppi,False,troppo,too/too much,pronoun,too many,"quantity,degree",quantifier,,masculine,plural,,,False,False,False,,,,,pronominal use; often with 'ne',Ne ho presi troppi.,I have taken too many (of them).
+troppe,False,troppo,too/too much,pronoun,too many,"quantity,degree",quantifier,,feminine,plural,,,False,False,False,,,,,pronominal use; often with 'ne',Ne ho comprate troppe.,I have bought too many (of them).

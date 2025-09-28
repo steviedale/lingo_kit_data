@@ -1,0 +1,9 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+me,True,me,me,pronoun,me,"core,pronoun",personal,1s,,singular,,,False,False,False,,,,,stressed form; used after prepositions or for emphasis,Vieni con me.,Come with me.
+a me,False,me,me,pronoun,to me,"core,pronoun",personal,1s,,singular,,,False,False,False,,,,,after preposition a,Va bene a me.,It is fine for me.
+per me,False,me,me,pronoun,for me,"core,pronoun",personal,1s,,singular,,,False,False,False,,,,,after preposition per,Questo è facile per me.,This is easy for me.
+con me,False,me,me,pronoun,with me,"core,pronoun",personal,1s,,singular,,,False,False,False,,,,,after preposition con,Resta con me.,Stay with me.
+da me,False,me,me,pronoun,at my place,"core,pronoun",personal,1s,,singular,,,False,False,False,,,,,common for at my place,Ci vediamo da me.,We will meet at my place.
+su di me,False,me,me,pronoun,about me,"core,pronoun",personal,1s,,singular,,,False,False,False,,,,,means about me,Ho trovato un articolo su di me.,I found an article about me.
+di me,False,me,me,pronoun,of me,"core,pronoun",personal,1s,,singular,,,False,False,False,,,,,used in comparisons and of-constructions,Hai paura di me?,Are you afraid of me?
+me lo,False,me,me,pronoun,it to me,"core,pronoun",personal,1s,,singular,,,False,False,False,,,,,combined clitics me + lo; indirect object plus direct object,Poi me lo presti?,Will you lend it to me?

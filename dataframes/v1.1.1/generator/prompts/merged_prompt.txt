@@ -157,6 +157,26 @@ preposition = simple preposition (di/a/da/in/su/con).
 
 Use notes for irregular plurals, invariable forms, mass nouns, contractions, etc.
 
+Gendered noun pairs (masculine/feminine variants):
+
+Use a single base lemma for professions/roles or nouns that have both masculine and feminine surface forms but the same meaning (e.g., cuoco/cuoca, attore/attrice).
+
+- base_lemma_italian: the dictionary masculine form (e.g., cuoco).
+- is_base: true only for the bare masculine singular lemma row; all other rows (including feminine forms) are false.
+- Generate the full set of masculine and feminine singular/plural rows (bare, with definite/indefinite articles, partitives, and articulated prepositions) under the same base_lemma_italian.
+- Do not create a separate base lemma for the feminine variant unless it carries a different meaning or is an independent lexeme.
+- Keep the same topics and base_lemma_english for all rows sharing the base_lemma_italian.
+
+English translation gender labeling for nouns (conditional):
+
+Only add gender labels to translation_english when a noun lemma includes both masculine and feminine forms.
+
+- When both genders exist for the lemma: append “(masculine)” to all masculine-form rows and “(feminine)” to all feminine-form rows, across all noun rows (bare, with articles, partitives, and articulated prepositions), including plurals.
+- When only one gender exists for the lemma (only masculine or only feminine): do not append any gender label to translation_english.
+- Do not include the word “plural” in noun labels; use just “(masculine)” or “(feminine)”. This differs from adjectives, which include plural in the label.
+- If gender is n/a (invariable/epicene nouns), do not add a label.
+- Keep base_lemma_english ungendered and identical across the lemma’s rows.
+
 G) Preposition
 
 subtype = simple or articulated.
@@ -197,6 +217,8 @@ For 3rd person singular forms that serve as “you (formal)”, note that too.
 If a word belongs to multiple POS, produce separate POS families (sharing the same base_lemma_italian if truly the same).
 
 If no forms exist for a rule (e.g., invariable adjective), include necessary rows with n/a where appropriate and add clarifications in notes.
+
+For nouns with gendered pairs that mean the same thing (e.g., cuoco/cuoca), do not split into separate base lemmas. Use one base_lemma_italian (masculine dictionary form) and include both masculine and feminine forms as rows under that lemma.
 
 Keep examples short, natural, and matching the exact term_italian.
 

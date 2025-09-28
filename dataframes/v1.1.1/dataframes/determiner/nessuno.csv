@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+nessuno,True,nessuno,no/none/nobody,determiner,no,"negation,quantifiers",quantifier,,masculine,singular,,,False,False,False,,,,,"masculine before z, s+consonant, gn, ps, pn, x, y",Non vedo nessuno studente.,I see no student.
+nessun,False,nessuno,no/none/nobody,determiner,no,"negation,quantifiers",quantifier,,masculine,singular,,,False,False,False,,,,,masculine before most consonants and vowels,Non ho nessun dubbio.,I have no doubt.
+nessuna,False,nessuno,no/none/nobody,determiner,no,"negation,quantifiers",quantifier,,feminine,singular,,,False,False,False,,,,,feminine before consonants,Non c'è nessuna risposta.,There is no answer.
+nessun',False,nessuno,no/none/nobody,determiner,no,"negation,quantifiers",quantifier,,feminine,singular,,,False,False,False,,,,,feminine before vowels (elision),Non ho nessun'idea.,I have no idea.

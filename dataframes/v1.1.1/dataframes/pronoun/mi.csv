@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+mi,True,mi,me,pronoun,me,"core,pronoun",direct_object,1s,,,,,False,False,False,,,,,unstressed clitic; object 'me'; can attach to verbs,Mi vedi?,Do you see me?
+mi,False,mi,me,pronoun,to me,"core,pronoun",indirect_object,1s,,,,,False,False,False,,,,,indirect object 'to me'; clitic pronoun,Mi dai una mano?,Will you give me a hand?
+mi,False,mi,me,pronoun,myself,"core,pronoun",reflexive,1s,,,,,False,False,False,,,,,first-person reflexive; clitic,Mi sveglio presto.,I wake up early.

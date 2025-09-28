@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+arrestato,True,arrestato,arrested,adjective,arrested (masculine),"law,description",,,masculine,singular,,,False,False,False,,,,,,Un uomo arrestato è stanco.,An arrested man is tired.
+arrestata,False,arrestato,arrested,adjective,arrested (feminine),"law,description",,,feminine,singular,,,False,False,False,,,,,,Una donna arrestata piange.,An arrested woman is crying.
+arrestati,False,arrestato,arrested,adjective,arrested (masculine plural),"law,description",,,masculine,plural,,,False,False,False,,,,,,I sospetti arrestati parlano.,The arrested suspects speak.
+arrestate,False,arrestato,arrested,adjective,arrested (feminine plural),"law,description",,,feminine,plural,,,False,False,False,,,,,,Le persone arrestate attendono.,The arrested people wait.

@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+fare,True,fare,to do/make,verb,to do/make,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,highly irregular verb; auxiliary avere; past participle 'fatto',Voglio fare una pausa.,I want to take a break.
+facendo,False,fare,to do/make,verb,doing/making,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto facendo i compiti.,I am doing my homework.
+fatto,False,fare,to do/make,verb,done/made,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle; irregular root; masculine singular,L'ho fatto.,I did it.
+fatta,False,fare,to do/make,verb,done/made,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle; irregular root; feminine singular,L'ho fatta.,I did it.
+fatti,False,fare,to do/make,verb,done/made,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle; irregular root; masculine plural,Li ho fatti.,I did them.
+fatte,False,fare,to do/make,verb,done/made,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle; irregular root; feminine plural,Le ho fatte.,I did them.
+faccio,False,fare,to do/make,verb,I do/make,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,irregular present form,Io faccio colazione presto.,I have breakfast early.
+fai,False,fare,to do/make,verb,you do/make,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu fai domande interessanti.,You ask interesting questions.
+fa,False,fare,to do/make,verb,he does/makes/she does/makes/you (formal) do/make,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui fa sport ogni giorno.,He exercises every day.
+facciamo,False,fare,to do/make,verb,we do/make,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Facciamo una passeggiata?,Shall we take a walk?
+fate,False,fare,to do/make,verb,you (plural) do/make,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi fate una lista.,You make a list.
+fanno,False,fare,to do/make,verb,they do/make,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro fanno troppo rumore.,They make too much noise.
+facevo,False,fare,to do/make,verb,I was doing/making,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io facevo jogging al mattino.,I used to jog in the morning.
+facevi,False,fare,to do/make,verb,you were doing/making,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu facevi molti errori.,You were making many mistakes.
+faceva,False,fare,to do/make,verb,he was doing/making/she was doing/making/you (formal) were doing/making,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei faceva tardi.,She was running late.
+facevamo,False,fare,to do/make,verb,we were doing/making,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi facevamo la spesa il sabato.,We used to do the shopping on Saturdays.
+facevate,False,fare,to do/make,verb,you (plural) were doing/making,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi facevate pratica ogni sera.,You practiced every evening.
+facevano,False,fare,to do/make,verb,they were doing/making,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro facevano silenzio.,They kept quiet.
+ho fatto,False,fare,to do/make,verb,I have done/made,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'fatto',Ho fatto una torta.,I made a cake.
+hai fatto,False,fare,to do/make,verb,you have done/made,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'fatto',Hai fatto bene.,You did well.
+ha fatto,False,fare,to do/make,verb,he has done/made/she has done/made/you (formal) have done/made,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'fatto'; also used as formal 'Lei',Ha fatto tardi.,He was late.
+abbiamo fatto,False,fare,to do/make,verb,we have done/made,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'fatto',Abbiamo fatto una pausa.,We took a break.
+avete fatto,False,fare,to do/make,verb,you (plural) have done/made,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'fatto',Avete fatto i compiti?,Did you do your homework?
+hanno fatto,False,fare,to do/make,verb,they have done/made,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'fatto',Hanno fatto un viaggio.,They took a trip.

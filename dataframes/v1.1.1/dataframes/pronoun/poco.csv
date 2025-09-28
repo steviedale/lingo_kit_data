@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+poco,True,poco,little/few,pronoun,a little (of it),"quantity,core",quantifier,,masculine,singular,,,False,False,False,,,,,pronominal use,Ne ho poco.,I have a little of it.
+poca,False,poco,little/few,pronoun,a little (of it),"quantity,core",quantifier,,feminine,singular,,,False,False,False,,,,,pronominal use,Ce n'è poca.,There is a little of it.
+pochi,False,poco,little/few,pronoun,few (of them),"quantity,core",quantifier,,masculine,plural,,,False,False,False,,,,,refers to people or things,Lo sanno pochi.,Few of them know it.
+poche,False,poco,little/few,pronoun,few (of them),"quantity,core",quantifier,,feminine,plural,,,False,False,False,,,,,refers to people or things,Ne sono arrivate poche.,Few of them have arrived.

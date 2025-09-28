@@ -1,2 +1,9 @@
 term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-della,False,di,of,preposition,of the (feminine singular),"core,prepositions",articulated,,feminine,singular,,,False,False,False,,,,,contraction of di + la; before vowels becomes dell',Il colore della casa è blu.,The color of the house is blue.
+di,True,di,of,preposition,of,"core,prepositions",simple,,,,,,False,False,False,,,,,simple preposition,Parlo di calcio.,I talk about soccer.
+della,False,di,of,preposition,of the (feminine),"core,prepositions",articulated,,feminine,singular,,,False,False,False,,,,,contraction of di + la; before vowels becomes dell',Il colore della casa è blu.,The color of the house is blue.
+del,False,di,of,preposition,of the (masculine),"core,prepositions",articulated,,masculine,singular,,,False,False,False,,,,,contraction of di + il,Parlo del film.,I talk about the film.
+dello,False,di,of,preposition,"of the (masculine, before s+consonant, z, gn, ps, x, y)","core,prepositions",articulated,,masculine,singular,,,False,False,False,,,,,"contraction of di + lo; before s+consonant, z, gn, ps, x, y",Parlo dello studente.,I talk about the student.
+dell',False,di,of,preposition,of the,"core,prepositions",articulated,,masculine,singular,,,False,False,False,,,,,contraction of di + l'; before vowel (masculine),Parlo dell'uomo.,I talk about the man.
+dei,False,di,of,preposition,of the,"core,prepositions",articulated,,masculine,plural,,,False,False,False,,,,,contraction of di + i,Parlo dei libri.,I talk about the books.
+degli,False,di,of,preposition,of the,"core,prepositions",articulated,,masculine,plural,,,False,False,False,,,,,contraction of di + gli,Parlo degli amici.,I talk about the friends.
+delle,False,di,of,preposition,of the,"core,prepositions",articulated,,feminine,plural,,,False,False,False,,,,,contraction of di + le,Parlo delle foto.,I talk about the photos.

@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+chiaramente,True,chiaramente,clearly,adverb,clearly,"manner,clarity",,,,,,,False,False,False,,,,,adverb of manner,"Parla chiaramente, per favore.","Speak clearly, please."
+più chiaramente,False,chiaramente,clearly,adverb,more clearly,"manner,clarity",,,,,,,True,False,False,,,,,comparative with più,Spiegalo più chiaramente.,Explain it more clearly.
+molto chiaramente,False,chiaramente,clearly,adverb,very clearly,"manner,clarity",,,,,,,False,True,False,,,,,intensified with molto,Si vede molto chiaramente.,It is seen very clearly.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+certo,True,certo,sure/certain,adjective,certain (masculine),"quality,certainty",,,masculine,singular,,,False,False,False,,,,,,Sono certo di riuscirci.,I am certain I can do it.
+certa,False,certo,sure/certain,adjective,certain (feminine),"quality,certainty",,,feminine,singular,,,False,False,False,,,,,,Sono certa di farcela.,I am certain I will manage.
+certi,False,certo,sure/certain,adjective,certain (masculine plural),"quality,certainty",,,masculine,plural,,,False,False,False,,,,,,Ho certi dubbi.,I have certain doubts.
+certe,False,certo,sure/certain,adjective,certain (feminine plural),"quality,certainty",,,feminine,plural,,,False,False,False,,,,,,Ci sono certe cose che non capisco.,There are certain things I do not understand.

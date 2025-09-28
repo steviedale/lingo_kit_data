@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+tutto,True,tutto,all/everything/completely,determiner,the whole,"core,quantity",quantifier,,masculine,singular,,,False,False,False,,,,,quantifier before nouns,Tutto il giorno piove.,It rains all day.
+tutta,False,tutto,all/everything/completely,determiner,the whole,"core,quantity",quantifier,,feminine,singular,,,False,False,False,,,,,,Tutta la città è in festa.,The whole city is celebrating.
+tutti,False,tutto,all/everything/completely,determiner,all,"core,quantity",quantifier,,masculine,plural,,,False,False,False,,,,,,Tutti i bambini giocano.,All the children are playing.
+tutte,False,tutto,all/everything/completely,determiner,all,"core,quantity",quantifier,,feminine,plural,,,False,False,False,,,,,,Tutte le porte sono chiuse.,All the doors are closed.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+incolto,True,incolto,uncultivated,adjective,uncultivated (masculine),"appearance,quality",,,masculine,singular,,,False,False,False,,,,,also used as unkempt for hair or beard,Il giardino è incolto.,The garden is uncultivated.
+incolta,False,incolto,uncultivated,adjective,uncultivated (feminine),"appearance,quality",,,feminine,singular,,,False,False,False,,,,,,La barba è incolta.,The beard is unkempt.
+incolti,False,incolto,uncultivated,adjective,uncultivated (masculine plural),"appearance,quality",,,masculine,plural,,,False,False,False,,,,,,I campi sono incolti.,The fields are uncultivated.
+incolte,False,incolto,uncultivated,adjective,uncultivated (feminine plural),"appearance,quality",,,feminine,plural,,,False,False,False,,,,,,Le siepi sono incolte.,The hedges are unkempt.

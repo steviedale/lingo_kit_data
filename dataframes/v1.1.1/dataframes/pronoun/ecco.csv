@@ -1,0 +1,9 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+eccomi,False,ecco,here is/are,pronoun,here I am,"core,discourse",personal,1s,,singular,,,False,False,False,,,,,ecco + clitic pronoun,Eccomi!,Here I am!
+eccoci,False,ecco,here is/are,pronoun,here we are,"core,discourse",personal,1p,,plural,,,False,False,False,,,,,ecco + clitic pronoun,Eccoci!,Here we are!
+eccoti,False,ecco,here is/are,pronoun,here you are,"core,discourse",personal,2s,,singular,,,False,False,False,,,,,ecco + clitic pronoun,Eccoti il libro.,Here is the book for you.
+eccovi,False,ecco,here is/are,pronoun,here you (plural) are,"core,discourse",personal,2p,,plural,,,False,False,False,,,,,ecco + clitic pronoun,Eccovi i biglietti.,Here are the tickets for you (plural).
+eccolo,False,ecco,here is/are,pronoun,here he is/here it is,"core,discourse",direct_object,3s,masculine,singular,,,False,False,False,,,,,ecco + clitic pronoun,Eccolo!,Here it is!
+eccola,False,ecco,here is/are,pronoun,here she is/here it is,"core,discourse",direct_object,3s,feminine,singular,,,False,False,False,,,,,ecco + clitic pronoun,Eccola!,Here she is!
+eccoli,False,ecco,here is/are,pronoun,here they are (masculine plural),"core,discourse",direct_object,3p,masculine,plural,,,False,False,False,,,,,ecco + clitic pronoun,Eccoli!,Here they are!
+eccole,False,ecco,here is/are,pronoun,here they are (feminine plural),"core,discourse",direct_object,3p,feminine,plural,,,False,False,False,,,,,ecco + clitic pronoun,Eccole!,Here they are!

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+il vostro,True,vostro,your (plural),pronoun,yours (plural),"core,ownership",possessive,2p,masculine,singular,,,False,False,False,,,,,used as pronoun; takes definite article,Questo è il vostro.,This is yours.
+la vostra,False,vostro,your (plural),pronoun,yours (plural),"core,ownership",possessive,2p,feminine,singular,,,False,False,False,,,,,used as pronoun; takes definite article,La decisione è la vostra.,The decision is yours.
+i vostri,False,vostro,your (plural),pronoun,yours (plural),"core,ownership",possessive,2p,masculine,plural,,,False,False,False,,,,,used as pronoun; takes definite article,Questi sono i vostri.,These are yours.
+le vostre,False,vostro,your (plural),pronoun,yours (plural),"core,ownership",possessive,2p,feminine,plural,,,False,False,False,,,,,used as pronoun; takes definite article,Queste sono le vostre.,These are yours.

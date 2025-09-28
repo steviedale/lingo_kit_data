@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+grande,True,grande,big,adjective,big (masculine),"size,quality",,,masculine,singular,,,False,False,False,,,,,base form; short form gran before singular nouns,Il tavolo è grande.,The table is big.
+grande,False,grande,big,adjective,big (feminine),"size,quality",,,feminine,singular,,,False,False,False,,,,,same form as masculine; short form gran before singular nouns,La casa è grande.,The house is big.
+grandi,False,grande,big,adjective,big (masculine plural),"size,quality",,,masculine,plural,,,False,False,False,,,,,same plural for masculine and feminine,I tavoli sono grandi.,The tables are big.
+grandi,False,grande,big,adjective,big (feminine plural),"size,quality",,,feminine,plural,,,False,False,False,,,,,same plural for masculine and feminine,Le case sono grandi.,The houses are big.

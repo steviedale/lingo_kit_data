@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+peggio,True,peggio,worse,adverb,worse,"manner,comparison",,,,,,,False,False,False,,,,,irregular comparative of male; often used with di or che for comparisons,Oggi sto peggio.,Today I feel worse.
+molto peggio,False,peggio,worse,adverb,much worse,"manner,comparison",,,,,,,False,True,False,,,,,intensified with molto,Ora va molto peggio.,Now it is much worse.

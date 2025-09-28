@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+voi,True,voi,you (plural),pronoun,you (plural),"core,people",personal,2p,,plural,,,False,False,False,,,,,subject pronoun; often omitted,Voi siete pronti?,Are you (plural) ready?
+voi,False,voi,you (plural),pronoun,you (plural),"core,people",direct_object,2p,,plural,,,False,False,False,,,,,stressed form as direct object; clitic form: vi,Vedo voi nella foto.,I see you in the photo.
+voi,False,voi,you (plural),pronoun,to you (plural),"core,people",indirect_object,2p,,plural,,,False,False,False,,,,,stressed form as indirect object; typically with a; clitic form: vi,Ho scritto a voi ieri.,I wrote to you yesterday.
+voi,False,voi,you (plural),pronoun,you (plural),"core,people",prepositional,2p,,plural,,,False,False,False,,,,,used after prepositions like con/per/su/tra-fra/senza,Vengo con voi.,I am coming with you.

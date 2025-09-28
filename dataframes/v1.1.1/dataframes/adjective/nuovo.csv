@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+nuovo,True,nuovo,new,adjective,new (masculine),"quality,description",,,masculine,singular,,,False,False,False,,,,,variable adjective,Questo telefono è nuovo.,This phone is new.
+nuova,False,nuovo,new,adjective,new (feminine),"quality,description",,,feminine,singular,,,False,False,False,,,,,variable adjective,La casa è nuova.,The house is new.
+nuovi,False,nuovo,new,adjective,new (masculine plural),"quality,description",,,masculine,plural,,,False,False,False,,,,,variable adjective,Ho comprato dei libri nuovi.,I bought new books.
+nuove,False,nuovo,new,adjective,new (feminine plural),"quality,description",,,feminine,plural,,,False,False,False,,,,,variable adjective,Cerco idee nuove.,I am looking for new ideas.

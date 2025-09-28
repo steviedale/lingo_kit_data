@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+male,True,male,badly,adverb,badly,"manner,quality",,,,,,,False,False,False,,,,,comparative is 'peggio' (separate lemma),Mi sento male.,I feel sick.
+malissimo,False,male,badly,adverb,very badly,"manner,quality",,,,,,,False,True,False,,,,,intensified with -issimo,Ha cantato malissimo.,He sang very badly.
+molto male,False,male,badly,adverb,very badly,"manner,quality",,,,,,,False,True,False,,,,,intensified with 'molto',Hai fatto molto male.,You did very badly.

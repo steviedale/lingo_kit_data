@@ -1,0 +1,11 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+fino,False,fino a,up to/until,preposition,up to/until,"time,space",simple,,,,,,False,False,False,,,,,before adverbs like qui lì tardi,Aspetta fino domani.,Wait until tomorrow.
+fino a,True,fino a,up to/until,preposition,up to/until,"time,space",simple,,,,,,False,False,False,,,,,compound preposition,Resto fino a tardi.,I stay until late.
+fino ad,False,fino a,up to/until,preposition,up to/until,"time,space",simple,,,,,,False,False,False,,,,,variant before vowels or a,Restiamo aperti fino ad agosto.,We are open until August.
+fino al,False,fino a,up to/until,preposition,up to the/until the,"time,space",articulated,,,,,,False,False,False,,,,,contraction of a + il,Lavoro fino al tramonto.,I work until sunset.
+fino allo,False,fino a,up to/until,preposition,up to the/until the,"time,space",articulated,,,,,,False,False,False,,,,,contraction of a + lo,Guida fino allo stadio.,Drive up to the stadium.
+fino all',False,fino a,up to/until,preposition,up to the/until the,"time,space",articulated,,,,,,False,False,False,,,,,contraction of a + l' before vowel,Resto fino all'una.,I stay until one o'clock.
+fino alla,False,fino a,up to/until,preposition,up to the/until the,"time,space",articulated,,,,,,False,False,False,,,,,contraction of a + la,Giochiamo fino alla fine.,We play until the end.
+fino ai,False,fino a,up to/until,preposition,up to the/until the,"time,space",articulated,,,,,,False,False,False,,,,,contraction of a + i,Camminiamo fino ai confini.,We walk up to the borders.
+fino agli,False,fino a,up to/until,preposition,up to the/until the,"time,space",articulated,,,,,,False,False,False,,,,,contraction of a + gli,Arriva fino agli alberi.,He comes up to the trees.
+fino alle,False,fino a,up to/until,preposition,up to the/until the,"time,space",articulated,,,,,,False,False,False,,,,,contraction of a + le,Resto fino alle dieci.,I stay until ten.

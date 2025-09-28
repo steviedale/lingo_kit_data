@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+causa,True,causa,cause,noun,cause,"reason,law",,,feminine,singular,,,False,False,False,,,,,base lemma,Studio causa ed effetto.,I study cause and effect.
+una causa,False,causa,cause,noun,a cause,"reason,law",,,feminine,singular,,,False,False,False,indefinite,una,una,,,Ho una causa domani.,I have a lawsuit tomorrow.
+la causa,False,causa,cause,noun,the cause,"reason,law",,,feminine,singular,,,False,False,False,definite,la,la,,,La causa è ignota.,The cause is unknown.
+cause,False,causa,cause,noun,causes,"reason,law",,,feminine,plural,,,False,False,False,,,,,plural form,Analizziamo cause diverse.,We analyze different causes.
+le cause,False,causa,cause,noun,the causes,"reason,law",,,feminine,plural,,,False,False,False,definite,le,le,,,Le cause sono complesse.,The causes are complex.
+delle cause,False,causa,cause,noun,some causes,"reason,law",,,feminine,plural,,,False,False,False,indefinite,le,delle,di,partitive plural form,Ho letto delle cause possibili.,I have read some possible causes.
+della causa,False,causa,cause,noun,of the cause,"reason,law",,,feminine,singular,,,False,False,False,articulated_preposition,la,della,di,contraction of di + la,Il costo della causa è alto.,The cost of the lawsuit is high.
+alla causa,False,causa,cause,noun,to the cause,"reason,law",,,feminine,singular,,,False,False,False,articulated_preposition,la,alla,a,contraction of a + la,Doniamo alla causa.,We donate to the cause.
+alle cause,False,causa,cause,noun,to the causes,"reason,law",,,feminine,plural,,,False,False,False,articulated_preposition,le,alle,a,contraction of a + le,Contribuisco alle cause locali.,I contribute to the local causes.
+dalla causa,False,causa,cause,noun,from the cause,"reason,law",,,feminine,singular,,,False,False,False,articulated_preposition,la,dalla,da,contraction of da + la,Parto dalla causa principale.,I start from the main cause.
+dalle cause,False,causa,cause,noun,from the causes,"reason,law",,,feminine,plural,,,False,False,False,articulated_preposition,le,dalle,da,contraction of da + le,Partono dalle cause storiche.,They start from the historical causes.
+nella causa,False,causa,cause,noun,in the cause,"reason,law",,,feminine,singular,,,False,False,False,articulated_preposition,la,nella,in,contraction of in + la,Entriamo nella causa civile.,We enter the civil lawsuit.
+nelle cause,False,causa,cause,noun,in the causes,"reason,law",,,feminine,plural,,,False,False,False,articulated_preposition,le,nelle,in,contraction of in + le,Lavora nelle cause civili.,He works in civil cases.
+sulla causa,False,causa,cause,noun,on the cause,"reason,law",,,feminine,singular,,,False,False,False,articulated_preposition,la,sulla,su,contraction of su + la,Ho dubbi sulla causa.,I have doubts about the cause.
+sulle cause,False,causa,cause,noun,on the causes,"reason,law",,,feminine,plural,,,False,False,False,articulated_preposition,le,sulle,su,contraction of su + le,Discutiamo sulle cause reali.,We discuss the real causes.
+con la causa,False,causa,cause,noun,with the cause,"reason,law",,,feminine,singular,,,False,False,False,articulated_preposition,la,con la,con,no contraction with la,Andiamo avanti con la causa.,We move forward with the lawsuit.
+con le cause,False,causa,cause,noun,with the causes,"reason,law",,,feminine,plural,,,False,False,False,articulated_preposition,le,con le,con,no contraction with le,Lavora con le cause legali.,He works with legal cases.

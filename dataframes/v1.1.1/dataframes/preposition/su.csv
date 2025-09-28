@@ -1,0 +1,10 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+su,True,su,on/up,preposition,on,"core,space",simple,,,,,,False,False,False,,,,,also 'about',Il libro è su quel tavolo.,The book is on that table.
+sul,False,su,on/up,preposition,on the,"core,space",articulated,,masculine,singular,,,False,False,False,,,,,contraction of su + il,Il gatto è sul tavolo.,The cat is on the table.
+sullo,False,su,on/up,preposition,on the,"core,space",articulated,,masculine,singular,,,False,False,False,,,,,"contraction of su + lo; before s+consonant, z, gn, ps, x",Lo zaino è sullo scaffale.,The backpack is on the shelf.
+sulla,False,su,on,preposition,on the,"core,space",articulated,,feminine,singular,,,False,False,False,,,,,contraction of su + la,Il libro è sulla sedia.,The book is on the chair.
+sull',False,su,on/up,preposition,on the,"core,space",articulated,,masculine,singular,,,False,False,False,,,,,contraction of su + l'; used before vowels,L'uccello è sull'albero.,The bird is on the tree.
+sull',False,su,on/up,preposition,on the,"core,space",articulated,,feminine,singular,,,False,False,False,,,,,contraction of su + l'; used before vowels,La borsa è sull'auto.,The bag is on the car.
+sui,False,su,on/up,preposition,on the,"core,space",articulated,,masculine,plural,,,False,False,False,,,,,contraction of su + i,Ci sono libri sui tavoli.,There are books on the tables.
+sugli,False,su,on/up,preposition,on the,"core,space",articulated,,masculine,plural,,,False,False,False,,,,,"contraction of su + gli; before s+consonant, z, gn, ps, x",I bicchieri sono sugli scaffali.,The glasses are on the shelves.
+sulle,False,su,on/up,preposition,on the,"core,space",articulated,,feminine,plural,,,False,False,False,,,,,contraction of su + le,Metto le tazze sulle mensole.,I put the cups on the shelves.

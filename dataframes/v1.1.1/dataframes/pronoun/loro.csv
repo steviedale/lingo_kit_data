@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+loro,True,loro,they/them/their,pronoun,they,"core,people",personal,3p,,plural,,,False,False,False,,,,,subject pronoun; often dropped in speech,Loro arrivano presto.,They arrive early.
+loro,False,loro,they/them/their,pronoun,to them,"core,people",indirect_object,3p,,plural,,,False,False,False,,,,,non-clitic indirect object; also a loro,Ho parlato loro ieri.,I spoke to them yesterday.
+loro,False,loro,they/them/their,pronoun,theirs,"core,people",possessive,3p,,plural,,,False,False,False,,,,,predicate possessive; invariable,Questa casa è loro.,This house is theirs.
