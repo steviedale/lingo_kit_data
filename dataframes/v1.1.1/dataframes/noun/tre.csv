@@ -1,0 +1,19 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+tre,True,tre,three,noun,three,"numbers,quantity",,,masculine,singular,,,False,False,False,,,,,used as a number word or playing card; invariable noun,Scrivo tre sul foglio.,I write three on the sheet.
+un tre,False,tre,three,noun,a three,"numbers,quantity",,,masculine,singular,,,False,False,False,indefinite,un,un,,playing card rank,Pesco un tre.,I draw a three.
+il tre,False,tre,three,noun,the three,"numbers,quantity",,,masculine,singular,,,False,False,False,definite,il,il,,"also used for dates (""il tre"" = the third)",Partiamo il tre.,We leave on the third.
+tre,False,tre,three,noun,threes,"numbers,quantity",,,masculine,plural,,,False,False,False,,,,,plural usage; invariable form,Ho due tre nel mazzo.,I have two threes in the deck.
+i tre,False,tre,three,noun,the three,"numbers,quantity",,,masculine,plural,,,False,False,False,definite,i,i,,group of three (people/things),I tre sono arrivati.,The three have arrived.
+dei tre,False,tre,three,noun,some threes,"numbers,quantity",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form; in context may also mean 'of the three',Ho trovato dei tre sul tavolo.,I found some threes on the table.
+del tre,False,tre,three,noun,of the three,"numbers,quantity",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,Parliamo del tre.,We are talking about the three.
+al tre,False,tre,three,noun,to the three,"numbers,quantity",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Punto al tre.,I aim at the three.
+dal tre,False,tre,three,noun,from the three,"numbers,quantity",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Parto dal tre nel conteggio.,I start from three in the count.
+nel tre,False,tre,three,noun,in the three,"numbers,quantity",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,Metti la pedina nel tre.,Put the token in the three.
+sul tre,False,tre,three,noun,on the three,"numbers,quantity",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Scommetto sul tre.,I bet on the three.
+col tre,False,tre,three,noun,with the three,"numbers,quantity",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Vinco col tre.,I win with the three.
+dei tre,False,tre,three,noun,of the three,"numbers,quantity",,,masculine,plural,,,False,False,False,articulated_preposition,i,dei,di,contraction of di + i,Uno dei tre è stanco.,One of the three is tired.
+ai tre,False,tre,three,noun,to the three,"numbers,quantity",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Parlo ai tre.,I speak to the three.
+dai tre,False,tre,three,noun,from the three,"numbers,quantity",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Prendo i dati dai tre.,I take the data from the three.
+nei tre,False,tre,three,noun,in the three,"numbers,quantity",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Investo nei tre.,I invest in the three.
+sui tre,False,tre,three,noun,on the three,"numbers,quantity",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Scommetto sui tre.,I bet on the three.
+coi tre,False,tre,three,noun,with the three,"numbers,quantity",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Parlo coi tre.,I speak with the three.

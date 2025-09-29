@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+più,True,più,more/plus,adverb,more,"quantity,comparison",,,,,,,True,False,False,,,,,used with negation 'non' to mean 'no longer',Voglio una camera più grande.,I want a larger room.
+il più,False,più,more/plus,adverb,the most,"quantity,comparison",,,,,,,False,True,False,,,,,used before adjectives/adverbs,Studio il più possibile.,I study as much as possible.
+di più,False,più,more/plus,adverb,more/any more,"quantity,comparison",,,,,,,False,False,False,,,,,common adverbial phrase,Ne voglio di più.,I want more of it.

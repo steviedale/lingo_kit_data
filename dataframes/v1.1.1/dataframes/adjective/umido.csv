@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+umido,True,umido,humid/damp,adjective,humid/damp (masculine),"weather,quality",,,masculine,singular,,,False,False,False,,,,,,Il clima è umido oggi.,The climate is humid today.
+umida,False,umido,humid/damp,adjective,humid/damp (feminine),"weather,quality",,,feminine,singular,,,False,False,False,,,,,,La stanza è umida.,The room is damp.
+umidi,False,umido,humid/damp,adjective,humid/damp (masculine plural),"weather,quality",,,masculine,plural,,,False,False,False,,,,,,I muri sono umidi.,The walls are damp.
+umide,False,umido,humid/damp,adjective,humid/damp (feminine plural),"weather,quality",,,feminine,plural,,,False,False,False,,,,,,Le notti sono umide.,The nights are humid.

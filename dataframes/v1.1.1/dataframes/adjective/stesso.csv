@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+stesso,True,stesso,same,adjective,same (masculine),"core,identity",,,masculine,singular,,,False,False,False,,,,,variable adjective; agrees with noun,È lo stesso problema.,It is the same problem.
+stessa,False,stesso,same,adjective,same (feminine),"core,identity",,,feminine,singular,,,False,False,False,,,,,variable adjective; agrees with noun,Abbiamo la stessa età.,We have the same age.
+stessi,False,stesso,same,adjective,same (masculine plural),"core,identity",,,masculine,plural,,,False,False,False,,,,,variable adjective; agrees with noun,Hanno gli stessi interessi.,They have the same interests.
+stesse,False,stesso,same,adjective,same (feminine plural),"core,identity",,,feminine,plural,,,False,False,False,,,,,variable adjective; agrees with noun,Sono nelle stesse condizioni.,They are in the same conditions.

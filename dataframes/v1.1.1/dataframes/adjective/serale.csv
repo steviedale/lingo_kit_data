@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+serale,True,serale,evening,adjective,evening (masculine),"time,description",,,masculine,singular,,,False,False,False,,,,,adjective in -e same singular form for masculine and feminine,Seguo un corso serale.,I attend an evening course.
+serale,False,serale,evening,adjective,evening (feminine),"time,description",,,feminine,singular,,,False,False,False,,,,,agrees with feminine nouns,Faccio la routine serale.,I do the evening routine.
+serali,False,serale,evening,adjective,evening (masculine plural),"time,description",,,masculine,plural,,,False,False,False,,,,,plural form,Frequento corsi serali.,I attend evening courses.
+serali,False,serale,evening,adjective,evening (feminine plural),"time,description",,,feminine,plural,,,False,False,False,,,,,plural form with feminine nouns,Le lezioni serali iniziano alle sette.,The evening lessons start at seven.

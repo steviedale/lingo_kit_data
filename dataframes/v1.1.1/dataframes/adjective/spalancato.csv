@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+spalancato,True,spalancato,wide open,adjective,wide open (masculine),"home,state",,,masculine,singular,,,False,False,False,,,,,from past participle of 'spalancare',Il portone è spalancato.,The gate is wide open.
+spalancata,False,spalancato,wide open,adjective,wide open (feminine),"home,state",,,feminine,singular,,,False,False,False,,,,,from past participle of 'spalancare',La finestra è spalancata.,The window is wide open.
+spalancati,False,spalancato,wide open,adjective,wide open (masculine plural),"home,state",,,masculine,plural,,,False,False,False,,,,,from past participle of 'spalancare',Gli occhi sono spalancati.,The eyes are wide open.
+spalancate,False,spalancato,wide open,adjective,wide open (feminine plural),"home,state",,,feminine,plural,,,False,False,False,,,,,from past participle of 'spalancare',Le porte sono spalancate.,The doors are wide open.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+locale,True,locale,local,adjective,local (masculine),place,,,masculine,singular,,,False,False,False,,,,,2-form adjective; singular same for both genders,Compro vino locale.,I buy local wine.
+locale,False,locale,local,adjective,local (feminine),place,,,feminine,singular,,,False,False,False,,,,,,Assaggio cucina locale.,I taste local cuisine.
+locali,False,locale,local,adjective,local (masculine plural),place,,,masculine,plural,,,False,False,False,,,,,,Preferisco prodotti locali.,I prefer local products.
+locali,False,locale,local,adjective,local (feminine plural),place,,,feminine,plural,,,False,False,False,,,,,,Amo le specialità locali.,I love local specialties.

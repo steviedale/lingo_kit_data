@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+ora,True,ora,now/hour,noun,hour,time,,,feminine,singular,,,False,False,False,,,,,plural 'ore',Ogni ora suona la campana.,Every hour the bell rings.
+un'ora,False,ora,now/hour,noun,an hour,time,,,feminine,singular,,,False,False,False,indefinite,un',un',,elision before vowel,Aspetto un'ora.,I am waiting for an hour.
+l'ora,False,ora,now/hour,noun,the hour,time,,,feminine,singular,,,False,False,False,definite,l',l',,before vowels,L'ora è tarda.,The hour is late.
+ore,False,ora,now/hour,noun,hours,time,,,feminine,plural,,,False,False,False,,,,,plural form,Vedo ore libere sul calendario.,I see free hours on the calendar.
+le ore,False,ora,now/hour,noun,the hours,time,,,feminine,plural,,,False,False,False,definite,le,le,,,Le ore volano quando ci divertiamo.,The hours fly when we are having fun.
+delle ore,False,ora,now/hour,noun,some hours,time,,,feminine,plural,,,False,False,False,indefinite,le,delle,di,partitive plural form,Ho aspettato delle ore.,I waited for hours.
+dell'ora,False,ora,now/hour,noun,of the hour,time,,,feminine,singular,,,False,False,False,articulated_preposition,l',dell',di,contraction of di + l',Il prezzo dell'ora è alto.,The price of the hour is high.
+all'ora,False,ora,now/hour,noun,per hour,time,,,feminine,singular,,,False,False,False,articulated_preposition,l',all',a,contraction of a + l',Vado a sessanta chilometri all'ora.,I go at sixty kilometers per hour.
+alle ore,False,ora,now/hour,noun,at the hours,time,,,feminine,plural,,,False,False,False,articulated_preposition,le,alle,a,contraction of a + le,La riunione è alle ore 18.,The meeting is at 6 p.m.
+dall'ora,False,ora,now/hour,noun,from the hour,time,,,feminine,singular,,,False,False,False,articulated_preposition,l',dall',da,contraction of da + l',È passato molto tempo dall'ora fissata.,A long time has passed from the set time.
+dalle ore,False,ora,now/hour,noun,from the hours,time,,,feminine,plural,,,False,False,False,articulated_preposition,le,dalle,da,contraction of da + le,Il negozio è chiuso dalle ore 13 alle 15.,The shop is closed from 1 p.m. to 3 p.m.
+nell'ora,False,ora,now/hour,noun,in the hour,time,,,feminine,singular,,,False,False,False,articulated_preposition,l',nell',in,contraction of in + l',Riesco a finire tutto nell'ora di pranzo.,I manage to finish everything in the lunch hour.
+nelle ore,False,ora,now/hour,noun,in the hours,time,,,feminine,plural,,,False,False,False,articulated_preposition,le,nelle,in,contraction of in + le,Studio meglio nelle ore serali.,I study better in the evening hours.
+sull'ora,False,ora,now/hour,noun,around the hour,time,,,feminine,singular,,,False,False,False,articulated_preposition,l',sull',su,contraction of su + l',Partiremo sull'ora di pranzo.,We will leave around lunchtime.
+sulle ore,False,ora,now/hour,noun,around the hours,time,,,feminine,plural,,,False,False,False,articulated_preposition,le,sulle,su,contraction of su + le,Ci sentiamo sulle ore dieci.,We will talk around ten o'clock.
+con l'ora,False,ora,now/hour,noun,with the hour,time,,,feminine,singular,,,False,False,False,articulated_preposition,l',con l',con,simple preposition + article (no contraction),Il prezzo varia con l'ora.,The price varies with the hour.
+con le ore,False,ora,now/hour,noun,with the hours,time,,,feminine,plural,,,False,False,False,articulated_preposition,le,con le,con,simple preposition + article (no contraction),La luce cambia con le ore.,The light changes with the hours.

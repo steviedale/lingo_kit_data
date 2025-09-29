@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+locale,True,locale,local,noun,venue,place,,,masculine,singular,,,False,False,False,,,,,base lemma,Cerco locale economico.,I am looking for an inexpensive venue.
+un locale,False,locale,local,noun,a venue,place,,,masculine,singular,,,False,False,False,indefinite,un,un,,,Cerco un locale carino.,I am looking for a nice venue.
+il locale,False,locale,local,noun,the venue,place,,,masculine,singular,,,False,False,False,definite,il,il,,,Il locale apre alle otto.,The venue opens at eight.
+locali,False,locale,local,noun,venues,place,,,masculine,plural,,,False,False,False,,,,,plural form,Locali nuovi aprono spesso.,New venues open often.
+i locali,False,locale,local,noun,the venues,place,,,masculine,plural,,,False,False,False,definite,i,i,,,I locali sono pieni.,The venues are full.
+dei locali,False,locale,local,noun,some venues,place,,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Proviamo dei locali del centro.,We try some downtown venues.
+del locale,False,locale,local,noun,of the venue,place,,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,L'orario del locale è online.,The venue's hours are online.
+al locale,False,locale,local,noun,to the venue,place,,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Andiamo al locale.,We are going to the venue.
+ai locali,False,locale,local,noun,to the venues,place,,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Suoniamo ai locali del centro.,We play at the downtown venues.
+dal locale,False,locale,local,noun,from the venue,place,,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Esco dal locale.,I am leaving the venue.
+dai locali,False,locale,local,noun,from the venues,place,,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Arrivano voci dai locali vicini.,Rumors come from the nearby venues.
+nel locale,False,locale,local,noun,in the venue,place,,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,Lavoro nel locale.,I work in the venue.
+nei locali,False,locale,local,noun,in the venues,place,,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Non si fuma nei locali.,You cannot smoke in the venues.
+sul locale,False,locale,local,noun,about the venue,place,,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Leggo una recensione sul locale.,I am reading a review about the venue.
+sui locali,False,locale,local,noun,about the venues,place,,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Ho dati sui locali notturni.,I have data about nightlife venues.
+col locale,False,locale,local,noun,with the venue,place,,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Collaboro col locale.,I collaborate with the venue.
+coi locali,False,locale,local,noun,with the venues,place,,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Lavoriamo coi locali partner.,We work with partner venues.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+radunato,True,radunato,gathered,adjective,gathered (masculine),"quality,state",,,masculine,singular,,,False,False,False,,,,,participle used as adjective,Il gruppo radunato aspetta.,The gathered group waits.
+radunata,False,radunato,gathered,adjective,gathered (feminine),"quality,state",,,feminine,singular,,,False,False,False,,,,,participle used as adjective,La folla radunata cresce.,The gathered crowd grows.
+radunati,False,radunato,gathered,adjective,gathered (masculine plural),"quality,state",,,masculine,plural,,,False,False,False,,,,,participle used as adjective,I volontari radunati partono.,The gathered volunteers leave.
+radunate,False,radunato,gathered,adjective,gathered (feminine plural),"quality,state",,,feminine,plural,,,False,False,False,,,,,participle used as adjective,Le persone radunate parlano.,The gathered people talk.

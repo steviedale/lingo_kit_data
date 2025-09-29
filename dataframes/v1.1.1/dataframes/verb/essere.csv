@@ -35,3 +35,5 @@ sia,False,essere,to be,verb,that he be/that she be/that you (formal) be,"core,ve
 siamo,False,essere,to be,verb,that we be,"core,verb",,1p,,plural,subjunctive,present,False,False,False,,,,,present subjunctive form,Temo che siamo in ritardo.,I fear that we are late.
 siate,False,essere,to be,verb,that you (plural) be,"core,verb",,2p,,plural,subjunctive,present,False,False,False,,,,,present subjunctive form,Spero che siate d'accordo.,I hope that you agree.
 siano,False,essere,to be,verb,that they be,"core,verb",,3p,,plural,subjunctive,present,False,False,False,,,,,present subjunctive form,Dubito che siano arrivati.,I doubt that they have arrived.
+fu,False,essere,to be,verb,he was/she was/it was/you (formal) were,"core,verb",,3s,,singular,indicative,passato remoto,False,False,False,,,,,passato remoto; also used as formal Lei,Fu un successo.,It was a success.
+fosse,False,essere,to be,verb,he were/she were/you (formal) were,"core,verb",,3s,,singular,subjunctive,imperfect,False,False,False,,,,,also used as formal 'Lei',Se fosse possibile verrei.,If it were possible I would come.

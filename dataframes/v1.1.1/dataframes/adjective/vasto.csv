@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+vasto,True,vasto,vast,adjective,vast (masculine),"size,quality",,,masculine,singular,,,False,False,False,,,,,,Un territorio vasto attira esploratori.,A vast territory attracts explorers.
+vasta,False,vasto,vast,adjective,vast (feminine),"size,quality",,,feminine,singular,,,False,False,False,,,,,,Abbiamo attraversato una pianura vasta.,We crossed a vast plain.
+vasti,False,vasto,vast,adjective,vast (masculine plural),"size,quality",,,masculine,plural,,,False,False,False,,,,,,Amo i deserti vasti.,I love vast deserts.
+vaste,False,vasto,vast,adjective,vast (feminine plural),"size,quality",,,feminine,plural,,,False,False,False,,,,,,Le foreste vaste sono affascinanti.,Vast forests are fascinating.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+sinistro,True,sinistro,left,adjective,left (masculine),"directions,description",,,masculine,singular,,,False,False,False,,,,,also used figuratively as sinister,Il lato sinistro è bloccato.,The left side is blocked.
+sinistra,False,sinistro,left,adjective,left (feminine),"directions,description",,,feminine,singular,,,False,False,False,,,,,,La mano sinistra fa male.,The left hand hurts.
+sinistri,False,sinistro,left,adjective,left (masculine plural),"directions,description",,,masculine,plural,,,False,False,False,,,,,,I lati sinistri sono stretti.,The left sides are narrow.
+sinistre,False,sinistro,left,adjective,left (feminine plural),"directions,description",,,feminine,plural,,,False,False,False,,,,,,Le corsie sinistre sono libere.,The left lanes are clear.

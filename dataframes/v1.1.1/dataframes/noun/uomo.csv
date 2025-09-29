@@ -1,0 +1,19 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+uomo,True,uomo,man,noun,man,"core,people",,,masculine,singular,,,False,False,False,,,,,irregular plural 'uomini',Cerco uomo onesto.,I am looking for an honest man.
+un uomo,False,uomo,man,noun,a man,"core,people",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Vedo un uomo alla porta.,I see a man at the door.
+l'uomo,False,uomo,man,noun,the man,"core,people",,,masculine,singular,,,False,False,False,definite,l',l',,before vowels,L'uomo parla piano.,The man speaks softly.
+uomini,False,uomo,man,noun,men,"core,people",,,masculine,plural,,,False,False,False,,,,,irregular plural,Uomini diversi hanno opinioni diverse.,Different men have different opinions.
+gli uomini,False,uomo,man,noun,the men,"core,people",,,masculine,plural,,,False,False,False,definite,gli,gli,,,Gli uomini sono arrivati.,The men have arrived.
+degli uomini,False,uomo,man,noun,some men,"core,people",,,masculine,plural,,,False,False,False,indefinite,gli,degli,di,partitive plural form,Ho parlato con degli uomini.,I spoke with some men.
+dell'uomo,False,uomo,man,noun,of the man,"core,people",,,masculine,singular,,,False,False,False,articulated_preposition,l',dell',di,contraction of di + l',Parliamo dell'uomo.,We are talking about the man.
+all'uomo,False,uomo,man,noun,to the man,"core,people",,,masculine,singular,,,False,False,False,articulated_preposition,l',all',a,contraction of a + l',Mi avvicino all'uomo.,I approach the man.
+dall'uomo,False,uomo,man,noun,from the man,"core,people",,,masculine,singular,,,False,False,False,articulated_preposition,l',dall',da,contraction of da + l',Prendo il pacco dall'uomo.,I get the package from the man.
+nell'uomo,False,uomo,man,noun,in the man,"core,people",,,masculine,singular,,,False,False,False,articulated_preposition,l',nell',in,contraction of in + l',Il virus si sviluppa nell'uomo.,The virus develops in humans.
+sull'uomo,False,uomo,man,noun,about the man,"core,people",,,masculine,singular,,,False,False,False,articulated_preposition,l',sull',su,contraction of su + l',Ho letto un libro sull'uomo moderno.,I read a book about modern man.
+con l'uomo,False,uomo,man,noun,with the man,"core,people",,,masculine,singular,,,False,False,False,articulated_preposition,l',con l',con,no contraction,Parlo con l'uomo.,I talk with the man.
+degli uomini,False,uomo,man,noun,of the men,"core,people",,,masculine,plural,,,False,False,False,articulated_preposition,gli,degli,di,contraction of di + gli,Conosco le storie degli uomini.,I know the stories of the men.
+agli uomini,False,uomo,man,noun,to the men,"core,people",,,masculine,plural,,,False,False,False,articulated_preposition,gli,agli,a,contraction of a + gli,Scrivo agli uomini del team.,I write to the men of the team.
+dagli uomini,False,uomo,man,noun,from the men,"core,people",,,masculine,plural,,,False,False,False,articulated_preposition,gli,dagli,da,contraction of da + gli,Le regole sono decise dagli uomini.,The rules are decided by the men.
+negli uomini,False,uomo,man,noun,in men,"core,people",,,masculine,plural,,,False,False,False,articulated_preposition,gli,negli,in,contraction of in + gli,Il farmaco funziona negli uomini.,The drug works in men.
+sugli uomini,False,uomo,man,noun,about the men,"core,people",,,masculine,plural,,,False,False,False,articulated_preposition,gli,sugli,su,contraction of su + gli,Ci sono studi sugli uomini anziani.,There are studies about elderly men.
+con gli uomini,False,uomo,man,noun,with the men,"core,people",,,masculine,plural,,,False,False,False,articulated_preposition,gli,con gli,con,no contraction,Lavoro con gli uomini.,I work with the men.

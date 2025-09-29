@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+vestire,True,vestire,to dress,verb,to dress,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -ire verb,Voglio vestire il bambino.,I want to dress the child.
+vestendo,False,vestire,to dress,verb,dressing,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto vestendo mio figlio.,I am dressing my son.
+vestito,False,vestire,to dress,verb,dressed,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle,L'ho vestito in fretta.,I dressed him quickly.
+vestita,False,vestire,to dress,verb,dressed,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle,L'ho vestita in fretta.,I dressed her quickly.
+vestiti,False,vestire,to dress,verb,dressed,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle,Li ho vestiti ieri.,I dressed them yesterday.
+vestite,False,vestire,to dress,verb,dressed,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle,Le ho vestite stamattina.,I dressed them this morning.
+vesto,False,vestire,to dress,verb,I dress,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Vesto il bambino.,I dress the child.
+vesti,False,vestire,to dress,verb,you dress,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Vesti tua figlia.,You dress your daughter.
+veste,False,vestire,to dress,verb,he dresses/she dresses/you (formal) dress,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui veste elegante.,He dresses smartly.
+vestiamo,False,vestire,to dress,verb,we dress,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Vestiamo in fretta.,We dress quickly.
+vestite,False,vestire,to dress,verb,you (plural) dress,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi vestite i bambini.,You (plural) dress the children.
+vestono,False,vestire,to dress,verb,they dress,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro vestono alla moda.,They dress fashionably.
+vestivo,False,vestire,to dress,verb,I was dressing,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io vestivo il neonato.,I was dressing the newborn.
+vestivi,False,vestire,to dress,verb,you were dressing,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu vestivi tua sorella.,You were dressing your sister.
+vestiva,False,vestire,to dress,verb,he was dressing/she was dressing/you (formal) were dressing,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei vestiva sempre di nero.,She was always dressed in black.
+vestivamo,False,vestire,to dress,verb,we were dressing,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi vestivamo lentamente.,We were dressing slowly.
+vestivate,False,vestire,to dress,verb,you (plural) were dressing,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi vestivate i piccoli.,You (plural) were dressing the little ones.
+vestivano,False,vestire,to dress,verb,they were dressing,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro vestivano gli attori.,They were dressing the actors.
+ho vestito,False,vestire,to dress,verb,I have dressed,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'vestito',Ho vestito il bambino.,I have dressed the child.
+hai vestito,False,vestire,to dress,verb,you have dressed,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'vestito',Hai vestito tua figlia?,Have you dressed your daughter?
+ha vestito,False,vestire,to dress,verb,he has dressed/she has dressed/you (formal) have dressed,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'vestito'; also used as formal 'Lei',Ha vestito il modello.,He has dressed the model.
+abbiamo vestito,False,vestire,to dress,verb,we have dressed,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'vestito',Abbiamo vestito i piccoli.,We have dressed the little ones.
+avete vestito,False,vestire,to dress,verb,you (plural) have dressed,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'vestito',Avete vestito i bambini?,Have you dressed the children?
+hanno vestito,False,vestire,to dress,verb,they have dressed,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'vestito',Hanno vestito gli attori.,They have dressed the actors.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+mezzo,True,mezzo,half,adjective,half (masculine),"quantity,fraction",,,masculine,singular,,,False,False,False,,,,,variable adjective,Prendo mezzo litro.,I take half a liter.
+mezza,False,mezzo,half,adjective,half (feminine),"quantity,fraction",,,feminine,singular,,,False,False,False,,,,,,Mangio mezza pizza.,I eat half a pizza.
+mezzi,False,mezzo,half,adjective,half (masculine plural),"quantity,fraction",,,masculine,plural,,,False,False,False,,,,,often in expression senza mezzi termini,Non parlo con mezzi termini.,I do not speak with half measures.
+mezze,False,mezzo,half,adjective,half (feminine plural),"quantity,fraction",,,feminine,plural,,,False,False,False,,,,,common in phrase mezze misure,Basta con mezze misure.,Enough with half measures.

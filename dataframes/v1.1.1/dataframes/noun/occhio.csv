@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+occhio,True,occhio,eye,noun,eye,"body,senses",,,masculine,singular,,,False,False,False,,,,,base lemma,Serve occhio attento.,A sharp eye is needed.
+un occhio,False,occhio,eye,noun,an eye,"body,senses",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Ho un occhio gonfio.,I have a swollen eye.
+l'occhio,False,occhio,eye,noun,the eye,"body,senses",,,masculine,singular,,,False,False,False,definite,l',l',,before vowels,Mi lacrima l'occhio.,My eye waters.
+occhi,False,occhio,eye,noun,eyes,"body,senses",,,masculine,plural,,,False,False,False,,,,,plural form,Cerco occhi verdi.,I am looking for green eyes.
+gli occhi,False,occhio,eye,noun,the eyes,"body,senses",,,masculine,plural,,,False,False,False,definite,gli,gli,,used with vowel-initial nouns,Mi bruciano gli occhi.,My eyes burn.
+degli occhi,False,occhio,eye,noun,some eyes,"body,senses",,,masculine,plural,,,False,False,False,indefinite,gli,degli,di,partitive plural form,Ho disegnato degli occhi.,I drew some eyes.
+dell'occhio,False,occhio,eye,noun,of the eye,"body,senses",,,masculine,singular,,,False,False,False,articulated_preposition,l',dell',di,contraction of di + l',Il colore dell'occhio è verde.,The color of the eye is green.
+all'occhio,False,occhio,eye,noun,to the eye,"body,senses",,,masculine,singular,,,False,False,False,articulated_preposition,l',all',a,contraction of a + l',Dà fastidio all'occhio.,It bothers the eye.
+dall'occhio,False,occhio,eye,noun,from the eye,"body,senses",,,masculine,singular,,,False,False,False,articulated_preposition,l',dall',da,contraction of da + l',Mi cade una lacrima dall'occhio.,A tear falls from my eye.
+nell'occhio,False,occhio,eye,noun,in the eye,"body,senses",,,masculine,singular,,,False,False,False,articulated_preposition,l',nell',in,contraction of in + l',Mi è entrata sabbia nell'occhio.,Sand got into my eye.
+sull'occhio,False,occhio,eye,noun,on the eye,"body,senses",,,masculine,singular,,,False,False,False,articulated_preposition,l',sull',su,contraction of su + l',Ha messo il ghiaccio sull'occhio.,He put ice on the eye.
+con l'occhio,False,occhio,eye,noun,with the eye,"body,senses",,,masculine,singular,,,False,False,False,articulated_preposition,l',con l',con,no contraction with con before vowels,Guardo con l'occhio sinistro.,I look with my left eye.
+agli occhi,False,occhio,eye,noun,to the eyes,"body,senses",,,masculine,plural,,,False,False,False,articulated_preposition,gli,agli,a,contraction of a + gli,È evidente agli occhi di tutti.,It is evident to everyone's eyes.
+dagli occhi,False,occhio,eye,noun,from the eyes,"body,senses",,,masculine,plural,,,False,False,False,articulated_preposition,gli,dagli,da,contraction of da + gli,Le lacrime cadono dagli occhi.,Tears fall from the eyes.
+negli occhi,False,occhio,eye,noun,in the eyes,"body,senses",,,masculine,plural,,,False,False,False,articulated_preposition,gli,negli,in,contraction of in + gli,Ci guardiamo negli occhi.,We look into each other's eyes.
+sugli occhi,False,occhio,eye,noun,on the eyes,"body,senses",,,masculine,plural,,,False,False,False,articulated_preposition,gli,sugli,su,contraction of su + gli,Tiene gli occhiali sugli occhi.,He keeps the glasses on his eyes.
+con gli occhi,False,occhio,eye,noun,with the eyes,"body,senses",,,masculine,plural,,,False,False,False,articulated_preposition,gli,con gli,con,no common contraction with con + gli in modern use,Legge con gli occhi stanchi.,He reads with tired eyes.

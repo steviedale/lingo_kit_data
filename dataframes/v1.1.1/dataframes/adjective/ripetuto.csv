@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+ripetuto,True,ripetuto,repeated,adjective,repeated (masculine),"description,frequency",,,masculine,singular,,,False,False,False,,,,,past participle used as adjective,È un errore ripetuto.,It is a repeated mistake.
+ripetuta,False,ripetuto,repeated,adjective,repeated (feminine),"description,frequency",,,feminine,singular,,,False,False,False,,,,,,È una domanda ripetuta.,It is a repeated question.
+ripetuti,False,ripetuto,repeated,adjective,repeated (masculine plural),"description,frequency",,,masculine,plural,,,False,False,False,,,,,,Sono errori ripetuti.,They are repeated errors.
+ripetute,False,ripetuto,repeated,adjective,repeated (feminine plural),"description,frequency",,,feminine,plural,,,False,False,False,,,,,,Sono domande ripetute.,They are repeated questions.

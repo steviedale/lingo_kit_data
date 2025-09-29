@@ -1,0 +1,26 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+sforzare,True,sforzare,to force,verb,to force,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -are verb; also reflexive sforzarsi means to make an effort,Voglio sforzare la porta.,I want to force the door.
+sforzando,False,sforzare,to force,verb,forcing,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto sforzando la porta.,I am forcing the door.
+sforzato,False,sforzare,to force,verb,forced,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle; regular root; masculine singular,L'ho sforzato.,I forced it.
+sforzata,False,sforzare,to force,verb,forced,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle; regular root; feminine singular,L'ho sforzata.,I forced it.
+sforzati,False,sforzare,to force,verb,forced,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle; regular root; masculine plural,Li ho sforzati.,I forced them.
+sforzate,False,sforzare,to force,verb,forced,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle; regular root; feminine plural,Le ho sforzate.,I forced them.
+sforzo,False,sforzare,to force,verb,I force,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io sforzo la porta.,I force the door.
+sforzi,False,sforzare,to force,verb,you force,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu sforzi la voce.,You force your voice.
+sforza,False,sforzare,to force,verb,he forces/she forces/you (formal) force,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal Lei,Lui sforza la serratura.,He forces the lock.
+sforziamo,False,sforzare,to force,verb,we force,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi sforziamo il cassetto.,We force the drawer.
+sforzate,False,sforzare,to force,verb,you (plural) force,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi sforzate il cancello.,You force the gate.
+sforzano,False,sforzare,to force,verb,they force,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro sforzano i bulloni.,They force the bolts.
+sforzavo,False,sforzare,to force,verb,I was forcing,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io sforzavo la porta.,I was forcing the door.
+sforzavi,False,sforzare,to force,verb,you were forcing,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu sforzavi la voce.,You were forcing your voice.
+sforzava,False,sforzare,to force,verb,he was forcing/she was forcing/you (formal) were forcing,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal Lei,Lui sforzava il motore.,He was forcing the engine.
+sforzavamo,False,sforzare,to force,verb,we were forcing,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi sforzavamo la serratura.,We were forcing the lock.
+sforzavate,False,sforzare,to force,verb,you (plural) were forcing,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi sforzavate il cancello.,You were forcing the gate.
+sforzavano,False,sforzare,to force,verb,they were forcing,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro sforzavano i bulloni.,They were forcing the bolts.
+ho sforzato,False,sforzare,to force,verb,I have forced,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Ho sforzato la porta.,I have forced the door.
+hai sforzato,False,sforzare,to force,verb,you have forced,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hai sforzato la serratura.,You have forced the lock.
+ha sforzato,False,sforzare,to force,verb,he has forced/she has forced/you (formal) have forced,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal Lei,Ha sforzato il cancello.,He has forced the gate.
+abbiamo sforzato,False,sforzare,to force,verb,we have forced,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Abbiamo sforzato il cassetto.,We have forced the drawer.
+avete sforzato,False,sforzare,to force,verb,you (plural) have forced,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Avete sforzato la vite.,You have forced the screw.
+hanno sforzato,False,sforzare,to force,verb,they have forced,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hanno sforzato le porte.,They have forced the doors.
+sforzò,False,sforzare,to force,verb,he forced/she forced/you (formal) forced,"core,verb",,3s,,singular,indicative,passato remoto,False,False,False,,,,,passato remoto; also used as formal Lei,Sforzò la serratura.,He forced the lock.

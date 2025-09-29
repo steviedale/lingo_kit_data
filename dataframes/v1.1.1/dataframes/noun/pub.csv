@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+pub,True,pub,pub,noun,pub,"travel,dining",,,masculine,singular,,,False,False,False,,,,,base lemma; loanword,Cerco pub economico.,I am looking for an inexpensive pub.
+un pub,False,pub,pub,noun,a pub,"travel,dining",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Conosco un pub carino.,I know a nice pub.
+il pub,False,pub,pub,noun,the pub,"travel,dining",,,masculine,singular,,,False,False,False,definite,il,il,,,Il pub apre alle otto.,The pub opens at eight.
+pub,False,pub,pub,noun,pubs,"travel,dining",,,masculine,plural,,,False,False,False,,,,,invariable plural,Pub nuovi aprono spesso.,New pubs open often.
+i pub,False,pub,pub,noun,the pubs,"travel,dining",,,masculine,plural,,,False,False,False,definite,i,i,,,I pub sono pieni.,The pubs are full.
+dei pub,False,pub,pub,noun,some pubs,"travel,dining",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Provo dei pub locali.,I try some local pubs.
+del pub,False,pub,pub,noun,of the pub,"travel,dining",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,L'orario del pub è online.,The pub's hours are online.
+al pub,False,pub,pub,noun,to the pub,"travel,dining",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Andiamo al pub.,We are going to the pub.
+ai pub,False,pub,pub,noun,to the pubs,"travel,dining",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Prenoto ai pub del centro.,I book at the pubs downtown.
+dal pub,False,pub,pub,noun,from the pub,"travel,dining",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Esco dal pub.,I am leaving the pub.
+dai pub,False,pub,pub,noun,from the pubs,"travel,dining",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Profumi dai pub vicini.,Scents from the nearby pubs.
+nel pub,False,pub,pub,noun,in the pub,"travel,dining",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,Lavoro nel pub.,I work in the pub.
+nei pub,False,pub,pub,noun,in the pubs,"travel,dining",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Non si fuma nei pub.,You cannot smoke in pubs.
+sul pub,False,pub,pub,noun,about the pub,"travel,dining",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Leggo una recensione sul pub.,I am reading a review about the pub.
+sui pub,False,pub,pub,noun,about the pubs,"travel,dining",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Ho dati sui pub locali.,I have data about local pubs.
+col pub,False,pub,pub,noun,with the pub,"travel,dining",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Collaboro col pub.,I collaborate with the pub.
+coi pub,False,pub,pub,noun,with the pubs,"travel,dining",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Lavoriamo coi pub partner.,We work with partner pubs.

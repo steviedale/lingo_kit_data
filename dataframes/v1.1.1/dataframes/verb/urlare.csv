@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+urlare,True,urlare,to shout,verb,to shout,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -are verb,Voglio urlare forte.,I want to shout loudly.
+urlando,False,urlare,to shout,verb,shouting,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto urlando per farmi sentire.,I am shouting to be heard.
+urlato,False,urlare,to shout,verb,shouted,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle; regular -ato; masculine singular,L'ho urlato senza paura.,I shouted it without fear.
+urlata,False,urlare,to shout,verb,shouted,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle; regular -ata; feminine singular,L'ho urlata troppo forte.,I shouted it too loudly.
+urlati,False,urlare,to shout,verb,shouted,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle; regular -ati; masculine plural,Li ho urlati tutti.,I shouted them all.
+urlate,False,urlare,to shout,verb,shouted,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle; regular -ate; feminine plural,Le ho urlate senza pensarci.,I shouted them without thinking.
+urlo,False,urlare,to shout,verb,I shout,"core,verb",,1s,,,indicative,present,False,False,False,,,,,,Urlo dal balcone.,I shout from the balcony.
+urli,False,urlare,to shout,verb,you shout,"core,verb",,2s,,,indicative,present,False,False,False,,,,,,Urli troppo in classe.,You shout too much in class.
+urla,False,urlare,to shout,verb,he shouts/she shouts/you (formal) shout,"core,verb",,3s,,,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui urla di gioia.,He shouts with joy.
+urliamo,False,urlare,to shout,verb,we shout,"core,verb",,1p,,,indicative,present,False,False,False,,,,,,Urliamo insieme allo stadio.,We shout together at the stadium.
+urlate,False,urlare,to shout,verb,you (plural) shout,"core,verb",,2p,,,indicative,present,False,False,False,,,,,,Urlate troppo la notte.,You shout too much at night.
+urlano,False,urlare,to shout,verb,they shout,"core,verb",,3p,,,indicative,present,False,False,False,,,,,,Urlano per protesta.,They shout in protest.
+urlavo,False,urlare,to shout,verb,I was shouting,"core,verb",,1s,,,indicative,imperfect,False,False,False,,,,,,Urlavo ogni sera.,I was shouting every evening.
+urlavi,False,urlare,to shout,verb,you were shouting,"core,verb",,2s,,,indicative,imperfect,False,False,False,,,,,,Urlavi senza motivo.,You were shouting for no reason.
+urlava,False,urlare,to shout,verb,he was shouting/she was shouting/you (formal) were shouting,"core,verb",,3s,,,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lui urlava ancora.,He was still shouting.
+urlavamo,False,urlare,to shout,verb,we were shouting,"core,verb",,1p,,,indicative,imperfect,False,False,False,,,,,,Urlavamo al concerto.,We were shouting at the concert.
+urlavate,False,urlare,to shout,verb,you (plural) were shouting,"core,verb",,2p,,,indicative,imperfect,False,False,False,,,,,,Urlavate per la squadra.,You were shouting for the team.
+urlavano,False,urlare,to shout,verb,they were shouting,"core,verb",,3p,,,indicative,imperfect,False,False,False,,,,,,Urlavano contro il traffico.,They were shouting against the traffic.
+ho urlato,False,urlare,to shout,verb,I have shouted,"core,verb",,1s,,,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'urlato',Ho urlato di rabbia.,I have shouted in anger.
+hai urlato,False,urlare,to shout,verb,you have shouted,"core,verb",,2s,,,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'urlato',Hai urlato il mio nome.,You have shouted my name.
+ha urlato,False,urlare,to shout,verb,he has shouted/she has shouted/you (formal) have shouted,"core,verb",,3s,,,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'urlato'; also used as formal 'Lei',Ha urlato al microfono.,He has shouted into the microphone.
+abbiamo urlato,False,urlare,to shout,verb,we have shouted,"core,verb",,1p,,,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'urlato',Abbiamo urlato insieme.,We have shouted together.
+avete urlato,False,urlare,to shout,verb,you (plural) have shouted,"core,verb",,2p,,,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'urlato',Avete urlato alla festa.,You have shouted at the party.
+hanno urlato,False,urlare,to shout,verb,they have shouted,"core,verb",,3p,,,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'urlato',Hanno urlato tutta la notte.,They have shouted all night.

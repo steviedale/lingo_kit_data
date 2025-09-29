@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+passato,True,passato,past,adjective,past (masculine),"time,description",,,masculine,singular,,,False,False,False,,,,,derived from past participle of passare,È un ricordo passato.,It is a past memory.
+passata,False,passato,past,adjective,past (feminine),"time,description",,,feminine,singular,,,False,False,False,,,,,,È una moda passata.,It is a past trend.
+passati,False,passato,past,adjective,past (masculine plural),"time,description",,,masculine,plural,,,False,False,False,,,,,,Ricordo i giorni passati.,I remember the past days.
+passate,False,passato,past,adjective,past (feminine plural),"time,description",,,feminine,plural,,,False,False,False,,,,,,Ricordo le estati passate.,I remember the past summers.

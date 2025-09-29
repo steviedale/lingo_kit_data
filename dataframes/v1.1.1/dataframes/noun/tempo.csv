@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+tempo,True,tempo,time,noun,time,"core,time",,,masculine,singular,,,False,False,False,,,,,also means weather and musical tempo,Cerco tempo per leggere.,I am looking for time to read.
+un tempo,False,tempo,time,noun,a time,"core,time",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Ho passato un tempo difficile.,I went through a difficult time.
+il tempo,False,tempo,time,noun,the time,"core,time",,,masculine,singular,,,False,False,False,definite,il,il,,,Il tempo vola.,Time flies.
+tempi,False,tempo,time,noun,times,"core,time",,,masculine,plural,,,False,False,False,,,,,plural form,Tempi migliori arriveranno.,Better times will come.
+i tempi,False,tempo,time,noun,the times,"core,time",,,masculine,plural,,,False,False,False,definite,i,i,,,I tempi sono cambiati.,The times have changed.
+dei tempi,False,tempo,time,noun,some times,"core,time",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Ricordo dei tempi felici.,I remember some happy times.
+del tempo,False,tempo,time,noun,of the time,"core,time",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il; also used as partitive,Ho del tempo libero.,I have some free time.
+al tempo,False,tempo,time,noun,to the time,"core,time",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Torna al tempo iniziale.,Go back to the initial tempo.
+ai tempi,False,tempo,time,noun,to the times,"core,time",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Ai tempi ero studente.,Back then I was a student.
+dal tempo,False,tempo,time,noun,from the time,"core,time",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Dal tempo passato ho imparato molto.,From time gone by I learned a lot.
+dai tempi,False,tempo,time,noun,from the times,"core,time",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Dai tempi antichi arrivano leggende.,From ancient times come legends.
+nel tempo,False,tempo,time,noun,in the time,"core,time",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,Nel tempo libero corro.,In my free time I run.
+nei tempi,False,tempo,time,noun,in the times,"core,time",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Nei tempi difficili restiamo uniti.,In hard times we stay united.
+sul tempo,False,tempo,time,noun,on the time,"core,time",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Batti le mani sul tempo.,Clap your hands on the beat.
+sui tempi,False,tempo,time,noun,on the times,"core,time",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Discutiamo sui tempi di consegna.,We discuss the delivery times.
+col tempo,False,tempo,time,noun,with the time,"core,time",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Col tempo guarirai.,You will heal over time.
+coi tempi,False,tempo,time,noun,with the times,"core,time",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Resta al passo coi tempi.,Keep up with the times.

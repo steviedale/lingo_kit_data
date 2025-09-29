@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+silenzioso,True,silenzioso,quiet,adjective,quiet (masculine),"descriptions,sound",,,masculine,singular,,,False,False,False,,,,,,Il quartiere è silenzioso.,The neighborhood is quiet.
+silenziosa,False,silenzioso,quiet,adjective,quiet (feminine),"descriptions,sound",,,feminine,singular,,,False,False,False,,,,,,La biblioteca è silenziosa.,The library is quiet.
+silenziosi,False,silenzioso,quiet,adjective,quiet (masculine plural),"descriptions,sound",,,masculine,plural,,,False,False,False,,,,,,I vicini sono silenziosi.,The neighbors are quiet.
+silenziose,False,silenzioso,quiet,adjective,quiet (feminine plural),"descriptions,sound",,,feminine,plural,,,False,False,False,,,,,,Le aule sono silenziose.,The classrooms are quiet.
