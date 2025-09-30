@@ -1,0 +1,8 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+vicino a,True,vicino a,near to,preposition,near to,"space,proximity",simple,,,,,,False,False,False,,,,,prepositional locution,La scuola è vicino a casa.,The school is near to home.
+vicino al,False,vicino a,near to,preposition,near to the,"space,proximity",articulated,,,,,,False,False,False,,,,,contraction of a + il,Abito vicino al parco.,I live near the park.
+vicino alla,False,vicino a,near to,preposition,near to the,"space,proximity",articulated,,,,,,False,False,False,,,,,combination of a + la,È vicino alla stazione.,It is near the station.
+vicino allo,False,vicino a,near to,preposition,near to the,"space,proximity",articulated,,,,,,False,False,False,,,,,contraction of a + lo,Il bar è vicino allo stadio.,The bar is near the stadium.
+vicino ai,False,vicino a,near to,preposition,near to the,"space,proximity",articulated,,,,,,False,False,False,,,,,contraction of a + i,La scuola è vicino ai giardini.,The school is near the gardens.
+vicino agli,False,vicino a,near to,preposition,near to the,"space,proximity",articulated,,,,,,False,False,False,,,,,contraction of a + gli,È vicino agli uffici.,It is near the offices.
+vicino alle,False,vicino a,near to,preposition,near to the,"space,proximity",articulated,,,,,,False,False,False,,,,,contraction of a + le,La casa è vicino alle montagne.,The house is near the mountains.

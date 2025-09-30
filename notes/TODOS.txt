@@ -1,12 +1,9 @@
 TODOS:
+- consolidate topics:
+    - create a script to collect all of the topics for each english/italian base lemma 
+    - feed it to a LLM to consolidate topics
+    - update csvs with new topics
 - plan lingo kit creation (adding/removing terms, searching, etc)
-- create a script to collect all of the topics for each english/italian base lemma and then feed it to a LLM to consolidate topics
-- budget audio creation:
-    - check how much we've spent on audio
-    - get estimate on cost of regeneration
-    - consider limited generate (maybe not all of the forms of nouns/verbs/adjectives for now)
-- run some CSV integrity checks:
-    - make sure italian term is in italian sentence
 
 COMPLETED:
 - [DONE] finish running generation
@@ -14,3 +11,10 @@ COMPLETED:
 - [DONE] fix overwrite issue with generation (for now let's not overwrite, we'll handling merging manually)
 - [DONE] plan database structure
     - https://app.diagrams.net/#G1nr2hJN5lSYkJxkgvQ3JZpWDXfolQ1Swm#%7B%22pageId%22%3A%22-_8Atw3AAGIerG6mIT_r%22%7D
+- [DONE] run some CSV integrity checks:
+    - [DONE] check duplicate italian_term/enlgish translation
+    - [DONE] make sure italian term is in italian sentence
+- [DONE] budget audio creation:
+    - [DONE] check how much we've spent on audio - only $2.50
+    - [DONE] get estimate on cost of regeneration - about $1.60 (100k char at $16/million)
+    - [DONE] consider limited generate (maybe not all of the forms of nouns/verbs/adjectives for now) - nah, we're good

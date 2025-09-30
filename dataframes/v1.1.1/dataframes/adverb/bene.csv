@@ -1,4 +1,5 @@
 term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-bene,True,bene,well/good,adverb,well,"core,quality",,,,,,,False,False,False,,,,,irregular comparative is 'meglio' (separate lemma),Sto bene.,I am well.
-benissimo,False,bene,well/good,adverb,extremely well,"core,quality",,,,,,,False,True,False,,,,,intensified form (-issimo),Sto benissimo.,I am extremely well.
-molto bene,False,bene,well/good,adverb,very well,"core,quality",,,,,,,False,True,False,,,,,intensified with 'molto',Va molto bene.,It is going very well.
+bene,True,bene,well,adverb,well,"manner,degree",,,,,,,False,False,False,,,,,irregular comparative is 'meglio' (separate lemma),"Sto bene, grazie.","I am well, thank you."
+ben,False,bene,well,adverb,well/as many as,"manner,degree",,,,,,,False,False,False,,,,,short form of 'bene' used before adjectives/participles/numerals,Ho aspettato ben due ore.,I waited a full two hours.
+benissimo,False,bene,well,adverb,very well/excellently,"manner,degree",,,,,,,False,True,False,,,,,absolute superlative of bene,Oggi sto benissimo.,Today I feel very well.
+molto bene,False,bene,well,adverb,very well,"manner,degree",,,,,,,False,True,False,,,,,intensified with 'molto',Hai fatto molto bene.,You did very well.

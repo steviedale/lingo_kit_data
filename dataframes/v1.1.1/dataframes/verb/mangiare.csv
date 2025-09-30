@@ -22,4 +22,4 @@ hai mangiato,False,mangiare,to eat,verb,you have eaten,"core,verb",,2s,,singular
 ha mangiato,False,mangiare,to eat,verb,he has eaten/she has eaten/you (formal) have eaten,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha mangiato troppo.,He has eaten too much.
 abbiamo mangiato,False,mangiare,to eat,verb,we have eaten,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Abbiamo mangiato bene.,We have eaten well.
 avete mangiato,False,mangiare,to eat,verb,you (plural) have eaten,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Avete mangiato qui?,Have you (plural) eaten here?
-hanno mangiato,False,mangiare,to eat,verb,they have eaten,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hanno già mangiato.,They have already eaten.
+hanno mangiato,False,mangiare,to eat,verb,they have eaten,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hanno mangiato tutto.,They have eaten everything.

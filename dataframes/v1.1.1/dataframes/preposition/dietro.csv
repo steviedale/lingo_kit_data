@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+dietro,True,dietro,behind,preposition,behind,"space,position",simple,,,,,,False,False,False,,,,,also used as 'dietro a' before nouns,Il parcheggio è dietro il supermercato.,The parking lot is behind the supermarket.
+dietro a,False,dietro,behind,preposition,behind,"space,position",simple,,,,,,False,False,False,,,,,variant with a before a noun,Ci vediamo dietro a casa tua.,We will meet behind your house.
+dietro di,False,dietro,behind,preposition,behind,"space,position",simple,,,,,,False,False,False,,,,,used before stressed pronouns,Lei è dietro di me.,She is behind me.

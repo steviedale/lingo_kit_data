@@ -1,2 +1,2 @@
 term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-quanto,True,quanto,how much/how many/as much as,adverb,how much,"core,quantity",,,,,,False,False,False,,,,,,Non so quanto costa.,I do not know how much it costs.,
+quanto,True,quanto,how much/how many/as much as,adverb,how much,"core,quantity",,,,,,,False,False,False,,,,,,Non so quanto costa.,I do not know how much it costs.

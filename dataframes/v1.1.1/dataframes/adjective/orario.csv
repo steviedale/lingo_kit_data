@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+orario,True,orario,hourly,adjective,hourly (masculine),"time,work",,,masculine,singular,,,False,False,False,,,,,,Il costo orario è aumentato.,The hourly cost has increased.
+oraria,False,orario,hourly,adjective,hourly (feminine),"time,work",,,feminine,singular,,,False,False,False,,,,,,La paga oraria è buona.,The hourly pay is good.
+orari,False,orario,hourly,adjective,hourly (masculine plural),"time,work",,,masculine,plural,,,False,False,False,,,,,,Abbiamo limiti orari.,We have hourly limits.
+orarie,False,orario,hourly,adjective,hourly (feminine plural),"time,work",,,feminine,plural,,,False,False,False,,,,,,Le tariffe orarie sono indicate.,The hourly rates are listed.

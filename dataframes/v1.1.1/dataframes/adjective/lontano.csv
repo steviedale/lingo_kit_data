@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+lontano,True,lontano,far,adjective,far (masculine),"space,description",,,masculine,singular,,,False,False,False,,,,,,Questo posto è lontano.,This place is far away.
+lontana,False,lontano,far,adjective,far (feminine),"space,description",,,feminine,singular,,,False,False,False,,,,,,La città è lontana.,The city is far away.
+lontani,False,lontano,far,adjective,far (masculine plural),"space,description",,,masculine,plural,,,False,False,False,,,,,,Quei villaggi sono lontani.,Those villages are far away.
+lontane,False,lontano,far,adjective,far (feminine plural),"space,description",,,feminine,plural,,,False,False,False,,,,,,Le mete sono lontane.,The destinations are far away.

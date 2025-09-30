@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+vicino,True,vicino,near,adverb,nearby,"space,proximity",,,,,,,False,False,False,,,,,,Abito vicino.,I live nearby.
+più vicino,False,vicino,near,adverb,closer,"space,proximity",,,,,,,True,False,False,,,,,,Parcheggia più vicino.,Park closer.
+vicinissimo,False,vicino,near,adverb,very close,"space,proximity",,,,,,,False,True,False,,,,,,Il bar è vicinissimo.,The bar is very close.
+molto vicino,False,vicino,near,adverb,very close,"space,proximity",,,,,,,False,True,False,,,,,,Abito molto vicino.,I live very close.

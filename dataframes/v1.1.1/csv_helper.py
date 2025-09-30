@@ -18,7 +18,11 @@ def get_all_terms_df():
     for path in all_csv_files:
         assert(os.path.exists(path))
         # print(path)
-        df = pd.read_csv(path)
+        try:
+            df = pd.read_csv(path)
+        except Exception as e:
+            print(f"Error reading {path}: {e}")
+            raise e
         all_df = pd.concat([all_df, df], ignore_index=True)
     # len(all_df), all_df.columns
     return all_df

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+vicino,True,vicino,near,adjective,near (masculine),"space,proximity",,,masculine,singular,,,False,False,False,,,,,variable adjective,Il bar vicino è chiuso.,The nearby bar is closed.
+vicina,False,vicino,near,adjective,near (feminine),"space,proximity",,,feminine,singular,,,False,False,False,,,,,,La farmacia vicina è aperta.,The nearby pharmacy is open.
+vicini,False,vicino,near,adjective,near (masculine plural),"space,proximity",,,masculine,plural,,,False,False,False,,,,,,I paesi vicini sono belli.,The nearby towns are beautiful.
+vicine,False,vicino,near,adjective,near (feminine plural),"space,proximity",,,feminine,plural,,,False,False,False,,,,,,Le città vicine sono care.,The nearby cities are expensive.

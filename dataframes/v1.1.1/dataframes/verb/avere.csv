@@ -23,3 +23,9 @@ ha avuto,False,avere,to have,verb,he has had/she has had/you (formal) have had,"
 abbiamo avuto,False,avere,to have,verb,we have had,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'avuto',Abbiamo avuto una buona idea.,We have had a good idea.
 avete avuto,False,avere,to have,verb,you (plural) have had,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'avuto',Avete avuto il pacco?,Have you had the package?
 hanno avuto,False,avere,to have,verb,they have had,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'avuto',Hanno avuto notizie.,They have had news.
+l'ho,False,avere,to have,verb,I have it,"core,verb",,1s,,singular,indicative,present,False,False,True,,,,,contraction of 'lo ho',L'ho visto.,I have seen it.
+l'hai,False,avere,to have,verb,you have it,"core,verb",,2s,,singular,indicative,present,False,False,True,,,,,contraction of 'lo hai',L'hai preso?,Have you taken it?
+l'ha,False,avere,to have,verb,he has it/she has it/you (formal) have it,"core,verb",,3s,,singular,indicative,present,False,False,True,,,,,contraction of 'lo ha'; also used as formal 'Lei',L'ha fatto?,Has he done it?
+l'abbiamo,False,avere,to have,verb,we have it,"core,verb",,1p,,plural,indicative,present,False,False,True,,,,,contraction of 'lo abbiamo',L'abbiamo visto.,We have seen it.
+l'avete,False,avere,to have,verb,you (plural) have it,"core,verb",,2p,,plural,indicative,present,False,False,True,,,,,contraction of 'lo avete',L'avete capito?,Have you understood it?
+l'hanno,False,avere,to have,verb,they have it,"core,verb",,3p,,plural,indicative,present,False,False,True,,,,,contraction of 'lo hanno',L'hanno trovato.,They have found it.
