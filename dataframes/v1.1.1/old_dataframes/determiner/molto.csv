@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-molto,True,molto,determiner,"much, many","quantities,intensity",quantifier,,masculine,singular,,,False,False,False,,,,,Base form,Ho molto tempo libero.,I have much free time.
-molta,False,molto,determiner,"much, many","quantities,intensity",quantifier,,feminine,singular,,,False,False,False,,,,,,C'è molta acqua.,There is much water.
-molti,False,molto,determiner,many,"quantities,intensity",quantifier,,masculine,plural,,,False,False,False,,,,,,Molti studenti sono assenti.,Many students are absent.
-molte,False,molto,determiner,many,"quantities,intensity",quantifier,,feminine,plural,,,False,False,False,,,,,,Molte case sono vecchie.,Many houses are old.

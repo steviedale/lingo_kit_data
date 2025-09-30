@@ -1,3 +1,0 @@
-term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-lui,True,lui,he/him,pronoun,he,"core,people",personal,3s,masculine,singular,,,False,False,False,,,,,stressed subject pronoun commonly used in spoken Italian,Lui parla inglese.,He speaks English.
-lui,False,lui,he/him,pronoun,him (stressed object),"core,people",direct_object,3s,masculine,singular,,,False,False,False,,,,,"tonic object used after prepositions and for emphasis, not as an unstressed clitic",Parlo con lui ogni giorno.,I speak with him every day.

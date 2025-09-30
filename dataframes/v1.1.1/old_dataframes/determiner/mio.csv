@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-mio,True,mio,determiner,my,"core,family",possessive,,masculine,singular,,,False,False,False,,,,,Used before masculine singular nouns.,Questo è il mio libro.,This is my book.
-mia,False,mio,determiner,my,"core,family",possessive,,feminine,singular,,,False,False,False,,,,,Used before feminine singular nouns.,Questa è la mia casa.,This is my house.
-miei,False,mio,determiner,my,"core,family",possessive,,masculine,plural,,,False,False,False,,,,,Used before masculine plural nouns.,Questi sono i miei amici.,These are my friends.
-mie,False,mio,determiner,my,"core,family",possessive,,feminine,plural,,,False,False,False,,,,,Used before feminine plural nouns.,Queste sono le mie scarpe.,These are my shoes.

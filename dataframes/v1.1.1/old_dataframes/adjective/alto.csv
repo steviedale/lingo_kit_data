@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-alto,True,alto,adjective,tall,"height,size",,,masculine,singular,,,False,False,False,,,,,,Il muro è alto.,The wall is tall.
-alta,False,alto,adjective,tall,"height,size",,,feminine,singular,,,False,False,False,,,,,,La torre è alta.,The tower is tall.
-alti,False,alto,adjective,tall,"height,size",,,masculine,plural,,,False,False,False,,,,,,Gli alberi sono alti.,The trees are tall.
-alte,False,alto,adjective,tall,"height,size",,,feminine,plural,,,False,False,False,,,,,,Le montagne sono alte.,The mountains are tall.

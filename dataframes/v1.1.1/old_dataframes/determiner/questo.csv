@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-questo,True,questo,determiner,this,"core,objects",demonstrative,,masculine,singular,,,False,False,False,,,,,Used for masculine singular nouns near the speaker,Questo libro è interessante.,This book is interesting.
-questa,False,questo,determiner,this,"core,objects",demonstrative,,feminine,singular,,,False,False,False,,,,,Used for feminine singular nouns near the speaker,Questa casa è grande.,This house is big.
-questi,False,questo,determiner,these,"core,objects",demonstrative,,masculine,plural,,,False,False,False,,,,,Used for masculine plural nouns near the speaker,Questi ragazzi sono felici.,These boys are happy.
-queste,False,questo,determiner,these,"core,objects",demonstrative,,feminine,plural,,,False,False,False,,,,,Used for feminine plural nouns near the speaker,Queste scarpe sono nuove.,These shoes are new.

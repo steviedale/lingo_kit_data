@@ -1,4 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-vi,True,vi,pronoun,you (plural),"core,people,grammar",direct_object,2p,,plural,,,False,False,False,,,,,Used as direct object,Vi sento.,I hear you (plural).
-vi,False,vi,pronoun,you (plural),"core,people,grammar",indirect_object,2p,,plural,,,False,False,False,,,,,Used as indirect object,Vi do un libro.,I give you (plural) a book.
-vi,False,vi,pronoun,yourselves,"core,people,reflexive",reflexive,2p,,plural,,,False,False,False,,,,,Reflexive pronoun,Vi preparate.,You (plural) get yourselves ready.

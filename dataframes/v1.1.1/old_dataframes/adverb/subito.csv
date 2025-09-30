@@ -1,3 +1,0 @@
-term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-subito,True,subito,immediately,adverb,immediately,"time,core",,,,,,,False,False,False,,,,,also used as an interjection meaning 'right away',Vieni subito qui.,Come here immediately.
-subitissimo,False,subito,immediately,adverb,immediately (intensified),"time,core",,,,,,,False,True,False,,,,,"informal and emphatic, rare",È arrivato subitissimo.,He arrived very quickly.

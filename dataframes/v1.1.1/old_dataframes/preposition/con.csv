@@ -1,9 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-con,True,con,preposition,with,"core,people",simple,,,,,,False,False,False,,,,,Indicates accompaniment,Esco con gli amici,I go out with friends
-col,False,con,preposition,with,"core,people",articulated,,,,,,False,False,False,,,,,Used before masculine singular nouns starting with a consonant,Esco col mio amico.,I'm going out with my friend.
-coi,False,con,preposition,with,"core,people",articulated,,,,,,False,False,False,,,,,Used before masculine plural nouns,Parlo coi ragazzi.,I'm talking with the boys.
-collo,False,con,preposition,with,"core,objects",articulated,,,,,,False,False,False,,,,,"Used before masculine singular nouns starting with ""lo"" form",Ho parlato collo studente.,I spoke with the student.
-colla,False,con,preposition,with,"core,objects",articulated,,,,,,False,False,False,,,,,Used before feminine singular nouns starting with a consonant,Scrivo colla penna.,I write with the pen.
-cogli,False,con,preposition,with,"core,people",articulated,,,,,,False,False,False,,,,,Used before masculine plural nouns starting with a vowel,Esco cogli amici.,I'm going out with the friends.
-colle,False,con,preposition,with,"core,places",articulated,,,,,,False,False,False,,,,,Used before feminine plural nouns,Parlo colle ragazze.,I'm talking with the girls.
-coll',False,con,preposition,with,"core,people",articulated,,,,,,False,False,False,,,,,Elided form before vowels,Esco coll'amico.,I'm going out with the friend.

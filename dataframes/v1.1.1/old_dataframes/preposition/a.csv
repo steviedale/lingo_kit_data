@@ -1,8 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-a,True,a,preposition,to,"core,travel",simple,,,,,,False,False,False,,,,,Used for direction and indirect objects,Vado a Roma,I go to Rome
-al,False,a,preposition,to the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""a"" + ""il""",Vado al mercato,I go to the market
-allo,False,a,preposition,to the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""a"" + ""lo""",Scrivo allo studente,I write to the student
-alla,False,a,preposition,to the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""a"" + ""la""",Parlo alla maestra,I speak to the teacher
-ai,False,a,preposition,to the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""a"" + ""i""",Telefono ai ragazzi,I call the boys
-agli,False,a,preposition,to the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""a"" + ""gli""",Parlo agli amici,I talk to the friends
-alle,False,a,preposition,to the,"core,travel",articulated,,,,,,False,False,False,,,,,"Combination of ""a"" + ""le""",Scrivo alle ragazze,I write to the girls

@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-tuo,True,tuo,determiner,your,"core,family",possessive,,masculine,singular,,,False,False,False,,,,,"Informal, used before masculine singular nouns.",Questo è il tuo quaderno.,This is your notebook.
-tua,False,tuo,determiner,your,"core,family",possessive,,feminine,singular,,,False,False,False,,,,,"Informal, used before feminine singular nouns.",Questa è la tua penna.,This is your pen.
-tuoi,False,tuo,determiner,your,"core,family",possessive,,masculine,plural,,,False,False,False,,,,,"Informal, used before masculine plural nouns.",Questi sono i tuoi libri.,These are your books.
-tue,False,tuo,determiner,your,"core,family",possessive,,feminine,plural,,,False,False,False,,,,,"Informal, used before feminine plural nouns.",Queste sono le tue foto.,These are your photos.

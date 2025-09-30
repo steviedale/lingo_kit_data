@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-nuovo,True,nuovo,adjective,new,"age,novelty",,,masculine,singular,,,False,False,False,,,,,,Il telefono è nuovo.,The phone is new.
-nuova,False,nuovo,adjective,new,"age,novelty",,,feminine,singular,,,False,False,False,,,,,,La maglia è nuova.,The sweater is new.
-nuovi,False,nuovo,adjective,new,"age,novelty",,,masculine,plural,,,False,False,False,,,,,,I libri sono nuovi.,The books are new.
-nuove,False,nuovo,adjective,new,"age,novelty",,,feminine,plural,,,False,False,False,,,,,,Le scarpe sono nuove.,The shoes are new.

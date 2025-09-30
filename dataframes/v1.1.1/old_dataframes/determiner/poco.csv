@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-poco,True,poco,determiner,"little, few","quantities,scarcity",quantifier,,masculine,singular,,,False,False,False,,,,,Base form,Ho poco tempo.,I have little time.
-poca,False,poco,determiner,"little, few","quantities,scarcity",quantifier,,feminine,singular,,,False,False,False,,,,,,C'è poca luce.,There is little light.
-pochi,False,poco,determiner,few,"quantities,scarcity",quantifier,,masculine,plural,,,False,False,False,,,,,,Ci sono pochi studenti.,There are few students.
-poche,False,poco,determiner,few,"quantities,scarcity",quantifier,,feminine,plural,,,False,False,False,,,,,,Poche persone lo sanno.,Few people know it.

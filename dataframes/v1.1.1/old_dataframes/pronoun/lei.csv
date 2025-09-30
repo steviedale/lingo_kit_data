@@ -1,4 +1,0 @@
-term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-lei,True,lei,she/you (formal),pronoun,she,"people,politeness",personal,3s,feminine,singular,,,False,False,False,,,,,subject pronoun used for third person singular,lei è mia sorella.,She is my sister.
-Lei,False,lei,she/you (formal),pronoun,you (formal),"people,politeness",personal,3s,,singular,,,False,False,False,,,,,formal polite second-person singular; often capitalized in formal writing,Lei può sedersi.,You (formal) may sit down.
-lei,False,lei,she/you (formal),pronoun,her/you (formal),"people,politeness",personal,3s,feminine,singular,,,False,False,False,,,,,tonic pronoun after prepositions; can mean 'her' or 'you (formal)',Parla di lei.,He talks about her.

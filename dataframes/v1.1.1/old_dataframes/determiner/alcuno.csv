@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-alcuni,True,alcuno,determiner,"some, a few","quantities,uncertainty",quantifier,,masculine,plural,,,False,False,False,,,,,"Common form to indicate ""some""",Ho letto alcuni libri.,I read some books.
-alcuno,False,alcuno,determiner,"some, any","quantities,uncertainty",quantifier,,masculine,singular,,,False,False,False,,,,,Used mostly in negative or interrogative contexts,Non ho alcuno dubbio.,I have no doubt.
-alcuna,False,alcuno,determiner,"some, any","quantities,uncertainty",quantifier,,feminine,singular,,,False,False,False,,,,,Used mostly in negative or interrogative contexts,Non c'è alcuna possibilità.,There is no chance.
-alcune,False,alcuno,determiner,"some, a few","quantities,uncertainty",quantifier,,feminine,plural,,,False,False,False,,,,,"Common form to indicate ""some""",Ho visto alcune persone.,I saw some people.

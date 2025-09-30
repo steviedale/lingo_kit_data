@@ -1,4 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-ti,True,ti,pronoun,you,"core,people,grammar",direct_object,2s,,singular,,,False,False,False,,,,,Used as direct object,Ti vedo.,I see you.
-ti,False,ti,pronoun,you,"core,people,grammar",indirect_object,2s,,singular,,,False,False,False,,,,,Used as indirect object,Ti do un consiglio.,I give you advice.
-ti,False,ti,pronoun,yourself,"core,people,reflexive",reflexive,2s,,singular,,,False,False,False,,,,,Reflexive pronoun,Ti svegli presto.,You wake yourself early.

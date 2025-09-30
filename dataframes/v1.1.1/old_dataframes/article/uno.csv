@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-uno,True,uno,one/a,article,a/an,"core,grammar",indefinite,,masculine,singular,,,False,False,False,indefinite,uno,,,"used before s+consonant, z, gn, ps, x; masculine singular",Ho visto uno studente.,I saw a student.
-un,False,uno,one/a,article,a/an,"core,grammar",indefinite,,masculine,singular,,,False,False,False,indefinite,un,,,used before vowels and most consonants; masculine singular; alternative to 'uno' before non s+consonant/z,Ho un amico.,I have a friend.
-una,False,uno,one/a,article,a/an,"core,grammar",indefinite,,feminine,singular,,,False,False,False,indefinite,una,,,feminine singular; used before consonants,Ho una casa.,I have a house.
-un',False,uno,one/a,article,a/an,"core,grammar",indefinite,,feminine,singular,,,False,False,False,indefinite,un',,,elision of una before vowel (written with apostrophe),Ho un'idea.,I have an idea.

@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-nostro,True,nostro,determiner,our,"core,family",possessive,,masculine,singular,,,False,False,False,,,,,Used before masculine singular nouns.,Questo è il nostro appartamento.,This is our apartment.
-nostra,False,nostro,determiner,our,"core,family",possessive,,feminine,singular,,,False,False,False,,,,,Used before feminine singular nouns.,Questa è la nostra scuola.,This is our school.
-nostri,False,nostro,determiner,our,"core,family",possessive,,masculine,plural,,,False,False,False,,,,,Used before masculine plural nouns.,Questi sono i nostri figli.,These are our children.
-nostre,False,nostro,determiner,our,"core,family",possessive,,feminine,plural,,,False,False,False,,,,,Used before feminine plural nouns.,Queste sono le nostre borse.,These are our bags.

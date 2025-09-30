@@ -1,2 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-siccome,True,siccome,conjunction,since,"logic,explanations",subordinating,,,,,,False,False,False,,,,,"Used to explain reasons, usually at the start of a sentence","Siccome era tardi, siamo tornati a casa","Since it was late, we went home"

@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-troppo,True,troppo,determiner,"too much, too many","quantities,excess",quantifier,,masculine,singular,,,False,False,False,,,,,Base form,Ho troppo zucchero nel caffè.,I have too much sugar in the coffee.
-troppa,False,troppo,determiner,"too much, too many","quantities,excess",quantifier,,feminine,singular,,,False,False,False,,,,,,Hai troppa energia.,You have too much energy.
-troppi,False,troppo,determiner,too many,"quantities,excess",quantifier,,masculine,plural,,,False,False,False,,,,,,Ci sono troppi problemi.,There are too many problems.
-troppe,False,troppo,determiner,too many,"quantities,excess",quantifier,,feminine,plural,,,False,False,False,,,,,,Ho fatto troppe foto.,I took too many photos.

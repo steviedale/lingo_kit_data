@@ -1,8 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-di,True,di,preposition,of,"core,ownership",simple,,,,,,False,False,False,,,,,Indicates possession or origin,Il libro di Maria,Maria's book
-del,False,di,preposition,of the,"core,ownership",articulated,,,,,,False,False,False,,,,,"Combination of ""di"" + ""il""",Il colore del cielo,The color of the sky
-dello,False,di,preposition,of the,"core,ownership",articulated,,,,,,False,False,False,,,,,"Combination of ""di"" + ""lo""",Il profumo dello zucchero,The scent of the sugar
-della,False,di,preposition,of the,"core,ownership",articulated,,,,,,False,False,False,,,,,"Combination of ""di"" + ""la""",Il suono della musica,The sound of the music
-dei,False,di,preposition,of the,"core,ownership",articulated,,,,,,False,False,False,,,,,"Combination of ""di"" + ""i""",I giocattoli dei bambini,The toys of the children
-degli,False,di,preposition,of the,"core,ownership",articulated,,,,,,False,False,False,,,,,"Combination of ""di"" + ""gli""",Le opinioni degli studenti,The opinions of the students
-delle,False,di,preposition,of the,"core,ownership",articulated,,,,,,False,False,False,,,,,"Combination of ""di"" + ""le""",Le case delle ragazze,The houses of the girls

@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-uno,True,uno,one/a,determiner,one,"core,grammar",quantifier,,masculine,singular,,,False,False,False,,,,,cardinal numeral meaning 'one'; used as determiner,Uno studente ha vinto.,One student won the prize.
-un,False,uno,one/a,determiner,one,"core,grammar",quantifier,,masculine,singular,,,False,False,False,,,,,alternative form before vowels; functions as the article form of the numeral,Ho visto un amico.,I saw a friend.
-una,False,uno,one/a,determiner,one,"core,grammar",quantifier,,feminine,singular,,,False,False,False,,,,,feminine form of the numeral,Una ragazza ha risposto.,One girl answered.
-un',False,uno,one/a,determiner,one,"core,grammar",quantifier,,feminine,singular,,,False,False,False,,,,,elided feminine form before vowel (written with apostrophe),È successo un'ora fa.,It happened an hour ago.

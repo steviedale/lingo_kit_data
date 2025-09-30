@@ -1,5 +1,0 @@
-term_italian,is_base,base_lemma_italian,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-primo,True,primo,adjective,first,"order,ranking",,,masculine,singular,,,False,False,False,,,,,,Lui è primo.,He is first.
-prima,False,primo,adjective,first,"order,ranking",,,feminine,singular,,,False,False,False,,,,,,Lei è prima.,She is first.
-primi,False,primo,adjective,first,"order,ranking",,,masculine,plural,,,False,False,False,,,,,,Loro sono primi.,They are first.
-prime,False,primo,adjective,first,"order,ranking",,,feminine,plural,,,False,False,False,,,,,,Loro sono prime.,They are first.
