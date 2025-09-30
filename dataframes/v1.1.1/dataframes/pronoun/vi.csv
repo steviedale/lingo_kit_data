@@ -1,6 +1,5 @@
 term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
 vi,True,vi,you (plural)/there,pronoun,you (plural),"core,pronoun",personal,2p,,,,,False,False,False,,,,,clitic form,Vi vedo domani.,I see you (plural) tomorrow.
-vi,False,vi,you (plural)/there,pronoun,you (plural),"core,pronoun",direct_object,2p,,,,,False,False,False,,,,,direct object pronoun,Vi chiamo più tardi.,I will call you (plural) later.
 vi,False,vi,you (plural)/there,pronoun,to you (plural),"core,pronoun",indirect_object,2p,,,,,False,False,False,,,,,indirect object pronoun,Vi mando un messaggio.,I am sending you (plural) a message.
 vi,False,vi,you (plural)/there,pronoun,yourselves,"core,pronoun",reflexive,2p,,,,,False,False,False,,,,,reflexive clitic for 2p,Vi svegliate presto.,You (plural) wake up early.
 vi,False,vi,you (plural)/there,pronoun,there,"core,pronoun",locative,,,,,,False,False,False,,,,,locative value more formal than ci,Vi sono molti musei in città.,There are many museums in the city.

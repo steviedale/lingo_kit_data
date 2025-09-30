@@ -1,5 +1,4 @@
 term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-tu,True,tu,you (singular informal),pronoun,you (singular informal),"core,pronoun",personal,2s,,singular,,,False,False,False,,,,,subject form,Tu vieni con me.,You come with me.
-te,False,tu,you (singular informal),pronoun,you (singular informal),"core,pronoun",personal,2s,,singular,,,False,False,False,,,,,stressed/disjunctive form; used after prepositions and for emphasis,Vengo con te.,I am coming with you.
-te,False,tu,you (singular informal),pronoun,you (singular informal),"core,pronoun",direct_object,2s,,singular,,,False,False,False,,,,,emphatic direct object; alternative to clitic ti,Vedo te oggi.,I see you today.
-a te,False,tu,you (singular informal),pronoun,to you (singular informal),"core,pronoun",indirect_object,2s,,singular,,,False,False,False,,,,,used for emphasis; alternative to clitic ti,Porto il libro a te.,I bring the book to you.
+tu,True,tu,you (informal),pronoun,you (informal),"core,pronoun",personal,2s,,singular,,,False,False,False,,,,,subject form,Tu vieni con me.,You come with me.
+te,False,tu,you (informal),pronoun,you (informal),"core,pronoun",personal,2s,,singular,,,False,False,False,,,,,stressed/disjunctive form; used after prepositions and for emphasis,Vengo con te.,I am coming with you.
+a te,False,tu,you (informal),pronoun,to you (informal),"core,pronoun",indirect_object,2s,,singular,,,False,False,False,,,,,used for emphasis; alternative to clitic ti,Porto il libro a te.,I bring the book to you.

@@ -1,7 +1,6 @@
 term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-questo,True,questo,this,determiner,this,"core,demonstratives",demonstrative,,masculine,singular,,,False,False,False,,,,,,Prendo questo libro.,I am taking this book.
-questa,False,questo,this,determiner,this,"core,demonstratives",demonstrative,,feminine,singular,,,False,False,False,,,,,,Non toccare questa sedia.,Do not touch this chair.
-questi,False,questo,this,determiner,these,"core,demonstratives",demonstrative,,masculine,plural,,,False,False,False,,,,,,Metti questi piatti sul tavolo.,Put these plates on the table.
-queste,False,questo,this,determiner,these,"core,demonstratives",demonstrative,,feminine,plural,,,False,False,False,,,,,,Prendo queste mele.,I am taking these apples.
-quest',False,questo,this,determiner,this,"core,demonstratives",demonstrative,,masculine,singular,,,False,False,False,,,,,elided form before a vowel,Conosco quest'uomo.,I know this man.
-quest',False,questo,this,determiner,this,"core,demonstratives",demonstrative,,feminine,singular,,,False,False,False,,,,,elided form before a vowel,Quest'idea mi piace.,I like this idea.
+questo,True,questo,this,determiner,this (masculine),"core,demonstratives",demonstrative,,masculine,singular,,,False,False,False,,,,,,Prendo questo libro.,I am taking this book.
+questa,False,questo,this,determiner,this (feminine),"core,demonstratives",demonstrative,,feminine,singular,,,False,False,False,,,,,,Non toccare questa sedia.,Do not touch this chair.
+questi,False,questo,this,determiner,these (masculine plural),"core,demonstratives",demonstrative,,masculine,plural,,,False,False,False,,,,,,Metti questi piatti sul tavolo.,Put these plates on the table.
+queste,False,questo,this,determiner,these (feminine plural),"core,demonstratives",demonstrative,,feminine,plural,,,False,False,False,,,,,,Prendo queste mele.,I am taking these apples.
+quest',False,questo,this,determiner,this,"core,demonstratives",demonstrative,,,,,,False,False,False,,,,,elided form before a vowel; can be masculine or feminine; can be singular or plural,Conosco quest'uomo.,I know this man.

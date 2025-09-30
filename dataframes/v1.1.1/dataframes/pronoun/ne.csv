@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+ne,True,ne,of it/of them,pronoun,some (of them),"core,pronouns",partitive,,,,,,False,False,False,,,,,partitive clitic; replaces di + noun; indicates quantity,Io ne ho due.,I have two of them.
+ne,False,ne,of it/of them,pronoun,of it/about it,"core,pronouns",di_object,,,,,,False,False,False,,,,,"clitic for complements with di; after verbs like parlare, ricordarsi, accorgersi",Domani ne parliamo.,We will talk about it tomorrow.
+ne,False,ne,of it/of them,pronoun,from there/from it,"core,pronouns",adverbial,,,,,,False,False,False,,,,,indicates origin or separation; common with andarsene,Te ne vai adesso?,Are you leaving now?
