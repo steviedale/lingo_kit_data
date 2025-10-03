@@ -1,4 +1,0 @@
-term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
-male,True,male,badly,"manner,quality",False,False,irregular comparative 'peggio' treated separately; absolute superlative with -issimo,Gioca male a calcio.,He plays soccer badly.
-malissimo,False,male,very badly,"manner,quality",False,True,absolute superlative,Ha guidato malissimo oggi.,She drove very badly today.
-molto male,False,male,very badly,"manner,quality",False,True,intensifier + base,Mi sento molto male.,I feel very sick.

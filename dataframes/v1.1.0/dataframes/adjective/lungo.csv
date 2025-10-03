@@ -1,5 +1,0 @@
-term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
-lungo,True,lungo,long,"length,size",masculine,singular,,Il viaggio è lungo.,The trip is long.
-lunga,False,lungo,long,"length,size",feminine,singular,,La strada è lunga.,The road is long.
-lunghi,False,lungo,long,"length,size",masculine,plural,masculine plural in -ghi,I film sono lunghi.,The movies are long.
-lunghe,False,lungo,long,"length,size",feminine,plural,,Le lezioni sono lunghe.,The lessons are long.

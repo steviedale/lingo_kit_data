@@ -1,5 +1,0 @@
-term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
-corto,True,corto,short,"length,size",masculine,singular,,Il film è corto.,The movie is short.
-corta,False,corto,short,"length,size",feminine,singular,,La storia è corta.,The story is short.
-corti,False,corto,short,"length,size",masculine,plural,,I pantaloni sono corti.,The pants are short.
-corte,False,corto,short,"length,size",feminine,plural,,Le gonne sono corte.,The skirts are short.

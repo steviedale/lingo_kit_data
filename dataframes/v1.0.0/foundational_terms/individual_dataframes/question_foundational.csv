@@ -1,9 +1,0 @@
-english,italian,base_term,is_base,topic,part_of_speech
-where,dove,where,True,foundational_words,question
-when,quando,when,True,foundational_words,question
-how,come,how,True,foundational_words,question
-why/because,perché,why,True,foundational_words,question
-how much (masculine),quanto,how much,True,foundational_words,question
-how much (feminine),quanta,how much,False,foundational_words,question
-how many (masculine),quanti,how many,True,foundational_words,question
-how many (feminine),quante,how many,False,foundational_words,question

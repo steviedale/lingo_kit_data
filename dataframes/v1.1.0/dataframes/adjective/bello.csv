@@ -1,5 +1,0 @@
-term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
-bello,True,bello,beautiful,"appearance,evaluation",masculine,singular,special forms before nouns,Il panorama è bello.,The view is beautiful.
-bella,False,bello,beautiful,"appearance,evaluation",feminine,singular,,La sciarpa è bella.,The scarf is beautiful.
-belli,False,bello,beautiful,"appearance,evaluation",masculine,plural,,I quadri sono belli.,The paintings are beautiful.
-belle,False,bello,beautiful,"appearance,evaluation",feminine,plural,,Le foto sono belle.,The photos are beautiful.

@@ -1,6 +1,0 @@
-term_italian,is_base,base_term_italian,translation_english,topics,is_comparative,is_superlative,notes,example_sentence_italian,example_sentence_english
-spesso,True,spesso,often,"frequency,habit",False,False,frequency adverb; forms comparative with più/meno and absolute superlative with -issimo,Esco spesso con gli amici.,I often go out with friends.
-più spesso,False,spesso,more often,"frequency,habit",True,False,comparative of majority (più + adverb),Dovremmo vederci più spesso.,We should see each other more often.
-meno spesso,False,spesso,less often,"frequency,habit",True,False,comparative of minority (meno + adverb),Ultimamente esco meno spesso.,Lately I go out less often.
-spessissimo,False,spesso,very often,"frequency,habit",False,True,absolute superlative,Ultimamente piove spessissimo.,Lately it rains very often.
-molto spesso,False,spesso,very often,"frequency,habit",False,True,intensifier + base,Ci sentiamo molto spesso.,We talk to each other very often.

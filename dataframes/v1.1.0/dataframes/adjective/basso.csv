@@ -1,5 +1,0 @@
-term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
-basso,True,basso,low,"height,size",masculine,singular,,Il tavolo è basso.,The table is low.
-bassa,False,basso,low,"height,size",feminine,singular,,La sedia è bassa.,The chair is low.
-bassi,False,basso,low,"height,size",masculine,plural,,I prezzi sono bassi.,The prices are low.
-basse,False,basso,low,"height,size",feminine,plural,,Le case sono basse.,The houses are low.

@@ -1,3 +1,0 @@
-term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
-grande,True,grande,big,size,,singular,invariable by gender,Il tavolo è grande.,The table is big.
-grandi,False,grande,big,size,,plural,,Le valigie sono grandi.,The suitcases are big.

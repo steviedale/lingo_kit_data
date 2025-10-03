@@ -1,5 +1,0 @@
-term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
-ultimo,True,ultimo,last,"order,ranking",masculine,singular,,Lui è ultimo.,He is last.
-ultima,False,ultimo,last,"order,ranking",feminine,singular,,Lei è ultima.,She is last.
-ultimi,False,ultimo,last,"order,ranking",masculine,plural,,I ragazzi sono ultimi.,The boys are last.
-ultime,False,ultimo,last,"order,ranking",feminine,plural,,Le squadre sono ultime.,The teams are last.

@@ -1,5 +1,0 @@
-term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
-vecchio,True,vecchio,old,age,masculine,singular,,Il ponte è vecchio.,The bridge is old.
-vecchia,False,vecchio,old,age,feminine,singular,,La macchina è vecchia.,The car is old.
-vecchi,False,vecchio,old,age,masculine,plural,,I palazzi sono vecchi.,The buildings are old.
-vecchie,False,vecchio,old,age,feminine,plural,,Le mappe sono vecchie.,The maps are old.

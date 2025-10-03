@@ -1,5 +1,0 @@
-term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
-alto,True,alto,tall,"height,size",masculine,singular,,Il muro è alto.,The wall is tall.
-alta,False,alto,tall,"height,size",feminine,singular,,La torre è alta.,The tower is tall.
-alti,False,alto,tall,"height,size",masculine,plural,,Gli alberi sono alti.,The trees are tall.
-alte,False,alto,tall,"height,size",feminine,plural,,Le montagne sono alte.,The mountains are tall.

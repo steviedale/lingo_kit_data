@@ -1,8 +1,0 @@
-term_italian,is_base,base_word_italian,translation_english,topics,determiner_type,gender,plurality,notes,example_sentence_italian,example_sentence_english
-che,true,che,which,"core,questions",distributive,n/a,n/a,Used in interrogative and relative clauses,Che libro leggi?,Which book are you reading?
-quale,true,quale,which,"core,questions",distributive,masculine,singular,Used to specify a choice among options,Quale film preferisci?,Which movie do you prefer?
-quali,false,quale,which (plural),"core,questions",distributive,masculine,plural,Plural form of "quale",Quali libri hai comprato?,Which books did you buy?
-quanto,true,quanto,how much (masculine),"shopping,quantities",quantifier,masculine,singular,Used to ask or state quantity,Quanto pane vuoi?,How much bread do you want?
-quanta,false,quanto,how much (feminine),"shopping,quantities",quantifier,feminine,singular,Feminine singular form of "quanto",Quanta acqua bevi?,How much water do you drink?
-quanti,false,quanto,how many (masculine plural),"shopping,quantities",quantifier,masculine,plural,Masculine plural form of "quanto",Quanti amici hai?,How many friends do you have?
-quante,false,quanto,how many (feminine plural),"shopping,quantities",quantifier,feminine,plural,Feminine plural form of "quanto",Quante case vedi?,How many houses do you see?

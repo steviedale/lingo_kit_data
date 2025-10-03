@@ -1,5 +1,0 @@
-term_italian,is_base,base_term_italian,translation_english,topics,gender,plurality,notes,example_sentence_italian,example_sentence_english
-altro,true,altro,other,"quantity,comparison",masculine,singular,,Ho un altro libro.,I have another book.
-altra,false,altro,other,"quantity,comparison",feminine,singular,,Vorrei un'altra tazza.,I would like another cup.
-altri,false,altro,other,"quantity,comparison",masculine,plural,,Ci sono altri problemi.,There are other problems.
-altre,false,altro,other,"quantity,comparison",feminine,plural,,Abbiamo altre idee.,We have other ideas.
