@@ -1,4 +1,8 @@
 TODOS:
+- add audio duration to dataframe and database 
+- go through and fix/update terms
+    - for example:
+        - altrettanto, altrettanta, altrettante, altrettanti are all defined as "as much"
 - consolidate topics:
     - create a script to collect all of the topics for each english/italian base lemma 
     - feed it to a LLM to consolidate topics
