@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+menù,True,menù,menu,noun,menu,"food,restaurant",,,masculine,singular,,,False,False,False,,,,,invariable plural; accent on ù,Leggo il menù.,I read the menu.
+un menù,False,menù,menu,noun,a menu,"food,restaurant",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Vorrei un menù per favore.,I would like a menu please.
+il menù,False,menù,menu,noun,the menu,"food,restaurant",,,masculine,singular,,,False,False,False,definite,il,il,,,Il menù è interessante.,The menu is interesting.
+menù,False,menù,menu,noun,menus,"food,restaurant",,,masculine,plural,,,False,False,False,,,,,plural form; invariable,Menù nuovi arrivano spesso.,New menus arrive often.
+i menù,False,menù,menu,noun,the menus,"food,restaurant",,,masculine,plural,,,False,False,False,definite,i,i,,,I menù sono aggiornati.,The menus are updated.
+dei menù,False,menù,menu,noun,some menus,"food,restaurant",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Ho visto dei menù online.,I saw some menus online.
+del menù,False,menù,menu,noun,of the menu,"food,restaurant",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,Il prezzo del menù è alto.,The price of the menu is high.
+ai menù,False,menù,menu,noun,to the menus,"food,restaurant",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Ho dato un'occhiata ai menù.,I took a look at the menus.
+al menù,False,menù,menu,noun,to the menu,"food,restaurant",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Aggiungi un piatto al menù.,Add a dish to the menu.
+dai menù,False,menù,menu,noun,from the menus,"food,restaurant",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Prendo ispirazione dai menù internazionali.,I take inspiration from international menus.
+dal menù,False,menù,menu,noun,from the menu,"food,restaurant",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Ho tolto quel piatto dal menù.,I removed that dish from the menu.
+nei menù,False,menù,menu,noun,in the menus,"food,restaurant",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Ci sono errori nei menù.,There are errors in the menus.
+nel menù,False,menù,menu,noun,in the menu,"food,restaurant",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,C'è una nuova voce nel menù.,There is a new item in the menu.
+sui menù,False,menù,menu,noun,on the menus,"food,restaurant",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Ho letto recensioni sui menù.,I read reviews about the menus.
+sul menù,False,menù,menu,noun,on the menu,"food,restaurant",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,C'è una novità sul menù.,There is a new item on the menu.
+coi menù,False,menù,menu,noun,with the menus,"food,restaurant",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Lavoriamo coi menù digitali.,We work with digital menus.
+col menù,False,menù,menu,noun,with the menu,"food,restaurant",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Ho ordinato col menù digitale.,I ordered with the digital menu.

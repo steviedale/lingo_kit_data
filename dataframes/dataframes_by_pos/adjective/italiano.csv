@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+italiano,True,italiano,Italian,adjective,Italian (masculine),"nationality,people",,,masculine,singular,,,False,False,False,,,,,base form that agrees in gender and number,Il ragazzo è italiano.,The boy is Italian.
+italiana,False,italiano,Italian,adjective,Italian (feminine),"nationality,people",,,feminine,singular,,,False,False,False,,,,,feminine singular form,La ragazza è italiana.,The girl is Italian.
+italiani,False,italiano,Italian,adjective,Italian (masculine plural),"nationality,people",,,masculine,plural,,,False,False,False,,,,,masculine plural form,I ragazzi sono italiani.,The boys are Italian.
+italiane,False,italiano,Italian,adjective,Italian (feminine plural),"nationality,people",,,feminine,plural,,,False,False,False,,,,,feminine plural form,Le ragazze sono italiane.,The girls are Italian.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+piatto,True,piatto,plate/flat,adjective,flat (masculine),"core,food",,,masculine,singular,,,False,False,False,,,,,variable adjective,Il pavimento è piatto.,The floor is flat.
+piatta,False,piatto,plate/flat,adjective,flat (feminine),"core,food",,,feminine,singular,,,False,False,False,,,,,,La superficie è piatta.,The surface is flat.
+piatti,False,piatto,plate/flat,adjective,flat (masculine plural),"core,food",,,masculine,plural,,,False,False,False,,,,,,I pacchi sono piatti.,The packages are flat.
+piatte,False,piatto,plate/flat,adjective,flat (feminine plural),"core,food",,,feminine,plural,,,False,False,False,,,,,,Le lastre sono piatte.,The slabs are flat.

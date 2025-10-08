@@ -49,8 +49,10 @@ print(len(italian_words))
 italian_words = [x for x in italian_words if 'mille' not in x]
 print(len(italian_words))
 
+#italian_words = list(reversed(italian_words))
+
 # %%
-blacklist = ['guardia']
+blacklist = ['guardia', 'joe']
 
 # %%
 response_list = []

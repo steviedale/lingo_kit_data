@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+posto,True,posto,place,noun,place,"core,location",,,masculine,singular,,,False,False,False,,,,,base lemma,C'è un posto libero.,There is a free seat.
+un posto,False,posto,place,noun,a place,"core,location",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Conosco un posto tranquillo.,I know a quiet place.
+il posto,False,posto,place,noun,the place,"core,location",,,masculine,singular,,,False,False,False,definite,il,il,,,Il posto è occupato.,The seat is taken.
+posti,False,posto,place,noun,places,"core,location",,,masculine,plural,,,False,False,False,,,,,plural form,I posti sono vicini.,The places are nearby.
+i posti,False,posto,place,noun,the places,"core,location",,,masculine,plural,,,False,False,False,definite,i,i,,,I posti sono pieni.,The places are full.
+dei posti,False,posto,place,noun,some places,"core,location",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Ho visto dei posti belli.,I saw some beautiful places.
+del posto,False,posto,place,noun,of the place,"core,location",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,Il profumo del posto è buono.,The smell of the place is good.
+al posto,False,posto,place,noun,to the place,"core,location",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Andiamo al posto vicino.,Let's go to the nearby place.
+ai posti,False,posto,place,noun,to the places,"core,location",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Ci sediamo ai posti liberi.,We sit in the free seats.
+dal posto,False,posto,place,noun,from the place,"core,location",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Esco dal posto.,I leave the place.
+dai posti,False,posto,place,noun,from the places,"core,location",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Le persone arrivano dai posti vicini.,People arrive from nearby places.
+nel posto,False,posto,place,noun,in the place,"core,location",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,Rimani nel posto.,Stay in the place.
+nei posti,False,posto,place,noun,in the places,"core,location",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Non c'è spazio nei posti vicini.,There is no space in the nearby places.
+sul posto,False,posto,place,noun,about the place,"core,location",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Scrivo una recensione sul posto.,I write a review about the place.
+sui posti,False,posto,place,noun,on the places,"core,location",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Ho foto sui posti preferiti.,I have photos of favorite places.
+col posto,False,posto,place,noun,with the place,"core,location",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Arriviamo col posto prenotato.,We arrive with the reserved seat.
+coi posti,False,posto,place,noun,with the places,"core,location",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Organizzo tour coi posti migliori.,I organize tours with the best places.

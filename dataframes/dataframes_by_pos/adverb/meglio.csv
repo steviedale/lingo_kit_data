@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+meglio,True,meglio,better,adverb,better,"manner,comparison",,,,,,,True,False,False,,,,,comparative of 'bene'; used in impersonal expressions,Va meglio oggi.,It is going better today.
+molto meglio,False,meglio,better,adverb,much better,"manner,comparison",,,,,,,False,True,False,,,,,intensified form (degree modifier 'molto'),Sto molto meglio.,I am much better.
+al meglio,False,meglio,better,adverb,at best,"manner,comparison",,,,,,,False,True,False,,,,,idiomatic phrase meaning optimally or at best,Ha lavorato al meglio.,He worked at his best.

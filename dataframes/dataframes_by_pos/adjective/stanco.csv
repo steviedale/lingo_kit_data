@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+stanco,True,stanco,tired,adjective,tired (masculine),"emotion,health",,,masculine,singular,,,False,False,False,,,,,variable adjective,Sono stanco.,I am tired.
+stanca,False,stanco,tired,adjective,tired (feminine),"emotion,health",,,feminine,singular,,,False,False,False,,,,,variable adjective,Sono stanca.,I am tired.
+stanchi,False,stanco,tired,adjective,tired (masculine plural),"emotion,health",,,masculine,plural,,,False,False,False,,,,,variable adjective,Siamo stanchi.,We are tired.
+stanche,False,stanco,tired,adjective,tired (feminine plural),"emotion,health",,,feminine,plural,,,False,False,False,,,,,variable adjective,Siamo stanche.,We are tired.

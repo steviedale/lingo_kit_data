@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+stanza,True,stanza,room,noun,room,"home,places",,,feminine,singular,,,False,False,False,,,,,base lemma,Cerco una stanza vicina.,I'm looking for a nearby room.
+una stanza,False,stanza,room,noun,a room,"home,places",indefinite,,feminine,singular,,,False,False,False,indefinite,una,una,,,Ho affittato una stanza.,I rented a room.
+la stanza,False,stanza,room,noun,the room,"home,places",definite,,feminine,singular,,,False,False,False,definite,la,la,,,La stanza è pulita.,The room is clean.
+stanze,False,stanza,room,noun,rooms,"home,places",,,feminine,plural,,,False,False,False,,,,,plural form,Stanze libere sono disponibili.,Free rooms are available.
+le stanze,False,stanza,room,noun,the rooms,"home,places",definite,,feminine,plural,,,False,False,False,definite,le,le,,,Le stanze sono calde.,The rooms are warm.
+delle stanze,False,stanza,room,noun,some rooms,"home,places",indefinite,,feminine,plural,,,False,False,False,indefinite,le,delle,di,partitive plural form,Ho visitato delle stanze.,I visited some rooms.
+della stanza,False,stanza,room,noun,of the room,"home,places",,,feminine,singular,,,False,False,False,articulated_preposition,la,della,di,contraction of di + la,Il colore della stanza è bello.,The color of the room is nice.
+alla stanza,False,stanza,room,noun,to the room,"home,places",,,feminine,singular,,,False,False,False,articulated_preposition,la,alla,a,contraction of a + la,Vado alla stanza accanto.,I go to the next room.
+dalla stanza,False,stanza,room,noun,from the room,"home,places",,,feminine,singular,,,False,False,False,articulated_preposition,la,dalla,da,contraction of da + la,Esco dalla stanza.,I leave the room.
+nella stanza,False,stanza,room,noun,in the room,"home,places",,,feminine,singular,,,False,False,False,articulated_preposition,la,nella,in,contraction of in + la,Sono nella stanza.,I am in the room.
+sulla stanza,False,stanza,room,noun,about the room,"home,places",,,feminine,singular,,,False,False,False,articulated_preposition,la,sulla,su,contraction of su + la,Ho informazioni sulla stanza.,I have information about the room.
+con la stanza,False,stanza,room,noun,with the room,"home,places",,,feminine,singular,,,False,False,False,articulated_preposition,la,con la,con,no contraction,Non so cosa fare con la stanza.,I do not know what to do with the room.
+alle stanze,False,stanza,room,noun,to the rooms,"home,places",,,feminine,plural,,,False,False,False,articulated_preposition,le,alle,a,contraction of a + le,Porto i pasti alle stanze.,I deliver meals to the rooms.
+dalle stanze,False,stanza,room,noun,from the rooms,"home,places",,,feminine,plural,,,False,False,False,articulated_preposition,le,dalle,da,contraction of da + le,Arrivano odori dalle stanze.,Smells come from the rooms.
+nelle stanze,False,stanza,room,noun,in the rooms,"home,places",,,feminine,plural,,,False,False,False,articulated_preposition,le,nelle,in,contraction of in + le,Non si fuma nelle stanze.,Do not smoke in the rooms.
+sulle stanze,False,stanza,room,noun,about the rooms,"home,places",,,feminine,plural,,,False,False,False,articulated_preposition,le,sulle,su,contraction of su + le,Ho letto recensioni sulle stanze.,I read reviews about the rooms.
+con le stanze,False,stanza,room,noun,with the rooms,"home,places",,,feminine,plural,,,False,False,False,articulated_preposition,le,con le,con,no contraction,Non so cosa fare con le stanze.,I do not know what to do with the rooms.

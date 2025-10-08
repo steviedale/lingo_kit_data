@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+presto,True,presto,soon/quickly,adverb,soon/quickly,"time,manner",,,,,,,False,False,False,,,,,adverb of time and manner; also used as interjection meaning hurry up,Arriverò presto.,I will arrive soon.
+più presto,False,presto,soon/quickly,adverb,sooner/earlier,"time,manner",,,,,,,True,False,False,,,,,periphrastic comparative with più,Puoi arrivare più presto?,Can you arrive earlier?
+prestissimo,False,presto,soon/quickly,adverb,very soon/very quickly,"time,manner",,,,,,,False,True,False,,,,,intensive superlative (-issimo),Tornerò prestissimo.,I will be back very soon.
+molto presto,False,presto,soon/quickly,adverb,very soon/very quickly,"time,manner",,,,,,,False,True,False,,,,,intensifier 'molto' + adverb,Partiamo molto presto domani.,We are leaving very early tomorrow.

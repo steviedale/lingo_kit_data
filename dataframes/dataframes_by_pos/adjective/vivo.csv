@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+vivo,True,vivo,alive,adjective,alive (masculine),"core,description",,,masculine,singular,,,False,False,False,,,,,variable adjective; also 'lively',Il pesce è vivo.,The fish is alive.
+viva,False,vivo,alive,adjective,alive (feminine),"core,description",,,feminine,singular,,,False,False,False,,,,,,La ragazza è viva.,The girl is alive.
+vivi,False,vivo,alive,adjective,alive (masculine plural),"core,description",,,masculine,plural,,,False,False,False,,,,,,I gatti sono vivi.,The cats are alive.
+vive,False,vivo,alive,adjective,alive (feminine plural),"core,description",,,feminine,plural,,,False,False,False,,,,,,Le piante sono vive.,The plants are alive.

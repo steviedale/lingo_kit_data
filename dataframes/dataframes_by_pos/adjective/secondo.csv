@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+secondo,True,secondo,second,adjective,second (masculine),"numbers,ordering",,,masculine,singular,,,False,False,False,,,,,ordinal adjective,Il secondo capitolo è interessante.,The second chapter is interesting.
+seconda,False,secondo,second,adjective,second (feminine),"numbers,ordering",,,feminine,singular,,,False,False,False,,,,,ordinal adjective,La seconda fila è libera.,The second row is free.
+secondi,False,secondo,second,adjective,second (masculine plural),"numbers,ordering",,,masculine,plural,,,False,False,False,,,,,ordinal adjective,I secondi piatti sono pronti.,The main courses are ready.
+seconde,False,secondo,second,adjective,second (feminine plural),"numbers,ordering",,,feminine,plural,,,False,False,False,,,,,ordinal adjective,Le seconde sono diverse.,The seconds are different.

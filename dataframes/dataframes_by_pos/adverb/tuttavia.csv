@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+tuttavia,True,tuttavia,however,adverb,however,"linking,contrast",,,,,,,False,False,False,,,,,conjunctive adverb; formal register,"Stava piovendo, tuttavia siamo usciti.","It was raining; however, we went out."
+pur tuttavia,False,tuttavia,however,adverb,even so,"linking,contrast",,,,,,,False,False,False,,,pur,,intensified form with 'pur',"Pur tuttavia, abbiamo deciso di partire.","Even so, we decided to leave."

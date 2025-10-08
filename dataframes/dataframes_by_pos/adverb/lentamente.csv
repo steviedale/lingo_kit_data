@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+lentamente,True,lentamente,slowly,adverb,slowly,"manner,core",,,,,,,False,False,False,,,,,formed from lento + -mente,Cammina lentamente.,He walks slowly.
+più lentamente,False,lentamente,slowly,adverb,more slowly,"manner,core",,,,,,,True,False,False,,,,,periphrastic comparative with più,"Parla più lentamente, per favore.","Speak more slowly, please."
+molto lentamente,False,lentamente,slowly,adverb,very slowly,"manner,core",,,,,,,False,True,False,,,,,intensifier molto + adverb,Lavora molto lentamente.,He works very slowly.
+lentissimamente,False,lentamente,slowly,adverb,very slowly (superlative),"manner,core",,,,,,,False,True,False,,,,,absolute superlative (rare),Il treno procedeva lentissimamente.,The train was proceeding very slowly.

@@ -1,0 +1,6 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+tardi,True,tardi,late,adverb,late,"time,core",,,,,,,False,False,False,,,,,common adverb,Sono arrivato tardi.,I arrived late.
+più tardi,False,tardi,late,adverb,later,"time,core",,,,,,,True,False,False,,,,,comparative phrase with più,Ci vediamo più tardi.,See you later.
+molto tardi,False,tardi,late,adverb,very late,"time,core",,,,,,,False,True,False,,,,,intensified with molto,Sono tornato molto tardi.,I came back very late.
+troppo tardi,False,tardi,late,adverb,too late,"time,core",,,,,,,False,True,False,,,,,intensifier 'troppo',È troppo tardi per cambiare.,It is too late to change.
+tardissimo,False,tardi,late,adverb,very late,"time,core",,,,,,,False,True,False,,,,,derived -issimo; often adjectival,"È tardissimo, andiamo a casa.","It's very late, let's go home."

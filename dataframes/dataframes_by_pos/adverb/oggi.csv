@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+oggi,True,oggi,today,adverb,today,"time,core",,,,,,,False,False,False,,,,,common adverb of time,Vado al cinema oggi.,I am going to the cinema today.
+oggi stesso,False,oggi,today,adverb,just today,"time,core",,,,,,,False,True,False,,,,,emphatic 'stesso' intensifier,L'ho visto oggi stesso.,I saw him just today.
+proprio oggi,False,oggi,today,adverb,just today,"time,core",,,,,,,False,True,False,,,,,intensifier 'proprio',Ho bisogno di te proprio oggi.,I need you just today.
+oggidì,False,oggi,today,adverb,nowadays,"time,core",,,,,,,False,False,False,,,,,colloquial/archaic variant,oggidì si vive più velocemente.,Nowadays people live faster.

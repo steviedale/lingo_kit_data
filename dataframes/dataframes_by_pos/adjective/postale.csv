@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+postale,True,postale,postal,adjective,postal (masculine),"communication,services",,,masculine,singular,,,False,False,False,,,,,adjective ending -e; singular form identical for both genders,Il servizio postale è efficiente.,The postal service is efficient.
+postale,False,postale,postal,adjective,postal (feminine),"communication,services",,,feminine,singular,,,False,False,False,,,,,,La cartolina postale è arrivata.,The postal postcard arrived.
+postali,False,postale,postal,adjective,postal (masculine plural),"communication,services",,,masculine,plural,,,False,False,False,,,,,,I servizi postali sono efficienti.,Postal services are efficient.
+postali,False,postale,postal,adjective,postal (feminine plural),"communication,services",,,feminine,plural,,,False,False,False,,,,,,Le comunicazioni postali sono arrivate.,The postal communications have arrived.

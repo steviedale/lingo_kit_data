@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+pagare,True,pagare,to pay,verb,to pay,"core,money",,,,,non-finite,infinitive,False,False,False,,,,,regular -are verb; used with auxiliary avere,Devo pagare la bolletta.,I must pay the bill.
+pagando,False,pagare,to pay,verb,taking,"core,money",,,,,gerund,,False,False,False,,,,,gerund form,Sto pagando con la carta.,I am paying with the card.
+pagato,False,pagare,to pay,verb,paid,"core,money",,,masculine,singular,participle,past,False,False,False,,,,,"past participle, regular",Il conto è pagato.,The bill is paid.
+pagata,False,pagare,to pay,verb,paid,"core,money",,,feminine,singular,participle,past,False,False,False,,,,,"past participle, regular",La somma è pagata.,The amount is paid.
+pagati,False,pagare,to pay,verb,paid,"core,money",,,masculine,plural,participle,past,False,False,False,,,,,"past participle, regular",I conti sono pagati.,The bills are paid.
+pagate,False,pagare,to pay,verb,paid,"core,money",,,feminine,plural,participle,past,False,False,False,,,,,"past participle, regular",Le fatture sono pagate.,The invoices are paid.
+pago,False,pagare,to pay,verb,I pay,"core,money",,1s,,singular,indicative,present,False,False,False,,,,,,Pago in contanti.,I pay in cash.
+paghi,False,pagare,to pay,verb,you pay,"core,money",,2s,,singular,indicative,present,False,False,False,,,,,,Tu paghi adesso.,You pay now.
+paga,False,pagare,to pay,verb,he pays/she pays/you (formal) pay,"core,money",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lei paga per tutti.,You (formal) pay for everyone.
+paghiamo,False,pagare,to pay,verb,we pay,"core,money",,1p,,plural,indicative,present,False,False,False,,,,,,Paghiamo la cena insieme.,We pay the bill together.
+pagate,False,pagare,to pay,verb,you (plural) pay,"core,money",,2p,,plural,indicative,present,False,False,False,,,,,,Pagate troppo.,You (plural) pay too much.
+pagano,False,pagare,to pay,verb,they pay,"core,money",,3p,,plural,indicative,present,False,False,False,,,,,,Pagano oggi.,They pay today.
+pagavo,False,pagare,to pay,verb,I was paying,"core,money",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io pagavo sempre in ritardo.,I was always paying late.
+pagavi,False,pagare,to pay,verb,you were paying,"core,money",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu pagavi alla cassa.,You were paying at the register.
+pagava,False,pagare,to pay,verb,he was paying/she was paying/you (formal) were paying,"core,money",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei pagava il conto.,You (formal) were paying the bill.
+pagavamo,False,pagare,to pay,verb,we were paying,"core,money",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Pagavamo la tariffa mensile.,We were paying the monthly fee.
+pagavate,False,pagare,to pay,verb,you (plural) were paying,"core,money",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi pagavate sempre in ritardo.,You were always paying late.
+pagavano,False,pagare,to pay,verb,they were paying,"core,money",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro pagavano la stessa cifra.,They were paying the same amount.
+ho pagato,False,pagare,to pay,verb,I have paid,"core,money",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'pagato',Ho pagato la bolletta.,I have paid the bill.
+hai pagato,False,pagare,to pay,verb,you have paid,"core,money",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'pagato',Hai pagato il conto?,Have you paid the bill?
+ha pagato,False,pagare,to pay,verb,he has paid/she has paid/you (formal) have paid,"core,money",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha pagato il biglietto.,He has paid the ticket.
+abbiamo pagato,False,pagare,to pay,verb,we have paid,"core,money",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'pagato',Abbiamo pagato il conto.,We have paid the bill.
+avete pagato,False,pagare,to pay,verb,you (plural) have paid,"core,money",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'pagato',Avete pagato tutto?,Have you paid everything?
+hanno pagato,False,pagare,to pay,verb,they have paid,"core,money",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'pagato',Hanno pagato la prenotazione.,They have paid the reservation.

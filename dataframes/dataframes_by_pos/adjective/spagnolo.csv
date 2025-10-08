@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+spagnolo,True,spagnolo,Spanish,adjective,Spanish (masculine),"nationality,language",,,masculine,singular,,,False,False,False,,,,,regular -o adjective,Il vino spagnolo è buono.,The Spanish wine is good.
+spagnola,False,spagnolo,Spanish,adjective,Spanish (feminine),"nationality,language",,,feminine,singular,,,False,False,False,,,,,,La cucina spagnola è saporita.,Spanish cuisine is flavorful.
+spagnoli,False,spagnolo,Spanish,adjective,Spanish (masculine plural),"nationality,language",,,masculine,plural,,,False,False,False,,,,,,I film spagnoli sono interessanti.,Spanish films are interesting.
+spagnole,False,spagnolo,Spanish,adjective,Spanish (feminine plural),"nationality,language",,,feminine,plural,,,False,False,False,,,,,,Le canzoni spagnole sono belle.,Spanish songs are beautiful.

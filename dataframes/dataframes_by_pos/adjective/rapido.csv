@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+rapido,True,rapido,fast,adjective,fast (masculine),"speed,quality",,,masculine,singular,,,False,False,False,False,,,,regular -o adjective,Il treno è molto rapido.,The train is very fast.
+rapida,False,rapido,fast,adjective,fast (feminine),"speed,quality",,,feminine,singular,,,False,False,False,False,,,,regular -o adjective,Ha una risposta rapida.,She has a quick response.
+rapidi,False,rapido,fast,adjective,fast (masculine plural),"speed,quality",,,masculine,plural,,,False,False,False,False,,,,regular -o adjective,I cavalli sono rapidi.,The horses are fast.
+rapide,False,rapido,fast,adjective,fast (feminine plural),"speed,quality",,,feminine,plural,,,False,False,False,False,,,,regular -o adjective,Le ragazze sono rapide.,The girls are quick.

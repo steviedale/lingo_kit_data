@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+minuto,True,minuto,minute,adjective,minute (masculine),"time,quality",,,masculine,singular,,,False,False,False,,,,,descriptive; means small or detailed,Un dettaglio minuto conta.,A minute detail matters.
+minuta,False,minuto,minute,adjective,minute (feminine),"time,quality",,,feminine,singular,,,False,False,False,,,,,,La descrizione è minuta.,The description is minute.
+minuti,False,minuto,minute,adjective,minute (masculine plural),"time,quality",,,masculine,plural,,,False,False,False,,,,,,Dettagli minuti fanno la differenza.,Minute details make the difference.
+minute,False,minuto,minute,adjective,minute (feminine plural),"time,quality",,,feminine,plural,,,False,False,False,,,,,,Le osservazioni minute sono utili.,The minute observations are useful.

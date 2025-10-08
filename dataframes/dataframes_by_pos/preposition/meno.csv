@@ -1,0 +1,2 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+meno,True,meno,less/minus,preposition,minus/except,"core,comparison,math",simple,,,,,,False,False,False,,,,,used in arithmetic (3 meno 1 = 2) and to mean 'except',Tre meno uno fa due.,Three minus one equals two.

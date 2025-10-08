@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+inglese,True,inglese,English,adjective,English,"nationality,language",,,,singular,,,False,False,False,,,,,ends in -e; plural 'inglesi',Ha un amico inglese.,He has an English friend.
+inglesi,False,inglese,English,adjective,English (plural),"nationality,language",,,,plural,,,False,False,False,,,,,,Le canzoni inglesi mi piacciono.,I like English songs.

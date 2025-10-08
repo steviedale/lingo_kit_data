@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+quarto,True,quarto,fourth/quarter,adjective,fourth (masculine),"numbers,time",,,masculine,singular,,,False,False,False,,,,,ordinal number,Questo è il quarto capitolo.,This is the fourth chapter.
+quarta,False,quarto,fourth/quarter,adjective,fourth (feminine),"numbers,time",,,feminine,singular,,,False,False,False,,,,,,Oggi abbiamo la quarta lezione.,Today we have the fourth lesson.
+quarti,False,quarto,fourth/quarter,adjective,fourth (masculine plural),"numbers,time",,,masculine,plural,,,False,False,False,,,,,,I quarti di finale iniziano domani.,The quarterfinals start tomorrow.
+quarte,False,quarto,fourth/quarter,adjective,fourth (feminine plural),"numbers,time",,,feminine,plural,,,False,False,False,,,,,,Le quarte escono alle tre.,The fourth-year classes leave at three.

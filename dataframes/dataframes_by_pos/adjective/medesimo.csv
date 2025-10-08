@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+medesimo,True,medesimo,same,adjective,same (masculine),"core,reference",,,masculine,singular,,,False,False,False,,,,,base masculine singular,Questo è il medesimo problema.,This is the same problem.
+medesima,False,medesimo,same,adjective,same (feminine),"core,reference",,,feminine,singular,,,False,False,False,,,,,feminine singular,È la medesima idea.,It is the same idea.
+medesimi,False,medesimo,same,adjective,same (masculine plural),"core,reference",,,masculine,plural,,,False,False,False,,,,,masculine plural, i medesimi risultati sono interessanti.,The same results are interesting.
+medesime,False,medesimo,same,adjective,same (feminine plural),"core,reference",,,feminine,plural,,,False,False,False,,,,,feminine plural,Abbiamo osservato le medesime condizioni.,We observed the same conditions.

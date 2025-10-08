@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+scorso,True,scorso,last,adjective,last (masculine),"time,common",,,masculine,singular,,,False,False,False,,,,,used also as past participle,l'anno scorso siamo andati in Italia.,last year we went to Italy.
+scorsa,False,scorso,last,adjective,last (feminine),"time,common",,,feminine,singular,,,False,False,False,,,,,,La settimana scorsa è stata intensa.,Last week was intense.
+scorsi,False,scorso,last,adjective,last (masculine plural),"time,common",,,masculine,plural,,,False,False,False,,,,,,Gli anni scorsi ho viaggiato molto.,In past years I traveled a lot.
+scorse,False,scorso,last,adjective,last (feminine plural),"time,common",,,feminine,plural,,,False,False,False,,,,,,Le settimane scorse ho lavorato fino a tardi.,In recent weeks I worked late.

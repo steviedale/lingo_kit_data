@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+medesimo,True,medesimo,same,pronoun,the same one (masculine),"core,reference",demonstrative,,masculine,singular,,,False,False,False,,,,,"used as pronoun, often with article",È il medesimo.,It is the same one.
+medesima,False,medesimo,same,pronoun,the same one (feminine),"core,reference",demonstrative,,feminine,singular,,,False,False,False,,,,,"used as pronoun, often with article",È la medesima.,It is the same one.
+medesimi,False,medesimo,same,pronoun,the same ones (masculine),"core,reference",demonstrative,,masculine,plural,,,False,False,False,,,,,"used as pronoun, often with article",Erano i medesimi.,They were the same ones.
+medesime,False,medesimo,same,pronoun,the same ones (feminine),"core,reference",demonstrative,,feminine,plural,,,False,False,False,,,,,"used as pronoun, often with article",Erano le medesime.,They were the same ones.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+rapidamente,True,rapidamente,quickly,adverb,quickly,"manner,speed",,,,,,,False,False,False,,,,,derived from adjective 'rapido',Ha risposto rapidamente.,He answered quickly.
+più rapidamente,False,rapidamente,quickly,adverb,more quickly,"manner,speed",,,,,,,True,False,False,,,,,periphrastic comparative,Corri più rapidamente.,Run more quickly.
+molto rapidamente,False,rapidamente,quickly,adverb,very quickly,"manner,speed",,,,,,,False,True,False,,,,,intensified form with molto,È arrivato molto rapidamente.,He arrived very quickly.
+rapidissimamente,False,rapidamente,quickly,adverb,extremely quickly,"manner,speed",,,,,,,False,True,False,,,,,rare/formal; morphological superlative (-issimo),Ha risolto il problema rapidissimamente.,He solved the problem extremely quickly.

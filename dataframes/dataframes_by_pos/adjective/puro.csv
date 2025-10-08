@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+puro,True,puro,pure,adjective,pure (masculine),"quality,description",,,masculine,singular,,,False,False,False,,,,,variable adjective; feminine and plural forms exist,Il miele è puro.,The honey is pure.
+pura,False,puro,pure,adjective,pure (feminine),"quality,description",,,feminine,singular,,,False,False,False,,,,,,L'acqua è pura.,The water is pure.
+puri,False,puro,pure,adjective,pure (masculine plural),"quality,description",,,masculine,plural,,,False,False,False,,,,,,I pensieri sono puri.,The thoughts are pure.
+pure,False,puro,pure,adjective,pure (feminine plural),"quality,description",,,feminine,plural,,,False,False,False,,,,,,Le acque sono pure.,The waters are pure.

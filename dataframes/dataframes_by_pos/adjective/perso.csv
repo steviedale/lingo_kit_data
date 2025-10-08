@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+perso,True,perso,lost,adjective,lost (masculine),"core,description",,,masculine,singular,,,False,False,False,,,,,adjective; also past participle of 'perdere',Sono perso.,I am lost.
+persa,False,perso,lost,adjective,lost (feminine),"core,description",,,feminine,singular,,,False,False,False,,,,,,La valigia è persa.,The suitcase is lost.
+persi,False,perso,lost,adjective,lost (masculine plural),"core,description",,,masculine,plural,,,False,False,False,,,,,,Siamo persi.,We are lost.
+perse,False,perso,lost,adjective,lost (feminine plural),"core,description",,,feminine,plural,,,False,False,False,,,,,,Le valigie sono perse.,The suitcases are lost.

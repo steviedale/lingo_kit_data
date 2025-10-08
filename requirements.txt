@@ -7,3 +7,4 @@ requests
 google-cloud-texttospeech
 boto3
 rapidfuzz
+openai

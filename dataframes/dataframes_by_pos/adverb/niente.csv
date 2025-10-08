@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+niente,True,niente,nothing,adverb,not anything,"core,negation",,,,,,,False,False,False,,,,,used with 'non' for negation; colloquial,Non ho visto niente.,I did not see anything.
+per niente,False,niente,nothing,adverb,not at all,"core,negation",,,,,,,False,True,False,,,,,intensifier phrase meaning 'not at all',Non sono per niente d'accordo.,I do not agree at all.
