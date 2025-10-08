@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+fermo,True,fermo,still/firm,adjective,still (masculine),"state,quality",,,masculine,singular,,,False,False,False,,,,,can mean 'firm' or 'stopped',Il cancello è fermo.,The gate is still.
+ferma,False,fermo,still/firm,adjective,still (feminine),"state,quality",,,feminine,singular,,,False,False,False,,,,,feminine singular form,La macchina è ferma.,The car is stopped.
+fermi,False,fermo,still/firm,adjective,still (masculine plural),"state,quality",,,masculine,plural,,,False,False,False,,,,,masculine plural form,I bambini stanno fermi.,The children are still.
+ferme,False,fermo,still/firm,adjective,still (feminine plural),"state,quality",,,feminine,plural,,,False,False,False,,,,,feminine plural form,Le ruote sono ferme.,The wheels are stopped.

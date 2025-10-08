@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+grosso,True,grosso,big,adjective,big (masculine),"descriptive,size",,,masculine,singular,,,False,False,False,,,,,regular -o adjective,Questo è un libro grosso.,This is a big book.
+grossa,False,grosso,big,adjective,big (feminine),"descriptive,size",,,feminine,singular,,,False,False,False,,,,,feminine singular form,La valigia è grossa.,The suitcase is big.
+grossi,False,grosso,big,adjective,big (masculine plural),"descriptive,size",,,masculine,plural,,,False,False,False,,,,,masculine plural form,I pacchi sono grossi.,The packages are big.
+grosse,False,grosso,big,adjective,big (feminine plural),"descriptive,size",,,feminine,plural,,,False,False,False,,,,,feminine plural form,Le borse sono grosse.,The bags are big.

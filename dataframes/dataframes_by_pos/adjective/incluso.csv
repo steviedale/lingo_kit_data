@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+incluso,True,incluso,included,adjective,included (masculine),"core,description",,,masculine,singular,,,False,False,False,,,,,also the past participle of includere,Il prezzo è incluso.,The price is included.
+inclusa,False,incluso,included,adjective,included (feminine),"core,description",,,feminine,singular,,,False,False,False,,,,,,La tassa è inclusa.,The tax is included.
+inclusi,False,incluso,included,adjective,included (masculine plural),"core,description",,,masculine,plural,,,False,False,False,,,,,,I servizi inclusi sono molti.,The included services are many.
+incluse,False,incluso,included,adjective,included (feminine plural),"core,description",,,feminine,plural,,,False,False,False,,,,,,Le spese incluse sono elencate.,The included fees are listed.

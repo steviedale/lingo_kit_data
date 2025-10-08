@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+fino,True,fino,until/up to,adverb,until/up to,"time,core",,,,,,False,False,False,,,,,adverbial use,Fino a ieri non lo sapevo.,Until yesterday I did not know.,
+fin,False,fino,until/up to,adverb,even/quite,"time,core",,,,,,False,False,False,,,,,"colloquial contraction of fino used adverbially (e.g., fin troppo)",È fin troppo caro.,It's far too expensive.,

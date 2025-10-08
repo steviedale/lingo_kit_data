@@ -128,6 +128,8 @@ subtype = demonstrative | possessive | quantifier | distributive.
 
 Fill gender/plurality appropriately (questo/questa/questi/queste as separate rows).
 
+Number words (e.g., dieci, cento, ventuno) always map to a single determiner row; do not create additional rows for the same number.
+
 F) Noun
 Always include at least:
 

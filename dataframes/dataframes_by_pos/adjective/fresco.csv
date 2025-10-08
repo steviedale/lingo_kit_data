@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+fresco,True,fresco,fresh,adjective,fresh (masculine),"description,food,weather",,,masculine,singular,,,False,False,False,,,,,base masculine singular; also means cool (temperature) and colloquially 'cheeky',Il pane è fresco.,The bread is fresh.
+fresca,False,fresco,fresh,adjective,fresh (feminine),"description,food,weather",,,feminine,singular,,,False,False,False,,,,,,La verdura è fresca.,The vegetable is fresh.
+freschi,False,fresco,fresh,adjective,fresh (masculine plural),"description,food,weather",,,masculine,plural,,,False,False,False,,,,,,I prodotti sono freschi.,The products are fresh.
+fresche,False,fresco,fresh,adjective,fresh (feminine plural),"description,food,weather",,,feminine,plural,,,False,False,False,,,,,,Le fragole sono fresche.,The strawberries are fresh.
