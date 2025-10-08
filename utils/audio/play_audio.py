@@ -12,5 +12,5 @@ def play_audio(file_path):
 
 
 if __name__ == '__main__':
-    file_path = '/Users/stevie/repos/language_app/data/audio/65ab337b-94fb-53b2-8309-597130861e84.mp3'
+    file_path = ''  # specify your audio file path here
     play_audio(file_path)

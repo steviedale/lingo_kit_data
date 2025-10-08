@@ -1,15 +1,19 @@
+# load in environment variable
 import os
+PATH_TO_REPO = os.getenv('PATH_TO_REPO')
+assert PATH_TO_REPO is not None, "Please set PATH_TO_REPO environment variable"
+
 from openai import OpenAI
 import pandas as pd
 import yaml
 
 
-api_key_path = '/Users/stevie/repos/lingo_kit_data/utils/chatgpt/openaiapikey.txt'
+api_key_path = os.path.join(PATH_TO_REPO, 'utils/chatgpt/openaiapikey.txt')
 api_key = open(api_key_path).read().strip()
 client = OpenAI(api_key=api_key)
 
 
-COST_PATH = '/Users/stevie/repos/lingo_kit_data/utils/chatgpt/cost.yaml'
+COST_PATH = os.path.join(PATH_TO_REPO, 'utils/chatgpt/cost.yaml')
 
 
 # costs (per million tokens)
@@ -46,7 +50,7 @@ def get_cost(response, model='gpt-5-mini'):
 
 def generate_csv(italian_term, model='gpt-5-mini', reasoning_effort='low'):
     current_cost = yaml.load(open(COST_PATH), Loader=yaml.FullLoader)['total_spent']
-    prompt_file = '/Users/stevie/repos/lingo_kit_data/utils/chatgpt/prompts/merged_prompt.txt'
+    prompt_file = os.path.join(PATH_TO_REPO, 'utils/chatgpt/prompts/merged_prompt.txt')
 
     assert(os.path.exists(prompt_file)), f"Prompt file {prompt_file} does not exist"
     prompt = open(prompt_file).read()
@@ -91,8 +95,8 @@ def generate_csv(italian_term, model='gpt-5-mini', reasoning_effort='low'):
         for base_term in pos_df['base_lemma_italian'].unique():
             base_df = pos_df[pos_df['base_lemma_italian'] == base_term]
 
-            output_path = f"/Users/stevie/repos/lingo_kit_data/dataframes/dataframes_by_pos/{pos}/{base_term}.csv"
-            pos_dir =f"/Users/stevie/repos/lingo_kit_data/dataframes/dataframes_by_pos/{pos}"
+            output_path = os.path.join(PATH_TO_REPO, f"dataframes/dataframes_by_pos/{pos}/{base_term}.csv")
+            pos_dir = os.path.join(PATH_TO_REPO, f"dataframes/dataframes_by_pos/{pos}")
             assert(os.path.exists(pos_dir)), f"Unknown part of speech '{pos}'. Directory {pos_dir} does not exist."
             os.makedirs(os.path.dirname(output_path), exist_ok=True)
 

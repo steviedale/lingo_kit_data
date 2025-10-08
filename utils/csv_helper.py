@@ -1,3 +1,8 @@
+# load in environment variable
+import os
+PATH_TO_REPO = os.getenv('PATH_TO_REPO')
+assert PATH_TO_REPO is not None, "Please set PATH_TO_REPO environment variable"
+
 import os
 import pandas as pd
 
@@ -13,7 +18,7 @@ def get_all_csv_files_rec(dir):
 
 
 def get_all_terms_df():
-    all_csv_files = get_all_csv_files_rec('/Users/stevie/repos/lingo_kit_data/dataframes/dataframes_by_pos')
+    all_csv_files = get_all_csv_files_rec(os.path.join(PATH_TO_REPO, 'dataframes/dataframes_by_pos'))
     all_df = pd.DataFrame()
     for path in all_csv_files:
         assert(os.path.exists(path))

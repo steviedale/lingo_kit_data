@@ -1,3 +1,8 @@
+# load in environment variable
+import os
+PATH_TO_REPO = os.getenv('PATH_TO_REPO')
+assert PATH_TO_REPO is not None, "Please set PATH_TO_REPO environment variable"
+
 from google.cloud import texttospeech
 import pandas as pd
 import os
@@ -11,10 +16,10 @@ import requests
 import base64
 
 
-API_KEY = open("/Users/stevie/repos/lingo_kit_data/utils/audio/google_cloud_api_key.txt").read().strip()
+API_KEY = open(os.path.join(PATH_TO_REPO, "utils/audio/google_cloud_api_key.txt")).read().strip()
 
-SAVE_DIR = '/Users/stevie/repos/lingo_kit_data/data/audio'
-DF_PATH = '/Users/stevie/repos/lingo_kit_data/data/dataframe.csv'
+SAVE_DIR = os.path.join(PATH_TO_REPO, 'data/audio')
+DF_PATH = os.path.join(PATH_TO_REPO, 'data/dataframe.csv')
 
 ENDPOINT = f"https://texttospeech.googleapis.com/v1/text:synthesize?key={API_KEY}"
 VOICES = {

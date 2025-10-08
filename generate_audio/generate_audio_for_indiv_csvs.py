@@ -1,3 +1,8 @@
+# load in environment variable
+import os
+PATH_TO_REPO = os.getenv('PATH_TO_REPO')
+assert PATH_TO_REPO is not None, "Please set PATH_TO_REPO environment variable"
+
 # %%
 import os
 import pandas as pd
@@ -8,13 +13,13 @@ import hashlib
 import uuid
 
 import sys
-sys.path.append("/Users/stevie/repos/lingo_kit_data")
+sys.path.append(PATH_TO_REPO)
 from utils.audio.text_to_speech import TextToSpeech, VOICES
 from utils.s3.upload_to_s3 import upload_file
 from utils.csv_helper import get_all_csv_files_rec
 
 # %%
-df_path = '/Users/stevie/repos/lingo_kit_data/dataframes/dataframes_by_pos'
+df_path = os.path.join(PATH_TO_REPO, f'dataframes/dataframes_by_pos')
 all_csv_files = get_all_csv_files_rec(df_path)
 
 # %%
@@ -99,7 +104,7 @@ for csv_path in tqdm(all_csv_files):
             assert(local_hash == synth_obj['hash']), f"Hash mismatch: {local_hash} != {synth_obj['hash']}"
 
             # upload audio file to s3
-            file_path = os.path.join('/Users/stevie/repos/lingo_kit_data', synth_obj['audio_file'])
+            file_path = os.path.join(PATH_TO_REPO, synth_obj['audio_file'])
             assert(os.path.exists(file_path)), f"File does not exist: {file_path}"
             upload_file(file_path=file_path, verbose=False)
 

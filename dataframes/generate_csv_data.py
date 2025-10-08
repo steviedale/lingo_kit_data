@@ -1,14 +1,17 @@
-# %%
+# load in environment variable
 import os
+PATH_TO_REPO = os.getenv('PATH_TO_REPO')
+
+# %%
 from tqdm import tqdm
 import pandas as pd
 import sys
-sys.path.append('/Users/stevie/repos/lingo_kit_data/')
+sys.path.append(PATH_TO_REPO)
 from utils.chatgpt.generate_with_chatgpt import generate_csv
 from utils.csv_helper import get_all_terms_df
 
 # %%
-path = '/Users/stevie/repos/lingo_kit_data/dataframes/old_dataframes/spotify_lessons.csv'
+path = os.path.join(PATH_TO_REPO, 'dataframes/old_dataframes/spotify_lessons.csv')
 assert(os.path.exists(path))
 df = pd.read_csv(path)
 len(df), df.columns
