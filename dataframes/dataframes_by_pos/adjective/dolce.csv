@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+dolce,True,dolce,sweet,adjective,sweet (masculine),"taste,food,music",,,masculine,singular,,,False,False,False,,,,,variable adjective; masc/fem singular identical,Il gelato è dolce.,The ice cream is sweet.
+dolce,False,dolce,sweet,adjective,sweet (feminine),"taste,food,music",,,feminine,singular,,,False,False,False,,,,,,La torta è dolce.,The cake is sweet.
+dolci,False,dolce,sweet,adjective,sweet (masculine plural),"taste,food,music",,,masculine,plural,,,False,False,False,,,,,,I biscotti sono dolci.,The cookies are sweet.
+dolci,False,dolce,sweet,adjective,sweet (feminine plural),"taste,food,music",,,feminine,plural,,,False,False,False,,,,,,Le caramelle sono dolci.,The candies are sweet.

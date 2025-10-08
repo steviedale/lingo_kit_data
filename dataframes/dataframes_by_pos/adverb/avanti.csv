@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+avanti,True,avanti,forward/ahead,adverb,forward/ahead,"direction,space",,,,,,,False,False,False,,,,,,Andiamo avanti.,Let's move forward.
+più avanti,False,avanti,forward/ahead,adverb,further ahead/later,"direction,space",,,,,,,True,False,False,,,,,,Ne parliamo più avanti.,We will talk about it later.
+molto avanti,False,avanti,forward/ahead,adverb,very far ahead,"direction,space",,,,,,,False,True,False,,,,,,Siete molto avanti con il progetto.,You are very far ahead with the project.

@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+aprire,True,aprire,to open,verb,to open,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -ire verb; past participle irregular 'aperto',Voglio aprire la finestra.,I want to open the window.
+aprendo,False,aprire,to open,verb,opening,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto aprendo la porta.,I am opening the door.
+aperto,False,aprire,to open,verb,opened,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,"past participle, irregular root, masculine singular",L'ho aperto.,I opened it.
+aperta,False,aprire,to open,verb,opened,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,"past participle, irregular root, feminine singular",L'ho aperta.,I opened it.
+aperti,False,aprire,to open,verb,opened,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,"past participle, irregular root, masculine plural",Li ho aperti.,I opened them.
+aperte,False,aprire,to open,verb,opened,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,"past participle, irregular root, feminine plural",Le ho aperte.,I opened them.
+apro,False,aprire,to open,verb,I open,"core,verb",1s,,singular,indicative,present,false,False,False,,,,,,Io apro la finestra.,I open the window.,
+apri,False,aprire,to open,verb,you open,"core,verb",2s,,singular,indicative,present,false,False,False,,,,,,Tu apri la porta.,You open the door.,
+apre,False,aprire,to open,verb,he opens/she opens/you (formal) open,"core,verb",3s,,singular,indicative,present,false,False,False,,,,,also used as formal 'Lei',Lei apre il negozio.,You (formal) open the shop.,
+apriamo,False,aprire,to open,verb,we open,"core,verb",1p,,plural,indicative,present,false,False,False,,,,,,Noi apriamo il file.,We open the file.,
+aprite,False,aprire,to open,verb,you (plural) open,"core,verb",2p,,plural,indicative,present,false,False,False,,,,,,Voi aprite le scatole.,You (plural) open the boxes.,
+aprono,False,aprire,to open,verb,they open,"core,verb",3p,,plural,indicative,present,false,False,False,,,,,,Loro aprono i regali.,They open the gifts.,
+aprivo,False,aprire,to open,verb,I was opening,"core,verb",1s,,singular,indicative,imperfect,false,False,False,,,,,,Aprivo la posta ogni mattina.,I was opening the mail every morning.,
+aprivi,False,aprire,to open,verb,you were opening,"core,verb",2s,,singular,indicative,imperfect,false,False,False,,,,,,Tu aprivi sempre tardi.,You used to open late.,
+apriva,False,aprire,to open,verb,he was opening/she was opening/you (formal) were opening,"core,verb",3s,,singular,indicative,imperfect,false,False,False,,,,,also used as formal 'Lei',Lei apriva il negozio alle nove.,You (formal) were opening the shop at nine.,
+aprivamo,False,aprire,to open,verb,we were opening,"core,verb",1p,,plural,indicative,imperfect,false,False,False,,,,,,Aprivamo le finestre d'estate.,We were opening the windows in summer.,
+aprivate,False,aprire,to open,verb,you (plural) were opening,"core,verb",2p,,plural,indicative,imperfect,false,False,False,,,,,,Voi aprivate i regali.,You (plural) were opening the gifts.,
+aprivano,False,aprire,to open,verb,they were opening,"core,verb",3p,,plural,indicative,imperfect,false,False,False,,,,,,Aprivano il bar alle otto.,They were opening the bar at eight.,
+ho aperto,False,aprire,to open,verb,I have opened,"core,verb",1s,,singular,indicative,passato prossimo,false,False,True,,,,,used with auxiliary avere; past participle 'aperto',Ho aperto la porta.,I have opened the door.,
+hai aperto,False,aprire,to open,verb,you have opened,"core,verb",2s,,singular,indicative,passato prossimo,false,False,True,,,,,used with auxiliary avere; past participle 'aperto',Hai aperto la finestra.,You have opened the window.,
+ha aperto,False,aprire,to open,verb,he has opened/she has opened/you (formal) have opened,"core,verb",3s,,singular,indicative,passato prossimo,false,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Lei ha aperto il negozio.,You (formal) have opened the shop.,
+abbiamo aperto,False,aprire,to open,verb,we have opened,"core,verb",1p,,plural,indicative,passato prossimo,false,False,True,,,,,used with auxiliary avere; past participle 'aperto',Abbiamo aperto il file.,We have opened the file.,
+avete aperto,False,aprire,to open,verb,you (plural) have opened,"core,verb",2p,,plural,indicative,passato prossimo,false,False,True,,,,,used with auxiliary avere; past participle 'aperto',Avete aperto i regali.,You (plural) have opened the gifts.,
+hanno aperto,False,aprire,to open,verb,they have opened,"core,verb",3p,,plural,indicative,passato prossimo,false,False,True,,,,,used with auxiliary avere; past participle 'aperto',Hanno aperto il bar.,They have opened the bar.,

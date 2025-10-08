@@ -1,0 +1,3 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+che cosa,True,che cosa,what,pronoun,what,"core,question",interrogative,,,,,False,False,False,,,,,interrogative 'what'; base form,Che cosa fai?,What are you doing?,
+cosa,False,che cosa,what,pronoun,what,"core,question",interrogative,,,,,False,False,False,,,,,also used alone for 'what',Cosa vuoi?,What do you want?,

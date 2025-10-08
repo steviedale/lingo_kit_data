@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+diverso,True,diverso,different,adjective,different (masculine),"quality,description",,,masculine,singular,,,False,False,False,,,,,variable adjective; agrees in gender and number,Il problema è diverso.,The problem is different.
+diversa,False,diverso,different,adjective,different (feminine),"quality,description",,,feminine,singular,,,False,False,False,,,,,,La situazione è diversa.,The situation is different.
+diversi,False,diverso,different,adjective,different (masculine plural),"quality,description",,,masculine,plural,,,False,False,False,,,,,,I risultati sono diversi.,The results are different.
+diverse,False,diverso,different,adjective,different (feminine plural),"quality,description",,,feminine,plural,,,False,False,False,,,,,,Le opinioni sono diverse.,The opinions are different.

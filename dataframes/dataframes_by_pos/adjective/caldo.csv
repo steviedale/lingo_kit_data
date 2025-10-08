@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+caldo,True,caldo,hot,adjective,hot (masculine),"weather,temperature",,,masculine,singular,,,False,False,False,,,,,can also mean warm,Il caffè è caldo.,The coffee is hot.
+calda,False,caldo,hot,adjective,hot (feminine),"weather,temperature",,,feminine,singular,,,False,False,False,,,,,can also mean warm,La zuppa è calda.,The soup is hot.
+caldi,False,caldo,hot,adjective,hot (masculine plural),"weather,temperature",,,masculine,plural,,,False,False,False,,,,,can also mean warm,I panini sono caldi.,The sandwiches are hot.
+calde,False,caldo,hot,adjective,hot (feminine plural),"weather,temperature",,,feminine,plural,,,False,False,False,,,,,can also mean warm,Le giornate sono calde.,The days are hot.

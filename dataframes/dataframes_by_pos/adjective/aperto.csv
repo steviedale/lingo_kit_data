@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+aperto,True,aperto,open,adjective,open (masculine),"quality,description",,,masculine,singular,,,False,False,False,,,,,also used as past participle of 'aprire',Il negozio è aperto.,The shop is open.
+aperta,False,aperto,open,adjective,open (feminine),"quality,description",,,feminine,singular,,,False,False,False,,,,,,La porta è aperta.,The door is open.
+aperti,False,aperto,open,adjective,open (masculine plural),"quality,description",,,masculine,plural,,,False,False,False,,,,,,I musei sono aperti.,The museums are open.
+aperte,False,aperto,open,adjective,open (feminine plural),"quality,description",,,feminine,plural,,,False,False,False,,,,,,Le finestre sono aperte.,The windows are open.

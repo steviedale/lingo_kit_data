@@ -1,0 +1,2 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+circa,True,circa,about,preposition,about/approximately,"quantity,approximation",simple,,,,,,False,False,False,,,,,used before numbers and quantities,Arrivano circa venti persone.,About twenty people are arriving.

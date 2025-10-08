@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+destro,True,destro,right,adjective,right (masculine),"direction,spatial",,,masculine,singular,,,False,False,False,,,,,variable adjective,Metti la valigia sul lato destro.,Put the suitcase on the right side.
+destri,False,destro,right,adjective,right (masculine plural),"direction,spatial",,,masculine,plural,,,False,False,False,,,,,,I guanti destri sono sporchi.,The right gloves are dirty.
+destra,False,destro,right,adjective,right (feminine),"direction,spatial",,,feminine,singular,,,False,False,False,,,,,,Usa la mano destra.,Use your right hand.
+destre,False,destro,right,adjective,right (feminine plural),"direction,spatial",,,feminine,plural,,,False,False,False,,,,,,Le portiere destre sono bloccate.,The right doors are stuck.

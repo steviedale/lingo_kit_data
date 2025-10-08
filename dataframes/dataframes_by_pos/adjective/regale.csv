@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+regale,True,regale,royal,adjective,royal (masculine),"quality,royalty",,,masculine,singular,,,False,False,False,,,,,two-ending adjective (-e/-i),Ha un portamento regale.,He has a royal bearing.
+regale,False,regale,royal,adjective,royal (feminine),"quality,royalty",,,feminine,singular,,,False,False,False,,,,,,La sala ha un'aria regale.,The hall has a royal feel.
+regali,False,regale,royal,adjective,royal (masculine plural),"quality,royalty",,,masculine,plural,,,False,False,False,,,,,,Costumi regali aprono la sfilata.,Royal costumes open the parade.
+regali,False,regale,royal,adjective,royal (feminine plural),"quality,royalty",,,feminine,plural,,,False,False,False,,,,,,Cerimonie regali attirano turisti.,Royal ceremonies attract tourists.

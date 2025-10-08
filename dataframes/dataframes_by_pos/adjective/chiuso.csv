@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+chiuso,True,chiuso,closed,adjective,closed (masculine),"state,quality",,,masculine,singular,,,False,False,False,,,,,also past participle of chiudere,Il negozio è chiuso.,The shop is closed.
+chiusa,False,chiuso,closed,adjective,closed (feminine),"state,quality",,,feminine,singular,,,False,False,False,,,,,also past participle of chiudere,La porta è chiusa.,The door is closed.
+chiusi,False,chiuso,closed,adjective,closed (masculine plural),"state,quality",,,masculine,plural,,,False,False,False,,,,,,I musei sono chiusi.,The museums are closed.
+chiuse,False,chiuso,closed,adjective,closed (feminine plural),"state,quality",,,feminine,plural,,,False,False,False,,,,,,Le finestre sono chiuse.,The windows are closed.

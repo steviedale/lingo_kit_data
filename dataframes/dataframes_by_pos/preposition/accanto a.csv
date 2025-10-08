@@ -1,0 +1,9 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+accanto a,True,accanto a,next to,preposition,next to,"space,location",simple,,,,,,False,False,False,,,,,takes 'a' and can combine with articles,Mi siedo accanto a te.,I sit next to you.
+accanto al,False,accanto a,next to,preposition,next to the,"space,location",articulated,,,,,,False,False,False,,,,,,Mi metto accanto al muro.,I stand next to the wall.
+accanto allo,False,accanto a,next to,preposition,next to the,"space,location",articulated,,,,,,False,False,False,,,,,,Parcheggio accanto allo stadio.,I park next to the stadium.
+accanto alla,False,accanto a,next to,preposition,next to the,"space,location",articulated,,,,,,False,False,False,,,,,,Ci vediamo accanto alla scuola.,We will meet next to the school.
+accanto all',False,accanto a,next to,preposition,next to the,"space,location",articulated,,,,,,False,False,False,,,,,,Il cane dorme accanto all'albero.,The dog sleeps next to the tree.
+accanto ai,False,accanto a,next to,preposition,next to the,"space,location",articulated,,,,,,False,False,False,,,,,,Siediti accanto ai bambini.,Sit next to the children.
+accanto agli,False,accanto a,next to,preposition,next to the,"space,location",articulated,,,,,,False,False,False,,,,,,La fermata è accanto agli uffici.,The stop is next to the offices.
+accanto alle,False,accanto a,next to,preposition,next to the,"space,location",articulated,,,,,,False,False,False,,,,,,Metti le chiavi accanto alle foto.,Put the keys next to the photos.

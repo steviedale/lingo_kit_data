@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+cosa,True,cosa,thing,noun,thing,"core,objects",,,feminine,singular,,,False,False,False,,,,,base lemma,Questa cosa è utile.,This thing is useful.
+una cosa,False,cosa,thing,noun,a thing,"core,objects",,,feminine,singular,,,False,False,False,indefinite,una,una,,,Ho una cosa da dire.,I have a thing to say.
+la cosa,False,cosa,thing,noun,the thing,"core,objects",,,feminine,singular,,,False,False,False,definite,la,la,,,La cosa è complicata.,The thing is complicated.
+cose,False,cosa,thing,noun,things,"core,objects",,,feminine,plural,,,False,False,False,,,,,plural form,Compro cose per la casa.,I buy things for the house.
+le cose,False,cosa,thing,noun,the things,"core,objects",,,feminine,plural,,,False,False,False,definite,le,le,,,Le cose vanno bene.,Things are going well.
+delle cose,False,cosa,thing,noun,some things,"core,objects",,,feminine,plural,,,False,False,False,indefinite,le,delle,di,partitive plural form,Ho delle cose da fare.,I have some things to do.
+della cosa,False,cosa,thing,noun,of the thing,"core,objects",,,feminine,singular,,,False,False,False,articulated_preposition,la,della,di,contraction of di + la,Il colore della cosa non mi piace.,I do not like the color of the thing.
+alla cosa,False,cosa,thing,noun,to the thing,"core,objects",,,feminine,singular,,,False,False,False,articulated_preposition,la,alla,a,contraction of a + la,Pensa alla cosa con calma.,Think about the thing calmly.
+dalla cosa,False,cosa,thing,noun,from the thing,"core,objects",,,feminine,singular,,,False,False,False,articulated_preposition,la,dalla,da,contraction of da + la,Parto dalla cosa principale.,I start from the main thing.
+nella cosa,False,cosa,thing,noun,in the thing,"core,objects",,,feminine,singular,,,False,False,False,articulated_preposition,la,nella,in,contraction of in + la,C'è un difetto nella cosa.,There is a flaw in the thing.
+sulla cosa,False,cosa,thing,noun,about the thing,"core,objects",,,feminine,singular,,,False,False,False,articulated_preposition,la,sulla,su,contraction of su + la,Ho letto un articolo sulla cosa.,I read an article about the thing.
+con la cosa,False,cosa,thing,noun,with the thing,"core,objects",,,feminine,singular,,,False,False,False,articulated_preposition,la,con la,con,no contraction of con + la,Vado avanti con la cosa.,I move forward with the thing.
+alle cose,False,cosa,thing,noun,to the things,"core,objects",,,feminine,plural,,,False,False,False,articulated_preposition,le,alle,a,contraction of a + le,Pensa alle cose importanti.,Think about the important things.
+dalle cose,False,cosa,thing,noun,from the things,"core,objects",,,feminine,plural,,,False,False,False,articulated_preposition,le,dalle,da,contraction of da + le,Imparo dalle cose semplici.,I learn from simple things.
+nelle cose,False,cosa,thing,noun,in the things,"core,objects",,,feminine,plural,,,False,False,False,articulated_preposition,le,nelle,in,contraction of in + le,Trovo bellezza nelle cose comuni.,I find beauty in common things.
+sulle cose,False,cosa,thing,noun,about the things,"core,objects",,,feminine,plural,,,False,False,False,articulated_preposition,le,sulle,su,contraction of su + le,Leggo articoli sulle cose locali.,I read articles about local things.
+con le cose,False,cosa,thing,noun,with the things,"core,objects",,,feminine,plural,,,False,False,False,articulated_preposition,le,con le,con,no contraction of con + le,Finisco con le cose oggi.,I finish with the things today.

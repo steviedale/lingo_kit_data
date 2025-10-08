@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+caro,True,caro,dear/expensive,adjective,dear/expensive (masculine),"affection,price",,,masculine,singular,,,False,False,False,,,,,,Il libro è caro.,The book is expensive.
+cara,False,caro,dear/expensive,adjective,dear/expensive (feminine),"affection,price",,,feminine,singular,,,False,False,False,,,,,,Quella borsa è cara.,That bag is expensive.
+cari,False,caro,dear/expensive,adjective,dear/expensive (masculine plural),"affection,price",,,masculine,plural,,,False,False,False,,,,,,I biglietti sono cari.,The tickets are expensive.
+care,False,caro,dear/expensive,adjective,dear/expensive (feminine plural),"affection,price",,,feminine,plural,,,False,False,False,,,,,,Le fragole sono care quest'anno.,The strawberries are expensive this year.

@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+unito,True,unito,united,adjective,united (masculine),"quality,society",,,masculine,singular,,,False,False,False,,,,,,Il gruppo è unito.,The group is united.
+unita,False,unito,united,adjective,united (feminine),"quality,society",,,feminine,singular,,,False,False,False,,,,,,La squadra è unita.,The team is united.
+uniti,False,unito,united,adjective,united (masculine plural),"quality,society",,,masculine,plural,,,False,False,False,,,,,,Siamo uniti.,We are united.
+unite,False,unito,united,adjective,united (feminine plural),"quality,society",,,feminine,plural,,,False,False,False,,,,,,Le squadre sono unite.,The teams are united.

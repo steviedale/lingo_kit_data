@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+chiave,True,chiave,key,adjective,key (masculine),"quality,importance",,,masculine,singular,,,False,False,False,,,,,invariable adjective; same form in all genders and numbers,È un punto chiave.,It is a key point.
+chiave,False,chiave,key,adjective,key (feminine),"quality,importance",,,feminine,singular,,,False,False,False,,,,,invariable form,È una parola chiave.,It is a key word.
+chiave,False,chiave,key,adjective,key (masculine plural),"quality,importance",,,masculine,plural,,,False,False,False,,,,,invariable form,Sono temi chiave.,They are key themes.
+chiave,False,chiave,key,adjective,key (feminine plural),"quality,importance",,,feminine,plural,,,False,False,False,,,,,invariable form,Queste sono questioni chiave.,These are key issues.

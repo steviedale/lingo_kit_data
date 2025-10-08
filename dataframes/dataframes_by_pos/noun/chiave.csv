@@ -1,0 +1,19 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+chiave,True,chiave,key,noun,key,"home,objects",,,feminine,singular,,,False,False,False,,,,,base lemma,Cerco chiave di casa.,I am looking for a house key.
+una chiave,False,chiave,key,noun,a key,"home,objects",,,feminine,singular,,,False,False,False,indefinite,una,una,,,Hai una chiave?,Do you have a key?
+la chiave,False,chiave,key,noun,the key,"home,objects",,,feminine,singular,,,False,False,False,definite,la,la,,,Ho perso la chiave.,I lost the key.
+chiavi,False,chiave,key,noun,keys,"home,objects",,,feminine,plural,,,False,False,False,,,,,plural form,Chiavi nuove arrivano oggi.,New keys arrive today.
+le chiavi,False,chiave,key,noun,the keys,"home,objects",,,feminine,plural,,,False,False,False,definite,le,le,,,Le chiavi sono sul tavolo.,The keys are on the table.
+delle chiavi,False,chiave,key,noun,some keys,"home,objects",,,feminine,plural,,,False,False,False,indefinite,le,delle,di,partitive plural form,Ho trovato delle chiavi.,I found some keys.
+della chiave,False,chiave,key,noun,of the key,"home,objects",,,feminine,singular,,,False,False,False,articulated_preposition,la,della,di,contraction of di + la,Il colore della chiave è oro.,The color of the key is gold.
+alla chiave,False,chiave,key,noun,to the key,"home,objects",,,feminine,singular,,,False,False,False,articulated_preposition,la,alla,a,contraction of a + la,Metto un portachiavi alla chiave.,I attach a keychain to the key.
+dalla chiave,False,chiave,key,noun,from the key,"home,objects",,,feminine,singular,,,False,False,False,articulated_preposition,la,dalla,da,contraction of da + la,Parto dalla chiave giusta.,I start from the right key.
+nella chiave,False,chiave,key,noun,in the key,"home,objects",,,feminine,singular,,,False,False,False,articulated_preposition,la,nella,in,contraction of in + la,C'è un segno nella chiave.,There is a mark in the key.
+sulla chiave,False,chiave,key,noun,on the key,"home,objects",,,feminine,singular,,,False,False,False,articulated_preposition,la,sulla,su,contraction of su + la,C'è polvere sulla chiave.,There is dust on the key.
+con la chiave,False,chiave,key,noun,with the key,"home,objects",,,feminine,singular,,,False,False,False,articulated_preposition,la,con la,con,no contraction,Ap apro la porta con la chiave.,I open the door with the key.
+delle chiavi,False,chiave,key,noun,of the keys,"home,objects",,,feminine,plural,,,False,False,False,articulated_preposition,le,delle,di,contraction of di + le,La custodia delle chiavi è rotta.,The case of the keys is broken.
+alle chiavi,False,chiave,key,noun,to the keys,"home,objects",,,feminine,plural,,,False,False,False,articulated_preposition,le,alle,a,contraction of a + le,Dai un'etichetta alle chiavi.,Give a label to the keys.
+dalle chiavi,False,chiave,key,noun,from the keys,"home,objects",,,feminine,plural,,,False,False,False,articulated_preposition,le,dalle,da,contraction of da + le,Il rumore viene dalle chiavi.,The noise comes from the keys.
+nelle chiavi,False,chiave,key,noun,in the keys,"home,objects",,,feminine,plural,,,False,False,False,articulated_preposition,le,nelle,in,contraction of in + le,Ci sono graffi nelle chiavi.,There are scratches in the keys.
+sulle chiavi,False,chiave,key,noun,on the keys,"home,objects",,,feminine,plural,,,False,False,False,articulated_preposition,le,sulle,su,contraction of su + le,C'è polvere sulle chiavi.,There is dust on the keys.
+con le chiavi,False,chiave,key,noun,with the keys,"home,objects",,,feminine,plural,,,False,False,False,articulated_preposition,le,con le,con,no contraction,Lui gioca con le chiavi.,He plays with the keys.

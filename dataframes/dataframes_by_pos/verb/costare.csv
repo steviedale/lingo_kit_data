@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+costare,True,costare,to cost,verb,to cost,"money,commerce",,,,,non-finite,infinitive,False,False,False,,,,,regular -are verb,Costare troppo è un problema.,To cost too much is a problem.
+costando,False,costare,to cost,verb,costing,"money,commerce",,,,,gerund,,False,False,False,,,,,,Sta costando caro.,It is costing dearly.
+costato,False,costare,to cost,verb,costed,"money,commerce",,,masculine,singular,participle,past,False,False,False,,,,,past participle,L'oggetto è costato molto.,The item cost a lot.
+costata,False,costare,to cost,verb,costed,"money,commerce",,,feminine,singular,participle,past,False,False,False,,,,,past participle feminine singular,La riparazione è costata cara.,The repair cost a lot.
+costati,False,costare,to cost,verb,costed,"money,commerce",,,masculine,plural,participle,past,False,False,False,,,,,past participle masculine plural,I lavori sono costati molto.,The works cost a lot.
+costate,False,costare,to cost,verb,costed,"money,commerce",,,feminine,plural,participle,past,False,False,False,,,,,past participle feminine plural,Le riparazioni sono costate troppo.,The repairs cost too much.
+io costo,False,costare,to cost,verb,I cost,"money,commerce",,1s,,singular,indicative,present,False,False,False,,,,,,Io costo raramente.,I cost rarely.
+tu costi,False,costare,to cost,verb,you cost,"money,commerce",,2s,,singular,indicative,present,False,False,False,,,,,,Tu costi meno del previsto.,You cost less than expected.
+costa,False,costare,to cost,verb,he costs/she costs/you (formal) cost,"money,commerce",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Questa macchina costa molto.,This car costs a lot.
+noi costiamo,False,costare,to cost,verb,we cost,"money,commerce",,1p,,plural,indicative,present,False,False,False,,,,,,Noi costiamo poco per il servizio.,We cost little for the service.
+voi costate,False,costare,to cost,verb,you (plural) cost,"money,commerce",,2p,,plural,indicative,present,False,False,False,,,,,,Voi costate meno di quanto pensassi.,You cost less than I thought.
+loro costano,False,costare,to cost,verb,they cost,"money,commerce",,3p,,plural,indicative,present,False,False,False,,,,,,I biglietti loro costano troppo.,The tickets cost them too much.
+io costavo,False,costare,to cost,verb,I was costing,"money,commerce",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io costavo meno un anno fa.,I used to cost less a year ago.
+tu costavi,False,costare,to cost,verb,you were costing,"money,commerce",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu costavi molto allora.,You were costing a lot then.
+costava,False,costare,to cost,verb,he was costing/she was costing/you (formal) were costing,"money,commerce",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Quella casa costava meno.,That house used to cost less.
+noi costavamo,False,costare,to cost,verb,we were costing,"money,commerce",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi costavamo di più l'anno scorso.,We were costing more last year.
+voi costavate,False,costare,to cost,verb,you (plural) were costing,"money,commerce",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi costavate meno prima.,You were costing less before.
+costavano,False,costare,to cost,verb,they were costing,"money,commerce",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Le tasse costavano molto.,Taxes were costing a lot.
+ho costato,False,costare,to cost,verb,I have cost,"money,commerce",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Ho costato troppo per questo.,I have cost too much for this.
+hai costato,False,costare,to cost,verb,you have cost,"money,commerce",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hai costato più del previsto.,You have cost more than expected.
+ha costato,False,costare,to cost,verb,he has cost/she has cost/you (formal) have cost,"money,commerce",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha costato una fortuna.,It has cost a fortune.
+abbiamo costato,False,costare,to cost,verb,we have cost,"money,commerce",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Abbiamo costato meno del previsto.,We have cost less than expected.
+avete costato,False,costare,to cost,verb,you (plural) have cost,"money,commerce",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Avete costato troppo per quel servizio.,You have cost too much for that service.
+hanno costato,False,costare,to cost,verb,they have cost,"money,commerce",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hanno costato molto per la riparazione.,They have cost a lot for the repair.

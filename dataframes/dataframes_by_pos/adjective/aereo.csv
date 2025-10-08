@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+aereo,True,aereo,aerial,adjective,aerial (masculine),"travel,transport",,,masculine,singular,,,False,False,False,,,,,,Il trasporto aereo è costoso.,Air transport is expensive.
+aerea,False,aereo,aerial,adjective,aerial (feminine),"travel,transport",,,feminine,singular,,,False,False,False,,,,,,La posta aerea arriva domani.,The airmail arrives tomorrow.
+aerei,False,aereo,aerial,adjective,aerial (masculine plural),"travel,transport",,,masculine,plural,,,False,False,False,,,,,,I collegamenti aerei sono aumentati.,Air connections have increased.
+aeree,False,aereo,aerial,adjective,aerial (feminine plural),"travel,transport",,,feminine,plural,,,False,False,False,,,,,,Le vie aeree sono congestionate.,The airways are congested.

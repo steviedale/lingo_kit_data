@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+chiaro,True,chiaro,clear,adjective,clear/light (masculine),"color,description",,,masculine,singular,,,False,False,False,,,,,"also means ""light (color)""; common in expressions like ""chiaro e tondo""",Il messaggio è chiaro.,The message is clear.
+chiara,False,chiaro,clear,adjective,clear/light (feminine),"color,description",,,feminine,singular,,,False,False,False,,,,,,Una risposta chiara aiuta tutti.,A clear answer helps everyone.
+chiari,False,chiaro,clear,adjective,clear/light (masculine plural),"color,description",,,masculine,plural,,,False,False,False,,,,,,I colori sono chiari.,The colors are light.
+chiare,False,chiaro,clear,adjective,clear/light (feminine plural),"color,description",,,feminine,plural,,,False,False,False,,,,,,Le acque qui sono chiare.,The waters here are clear.

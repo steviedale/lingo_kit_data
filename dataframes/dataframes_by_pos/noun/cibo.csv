@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+cibo,True,cibo,food,noun,food,"food,core",,,masculine,singular,,,False,False,False,,,,,base lemma; mass noun,Cerco cibo sano.,I am looking for healthy food.
+un cibo,False,cibo,food,noun,a food,"food,core",,,masculine,singular,,,False,False,False,indefinite,un,un,,rare; used for a kind/type,Assaggio un cibo nuovo.,I try a new food.
+il cibo,False,cibo,food,noun,the food,"food,core",,,masculine,singular,,,False,False,False,definite,il,il,,,Il cibo è buono.,The food is good.
+cibi,False,cibo,food,noun,foods,"food,core",,,masculine,plural,,,False,False,False,,,,,plural form; often for types/kinds,Cibi locali sono freschi.,Local foods are fresh.
+i cibi,False,cibo,food,noun,the foods,"food,core",,,masculine,plural,,,False,False,False,definite,i,i,,,I cibi sono freschi.,The foods are fresh.
+dei cibi,False,cibo,food,noun,some foods,"food,core",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Assaggio dei cibi tipici.,I try some typical foods.
+del cibo,False,cibo,food,noun,of the food,"food,core",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,Il sapore del cibo è ottimo.,The taste of the food is excellent.
+al cibo,False,cibo,food,noun,to the food,"food,core",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Sono intollerante al cibo piccante.,I am intolerant to spicy food.
+dal cibo,False,cibo,food,noun,from the food,"food,core",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Stiamo lontani dal cibo avariato.,We stay away from spoiled food.
+nel cibo,False,cibo,food,noun,in the food,"food,core",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,C'è troppo sale nel cibo.,There is too much salt in the food.
+sul cibo,False,cibo,food,noun,about the food,"food,core",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Ho letto un articolo sul cibo.,I read an article about the food.
+col cibo,False,cibo,food,noun,with the food,"food,core",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Lavoro col cibo ogni giorno.,I work with food every day.
+ai cibi,False,cibo,food,noun,to the foods,"food,core",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Sono allergico ai cibi piccanti.,I am allergic to spicy foods.
+dai cibi,False,cibo,food,noun,from the foods,"food,core",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Mi tengo lontano dai cibi fritti.,I keep away from fried foods.
+nei cibi,False,cibo,food,noun,in the foods,"food,core",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Ci sono additivi nei cibi confezionati.,There are additives in packaged foods.
+sui cibi,False,cibo,food,noun,about the foods,"food,core",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Ho dati sui cibi locali.,I have data about local foods.
+coi cibi,False,cibo,food,noun,with the foods,"food,core",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Lavoriamo coi cibi freschi.,We work with fresh foods.

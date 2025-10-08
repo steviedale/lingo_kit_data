@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+cattivo,True,cattivo,bad,adjective,bad (masculine),"character,quality",,,masculine,singular,,,False,False,False,,,,,base form,Questo caffè è cattivo.,This coffee is bad.
+cattiva,False,cattivo,bad,adjective,bad (feminine),"character,quality",,,feminine,singular,,,False,False,False,,,,,,La notizia è cattiva.,The news is bad.
+cattivi,False,cattivo,bad,adjective,bad (masculine plural),"character,quality",,,masculine,plural,,,False,False,False,,,,,,I vicini sono cattivi.,The neighbors are mean.
+cattive,False,cattivo,bad,adjective,bad (feminine plural),"character,quality",,,feminine,plural,,,False,False,False,,,,,,Le recensioni sono cattive.,The reviews are bad.

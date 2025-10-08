@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+occupato,True,occupato,busy,adjective,busy (masculine),"status,availability",,,masculine,singular,,,False,False,False,,,,,,Il tavolo è occupato.,The table is occupied.
+occupata,False,occupato,busy,adjective,busy (feminine),"status,availability",,,feminine,singular,,,False,False,False,,,,,,La stanza è occupata.,The room is occupied.
+occupati,False,occupato,busy,adjective,busy (masculine plural),"status,availability",,,masculine,plural,,,False,False,False,,,,,,I posti sono occupati.,The seats are occupied.
+occupate,False,occupato,busy,adjective,busy (feminine plural),"status,availability",,,feminine,plural,,,False,False,False,,,,,,Le linee sono occupate.,The lines are busy.

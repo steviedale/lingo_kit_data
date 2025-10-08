@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+costoso,True,costoso,expensive,adjective,expensive (masculine),"core,commerce",,,masculine,singular,,,False,False,False,,,,,regular -oso adjective,Questo orologio è costoso.,This watch is expensive.
+costosa,False,costoso,expensive,adjective,expensive (feminine),"core,commerce",,,feminine,singular,,,False,False,False,,,,,feminine singular,La borsa è costosa.,The bag is expensive.
+costosi,False,costoso,expensive,adjective,expensive (masculine plural),"core,commerce",,,masculine,plural,,,False,False,False,,,,,masculine plural,I vestiti sono costosi.,The clothes are expensive.
+costose,False,costoso,expensive,adjective,expensive (feminine plural),"core,commerce",,,feminine,plural,,,False,False,False,,,,,feminine plural,Le scarpe sono costose.,The shoes are expensive.

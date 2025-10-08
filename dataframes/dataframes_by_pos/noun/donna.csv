@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+donna,True,donna,woman,noun,woman,"core,people",,,feminine,singular,,,False,False,False,,,,,base lemma,Cerco donna affidabile.,I am looking for a reliable woman.
+una donna,False,donna,woman,noun,a woman,"core,people",,,feminine,singular,,,False,False,False,indefinite,una,una,,,Vedo una donna.,I see a woman.
+la donna,False,donna,woman,noun,the woman,"core,people",,,feminine,singular,,,False,False,False,definite,la,la,,,La donna sorride.,The woman smiles.
+donne,False,donna,woman,noun,women,"core,people",,,feminine,plural,,,False,False,False,,,,,plural form,Donne forti cambiano il mondo.,Strong women change the world.
+le donne,False,donna,woman,noun,the women,"core,people",,,feminine,plural,,,False,False,False,definite,le,le,,,Le donne ridono.,The women laugh.
+delle donne,False,donna,woman,noun,some women,"core,people",,,feminine,plural,,,False,False,False,indefinite,le,delle,di,partitive plural form,Conosco delle donne gentili.,I know some kind women.
+della donna,False,donna,woman,noun,of the woman,"core,people",,,feminine,singular,,,False,False,False,articulated_preposition,la,della,di,contraction of di + la,Parliamo della donna.,We talk about the woman.
+alla donna,False,donna,woman,noun,to the woman,"core,people",,,feminine,singular,,,False,False,False,articulated_preposition,la,alla,a,contraction of a + la,Do il regalo alla donna.,I give the gift to the woman.
+dalla donna,False,donna,woman,noun,from the woman,"core,people",,,feminine,singular,,,False,False,False,articulated_preposition,la,dalla,da,contraction of da + la,Vengo dalla donna alla cassa.,I am coming from the woman at the counter.
+nella donna,False,donna,woman,noun,in the woman,"core,people",,,feminine,singular,,,False,False,False,articulated_preposition,la,nella,in,contraction of in + la,Credo nella donna.,I believe in the woman.
+sulla donna,False,donna,woman,noun,about the woman,"core,people",,,feminine,singular,,,False,False,False,articulated_preposition,la,sulla,su,contraction of su + la,Leggo un saggio sulla donna.,I read an essay about the woman.
+con la donna,False,donna,woman,noun,with the woman,"core,people",,,feminine,singular,,,False,False,False,articulated_preposition,la,con la,con,no contraction with la,Parlo con la donna.,I speak with the woman.
+alle donne,False,donna,woman,noun,to the women,"core,people",,,feminine,plural,,,False,False,False,articulated_preposition,le,alle,a,contraction of a + le,Scrivo una lettera alle donne.,I write a letter to the women.
+dalle donne,False,donna,woman,noun,from the women,"core,people",,,feminine,plural,,,False,False,False,articulated_preposition,le,dalle,da,contraction of da + le,Ho imparato molto dalle donne.,I learned a lot from the women.
+nelle donne,False,donna,woman,noun,in the women,"core,people",,,feminine,plural,,,False,False,False,articulated_preposition,le,nelle,in,contraction of in + le,Credo nelle donne.,I believe in the women.
+sulle donne,False,donna,woman,noun,about the women,"core,people",,,feminine,plural,,,False,False,False,articulated_preposition,le,sulle,su,contraction of su + le,Ho letto articoli sulle donne.,I have read articles about the women.
+con le donne,False,donna,woman,noun,with the women,"core,people",,,feminine,plural,,,False,False,False,articulated_preposition,le,con le,con,no contraction with le,Lavoro con le donne.,I work with the women.

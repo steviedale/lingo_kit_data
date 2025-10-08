@@ -13,7 +13,7 @@ def get_all_csv_files_rec(dir):
 
 
 def get_all_terms_df():
-    all_csv_files = get_all_csv_files_rec('/Users/stevie/repos/lingo_kit_data/dataframes/v1.1.1/dataframes')
+    all_csv_files = get_all_csv_files_rec('/Users/stevie/repos/lingo_kit_data/dataframes/dataframes_by_pos')
     all_df = pd.DataFrame()
     for path in all_csv_files:
         assert(os.path.exists(path))

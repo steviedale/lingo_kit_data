@@ -7,9 +7,12 @@ TODOS:
     - create a script to collect all of the topics for each english/italian base lemma 
     - feed it to a LLM to consolidate topics
     - update csvs with new topics
-- plan lingo kit creation (adding/removing terms, searching, etc)
+- add spotify terms
+- add category terms
+- add foundational terms
 
 COMPLETED:
+- [DONE] plan lingo kit creation (adding/removing terms, searching, etc)
 - [DONE] finish running generation
 - [DONE] test organization by looking up terms from harry potter book
 - [DONE] fix overwrite issue with generation (for now let's not overwrite, we'll handling merging manually)

@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+bisogno,True,bisogno,need,noun,need,"core,needs",,,masculine,singular,,,False,False,False,,,,,base lemma,Sento bisogno di cambiare.,I feel a need to change.
+un bisogno,False,bisogno,need,noun,a need,"core,needs",,,masculine,singular,,,False,False,False,indefinite,un,un,,,Ho un bisogno urgente.,I have an urgent need.
+il bisogno,False,bisogno,need,noun,the need,"core,needs",,,masculine,singular,,,False,False,False,definite,il,il,,,Il bisogno spinge a cambiare.,The need pushes one to change.
+bisogni,False,bisogno,need,noun,needs,"core,needs",,,masculine,plural,,,False,False,False,,,,,plural form,Bisogni diversi emergono.,Different needs emerge.
+i bisogni,False,bisogno,need,noun,the needs,"core,needs",,,masculine,plural,,,False,False,False,definite,i,i,,,I bisogni dei bambini sono importanti.,The needs of the children are important.
+dei bisogni,False,bisogno,need,noun,some needs,"core,needs",,,masculine,plural,,,False,False,False,indefinite,i,dei,di,partitive plural form,Ho dei bisogni particolari.,I have some particular needs.
+del bisogno,False,bisogno,need,noun,of the need,"core,needs",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il,La causa del bisogno è chiara.,The cause of the need is clear.
+al bisogno,False,bisogno,need,noun,to the need,"core,needs",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il,Intervengo al bisogno.,I step in when needed.
+ai bisogni,False,bisogno,need,noun,to the needs,"core,needs",,,masculine,plural,,,False,False,False,articulated_preposition,i,ai,a,contraction of a + i,Rispondiamo ai bisogni locali.,We respond to the local needs.
+dal bisogno,False,bisogno,need,noun,from the need,"core,needs",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il,Dipende dal bisogno.,It depends on the need.
+dai bisogni,False,bisogno,need,noun,from the needs,"core,needs",,,masculine,plural,,,False,False,False,articulated_preposition,i,dai,da,contraction of da + i,Partiamo dai bisogni reali.,We start from the real needs.
+nel bisogno,False,bisogno,need,noun,in the need,"core,needs",,,masculine,singular,,,False,False,False,articulated_preposition,il,nel,in,contraction of in + il,Nel bisogno si vede l'amico.,In need one sees the friend.
+nei bisogni,False,bisogno,need,noun,in the needs,"core,needs",,,masculine,plural,,,False,False,False,articulated_preposition,i,nei,in,contraction of in + i,Ci aiutiamo nei bisogni.,We help each other in times of need.
+sul bisogno,False,bisogno,need,noun,about the need,"core,needs",,,masculine,singular,,,False,False,False,articulated_preposition,il,sul,su,contraction of su + il,Ho letto un saggio sul bisogno.,I read an essay about the need.
+sui bisogni,False,bisogno,need,noun,about the needs,"core,needs",,,masculine,plural,,,False,False,False,articulated_preposition,i,sui,su,contraction of su + i,Discutiamo sui bisogni del quartiere.,We discuss the neighborhood's needs.
+col bisogno,False,bisogno,need,noun,with the need,"core,needs",,,masculine,singular,,,False,False,False,articulated_preposition,il,col,con,contraction of con + il,Lavoriamo col bisogno in mente.,We work with the need in mind.
+coi bisogni,False,bisogno,need,noun,with the needs,"core,needs",,,masculine,plural,,,False,False,False,articulated_preposition,i,coi,con,contraction of con + i,Operiamo coi bisogni delle persone.,We work with people's needs.

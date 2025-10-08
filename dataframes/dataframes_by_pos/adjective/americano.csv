@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+americano,True,americano,American,adjective,American (masculine),"people,origin",,,masculine,singular,,,False,False,False,,,,,,È un film americano.,It is an American film.
+americana,False,americano,American,adjective,American (feminine),"people,origin",,,feminine,singular,,,False,False,False,,,,,,È una serie americana.,It is an American series.
+americani,False,americano,American,adjective,American (masculine plural),"people,origin",,,masculine,plural,,,False,False,False,,,,,,Compriamo prodotti americani.,We buy American products.
+americane,False,americano,American,adjective,American (feminine plural),"people,origin",,,feminine,plural,,,False,False,False,,,,,,Le aziende americane investono qui.,American companies invest here.

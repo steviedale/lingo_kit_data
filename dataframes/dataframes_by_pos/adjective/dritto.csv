@@ -1,0 +1,5 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+dritto,True,dritto,straight,adjective,straight (masculine),"direction,manner",,,masculine,singular,,,False,False,False,,,,,also spelled diritto,Il palo è dritto.,The pole is straight.
+dritta,False,dritto,straight,adjective,straight (feminine),"direction,manner",,,feminine,singular,,,False,False,False,,,,,,La strada è dritta.,The road is straight.
+dritti,False,dritto,straight,adjective,straight (masculine plural),"direction,manner",,,masculine,plural,,,False,False,False,,,,,,I pali sono dritti.,The poles are straight.
+dritte,False,dritto,straight,adjective,straight (feminine plural),"direction,manner",,,feminine,plural,,,False,False,False,,,,,,Le colonne sono dritte.,The columns are straight.

@@ -1,0 +1,18 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+barca,True,barca,boat,noun,boat,"travel,transport",,,feminine,singular,,,False,False,False,,,,,base lemma; plural 'barche' (c→ch),Cerco barca usata.,I'm looking for a used boat.
+una barca,False,barca,boat,noun,a boat,"travel,transport",,,feminine,singular,,,False,False,False,indefinite,una,una,,,Vedo una barca vicino al molo.,I see a boat near the pier.
+la barca,False,barca,boat,noun,the boat,"travel,transport",,,feminine,singular,,,False,False,False,definite,la,la,,,La barca è pronta.,The boat is ready.
+barche,False,barca,boat,noun,boats,"travel,transport",,,feminine,plural,,,False,False,False,,,,,plural form; irregular (c→ch),Barche piccole costano meno.,Small boats cost less.
+le barche,False,barca,boat,noun,the boats,"travel,transport",,,feminine,plural,,,False,False,False,definite,le,le,,,Le barche partono all'alba.,The boats leave at dawn.
+delle barche,False,barca,boat,noun,some boats,"travel,transport",,,feminine,plural,,,False,False,False,indefinite,le,delle,di,partitive plural form,Ho visto delle barche lontane.,I saw some boats in the distance.
+della barca,False,barca,boat,noun,of the boat,"travel,transport",,,feminine,singular,,,False,False,False,articulated_preposition,la,della,di,contraction of di + la,Il motore della barca è acceso.,The boat's engine is on.
+alla barca,False,barca,boat,noun,to the boat,"travel,transport",,,feminine,singular,,,False,False,False,articulated_preposition,la,alla,a,contraction of a + la,Mi avvicino alla barca.,I approach the boat.
+dalla barca,False,barca,boat,noun,from the boat,"travel,transport",,,feminine,singular,,,False,False,False,articulated_preposition,la,dalla,da,contraction of da + la,Scendo dalla barca.,I get off the boat.
+nella barca,False,barca,boat,noun,in the boat,"travel,transport",,,feminine,singular,,,False,False,False,articulated_preposition,la,nella,in,contraction of in + la,C'è spazio nella barca.,There is space in the boat.
+sulla barca,False,barca,boat,noun,on the boat,"travel,transport",,,feminine,singular,,,False,False,False,articulated_preposition,la,sulla,su,contraction of su + la,Pranziamo sulla barca.,We have lunch on the boat.
+con la barca,False,barca,boat,noun,with the boat,"travel,transport",,,feminine,singular,,,False,False,False,articulated_preposition,la,con la,con,no contraction with con + la,Andiamo con la barca.,We go by boat.
+alle barche,False,barca,boat,noun,to the boats,"travel,transport",,,feminine,plural,,,False,False,False,articulated_preposition,le,alle,a,contraction of a + le,Mi avvicino alle barche.,I approach the boats.
+dalle barche,False,barca,boat,noun,from the boats,"travel,transport",,,feminine,plural,,,False,False,False,articulated_preposition,le,dalle,da,contraction of da + le,Scendo dalle barche.,I get off the boats.
+nelle barche,False,barca,boat,noun,in the boats,"travel,transport",,,feminine,plural,,,False,False,False,articulated_preposition,le,nelle,in,contraction of in + le,Ci sono giubbotti nelle barche.,There are life jackets in the boats.
+sulle barche,False,barca,boat,noun,on the boats,"travel,transport",,,feminine,plural,,,False,False,False,articulated_preposition,le,sulle,su,contraction of su + le,Lavorano sulle barche.,They work on the boats.
+con le barche,False,barca,boat,noun,with the boats,"travel,transport",,,feminine,plural,,,False,False,False,articulated_preposition,le,con le,con,no contraction with con + le,Viaggiamo con le barche.,We travel by boats.

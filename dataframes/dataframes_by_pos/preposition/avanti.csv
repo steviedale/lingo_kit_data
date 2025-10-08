@@ -1,0 +1,9 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+avanti a,True,avanti,forward/ahead,preposition,in front of,"direction,space",simple,,,,,,False,False,False,,,,,"less common than ""davanti a"" in modern usage",Si fermò avanti a me.,He stopped in front of me.
+avanti al,False,avanti,forward/ahead,preposition,in front of the,"direction,space",articulated,,,,,,False,False,False,,,,,,Siamo avanti al cancello.,We are in front of the gate.
+avanti allo,False,avanti,forward/ahead,preposition,in front of the,"direction,space",articulated,,,,,,False,False,False,,,,,,C'è folla avanti allo stadio.,There is a crowd in front of the stadium.
+avanti all',False,avanti,forward/ahead,preposition,in front of the,"direction,space",articulated,,,,,,False,False,False,,,,,,Lascia il pacco avanti all'ingresso.,Leave the package in front of the entrance.
+avanti alla,False,avanti,forward/ahead,preposition,in front of the,"direction,space",articulated,,,,,,False,False,False,,,,,,Ci vediamo avanti alla chiesa.,We will meet in front of the church.
+avanti ai,False,avanti,forward/ahead,preposition,in front of the,"direction,space",articulated,,,,,,False,False,False,,,,,,Parcheggia avanti ai negozi.,Park in front of the shops.
+avanti agli,False,avanti,forward/ahead,preposition,in front of the,"direction,space",articulated,,,,,,False,False,False,,,,,,C'è una panchina avanti agli alberi.,There is a bench in front of the trees.
+avanti alle,False,avanti,forward/ahead,preposition,in front of the,"direction,space",articulated,,,,,,False,False,False,,,,,,La fermata è avanti alle scuole.,The stop is in front of the schools.

@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+dritto,True,dritto,straight,adverb,straight,"direction,manner",,,,,,,False,False,False,,,,,used as adverb meaning 'directly',Vai dritto a casa.,Go straight home.
+più dritto,False,dritto,straight,adverb,straighter,"direction,manner",,,,,,,True,False,False,,,,,comparative formed with più,Camina più dritto.,He walks straighter.
+molto dritto,False,dritto,straight,adverb,very straight,"direction,manner",,,,,,,False,True,False,,,,,intensifier form with molto,Vai molto dritto.,Go very straight.

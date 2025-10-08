@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+occupare,True,occupare,to occupy,verb,to occupy,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -are verb; past participle 'occupato',Voglio occupare quel posto.,I want to occupy that seat.
+occupando,False,occupare,to occupy,verb,occupying,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto occupando la sedia.,I am occupying the chair.
+occupato,False,occupare,to occupy,verb,occupied,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle; masculine singular,L'ho occupato.,I have occupied it.
+occupata,False,occupare,to occupy,verb,occupied,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle; feminine singular,L'ho occupata.,I have occupied it.
+occupati,False,occupare,to occupy,verb,occupied,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle; masculine plural,Li ho occupati.,I have occupied them.
+occupate,False,occupare,to occupy,verb,occupied,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle; feminine plural,Le ho occupate.,I have occupied them.
+occupo,False,occupare,to occupy,verb,I occupy,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Occupo il posto.,I occupy the seat.
+occupi,False,occupare,to occupy,verb,you occupy,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu occupi troppo spazio.,You occupy too much space.
+occupa,False,occupare,to occupy,verb,he occupies/she occupies/you (formal) occupy,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lei occupa questa sedia.,She occupies this chair.
+occupiamo,False,occupare,to occupy,verb,we occupy,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Occupiamo la stanza.,We occupy the room.
+occupate,False,occupare,to occupy,verb,you (plural) occupy,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi occupate due banchi.,You (plural) occupy two desks.
+occupano,False,occupare,to occupy,verb,they occupy,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro occupano tutto lo spazio.,They occupy all the space.
+occupavo,False,occupare,to occupy,verb,I was occupying,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Occupavo un piccolo ufficio.,I was occupying a small office.
+occupavi,False,occupare,to occupy,verb,you were occupying,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu occupavi troppo tempo.,You were occupying too much time.
+occupava,False,occupare,to occupy,verb,he was occupying/she was occupying/you (formal) were occupying,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei occupava la linea.,She was occupying the line.
+occupavamo,False,occupare,to occupy,verb,we were occupying,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi occupavamo il piano.,We were occupying the floor.
+occupavate,False,occupare,to occupy,verb,you (plural) were occupying,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi occupavate spesso la sala.,You (plural) were occupying the hall often.
+occupavano,False,occupare,to occupy,verb,they were occupying,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro occupavano la casa.,They were occupying the house.
+ho occupato,False,occupare,to occupy,verb,I have occupied,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Ho occupato il posto.,I have occupied the seat.
+hai occupato,False,occupare,to occupy,verb,you have occupied,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hai occupato la stanza.,You have occupied the room.
+ha occupato,False,occupare,to occupy,verb,he has occupied/she has occupied/you (formal) have occupied,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha occupato la sedia.,He has occupied the chair.
+abbiamo occupato,False,occupare,to occupy,verb,we have occupied,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Abbiamo occupato due posti.,We have occupied two seats.
+avete occupato,False,occupare,to occupy,verb,you (plural) have occupied,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Avete occupato la sala.,You (plural) have occupied the hall.
+hanno occupato,False,occupare,to occupy,verb,they have occupied,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hanno occupato l'edificio.,They have occupied the building.

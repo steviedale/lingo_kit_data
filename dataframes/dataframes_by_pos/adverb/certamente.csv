@@ -1,0 +1,4 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+certamente,True,certamente,certainly,adverb,certainly,"manner,affirmation",,,,,,,False,False,False,,,,,common polite affirmation,"Certamente, vengo domani.","Certainly, I will come tomorrow."
+più certamente,False,certamente,certainly,adverb,more certainly,"manner,affirmation",,,,,,,True,False,False,,,,,"regular comparative with ""più""",Ora risponde più certamente.,Now he answers more certainly.
+certissimamente,False,certamente,certainly,adverb,most certainly,"manner,affirmation",,,,,,,False,True,False,,,,,"-issimo superlative, formal/emphatic","Certissimamente, hai ragione.","Most certainly, you are right."

@@ -1,0 +1,25 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+contare,True,contare,to count,verb,to count,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -are verb; auxiliary avere,Voglio contare fino a dieci.,I want to count to ten.
+contando,False,contare,to count,verb,counting,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto contando le monete.,I am counting the coins.
+contato,False,contare,to count,verb,counted,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle masculine singular,L'ho contato.,I counted it.
+contata,False,contare,to count,verb,counted,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle feminine singular,L'ho contata.,I counted it.
+contati,False,contare,to count,verb,counted,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle masculine plural,Li ho contati.,I counted them.
+contate,False,contare,to count,verb,counted,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle feminine plural,Le ho contate.,I counted them.
+conto,False,contare,to count,verb,I count,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Conto fino a dieci.,I count to ten.
+conti,False,contare,to count,verb,you count,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu conti le stelle.,You count the stars.
+conta,False,contare,to count,verb,he counts/she counts/you (formal) count,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lei conta le monete.,You count the coins.
+contiamo,False,contare,to count,verb,we count,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Contiamo ogni voto.,We count every vote.
+contate,False,contare,to count,verb,you (plural) count,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi contate i passi.,You (plural) count the steps.
+contano,False,contare,to count,verb,they count,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro contano i giorni.,They count the days.
+contavo,False,contare,to count,verb,I was counting,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Contavo le ore.,I was counting the hours.
+contavi,False,contare,to count,verb,you were counting,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu contavi piano.,You were counting slowly.
+contava,False,contare,to count,verb,he was counting/she was counting/you (formal) were counting,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei contava lentamente.,You were counting slowly.
+contavamo,False,contare,to count,verb,we were counting,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Contavamo ogni minuto.,We were counting every minute.
+contavate,False,contare,to count,verb,you (plural) were counting,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi contavate le sedie.,You (plural) were counting the chairs.
+contavano,False,contare,to count,verb,they were counting,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro contavano poco.,They were counting little.
+ho contato,False,contare,to count,verb,I have counted,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle contato,Ho contato fino a cento.,I have counted to one hundred.
+hai contato,False,contare,to count,verb,you have counted,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle contato,Hai contato le spese.,You have counted the expenses.
+ha contato,False,contare,to count,verb,he has counted/she has counted/you (formal) have counted,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei'; past participle contato,Ha contato i voti.,He has counted the votes.
+abbiamo contato,False,contare,to count,verb,we have counted,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle contato,Abbiamo contato i giorni.,We have counted the days.
+avete contato,False,contare,to count,verb,you (plural) have counted,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle contato,Avete contato bene.,You (plural) have counted well.
+hanno contato,False,contare,to count,verb,they have counted,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle contato,Hanno contato le persone.,They have counted the people.
