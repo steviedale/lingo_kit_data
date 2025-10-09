@@ -14,12 +14,18 @@ import hashlib
 from pydub import AudioSegment
 import requests
 import base64
+from filelock import FileLock, Timeout
+import os, io, yaml, tempfile
 
 
-API_KEY = open(os.path.join(PATH_TO_REPO, "utils/audio/google_cloud_api_key.txt")).read().strip()
+API_KEY_PATH = os.path.join(PATH_TO_REPO, "utils/audio/google_cloud_api_key.txt")
+assert(os.path.exists(API_KEY_PATH))
+API_KEY = open(API_KEY_PATH).read().strip()
 
 SAVE_DIR = os.path.join(PATH_TO_REPO, 'data/audio')
 DF_PATH = os.path.join(PATH_TO_REPO, 'data/dataframe.csv')
+assert(os.path.exists(SAVE_DIR))
+assert(os.path.exists(DF_PATH))
 
 ENDPOINT = f"https://texttospeech.googleapis.com/v1/text:synthesize?key={API_KEY}"
 VOICES = {
@@ -32,6 +38,40 @@ VOICES = {
         'female': 'it-IT-Neural2-A',
     }
 }
+COST_PER_MILLION = {
+    'en-US-Neural2-D': 16.00,
+    'en-US-Neural2-C': 16.00,
+    'it-IT-Neural2-F': 16.00,
+    'it-IT-Neural2-A': 16.00,
+}
+
+
+COST_PATH = os.path.join(PATH_TO_REPO, 'utils/audio/tts_cost_estimate.yaml')
+assert(os.path.exists(COST_PATH))
+COST_LOCK_PATH = COST_PATH + ".lock"
+
+def update_total_cost(delta: float, timeout_sec: float = 10.0):
+    lock = FileLock(COST_LOCK_PATH)
+    with lock.acquire(timeout=timeout_sec):
+        data = {}
+        if os.path.exists(COST_PATH):
+            with open(COST_PATH, "r", encoding="utf-8") as f:
+                data = yaml.safe_load(f) or {}
+        data["total_cost"] = float(data.get("total_cost", 0.0)) + float(delta)
+
+        dir_ = os.path.dirname(os.path.abspath(COST_PATH)) or "."
+        fd, tmp_path = tempfile.mkstemp(dir=dir_, prefix=".cost.yml.", text=True)
+        try:
+            with io.open(fd, "w", encoding="utf-8") as tmp:
+                yaml.safe_dump(data, tmp, sort_keys=False)
+                tmp.flush()
+                os.fsync(tmp.fileno())
+            os.replace(tmp_path, COST_PATH)
+        finally:
+            if os.path.exists(tmp_path):
+                try: os.remove(tmp_path)
+                except OSError: pass
+
 
 def ssml_single_word(word, rate, pitch, pause_ms, slash_pause_ms):
     # Add a period to encourage natural sentence prosody
@@ -51,7 +91,8 @@ def ssml_single_word(word, rate, pitch, pause_ms, slash_pause_ms):
         </speak>
     """.strip()
     # print(speach_ssml)
-    return speach_ssml
+    character_count = len(safe.replace(' ', ''))
+    return speach_ssml, character_count
 
 
 def synthesize_word(word, voice_name, speaking_rate, outfile):
@@ -67,7 +108,9 @@ def synthesize_word(word, voice_name, speaking_rate, outfile):
         assert(voice_name in VOICES['italian'].values())
         assert(speaking_rate == 0.7)
 
-    ssml = ssml_single_word(word, rate=speaking_rate, pitch="-1st", pause_ms=pause_ms, slash_pause_ms=500)
+    ssml, char_count = ssml_single_word(word, rate=speaking_rate, pitch="-1st", pause_ms=pause_ms, slash_pause_ms=500)
+    cost = (char_count / 1000000) * COST_PER_MILLION[voice_name]
+    update_total_cost(cost)
 
     # Optional: also set global audioConfig tweaks (mild adjustments)
     audio_cfg = {"audioEncoding": "MP3"}
@@ -88,6 +131,8 @@ def synthesize_word(word, voice_name, speaking_rate, outfile):
     with open(outfile, "wb") as f:
         f.write(base64.b64decode(audio_b64))
 
+    return cost
+
 
 def get_duration_ms(path):
     # print('getting duration of', path)
@@ -104,6 +149,7 @@ def get_audio_hash(text, voice_name, speaking_rate, pitch):
 class TextToSpeech:
 
     def __init__(self):
+
 
         if not os.path.exists(SAVE_DIR):
             os.makedirs(SAVE_DIR)
@@ -123,6 +169,7 @@ class TextToSpeech:
     def synthesize(self, text, voice_name, speaking_rate, verbose=False, force_generate=False):
         # pitch is no longer supported for configuration
         pitch = 0
+        total_cost = 0.0
 
         # hash text
         hash_key = get_audio_hash(text, voice_name, speaking_rate, pitch)
@@ -158,12 +205,15 @@ class TextToSpeech:
 
                 # Synthesize speech
                 t0 = time.perf_counter()
-                synthesize_word(
+                cost = synthesize_word(
                     text, voice_name=voice_name,
                     speaking_rate=speaking_rate, outfile=audio_file
                 )
                 t1 = time.perf_counter()
                 synthesis_time = t1 - t0
+                if verbose:
+                    print(f"synthesized {hash_key} in {synthesis_time:.2f} seconds, cost ${cost:.6f}")
+                total_cost += cost
 
             duration_ms = get_duration_ms(audio_file)
 
@@ -185,7 +235,7 @@ class TextToSpeech:
                 data[k] = float(v)
             if type(v) is np.int64 or type(v) is np.int32 or type(v) is np.int16:
                 data[k] = int(v)
-        return data
+        return data, total_cost
 
     def save(self):
         self.df.to_csv(DF_PATH, index=False)
