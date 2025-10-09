@@ -1,0 +1,32 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+andare,True,andare,to go,verb,to go,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,"irregular present forms (vado, vai, va, vanno); uses auxiliary essere",Voglio andare al mare.,I want to go to the sea.
+andando,False,andare,to go,verb,going,"core,verb",,,,,gerund,,False,False,False,,,,,,Sto andando a casa.,I am going home.
+andato,False,andare,to go,verb,gone,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,"past participle, masculine singular",È andato via.,He has gone away.
+andata,False,andare,to go,verb,gone,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,"past participle, feminine singular",È andata ieri.,She has gone yesterday.
+andati,False,andare,to go,verb,gone,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,"past participle, masculine plural",Siamo andati al concerto.,We went to the concert.
+andate,False,andare,to go,verb,gone,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,"past participle, feminine plural",Siete andate in montagna.,You (plural) went to the mountains.
+vado,False,andare,to go,verb,I go,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io vado al lavoro.,I go to work.
+vai,False,andare,to go,verb,you go,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu vai alla stazione.,You go to the station.
+va,False,andare,to go,verb,he goes/she goes/you (formal) go,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui va al supermercato.,He goes to the supermarket.
+andiamo,False,andare,to go,verb,we go,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi andiamo insieme.,We go together.
+andate,False,andare,to go,verb,you (plural) go,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi andate spesso al cinema.,You go to the cinema often.
+vanno,False,andare,to go,verb,they go,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro vanno a scuola.,They go to school.
+andavo,False,andare,to go,verb,I was going,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io andavo ogni giorno.,I was going every day.
+andavi,False,andare,to go,verb,you were going,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu andavi troppo veloce.,You were going too fast.
+andava,False,andare,to go,verb,he was going/she was going/you (formal) were going,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei andava spesso lì.,She used to go there often.
+andavamo,False,andare,to go,verb,we were going,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi andavamo insieme al parco.,We used to go together to the park.
+andavate,False,andare,to go,verb,you (plural) were going,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi andavate piano.,You were going slowly.
+andavano,False,andare,to go,verb,they were going,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro andavano a piedi.,They were going on foot.
+sono andato,False,andare,to go,verb,I have gone,"core,verb",,1s,masculine,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle andato,Sono andato al mercato.,I have gone to the market.
+sono andata,False,andare,to go,verb,I have gone,"core,verb",,1s,feminine,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle andata,Sono andata al mercato.,I have gone to the market.
+sei andato,False,andare,to go,verb,you have gone,"core,verb",,2s,masculine,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle andato,Sei andato al medico.,You have gone to the doctor.
+sei andata,False,andare,to go,verb,you have gone,"core,verb",,2s,feminine,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle andata,Sei andata al medico.,You have gone to the doctor.
+è andato,False,andare,to go,verb,he has gone/you (formal) have gone,"core,verb",,3s,masculine,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; also used as formal 'Lei'; past participle andato,È andato a casa.,He has gone home.
+è andata,False,andare,to go,verb,she has gone/you (formal) have gone,"core,verb",,3s,feminine,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; also used as formal 'Lei'; past participle andata,È andata a casa.,She has gone home.
+siamo andati,False,andare,to go,verb,we have gone,"core,verb",,1p,masculine,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle andati (masculine),Siamo andati al mare.,We have gone to the sea.
+siamo andate,False,andare,to go,verb,we have gone,"core,verb",,1p,feminine,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle andate (feminine),Siamo andate al mare.,We have gone to the sea.
+siete andati,False,andare,to go,verb,you (plural) have gone,"core,verb",,2p,masculine,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle andati (masculine),Siete andati al concerto.,You have gone to the concert.
+siete andate,False,andare,to go,verb,you (plural) have gone,"core,verb",,2p,feminine,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle andate (feminine),Siete andate al concerto.,You have gone to the concert.
+sono andati,False,andare,to go,verb,they have gone,"core,verb",,3p,masculine,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle andati (masculine),Sono andati via.,They have gone away.
+sono andate,False,andare,to go,verb,they have gone,"core,verb",,3p,feminine,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary essere; past participle andate (feminine),Sono andate a casa.,They have gone home.
+andai,False,andare,to go,verb,I went,"core,verb",,1s,,singular,indicative,passato remoto,False,False,False,,,,,passato remoto first person singular,Andai al mercato.,I went to the market.

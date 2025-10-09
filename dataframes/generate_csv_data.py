@@ -1,7 +1,7 @@
 # %%
 import os
-os.environ["PATH_TO_REPO"] = "/Users/stevie/repos/lingo_kit_data"
-# os.environ["PATH_TO_REPO"] = "/home/ubuntu/busy_bees/lingo_kit_data"
+#os.environ["PATH_TO_REPO"] = "/Users/stevie/repos/lingo_kit_data"
+os.environ["PATH_TO_REPO"] = "/home/ubuntu/busy_bees/lingo_kit_data"
 
 # %%
 # load in environment variable
@@ -57,7 +57,7 @@ print(len(italian_words))
 italian_words = [x for x in italian_words if 'mille' not in x]
 print(len(italian_words))
 
-#italian_words = list(reversed(italian_words))
+italian_words = list(reversed(italian_words))
 
 # %%
 blacklist = ['guardia', 'joe']

@@ -1,0 +1,31 @@
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
+dare,True,dare,to give,verb,to give,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,irregular verb; past participle 'dato'; used with auxiliary avere,Voglio dare una mano.,I want to give a hand.
+dando,False,dare,to give,verb,giving,"core,verb",,,,,gerund,,False,False,False,,,,,,Sto dando il mio contributo.,I am giving my contribution.
+dato,False,dare,to give,verb,given,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,"past participle, masculine singular",L'ho dato a te.,I gave it to you.
+data,False,dare,to give,verb,given,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,"past participle, feminine singular",La lettera è stata data.,The letter was given.
+dati,False,dare,to give,verb,given,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,"past participle, masculine plural",I documenti sono stati dati.,The documents have been given.
+date,False,dare,to give,verb,given,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,"past participle, feminine plural",Le istruzioni sono state date.,The instructions have been given.
+do,False,dare,to give,verb,I give,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,io do il mio parere.,I give my opinion.
+dai,False,dare,to give,verb,you give,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,tu dai sempre buoni consigli.,You give good advice.
+dà,False,dare,to give,verb,he gives/she gives/you (formal) give,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui dà una risposta chiara.,He gives a clear answer.
+diamo,False,dare,to give,verb,we give,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi diamo il consenso.,We give consent.
+date,False,dare,to give,verb,you (plural) give,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi date molta importanza a questo.,You (plural) give a lot of importance to this.
+danno,False,dare,to give,verb,they give,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro danno supporto ai volontari.,They give support to the volunteers.
+davo,False,dare,to give,verb,I was giving,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io davo spesso il mio aiuto.,I often gave my help.
+davi,False,dare,to give,verb,you were giving,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu davi sempre buoni esempi.,You were always giving good examples.
+dava,False,dare,to give,verb,he was giving/she was giving/you (formal) were giving,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei dava troppo credito alla voce.,She gave too much credit to the rumor.
+davamo,False,dare,to give,verb,we were giving,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi davamo il nostro tempo ai progetti.,We were giving our time to the projects.
+davate,False,dare,to give,verb,you (plural) were giving,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi davate delle risposte chiare.,You (plural) were giving clear answers.
+davano,False,dare,to give,verb,they were giving,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro davano tutto per la squadra.,They were giving everything for the team.
+dessi,False,dare,to give,verb,I gave,"core,verb",,1s,,singular,subjunctive,imperfect,False,False,False,,,,,,Temevo che io dessi segnali sbagliati.,I feared that I gave the wrong signals.
+dessi,False,dare,to give,verb,you gave,"core,verb",,2s,,singular,subjunctive,imperfect,False,False,False,,,,,,Temevo che tu dessi segnali sbagliati.,I feared that you gave the wrong signals.
+desse,False,dare,to give,verb,he gave/she gave/you (formal) gave,"core,verb",,3s,,singular,subjunctive,imperfect,False,False,False,,,,,also used as formal 'Lei',Speravo che lui desse il buon esempio.,I hoped that he would set a good example.
+dessimo,False,dare,to give,verb,we gave,"core,verb",,1p,,plural,subjunctive,imperfect,False,False,False,,,,,,Era importante che dessimo il nostro contributo.,It was important that we gave our contribution.
+deste,False,dare,to give,verb,you (plural) gave,"core,verb",,2p,,plural,subjunctive,imperfect,False,False,False,,,,,,Speravo che voi deste una mano.,I hoped that you (plural) would give a hand.
+dessero,False,dare,to give,verb,they gave,"core,verb",,3p,,plural,subjunctive,imperfect,False,False,False,,,,,,Volevo che loro dessero più attenzione.,I wanted them to give more attention.
+ho dato,False,dare,to give,verb,I have given,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'dato',Ho dato il mio consenso.,I have given my consent.
+hai dato,False,dare,to give,verb,you have given,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'dato',Hai dato tutte le informazioni.,You have given all the information.
+ha dato,False,dare,to give,verb,he has given/she has given/you (formal) have given,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha dato la sua approvazione.,He has given his approval.
+abbiamo dato,False,dare,to give,verb,we have given,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'dato',Abbiamo dato il via al progetto.,We have given the go-ahead to the project.
+avete dato,False,dare,to give,verb,you (plural) have given,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'dato',Avete dato ottimi risultati.,You (plural) have given excellent results.
+hanno dato,False,dare,to give,verb,they have given,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'dato',Hanno dato il loro contributo.,They have given their contribution.
