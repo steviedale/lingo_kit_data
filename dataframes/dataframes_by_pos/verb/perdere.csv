@@ -1,25 +1,25 @@
-term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-perdere,True,perdere,to lose,verb,to lose,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -ere verb; past participle 'perso' (var. persa/persi/perse),Non voglio perdere tempo.,I do not want to lose time.
-perdendo,False,perdere,to lose,verb,losing,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto perdendo la pazienza.,I am losing patience.
-perso,False,perdere,to lose,verb,lost,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,participle; used with auxiliary avere,L'ho perso.,I lost it.
-persa,False,perdere,to lose,verb,lost,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,participle; used with auxiliary avere,L'ho persa.,I lost it.
-persi,False,perdere,to lose,verb,lost,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,participle; used with auxiliary avere,Li ho persi.,I lost them.
-perse,False,perdere,to lose,verb,lost,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,participle; used with auxiliary avere,Le ho perse.,I lost them.
-perdo,False,perdere,to lose,verb,I lose,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Perdo spesso le chiavi.,I often lose my keys.
-perdi,False,perdere,to lose,verb,you lose,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Perdi il treno.,You lose the train.
-perde,False,perdere,to lose,verb,he loses/she loses/you (formal) lose,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui perde sempre.,He always loses.
-perdiamo,False,perdere,to lose,verb,we lose,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Perdiamo tempo.,We lose time.
-perdete,False,perdere,to lose,verb,you (plural) lose,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Perdete l'autobus.,You (plural) miss the bus.
-perdono,False,perdere,to lose,verb,they lose,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Perdono spesso le cose.,They often lose things.
-perdevo,False,perdere,to lose,verb,I was losing,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Perdevo sempre il treno.,I used to lose the train.
-perdevi,False,perdere,to lose,verb,you were losing,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu perdevi il biglietto.,You were losing the ticket.
-perdeva,False,perdere,to lose,verb,he was losing/she was losing/you (formal) were losing,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei perdeva tempo.,She was wasting time.
-perdevamo,False,perdere,to lose,verb,we were losing,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Perdevamo molte opportunità.,We were losing many opportunities.
-perdevate,False,perdere,to lose,verb,you (plural) were losing,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Perdevate spesso le chiavi.,You (plural) used to lose the keys.
-perdevano,False,perdere,to lose,verb,they were losing,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Perdevano il controllo.,They were losing control.
-ho perso,False,perdere,to lose,verb,I have lost,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'perso',Ho perso le chiavi.,I have lost the keys.
-hai perso,False,perdere,to lose,verb,you have lost,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'perso',Hai perso il biglietto.,You have lost the ticket.
-ha perso,False,perdere,to lose,verb,he has lost/she has lost/you (formal) have lost,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha perso il treno.,He has missed the train.
-abbiamo perso,False,perdere,to lose,verb,we have lost,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Abbiamo perso l'occasione.,We have missed the opportunity.
-avete perso,False,perdere,to lose,verb,you (plural) have lost,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Avete perso la partita.,You (plural) have lost the match.
-hanno perso,False,perdere,to lose,verb,they have lost,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hanno perso i documenti.,They have lost the documents.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english,pronunciation
+perdere,True,perdere,to lose,verb,to lose,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,regular -ere verb; past participle 'perso' (var. persa/persi/perse),Non voglio perdere tempo.,I do not want to lose time.,pehr-DEH-reh
+perdendo,False,perdere,to lose,verb,losing,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto perdendo la pazienza.,I am losing patience.,pehr-DEHN-doh
+perso,False,perdere,to lose,verb,lost,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,participle; used with auxiliary avere,L'ho perso.,I lost it.,PEHR-soh
+persa,False,perdere,to lose,verb,lost,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,participle; used with auxiliary avere,L'ho persa.,I lost it.,PEHR-sah
+persi,False,perdere,to lose,verb,lost,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,participle; used with auxiliary avere,Li ho persi.,I lost them.,PEHR-see
+perse,False,perdere,to lose,verb,lost,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,participle; used with auxiliary avere,Le ho perse.,I lost them.,PEHR-seh
+perdo,False,perdere,to lose,verb,I lose,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Perdo spesso le chiavi.,I often lose my keys.,PEHR-doh
+perdi,False,perdere,to lose,verb,you lose,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Perdi il treno.,You lose the train.,PEHR-dee
+perde,False,perdere,to lose,verb,he loses/she loses/you (formal) lose,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui perde sempre.,He always loses.,PEHR-deh
+perdiamo,False,perdere,to lose,verb,we lose,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Perdiamo tempo.,We lose time.,pehr-DEEAH-moh
+perdete,False,perdere,to lose,verb,you (plural) lose,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Perdete l'autobus.,You (plural) miss the bus.,pehr-DEH-teh
+perdono,False,perdere,to lose,verb,they lose,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Perdono spesso le cose.,They often lose things.,pehr-DOH-noh
+perdevo,False,perdere,to lose,verb,I was losing,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Perdevo sempre il treno.,I used to lose the train.,pehr-DEH-voh
+perdevi,False,perdere,to lose,verb,you were losing,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu perdevi il biglietto.,You were losing the ticket.,pehr-DEH-vee
+perdeva,False,perdere,to lose,verb,he was losing/she was losing/you (formal) were losing,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei perdeva tempo.,She was wasting time.,pehr-DEH-vah
+perdevamo,False,perdere,to lose,verb,we were losing,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Perdevamo molte opportunità.,We were losing many opportunities.,pehr-deh-VAH-moh
+perdevate,False,perdere,to lose,verb,you (plural) were losing,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Perdevate spesso le chiavi.,You (plural) used to lose the keys.,pehr-deh-VAH-teh
+perdevano,False,perdere,to lose,verb,they were losing,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Perdevano il controllo.,They were losing control.,pehr-deh-VAH-noh
+ho perso,False,perdere,to lose,verb,I have lost,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'perso',Ho perso le chiavi.,I have lost the keys.,OH PEHR-soh
+hai perso,False,perdere,to lose,verb,you have lost,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'perso',Hai perso il biglietto.,You have lost the ticket.,AHEE PEHR-soh
+ha perso,False,perdere,to lose,verb,he has lost/she has lost/you (formal) have lost,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha perso il treno.,He has missed the train.,AH PEHR-soh
+abbiamo perso,False,perdere,to lose,verb,we have lost,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Abbiamo perso l'occasione.,We have missed the opportunity.,ahb-BEEAH-moh PEHR-soh
+avete perso,False,perdere,to lose,verb,you (plural) have lost,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Avete perso la partita.,You (plural) have lost the match.,ah-VEH-teh PEHR-soh
+hanno perso,False,perdere,to lose,verb,they have lost,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hanno perso i documenti.,They have lost the documents.,AHN-noh PEHR-soh

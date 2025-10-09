@@ -1,26 +1,26 @@
-term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-dire,True,dire,to say,verb,to say,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,irregular verb; past participle 'detto'; passato remoto stem 'dic-',Voglio dire la verità.,I want to say the truth.
-dicendo,False,dire,to say,verb,saying,"core,verb",,,,,gerund,,False,False,False,,,,,,Sto dicendo la verità.,I am saying the truth.
-detto,False,dire,to say,verb,said,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle (masculine singular),L'ho detto.,I have said it.
-detta,False,dire,to say,verb,said,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle (feminine singular),La frase detta era breve.,The sentence said was short.
-detti,False,dire,to say,verb,said,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle (masculine plural),I consigli detti erano utili.,The pieces of advice said were useful.
-dette,False,dire,to say,verb,said,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle (feminine plural),Le parole dette restano.,The words said remain.
-dico,False,dire,to say,verb,I say,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io dico la verità.,I say the truth.
-dici,False,dire,to say,verb,you say,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu dici sempre così.,You always say so.
-dice,False,dire,to say,verb,he says/she says/you (formal) say,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui dice la verità.,He says the truth.
-diciamo,False,dire,to say,verb,we say,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi diciamo la verità.,We say the truth.
-dite,False,dire,to say,verb,you (plural) say,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi dite la verità.,You (plural) say the truth.
-dicono,False,dire,to say,verb,they say,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro dicono la verità.,They say the truth.
-dicevo,False,dire,to say,verb,I was saying,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io dicevo sempre così.,I was always saying that.
-dicevi,False,dire,to say,verb,you were saying,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu dicevi bugie.,You were saying lies.
-diceva,False,dire,to say,verb,he was saying/she was saying/you (formal) were saying,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei diceva la verità.,She was saying the truth.
-dicevamo,False,dire,to say,verb,we were saying,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi dicevamo la verità.,We were saying the truth.
-dicevate,False,dire,to say,verb,you (plural) were saying,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi dicevate la verità.,You (plural) were saying the truth.
-dicevano,False,dire,to say,verb,they were saying,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro dicevano sempre così.,They were always saying that.
-ho detto,False,dire,to say,verb,I have said,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'detto',Ho detto la verità.,I have said the truth.
-hai detto,False,dire,to say,verb,you have said,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'detto',Hai detto la verità.,You have said the truth.
-ha detto,False,dire,to say,verb,he has said/she has said/you (formal) have said,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei'; past participle 'detto',Ha detto tutto.,He has said everything.
-abbiamo detto,False,dire,to say,verb,we have said,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'detto',Abbiamo detto la verità.,We have said the truth.
-avete detto,False,dire,to say,verb,you (plural) have said,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'detto',Avete detto la verità.,You (plural) have said the truth.
-hanno detto,False,dire,to say,verb,they have said,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'detto',Hanno detto la verità.,They have said the truth.
-dicemmo,False,dire,to say,verb,we said,"core,verb",,1p,,plural,indicative,passato remoto,False,False,False,,,,,passato remoto (1st person plural) irregular stem 'dic-',Dicemmo la verità.,We said the truth.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english,pronunciation
+dire,True,dire,to say,verb,to say,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,irregular verb; past participle 'detto'; passato remoto stem 'dic-',Voglio dire la verità.,I want to say the truth.,DEE-reh
+dicendo,False,dire,to say,verb,saying,"core,verb",,,,,gerund,,False,False,False,,,,,,Sto dicendo la verità.,I am saying the truth.,dee-CHEHN-doh
+detto,False,dire,to say,verb,said,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle (masculine singular),L'ho detto.,I have said it.,DEHT-toh
+detta,False,dire,to say,verb,said,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,past participle (feminine singular),La frase detta era breve.,The sentence said was short.,DEHT-tah
+detti,False,dire,to say,verb,said,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,past participle (masculine plural),I consigli detti erano utili.,The pieces of advice said were useful.,DEHT-tee
+dette,False,dire,to say,verb,said,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,past participle (feminine plural),Le parole dette restano.,The words said remain.,DEHT-teh
+dico,False,dire,to say,verb,I say,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io dico la verità.,I say the truth.,DEE-coh
+dici,False,dire,to say,verb,you say,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu dici sempre così.,You always say so.,DEE-chee
+dice,False,dire,to say,verb,he says/she says/you (formal) say,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui dice la verità.,He says the truth.,DEE-cheh
+diciamo,False,dire,to say,verb,we say,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi diciamo la verità.,We say the truth.,dee-CHEEAH-moh
+dite,False,dire,to say,verb,you (plural) say,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi dite la verità.,You (plural) say the truth.,DEE-teh
+dicono,False,dire,to say,verb,they say,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro dicono la verità.,They say the truth.,dee-COH-noh
+dicevo,False,dire,to say,verb,I was saying,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io dicevo sempre così.,I was always saying that.,dee-CHEH-voh
+dicevi,False,dire,to say,verb,you were saying,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu dicevi bugie.,You were saying lies.,dee-CHEH-vee
+diceva,False,dire,to say,verb,he was saying/she was saying/you (formal) were saying,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei diceva la verità.,She was saying the truth.,dee-CHEH-vah
+dicevamo,False,dire,to say,verb,we were saying,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi dicevamo la verità.,We were saying the truth.,dee-cheh-VAH-moh
+dicevate,False,dire,to say,verb,you (plural) were saying,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi dicevate la verità.,You (plural) were saying the truth.,dee-cheh-VAH-teh
+dicevano,False,dire,to say,verb,they were saying,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro dicevano sempre così.,They were always saying that.,dee-cheh-VAH-noh
+ho detto,False,dire,to say,verb,I have said,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'detto',Ho detto la verità.,I have said the truth.,OH DEHT-toh
+hai detto,False,dire,to say,verb,you have said,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'detto',Hai detto la verità.,You have said the truth.,AHEE DEHT-toh
+ha detto,False,dire,to say,verb,he has said/she has said/you (formal) have said,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei'; past participle 'detto',Ha detto tutto.,He has said everything.,AH DEHT-toh
+abbiamo detto,False,dire,to say,verb,we have said,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'detto',Abbiamo detto la verità.,We have said the truth.,ahb-BEEAH-moh DEHT-toh
+avete detto,False,dire,to say,verb,you (plural) have said,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'detto',Avete detto la verità.,You (plural) have said the truth.,ah-VEH-teh DEHT-toh
+hanno detto,False,dire,to say,verb,they have said,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'detto',Hanno detto la verità.,They have said the truth.,AHN-noh DEHT-toh
+dicemmo,False,dire,to say,verb,we said,"core,verb",,1p,,plural,indicative,passato remoto,False,False,False,,,,,passato remoto (1st person plural) irregular stem 'dic-',Dicemmo la verità.,We said the truth.,dee-CHEHM-moh

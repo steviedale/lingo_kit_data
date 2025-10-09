@@ -1,26 +1,26 @@
-term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-vivere,True,vivere,to live,verb,to live,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,irregular past participle 'vissuto'; used with auxiliary avere,Vivere è un dono.,To live is a gift.
-vivendo,False,vivere,to live,verb,living,"core,verb",,,,,gerund,,False,False,False,,,,,,Sto vivendo un sogno.,I am living a dream.
-vissuto,False,vivere,to live,verb,lived,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,"past participle, irregular 'vissuto'",Ho vissuto molto.,I have lived a lot.
-vissuta,False,vivere,to live,verb,lived,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,,L'ho vissuta.,I lived through it.
-vissuti,False,vivere,to live,verb,lived,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,,Anni vissuti insieme.,Years lived together.
-vissute,False,vivere,to live,verb,lived,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,,Esperienze vissute intensamente.,Experiences lived intensely.
-vivo,False,vivere,to live,verb,I live,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io vivo in Italia.,I live in Italy.
-vivi,False,vivere,to live,verb,you live,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,also used as imperative,Tu vivi qui.,You live here.
-vivi,False,vivere,to live,verb,live!,"core,verb",,2s,,singular,imperative,,False,False,False,,,,,,Vivi ogni giorno.,Live every day.
-vive,False,vivere,to live,verb,he lives/she lives/you (formal) live,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui vive a Milano.,He lives in Milan.
-viviamo,False,vivere,to live,verb,we live,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi viviamo bene.,We live well.
-vivete,False,vivere,to live,verb,you (plural) live,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi vivete lontano.,You live far away.
-vivono,False,vivere,to live,verb,they live,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro vivono insieme.,They live together.
-vivevo,False,vivere,to live,verb,I used to live,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io vivevo in campagna.,I used to live in the countryside.
-vivevi,False,vivere,to live,verb,you used to live,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu vivevi qui.,You used to live here.
-viveva,False,vivere,to live,verb,he used to live/she used to live/you (formal) used to live,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei viveva in città.,She used to live in the city.
-vivevamo,False,vivere,to live,verb,we used to live,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi vivevamo insieme.,We used to live together.
-vivevate,False,vivere,to live,verb,you (plural) used to live,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi vivevate lì.,You used to live there.
-vivevano,False,vivere,to live,verb,they used to live,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro vivevano in periferia.,They used to live in the suburbs.
-ho vissuto,False,vivere,to live,verb,I have lived,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'vissuto',Ho vissuto un'esperienza unica.,I have had a unique experience.
-hai vissuto,False,vivere,to live,verb,you have lived,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,,Hai vissuto qui?,Have you lived here?
-ha vissuto,False,vivere,to live,verb,he has lived/she has lived/you (formal) have lived,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha vissuto a Roma.,He has lived in Rome.
-abbiamo vissuto,False,vivere,to live,verb,we have lived,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,,Abbiamo vissuto insieme.,We have lived together.
-avete vissuto,False,vivere,to live,verb,you (plural) have lived,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,,Avete vissuto bene.,You have lived well.
-hanno vissuto,False,vivere,to live,verb,they have lived,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,,Hanno vissuto qui per anni.,They have lived here for years.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english,pronunciation
+vivere,True,vivere,to live,verb,to live,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,irregular past participle 'vissuto'; used with auxiliary avere,Vivere è un dono.,To live is a gift.,vee-VEH-reh
+vivendo,False,vivere,to live,verb,living,"core,verb",,,,,gerund,,False,False,False,,,,,,Sto vivendo un sogno.,I am living a dream.,vee-VEHN-doh
+vissuto,False,vivere,to live,verb,lived,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,"past participle, irregular 'vissuto'",Ho vissuto molto.,I have lived a lot.,vees-SOO-toh
+vissuta,False,vivere,to live,verb,lived,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,,L'ho vissuta.,I lived through it.,vees-SOO-tah
+vissuti,False,vivere,to live,verb,lived,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,,Anni vissuti insieme.,Years lived together.,vees-SOO-tee
+vissute,False,vivere,to live,verb,lived,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,,Esperienze vissute intensamente.,Experiences lived intensely.,vees-SOO-teh
+vivo,False,vivere,to live,verb,I live,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io vivo in Italia.,I live in Italy.,VEE-voh
+vivi,False,vivere,to live,verb,you live,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,also used as imperative,Tu vivi qui.,You live here.,VEE-vee
+vivi,False,vivere,to live,verb,live!,"core,verb",,2s,,singular,imperative,,False,False,False,,,,,,Vivi ogni giorno.,Live every day.,VEE-vee
+vive,False,vivere,to live,verb,he lives/she lives/you (formal) live,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui vive a Milano.,He lives in Milan.,VEE-veh
+viviamo,False,vivere,to live,verb,we live,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi viviamo bene.,We live well.,vee-VEEAH-moh
+vivete,False,vivere,to live,verb,you (plural) live,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi vivete lontano.,You live far away.,vee-VEH-teh
+vivono,False,vivere,to live,verb,they live,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro vivono insieme.,They live together.,vee-VOH-noh
+vivevo,False,vivere,to live,verb,I used to live,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io vivevo in campagna.,I used to live in the countryside.,vee-VEH-voh
+vivevi,False,vivere,to live,verb,you used to live,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu vivevi qui.,You used to live here.,vee-VEH-vee
+viveva,False,vivere,to live,verb,he used to live/she used to live/you (formal) used to live,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei viveva in città.,She used to live in the city.,vee-VEH-vah
+vivevamo,False,vivere,to live,verb,we used to live,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi vivevamo insieme.,We used to live together.,vee-veh-VAH-moh
+vivevate,False,vivere,to live,verb,you (plural) used to live,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi vivevate lì.,You used to live there.,vee-veh-VAH-teh
+vivevano,False,vivere,to live,verb,they used to live,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro vivevano in periferia.,They used to live in the suburbs.,vee-veh-VAH-noh
+ho vissuto,False,vivere,to live,verb,I have lived,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; past participle 'vissuto',Ho vissuto un'esperienza unica.,I have had a unique experience.,OH vees-SOO-toh
+hai vissuto,False,vivere,to live,verb,you have lived,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,,Hai vissuto qui?,Have you lived here?,AHEE vees-SOO-toh
+ha vissuto,False,vivere,to live,verb,he has lived/she has lived/you (formal) have lived,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha vissuto a Roma.,He has lived in Rome.,AH vees-SOO-toh
+abbiamo vissuto,False,vivere,to live,verb,we have lived,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,,Abbiamo vissuto insieme.,We have lived together.,ahb-BEEAH-moh vees-SOO-toh
+avete vissuto,False,vivere,to live,verb,you (plural) have lived,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,,Avete vissuto bene.,You have lived well.,ah-VEH-teh vees-SOO-toh
+hanno vissuto,False,vivere,to live,verb,they have lived,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,,Hanno vissuto qui per anni.,They have lived here for years.,AHN-noh vees-SOO-toh

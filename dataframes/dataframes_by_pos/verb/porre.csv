@@ -1,25 +1,25 @@
-term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english
-porre,True,porre,to put,verb,to put,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,irregular verb; used with auxiliary avere,Devo porre una domanda.,I must ask a question.
-ponendo,False,porre,to put,verb,putting,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto ponendo una questione.,I am raising a question.
-posto,False,porre,to put,verb,placed,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle used as adjective or in compound tenses,L'oggetto è posto qui.,The object is placed here.
-posta,False,porre,to put,verb,placed,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,feminine past participle,La scatola è posta sul tavolo.,The box is placed on the table.
-posti,False,porre,to put,verb,placed,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,masculine plural past participle,I libri sono posti sullo scaffale.,The books are placed on the shelf.
-poste,False,porre,to put,verb,placed,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,feminine plural past participle,Le lettere sono poste sulla scrivania.,The letters are placed on the desk.
-pongo,False,porre,to put,verb,I put,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io pongo una domanda.,I ask a question.
-poni,False,porre,to put,verb,you put,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu poni una domanda.,You ask a question.
-pone,False,porre,to put,verb,he puts/she puts/you (formal) put,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui pone una condizione.,He places a condition.
-poniamo,False,porre,to put,verb,we put,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi poniamo le regole.,We set the rules.
-ponete,False,porre,to put,verb,you (plural) put,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi ponete attenzione.,You pay attention.
-pongono,False,porre,to put,verb,they put,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro pongono i libri.,They place the books.
-ponevo,False,porre,to put,verb,I was putting,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io ponevo molte domande.,I was asking many questions.
-ponevi,False,porre,to put,verb,you were putting,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu ponevi obiezioni.,You were raising objections.
-poneva,False,porre,to put,verb,he was putting/she was putting/you (formal) were putting,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei poneva sempre dubbi.,She always raised doubts.
-ponevamo,False,porre,to put,verb,we were putting,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi ponevamo attenzione.,We were paying attention.
-ponevate,False,porre,to put,verb,you (plural) were putting,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi ponevate le basi.,You were establishing the foundations.
-ponevano,False,porre,to put,verb,they were putting,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro ponevano le regole.,They were setting the rules.
-ho posto,False,porre,to put,verb,I have put,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Ho posto la domanda.,I have asked the question.
-hai posto,False,porre,to put,verb,you have put,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hai posto il libro sul tavolo.,You have put the book on the table.
-ha posto,False,porre,to put,verb,he has put/she has put/you (formal) have put,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha posto una condizione.,He has set a condition.
-abbiamo posto,False,porre,to put,verb,we have put,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Abbiamo posto le basi.,We have laid the foundations.
-avete posto,False,porre,to put,verb,you (plural) have put,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Avete posto le sedie.,You have placed the chairs.
-hanno posto,False,porre,to put,verb,they have put,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hanno posto fine alla discussione.,They have put an end to the discussion.
+term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,translation_english,topics,subtype,person_number,gender,plurality,mood,tense,is_comparative,is_superlative,is_compound,article_type,article_italian,added_particle_italian,preposition,notes,example_sentence_italian,example_sentence_english,pronunciation
+porre,True,porre,to put,verb,to put,"core,verb",,,,,non-finite,infinitive,False,False,False,,,,,irregular verb; used with auxiliary avere,Devo porre una domanda.,I must ask a question.,POHR-reh
+ponendo,False,porre,to put,verb,putting,"core,verb",,,,,gerund,,False,False,False,,,,,gerund form,Sto ponendo una questione.,I am raising a question.,poh-NEHN-doh
+posto,False,porre,to put,verb,placed,"core,verb",,,masculine,singular,participle,past,False,False,False,,,,,past participle used as adjective or in compound tenses,L'oggetto è posto qui.,The object is placed here.,POH-stoh
+posta,False,porre,to put,verb,placed,"core,verb",,,feminine,singular,participle,past,False,False,False,,,,,feminine past participle,La scatola è posta sul tavolo.,The box is placed on the table.,POH-stah
+posti,False,porre,to put,verb,placed,"core,verb",,,masculine,plural,participle,past,False,False,False,,,,,masculine plural past participle,I libri sono posti sullo scaffale.,The books are placed on the shelf.,POH-stee
+poste,False,porre,to put,verb,placed,"core,verb",,,feminine,plural,participle,past,False,False,False,,,,,feminine plural past participle,Le lettere sono poste sulla scrivania.,The letters are placed on the desk.,POH-steh
+pongo,False,porre,to put,verb,I put,"core,verb",,1s,,singular,indicative,present,False,False,False,,,,,,Io pongo una domanda.,I ask a question.,POHN-goh
+poni,False,porre,to put,verb,you put,"core,verb",,2s,,singular,indicative,present,False,False,False,,,,,,Tu poni una domanda.,You ask a question.,POH-nee
+pone,False,porre,to put,verb,he puts/she puts/you (formal) put,"core,verb",,3s,,singular,indicative,present,False,False,False,,,,,also used as formal 'Lei',Lui pone una condizione.,He places a condition.,POH-neh
+poniamo,False,porre,to put,verb,we put,"core,verb",,1p,,plural,indicative,present,False,False,False,,,,,,Noi poniamo le regole.,We set the rules.,poh-NEEAH-moh
+ponete,False,porre,to put,verb,you (plural) put,"core,verb",,2p,,plural,indicative,present,False,False,False,,,,,,Voi ponete attenzione.,You pay attention.,poh-NEH-teh
+pongono,False,porre,to put,verb,they put,"core,verb",,3p,,plural,indicative,present,False,False,False,,,,,,Loro pongono i libri.,They place the books.,pohn-GOH-noh
+ponevo,False,porre,to put,verb,I was putting,"core,verb",,1s,,singular,indicative,imperfect,False,False,False,,,,,,Io ponevo molte domande.,I was asking many questions.,poh-NEH-voh
+ponevi,False,porre,to put,verb,you were putting,"core,verb",,2s,,singular,indicative,imperfect,False,False,False,,,,,,Tu ponevi obiezioni.,You were raising objections.,poh-NEH-vee
+poneva,False,porre,to put,verb,he was putting/she was putting/you (formal) were putting,"core,verb",,3s,,singular,indicative,imperfect,False,False,False,,,,,also used as formal 'Lei',Lei poneva sempre dubbi.,She always raised doubts.,poh-NEH-vah
+ponevamo,False,porre,to put,verb,we were putting,"core,verb",,1p,,plural,indicative,imperfect,False,False,False,,,,,,Noi ponevamo attenzione.,We were paying attention.,poh-neh-VAH-moh
+ponevate,False,porre,to put,verb,you (plural) were putting,"core,verb",,2p,,plural,indicative,imperfect,False,False,False,,,,,,Voi ponevate le basi.,You were establishing the foundations.,poh-neh-VAH-teh
+ponevano,False,porre,to put,verb,they were putting,"core,verb",,3p,,plural,indicative,imperfect,False,False,False,,,,,,Loro ponevano le regole.,They were setting the rules.,poh-neh-VAH-noh
+ho posto,False,porre,to put,verb,I have put,"core,verb",,1s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Ho posto la domanda.,I have asked the question.,OH POH-stoh
+hai posto,False,porre,to put,verb,you have put,"core,verb",,2s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hai posto il libro sul tavolo.,You have put the book on the table.,AHEE POH-stoh
+ha posto,False,porre,to put,verb,he has put/she has put/you (formal) have put,"core,verb",,3s,,singular,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere; also used as formal 'Lei',Ha posto una condizione.,He has set a condition.,AH POH-stoh
+abbiamo posto,False,porre,to put,verb,we have put,"core,verb",,1p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Abbiamo posto le basi.,We have laid the foundations.,ahb-BEEAH-moh POH-stoh
+avete posto,False,porre,to put,verb,you (plural) have put,"core,verb",,2p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Avete posto le sedie.,You have placed the chairs.,ah-VEH-teh POH-stoh
+hanno posto,False,porre,to put,verb,they have put,"core,verb",,3p,,plural,indicative,passato prossimo,False,False,True,,,,,used with auxiliary avere,Hanno posto fine alla discussione.,They have put an end to the discussion.,AHN-noh POH-stoh
