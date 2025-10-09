@@ -2,9 +2,6 @@ term_italian,is_base,base_lemma_italian,base_lemma_english,part_of_speech,transl
 nulla,True,nulla,nothing,noun,nothing,"core,negation",,,masculine,singular,,,False,False,False,,,,,abstract mass noun; masculine despite ending in -a,Nulla mi spaventa.,Nothing scares me.
 un nulla,False,nulla,nothing,noun,a nothing,"core,negation",,,masculine,singular,,,False,False,False,indefinite,un,un,,rare; used figuratively as 'a nobody',Mi sento un nulla.,I feel like a nobody.
 il nulla,False,nulla,nothing,noun,the nothing,"core,negation",,,masculine,singular,,,False,False,False,definite,il,il,,definite article form for the abstract noun,Il nulla è inquietante.,Nothingness is unsettling.
-,False,nulla,nothing,noun,,"core,negation",,,masculine,plural,,,False,False,False,,,,,no plural form; invariable abstract noun,,
-,False,nulla,nothing,noun,,"core,negation",,,masculine,plural,,,False,False,False,definite,i,i,,no plural; use singular forms,,
-,False,nulla,nothing,noun,,"core,negation",,,masculine,plural,,,False,False,False,partitive,dei,dei,di,no plural; use 'del nulla' for partitive/unspecified quantity,,
 del nulla,False,nulla,nothing,noun,of the nothing,"core,negation",,,masculine,singular,,,False,False,False,articulated_preposition,il,del,di,contraction of di + il; abstract noun,Parliamo del nulla.,We talk about nothing.
 al nulla,False,nulla,nothing,noun,to the nothing,"core,negation",,,masculine,singular,,,False,False,False,articulated_preposition,il,al,a,contraction of a + il; abstract noun,Questa idea conduce al nulla.,This idea leads to nothingness.
 dal nulla,False,nulla,nothing,noun,from the nothing,"core,negation",,,masculine,singular,,,False,False,False,articulated_preposition,il,dal,da,contraction of da + il; abstract noun,È nato dal nulla.,He was born out of nothing.
