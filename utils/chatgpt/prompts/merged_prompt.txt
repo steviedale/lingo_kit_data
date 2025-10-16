@@ -26,7 +26,7 @@ If a field is not applicable, write n/a (for booleans, write false).
 
 Use lowercase true/false consistently.
 
-Provide natural, everyday example sentences in Italian + English for each row’s exact form.
+Provide natural, everyday example sentences in Italian + English for each row's exact form.
 
 Use the same topics string for all rows of the same base lemma.
 
@@ -79,9 +79,9 @@ gender: masculine, feminine, n/a
 plurality: singular, plural, n/a
 mood,tense: only for verbs; otherwise n/a
 is_comparative,is_superlative: only for adverbs (else false)
-is_compound: true only for verbs’ compound forms (else false)
+is_compound: true only for verbs' compound forms (else false)
 article_type,article_italian,added_particle_italian,preposition: used for noun rows (else n/a)
-notes: short clarifications (e.g., “irregular plural”, “also ‘you (formal)’”, “contraction of con + il”).
+notes: short clarifications (e.g., “irregular plural”, “also ‘you (formal)'”, “contraction of con + il”).
 example_sentence_italian / example_sentence_english: short and natural; must match term_italian.
 
 3) POS-specific generation rules
@@ -135,9 +135,9 @@ Always include at least:
 
 Bare lemma (singular, no article).
 
-Indefinite singular (un/uno/una/un’).
+Indefinite singular (un/uno/una/un').
 
-Definite singular (il/lo/la/l’).
+Definite singular (il/lo/la/l').
 
 Bare plural.
 
@@ -177,7 +177,7 @@ Only add gender labels to translation_english when a noun lemma includes both ma
 - When only one gender exists for the lemma (only masculine or only feminine): do not append any gender label to translation_english.
 - Do not include the word “plural” in noun labels; use just “(masculine)” or “(feminine)”. This differs from adjectives, which include plural in the label.
 - If gender is n/a (invariable/epicene nouns), do not add a label.
-- Keep base_lemma_english ungendered and identical across the lemma’s rows.
+- Keep base_lemma_english ungendered and identical across the lemma's rows.
 
 G) Preposition
 

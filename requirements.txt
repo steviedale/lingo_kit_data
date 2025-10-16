@@ -9,3 +9,4 @@ boto3
 rapidfuzz
 openai
 filelock
+spacy
