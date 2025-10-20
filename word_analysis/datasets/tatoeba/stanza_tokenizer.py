@@ -8,6 +8,7 @@ stanza.download("it")  # once
 
 
 def get_token_hash(term, lemma, pos):
+    
     return str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{term}-{lemma}-{pos}"))
 
 def get_group_hash(lemma, pos):
