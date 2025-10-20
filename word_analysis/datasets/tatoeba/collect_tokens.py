@@ -46,6 +46,7 @@ def sanity_check(text):
     return text
 
 # %%
+plotting_data = []
 data = {}
 for i, (_, row) in enumerate(tqdm(df.iterrows(), total=len(df))):
     # normalize text
@@ -76,6 +77,8 @@ for i, (_, row) in enumerate(tqdm(df.iterrows(), total=len(df))):
             data[token_hash]['sentences'].add(row['hash'])
     if i % 1000 == 0:
         print(f"tokens: {len(data)}")
+        plotting_data.append((i // 1000, len(data)))
+        print(plotting_data)
 
 
 # %%
