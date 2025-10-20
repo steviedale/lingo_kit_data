@@ -33,7 +33,7 @@ assert(os.path.exists('token_data'))
 # print(f"Total rows: {len(df)}")
 
 # %%
-def normalize(text):
+def sanity_check(text):
     assert(text.lower() == text), f"Text is not lowercase: {text}"
     assert(text.strip() == text), f"Text is not stripped: '{text}'"
     bad_chars = {
@@ -43,18 +43,21 @@ def normalize(text):
     }
     for bad_c, good_c in bad_chars.items():
         assert(bad_c not in text), f"Text contains bad character {bad_c}: {text}"
-    # text = text.lower()
-    # text = text.replace("’", "'")
-    # text = text.replace("“", '"').replace("”", '"')
-    # text = text.strip()
     return text
 
 # %%
 data = {}
 for i, (_, row) in enumerate(tqdm(df.iterrows(), total=len(df))):
+    # normalize text
+    text = row['text_it']
+    text = text.lower()
+    text = text.replace("’", "'")
+    text = text.replace("“", '"').replace("”", '"')
+    text = text.strip()
+
     tokens = tokenizer.tokenize(row['text_it'])
     for token in tokens:
-        text = normalize(token['text'])
+        text = sanity_check(token['text'])
         token_hash = token['token_hash']
         group_hash = token['group_hash']
         if token_hash not in data:
