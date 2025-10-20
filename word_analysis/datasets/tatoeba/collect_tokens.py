@@ -68,7 +68,8 @@ for _, row in tqdm(df.iterrows(), total=len(df)):
                 'group_hash': group_hash,
             }
         data[token_hash]['count'] += 1
-        data[token_hash]['sentences'].add(row['hash'])
+        if len(data[token_hash]['sentences']) < 20:
+            data[token_hash]['sentences'].add(row['hash'])
 
 # %%
 token_df_data = {'token_hash': [], 'text': [], 'lemma': [], 'pos': [], 'xpos': [], 'deprel': [], 'count': [], 'sentences': [], 'group_hash': []}
