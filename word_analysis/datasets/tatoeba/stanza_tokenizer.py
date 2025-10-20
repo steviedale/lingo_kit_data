@@ -8,7 +8,7 @@ stanza.download("it")  # once
 
 
 def get_token_hash(term, lemma, pos):
-    
+
     return str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{term}-{lemma}-{pos}"))
 
 def get_group_hash(lemma, pos):
@@ -34,6 +34,7 @@ class StanzaTokenizer:
                         "xpos": word.xpos,
                         "head": word.head,
                         "deprel": word.deprel,
+                        "feats": word.feats,
                         "vector": None,  # Stanza does not provide word vectors
                         "token_hash": get_token_hash(text, lemma, word.upos),
                         "group_hash": get_group_hash(lemma, word.upos),

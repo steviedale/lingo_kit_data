@@ -14,16 +14,13 @@ from stanza_tokenizer import StanzaTokenizer
 tokenizer = StanzaTokenizer()
 
 # %%
-# path = '/Users/stevie/repos/lingo_kit_combined/lingo_kit_data/word_analysis/datasets/tatoeba/dataframe.tsv'
 path = 'dataframe.tsv'
 df = pd.read_csv(path, sep='\t')
 len(df), df.columns
 
-# save_path = f'/Users/stevie/repos/lingo_kit_combined/lingo_kit_data/word_analysis/datasets/tatoeba//token_data_{start_i}_{end_i}.tsv'
-# save_path = f'/Users/stevie/repos/lingo_kit_combined/lingo_kit_data/word_analysis/datasets/tatoeba/token_data/token_data_all.tsv'
+# %%
 save_path = f'token_data/token_data_all.tsv'
-#assert(os.path.exists(os.dirname(save_path))), f"Directory does not exist: {os.path.dirname(save_path)}"
-assert(os.path.exists('token_data'))
+assert(os.path.exists(os.path.dirname(save_path))), f"Directory does not exist: {os.path.dirname(save_path)}"
 
 # %%
 # start_i = 180000
