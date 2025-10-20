@@ -41,6 +41,7 @@ for chunk_i in range(n):
     chunk_df = df.iloc[start_index:end_index]
     print(f"Processing chunk {chunk_i+1}/{n}, rows {start_index} to {end_index}...")
 
+    ### Token Step ###
     data = {}
     for i, (_, row) in enumerate(tqdm(chunk_df.iterrows(), total=len(chunk_df))):
         # normalize text
@@ -72,7 +73,8 @@ for chunk_i in range(n):
             data[token_hash]['count'] += 1
             if len(data[token_hash]['sentences']) < 20:
                 data[token_hash]['sentences'].add(row['hash'])
-    
+
+    ### Dataframe Step ###
     token_df_data = {'token_hash': [], 'text': [], 'lemma': [], 'pos': [], 'xpos': [], 'deprel': [], 'feats': [], 'count': [], 'sentences': [], 'group_hash': []}
     for token_hash, info in data.items():
         if info['pos'] == 'PUNCT' or info['pos'] == "PROPN":
@@ -92,14 +94,3 @@ for chunk_i in range(n):
     if not os.path.exists(os.path.dirname(save_path)):
         os.makedirs(os.path.dirname(save_path))
     token_df.to_csv(save_path, sep='\t', index=False)
-
-# %%
-
-
-# %%
-
-
-# %%
-
-
-
