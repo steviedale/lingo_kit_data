@@ -43,7 +43,6 @@ def sanity_check(text):
     }
     for bad_c, good_c in bad_chars.items():
         assert(bad_c not in text), f"Text contains bad character {bad_c}: {text}"
-    return text
 
 # %%
 plotting_data = []
@@ -58,13 +57,15 @@ for i, (_, row) in enumerate(tqdm(df.iterrows(), total=len(df))):
 
     tokens = tokenizer.tokenize(row['text_it'])
     for token in tokens:
-        text = sanity_check(token['text'])
+        sanity_check(text)
+        lemma = token['lemma']
+        lemma = lemma.lower()
         token_hash = token['token_hash']
         group_hash = token['group_hash']
         if token_hash not in data:
             data[token_hash] = {
                 'text': text,
-                'lemma': token['lemma'],
+                'lemma': lemma,
                 'pos': token['pos'],
                 'xpos': token['xpos'],
                 'deprel': token['deprel'],
