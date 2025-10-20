@@ -4,6 +4,7 @@ import numpy as np
 import json
 from tqdm import tqdm
 import uuid
+import os
 
 import pandas as pd
 
@@ -13,9 +14,15 @@ from stanza_tokenizer import StanzaTokenizer
 tokenizer = StanzaTokenizer()
 
 # %%
-path = '/Users/stevie/repos/lingo_kit_combined/lingo_kit_data/word_analysis/datasets/tatoeba/dataframe.tsv'
+# path = '/Users/stevie/repos/lingo_kit_combined/lingo_kit_data/word_analysis/datasets/tatoeba/dataframe.tsv'
+path = 'dataframe.tsv'
 df = pd.read_csv(path, sep='\t')
 len(df), df.columns
+
+# save_path = f'/Users/stevie/repos/lingo_kit_combined/lingo_kit_data/word_analysis/datasets/tatoeba//token_data_{start_i}_{end_i}.tsv'
+# save_path = f'/Users/stevie/repos/lingo_kit_combined/lingo_kit_data/word_analysis/datasets/tatoeba/token_data/token_data_all.tsv'
+save_path = f'token_data/token_data_all.tsv'
+assert(os.path.exists(os.dirname(save_path))), f"Directory does not exist: {os.path.dirname(save_path)}"
 
 # %%
 # start_i = 180000
@@ -83,8 +90,6 @@ token_df = pd.DataFrame(token_df_data)
 token_df.sort_values(by='count', ascending=False, inplace=True)
 
 # %%
-# save_path = f'/Users/stevie/repos/lingo_kit_combined/lingo_kit_data/word_analysis/datasets/tatoeba//token_data_{start_i}_{end_i}.tsv'
-save_path = f'/Users/stevie/repos/lingo_kit_combined/lingo_kit_data/word_analysis/datasets/tatoeba/token_data/token_data_all.tsv'
 token_df.to_csv(save_path, sep='\t', index=False)
 
 
