@@ -31,11 +31,12 @@ def sanity_check(text):
 
 # %%
 chunk_size = 20000
+# chunk_size = 20
 if len(df) % chunk_size == 0:
     n = len(df) // chunk_size
 else:
     n = len(df) // chunk_size + 1
-for chunk_i in range(n):
+for chunk_i in tqdm(range(n), total=n):
     start_index = chunk_i*chunk_size
     end_index = (chunk_i+1)*chunk_size
     chunk_df = df.iloc[start_index:end_index]
@@ -43,7 +44,7 @@ for chunk_i in range(n):
 
     ### Token Step ###
     data = {}
-    for i, (_, row) in enumerate(tqdm(chunk_df.iterrows(), total=len(chunk_df))):
+    for _, row in tqdm(chunk_df.iterrows(), total=len(chunk_df)):
         # normalize text
         text = row['text_it']
         text = text.lower()
@@ -51,8 +52,9 @@ for chunk_i in range(n):
         text = text.replace("“", '"').replace("”", '"')
         text = text.strip()
 
-        tokens = tokenizer.tokenize(row['text_it'])
+        tokens = tokenizer.tokenize(text)
         for token in tokens:
+            text = token['text']
             sanity_check(text)
             lemma = token['lemma']
             lemma = lemma.lower()
@@ -85,6 +87,7 @@ for chunk_i in range(n):
         token_df_data['pos'].append(info['pos'])
         token_df_data['xpos'].append(info['xpos'])
         token_df_data['deprel'].append(info['deprel'])
+        token_df_data['feats'].append(info['feats'])
         token_df_data['count'].append(info['count'])
         token_df_data['sentences'].append(list(info['sentences']))
         token_df_data['group_hash'].append(info['group_hash'])

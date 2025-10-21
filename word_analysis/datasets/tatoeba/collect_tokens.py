@@ -54,6 +54,7 @@ for i, (_, row) in enumerate(tqdm(df.iterrows(), total=len(df))):
 
     tokens = tokenizer.tokenize(row['text_it'])
     for token in tokens:
+        text = token['text']
         sanity_check(text)
         lemma = token['lemma']
         lemma = lemma.lower()
