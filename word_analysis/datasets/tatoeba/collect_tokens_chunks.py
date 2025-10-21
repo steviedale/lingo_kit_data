@@ -30,13 +30,18 @@ def sanity_check(text):
         assert(bad_c not in text), f"Text contains bad character {bad_c}: {text}"
 
 # %%
-chunk_size = 20000
+chunk_size = 10000
 # chunk_size = 20
 if len(df) % chunk_size == 0:
     n = len(df) // chunk_size
 else:
     n = len(df) // chunk_size + 1
 for chunk_i in tqdm(range(n), total=n):
+    save_path = 'new_token_data/token_data_chunk_' + str(chunk_i) + '.tsv'
+    if os.path.exists(save_path):
+        print(f"{save_path} already exists, skipping...")
+        continue
+
     start_index = chunk_i*chunk_size
     end_index = (chunk_i+1)*chunk_size
     chunk_df = df.iloc[start_index:end_index]
@@ -93,7 +98,7 @@ for chunk_i in tqdm(range(n), total=n):
         token_df_data['group_hash'].append(info['group_hash'])
     token_df = pd.DataFrame(token_df_data)
     token_df.sort_values(by='count', ascending=False, inplace=True)
-    save_path = 'new_token_data/token_data_chunk_' + str(chunk_i) + '.tsv'
     if not os.path.exists(os.path.dirname(save_path)):
         os.makedirs(os.path.dirname(save_path))
     token_df.to_csv(save_path, sep='\t', index=False)
+    del data, token_df, token_df_data
