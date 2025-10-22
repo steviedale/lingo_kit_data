@@ -3,3 +3,4 @@ __pycache__/
 openaiapikey.txt
 .vscode/
 .DS_Store
+word_analysis/datasets/tatoeba/new_token_data

@@ -1,0 +1,2 @@
+text	lemma	pos	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en	translation_en
+tom.	tomenise	NOUN	4188	0.001309	4188	0.001309	S	root	Gender=Masc|Number=Sing	3f6c3da5-824d-59e2-923f-6f5dde0a8e4d	911b783b-0af0-5e22-ba2b-55b1c435c4ed	lemma=tomenise, pos=NOUN	Io l'ho conosciuto a casa di Tom.	I met him at Tom's house.	Farebbe meglio ad evitare Tom.	You'd better avoid Tom.	Non ho riconosciuto la voce di Tom.	I didn't recognize Tom's voice.	

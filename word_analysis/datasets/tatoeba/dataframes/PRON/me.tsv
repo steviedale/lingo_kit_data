@@ -1,0 +1,2 @@
+text	lemma	pos	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en	translation_en
+me	me	PRON	9070	0.002835	9070	0.002835	PE	root	Number=Sing|Person=1|PronType=Prs	21c0b612-488d-584b-8507-e56d6c93f24f	a80edf44-9a69-56f2-a2e2-c939478aeb5a	lemma=me, pos=PRON	È molto meglio di me negli sport, per non dire altro.	He is much better at sports than me, to say the least.	Tom è d'accordo con me.	Tom agrees with me.	Sami si è scusato con me.	Sami apologized to me.	

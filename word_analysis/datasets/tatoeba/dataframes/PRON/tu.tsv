@@ -1,0 +1,2 @@
+text	lemma	pos	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en	translation_en
+tu	tu	PRON	7530	0.002354	7530	0.002354	PE	nsubj	Number=Sing|Person=2|PronType=Prs	de383153-43cf-5b47-a1a6-0fafbe95a0f2	63b29618-4437-5045-ada0-6533ee5e7a25	lemma=tu, pos=PRON	Io sto bene, grazie. E tu?	I'm fine, thank you. And you?	Avrò cura del cane mentre tu sei via.	I'll take care of the dog while you are out.	Tu hai fatto quello.	You did that.	

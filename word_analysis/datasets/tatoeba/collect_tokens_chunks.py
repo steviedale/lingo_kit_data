@@ -50,6 +50,7 @@ for chunk_i in tqdm(range(n), total=n):
     ### Token Step ###
     data = {}
     for _, row in tqdm(chunk_df.iterrows(), total=len(chunk_df)):
+        # TODO: we can't normalize text before tokenization, causes errors in tokens
         # normalize text
         text = row['text_it']
         text = text.lower()

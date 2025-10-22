@@ -1,0 +1,2 @@
+text	lemma	pos	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en	translation_en
+qui	qui	ADV	7798	0.002438	7798	0.002438	B	advmod		1f138367-d1f5-5139-a2b2-ea687d834cc1	f494e386-bb1c-5b53-97f1-5a505fc69fb5	lemma=qui, pos=ADV	C'è qualcuno di Catania qui?	Is anyone here from Catania?	Lei com'è arrivata qui?	How did you get here?	Ho un pacco qui per lui.	I have a package here for him.	

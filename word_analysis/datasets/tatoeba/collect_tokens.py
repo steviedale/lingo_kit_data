@@ -45,6 +45,7 @@ def sanity_check(text):
 plotting_data = []
 data = {}
 for i, (_, row) in enumerate(tqdm(df.iterrows(), total=len(df))):
+    # TODO: we can't normalize text before tokenization, causes errors in tokens
     # normalize text
     text = row['text_it']
     text = text.lower()

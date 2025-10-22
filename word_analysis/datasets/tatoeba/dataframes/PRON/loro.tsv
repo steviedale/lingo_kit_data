@@ -1,0 +1,2 @@
+text	lemma	pos	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en	translation_en
+loro	loro	PRON	9144	0.002858	9144	0.002858	PE	iobj	Number=Plur|Person=3|PronType=Prs	7c62a109-d212-5a9a-badc-7f10101d790c	591a68bf-0c00-595c-b77b-a3018fec31bd	lemma=loro, pos=PRON	Per piacere, di' loro che ho chiamato.	Please tell them that I called.	Immagino che loro parlino il francese.	I guess they speak French.	Io voglio parlare di loro.	I want to talk about them.	

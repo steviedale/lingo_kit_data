@@ -1,0 +1,2 @@
+text	lemma	pos	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en	translation_en
+che	che	PRON	13666	0.004272	13666	0.004272	PR	nsubj	PronType=Rel	d6d1bfbf-d095-5e5d-8022-dd607229fa0c	9a589528-5119-58cf-980c-493e289c0971	lemma=che, pos=PRON	Ci sono dei bambini che stanno giocando con la palla.	There are children playing ball.	C'è qualcosa che voleva dire?	Is there something you wanted to say?	Per piacere, di' loro che sono qua.	Please tell them I'm here.	

@@ -1,0 +1,2 @@
+text	lemma	pos	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en	translation_en
+solo	solo	ADV	3214	0.001005	3214	0.001005	B	advmod		1a99f858-3a16-5e11-a644-13803518b2ac	ad239d3e-2317-54df-9970-f26fa74a35e2	lemma=solo, pos=ADV	Mi stavo solo divertendo.	I was just having fun.	Voglio solo controllare qualcosa.	I just want to check something.	Odio quando mi lasci da solo con Tom.	I hate it when you leave me alone with Tom.	

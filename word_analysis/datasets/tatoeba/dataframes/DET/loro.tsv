@@ -1,0 +1,2 @@
+text	lemma	pos	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en	translation_en
+loro	loro	DET	3134	0.00098	3134	0.00098	AP	det:poss	Poss=Yes|PronType=Prs	e7b9a83c-dc5f-5654-91c7-3b9d722800eb	17bf53e9-505a-58e7-ae17-04413069a9c4	lemma=loro, pos=DET	Ho dei piani con loro stanotte.	I have plans with them tonight.	È d'accordo con la loro decisione?	Do you agree with their decision?	Ci hanno dato la loro parola.	They gave us their word.	

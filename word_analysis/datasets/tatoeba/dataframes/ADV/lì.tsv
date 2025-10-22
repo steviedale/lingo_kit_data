@@ -1,0 +1,2 @@
+text	lemma	pos	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en	translation_en
+lì	lì	ADV	2235	0.000699	2235	0.000699	B	advmod		d37e6c92-34e0-5328-8a1c-8fff19395013	8c012663-1044-5585-8261-afe85351fdc3	lemma=lì, pos=ADV	Potete andare lì.	You can go there.	Fadil non è mai stato lì.	Fadil was never there.	Giri a destra lì.	Turn right there.	

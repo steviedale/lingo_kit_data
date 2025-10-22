@@ -1,0 +1,2 @@
+text	lemma	pos	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en	translation_en
+boston	boston	NOUN	3636	0.001137	3636	0.001137	S	obl	Gender=Masc	e889bbf0-fc10-5e1e-b087-7ed1b4af8be6	8fba6bd2-6eb9-56c7-bd51-66462bf53412	lemma=boston, pos=NOUN	So che una volta viveva a Boston.	I know you used to live in Boston.	Noi vogliamo andare entrambe a Boston.	We both want to go to Boston.	Anche Tom era a Boston lunedì scorso.	Tom was in Boston last Monday, too.	

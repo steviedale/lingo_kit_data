@@ -1,0 +1,2 @@
+text	lemma	pos	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en	translation_en
+io	io	PRON	37765	0.011806	37765	0.011806	PE	nsubj	Number=Sing|Person=1|PronType=Prs	6a639e3f-3521-562d-90af-094ece1bf879	a5a922b0-da78-5fb4-9b2f-ec1859c951cf	lemma=io, pos=PRON	Io ho comprato una vecchia lampada.	I bought an old lamp.	Io sto provando ad essere felice.	I'm trying to be happy.	Io l'ho intesa come battuta.	I meant it as a joke.	
