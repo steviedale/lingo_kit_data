@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+i	i	X		3370	0.001053	3370	0.001053	SW	flat:foreign	Foreign=Yes	f2e9a91d-c216-5bb6-bc74-177f49280c58	2e28b4d0-d5a4-5a78-aa5d-8c95d258ec01	lemma=i, pos=X	Non sei l'unico ad essere impegnato.	You're not the only one who's busy.	Veramente? Sei serio?	Really? Are you serious?	Tu sei una tennista, vero?	You're a tennis player, aren't you?

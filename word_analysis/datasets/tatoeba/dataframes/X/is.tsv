@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+is	is	X		5489	0.001716	5489	0.001716	SW	root	Foreign=Yes	56ec03e5-f80b-50fc-a6a4-cdf828cee3a7	0398a4a2-aff4-5d90-9bf9-37148af9b1ca	lemma=is, pos=X	Tu sei preziosa per me.	You're precious to me.	Tu sei stata a Nashville?	Have you been to Nashville?	Sei molto più graziosa di tua sorella.	You're much cuter than your sister.

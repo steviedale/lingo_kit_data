@@ -1,0 +1,82 @@
+You are filling the English glosses for Italian auxiliary verbs (AUX) in TSV files. For each row, write a concise English translation into the column translation_en while leaving the TSV structure and all other columns untouched.
+
+Scope
+- Process only TSVs under AUX. Each file contains rows for one auxiliary lemma (present, past, cliticized, or contracted forms).
+- Update translation_en for every row to match these guidelines.
+
+Input Columns (TSV)
+- text, lemma, pos, morphological metadata, example sentences, translation_en, plus hash/count columns. The files are tab-separated; do not alter column order or spacing.
+
+Task
+- Provide a short English gloss that matches the auxiliary meaning of the Italian form (e.g., “to be”, “to have”, “must”, “can”).
+- Use the example sentences to disambiguate tense, mood, or modal force when necessary.
+- Keep the gloss brief (1–2 words for simple auxiliaries, or a compact phrase like “have to”, “be able to”).
+
+- Lowercase the gloss unless capitalization is required (rare).
+- For finite forms, write a short English clause that begins with the implied subject: “I have”, “you have”, “he/she/it has”, “we had”, “they will have”, “you (plural) must”, etc. Use “you (plural)” to mark second-person plural; second-person singular can remain “you”.
+- When a form naturally supports multiple senses (e.g., modal shades), repeat the clause for each sense, keeping the same subject each time: “he/she/it must; he/she/it has to; he/she/it should”.
+- For non-finite forms (infinitives, participles, gerunds), use the neutral English form without a subject (“to have”, “having”, “had”, “to be”, “being”, “been”).
+- Keep punctuation minimal: no trailing period and no quotation marks. Separate multiple senses with semicolons (max three).
+- Ensure consistency across all forms of a lemma so learners can see how subject + auxiliary combinations change.
+
+Cliticized non-finite forms (important)
+- When an infinitive/gerund/participle of an auxiliary carries enclitic object/indirect-object pronouns (e.g., avermi, averti, averlo, averglielo), translate using a neutral slot pattern with [VERB] so learners see where the main verb normally inserts:
+  - Infinitive (aver-): “to have [VERB] me/you/him/her/it/us/you (plural)/them”
+  - Gerund (avend-): “having [VERB] me/…/them”
+  - Participle (avuto + clitic where it appears): “had [VERB] me/…/them”
+- For combined clitics, list them in English in order: glielo → “
+[VERB] it to him”; melo → “[VERB] it to me”; glieli → “
+[VERB] them to him”; gliene → “[VERB] of it to him”, etc.
+- Examples:
+  - avermi → “to have [VERB] me”
+  - averlo → “to have [VERB] it”
+  - avendolo → “having [VERB] it”
+  - averglielo → “to have [VERB] it to him”
+  - avertelo → “to have [VERB] it to you”
+
+Sense Guidelines
+- essere: express finite forms as clauses like “I am”, “he/she/it is”, “we were”, “you (plural) would be”; participles/gerunds become “been”, “being”, etc.
+- avere: clauses such as “I have”, “he/she/it has”, “they will have”, “we would have”; non-finite forms “to have”, “having”, “had”.
+- stare: clauses like “I am staying”, “they were staying”, or more neutral “they stay” / “they are”; non-finite “to stay”, “staying”, “stayed”.
+ - potere: clauses such as “I can; I am able to”, “they could; they were able to”, “you (plural) will be able to”. Make the copula agree with the subject:
+   - Present “able to” → am (I), is (he/she/it), are (you, we, they)
+   - Past “able to” → was (I, he/she/it), were (you, we, they)
+ - dovere: express obligation/advisability with person-aware clauses, and reflect tense/mood nuances succinctly:
+   - Imperfect (ongoing/past expectation, Tense=Imp): “I had to; I was supposed to”, “you had to; you were supposed to”, etc. (match the subject)
+   - Subjunctive or hypothetical (Mood=Sub, often in ‘se’ clauses): “if I should have to”, “if you should have to” (match subject)
+   - Remote/perfective past (passato remoto, Tense=Past on simple forms like dovetti/dovette/dovettero): add completion nuance “had to (and did)” with the subject
+   - Conditional (Mood=Cnd): “I would have to; I should”, “we would have to; we should”, etc.
+   - Non‑finite: “to have to”, “having to”, “had to” (participles/gerunds), and apply clitic rules with [VERB] when present
+- volere: clauses like “I want; I want to”, “they would want; they would like to”, “you (plural) will want”.
+- Modal or periphrastic forms should retain the auxiliary focus rather than lexical translations (e.g., “be going to” is acceptable if idiomatically necessary, but avoid full clause paraphrases).
+
+Decision Rules
+- Base each gloss on the provided example sentences. When sentences are neutral, use the most common auxiliary sense.
+- Keep glosses concise; if a single sense covers all sentences, do not add extra senses.
+- Prefer general modal verbs (“must”, “may”, “can”) over analytical phrases unless the examples demand more precision.
+- Spell-check carefully (e.g., “able”, “obliged”).
+
+Output Constraints
+- Modify only the translation_en column; do not touch other columns or whitespace.
+- Do not add/remove rows or tabs. Each row must remain a single TSV line with one translation.
+- No embedded line breaks or trailing spaces in translation_en.
+
+Examples (pattern only; adjust to the row’s usage)
+- sono → be
+- ero → was; were (if examples distinguish singular/plural contexts)
+- ho → have
+- avevo → had
+- posso → can; be able to
+- potevo → could; was able to
+- devo → must; have to
+- dovevo → had to; was supposed to
+- voglio → want; want to
+- volevo → wanted; wanted to
+- sto → be; stay
+- stavo → was; was staying
+
+Quality Checklist (for each edited row)
+- [ ] Gloss matches the auxiliary sense shown in example sentences
+- [ ] Concise wording (≤3 senses) with semicolons between distinct meanings
+- [ ] No grammatical metadata or unnecessary parentheses
+- [ ] TSV structure preserved; only translation_en modified
