@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+uno	uno	NUM		14	2e-05	19800	0.028974	uno	NUM	N	nummod	NumType=Card	d635e9d8-dbaa-5396-b2f7-a6f52f45db0f	41796045-93b1-5f61-adcc-902a62bfb60b	lemma=uno, pos=NUM	Conti da uno a dieci.	Count from one to ten.	Tu sei la numero uno!	You are number one!	Sei la numero uno!	You are number one!

@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+più	più	DET		2	3e-06	2755	0.004032	più	DET	DI	det	PronType=Ind	765b7e11-a23a-540c-9056-7c093496d6b0	1b563e18-8b17-5b3d-81cb-8b7206ef49c7	lemma=più, pos=DET	Ha più libri.	She's got more books.	Se avessi più soldi, potrei traslocare in una casa più grande.	If I had more money, I could move to a bigger house.		

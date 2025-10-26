@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+che	che	DET		1029	0.001506	10885	0.015929	che	DET	DQ	det	PronType=Int	33e149cf-8a37-5f6e-98cd-6b62c54159e4	38f76cd1-9d68-5462-8fc1-29d7b7968152	lemma=che, pos=DET	Che cos'è quello?	What's that?	In che città sei?	In which city are you?	Vediamo di che pasta sei fatto.	Let's see what you're made of.

@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+me	me	PRON		1947	0.002849	1947	0.002849	me	PRON	PE	obl	Number=Sing|Person=1|PronType=Prs	21c0b612-488d-584b-8507-e56d6c93f24f	a80edf44-9a69-56f2-a2e2-c939478aeb5a	lemma=me, pos=PRON	Può sempre contare su di me.	You can always count on me.	Hai paura di me?	Are you afraid of me?	Lei ha paura di me?	Are you afraid of me?

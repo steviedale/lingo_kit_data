@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+averi	avere	NOUN		1	1e-06	23905	0.034981	avere	NOUN	S	obl	Gender=Masc|Number=Plur	1e67a48e-7f8d-519f-9d7c-16e981396218	a26f2d47-5496-55df-a036-3f6771b3eabd	lemma=avere, pos=NOUN	Nonostante i suoi averi, non è felice.	Despite his riches, he's not contented.				

@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+senza	senza	ADV		2	3e-06	530	0.000776	senza	ADV	B	advmod		6e4c5e3c-b9b2-5a23-a2c4-0aa2884bd4eb	3d407f23-66e3-5f9c-a011-50ea2698240c	lemma=senza, pos=ADV	Noi ce la faremo senza.	We'll manage without it.	Ce la faremo senza.	We'll manage without it.		

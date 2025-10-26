@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+non	non	ADV		19692	0.028816	19692	0.028816	non	ADV	BN	advmod	PronType=Neg	f438ced6-9170-5e1a-b33a-5d33a26e13e8	2ee07aba-6058-5f34-bb4f-54ee5b13681a	lemma=non, pos=ADV	Stai attento a non cadere.	Take care lest you should fall.	Io non posso dire che sono desolata.	I can't say I'm sorry.	Non voglio rischiare di perderlo.	I don't want to risk losing it.

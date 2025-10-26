@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+dove	dove	DET		4	6e-06	1349	0.001974	dove	DET	DQ	det	PronType=Int	a76fde0a-1d04-5dec-95a7-ae933f090ac7	2c07f5c7-f243-5de7-80ad-ad03730655a8	lemma=dove, pos=DET	Dove inizio?	Where do I start?	Dove studi?	Where are you studying?	Dove cazzo è finito il sole?	Where the fuck did the sun go?

@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+presto	presto	NOUN		1	1e-06	471	0.000689	presto	NOUN	S	nsubj	Gender=Masc|Number=Sing	02393a3a-1418-54e6-99e7-622ef6741130	22b07597-cb88-574a-846d-4e4d450ffae7	lemma=presto, pos=NOUN	A me serve un presto.	I need a loan.				

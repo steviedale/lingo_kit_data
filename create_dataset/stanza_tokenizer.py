@@ -10,8 +10,8 @@ def get_token_hash(term, lemma, pos):
     return str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{term}-{lemma}-{pos}"))
 
 # Group by lemma so cliticized forms land in the base verb bucket
-def get_group_hash(lemma):
-    return str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{lemma}"))
+def get_group_hash(lemma, pos):
+    return str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{lemma}-{pos}"))
 
 def _merge_feats(words):
     parts = []
@@ -93,7 +93,7 @@ class StanzaTokenizer:
             "parts_pos": pos,
             "vector": None,
             "token_hash": get_token_hash(text, lemma, pos),
-            "group_hash": get_group_hash(lemma),
+            "group_hash": get_group_hash(lemma, pos),
         }
 
     def _emit_combined_token(self, token):
@@ -130,7 +130,7 @@ class StanzaTokenizer:
             "parts_pos": _join_or_none(parts_pos_list, "+"),
             "vector": None,
             "token_hash": get_token_hash(surface, lemma, pos),
-            "group_hash": get_group_hash(lemma),
+            "group_hash": get_group_hash(lemma, pos),
         }
 
     def tokenize(self, text):

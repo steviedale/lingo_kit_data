@@ -1,0 +1,3 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+volere	volere	NOUN		1	1e-06	5225	0.007646	volere	NOUN	S	nmod	Gender=Masc|Number=Sing	69c8bae2-a6ba-5643-a7c0-d9c1afd4f0ed	2fa040bc-3626-5e29-8384-b8c3c1b70d8c	lemma=volere, pos=NOUN	È diventato un cantante contro il volere dei suoi genitori.	He became a singer against his parents wishes.				
+voleste	volere	NOUN		1	1e-06	5225	0.007646	volere	NOUN	S	nsubj	Gender=Fem|Number=Plur	b2ebf9c9-6877-5422-8dee-f4333ca824c4	2fa040bc-3626-5e29-8384-b8c3c1b70d8c	lemma=volere, pos=NOUN	Pensavo la voleste indietro.	I thought you wanted this back.				

@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+niente	niente	DET		7	1e-05	631	0.000923	niente	DET	DI	det	Gender=Masc|Number=Sing|PronType=Ind	c7498911-73d1-56f6-a3db-42b9d8fcfc3f	cda9a791-5acf-57fc-b85f-1c87512c4516	lemma=niente, pos=DET	Niente panico!	Don't panic!	Niente acqua, niente vita.	No water, no life.	Non è per niente sorpresa.	She is not in the least surprised.

@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+dove	dove	PRON		200	0.000293	1349	0.001974	dove	PRON	PQ	obl	PronType=Int	da230c49-333e-5f34-9eb0-d098657c2f2a	9d5bb63d-5a59-5e09-b49c-06d1f6be4b0c	lemma=dove, pos=PRON	Dove pensate che viva?	Where do you think he lives?	Voi dove siete nate?	Where were you born?	Dove avete incontrato mio padre?	Where did you meet my father?

@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+di'	dire	INTJ		2	3e-06	3134	0.004586	dire	INTJ	I	root		51d9c39a-1b85-5a5e-a635-ca72d868d3dc	4491a946-ae17-596b-b984-47348e93cb87	lemma=dire, pos=INTJ	Se qualcuno dovesse telefonare, di' che tornerò all'una.	If anyone should phone, say I will be back at one o'clock.	Di' a Tom che riesco a sentirlo.	Tell Tom I can hear him.		

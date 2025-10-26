@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+perché	perché	ADV		443	0.000648	1521	0.002226	perché	ADV	B	root		e1c6e6f5-52c8-532e-909f-96079ac3c1c4	6455d120-2004-5574-9108-1a86fc40eba7	lemma=perché, pos=ADV	Perché la neve è bianca?	Why is snow white?	Perché la gente utilizza l'indirettezza?	Why do people use indirectness?	Perché si nasconde?	Why is he hiding?
