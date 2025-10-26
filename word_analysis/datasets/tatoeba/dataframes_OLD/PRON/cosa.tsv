@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cosa	cosa	PRON		8004	0.002502	8004	0.002502	PQ	obj	Number=Sing|PronType=Int	14f4c19c-4dd9-57d2-a8e9-0cc6eb2fa04d	ba49e1d7-a126-5a5e-9577-7dc6953c84e5	lemma=cosa, pos=PRON	Che cosa stai aspettando?	What are you waiting for?	Loro cosa stanno facendo lì?	What are they doing there?	Non sappiamo cosa sia successo a Tom.	We don't know what happened to Tom.

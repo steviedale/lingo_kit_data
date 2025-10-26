@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+da	da	ADP		21375	0.006682	21375	0.006682	E	case		b7a5f726-e2a2-52aa-83c5-6e6018a53df6	af61b489-9773-510d-bbeb-5c909fbf4068	lemma=da, pos=ADP	Andò a stare da sua cugina.	He went to stay with his cousin.	Si è chiuso fuori dalla sua casa.	He locked himself out of his house.	Lontano dagli occhi, lontano dal cuore.	Out of sight, out of mind.

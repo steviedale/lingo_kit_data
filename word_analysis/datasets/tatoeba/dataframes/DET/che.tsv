@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-che	che	DET		4631	0.001448	4631	0.001448	DQ	det	PronType=Int	33e149cf-8a37-5f6e-98cd-6b62c54159e4	38f76cd1-9d68-5462-8fc1-29d7b7968152	lemma=che, pos=DET	Che cosa sta dicendo?	What is she saying?	Nessuno ci ha detto che cosa fare.	Nobody told us what to do.	Di che cosa parla il vostro nuovo libro?	What's your new book about?

@@ -1,0 +1,98 @@
+You are filling the English glosses for Italian adjectives in TSV files. For each row, write a concise, learning‑friendly translation into the column translation_en. Preserve the TSV structure and all other columns exactly as they are.
+
+Scope
+- Process only TSVs under ADJ (adjectives). Each file contains rows for a specific lemma with inflected forms.
+- Update the translation_en cell for every row (fill if empty or rewrite to match guidelines).
+
+Input Columns (TSV)
+- text, lemma, pos, xpos, deprel, feats, sentence_1_it, sentence_1_en, sentence_2_it, sentence_2_en, sentence_3_it, sentence_3_en, translation_en, plus other numeric/hash columns.
+
+Task
+- Produce a brief English translation (gloss) for the Italian adjective in text.
+- Use the sentences (it/en) to select the correct sense(s) and to disambiguate when a word is polysemous.
+- Keep the output short but descriptive enough for learners to grasp the meaning.
+
+Style and Formatting (must follow exactly)
+- Write lowercase headwords; no initial capitalization unless a proper noun appears in the gloss (rare for adjectives).
+- Separate multiple senses with semicolons: sense1; sense2; sense3
+- Add morphological notes in parentheses at the end, when helpful. Include gender only when the lemma group has both masculine and feminine variants: use (masculine) or (feminine). Never mark “singular”. Add “plural” only when the English gloss does not already make plurality obvious. Keep other notes like (short form) and (before a vowel) as needed. Examples: (masculine), (feminine), (masculine plural, short form), (masculine, before a vowel)
+- When the form uses an apostrophe before a vowel, mark with “before a vowel”. Example: (masculine, before a vowel)
+- When the form is a short/preposed variant (e.g., bel, bei, gran), mark with “short form”. Example: (masculine plural, short form)
+- For superlative/intensified forms with -issimo/-issima/-issimi/-issime, render as “very X; Y” (two concise options). Examples: “very beautiful; gorgeous”, “very big; huge”, “very happy; overjoyed”, “very good; delicious”, “very true”. Add gender note only if the lemma has both masculine and feminine variants. Never mark “singular”; if the form is plural and the English gloss does not already show it, add “(plural)” alongside any other note.
+- Keep punctuation minimal: no trailing period. Use ASCII apostrophes (') as in Italian forms when present; do not smart‑quote.
+- Do not quote the gloss. No brackets. Only use parentheses for the notes described above.
+- Be consistent across a lemma’s paradigm (same set/order of senses and same note patterns where applicable).
+
+Sense Guidelines (use sentences + lemma semantics)
+- bello forms (bella, bello, bel, bell', bei, belle, bellissimo/a/i/e):
+  - Base sense: beautiful; nice; (for a person, masculine can include handsome). Examples:
+    - bella → “beautiful (feminine)”
+    - bello → “handsome; beautiful; nice (masculine)”
+    - bel → “beautiful; nice (masculine, short form)”
+    - bei → “beautiful; nice (masculine plural, short form)”
+    - bell' → “good-looking; nice-looking (masculine, before a vowel)”
+    - bellissima/o/i/e → “very beautiful; gorgeous (… gender/number …)”
+- buono forms (buona, buon, buono, buone, buoni, buonissimo, buon'):
+  - Senses: good; kind; tasty. For buonissimo: very good; delicious. Add gender notes only if the lemma has both masculine and feminine variants; include number only if useful; for apostrophized forms use “before a vowel”.
+- grande forms (grande, grandi, gran, grandissimo/a/i/e):
+  - Senses: big; great. For gran: add “short form”. For grandissimo variants: very big; huge; tremendous.
+- felice forms (felice, felici, felicissimo/a):
+  - Senses: happy; very happy; overjoyed (for superlatives). Gender note is generally unnecessary (no masc/fem contrast). Never mark “singular”; if the form is plural and not obvious in English, add “(plural)”.
+- nuovo forms (nuovo/a/i/e):
+  - Sense: new. Add gender note only if the lemma has both masculine and feminine variants. Never mark “singular”; if the form is plural and not obvious in English, add “(plural)”.
+- pronto forms (pronto/a/i/e):
+  - Sense: ready. Add gender note only if the lemma has both masculine and feminine variants. Never mark “singular”; if the form is plural and not obvious in English, add “(plural)”.
+- sicuro forms (sicuro/a/i/e, sicurissimo/a):
+  - Senses: sure; certain; safe. For superlatives: absolutely certain; sure. Add gender note only if the lemma has both masculine and feminine variants. Never mark “singular”; if the form is plural and not obvious in English, add “(plural)”.
+- solo forms (solo/a/i/e; note that “sole” fem. pl. can be “only; sole”):
+  - Include both key senses when appropriate from sentences: alone; only. Add gender note only if the lemma has both masculine and feminine variants. Never mark “singular”; if the form is plural and not obvious in English, add “(plural)”.
+- vero forms (vero/a/i/e, verissimo):
+  - Senses: true; real. For verissimo: very true. Gender note generally unnecessary. Never mark “singular”; if the form is plural and not obvious in English, add “(plural)”.
+
+Morphology Notes (exact phrasing)
+- Gender notes: include only when the lemma group has both masculine and feminine variants; use “masculine” or “feminine”.
+- Number notes: never mark “singular”. Only add “plural” when the English gloss does not already signal plurality.
+- Use: “short form” for preposed/contracted variants like bel, bei, gran.
+- For apostrophized forms before a vowel (e.g., bell', buon', altr'), use “before a vowel”.
+
+Decision Rules
+- Prefer senses supported by the example sentences. If multiple senses are clearly suggested (e.g., solo = alone/only), include both separated by a semicolon.
+- If sentences are neutral or generic, use the core dictionary senses listed above for the lemma.
+- Keep to 1–3 short senses unless a fourth is clearly justified by examples.
+- Avoid domain‑specific or rare senses unless they are demanded by the example sentences.
+- Spell‑check: absolutely, delicious, gorgeous, tremendous, etc. Avoid typos.
+
+Output Constraints
+- Modify only the translation_en field for each row; do not alter any other column values or order.
+- Do not insert or remove columns or tabs. Each line must remain a valid TSV row.
+- No line breaks inside the translation cell. No trailing spaces.
+
+Examples (pattern only; adapt to the row’s gender/number/sense)
+- bella → beautiful (feminine)
+- bello → handsome; beautiful; nice (masculine)
+- bel → beautiful; nice (masculine, short form)
+- bell' → good-looking; nice-looking (masculine, before a vowel)
+- bei → beautiful; nice (masculine plural, short form)
+- bellissima → very beautiful; gorgeous (feminine)
+- buon → good; kind (masculine, short form)
+- buonissimo → very good; delicious (masculine)
+- grande → big; great
+- gran → great; grand (short form)
+- grandissime → very big; huge (feminine plural)
+- felice → happy
+- felicissimo → very happy; overjoyed (masculine)
+- nuovo → new (masculine); nuova → new (feminine)
+- pronto → ready (masculine); pronte → ready (feminine plural)
+- sicura → sure; certain; safe (feminine)
+- sicurissimo → absolutely certain; sure (masculine)
+- sola → alone; only (feminine)
+- sole → only; sole (feminine plural)
+- vero → true; real
+- verissimo → very true (masculine)
+
+Quality Checklist (for each edited row)
+- [ ] Senses match example sentences or core lemma senses
+- [ ] Semicolons separate distinct senses
+- [ ] Parenthetical note present when helpful and correct
+- [ ] No trailing period; no quotes; lowercase
+- [ ] TSV structure preserved; only translation_en edited

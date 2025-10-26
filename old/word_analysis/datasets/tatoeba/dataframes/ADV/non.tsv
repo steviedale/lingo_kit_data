@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+non	non	ADV		98380	0.030754	98380	0.030754	BN	advmod	PronType=Neg	f438ced6-9170-5e1a-b33a-5d33a26e13e8	2ee07aba-6058-5f34-bb4f-54ee5b13681a	lemma=non, pos=ADV	Sono sicuro che non le piacerà il libro.	I'm sure she won't like the book.	Può non essere necessario.	That may not be necessary.	Non posso mangiare più.	I can't eat any more.

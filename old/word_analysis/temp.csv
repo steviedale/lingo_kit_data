@@ -1,0 +1,70 @@
+word,expected_lemma,expected_pos,sentence,sentence_en,predicted_lemma,predicted_pos
+gli,gli,PRON,Io gli scrivo domani.,I will write to them tomorrow.,gli,PRON
+gli,gli,PRON,Io gli parlo adesso.,I am speaking to him now.,gli,PRON
+gli,il,DET,Vedo gli studenti.,I see the students.,il,DET
+volante,volante,NOUN,La volante è intervenuta subito.,The police patrol car intervened immediately.,volante,NOUN
+volante,volante,ADJ,Un drappo volante attraversò la scena.,A flying cloth crossed the scene.,volante,ADJ
+volerei,volare,VERB,Con meno nuvole volerei volentieri.,With fewer clouds I would gladly fly.,volere,VERB
+volerebbe,volare,VERB,Con un motore nuovo volerebbe meglio.,With a new engine it would fly better.,volere,VERB
+voleremmo,volare,VERB,Con più ferie voleremmo a lungo.,With more vacation we would fly for longer.,volere,VERB
+volereste,volare,VERB,Con quel budget volereste in economy.,With that budget you (pl.) would fly economy.,voleresta,NOUN
+volerebbero,volare,VERB,Con un invito volerebbero subito.,With an invitation they would fly immediately.,volere,VERB
+vola,volare,VERB,Vola alto ma resta prudente!,Fly high but stay careful!,volare,VERB
+voli,volare,VERB,Voli solo con istruttore.,Please fly only with an instructor.,volo,NOUN
+voli,volare,VERB,Spero che tu voli con prudenza.,I hope that you fly carefully.,volo,VERB
+voliamo,volare,VERB,Voliamo all'alba!,Let's fly at dawn!,volere,VERB
+voliamo,volare,VERB,"Benché voliamo, restiamo calmi.","Although we fly, we stay calm.",volere,VERB
+volate,volare,VERB,Volate in formazione!,Fly in formation!,volare,VERB
+volino,volare,VERB,È bene che volino a vista.,It's good that they fly by sight.,volere,VERB
+volassero,volare,VERB,Desideravano che volassero sopra il lago.,They wished that they flew over the lake.,volare,VERB
+volare,volare,VERB,Mi piace volare d'inverno.,I like to fly in winter.,volare,VERB
+volando,volare,VERB,"Volando, notammo un temporale a ovest.","Flying, we noticed a storm to the west.",volare,VERB
+volato,volare,VERB,Ieri ho volato su un biplano.,Yesterday I flew on a biplane.,volare,VERB
+volato,volare,VERB,Prima di oggi avevo volato solo una volta.,Before today I had flown only once.,volare,VERB
+volato,volare,VERB,A fine mese avrò volato dieci ore.,By the end of the month I will have flown ten hours.,volare,VERB
+volato,volare,VERB,Non credo che abbia volato con noi.,I don't think he/she has flown with us.,volare,VERB
+volato,volare,VERB,Con meno turbolenza avrei volato ancora.,With less turbulence I would have flown more.,volare,VERB
+volato,volare,VERB,Palloncini volati via.,Balloons flown away.,,
+volata,volare,VERB,Sabbiolina volata ovunque.,Fine sand flown everywhere.,volata,VERB
+volati,volare,VERB,Palloncini volati via dal giardino.,Balloons flown away from the garden.,volare,VERB
+volate,volare,VERB,Foglie volate sul terrazzo.,Leaves flown onto the terrace.,volare,VERB
+volino,volare,VERB,Volino seguendo la rotta indicata.,Let them fly following the indicated route.,Volino,NOUN
+volaste,volare,VERB,Temevo che volaste di notte.,I feared that you (pl.) flew at night.,volasta,NOUN
+volo,volare,VERB,Ogni mattina volo con il parapendio.,Every morning I fly with a paraglider.,volo,VERB
+volasse,volare,VERB,Era impossibile che volasse con quel vento.,It was impossible that he/she flew with that wind.,volare,VERB
+voli,volare,VERB,"Se voli basso, eviti il vento.","If you fly low, you avoid the wind.",volo,VERB
+vola,volare,VERB,L'aquila vola sopra la valle.,The eagle flies above the valley.,volare,VERB
+voliamo,volare,VERB,In estate voliamo spesso all'alba.,In summer we often fly at dawn.,volere,VERB
+volate,volare,VERB,"Quando volate, controllate il meteo.","When you (pl.) fly, check the weather.",volare,VERB
+volano,volare,VERB,Le rondini volano in cerchio.,The swallows fly in circles.,volare,VERB
+volavo,volare,VERB,Da ragazzo volavo spesso nei sogni.,As a boy I often flew in my dreams.,volare,VERB
+volavi,volare,VERB,Mi dicevi che volavi senza paura.,You told me you used to fly without fear.,volare,VERB
+volassimo,volare,VERB,"Se volassimo presto, arriveremmo in tempo.","If we flew early, we would arrive on time.",volare,VERB
+volavamo,volare,VERB,Durante il corso volavamo ogni weekend.,During the course we used to fly every weekend.,volare,VERB
+volavate,volare,VERB,Ieri a quest'ora volavate sopra il mare.,At this time yesterday you (pl.) were flying over the sea.,volare,VERB
+volavano,volare,VERB,Gli uccelli volavano bassi prima della pioggia.,The birds were flying low before the rain.,volare,VERB
+volai,volare,VERB,Quel giorno volai per la prima volta.,That day I flew for the first time.,volare,VERB
+volava,volare,VERB,Il drone volava instabile.,The drone was flying unstably.,volare,VERB
+volò,volare,VERB,Il gabbiano volò via.,The seagull flew away.,volare,VERB
+volassi,volare,VERB,Credevo che volassi più spesso.,I thought you flew more often.,volare,VERB
+volassi,volare,VERB,"Se volassi, verrei da te.","If I flew, I would come to you.",volare,VERB
+volasti,volare,VERB,Dopo l'esame volasti a Madrid.,After the exam you flew to Madrid.,volasto,ADJ
+volerete,volare,VERB,A che ora volerete domani?,At what time will you (pl.) fly tomorrow?,volere,VERB
+voleremo,volare,VERB,A giugno voleremo di notte.,In June we will fly at night.,volere,VERB
+voleranno,volare,VERB,Con il caldo voleranno più in alto.,With the heat they will fly higher.,volere,VERB
+volerai,volare,VERB,"Quando volerai, porta i documenti.","When you will fly, bring the documents.",volere,VERB
+volerò,volare,VERB,Domani volerò a Cagliari.,Tomorrow I will fly to Cagliari.,volere,VERB
+volarono,volare,VERB,"Appena aprì la gabbia, volarono via.","As soon as he opened the cage, they flew away.",volare,VERB
+volaste,volare,VERB,In primavera volaste spesso.,In spring you (pl.) flew often.,volasto,ADJ
+volammo,volare,VERB,Con il club volammo fino alle Alpi.,With the club we flew as far as the Alps.,volere,VERB
+volerà,volare,VERB,"Se il vento cala, il deltaplano volerà meglio.","If the wind drops, the hang glider will fly better.",volere,VERB
+voleresti,volare,VERB,"Se potessi, voleresti ogni giorno.","If you could, you would fly every day.",volere,VERB
+volate,volata,NOUN,Le volate in bici sono spettacolari.,The sprints in cycling are spectacular.,volata,NOUN
+volata,volata,NOUN,Facciamo una volata al mare e torniamo.,Let's make a quick dash to the sea and come back.,volata,NOUN
+volate,volata,NOUN,Le volate in pista sono emozionanti.,The sprints on the track are exciting.,volata,NOUN
+volatore,volatore,NOUN,Il pipistrello è un volatore abilissimo.,The bat is a very skilled flyer.,volatore,NOUN
+volatori,volatore,NOUN,Gli scoiattoli volatori planano tra gli alberi.,Flying squirrels glide among the trees.,volatore,ADJ
+volatrice,volatrice,NOUN,È una volatrice esperta di alianti.,She is an expert glider pilot.,volatrice,NOUN
+volatrici,volatrice,NOUN,Le volatrici del club hanno gareggiato ieri.,The female flyers of the club competed yesterday.,volatore,NOUN
+voli,volo,NOUN,I voli notturni sono più economici.,Night flights are cheaper.,volo,NOUN
+volo,volo,NOUN,Il volo è in orario.,The flight is on time.,volo,NOUN

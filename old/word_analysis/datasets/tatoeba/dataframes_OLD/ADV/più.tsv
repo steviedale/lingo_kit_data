@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+più	più	ADV	more; most; no longer	10873	0.003399	10873	0.003399	B	advmod		fd064e6f-3b8d-582b-bcd3-8c0caed6be67	7d4619dd-5411-587a-a450-c64b034ac522	lemma=più, pos=ADV	Io sono la più alta della classe.	I'm the tallest one in the class.	Avete questo paio di scarpe in taglie più grandi?	Do you have this pair of shoes in bigger sizes?	Non ti amo più.	I no longer love you.

@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ora	ora	ADV		2751	0.00086	2751	0.00086	B	advmod		3523bcb6-f449-5ac5-ae9f-eac22140175f	9b1b58fe-e0e7-50e9-8b30-09cd548616d8	lemma=ora, pos=ADV	Ora, canti.	Now, you sing.	Ora, ho bisogno del tuo aiuto.	Now, I need your help.	Chi traduce le lettere ora?	Who translates letters now?

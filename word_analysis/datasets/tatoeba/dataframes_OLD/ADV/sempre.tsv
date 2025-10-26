@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sempre	sempre	ADV	always; ever	4209	0.001316	4209	0.001316	B	advmod		16a60622-7a03-5c23-add0-cca30e871681	a15c2226-4c97-5d8a-aa08-31b44d6e90d7	lemma=sempre, pos=ADV	Succede sempre così.	It always happens like this.	Tu sei sempre stata una combattente.	You have always been a fighter.	Tom è sempre rimasto povero.	Tom always remained poor.

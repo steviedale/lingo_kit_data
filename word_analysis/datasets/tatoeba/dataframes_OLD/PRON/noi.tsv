@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-noi	noi	PRON		9469	0.00296	9469	0.00296	PE	obl	Number=Plur|Person=1|PronType=Prs	fcff9737-1b9a-576b-9faf-d28effd84167	49db6a73-9087-54b2-a2f1-d359d7b8c1fa	lemma=noi, pos=PRON	Io non sono sicuro di volere che Tom lavori per noi.	I'm not sure I want Tom working for us.	Noi non usiamo mai lo zucchero.	We never use sugar.	Noi non l'abbiamo creato.	We didn't create it.

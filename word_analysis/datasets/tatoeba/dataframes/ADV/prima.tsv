@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-prima	prima	ADV		2242	0.000701	2242	0.000701	B	mark		00768ab1-f278-5568-b1b9-518140458bdd	7f00720f-24b6-580b-8e30-9f0a762abc01	lemma=prima, pos=ADV	Voglio trovare lui prima!	I want to find him first!	Prima che David arrivasse Samantha incominciò ad apparecchiare.	Before David arrived, Samantha started to lay the table.	Avevate ragione prima.	You were right before.

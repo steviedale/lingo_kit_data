@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tom.	tom.	X		2162	0.000676	2162	0.000676	X	root		e230f488-60bb-5668-88a9-0e2d5b937ab3	b984efa1-4c05-5db8-a4cc-ebfbae77a924	lemma=tom., pos=X	Io non volevo fare aspettare Tom.	I didn't keep Tom waiting.	Non so che dire a Tom.	I don't know what to say to Tom.	Io non devo seguire Tom.	I don't have to follow Tom.

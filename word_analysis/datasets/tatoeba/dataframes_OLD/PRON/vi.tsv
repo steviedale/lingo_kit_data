@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-vi	vi	PRON		7299	0.002282	7299	0.002282	PC	expl	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	cd37b231-3310-5a2b-af6c-092c8f7ba2bd	60cb2874-cbe7-57f2-964a-8270d0baf297	lemma=vi, pos=PRON	Tom è occupato al momento. Posso aiutarvi?	Tom is busy at the moment. May I help you?	Vi ho viste con Tom.	I've seen you with Tom.	Guardate, vi farò vedere.	Look, I'll show you.

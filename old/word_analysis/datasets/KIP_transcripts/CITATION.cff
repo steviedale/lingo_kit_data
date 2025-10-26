@@ -1,0 +1,122 @@
+type: dataset
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "KIParla-KIP"
+authors:
+- family-names: "Goria"
+  given-names: "Eugenio"
+  orcid: "https://orcid.org/0000-0003-0713-8961"
+- family-names: "Mauri"
+  given-names: "Caterina"
+  orcid: "https://orcid.org/0000-0002-8226-7846"
+- family-names: "Silvia"
+  given-names: "Ballarè"
+  orcid: "https://orcid.org/0000-0002-5568-1611"
+version: 1.0.0
+date-released: 2019-06-04
+url: "https://github.com/KIParla/KIP"
+license: CC-BY-NC-SA-4.0
+identifiers:
+  - description: "The concept DOI of the work"
+    type: doi
+    value: 10.60760/unibo/kip
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Goria"
+    given-names: "Eugenio"
+    orcid: "https://orcid.org/0000-0003-0713-8961"
+  - family-names: "Mauri"
+    given-names: "Caterina"
+    orcid: "https://orcid.org/0000-0002-8226-7846"
+  journal: "CLUB Working Papers in Linguistics"
+  start: 96
+  end: 116
+  title: "Il corpus KIParla: una nuova risorsa per lo studio dell'italiano parlato"
+  volume: 2
+  year: 2018
+references:
+  - authors:
+      - family-names: Caterina
+        given-names: Mauri
+        orcid: "https://orcid.org/0000-0002-8226-7846"
+      - family-names: Silvia
+        given-names: Ballarè
+        orcid: "https://orcid.org/0000-0002-5568-1611"
+      - family-names: Massimo
+        given-names: Cerruti
+        orcid: "https://orcid.org/0000-0002-3744-7426"
+      - family-names: Eugenio
+        given-names: Goria
+        orcid: "https://orcid.org/0000-0003-0713-8961"
+      - family-names: Francesco
+        given-names: Suriano
+    journal: "Proceedings of the 6th Italian Conference on Computational Linguistics CLiC-it."
+    year: 2019
+    title: "KIParla corpus: a new resource for spoken Italian"
+    type: article
+  - authors:
+      - family-names: Silvia
+        given-names: Ballarè
+        orcid: "https://orcid.org/0000-0002-5568-1611"
+      - family-names: Eugenio
+        given-names: Goria
+        orcid: "https://orcid.org/0000-0003-0713-8961"
+      - family-names: Caterina
+        given-names: Mauri
+        orcid: "https://orcid.org/0000-0002-8226-7846"
+    year: 2022
+    title: "Italiano parlato e variazione linguistica. Teoria e prassi nella costruzione del corpus KIParla"
+    type: book
+  - authors:
+      - family-names: Caterina
+        given-names: Mauri
+        orcid: "https://orcid.org/0000-0002-8226-7846"
+      - family-names: Silvia
+        given-names: Ballarè
+        orcid: "https://orcid.org/0000-0002-5568-1611"
+      - family-names: Eugenio
+        given-names: Goria
+        orcid: "https://orcid.org/0000-0003-0713-8961"
+      - family-names: Massimo
+        given-names: Cerruti
+        orcid: "https://orcid.org/0000-0002-3744-7426"
+    journal: "Corpora e Studi Linguistici. Atti del LIV Congresso Internazionale di Studi della Società di Linguistica Italiana"
+    year: 2021
+    title: "Il corpus KIParla."
+    type: article
+  - authors:
+      - family-names: Silvia
+        given-names: Ballarè
+        orcid: "https://orcid.org/0000-0002-5568-1611"
+      - family-names: Caterina
+        given-names: Mauri
+        orcid: "https://orcid.org/0000-0002-8226-7846"
+    journal: "Rivista Italiana di Dialettologia"
+    year: 2020
+    volume: 4
+    start: 53
+    end: 69
+    title: "La creazione del corpus KIParla: criteri metodologici e prospettive future."
+    type: article
+  - authors:
+      - family-names: Silvia
+        given-names: Ballarè
+        orcid: "https://orcid.org/0000-0002-5568-1611"
+      - family-names: Caterina
+        given-names: Mauri
+        orcid: "https://orcid.org/0000-0002-8226-7846"
+      - family-names: Massimo
+        given-names: Cerruti
+        orcid: "https://orcid.org/0000-0002-3744-7426"
+      - family-names: Eugenio
+        given-names: Goria
+        orcid: "https://orcid.org/0000-0003-0713-8961"
+    journal: "Ricognizioni"
+    year: 2020
+    volume: 6
+    issue: 12
+    start: 275
+    end: 278
+    title: "Il corpus KIParla. Tra linguistica dei corpora e sociolinguistica dell'italiano."
+    type: article

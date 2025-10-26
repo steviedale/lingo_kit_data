@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+perché	perché	ADV		10042	0.003139	10042	0.003139	B	advmod		e1c6e6f5-52c8-532e-909f-96079ac3c1c4	6455d120-2004-5574-9108-1a86fc40eba7	lemma=perché, pos=ADV	Perché Tom ha così paura?	Why is Tom so afraid?	Perché ti servono così tanti vestiti?	Why do you need so many clothes?	Perché non partite?	Why don't you start?

@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-la	la	PRON		12450	0.003892	12450	0.003892	PC	flat:name	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	bbc1f65f-b657-5d94-83bb-09391fcaa3cf	0b62798a-d536-5b29-8a4c-4c45cc04d189	lemma=la, pos=PRON	Non dirò nulla su quello.	I won't say anything about that.	Non abbiamo nulla da perdere.	We have nothing to lose.	Perché Tom dovrebbe farla?	Why should Tom do it?

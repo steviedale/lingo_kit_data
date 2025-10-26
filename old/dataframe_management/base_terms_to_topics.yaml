@@ -1,0 +1,1939 @@
+topics:
+- Connectors & Conjunctions
+- Questions & Interrogatives
+- Adverbs & Particles
+- Negation
+- Time & Temporal
+- Greetings & Courtesy
+- Travel & Transportation
+- Lodging & Accommodation
+- Food & Drink
+- Dining & Service
+- Shopping & Retail
+- Money & Finance
+- Government & Institutions
+- Places & Locations
+- Buildings & Facilities
+- Nature & Environment
+- Family & Relationships
+- People & Titles
+- Professions & Occupations
+- Objects & Things
+- Household & Furniture
+- Body & Health
+- Crime & Safety
+- Religion & Spirituality
+- Numbers & Quantities
+- Measurements & Units
+- Directions & Position
+- Qualities & Descriptions
+- Verbs & Actions
+- Communication & Media
+- Clothing & Fashion
+- Emotions & States
+- Education & Learning
+- Prepositions & Relations
+- Concepts & Ideas
+- Pronouns & Determiners
+base_terms:
+  però:
+  - Connectors & Conjunctions
+  - Adverbs & Particles
+  appena:
+  - Adverbs & Particles
+  allora:
+  - Connectors & Conjunctions
+  - Adverbs & Particles
+  perché:
+  - Questions & Interrogatives
+  e:
+  - Connectors & Conjunctions
+  quasi:
+  - Adverbs & Particles
+  siccome:
+  - Connectors & Conjunctions
+  più:
+  - Adverbs & Particles
+  sia:
+  - Connectors & Conjunctions
+  neanche:
+  - Negation
+  quanto:
+  - Questions & Interrogatives
+  - Pronouns & Determiners
+  come:
+  - Questions & Interrogatives
+  mentre:
+  - Connectors & Conjunctions
+  comunque:
+  - Connectors & Conjunctions
+  - Adverbs & Particles
+  quindi:
+  - Connectors & Conjunctions
+  - Adverbs & Particles
+  se:
+  - Connectors & Conjunctions
+  tuttavia:
+  - Connectors & Conjunctions
+  - Adverbs & Particles
+  né:
+  - Connectors & Conjunctions
+  - Negation
+  oppure:
+  - Connectors & Conjunctions
+  quando:
+  - Questions & Interrogatives
+  che:
+  - Questions & Interrogatives
+  - Pronouns & Determiners
+  ma:
+  - Connectors & Conjunctions
+  o:
+  - Connectors & Conjunctions
+  per cui:
+  - Connectors & Conjunctions
+  - Adverbs & Particles
+  così:
+  - Connectors & Conjunctions
+  posta:
+  - Objects & Things
+  - Communication & Media
+  volo:
+  - Travel & Transportation
+  - Objects & Things
+  sapere:
+  - Verbs & Actions
+  signorina:
+  - People & Titles
+  - Objects & Things
+  estate:
+  - Time & Temporal
+  - Objects & Things
+  salone:
+  - Buildings & Facilities
+  - Objects & Things
+  ferrovia:
+  - Travel & Transportation
+  - Objects & Things
+  quarto:
+  - Objects & Things
+  - Measurements & Units
+  buonasera:
+  - Time & Temporal
+  - Greetings & Courtesy
+  - Objects & Things
+  - Qualities & Descriptions
+  tetto:
+  - Buildings & Facilities
+  - Objects & Things
+  - Household & Furniture
+  capolinea:
+  - Travel & Transportation
+  - Places & Locations
+  - Objects & Things
+  secondo:
+  - Objects & Things
+  - Qualities & Descriptions
+  buongiorno:
+  - Time & Temporal
+  - Greetings & Courtesy
+  - Objects & Things
+  - Qualities & Descriptions
+  stazione:
+  - Travel & Transportation
+  - Buildings & Facilities
+  - Objects & Things
+  chilometro:
+  - Objects & Things
+  - Measurements & Units
+  parola:
+  - Objects & Things
+  - Communication & Media
+  doccia:
+  - Buildings & Facilities
+  - Objects & Things
+  - Household & Furniture
+  rotta:
+  - Travel & Transportation
+  - Objects & Things
+  pizza:
+  - Food & Drink
+  finestra:
+  - Buildings & Facilities
+  - Objects & Things
+  - Household & Furniture
+  biglietteria:
+  - Travel & Transportation
+  - Government & Institutions
+  - Buildings & Facilities
+  - Objects & Things
+  completo:
+  - Objects & Things
+  - Clothing & Fashion
+  oro:
+  - Objects & Things
+  ritardo:
+  - Travel & Transportation
+  - Concepts & Ideas
+  mezzogiorno:
+  - Time & Temporal
+  - Places & Locations
+  - Objects & Things
+  mattino:
+  - Time & Temporal
+  - Objects & Things
+  insalata:
+  - Food & Drink
+  - Objects & Things
+  venezia:
+  - Places & Locations
+  - Objects & Things
+  curiosità:
+  - Objects & Things
+  - Communication & Media
+  - Emotions & States
+  destra:
+  - Objects & Things
+  - Directions & Position
+  tenuta:
+  - Objects & Things
+  - Clothing & Fashion
+  bagno:
+  - Buildings & Facilities
+  - Objects & Things
+  - Household & Furniture
+  orario:
+  - Objects & Things
+  - Qualities & Descriptions
+  cuoca:
+  - Professions & Occupations
+  - Objects & Things
+  fratello:
+  - Family & Relationships
+  - Objects & Things
+  prenotazione:
+  - Lodging & Accommodation
+  - Dining & Service
+  - Objects & Things
+  consolato:
+  - Government & Institutions
+  - Objects & Things
+  albergo:
+  - Lodging & Accommodation
+  - Objects & Things
+  bellezza:
+  - Emotions & States
+  - Concepts & Ideas
+  supermercato:
+  - Shopping & Retail
+  - Objects & Things
+  zaino:
+  - Travel & Transportation
+  - Objects & Things
+  seguito:
+  - Concepts & Ideas
+  edificio:
+  - Buildings & Facilities
+  - Objects & Things
+  basso:
+  - Objects & Things
+  - Qualities & Descriptions
+  fumatore:
+  - Professions & Occupations
+  - Objects & Things
+  blocchetto:
+  - Shopping & Retail
+  - Objects & Things
+  contro:
+  - Prepositions & Relations
+  lavanderia:
+  - Buildings & Facilities
+  - Objects & Things
+  problema:
+  - Concepts & Ideas
+  successo:
+  - Emotions & States
+  - Concepts & Ideas
+  angolo:
+  - Objects & Things
+  - Directions & Position
+  modo:
+  - Concepts & Ideas
+  soldo:
+  - Money & Finance
+  - Objects & Things
+  locale:
+  - Qualities & Descriptions
+  - Concepts & Ideas
+  piatto:
+  - Food & Drink
+  - Objects & Things
+  cosa:
+  - Concepts & Ideas
+  pasta:
+  - Food & Drink
+  carrozza:
+  - Travel & Transportation
+  - Objects & Things
+  farmacia:
+  - Shopping & Retail
+  - Objects & Things
+  - Body & Health
+  vento:
+  - Nature & Environment
+  - Objects & Things
+  sinistra:
+  - Objects & Things
+  - Directions & Position
+  volere:
+  - Verbs & Actions
+  collina:
+  - Nature & Environment
+  - Objects & Things
+  fianco:
+  - Objects & Things
+  - Directions & Position
+  camera:
+  - Lodging & Accommodation
+  - Buildings & Facilities
+  - Objects & Things
+  - Household & Furniture
+  notte:
+  - Time & Temporal
+  - Objects & Things
+  prossimo:
+  - Objects & Things
+  - Directions & Position
+  - Qualities & Descriptions
+  edera:
+  - Nature & Environment
+  - Objects & Things
+  fossa:
+  - Nature & Environment
+  - Objects & Things
+  anziano:
+  - People & Titles
+  - Objects & Things
+  - Qualities & Descriptions
+  anno:
+  - Time & Temporal
+  - Objects & Things
+  barca:
+  - Travel & Transportation
+  - Nature & Environment
+  - Objects & Things
+  spiaggia:
+  - Nature & Environment
+  - Objects & Things
+  caso:
+  - Concepts & Ideas
+  bar:
+  - Dining & Service
+  - Objects & Things
+  figlio:
+  - Family & Relationships
+  - Objects & Things
+  arrestato:
+  - Government & Institutions
+  - Objects & Things
+  - Crime & Safety
+  metropolitana:
+  - Travel & Transportation
+  - Objects & Things
+  tavolo:
+  - Dining & Service
+  - Objects & Things
+  - Household & Furniture
+  parrucchiere:
+  - Professions & Occupations
+  - Verbs & Actions
+  autobus:
+  - Travel & Transportation
+  - Objects & Things
+  polizia:
+  - Government & Institutions
+  - Objects & Things
+  - Crime & Safety
+  servizio:
+  - Dining & Service
+  - Concepts & Ideas
+  minuto:
+  - Time & Temporal
+  - Objects & Things
+  dio:
+  - Objects & Things
+  - Religion & Spirituality
+  ieri:
+  - Time & Temporal
+  - Objects & Things
+  classe:
+  - Objects & Things
+  - Education & Learning
+  lista:
+  - Objects & Things
+  - Communication & Media
+  spagnolo:
+  - Places & Locations
+  - People & Titles
+  - Objects & Things
+  banca:
+  - Money & Finance
+  - Objects & Things
+  torino:
+  - Places & Locations
+  - Objects & Things
+  dovere:
+  - Verbs & Actions
+  - Concepts & Ideas
+  valuta:
+  - Money & Finance
+  - Objects & Things
+  adulto:
+  - Family & Relationships
+  - People & Titles
+  - Objects & Things
+  giorno:
+  - Time & Temporal
+  - Objects & Things
+  nulla:
+  - Negation
+  bambino:
+  - Family & Relationships
+  - Objects & Things
+  signore:
+  - People & Titles
+  - Objects & Things
+  momento:
+  - Time & Temporal
+  - Concepts & Ideas
+  cinque:
+  - Numbers & Quantities
+  moglie:
+  - Family & Relationships
+  - Objects & Things
+  potere:
+  - Verbs & Actions
+  - Concepts & Ideas
+  parte:
+  - Concepts & Ideas
+  primo:
+  - Objects & Things
+  - Qualities & Descriptions
+  roba:
+  - Concepts & Ideas
+  salumeria:
+  - Food & Drink
+  - Objects & Things
+  permesso:
+  - Greetings & Courtesy
+  - Concepts & Ideas
+  macellaio:
+  - Professions & Occupations
+  - Objects & Things
+  conto:
+  - Dining & Service
+  - Money & Finance
+  - Objects & Things
+  anticipo:
+  - Money & Finance
+  - Concepts & Ideas
+  passaporto:
+  - Travel & Transportation
+  - Government & Institutions
+  - Objects & Things
+  bagaglio:
+  - Travel & Transportation
+  - Objects & Things
+  panificio:
+  - Food & Drink
+  - Shopping & Retail
+  - Objects & Things
+  ritiro:
+  - Money & Finance
+  - Objects & Things
+  cima:
+  - Nature & Environment
+  - Objects & Things
+  settecento:
+  - Numbers & Quantities
+  - Measurements & Units
+  binario:
+  - Travel & Transportation
+  - Objects & Things
+  apparenza:
+  - Concepts & Ideas
+  cena:
+  - Dining & Service
+  - Objects & Things
+  ritorno:
+  - Travel & Transportation
+  - Concepts & Ideas
+  fame:
+  - Food & Drink
+  - Objects & Things
+  - Body & Health
+  - Emotions & States
+  cibo:
+  - Food & Drink
+  - Objects & Things
+  piccolo:
+  - Objects & Things
+  - Qualities & Descriptions
+  freddo:
+  - Objects & Things
+  - Qualities & Descriptions
+  vestito:
+  - Objects & Things
+  - Clothing & Fashion
+  marito:
+  - Family & Relationships
+  - Objects & Things
+  antipasto:
+  - Food & Drink
+  - Dining & Service
+  - Objects & Things
+  piacere:
+  - Greetings & Courtesy
+  - Verbs & Actions
+  - Emotions & States
+  - Concepts & Ideas
+  ristorante:
+  - Food & Drink
+  - Dining & Service
+  - Objects & Things
+  indirizzo:
+  - Objects & Things
+  - Communication & Media
+  biglietto:
+  - Travel & Transportation
+  - Objects & Things
+  sedia:
+  - Dining & Service
+  - Objects & Things
+  - Household & Furniture
+  inglese:
+  - Places & Locations
+  - People & Titles
+  - Objects & Things
+  omicidio:
+  - Objects & Things
+  - Crime & Safety
+  bevanda:
+  - Food & Drink
+  - Objects & Things
+  secolo:
+  - Objects & Things
+  - Measurements & Units
+  ingresso:
+  - Buildings & Facilities
+  - Objects & Things
+  - Directions & Position
+  americano:
+  - Places & Locations
+  - People & Titles
+  - Objects & Things
+  eccitazione:
+  - Objects & Things
+  - Emotions & States
+  amico:
+  - People & Titles
+  - Objects & Things
+  assegno:
+  - Money & Finance
+  - Objects & Things
+  madre:
+  - Family & Relationships
+  - Objects & Things
+  ostello:
+  - Lodging & Accommodation
+  - Objects & Things
+  cartina:
+  - Shopping & Retail
+  - Objects & Things
+  tempo:
+  - Time & Temporal
+  - Objects & Things
+  moneta:
+  - Money & Finance
+  - Objects & Things
+  occhio:
+  - Objects & Things
+  - Body & Health
+  ripetuta:
+  - Time & Temporal
+  - Objects & Things
+  sì:
+  - Adverbs & Particles
+  valigia:
+  - Travel & Transportation
+  - Objects & Things
+  uomo:
+  - People & Titles
+  - Objects & Things
+  spicciolo:
+  - Money & Finance
+  - Objects & Things
+  - Qualities & Descriptions
+  aeroporto:
+  - Travel & Transportation
+  - Objects & Things
+  persona:
+  - People & Titles
+  - Objects & Things
+  identità:
+  - Body & Health
+  - Concepts & Ideas
+  panetteria:
+  - Food & Drink
+  - Shopping & Retail
+  - Objects & Things
+  male:
+  - Adverbs & Particles
+  corsa:
+  - Travel & Transportation
+  - Objects & Things
+  dessert:
+  - Food & Drink
+  - Objects & Things
+  abitante:
+  - People & Titles
+  - Objects & Things
+  volta:
+  - Time & Temporal
+  - Objects & Things
+  numero:
+  - Numbers & Quantities
+  impiccato:
+  - Objects & Things
+  - Crime & Safety
+  domani:
+  - Time & Temporal
+  - Objects & Things
+  treno:
+  - Travel & Transportation
+  - Objects & Things
+  ciao:
+  - Greetings & Courtesy
+  - Objects & Things
+  salotto:
+  - Lodging & Accommodation
+  - Buildings & Facilities
+  - Objects & Things
+  - Household & Furniture
+  marciapiede:
+  - Travel & Transportation
+  - Objects & Things
+  tegola:
+  - Buildings & Facilities
+  - Objects & Things
+  - Household & Furniture
+  giornata:
+  - Time & Temporal
+  - Objects & Things
+  seicento:
+  - Numbers & Quantities
+  ricco:
+  - Objects & Things
+  - Qualities & Descriptions
+  poliziotto:
+  - Government & Institutions
+  - Professions & Occupations
+  - Objects & Things
+  - Crime & Safety
+  avere:
+  - Verbs & Actions
+  agenzia:
+  - Government & Institutions
+  - Objects & Things
+  uscita:
+  - Travel & Transportation
+  - Buildings & Facilities
+  - Objects & Things
+  - Directions & Position
+  pettegolezzo:
+  - Objects & Things
+  - Communication & Media
+  libreria:
+  - Shopping & Retail
+  - Objects & Things
+  - Education & Learning
+  banco:
+  - Buildings & Facilities
+  - Objects & Things
+  padre:
+  - Family & Relationships
+  - Objects & Things
+  studio:
+  - Buildings & Facilities
+  - Objects & Things
+  - Education & Learning
+  dimora:
+  - Lodging & Accommodation
+  - Objects & Things
+  lavandino:
+  - Buildings & Facilities
+  - Objects & Things
+  - Household & Furniture
+  toilette:
+  - Buildings & Facilities
+  - Objects & Things
+  - Household & Furniture
+  negozio:
+  - Shopping & Retail
+  - Objects & Things
+  pane:
+  - Food & Drink
+  mancia:
+  - Money & Finance
+  - Objects & Things
+  banconota:
+  - Money & Finance
+  - Objects & Things
+  essere:
+  - Verbs & Actions
+  costa:
+  - Places & Locations
+  - Nature & Environment
+  - Objects & Things
+  mezzanotte:
+  - Time & Temporal
+  - Objects & Things
+  favore:
+  - Concepts & Ideas
+  vicino:
+  - People & Titles
+  - Objects & Things
+  - Directions & Position
+  caffè:
+  - Food & Drink
+  - Dining & Service
+  snob:
+  - People & Titles
+  - Objects & Things
+  grazia:
+  - Objects & Things
+  - Emotions & States
+  pub:
+  - Dining & Service
+  - Objects & Things
+  facciata:
+  - Buildings & Facilities
+  - Objects & Things
+  ultimo:
+  - Time & Temporal
+  - Objects & Things
+  - Qualities & Descriptions
+  sera:
+  - Time & Temporal
+  - Objects & Things
+  entrata:
+  - Travel & Transportation
+  - Buildings & Facilities
+  - Objects & Things
+  - Directions & Position
+  ufficio:
+  - Government & Institutions
+  - Buildings & Facilities
+  - Objects & Things
+  barbiere:
+  - Professions & Occupations
+  - Verbs & Actions
+  aereo:
+  - Travel & Transportation
+  - Objects & Things
+  contrario:
+  - Objects & Things
+  - Directions & Position
+  raggio:
+  - Measurements & Units
+  - Concepts & Ideas
+  ricompensa:
+  - Concepts & Ideas
+  verità:
+  - Concepts & Ideas
+  menù:
+  - Dining & Service
+  - Objects & Things
+  roma:
+  - Places & Locations
+  - Objects & Things
+  peggio:
+  - Objects & Things
+  - Qualities & Descriptions
+  taxi:
+  - Travel & Transportation
+  - Objects & Things
+  stanza:
+  - Lodging & Accommodation
+  - Buildings & Facilities
+  - Objects & Things
+  - Household & Furniture
+  francobollo:
+  - Objects & Things
+  - Communication & Media
+  villaggio:
+  - Places & Locations
+  - Objects & Things
+  armadietto:
+  - Shopping & Retail
+  - Buildings & Facilities
+  - Objects & Things
+  - Household & Furniture
+  hotel:
+  - Lodging & Accommodation
+  - Objects & Things
+  strada:
+  - Travel & Transportation
+  - Places & Locations
+  - Objects & Things
+  paese:
+  - Places & Locations
+  - Objects & Things
+  gabinetto:
+  - Buildings & Facilities
+  - Objects & Things
+  - Household & Furniture
+  credito:
+  - Money & Finance
+  - Objects & Things
+  carta:
+  - Money & Finance
+  - Objects & Things
+  bene:
+  - Adverbs & Particles
+  macchina:
+  - Travel & Transportation
+  - Objects & Things
+  aria:
+  - Nature & Environment
+  - Objects & Things
+  cuoco:
+  - Professions & Occupations
+  - Objects & Things
+  casa:
+  - Lodging & Accommodation
+  - Buildings & Facilities
+  - Objects & Things
+  napoli:
+  - Places & Locations
+  - Objects & Things
+  causa:
+  - Concepts & Ideas
+  contorno:
+  - Food & Drink
+  - Objects & Things
+  - Directions & Position
+  nave:
+  - Travel & Transportation
+  - Nature & Environment
+  - Objects & Things
+  gelateria:
+  - Food & Drink
+  - Shopping & Retail
+  - Nature & Environment
+  - Objects & Things
+  affare:
+  - Shopping & Retail
+  - Money & Finance
+  - Verbs & Actions
+  versione:
+  - Concepts & Ideas
+  racconto:
+  - Communication & Media
+  - Concepts & Ideas
+  città:
+  - Places & Locations
+  - Objects & Things
+  magazzino:
+  - Shopping & Retail
+  - Buildings & Facilities
+  - Objects & Things
+  chiave:
+  - Objects & Things
+  minestra:
+  - Food & Drink
+  - Objects & Things
+  storia:
+  - Communication & Media
+  - Concepts & Ideas
+  cameriera:
+  - Dining & Service
+  - Professions & Occupations
+  - Objects & Things
+  ancora:
+  - Adverbs & Particles
+  attenzione:
+  - Communication & Media
+  - Concepts & Ideas
+  sete:
+  - Food & Drink
+  - Objects & Things
+  - Body & Health
+  - Emotions & States
+  intorno:
+  - Adverbs & Particles
+  - Directions & Position
+  alba:
+  - Time & Temporal
+  - Objects & Things
+  fronzolo:
+  - Objects & Things
+  - Clothing & Fashion
+  mezzo:
+  - Travel & Transportation
+  - Objects & Things
+  settimana:
+  - Time & Temporal
+  - Objects & Things
+  piazza:
+  - Places & Locations
+  - Objects & Things
+  nome:
+  - Communication & Media
+  - Concepts & Ideas
+  malato:
+  - Objects & Things
+  - Body & Health
+  bancomat:
+  - Money & Finance
+  - Objects & Things
+  colpo:
+  - Crime & Safety
+  - Concepts & Ideas
+  vecchio:
+  - Objects & Things
+  - Qualities & Descriptions
+  seta:
+  - Objects & Things
+  - Clothing & Fashion
+  coincidenza:
+  - Concepts & Ideas
+  mese:
+  - Time & Temporal
+  - Objects & Things
+  pasticceria:
+  - Food & Drink
+  - Shopping & Retail
+  - Objects & Things
+  assassino:
+  - Objects & Things
+  - Crime & Safety
+  pomeriggio:
+  - Time & Temporal
+  - Objects & Things
+  mercato:
+  - Shopping & Retail
+  - Objects & Things
+  buonanotte:
+  - Time & Temporal
+  - Greetings & Courtesy
+  - Objects & Things
+  - Qualities & Descriptions
+  denaro:
+  - Money & Finance
+  - Objects & Things
+  acqua:
+  - Nature & Environment
+  - Objects & Things
+  vino:
+  - Food & Drink
+  euro:
+  - Money & Finance
+  - Objects & Things
+  posto:
+  - Places & Locations
+  - Objects & Things
+  arrivederci:
+  - Greetings & Courtesy
+  - Objects & Things
+  italiano:
+  - Places & Locations
+  - People & Titles
+  - Objects & Things
+  dolce:
+  - Food & Drink
+  - Objects & Things
+  sorella:
+  - Family & Relationships
+  - Objects & Things
+  chiusa:
+  - Buildings & Facilities
+  - Objects & Things
+  cassa:
+  - Shopping & Retail
+  - Money & Finance
+  - Objects & Things
+  verdura:
+  - Food & Drink
+  - Objects & Things
+  mattina:
+  - Time & Temporal
+  - Objects & Things
+  regalo:
+  - Shopping & Retail
+  - Concepts & Ideas
+  ora:
+  - Adverbs & Particles
+  - Time & Temporal
+  bisogno:
+  - Concepts & Ideas
+  lato:
+  - Objects & Things
+  - Directions & Position
+  'no':
+  - Negation
+  ghiaccio:
+  - Nature & Environment
+  - Objects & Things
+  pezzo:
+  - Objects & Things
+  fresco:
+  - Objects & Things
+  - Qualities & Descriptions
+  donna:
+  - People & Titles
+  - Objects & Things
+  britannico:
+  - Places & Locations
+  - People & Titles
+  - Objects & Things
+  sforzare:
+  - Verbs & Actions
+  accorrere:
+  - Verbs & Actions
+  capire:
+  - Verbs & Actions
+  discutere:
+  - Verbs & Actions
+  volare:
+  - Verbs & Actions
+  amare:
+  - Verbs & Actions
+  - Emotions & States
+  girare:
+  - Verbs & Actions
+  pregare:
+  - Religion & Spirituality
+  - Verbs & Actions
+  stare:
+  - Verbs & Actions
+  vietare:
+  - Verbs & Actions
+  dominare:
+  - Verbs & Actions
+  stendere:
+  - Qualities & Descriptions
+  - Verbs & Actions
+  vedere:
+  - Verbs & Actions
+  dare:
+  - Verbs & Actions
+  importare:
+  - Verbs & Actions
+  passare:
+  - Verbs & Actions
+  contare:
+  - Verbs & Actions
+  studiare:
+  - Verbs & Actions
+  - Education & Learning
+  postare:
+  - Verbs & Actions
+  - Communication & Media
+  occupare:
+  - Verbs & Actions
+  impiccare:
+  - Crime & Safety
+  - Verbs & Actions
+  - Prepositions & Relations
+  rallentare:
+  - Adverbs & Particles
+  - Directions & Position
+  - Qualities & Descriptions
+  - Verbs & Actions
+  trovare:
+  - Verbs & Actions
+  cambiare:
+  - Verbs & Actions
+  annunciare:
+  - Verbs & Actions
+  - Communication & Media
+  partire:
+  - Travel & Transportation
+  - Verbs & Actions
+  fare:
+  - Verbs & Actions
+  cominciare:
+  - Verbs & Actions
+  pagare:
+  - Money & Finance
+  - Verbs & Actions
+  crescere:
+  - Verbs & Actions
+  ritirare:
+  - Verbs & Actions
+  aggiungere:
+  - Verbs & Actions
+  costare:
+  - Verbs & Actions
+  porre:
+  - Verbs & Actions
+  distare:
+  - Directions & Position
+  - Qualities & Descriptions
+  - Verbs & Actions
+  indirizzare:
+  - Verbs & Actions
+  - Communication & Media
+  chiamare:
+  - Verbs & Actions
+  - Communication & Media
+  inchiodare:
+  - Verbs & Actions
+  valutare:
+  - Verbs & Actions
+  addolorare:
+  - Verbs & Actions
+  - Emotions & States
+  radunare:
+  - Verbs & Actions
+  aprire:
+  - Qualities & Descriptions
+  - Verbs & Actions
+  destare:
+  - Verbs & Actions
+  sporcare:
+  - Qualities & Descriptions
+  - Verbs & Actions
+  assegnare:
+  - Verbs & Actions
+  attraversare:
+  - Verbs & Actions
+  cenare:
+  - Dining & Service
+  - Verbs & Actions
+  unire:
+  - Verbs & Actions
+  regalare:
+  - Shopping & Retail
+  - Verbs & Actions
+  - Concepts & Ideas
+  mettere:
+  - Verbs & Actions
+  fermare:
+  - Travel & Transportation
+  - Verbs & Actions
+  correre:
+  - Verbs & Actions
+  ripetere:
+  - Time & Temporal
+  - Verbs & Actions
+  perdere:
+  - Verbs & Actions
+  funzionare:
+  - Verbs & Actions
+  abitare:
+  - Verbs & Actions
+  accorgersi:
+  - Verbs & Actions
+  ancorare:
+  - Verbs & Actions
+  morire:
+  - Verbs & Actions
+  viaggiare:
+  - Travel & Transportation
+  - Verbs & Actions
+  condizionare:
+  - Verbs & Actions
+  crogiolarsi:
+  - Verbs & Actions
+  malcelare:
+  - Adverbs & Particles
+  - Verbs & Actions
+  succedere:
+  - Verbs & Actions
+  urlare:
+  - Verbs & Actions
+  completare:
+  - Verbs & Actions
+  subire:
+  - Verbs & Actions
+  fingersi:
+  - Verbs & Actions
+  ritornare:
+  - Travel & Transportation
+  - Verbs & Actions
+  - Concepts & Ideas
+  consolare:
+  - Verbs & Actions
+  anticipare:
+  - Adverbs & Particles
+  - Directions & Position
+  - Verbs & Actions
+  seguire:
+  - Verbs & Actions
+  mancare:
+  - People & Titles
+  - Verbs & Actions
+  conoscere:
+  - Verbs & Actions
+  - Prepositions & Relations
+  mangiare:
+  - Verbs & Actions
+  vivere:
+  - Verbs & Actions
+  includere:
+  - Verbs & Actions
+  venire:
+  - Verbs & Actions
+  cercare:
+  - Verbs & Actions
+  - Prepositions & Relations
+  scorrere:
+  - Verbs & Actions
+  chiudere:
+  - Verbs & Actions
+  spalancare:
+  - Qualities & Descriptions
+  - Verbs & Actions
+  bagnare:
+  - Verbs & Actions
+  rompere:
+  - Verbs & Actions
+  arrestare:
+  - Government & Institutions
+  - Crime & Safety
+  - Verbs & Actions
+  permettere:
+  - Verbs & Actions
+  scusare:
+  - Verbs & Actions
+  convenire:
+  - Verbs & Actions
+  andare:
+  - Verbs & Actions
+  ricompensare:
+  - Verbs & Actions
+  - Concepts & Ideas
+  raccontare:
+  - Verbs & Actions
+  - Communication & Media
+  prendere:
+  - Verbs & Actions
+  uscire:
+  - Verbs & Actions
+  desolare:
+  - Verbs & Actions
+  - Emotions & States
+  dire:
+  - Verbs & Actions
+  - Communication & Media
+  fumare:
+  - Verbs & Actions
+  entrare:
+  - Verbs & Actions
+  pensare:
+  - Verbs & Actions
+  atterrire:
+  - Verbs & Actions
+  dimorare:
+  - Verbs & Actions
+  significare:
+  - Verbs & Actions
+  parlare:
+  - Verbs & Actions
+  - Communication & Media
+  vestire:
+  - Verbs & Actions
+  - Clothing & Fashion
+  mostrare:
+  - Verbs & Actions
+  - Communication & Media
+  arrivare:
+  - Travel & Transportation
+  - Verbs & Actions
+  perdonare:
+  - Verbs & Actions
+  comprare:
+  - Verbs & Actions
+  tenere:
+  - Verbs & Actions
+  caro:
+  - Objects & Things
+  - Qualities & Descriptions
+  attento:
+  - Objects & Things
+  - Qualities & Descriptions
+  elegante:
+  - Objects & Things
+  - Qualities & Descriptions
+  grande:
+  - Objects & Things
+  - Qualities & Descriptions
+  malcelato:
+  - Objects & Things
+  - Qualities & Descriptions
+  sgarbato:
+  - Objects & Things
+  - Qualities & Descriptions
+  grosso:
+  - Objects & Things
+  - Qualities & Descriptions
+  corto:
+  - Objects & Things
+  - Qualities & Descriptions
+  diverso:
+  - Objects & Things
+  - Qualities & Descriptions
+  imponente:
+  - Objects & Things
+  - Qualities & Descriptions
+  spesso:
+  - Adverbs & Particles
+  - Qualities & Descriptions
+  chiuso:
+  - Objects & Things
+  - Qualities & Descriptions
+  medesimo:
+  - Objects & Things
+  - Qualities & Descriptions
+  nuovo:
+  - Objects & Things
+  - Qualities & Descriptions
+  regale:
+  - Objects & Things
+  - Qualities & Descriptions
+  bello:
+  - Objects & Things
+  - Qualities & Descriptions
+  veloce:
+  - Adverbs & Particles
+  - Qualities & Descriptions
+  stanco:
+  - Objects & Things
+  - Body & Health
+  - Qualities & Descriptions
+  - Emotions & States
+  costoso:
+  - Objects & Things
+  - Qualities & Descriptions
+  importante:
+  - Objects & Things
+  - Qualities & Descriptions
+  spalancato:
+  - Objects & Things
+  - Qualities & Descriptions
+  incolto:
+  - Nature & Environment
+  - Objects & Things
+  - Qualities & Descriptions
+  aggiunto:
+  - Qualities & Descriptions
+  - Verbs & Actions
+  certo:
+  - Qualities & Descriptions
+  - Concepts & Ideas
+  simile:
+  - Qualities & Descriptions
+  - Concepts & Ideas
+  desolato:
+  - Objects & Things
+  - Qualities & Descriptions
+  grandioso:
+  - Objects & Things
+  - Qualities & Descriptions
+  ripetuto:
+  - Time & Temporal
+  - Qualities & Descriptions
+  - Concepts & Ideas
+  atterrito:
+  - Objects & Things
+  - Qualities & Descriptions
+  - Emotions & States
+  postale:
+  - Objects & Things
+  - Communication & Media
+  strano:
+  - Objects & Things
+  - Qualities & Descriptions
+  facile:
+  - Objects & Things
+  - Qualities & Descriptions
+  migliore:
+  - Objects & Things
+  - Qualities & Descriptions
+  aperto:
+  - Objects & Things
+  - Qualities & Descriptions
+  vasto:
+  - Objects & Things
+  - Qualities & Descriptions
+  impopolare:
+  - Verbs & Actions
+  corso:
+  - Travel & Transportation
+  - Places & Locations
+  - Objects & Things
+  - Education & Learning
+  puro:
+  - Objects & Things
+  - Qualities & Descriptions
+  lento:
+  - Adverbs & Particles
+  - Qualities & Descriptions
+  economico:
+  - Money & Finance
+  - Objects & Things
+  - Qualities & Descriptions
+  perso:
+  - Objects & Things
+  - Qualities & Descriptions
+  vietato:
+  - Crime & Safety
+  - Qualities & Descriptions
+  - Concepts & Ideas
+  fino:
+  - Adverbs & Particles
+  - Directions & Position
+  - Prepositions & Relations
+  passato:
+  - Time & Temporal
+  - Objects & Things
+  - Qualities & Descriptions
+  occupato:
+  - Objects & Things
+  - Qualities & Descriptions
+  chiaro:
+  - Objects & Things
+  - Qualities & Descriptions
+  libero:
+  - Objects & Things
+  - Qualities & Descriptions
+  ferroviario:
+  - Travel & Transportation
+  - Objects & Things
+  potabile:
+  - Food & Drink
+  - Objects & Things
+  - Qualities & Descriptions
+  fermo:
+  - Adverbs & Particles
+  altro:
+  - Qualities & Descriptions
+  - Concepts & Ideas
+  - Pronouns & Determiners
+  serale:
+  - Time & Temporal
+  - Objects & Things
+  scorso:
+  - Time & Temporal
+  - Objects & Things
+  - Qualities & Descriptions
+  sporco:
+  - Objects & Things
+  - Qualities & Descriptions
+  lungo:
+  - Objects & Things
+  - Qualities & Descriptions
+  opposto:
+  - Objects & Things
+  - Directions & Position
+  teatrale:
+  - Objects & Things
+  - Qualities & Descriptions
+  inchiodato:
+  - Objects & Things
+  - Qualities & Descriptions
+  chiamato:
+  - Objects & Things
+  - Qualities & Descriptions
+  - Communication & Media
+  vivo:
+  - Objects & Things
+  - Qualities & Descriptions
+  radunato:
+  - Qualities & Descriptions
+  - Verbs & Actions
+  addolorato:
+  - Objects & Things
+  - Qualities & Descriptions
+  - Emotions & States
+  alto:
+  - Objects & Things
+  - Qualities & Descriptions
+  metropolitano:
+  - Travel & Transportation
+  - Objects & Things
+  - Qualities & Descriptions
+  stesso:
+  - Objects & Things
+  - Qualities & Descriptions
+  bravo:
+  - People & Titles
+  - Objects & Things
+  - Qualities & Descriptions
+  buono:
+  - Objects & Things
+  - Qualities & Descriptions
+  rapido:
+  - Adverbs & Particles
+  - Qualities & Descriptions
+  disabitato:
+  - Places & Locations
+  - Objects & Things
+  - Qualities & Descriptions
+  sinistro:
+  - Objects & Things
+  - Directions & Position
+  umido:
+  - Nature & Environment
+  - Objects & Things
+  - Qualities & Descriptions
+  pronto:
+  - Objects & Things
+  - Qualities & Descriptions
+  - Emotions & States
+  unito:
+  - Qualities & Descriptions
+  - Verbs & Actions
+  sano:
+  - People & Titles
+  - Objects & Things
+  - Body & Health
+  - Qualities & Descriptions
+  steso:
+  - Qualities & Descriptions
+  - Verbs & Actions
+  caldo:
+  - Nature & Environment
+  - Objects & Things
+  - Qualities & Descriptions
+  naturale:
+  - Nature & Environment
+  - Objects & Things
+  - Qualities & Descriptions
+  lontano:
+  - Objects & Things
+  - Qualities & Descriptions
+  incluso:
+  - Qualities & Descriptions
+  - Verbs & Actions
+  - Concepts & Ideas
+  difficile:
+  - Qualities & Descriptions
+  - Concepts & Ideas
+  cattivo:
+  - Objects & Things
+  - Qualities & Descriptions
+  destro:
+  - Objects & Things
+  - Directions & Position
+  solo:
+  - Adverbs & Particles
+  dritto:
+  - Objects & Things
+  - Directions & Position
+  - Qualities & Descriptions
+  terribile:
+  - Objects & Things
+  - Qualities & Descriptions
+  rotto:
+  - Objects & Things
+  - Qualities & Descriptions
+  condizionato:
+  - Objects & Things
+  - Qualities & Descriptions
+  silenzioso:
+  - Objects & Things
+  - Qualities & Descriptions
+  suo:
+  - Pronouns & Determiners
+  li:
+  - Pronouns & Determiners
+  lui:
+  - Pronouns & Determiners
+  che cosa:
+  - Questions & Interrogatives
+  quello:
+  - Pronouns & Determiners
+  nessuno:
+  - Negation
+  - Pronouns & Determiners
+  chi:
+  - Questions & Interrogatives
+  - Pronouns & Determiners
+  mi:
+  - Pronouns & Determiners
+  ne:
+  - Prepositions & Relations
+  - Pronouns & Determiners
+  tanto:
+  - Numbers & Quantities
+  - Pronouns & Determiners
+  lo:
+  - Pronouns & Determiners
+  ti:
+  - Pronouns & Determiners
+  questo:
+  - Pronouns & Determiners
+  loro:
+  - Pronouns & Determiners
+  si:
+  - Pronouns & Determiners
+  tutto:
+  - Pronouns & Determiners
+  dove:
+  - Questions & Interrogatives
+  - Pronouns & Determiners
+  tuo:
+  - Pronouns & Determiners
+  abbastanza:
+  - Numbers & Quantities
+  - Pronouns & Determiners
+  altrettanto:
+  - Numbers & Quantities
+  - Pronouns & Determiners
+  quale:
+  - Questions & Interrogatives
+  - Pronouns & Determiners
+  gli:
+  - Verbs & Actions
+  - Pronouns & Determiners
+  lo stesso:
+  - Numbers & Quantities
+  - Qualities & Descriptions
+  - Pronouns & Determiners
+  sé:
+  - Pronouns & Determiners
+  ognuno:
+  - Numbers & Quantities
+  - Pronouns & Determiners
+  io:
+  - Pronouns & Determiners
+  qualcuno:
+  - Pronouns & Determiners
+  voi:
+  - Pronouns & Determiners
+  nostro:
+  - Pronouns & Determiners
+  cui:
+  - Questions & Interrogatives
+  - Pronouns & Determiners
+  qualcosa:
+  - Pronouns & Determiners
+  lei:
+  - Pronouns & Determiners
+  poco:
+  - Numbers & Quantities
+  - Qualities & Descriptions
+  - Pronouns & Determiners
+  alcuno:
+  - Pronouns & Determiners
+  ecco:
+  - Adverbs & Particles
+  - Directions & Position
+  - Pronouns & Determiners
+  ciascuno:
+  - Pronouns & Determiners
+  mio:
+  - Pronouns & Determiners
+  me:
+  - Pronouns & Determiners
+  la:
+  - Pronouns & Determiners
+  niente:
+  - Negation
+  le:
+  - Verbs & Actions
+  - Pronouns & Determiners
+  tu:
+  - Pronouns & Determiners
+  noi:
+  - Pronouns & Determiners
+  uno:
+  - Numbers & Quantities
+  - Pronouns & Determiners
+  ci:
+  - Adverbs & Particles
+  - Directions & Position
+  - Pronouns & Determiners
+  molto:
+  - Numbers & Quantities
+  - Pronouns & Determiners
+  vi:
+  - Adverbs & Particles
+  - Directions & Position
+  - Pronouns & Determiners
+  troppo:
+  - Numbers & Quantities
+  - Pronouns & Determiners
+  vostro:
+  - Pronouns & Determiners
+  un:
+  - Pronouns & Determiners
+  del:
+  - Pronouns & Determiners
+  il:
+  - Pronouns & Determiners
+  dentro:
+  - Adverbs & Particles
+  - Directions & Position
+  oggi:
+  - Adverbs & Particles
+  - Time & Temporal
+  ormai:
+  - Adverbs & Particles
+  - Prepositions & Relations
+  subito:
+  - Adverbs & Particles
+  - Directions & Position
+  dietro:
+  - Adverbs & Particles
+  - Directions & Position
+  perciò:
+  - Connectors & Conjunctions
+  - Adverbs & Particles
+  là:
+  - Adverbs & Particles
+  - Directions & Position
+  qui:
+  - Adverbs & Particles
+  - Directions & Position
+  soltanto:
+  - Adverbs & Particles
+  rapidamente:
+  - Adverbs & Particles
+  chiaramente:
+  - Adverbs & Particles
+  sopra:
+  - Adverbs & Particles
+  - Directions & Position
+  forse:
+  - Adverbs & Particles
+  anche:
+  - Adverbs & Particles
+  adesso:
+  - Adverbs & Particles
+  lentamente:
+  - Adverbs & Particles
+  mai:
+  - Adverbs & Particles
+  - Negation
+  assolutamente:
+  - Adverbs & Particles
+  poi:
+  - Adverbs & Particles
+  fuori:
+  - Adverbs & Particles
+  - Directions & Position
+  su:
+  - Adverbs & Particles
+  - Prepositions & Relations
+  accanto:
+  - Adverbs & Particles
+  - Directions & Position
+  presto:
+  - Adverbs & Particles
+  pure:
+  - Adverbs & Particles
+  meno:
+  - Adverbs & Particles
+  lì:
+  - Adverbs & Particles
+  - Directions & Position
+  certamente:
+  - Adverbs & Particles
+  già:
+  - Adverbs & Particles
+  non:
+  - Negation
+  meglio:
+  - Adverbs & Particles
+  - Qualities & Descriptions
+  improvvisamente:
+  - Adverbs & Particles
+  sotto:
+  - Adverbs & Particles
+  - Directions & Position
+  tardi:
+  - Adverbs & Particles
+  sempre:
+  - Adverbs & Particles
+  laggiù:
+  - Adverbs & Particles
+  - Directions & Position
+  prego:
+  - Adverbs & Particles
+  - Greetings & Courtesy
+  - Pronouns & Determiners
+  davanti:
+  - Adverbs & Particles
+  - Directions & Position
+  talora:
+  - Adverbs & Particles
+  dopo:
+  - Adverbs & Particles
+  giù:
+  - Adverbs & Particles
+  - Directions & Position
+  qua:
+  - Adverbs & Particles
+  - Directions & Position
+  avanti:
+  - Adverbs & Particles
+  - Directions & Position
+  a volte:
+  - Adverbs & Particles
+  sessanta:
+  - Numbers & Quantities
+  trecento:
+  - Numbers & Quantities
+  ventisette:
+  - Numbers & Quantities
+  quattro:
+  - Numbers & Quantities
+  diciotto:
+  - Numbers & Quantities
+  una:
+  - Numbers & Quantities
+  quarantuno:
+  - Numbers & Quantities
+  ventinove:
+  - Numbers & Quantities
+  due:
+  - Numbers & Quantities
+  cinquanta:
+  - Numbers & Quantities
+  nove:
+  - Numbers & Quantities
+  ventisei:
+  - Numbers & Quantities
+  cento:
+  - Numbers & Quantities
+  diciannove:
+  - Numbers & Quantities
+  trentadue:
+  - Numbers & Quantities
+  sette:
+  - Numbers & Quantities
+  duecentoventi:
+  - Numbers & Quantities
+  undici:
+  - Numbers & Quantities
+  diciassette:
+  - Numbers & Quantities
+  ottanta:
+  - Numbers & Quantities
+  sedici:
+  - Numbers & Quantities
+  ventimila:
+  - Numbers & Quantities
+  venticinque:
+  - Numbers & Quantities
+  dodici:
+  - Numbers & Quantities
+  ventitré:
+  - Numbers & Quantities
+  quattrocento:
+  - Numbers & Quantities
+  quattordici:
+  - Numbers & Quantities
+  duecento:
+  - Numbers & Quantities
+  cinquecento:
+  - Numbers & Quantities
+  ottocento:
+  - Numbers & Quantities
+  - Measurements & Units
+  novecento:
+  - Numbers & Quantities
+  - Measurements & Units
+  novanta:
+  - Numbers & Quantities
+  ventidue:
+  - Numbers & Quantities
+  ventotto:
+  - Numbers & Quantities
+  quarantadue:
+  - Numbers & Quantities
+  ventiquattro:
+  - Numbers & Quantities
+  tredici:
+  - Numbers & Quantities
+  zero:
+  - Numbers & Quantities
+  otto:
+  - Numbers & Quantities
+  trenta:
+  - Numbers & Quantities
+  trentatré:
+  - Numbers & Quantities
+  centomila:
+  - Numbers & Quantities
+  ogni:
+  - Numbers & Quantities
+  - Pronouns & Determiners
+  dieci:
+  - Numbers & Quantities
+  tre:
+  - Numbers & Quantities
+  ventuno:
+  - Numbers & Quantities
+  quaranta:
+  - Numbers & Quantities
+  trentuno:
+  - Numbers & Quantities
+  qualche:
+  - Numbers & Quantities
+  - Pronouns & Determiners
+  quindici:
+  - Numbers & Quantities
+  settanta:
+  - Numbers & Quantities
+  diecimila:
+  - Numbers & Quantities
+  attraverso:
+  - Directions & Position
+  - Prepositions & Relations
+  fino a:
+  - Adverbs & Particles
+  - Directions & Position
+  - Prepositions & Relations
+  a:
+  - Prepositions & Relations
+  vicino a:
+  - Directions & Position
+  - Prepositions & Relations
+  per:
+  - Prepositions & Relations
+  da:
+  - Prepositions & Relations
+  circa:
+  - Prepositions & Relations
+  fra:
+  - Time & Temporal
+  - Directions & Position
+  - Prepositions & Relations
+  con:
+  - Prepositions & Relations
+  davanti a:
+  - Directions & Position
+  - Prepositions & Relations
+  di:
+  - Prepositions & Relations
+  in:
+  - Prepositions & Relations
+  presso:
+  - Directions & Position
+  - Prepositions & Relations
+  accanto a:
+  - Directions & Position
+  - Prepositions & Relations
+  senza:
+  - Negation
+  - Prepositions & Relations
+  tra:
+  - Directions & Position
+  - Prepositions & Relations
+  durante:
+  - Prepositions & Relations

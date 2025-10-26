@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+presto	presto	ADV		2003	0.000626	2003	0.000626	B	advmod		4c7b4bd5-638e-5ac3-9a4b-2a257957c3c0	e2b4f842-cd67-5fbb-b4db-0694b86e6632	lemma=presto, pos=ADV	Venne presto.	He came soon.	Lui è arrivato molto presto stamattina.	He arrived very early this morning.	Non sarebbe dovuta venire così presto.	You shouldn't have come so soon.
