@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-partirei	partire	NOUN		1	1e-06	428	0.000626	partire+re	NOUN+NOUN	S	root	Gender=Fem|Number=Plur|Gender=Masc	67c34a7c-47f3-5dde-8775-01ee3df513fc	5242d39a-0b91-5f84-b03f-31769f1d3171	lemma=partire, pos=NOUN	Partirei.	I'd leave.				

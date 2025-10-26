@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gatta	gatto	ADJ		2	3e-06	439	0.000642	gatto	ADJ	A	amod	Gender=Fem|Number=Sing	d9368981-51a6-579b-8851-2646d3d98596	ac4ca78a-e56a-53e1-82a2-340d34e08b14	lemma=gatto, pos=ADJ	La mia gatta ama l'erba gatta.	My cat loves catnip.	Il mio gatto ama l'erba gatta.	My cat loves catnip.		

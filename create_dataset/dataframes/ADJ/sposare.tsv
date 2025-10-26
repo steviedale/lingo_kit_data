@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sposati	sposare	ADJ		3	4e-06	454	0.000664	sposare	ADJ	A	root	Gender=Masc|Number=Plur	73255db7-9340-56d7-a92a-1eee387fa23d	3d832a4e-a61e-5227-bd17-b4140af407d9	lemma=sposare, pos=ADJ	Siete ancora sposati?	Are you still married?	Siete sposati?	Are you married?	Voi siete ancora sposati?	Are you still married?

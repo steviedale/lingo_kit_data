@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-già	già	ADV		486	0.000711	486	0.000711	già	ADV	B	advmod		40377873-bfff-58a7-9f9e-11dfddaadb77	290f42df-c6cb-5ae9-9617-ab6c0f4e14fc	lemma=già, pos=ADV	Ho già chiamato la polizia.	I've already called the police.	Io sono già pronta.	I'm already ready.	Hai già usato la mia tazza?	Did you already use my cup?

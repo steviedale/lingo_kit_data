@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-scorso	scorso	VERB		1	1e-06	519	0.000759	scorso	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7e285da9-b5e7-56bc-bb3a-9f9666fd7b97	ae11f022-1830-5d78-a6ed-60223c6fbf4f	lemma=scorso, pos=VERB	Lui ha scorso il mio manoscritto.	He quickly scanned my manuscript.				

@@ -15,9 +15,18 @@ Task
 - Lowercase the gloss unless capitalization is required (rare).
 - For finite forms, write a short English clause that begins with the implied subject: “I have”, “you have”, “he/she/it has”, “we had”, “they will have”, “you (plural) must”, etc. Use “you (plural)” to mark second-person plural; second-person singular can remain “you”.
 - When a form naturally supports multiple senses (e.g., modal shades), repeat the clause for each sense, keeping the same subject each time: “he/she/it must; he/she/it has to; he/she/it should”.
-- For non-finite forms (infinitives, participles, gerunds), use the neutral English form without a subject (“to have”, “having”, “had”, “to be”, “being”, “been”).
-- Keep punctuation minimal: no trailing period and no quotation marks. Separate multiple senses with semicolons (max three).
-- Ensure consistency across all forms of a lemma so learners can see how subject + auxiliary combinations change.
+ - For non-finite forms (infinitives, participles, gerunds), use the neutral English form without a subject (“to have”, “having”, “had”, “to be”, “being”, “been”).
+ - Keep punctuation minimal: no trailing period and no quotation marks. Separate multiple senses with semicolons (max three).
+ - Ensure consistency across all forms of a lemma so learners can see how subject + auxiliary combinations change.
+
+Gender and Number Markers (new)
+- When a row has gender/number features in `feats`, append concise markers to the gloss to disambiguate forms:
+  - Gender=Masc → add “(masculine)”
+  - Gender=Fem → add “(feminine)”
+  - Number=Plur → add “(plural)”
+- Do not add “(singular)”. Omit “(masculine)” when no feminine counterpart exists in the same TSV file for that lemma (i.e., no possible confusion).
+- If both gender and plural apply, include both markers in this order: gender, then number (e.g., “been (masculine) (plural)”).
+- Apply these markers primarily to participles and any other forms that carry Gender/Number in `feats`. Do not add markers to finite forms unless Gender/Number is explicitly present for that token.
 
 Cliticized non-finite forms (important)
 - When an infinitive/gerund/participle of an auxiliary carries enclitic object/indirect-object pronouns (e.g., avermi, averti, averlo, averglielo), translate using a neutral slot pattern with [VERB] so learners see where the main verb normally inserts:
@@ -78,5 +87,6 @@ Examples (pattern only; adjust to the row’s usage)
 Quality Checklist (for each edited row)
 - [ ] Gloss matches the auxiliary sense shown in example sentences
 - [ ] Concise wording (≤3 senses) with semicolons between distinct meanings
+- [ ] Gender/number markers added when required (gender only if contrasting gender exists in file; add “(plural)” for Number=Plur; never add “(singular)”) 
 - [ ] No grammatical metadata or unnecessary parentheses
 - [ ] TSV structure preserved; only translation_en modified

@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-esca	uscire	NOUN		1	1e-06	462	0.000676	uscire	NOUN	S	obj	Gender=Fem|Number=Sing	1aa713de-d666-504f-8020-5bb4398f0b7a	0cd9df8f-c9fe-54e1-bcc8-2b01bbb2b2e3	lemma=uscire, pos=NOUN	Ho messo l'esca sull'amo.	I put bait on the hook.				

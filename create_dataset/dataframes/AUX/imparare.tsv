@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-impariamo	imparare	AUX		2	3e-06	546	0.000799	imparare	AUX	VA	aux	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	ec6188da-aee1-5c93-b02c-9979d39dbbe1	c54c2f98-bab5-5008-a542-7b99953caad2	lemma=imparare, pos=AUX	Noi impariamo scrivendo.	We learn by writing.	Impariamo scrivendo.	We learn by writing.		

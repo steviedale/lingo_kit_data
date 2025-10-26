@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sicuro	sicuro	NOUN		2	3e-06	675	0.000988	sicuro	NOUN	S	root	Gender=Masc|Number=Sing	166b6be6-7792-51cd-aadd-98f8dbb9984b	ece9a0c1-8370-58b1-8d34-43637a3bf99a	lemma=sicuro, pos=NOUN	Voi non sarete al sicuro da nessuna parte.	You won't be safe anywhere.	Tu non sarai al sicuro da nessuna parte.	You won't be safe anywhere.		

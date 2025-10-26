@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-nulla	nu	NOUN		1	1e-06	442	0.000647	nu+la	NOUN+PRON	S	obj	Gender=Fem|Number=Sing|Clitic=Yes|Person=3|PronType=Prs	6587a3b2-87bb-5dfe-b259-20f22d91b563	4363a894-32dd-5446-ad9d-c6a9d852c811	lemma=nu, pos=NOUN	Non hai nulla di cui sentirti colpevole.	You have nothing to feel guilty about.				

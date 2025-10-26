@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-le	le	PRON		820	0.0012	820	0.0012	le	PRON	PC	iobj	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	ece4ec43-bba9-5f4f-aac5-cba70d34e70d	26457623-29d4-560c-8e63-6f9837592a55	lemma=le, pos=PRON	Faccia come le dico.	Do as I tell you.	Non le mento mai.	I never lie to you.	Lei non le riconosce?	Don't you recognize them?
