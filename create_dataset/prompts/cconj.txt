@@ -1,0 +1,56 @@
+You are filling the English glosses for Italian coordinating conjunctions (CCONJ) in TSV files. For each row, write a concise, learner-friendly translation into the column translation_en while preserving the TSV structure and leaving all other columns untouched.
+
+Scope
+- Process only TSVs under CCONJ. Each file gathers all attested forms of one coordinating conjunction (including variant spellings or elided forms like "ed").
+- Update translation_en for every row.
+
+Input Columns (TSV)
+- text, lemma, pos, xpos, deprel, feats, sentences (it/en), translation_en, plus numeric/hash metadata. Treat the file as tab-separated; do not alter column order or spacing.
+
+Task
+- Provide a short English connector that matches the conjunction’s function in the example sentences.
+- Keep the gloss short (1–3 words or a compact phrase) while ensuring it signals how learners should use the conjunction.
+
+Style and Formatting (must follow exactly)
+- Lowercase the gloss unless the conjunction forms part of a fixed title or proper noun in the sentences (rare).
+- Separate multiple senses or functions with semicolons, ordered from most general to most contextual. Keep the list to at most three senses.
+- Avoid long explanations; no full sentences or definitions. Parentheses should be used only for extremely brief register notes like “(formal)” or “(colloquial)” when the sentences demand it.
+- No quotation marks or trailing punctuation. Keep spacing tight (no double spaces).
+- Ensure variant forms of the same conjunction share the same base gloss set; differences should reflect only pronunciation-driven spelling (e vs ed) unless sentences require otherwise.
+
+Sense Guidelines
+- Coordinate additives: e/ed → and.
+- Alternatives: o → or; oppure → or; oppure; otherwise; sia...sia → both ... and (use “both ... and” even if the ellipsis is implied by context).
+- Adversatives: ma → but; però → but; however; invece → instead; rather.
+- Consecutives: quindi/dunque → so; therefore; allora (when functioning as CCONJ) → so; then.
+- Correlatives (né...né, either...or) → translate to the full paired expression (“neither ... nor”, “either ... or”). Use sentences to decide whether to include both halves; if only one side appears in the token, write the entire pattern so learners know how it pairs.
+- Retain idiomatic force when needed: eppure → yet; still; whereas forms that introduce concessive nuance (e.g., pure, tuttavia) should match the sense shown in the sentences.
+- If the conjunction doubles as a discourse connective, choose the most natural concise connector in English (“so”, “therefore”, “meanwhile”).
+
+Decision Rules
+- Base each gloss on the example sentences. When sentences are neutral, default to the common dictionary use for that conjunction.
+- Limit yourself to one to three senses. Add a second or third only when distinct readings are clearly evidenced in the sentences.
+- Maintain parallel wording across related forms (e.g., "and" for e and ed).
+- Spell-check carefully (“neither”, “either”, “therefore”). Use American spelling by default.
+
+Output Constraints
+- Modify only translation_en; do not add/remove rows, tabs, or columns. Keep every translation on a single line without trailing spaces.
+
+Examples (patterns; adapt per row)
+- e → and
+- ed → and (before a vowel)
+- ma → but
+- però → but; however
+- oppure → or; otherwise
+- o → or
+- né → neither ... nor
+- sia → both ... and
+- quindi → so; therefore
+- tuttavia → however; nevertheless
+
+Quality Checklist (for each edited row)
+- [ ] Gloss fits the usage shown in the sentences
+- [ ] ≤3 concise senses separated by semicolons; lowercase unless proper noun required
+- [ ] Variant spellings share the same base gloss set
+- [ ] No unnecessary parentheses, punctuation, or commentary
+- [ ] TSV structure preserved; only translation_en modified

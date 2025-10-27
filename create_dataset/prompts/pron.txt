@@ -1,0 +1,79 @@
+You are filling the English glosses for Italian pronouns (PRON) in TSV files. For each row, write a concise, learner-friendly translation into translation_en while preserving the TSV structure and keeping every other column untouched.
+
+Scope
+- Process only TSVs under PRON. Each file contains all forms of a pronoun lemma, including stressed forms, clitics, elisions, and combined clitic clusters.
+- Update translation_en for every row.
+
+Input Columns (TSV)
+- text, lemma, pos, xpos, deprel, feats, example sentences (it/en), translation_en, plus numeric/hash metadata. Treat the file as tab-separated; do not alter column order or spacing.
+
+Task
+- Provide a short English pronoun or pronoun phrase that matches the Italian form in the example sentences.
+- Capture the typical person/gender/number information so learners know who or what the pronoun can refer to.
+- Keep the gloss compact (usually 1–3 short options separated by semicolons) yet descriptive enough to show alternate uses (direct object vs indirect object, reflexive vs non-reflexive, etc.).
+
+Style and Formatting (must follow exactly)
+- Lowercase the gloss unless capitalization is required (e.g., “I”). Use sentence casing for English pronouns that demand it (“I”, “US” never capitalized unless acronym, which should not occur).
+- Separate multiple functions or reference possibilities with semicolons. Keep to a maximum of three entries ordered from most general/common to context-specific.
+- For subject pronouns, provide the full English subject phrase with the implied person when necessary (“I”, “you”, “he; she; it”, “we”, “you (plural)”, “they”).
+- For object clitics, express both gender/number coverage and case: “him; it (masculine)”, “her; it (feminine)”, “them (masculine)”, “to him; to it (masculine)”. If the form commonly covers more than one case (e.g., gli = to him; to her; to it), include each value separated by semicolons, ordered by frequency evidenced in sentences.
+- For reflexive/reciprocal forms, include “(reflexive)” only when necessary to prevent confusion; otherwise use natural English equivalents (“himself; herself; itself”).
+- Append concise notes in parentheses only for:
+  - Gender/number distinctions: “(masculine)”, “(feminine)”, “(masculine plural)”, “(feminine plural)”.
+  - Politeness/register distinctions: “(formal)”.
+  - Elision before a vowel: “(before a vowel)”.
+  - Person markers when essential (e.g., “(first person)”).
+  - Avoid other commentary; keep notes short.
+- For combined clitic clusters (e.g., glielo, me ne), write the full natural English object order in a short phrase: “it to him”, “some to me”, “me about it”. Include semicolons only when clearly distinct readings exist.
+- Do not use quotation marks or brackets. No trailing punctuation.
+- Maintain consistent wording across a lemma’s paradigm (e.g., all forms of io should just be “I”).
+
+Sense Guidelines
+- Personal subject pronouns (io, tu, lui, lei, noi, voi, essi/esse): translate to the corresponding English pronoun, adding gender notes when Italian distinguishes them (lui → “he”; lei → “she”). Include “(plural)” for voi when clarifying; optionally add “(formal)” if sentences show Lei as polite second-person singular.
+- Direct object clitics (mi, ti, lo, la, li, le, ci, vi) → express object pronouns with gender/number notes: “me”, “you”, “him; it (masculine)”, “her; it (feminine)”, “them (masculine)”, “them (feminine)”. Include indirect senses where attested (“mi” often = “to me”).
+- Indirect object clitics (gli, le, loro) → “to him; to her; to it (masculine/feminine as appropriate)”. Use semicolons to list distinct options supported by sentences.
+- Combined clitics (glielo, me lo, ce ne, te ne, gliene, ecc.) → translate as short object phrases showing both complements in English order (“it to him”, “it to me”, “some of it to us”). Add person notes only if necessary for clarity.
+- Reflexive forms (si, mi, ti, ci, vi when reflexive) → “himself; herself; itself”, “myself”, “yourself”, etc. For plural reflexive (si, ci, vi), use “themselves”, “ourselves”, “yourselves (plural)”. If the natural English translation is a pronominal verb (“get up”, “wash oneself”), prefer the idiomatic translation but keep it short.
+- Locative/partitive clitics: “ci” (there; about it; us) and “ne” (of it; of them; some). Use semicolons to show the common options, guided by sentences.
+- Relative/interrogative pronouns (che, cui, chi, quale, quanto) → translate to “who”, “whom”, “that”, “which”, “whose”, “whom”, “what”, “which one(s)” as required by context. Provide multiple options if sentences support them.
+- Indefinite pronouns (qualcuno, qualcosa, chiunque, niente, nessuno) → use natural equivalents (“someone”, “something”, “anyone”, “nothing”, “no one”). Include gender/number notes if the form inflects.
+- Polite forms (Lei, Loro when tagged PRON) → translate to “you (formal)” with appropriate number note.
+- Emphatic/stressed forms with apostrophes (m', t', l', gliel') → use the same base gloss as the non-elided form and add “(before a vowel)”.
+
+Decision Rules
+- Base each gloss on the example sentences. If sentences are neutral, default to the standard dictionary uses for that pronoun.
+- Limit yourself to three senses. When a pronoun regularly covers multiple roles (e.g., gli), use up to three options ordered by frequency/importance.
+- Keep wording consistent for identical functions across files (e.g., always use “to him; to her; to it (masculine)” for gli if all three uses appear).
+- Spell-check carefully ("themselves", "yourselves"). Use American spelling ("favorite", not "favourite") if adjectives appear in idiomatic translations.
+
+Output Constraints
+- Modify only translation_en. Do not add or remove columns, tabs, or rows. Keep each translation on a single line without trailing spaces.
+
+Examples (patterns; adapt to each row)
+- io → I
+- tu → you
+- lui → he (masculine)
+- lei → she; you (formal)
+- noi → we
+- voi → you (plural)
+- mi → me; to me
+- ti → you; to you
+- lo → him; it (masculine)
+- la → her; it (feminine)
+- li → them (masculine)
+- le → them (feminine); to her
+- gli → to him; to her; to it (masculine)
+- ne → of it; of them; some
+- ci → us; to us; there
+- si → himself; herself; itself; themselves
+- glielo → it to him; it to her
+- me ne → some of it to me; about it to me
+- che → who; that; which
+- cui → whom; which; to whom
+
+Quality Checklist (for each edited row)
+- [ ] Gloss aligns with the usage in the example sentences
+- [ ] ≤3 concise senses separated by semicolons, with capitalization only where required
+- [ ] Parenthetical notes restricted to gender/number/register/elision per guidelines
+- [ ] Combined clitics translated into short, natural English phrases in the correct order
+- [ ] TSV structure preserved; only translation_en modified

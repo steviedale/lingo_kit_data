@@ -1,0 +1,71 @@
+You are filling the English glosses for Italian determiners (DET) in TSV files. For each row, write a concise, learner-friendly translation into translation_en while preserving the TSV structure and leaving every other column untouched.
+
+Scope
+- Process only TSVs under DET. Each file covers all inflected forms of a determiner lemma (articles, demonstratives, possessives, quantifiers, interrogatives, etc.).
+- Update translation_en for every row.
+
+Input Columns (TSV)
+- text, lemma, pos, xpos, deprel, feats, example sentences (it/en), translation_en, plus numeric/hash metadata. The file is tab-separated; do not alter column order or whitespace.
+
+Task
+- Provide a short English determiner phrase that matches the Italian form in the example sentences.
+- Use the sentences to disambiguate meaning (definite vs partitive vs quantitative, etc.).
+- Keep the gloss compact (1–4 words or a short phrase) yet clear enough that learners know when to use the form.
+
+Style and Formatting (must follow exactly)
+- Lowercase the gloss unless the determiner is a proper noun (rare).
+- Separate multiple senses with semicolons (max three). Order them from most common/general to context-specific.
+- Include the possessor/grammatical information directly in the gloss when it is essential (e.g., "my", "your", "his/her").
+- Append concise morphological notes in parentheses when needed to highlight gender/number of the modified noun or to explain elision:
+  - Use “(masculine singular)”, “(feminine singular)”, “(masculine plural)”, “(feminine plural)” for inflected articles, demonstratives, possessives, and quantifiers.
+  - For forms that can modify both genders (e.g., plural invariable, l'), note “(singular)” or “(plural)” only if the Italian feature set leaves gender unspecified but the number matters for learners.
+  - Add “(before a vowel)” for elided forms such as l', quell', un' after any gender/number note.
+- Do not include explanations longer than two words in parentheses. Avoid square brackets, quotes, or additional punctuation.
+- Maintain consistent gloss wording across forms belonging to the same lemma so learners can compare paradigms easily.
+
+Sense Guidelines
+- Definite articles (il, lo, la, l', i, gli, le): translate as “the” plus the appropriate note for gender/number/elision.
+- Partitive determiners (del, dello, della, dei, degli, delle) when tagged DET: prefer “some; any” plus article note if sentences support the partitive use. If context clearly signals "of the", move that use to ADP; only keep partitive senses within DET files.
+- Demonstratives (questo, quello): use “this”, “that”, “these”, “those” with gender/number notes. Include “(before a vowel)” for quell', quell’ forms.
+- Possessives (mio, tuo, suo, nostro, vostro, loro): express the possessor (“my”, “your”, “his; her”, etc.) and add a gender/number note to show agreement with the possessed noun. Use “his; her” for suo/sua/suoi/sue unless sentences limit it to one gender; keep possessor person consistent across the lemma.
+- Quantifiers (molto, tanto, ogni, qualche, alcuni, nessun, tutto, ogni): choose learner-friendly equivalents (“much; a lot of”, “every”, “some”, “no”, “all”). Use plural notes when applicable.
+- Interrogative/relative determiners (quale, quanto, che) → “which”, “what”, “how much/many” with the appropriate note.
+- Indefinite articles (un, uno, una, un'): translate as “a; an; one” as supported by sentences, with gender/number/elision notes.
+- When a determiner is fused with pronouns (rare), rely on the sentences to decide whether to include the pronominal meaning in the gloss or to treat it as part of a fixed phrase; keep the translation as short as possible.
+
+Decision Rules
+- Base every gloss on the example sentences. If sentences are neutral, default to the core dictionary meaning for that determiner.
+- Limit yourself to three senses. If one gloss covers all examples, stick to that single gloss.
+- Keep possessor pronouns consistent throughout the file (e.g., always “my” for mio forms, never mix “my” and “mine”).
+- Spell-check carefully (“feminine”, “plural”, “these”). Use American spelling.
+
+Output Constraints
+- Modify only translation_en. Do not change column order, spacing, or row count. Keep each gloss on a single line without trailing spaces.
+
+Examples (patterns; adapt per row)
+- il → the (masculine singular)
+- lo → the (masculine singular) (before s+consonant)
+- l' → the (singular) (before a vowel)
+- i → the (masculine plural)
+- gli → the (masculine plural)
+- le → the (feminine plural)
+- un → a; one (masculine singular)
+- uno → a; one (masculine singular)
+- una → a; one (feminine singular)
+- un' → an; one (feminine singular) (before a vowel)
+- questo → this (masculine singular)
+- questa → this (feminine singular)
+- quei → those (masculine plural)
+- quello → that (masculine singular)
+- mia → my (feminine singular)
+- tuoi → your (masculine plural)
+- qualche → some; a few
+- ogni → every; each
+- nessun → no; not any (masculine singular)
+
+Quality Checklist (for each edited row)
+- [ ] Gloss matches the usage in the example sentences
+- [ ] ≤3 concise senses separated by semicolons; lowercase unless proper noun required
+- [ ] Gender/number/elision notes follow the approved parenthetical wording
+- [ ] Possessor wording is consistent within the lemma
+- [ ] TSV structure preserved; only translation_en modified

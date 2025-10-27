@@ -1,0 +1,77 @@
+You are filling the English glosses for Italian adpositions (ADP) in TSV files. For each row, write a concise, learner-friendly translation into the column translation_en while preserving the TSV structure and all other columns exactly as they are.
+
+Scope
+- Process only TSVs under ADP. Each file contains rows for one lemma with simple forms, articulated variants (preposition+article), elisions, and occasional fused clitic combinations.
+- Update the translation_en cell for every row (fill in if empty or rewrite to follow these guidelines).
+
+Input Columns (TSV)
+- text, lemma, pos, xpos, deprel, feats, sentence_1_it, sentence_1_en, sentence_2_it, sentence_2_en, sentence_3_it, sentence_3_en, translation_en, plus other numeric/hash metadata. Treat the file as tab-separated and leave all non-translation fields untouched.
+
+Task
+- Provide a short English gloss that captures the function of the Italian adposition in text.
+- Use the paired Italian/English sentences to identify the correct sense (location, time, manner, comparison, complement, etc.).
+- Keep the gloss compact (1–3 short senses or phrases) yet informative enough that a learner knows how the form is used.
+
+Style and Formatting (must follow exactly)
+- Lowercase the gloss unless capitalization is required (rare; e.g., proper names embedded in idioms).
+- Separate multiple senses with semicolons: sense1; sense2; sense3 (maximum three distinct senses).
+- For articulated prepositions (e.g., al, alla, degli), include the embedded article directly in the gloss ("to the", "of the") and append a parenthetical note that states the article’s gender/number: (masculine singular), (feminine plural), etc. Example: "to the; at the (masculine singular)".
+- When a form is elided before a vowel (e.g., all', dell'), add "(before a vowel)" after any gender/number note.
+- If a form retains multiple common senses (e.g., a = to; at; in), list them from most general to most contextual, guided by the example sentences.
+- Do not add explanations like “used with cities” inside the gloss. Keep notes to the short parenthetical patterns above. Avoid square brackets or quotes.
+- Be consistent across all rows in a lemma file: articulated variants should share the same base senses and differ only in article notes/elision notes unless sentences force a different sense.
+
+Sense Guidelines
+- Core simple prepositions: 
+  - a → to; at; in (use sentences to confirm whether “in” is warranted).
+  - di → of; from; about.
+  - da → from; by; since.
+  - in → in; into; at.
+  - su → on; over; about.
+  - con → with; along with.
+  - per → for; through; in order to.
+  - come → like; as.
+  - senza → without.
+- Articulated forms inherit the same senses; only add alternative senses if the article changes usage in the sentences (rare).
+- For prepositions used as complementizers or infinitive markers (e.g., "ad" before infinitives), translate to the natural English connector (“to”, “in order to”, “so that”) that matches the examples.
+- When an apparent ADP token is actually part of an idiomatic fusion with clitics (e.g., diglielo), rely on the sentences to express the full meaning succinctly (“of it to him”, “tell him it”). Keep the structure natural and short.
+- Avoid literal word-for-word renderings if an idiomatic equivalent is clearer for learners (e.g., "senza" → "without", not "with no").
+
+Morphology Notes (exact phrasing)
+- Use “(masculine singular)”, “(feminine singular)”, “(masculine plural)”, “(feminine plural)” for articulated articles when relevant.
+- If the articulated article is common gender (e.g., "dell'" used for masculine or feminine singular), note “(singular)” only when sentences make it necessary to disambiguate; otherwise prefer a gendered note if the lemma list shows both masculine and feminine variants. Never add “(plural)” unless the article is plural. Do not write “(masculine and feminine)”; instead, align with the gender shown by the article in feats.
+- Append “(before a vowel)” to any elided form (l', all', dell', sull'). Keep this after gender/number notes.
+
+Decision Rules
+- Base every gloss on the example sentences. When sentences are neutral, fall back to the most common prepositional senses listed above.
+- Limit to three senses. If one gloss covers all examples, provide a single sense.
+- Favor learner-friendly wording over technical terminology (use “about” instead of “regarding” unless the latter is clearly better in context).
+- Maintain consistent wording for parallel senses across forms (e.g., “to; at; in” for all forms of a when context supports all three).
+- Spell-check the glosses (e.g., “toward”, “through”). Use American spelling by default.
+
+Output Constraints
+- Modify only translation_en. Do not insert or remove tabs, rows, or columns. Keep each translation on a single line with no trailing spaces.
+
+Examples (patterns; adapt to each row)
+- a → to; at; in
+- al → to the; at the (masculine singular)
+- alla → to the; at the (feminine singular)
+- all' → to the; at the (singular) (before a vowel)
+- di → of; from; about
+- del → of the; from the (masculine singular)
+- dei → of the; some (masculine plural)
+- degli → of the; some (masculine plural) (before a vowel)
+- in → in; into; at
+- nel → in the; into the (masculine singular)
+- su → on; over; about
+- sul → on the; over the (masculine singular)
+- con → with
+- senza → without
+- per → for; in order to; through
+
+Quality Checklist (for each edited row)
+- [ ] Gloss matches the usage shown in the example sentences
+- [ ] ≤3 short senses separated by semicolons; lowercase unless required otherwise
+- [ ] Articulated forms include the correct gender/number note; elisions include “(before a vowel)”
+- [ ] No extra commentary or punctuation; only approved parentheses
+- [ ] TSV structure preserved; only translation_en modified
