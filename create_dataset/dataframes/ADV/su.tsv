@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-su	su	ADV		9	1.3e-05	2145	0.003139	su	ADV	B	advmod		72e71b6a-c0a7-5f05-bf86-7700624acaa7	83b3ce4b-e155-5370-b2d8-6913730c9cee	lemma=su, pos=ADV	Muovevano su e giù le chiavi.	They moved up and down the keys.	Tom sapeva di poter contare su di Mary.	Tom knew he could count on Mary.	L'ascensore sta andando su e giù.	The elevator is moving up and down.

@@ -1,3 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-amiche	amico	ADJ		16	2.3e-05	1380	0.002019	amico	ADJ	A	root	Gender=Fem|Number=Plur	556e155e-9953-5136-b59c-b1a0b93fa48f	c1f4fc56-2e5f-52dc-bff0-b7499e6ecb8c	lemma=amico, pos=ADJ	Loro sono amiche.	They're friends.	Sono amiche?	Are they friends?	Eravamo amiche.	We used to be friends.
-amici	amico	ADJ		1	1e-06	1380	0.002019	amico	ADJ	A	root	Gender=Masc|Number=Plur	78e3ae88-a73d-5dea-9b52-1e3f7d9d4bd4	c1f4fc56-2e5f-52dc-bff0-b7499e6ecb8c	lemma=amico, pos=ADJ	Siamo tutti amici!	We're all friends!				

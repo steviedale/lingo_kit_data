@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-di'	dire	ADP		3	4e-06	3134	0.004586	dire	ADP	E	root		8d960ab8-dc00-5060-b729-27ffbec53a41	1cf16099-1728-5fb5-85da-8e9d3c3546d5	lemma=dire, pos=ADP	Di' quello che vuoi dire.	Say what you want to say.	Di' ciò che è vero.	Say what is true.	Di' quello che pensi.	Speak your mind.

@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-vive	vivere	NOUN		7	1e-05	1144	0.001674	vivere	NOUN	S	root	Gender=Fem|Number=Plur	17390852-de14-568f-a74c-fe59d85f1dca	a72aa988-fdf3-54ac-b0a7-7ce071842733	lemma=vivere, pos=NOUN	Lei vive a Sasayama?	Do you live in Sasayama?	Lei vive a Kyoto.	She lives in Kyoto.	Lei vive a Yokohama.	She lives in Yokohama.

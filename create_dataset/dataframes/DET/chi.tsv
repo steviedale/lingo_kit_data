@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-chi	chi	DET		2	3e-06	972	0.001422	chi	DET	DQ	det	PronType=Int	ac23c808-33fa-5ec4-9935-d04c85e005f2	17a7cd5f-8de0-56f7-b87b-fc296b541dd1	lemma=chi, pos=DET	Con chi cena?	With whom are you eating dinner?	Chi diavolo è Adam Kadmon?	Who the hell is Adam Kadmon?		

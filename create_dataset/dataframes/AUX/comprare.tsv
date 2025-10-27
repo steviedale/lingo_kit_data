@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-comprò	comprare	AUX		1	1e-06	981	0.001436	comprare	AUX	VA	aux	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	55efc06d-a1d1-5a38-9b40-ce1e47f38dd3	eacf75bd-3b2d-5eea-90a2-5309c556735d	lemma=comprare, pos=AUX	Tom comprò usato il suo camion.	Tom bought his truck used.				

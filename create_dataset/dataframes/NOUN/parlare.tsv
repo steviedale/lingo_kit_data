@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-parlato	parlare	NOUN		1	1e-06	2078	0.003041	parlare	NOUN	S	obj	Gender=Masc|Number=Sing	f5f0856c-6651-533c-adad-711681c4d908	fca68c83-ecec-595c-ba8a-878c09507a2d	lemma=parlare, pos=NOUN	Un pappagallo riesce a imitare il parlato umano.	A parrot can imitate human speech.				

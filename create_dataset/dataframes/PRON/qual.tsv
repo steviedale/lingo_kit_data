@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+qual	qual	PRON		795	0.00076	795	0.00076	qual	PRON	PQ	root	Number=Sing|PronType=Int	384c59b7-e48f-5905-af2d-6e8dbbd9c12d	a6e7cb3d-df19-5072-9e4f-44db010f1ab0	Qual è il peso della vostra valigia?	What's the weight of your suitcase?	Qual è il vostro bersaglio?	Which is your target?	Qual è il nome della ragazza di Tom?	What is Tom's girlfriend's name?

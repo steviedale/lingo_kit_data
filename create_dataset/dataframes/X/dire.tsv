@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-di'	dire	X		1	1e-06	3134	0.004586	dire	X	SW	root	Foreign=Yes	2205d8e9-0140-5ada-955b-667d604aa703	47a60036-1cda-5b7d-80fa-a659b1330c70	lemma=dire, pos=X	Di' cheese.	Say cheese.				

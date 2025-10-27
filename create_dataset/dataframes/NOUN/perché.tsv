@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-perché	perché	NOUN		17	2.5e-05	1521	0.002226	perché	NOUN	S	nsubj	Gender=Masc|Number=Sing	8ee2bdbb-318e-5dca-9180-136d6a807ac1	09d50040-3983-5a65-abca-ead8cad0c00f	lemma=perché, pos=NOUN	Io riesco a capire il perché.	I can understand why.	Io gli scrissi per chiedere il perché.	I wrote him to ask why.	Riesco a capire il perché.	I can understand why.

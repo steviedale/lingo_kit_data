@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+oggi	oggi	ADV	today	1220	0.001167	1220	0.001167	oggi	ADV	B	advmod		d86276a9-0695-5607-ae83-264cf99e1506	23721512-b2ec-5872-9a36-60220f5768f0	Lui gioca all'aria aperta oggi.	He plays in the outfield today.	Io ho sentito una buona barzelletta oggi.	I heard a good joke today.	Non vi chiederò nient'altro oggi.	I won't ask you anything else today.

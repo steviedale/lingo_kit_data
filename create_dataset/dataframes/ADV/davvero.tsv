@@ -1,0 +1,2 @@
+text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+davvero	davvero	ADV	really; truly	1098	0.00105	1098	0.00105	davvero	ADV	B	advmod		a6834ed8-4a8b-589b-a85c-88f78dc3bfec	d8292b54-ce70-5114-864c-703f42d3b02f	Lei è davvero nei guai, vero?	You really are in trouble, aren't you?	Voglio davvero vedervi.	I really want to see you.	Io sono davvero fiero di lei.	I'm really proud of you.

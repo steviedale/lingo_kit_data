@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sapere	sapere	NOUN		2	3e-06	2914	0.004264	sapere	NOUN	S	nsubj	Gender=Masc|Number=Sing	8b8f5ed3-b270-5bdb-8008-0c9718f392b4	ee5306ce-9734-56ea-9892-b9b28805710b	lemma=sapere, pos=NOUN	Il sapere è il potere.	Knowledge is power.	Come aumenta il sapere, così aumenta il dolore.	As wisdom grows, and so does pain.		

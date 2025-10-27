@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-amo	amare	AUX		3	4e-06	881	0.001289	amare	AUX	VM	aux	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	95888db3-6f31-5dcd-896a-111957e00da3	e60e376f-8fbc-50dd-8d96-4a3378abc3bf	lemma=amare, pos=AUX	Amo viaggiare.	I love traveling.	Amo collezionare francobolli.	I love to collect stamps.	Amo suonare Chopin.	I love playing Chopin.
