@@ -1,0 +1,56 @@
+You are filling the English glosses for Italian numerals (NUM) in TSV files. For each row, write a concise, learner-friendly translation in translation_en while preserving the TSV structure and leaving all other columns untouched.
+
+Scope
+- Process only TSVs under NUM. Each file contains all forms of a numeral lemma (cardinals, ordinals, collective/multiplicative variants, elided spellings).
+- Update translation_en for every row.
+
+Input Columns (TSV)
+- text, lemma, pos, xpos, deprel, feats, example sentences (it/en), translation_en, plus numeric/hash metadata. Treat the file as tab-separated; do not alter column order or spacing.
+
+Task
+- Provide a short English numeral equivalent that matches the usage in the example sentences.
+- Keep the gloss succinct (usually one or two words, optionally accompanied by a numeric digit) yet clear enough for learners to recall both meaning and usage.
+
+Style and Formatting (must follow exactly)
+- Lowercase the gloss (e.g., “two”, “third”). Digits (0–9, 10, etc.) may appear alongside words but do not change case rules.
+- Prefer spelling out the number in words first. You may include the digit in parentheses immediately after the word when it aids clarity: “twenty-five (25)”.
+- Separate multiple senses with semicolons (max three). For example, “two; a couple” if sentences justify both readings.
+- Add short parenthetical notes only when morphology matters for learners: “(masculine singular)”, “(feminine plural)”, “(ordinal)”. Do not include “singular” unless necessary to contrast with a plural form; avoid long explanations.
+- Use “(before a vowel)” for elided forms such as “ventun'” if present.
+- No quotation marks, brackets, or trailing punctuation.
+
+Sense Guidelines
+- Cardinal numerals (due, tre, venti, centouno, ecc.): translate with the corresponding cardinal word ("two", "three", "twenty", “one hundred one”). Include the digit in parentheses for multiword numbers if it improves readability.
+- Ordinals (primo, terzo, ventunesimo): provide the ordinal word (“first”, “third”, “twenty-first”). Add “(ordinal)” if the Italian form could otherwise be mistaken for a cardinal.
+- Collective or fractional numerals (doppio, metà when tagged NUM) should receive concise equivalents (“double”, “half”) matching the sentences.
+- When a numeral functions idiomatically (e.g., “due” meaning “both” in context), include the idiomatic sense as a secondary gloss separated by a semicolon.
+- Retain special distinctions such as “pair”, “dozen”, or “hundred” if the Italian token encodes them.
+- For tokens that include a preposition or article as part of the written form (rare under NUM), translate the entire expression naturally (“one and a half”, “a hundred or so”).
+
+Decision Rules
+- Base every gloss on the example sentences. If sentences are neutral, default to the direct numeric value of the lemma.
+- Limit yourself to one to three senses. If a single gloss fully covers the usage, do not add extras.
+- Keep formatting identical across rows in the same lemma (e.g., if you choose “twenty-five (25)” for the base form, use the same pattern for related inflected variants).
+- Spell-check carefully (“forty”, not “fourty”; “ninety”, not “ninty”). Use American spelling.
+
+Output Constraints
+- Modify only translation_en. Do not insert or remove tabs, rows, or columns. Keep each translation on a single line with no trailing spaces.
+
+Examples (patterns; adapt per row)
+- uno → one; a (cardinal)
+- due → two
+- tre → three
+- dieci → ten
+- venticinque → twenty-five (25)
+- cento → one hundred (100)
+- primo → first (ordinal)
+- seconda → second (feminine singular) (ordinal)
+- terzi → thirds (masculine plural) (ordinal)
+- doppio → double; twice as much
+
+Quality Checklist (for each edited row)
+- [ ] Gloss matches the value/usage in the example sentences
+- [ ] ≤3 concise senses with semicolons; lowercase words and optional digits in parentheses
+- [ ] Morphological notes (gender/number/elision/ordinal) added only when needed and follow the approved format
+- [ ] Spelling of number words is correct and consistent across the lemma
+- [ ] TSV structure preserved; only translation_en modified
