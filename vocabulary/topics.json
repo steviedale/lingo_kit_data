@@ -1,0 +1,848 @@
+{
+  "all_topics": [
+    "Core Conversations",
+    "Describing People & Things",
+    "People & Relationships",
+    "Family & Home",
+    "Daily Routines",
+    "Food & Dining",
+    "Travel & Transportation",
+    "Work & School",
+    "Emotions & Attitudes",
+    "Time & Scheduling",
+    "Shopping & Money",
+    "Health & Wellness",
+    "Learning & Knowledge",
+    "City Life & Services",
+    "Leisure & Entertainment",
+    "Technology & Media",
+    "Nature & Environment",
+    "Numbers & Measurements",
+    "Directions & Location",
+    "Questions & Explanations"
+  ],
+  "adj": {
+    "altro": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "bello": [
+      "Describing People & Things",
+      "Emotions & Attitudes"
+    ],
+    "buono": [
+      "Describing People & Things",
+      "Emotions & Attitudes"
+    ],
+    "felice": [
+      "Emotions & Attitudes",
+      "People & Relationships"
+    ],
+    "grande": [
+      "Describing People & Things",
+      "Family & Home"
+    ],
+    "nuovo": [
+      "Describing People & Things",
+      "Shopping & Money"
+    ],
+    "primo": [
+      "Describing People & Things",
+      "Time & Scheduling"
+    ],
+    "scorso": [
+      "Time & Scheduling",
+      "Daily Routines"
+    ],
+    "sicuro": [
+      "Emotions & Attitudes",
+      "Health & Wellness"
+    ],
+    "solo": [
+      "Core Conversations",
+      "Emotions & Attitudes"
+    ],
+    "stanco": [
+      "Daily Routines",
+      "Health & Wellness"
+    ],
+    "vero": [
+      "Core Conversations",
+      "Learning & Knowledge"
+    ]
+  },
+  "adp": {
+    "a": [
+      "Core Conversations",
+      "Directions & Location"
+    ],
+    "come": [
+      "Core Conversations",
+      "Directions & Location"
+    ],
+    "con": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "da": [
+      "Core Conversations",
+      "Directions & Location"
+    ],
+    "di": [
+      "Core Conversations",
+      "Directions & Location"
+    ],
+    "in": [
+      "Core Conversations",
+      "Directions & Location"
+    ],
+    "per": [
+      "Core Conversations",
+      "Travel & Transportation"
+    ],
+    "senza": [
+      "Core Conversations",
+      "Health & Wellness"
+    ],
+    "su": [
+      "Core Conversations",
+      "Directions & Location"
+    ]
+  },
+  "adv": {
+    "abbastanza": [
+      "Core Conversations",
+      "Shopping & Money"
+    ],
+    "adesso": [
+      "Core Conversations",
+      "Time & Scheduling"
+    ],
+    "anche": [
+      "Core Conversations"
+    ],
+    "ancora": [
+      "Core Conversations",
+      "Time & Scheduling"
+    ],
+    "bene": [
+      "Emotions & Attitudes",
+      "Health & Wellness"
+    ],
+    "come": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "così": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "davvero": [
+      "Core Conversations",
+      "Emotions & Attitudes"
+    ],
+    "domani": [
+      "Daily Routines",
+      "Time & Scheduling"
+    ],
+    "dove": [
+      "Directions & Location",
+      "Questions & Explanations"
+    ],
+    "già": [
+      "Core Conversations",
+      "Time & Scheduling"
+    ],
+    "ieri": [
+      "Daily Routines",
+      "Time & Scheduling"
+    ],
+    "mai": [
+      "Core Conversations",
+      "Time & Scheduling"
+    ],
+    "molto": [
+      "Describing People & Things",
+      "Emotions & Attitudes"
+    ],
+    "non": [
+      "Core Conversations"
+    ],
+    "oggi": [
+      "Daily Routines",
+      "Time & Scheduling"
+    ],
+    "ora": [
+      "Daily Routines",
+      "Time & Scheduling"
+    ],
+    "perché": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "però": [
+      "Core Conversations",
+      "Emotions & Attitudes"
+    ],
+    "più": [
+      "Describing People & Things",
+      "Shopping & Money"
+    ],
+    "poco": [
+      "Shopping & Money",
+      "Describing People & Things"
+    ],
+    "presto": [
+      "Daily Routines",
+      "Time & Scheduling"
+    ],
+    "prima": [
+      "Learning & Knowledge",
+      "Time & Scheduling"
+    ],
+    "qui": [
+      "Core Conversations",
+      "Directions & Location"
+    ],
+    "sempre": [
+      "Daily Routines",
+      "Time & Scheduling"
+    ],
+    "solo": [
+      "Core Conversations",
+      "Emotions & Attitudes"
+    ],
+    "troppo": [
+      "Emotions & Attitudes",
+      "Shopping & Money"
+    ]
+  },
+  "aux": {
+    "avere": [
+      "Core Conversations",
+      "Daily Routines"
+    ],
+    "dovere": [
+      "Daily Routines",
+      "Work & School"
+    ],
+    "essere": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "potere": [
+      "Core Conversations",
+      "Daily Routines"
+    ],
+    "stare": [
+      "Core Conversations",
+      "Health & Wellness"
+    ],
+    "volere": [
+      "Core Conversations",
+      "Emotions & Attitudes"
+    ]
+  },
+  "cconj": {
+    "e": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "ma": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "o": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ]
+  },
+  "det": {
+    "alcuno": [
+      "Core Conversations",
+      "Shopping & Money"
+    ],
+    "che": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "il": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "mio": [
+      "Family & Home",
+      "People & Relationships"
+    ],
+    "molto": [
+      "Core Conversations",
+      "Shopping & Money"
+    ],
+    "nostro": [
+      "Family & Home",
+      "People & Relationships"
+    ],
+    "ogni": [
+      "Daily Routines",
+      "Time & Scheduling"
+    ],
+    "qualche": [
+      "Daily Routines",
+      "Shopping & Money"
+    ],
+    "quanto": [
+      "Questions & Explanations",
+      "Shopping & Money"
+    ],
+    "quello": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "questo": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "suo": [
+      "Family & Home",
+      "People & Relationships"
+    ],
+    "tuo": [
+      "Family & Home",
+      "People & Relationships"
+    ],
+    "tutto": [
+      "Core Conversations",
+      "Learning & Knowledge"
+    ],
+    "uno": [
+      "Core Conversations",
+      "Numbers & Measurements"
+    ],
+    "vostro": [
+      "Family & Home",
+      "People & Relationships"
+    ]
+  },
+  "noun": {
+    "amico": [
+      "People & Relationships",
+      "Leisure & Entertainment"
+    ],
+    "anno": [
+      "Daily Routines",
+      "Time & Scheduling"
+    ],
+    "bambino": [
+      "Family & Home",
+      "People & Relationships"
+    ],
+    "bisogno": [
+      "Daily Routines",
+      "Emotions & Attitudes"
+    ],
+    "cane": [
+      "Family & Home",
+      "Leisure & Entertainment"
+    ],
+    "casa": [
+      "Daily Routines",
+      "Family & Home"
+    ],
+    "città": [
+      "City Life & Services",
+      "Travel & Transportation"
+    ],
+    "cosa": [
+      "Core Conversations",
+      "Learning & Knowledge"
+    ],
+    "favore": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "figlio": [
+      "Family & Home",
+      "People & Relationships"
+    ],
+    "giorno": [
+      "Daily Routines",
+      "Time & Scheduling"
+    ],
+    "inglese": [
+      "Learning & Knowledge",
+      "Travel & Transportation",
+      "Work & School"
+    ],
+    "insegnante": [
+      "Learning & Knowledge",
+      "Work & School"
+    ],
+    "lavoro": [
+      "Daily Routines",
+      "Shopping & Money",
+      "Work & School"
+    ],
+    "libro": [
+      "Learning & Knowledge",
+      "Leisure & Entertainment"
+    ],
+    "macchina": [
+      "Daily Routines",
+      "Travel & Transportation"
+    ],
+    "madre": [
+      "Family & Home",
+      "People & Relationships"
+    ],
+    "nome": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "ora": [
+      "Daily Routines",
+      "Time & Scheduling"
+    ],
+    "padre": [
+      "Family & Home",
+      "People & Relationships"
+    ],
+    "parola": [
+      "Core Conversations",
+      "Learning & Knowledge"
+    ],
+    "parte": [
+      "Learning & Knowledge",
+      "Work & School"
+    ],
+    "persona": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "piacere": [
+      "Emotions & Attitudes",
+      "Leisure & Entertainment"
+    ],
+    "problema": [
+      "Daily Routines",
+      "Emotions & Attitudes",
+      "Work & School"
+    ],
+    "ragazzo": [
+      "Family & Home",
+      "People & Relationships"
+    ],
+    "scuola": [
+      "Learning & Knowledge",
+      "Work & School"
+    ],
+    "settimana": [
+      "Daily Routines",
+      "Time & Scheduling"
+    ],
+    "soldo": [
+      "Daily Routines",
+      "Shopping & Money"
+    ],
+    "stanza": [
+      "Daily Routines",
+      "Family & Home"
+    ],
+    "studente": [
+      "Learning & Knowledge",
+      "Work & School"
+    ],
+    "tempo": [
+      "Nature & Environment",
+      "Time & Scheduling"
+    ],
+    "uomo": [
+      "People & Relationships",
+      "Work & School"
+    ],
+    "vita": [
+      "Daily Routines",
+      "Emotions & Attitudes"
+    ],
+    "volta": [
+      "Core Conversations",
+      "Time & Scheduling"
+    ]
+  },
+  "num": {
+    "due": [
+      "Numbers & Measurements",
+      "Shopping & Money"
+    ],
+    "tre": [
+      "Numbers & Measurements",
+      "Shopping & Money"
+    ]
+  },
+  "pron": {
+    "altro": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "che": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "chi": [
+      "People & Relationships",
+      "Questions & Explanations"
+    ],
+    "ci": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "ciò": [
+      "Core Conversations",
+      "Learning & Knowledge"
+    ],
+    "cosa": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "cui": [
+      "People & Relationships",
+      "Questions & Explanations"
+    ],
+    "gli": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "io": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "la": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "le": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "lei": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "lo": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "loro": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "lui": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "me": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "mi": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "ne": [
+      "Core Conversations",
+      "Shopping & Money"
+    ],
+    "nessuno": [
+      "Emotions & Attitudes",
+      "People & Relationships"
+    ],
+    "niente": [
+      "Core Conversations",
+      "Emotions & Attitudes"
+    ],
+    "noi": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "perché": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "poco": [
+      "Core Conversations",
+      "Shopping & Money"
+    ],
+    "qual": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "qualcosa": [
+      "Core Conversations",
+      "Daily Routines"
+    ],
+    "quello": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "questo": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "si": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "te": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "ti": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "tu": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "tutto": [
+      "Core Conversations",
+      "Learning & Knowledge"
+    ],
+    "vi": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "voi": [
+      "Core Conversations",
+      "People & Relationships"
+    ]
+  },
+  "sconj": {
+    "che": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "come": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "perché": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "quando": [
+      "Questions & Explanations",
+      "Time & Scheduling"
+    ],
+    "se": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ]
+  },
+  "verb": {
+    "aiutare": [
+      "Daily Routines",
+      "People & Relationships",
+      "Work & School"
+    ],
+    "amare": [
+      "Emotions & Attitudes",
+      "People & Relationships"
+    ],
+    "andare": [
+      "Daily Routines",
+      "Travel & Transportation"
+    ],
+    "arrivare": [
+      "Time & Scheduling",
+      "Travel & Transportation"
+    ],
+    "aspettare": [
+      "Daily Routines",
+      "Time & Scheduling",
+      "Travel & Transportation"
+    ],
+    "avere": [
+      "Core Conversations",
+      "Daily Routines"
+    ],
+    "bere": [
+      "Food & Dining",
+      "Leisure & Entertainment"
+    ],
+    "capire": [
+      "Core Conversations",
+      "Learning & Knowledge"
+    ],
+    "chiamare": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "chiedere": [
+      "Core Conversations",
+      "Questions & Explanations"
+    ],
+    "comprare": [
+      "Daily Routines",
+      "Shopping & Money"
+    ],
+    "conoscere": [
+      "Learning & Knowledge",
+      "People & Relationships"
+    ],
+    "credere": [
+      "Emotions & Attitudes",
+      "Learning & Knowledge"
+    ],
+    "dare": [
+      "People & Relationships",
+      "Shopping & Money"
+    ],
+    "dire": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "diventare": [
+      "Emotions & Attitudes",
+      "Work & School"
+    ],
+    "essere": [
+      "Core Conversations",
+      "Describing People & Things"
+    ],
+    "fare": [
+      "Daily Routines",
+      "Work & School"
+    ],
+    "finire": [
+      "Time & Scheduling",
+      "Work & School"
+    ],
+    "giocare": [
+      "Leisure & Entertainment",
+      "People & Relationships"
+    ],
+    "guardare": [
+      "Leisure & Entertainment",
+      "Technology & Media"
+    ],
+    "imparare": [
+      "Learning & Knowledge",
+      "Work & School"
+    ],
+    "lasciare": [
+      "Emotions & Attitudes",
+      "Travel & Transportation"
+    ],
+    "lavorare": [
+      "Shopping & Money",
+      "Work & School"
+    ],
+    "leggere": [
+      "Learning & Knowledge",
+      "Leisure & Entertainment"
+    ],
+    "mangiare": [
+      "Daily Routines",
+      "Food & Dining"
+    ],
+    "mettere": [
+      "Daily Routines",
+      "Family & Home"
+    ],
+    "morire": [
+      "Emotions & Attitudes",
+      "Health & Wellness"
+    ],
+    "parlare": [
+      "Core Conversations",
+      "People & Relationships"
+    ],
+    "passare": [
+      "Leisure & Entertainment",
+      "Travel & Transportation"
+    ],
+    "pensare": [
+      "Emotions & Attitudes",
+      "Learning & Knowledge"
+    ],
+    "perdere": [
+      "Emotions & Attitudes",
+      "Travel & Transportation"
+    ],
+    "piacere": [
+      "Emotions & Attitudes",
+      "Leisure & Entertainment"
+    ],
+    "portare": [
+      "Family & Home",
+      "Travel & Transportation"
+    ],
+    "prendere": [
+      "Shopping & Money",
+      "Travel & Transportation"
+    ],
+    "provare": [
+      "Emotions & Attitudes",
+      "Learning & Knowledge",
+      "Leisure & Entertainment"
+    ],
+    "rimanere": [
+      "Emotions & Attitudes",
+      "Travel & Transportation"
+    ],
+    "riuscire": [
+      "Emotions & Attitudes",
+      "Work & School"
+    ],
+    "sapere": [
+      "Core Conversations",
+      "Learning & Knowledge"
+    ],
+    "scrivere": [
+      "Technology & Media",
+      "Work & School",
+      "Learning & Knowledge"
+    ],
+    "sembrare": [
+      "Core Conversations",
+      "Emotions & Attitudes"
+    ],
+    "sentire": [
+      "Emotions & Attitudes",
+      "Health & Wellness"
+    ],
+    "stare": [
+      "Daily Routines",
+      "Health & Wellness"
+    ],
+    "studiare": [
+      "Learning & Knowledge",
+      "Work & School"
+    ],
+    "tornare": [
+      "Family & Home",
+      "Travel & Transportation"
+    ],
+    "trovare": [
+      "Daily Routines",
+      "Shopping & Money"
+    ],
+    "vedere": [
+      "Learning & Knowledge",
+      "Leisure & Entertainment"
+    ],
+    "venire": [
+      "People & Relationships",
+      "Travel & Transportation"
+    ],
+    "vivere": [
+      "Daily Routines",
+      "Emotions & Attitudes",
+      "Family & Home"
+    ],
+    "volere": [
+      "Daily Routines",
+      "Emotions & Attitudes"
+    ]
+  }
+}
