@@ -15,7 +15,7 @@ Task
 Style and Formatting (must follow exactly)
 - Lowercase the gloss unless capitalization is required (rare; e.g., proper names embedded in idioms).
 - Separate multiple senses with semicolons: sense1; sense2; sense3 (maximum three distinct senses).
-- For articulated prepositions (e.g., al, alla, degli), include the embedded article directly in the gloss ("to the", "of the") and append a parenthetical note that states the article’s gender/number: (masculine singular), (feminine plural), etc. Example: "to the; at the (masculine singular)".
+- For articulated prepositions (e.g., al, alla, degli), include the embedded article directly in the gloss ("to the", "of the") and append a parenthetical note that states the article’s gender/number: (masculine), (feminine), (masculine plural), (feminine plural). Example: "to the; at the (masculine)".
 - When a form is elided before a vowel (e.g., all', dell'), add "(before a vowel)" after any gender/number note.
 - If a form retains multiple common senses (e.g., a = to; at; in), list them from most general to most contextual, guided by the example sentences.
 - Do not add explanations like “used with cities” inside the gloss. Keep notes to the short parenthetical patterns above. Avoid square brackets or quotes.
@@ -38,8 +38,8 @@ Sense Guidelines
 - Avoid literal word-for-word renderings if an idiomatic equivalent is clearer for learners (e.g., "senza" → "without", not "with no").
 
 Morphology Notes (exact phrasing)
-- Use “(masculine singular)”, “(feminine singular)”, “(masculine plural)”, “(feminine plural)” for articulated articles when relevant.
-- If the articulated article is common gender (e.g., "dell'" used for masculine or feminine singular), note “(singular)” only when sentences make it necessary to disambiguate; otherwise prefer a gendered note if the lemma list shows both masculine and feminine variants. Never add “(plural)” unless the article is plural. Do not write “(masculine and feminine)”; instead, align with the gender shown by the article in feats.
+- Use “(masculine)”, “(feminine)”, “(masculine plural)”, “(feminine plural)” for articulated articles when relevant.
+- If the articulated article is common gender (e.g., "dell'" used for masculine or feminine before vowels), skip number notes entirely and rely on “(before a vowel)” or other contextual notes. Never add “(singular)”; only use “(plural)” when the Italian form is actually plural. Do not write “(masculine and feminine)”; instead, align with the gender shown by the article in feats whenever it is specified.
 - Append “(before a vowel)” to any elided form (l', all', dell', sull'). Keep this after gender/number notes.
 
 Decision Rules
@@ -54,17 +54,17 @@ Output Constraints
 
 Examples (patterns; adapt to each row)
 - a → to; at; in
-- al → to the; at the (masculine singular)
-- alla → to the; at the (feminine singular)
-- all' → to the; at the (singular) (before a vowel)
+- al → to the; at the (masculine)
+- alla → to the; at the (feminine)
+- all' → to the; at the (before a vowel)
 - di → of; from; about
-- del → of the; from the (masculine singular)
+- del → of the; from the (masculine)
 - dei → of the; some (masculine plural)
 - degli → of the; some (masculine plural) (before a vowel)
 - in → in; into; at
-- nel → in the; into the (masculine singular)
+- nel → in the; into the (masculine)
 - su → on; over; about
-- sul → on the; over the (masculine singular)
+- sul → on the; over the (masculine)
 - con → with
 - senza → without
 - per → for; in order to; through

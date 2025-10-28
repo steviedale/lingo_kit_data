@@ -17,8 +17,8 @@ Style and Formatting (must follow exactly)
 - Separate multiple senses with semicolons (max three). Order them from most common/general to context-specific.
 - Include the possessor/grammatical information directly in the gloss when it is essential (e.g., "my", "your", "his/her").
 - Append concise morphological notes in parentheses when needed to highlight gender/number of the modified noun or to explain elision:
-  - Use “(masculine singular)”, “(feminine singular)”, “(masculine plural)”, “(feminine plural)” for inflected articles, demonstratives, possessives, and quantifiers.
-  - For forms that can modify both genders (e.g., plural invariable, l'), note “(singular)” or “(plural)” only if the Italian feature set leaves gender unspecified but the number matters for learners.
+  - Use “(masculine)”, “(feminine)”, “(masculine plural)”, “(feminine plural)” for inflected articles, demonstratives, possessives, and quantifiers.
+  - For forms that can modify both genders (e.g., plural invariable, l'), rely on “(plural)” only when the form is plural. Omit “(singular)” entirely; singular is assumed.
   - Add “(before a vowel)” for elided forms such as l', quell', un' after any gender/number note.
 - Do not include explanations longer than two words in parentheses. Avoid square brackets, quotes, or additional punctuation.
 - Maintain consistent gloss wording across forms belonging to the same lemma so learners can compare paradigms easily.
@@ -43,25 +43,25 @@ Output Constraints
 - Modify only translation_en. Do not change column order, spacing, or row count. Keep each gloss on a single line without trailing spaces.
 
 Examples (patterns; adapt per row)
-- il → the (masculine singular)
-- lo → the (masculine singular) (before s+consonant)
-- l' → the (singular) (before a vowel)
+- il → the (masculine)
+- lo → the (masculine) (before s+consonant)
+- l' → the (before a vowel)
 - i → the (masculine plural)
 - gli → the (masculine plural)
 - le → the (feminine plural)
-- un → a; one (masculine singular)
-- uno → a; one (masculine singular)
-- una → a; one (feminine singular)
-- un' → an; one (feminine singular) (before a vowel)
-- questo → this (masculine singular)
-- questa → this (feminine singular)
+- un → a; one (masculine)
+- uno → a; one (masculine)
+- una → a; one (feminine)
+- un' → an; one (feminine) (before a vowel)
+- questo → this (masculine)
+- questa → this (feminine)
 - quei → those (masculine plural)
-- quello → that (masculine singular)
-- mia → my (feminine singular)
+- quello → that (masculine)
+- mia → my (feminine)
 - tuoi → your (masculine plural)
 - qualche → some; a few
 - ogni → every; each
-- nessun → no; not any (masculine singular)
+- nessun → no; not any (masculine)
 
 Quality Checklist (for each edited row)
 - [ ] Gloss matches the usage in the example sentences
