@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ieri	ieri	ADV		2615	0.000817	2615	0.000817	B	advmod		37320ca4-0fed-59ab-8392-6ae4051dde28	0b7534e2-4e85-5ecf-8432-cbffe56ea04f	lemma=ieri, pos=ADV	Io ho incontrato Mary ieri.	I met Mary yesterday.	John ha rotto la finestra ieri.	John broke the window yesterday.	È andato al ristorante ieri?	Did you go to the restaurant yesterday?

@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-i	i	PRON		4898	0.001531	4898	0.001531	PC	obj	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	05926d47-5d5c-5ce1-b8e3-cae7901820be	ccd7041e-d64d-5c73-8f59-296161887d78	lemma=i, pos=PRON	L'ha aspettata, vero?	He waited for her.	Non mi piacciono i crostacei.	I don't like shellfish.	L'ha fatta lui stesso.	He made it himself.

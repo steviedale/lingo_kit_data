@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tom	tom	NOUN		13831	0.004324	13831	0.004324	S	obl	Gender=Masc	8b88b667-3e71-569b-a956-05f9f5183802	72ceddc7-0ccd-5685-9f1d-641b74508907	lemma=tom, pos=NOUN	Tutti sanno che odio Tom.	Everybody knows I hate Tom.	Stai aspettando Tom?	Are you expecting Tom?	Lei dice tutto a Tom?	Do you tell Tom everything?

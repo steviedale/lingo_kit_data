@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-già	già	ADV		2684	0.000839	2684	0.000839	B	advmod		40377873-bfff-58a7-9f9e-11dfddaadb77	290f42df-c6cb-5ae9-9617-ab6c0f4e14fc	lemma=già, pos=ADV	Avete già pagato la bolletta?	Have you already paid the bill?	Conoscevo già tutti.	I already knew everyone.	Non scegliere è già una scelta.	Not choosing is choosing already.

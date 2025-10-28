@@ -1,2 +1,0 @@
-text	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	xpos	deprel	feats	token_hash	group_hash	group	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-mai	mai	ADV	ever; never	8962	0.002802	8962	0.002802	B	advmod		6a2645a1-15b2-5b3a-8f62-50fbcec25cca	c7ab2798-d9a9-53fc-8164-237f1455a49c	lemma=mai, pos=ADV	Non si lamenta mai.	He never complains.	Non lo chiamate mai?	Don't you ever call him?	Non le feci mai nulla.	I never did anything to her.
