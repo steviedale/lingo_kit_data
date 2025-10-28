@@ -29,7 +29,7 @@ Style and Formatting (must follow exactly)
 - Maintain consistent wording across a lemma’s paradigm (e.g., all forms of io should just be “I”).
 
 Sense Guidelines
-- Personal subject pronouns (io, tu, lui, lei, noi, voi, essi/esse): translate to the corresponding English pronoun, adding gender notes when Italian distinguishes them (lui → “he”; lei → “she”). Include “(plural)” for voi when clarifying; optionally add “(formal)” if sentences show Lei as polite second-person singular.
+- Personal subject pronouns (io, tu, lui, lei, noi, voi, essi/esse): translate to the corresponding English pronoun, adding gender notes when Italian distinguishes them (lui → “he”; lei → “she”). Include “(plural)” for voi when clarifying; optionally add “(formal)” if sentences show Lei as the polite second-person form.
 - Direct object clitics (mi, ti, lo, la, li, le, ci, vi) → express object pronouns with gender/number notes: “me”, “you”, “him; it (masculine)”, “her; it (feminine)”, “them (masculine)”, “them (feminine)”. Include indirect senses where attested (“mi” often = “to me”).
 - Indirect object clitics (gli, le, loro) → “to him; to her; to it (masculine/feminine as appropriate)”. Use semicolons to list distinct options supported by sentences.
 - Combined clitics (glielo, me lo, ce ne, te ne, gliene, ecc.) → translate as short object phrases showing both complements in English order (“it to him”, “it to me”, “some of it to us”). Add person notes only if necessary for clarity.

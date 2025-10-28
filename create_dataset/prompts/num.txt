@@ -15,7 +15,7 @@ Style and Formatting (must follow exactly)
 - Lowercase the gloss (e.g., “two”, “third”). Digits (0–9, 10, etc.) may appear alongside words but do not change case rules.
 - Prefer spelling out the number in words first. You may include the digit in parentheses immediately after the word when it aids clarity: “twenty-five (25)”.
 - Separate multiple senses with semicolons (max three). For example, “two; a couple” if sentences justify both readings.
-- Add short parenthetical notes only when morphology matters for learners: “(masculine singular)”, “(feminine plural)”, “(ordinal)”. Do not include “singular” unless necessary to contrast with a plural form; avoid long explanations.
+- Add short parenthetical notes only when morphology matters for learners: “(masculine)”, “(feminine)”, “(masculine plural)”, “(feminine plural)”, “(ordinal)”. Never include “(singular)”; singular is assumed. Avoid long explanations.
 - Use “(before a vowel)” for elided forms such as “ventun'” if present.
 - No quotation marks, brackets, or trailing punctuation.
 
@@ -44,7 +44,7 @@ Examples (patterns; adapt per row)
 - venticinque → twenty-five (25)
 - cento → one hundred (100)
 - primo → first (ordinal)
-- seconda → second (feminine singular) (ordinal)
+- seconda → second (feminine) (ordinal)
 - terzi → thirds (masculine plural) (ordinal)
 - doppio → double; twice as much
 
