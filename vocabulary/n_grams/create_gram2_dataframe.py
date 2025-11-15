@@ -38,43 +38,49 @@ def get_token_key(token_dict):
 # %%
 gram2_dict = {}
 iter_df = df.sample(frac=1, random_state=42).reset_index(drop=True)
-# iter_df = df.sample(n=5000, random_state=42).reset_index(drop=True)
 for sentence in tqdm(iter_df['text_it'], total=len(iter_df)):
-    start_word_count = {}
-    end_word_count = {}
-    tokens = tokenizer.tokenize(sentence)
-    for i in range(len(tokens)-2):
-        t1 = tokens[i]
-        t2 = tokens[i+1]
+    try:
+        start_word_count = {}
+        end_word_count = {}
+        tokens = tokenizer.tokenize(sentence)
+        for i in range(len(tokens)-2):
+            t1 = tokens[i]
+            t2 = tokens[i+1]
 
-        # keep track of the index of 'find' words
-        if t1['text'].lower() not in start_word_count:
-            start_word_count[t1['text'].lower()] = -1
-        start_word_count[t1['text'].lower()] += 1
-        if t2['text'].lower() not in end_word_count:
-            end_word_count[t2['text'].lower()] = -1
-        end_word_count[t2['text'].lower()] += 1
+            # keep track of the index of 'find' words
+            if t1['text'].lower() not in start_word_count:
+                start_word_count[t1['text'].lower()] = -1
+            start_word_count[t1['text'].lower()] += 1
+            if t2['text'].lower() not in end_word_count:
+                end_word_count[t2['text'].lower()] = -1
+            end_word_count[t2['text'].lower()] += 1
 
-        if t1['pos'] in bad_pos or t2['pos'] in bad_pos:
-            continue
+            if t1['pos'] in bad_pos or t2['pos'] in bad_pos:
+                continue
 
-        gram2 = (get_token_key(t1), get_token_key(t2))
-        
-        start_index = sentence.lower().find(t1['text'].lower(), start_word_count[t1['text'].lower()])
-        end_index = sentence.lower().find(t2['text'].lower(), end_word_count[t2['text'].lower()]) + len(t2['text'])
-        substr = sentence[start_index:end_index]
+            gram2 = (get_token_key(t1), get_token_key(t2))
+            
+            start_index = sentence.lower().find(t1['text'].lower(), start_word_count[t1['text'].lower()])
+            end_index = sentence.lower().find(t2['text'].lower(), end_word_count[t2['text'].lower()]) + len(t2['text'])
+            substr = sentence[start_index:end_index]
 
-        if gram2 not in gram2_dict:
-            gram2_dict[gram2] = []
+            if gram2 not in gram2_dict:
+                gram2_dict[gram2] = []
 
-        gram2_dict[gram2].append({
-            'sentence': sentence,
-            'substr': substr,
-            'start_index': start_index,
-            'end_index': end_index,
-            'token_1': t1,
-            'token_2': t2,
-        })
+            gram2_dict[gram2].append({
+                'sentence': sentence,
+                'substr': substr,
+                'start_index': start_index,
+                'end_index': end_index,
+                'token_1': t1,
+                'token_2': t2,
+            })
+    except Exception as e:
+        errors += 1
+        print(f"Error processing sentence: {e}")
+        continue
+print(f"Total errors in tokenization: {errors}")
+
 
 # %%
 gram2_items = sorted(gram2_dict.items(), key=lambda x: len(x[1]), reverse=True)
@@ -111,22 +117,38 @@ for gram_key, gram_list in gram2_dict.items():
     substr_votes = {}
     if len(gram_list) < 5:
         continue
-    for entry in gram_list:
-        substr = entry['substr']
-        if substr not in substr_votes:
-            substr_votes[substr] = 0
-        substr_votes[substr] += 1
-    sorted_substrs = sorted(substr_votes.items(), key=lambda x: x[1], reverse=True)
-    best_substr, best_votes = sorted_substrs[0]
-    data['gram2_key'].append(gram_key)
-    data['substr'].append(best_substr.lower())
-    data['term_1'].append(gram_key[0].split('_')[0])
-    data['term_2'].append(gram_key[1].split('_')[0])
-    data['lemma_1'].append(gram_key[0].split('_')[1])
-    data['lemma_2'].append(gram_key[1].split('_')[1])
-    data['pos_1'].append(gram_key[0].split('_')[2])
-    data['pos_2'].append(gram_key[1].split('_')[2])
-    data['count'].append(len(gram_list))
+    try:
+        for entry in gram_list:
+            substr = entry['substr']
+            if substr not in substr_votes:
+                substr_votes[substr] = 0
+            substr_votes[substr] += 1
+        sorted_substrs = sorted(substr_votes.items(), key=lambda x: x[1], reverse=True)
+        best_substr, best_votes = sorted_substrs[0]
+        data['gram2_key'].append(gram_key)
+        data['substr'].append(best_substr.lower())
+        data['term_1'].append(gram_key[0].split('_')[0])
+        data['term_2'].append(gram_key[1].split('_')[0])
+        data['lemma_1'].append(gram_key[0].split('_')[1])
+        data['lemma_2'].append(gram_key[1].split('_')[1])
+        data['pos_1'].append(gram_key[0].split('_')[2])
+        data['pos_2'].append(gram_key[1].split('_')[2])
+        data['count'].append(len(gram_list))
+    except Exception as e:
+        errors += 1
+        print(f"Error processing gram_key {gram_key}: {e}")
+        # if error make sure that the data lists are not appended to
+        max_length = max(len(v) for v in data.values())
+        min_length = min(len(v) for v in data.values())
+        if max_length != min_length:
+            for key in data:
+                while len(data[key]) > min_length:
+                    data[key].pop()
+        max_length = max(len(v) for v in data.values())
+        min_length = min(len(v) for v in data.values())
+        assert(max_length == min_length)
+        continue
+print(f"Total errors in dataframe creation: {errors}")
 gram2_df = pd.DataFrame(data)
 
 # %%
