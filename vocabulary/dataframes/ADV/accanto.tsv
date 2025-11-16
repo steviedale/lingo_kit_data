@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+accanto		accanto	ADV		95	9.1e-05	95	9.1e-05	accanto	ADV	B	case		2db93829-7d8b-5900-a135-e52dae922d03	7ed13e11-3d17-585e-a1ba-01fbef21c909	Il panettiere è accanto al macellaio.	The baker's is next door to the butcher's.	Io abito accanto a Tom.	I live next to Tom.	Tom vive accanto a Mary.	Tom lives next door to Mary.

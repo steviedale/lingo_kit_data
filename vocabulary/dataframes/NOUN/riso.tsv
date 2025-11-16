@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+riso		riso	NOUN		142	0.000136	143	0.000137	riso	NOUN	S	obl	Gender=Masc|Number=Sing	dc4c8210-fd11-5759-8823-ebe427efa61a	23656af6-f7a8-5950-ba9e-7bc05d6057a1	La qualità del riso sta peggiorando.	The quality of rice is getting worse.	Ho mangiato del riso al curry ieri sera.	I had curry and rice last night.	Coltiva riso.	He grows rice.
+risi		riso	NOUN		1	1e-06	143	0.000137	riso	NOUN	S	root	Gender=Masc|Number=Plur	78c6e4a8-9c10-54d6-bdae-4ffa343d366b	23656af6-f7a8-5950-ba9e-7bc05d6057a1	Le risi in faccia.	I laughed in her face.				

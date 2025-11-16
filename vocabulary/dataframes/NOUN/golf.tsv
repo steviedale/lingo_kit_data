@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+golf		golf	NOUN		101	9.7e-05	101	9.7e-05	golf	NOUN	S	obl	Gender=Masc	71db4948-0912-51db-b57c-0690ac483029	7b3e5fc5-c5fa-5a94-b6dd-2b240c5213b7	Il golf è molto popolare in Giappone.	Golf is very popular in Japan.	Non riesco a sopportare il golf.	I can't stand golf.	Tom gioca a golf ogni fine settimana.	Tom plays golf every weekend.

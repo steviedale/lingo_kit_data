@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+soltanto		soltanto	ADV		352	0.000337	352	0.000337	soltanto	ADV	B	advmod		28b2a5fb-b543-5626-99fb-27478024d8f8	9b8b9e04-a2e3-5064-b016-bce6dfc3d050	Ho fatto soltanto 33 punti al test.	I scored only 33 points on the test.	Tom ha visto Mary soltanto una volta.	Tom only saw Mary once.	Ero soltanto nel quartiere.	I was just in the neighborhood.

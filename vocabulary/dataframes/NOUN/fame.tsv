@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fame		fame	NOUN		208	0.000199	208	0.000199	fame	NOUN	S	obj	Gender=Fem|Number=Sing	65a12fe9-fd32-5198-88a2-a403fd2f03a0	a1dbd8bf-6892-58f3-96cc-a93889807566	Io avevo così fame.	I was so hungry.	Avevamo entrambi fame.	We were both hungry.	Avevo così fame.	I was so hungry.

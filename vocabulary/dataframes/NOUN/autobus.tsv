@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+autobus		autobus	NOUN		346	0.000331	346	0.000331	autobus	NOUN	S	obj	Gender=Masc	72c989dc-f91c-58ff-90a3-a85ad4e7e6f8	c4ffbdd3-a878-51c4-b0b3-7b2d5a2e8cef	Prendo sempre un autobus.	I always take a bus.	Mi serve della moneta per l'autobus.	I need change for the bus.	Questo autobus può trasportare trenta persone.	This bus can carry 30 people.

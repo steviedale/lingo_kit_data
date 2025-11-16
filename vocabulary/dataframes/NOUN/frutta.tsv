@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+frutta		frutta	NOUN		95	9.1e-05	95	9.1e-05	frutta	NOUN	S	obj	Gender=Fem|Number=Sing	dde19f37-004f-52e1-86e5-7e856755497f	dd8b552c-3670-53f9-b5ee-8d777436ca73	Tom bevette il mio succo di frutta.	Tom drank my apple juice.	Qual è la sua frutta secca preferita?	What's your favorite dried fruit?	Io sto mangiando frutta.	I am eating fruit.

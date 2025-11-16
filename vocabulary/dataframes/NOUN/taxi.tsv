@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+taxi		taxi	NOUN		115	0.00011	115	0.00011	taxi	NOUN	S	obj	Gender=Masc	f8618327-ad9b-5e1f-b9e2-19d901f58b5e	94041a78-1c6c-5e8f-8a9f-00dfc0fe3990	Il taxi caricò due passeggeri.	The taxi picked up two passengers.	Non essendoci taxi, ho dovuto camminare.	There being no taxis, I had to walk.	Le chiamerò un taxi.	I'll call you a cab.
