@@ -8,6 +8,8 @@ import pandas as pd
 
 # %%
 sys.path.append('/Users/stevie/repos/lingo_kit_data/vocabulary')
+sys.path.append('/home/ubuntu/lingo_kit_data/vocabulary')
+
 from stanza_tokenizer import StanzaTokenizer
 
 # %%
@@ -37,7 +39,10 @@ def get_token_key(token_dict):
 
 # %%
 gram3_dict = {}
-iter_df = df.sample(frac=1, random_state=42).reset_index(drop=True)
+iter_df = df.sample(n=100000, random_state=42).reset_index(drop=True)
+#iter_df = df.sample(n=10, random_state=42).reset_index(drop=True)
+
+errors = 0
 for sentence in tqdm(iter_df['text_it'], total=len(iter_df)):
     try:
         start_word_count = {}
@@ -120,7 +125,7 @@ data = {
 new_gram3_dict = {}
 len(gram3_dict)
 errors = 0
-for gram_key, gram_list in gram3_dict.items():
+for gram_key, gram_list in tqdm(gram3_dict.items(), total=len(gram3_dict.keys())):
     substr_votes = {}
     if len(gram_list) < 5:
         continue
