@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('appena_appena_ADV', 'perso_perdere_VERB')	6	appena perso	appena	perso	appena	perdere	ADV	VERB	
-"('quasi_quasi_ADV', ""un'_uno_DET"")"	6	quasi un'	quasi	un'	quasi	uno	ADV	DET	
-('quel_quello_DET', 'ristorante_ristorante_NOUN')	6	quel ristorante	quel	ristorante	quello	ristorante	DET	NOUN	
-('a_a_ADP', 'rimanere_rimanere_VERB')	6	a convinto a rimanere	a	rimanere	a	rimanere	ADP	VERB	
-('a_a_ADP', 'mano_mano_NOUN')	6	a scritto a mano	a	mano	a	mano	ADP	NOUN	
-('come_come_ADV', 'osa_osare_VERB')	6	come osa	come	osa	come	osare	ADV	VERB	
-('sorta_sorta_NOUN', 'di_di_ADP')	6	sorta di	sorta	di	sorta	di	NOUN	ADP	
-('e_e_CCONJ', 'sono_essere_AUX')	6		e	sono	e	essere	CCONJ	AUX	
-('versò_versare_VERB', 'un_uno_DET')	6	versò un	versò	un	versare	uno	VERB	DET	
-('sto_essere_AUX', 'lavorando_lavorare_VERB')	6	sto lavorando	sto	lavorando	essere	lavorare	AUX	VERB	
-('chiesto_chiedere_VERB', 'un_uno_DET')	6	chiesto un	chiesto	un	chiedere	uno	VERB	DET	
-('che_che_SCONJ', 'verrà_venire_VERB')	6	che verrà	che	verrà	che	venire	SCONJ	VERB	
-('mio_mio_DET', 'corpo_corpo_NOUN')	6	mio corpo	mio	corpo	mio	corpo	DET	NOUN	
-('nel_in_ADP', 'panico_panico_NOUN')	6	nel panico	nel	panico	in	panico	ADP	NOUN	
-('nessuno_nessuno_PRON', 'a_a_ADP')	6	nessuno a	nessuno	a	nessuno	a	PRON	ADP	
-('leggere_leggere_VERB', 'i_il_DET')	6		leggere	i	leggere	il	VERB	DET	
-('ha_avere_AUX', 'risolto_risolvere_VERB')	6	ha risolto	ha	risolto	avere	risolvere	AUX	VERB	
-('amano_amare_VERB', 'la_il_DET')	6	amano la	amano	la	amare	il	VERB	DET	
-('a_a_ADP', 'mahjong_mahjong_NOUN')	6	ace giocare a mahjong	a	mahjong	a	mahjong	ADP	NOUN	
-('sono_essere_AUX', 'piaciuti_piacere_VERB')	6	sono piaciuti	sono	piaciuti	essere	piacere	AUX	VERB	
-('via_via_ADV', 'per_per_ADP')	6	via per	via	per	via	per	ADV	ADP	
-('vengono_venire_VERB', 'da_da_ADP')	6	vengono da	vengono	da	venire	da	VERB	ADP	
-('ha_avere_AUX', 'toccato_toccare_VERB')	6	ha toccato	ha	toccato	avere	toccare	AUX	VERB	
-('così_così_ADV', 'triste_triste_ADJ')	6	così triste	così	triste	così	triste	ADV	ADJ	
-('sta_stare_AUX', 'soffrendo_soffrire_VERB')	6	sta soffrendo	sta	soffrendo	stare	soffrire	AUX	VERB	
-('lei_in_ADP', 'fece_fare_VERB')	6	lei fece	lei	fece	in	fare	ADP	VERB	
-('il_il_DET', 'suono_suono_NOUN')	6	il suono	il	suono	il	suono	DET	NOUN	
-('che_che_PRON', 'li_li_PRON')	6	che li	che	li	che	li	PRON	PRON	
-('non_non_ADV', 'succede_succedere_VERB')	6	non succede	non	succede	non	succedere	ADV	VERB	
-('farlo_fare_VERB', 'in_in_ADP')	6	farlo in	farlo	in	fare	in	VERB	ADP	
-('avere_avere_AUX', 'perso_perdere_VERB')	6	avere perso	avere	perso	avere	perdere	AUX	VERB	
-('nostro_nostro_DET', 'cane_cane_NOUN')	6	nostro cane	nostro	cane	nostro	cane	DET	NOUN	
-('chiedo_chiedere_VERB', 'cosa_cosa_PRON')	6	chiedo cosa	chiedo	cosa	chiedere	cosa	VERB	PRON	
-('mi_mi_PRON', 'devi_dovere_VERB')	6	mi devi	mi	devi	mi	dovere	PRON	VERB	
-('parlare_parlare_VERB', 'bene_bene_ADV')	6	parlare bene	parlare	bene	parlare	bene	VERB	ADV	
-('visto_vedere_VERB', 'uno_uno_PRON')	6	visto uno	visto	uno	vedere	uno	VERB	PRON	
-('come_come_ADV', 'possiamo_potere_AUX')	6	come possiamo	come	possiamo	come	potere	ADV	AUX	
-('suoi_suo_DET', 'vicini_vicino_NOUN')	6	suoi vicini	suoi	vicini	suo	vicino	DET	NOUN	
-('tuo_tuo_DET', 'ragazzo_ragazzo_NOUN')	6	tuo ragazzo	tuo	ragazzo	tuo	ragazzo	DET	NOUN	
-('non_non_ADV', 'dimenticarti_dimenticare_VERB')	6	non dimenticarti	non	dimenticarti	non	dimenticare	ADV	VERB	
-('sua_suo_DET', 'religione_religione_NOUN')	6	sua religione	sua	religione	suo	religione	DET	NOUN	
-('si_si_PRON', 'possono_potere_AUX')	6	si possono	si	possono	si	potere	PRON	AUX	
-('idea_idea_NOUN', 'è_essere_AUX')	6	idea è	idea	è	idea	essere	NOUN	AUX	
-"('lasciare_lasciare_VERB', ""l'_il_DET"")"	6	lasciare l'	lasciare	l'	lasciare	il	VERB	DET	
-('nel_in_ADP', 'bosco_bosco_NOUN')	6	nel bosco	nel	bosco	in	bosco	ADP	NOUN	
-('sia_essere_AUX', 'sbagliato_sbagliare_VERB')	6	sia sbagliato	sia	sbagliato	essere	sbagliare	AUX	VERB	
-('stato_essere_AUX', 'rubato_rubare_VERB')	6	stato rubato	stato	rubato	essere	rubare	AUX	VERB	
-('volete_volere_AUX', 'davvero_davvero_ADV')	6	volete davvero	volete	davvero	volere	davvero	AUX	ADV	
-('ci_ci_PRON', 'crederà_credere_VERB')	6	ci crederà	ci	crederà	ci	credere	PRON	VERB	
-('sia_essere_AUX', 'tutto_tutto_PRON')	6	sia tutto	sia	tutto	essere	tutto	AUX	PRON	
-('ancora_ancora_ADV', 'fame_fame_NOUN')	6	ancora fame	ancora	fame	ancora	fame	ADV	NOUN	
-('che_che_PRON', 'fece_fare_VERB')	6	che fece	che	fece	che	fare	PRON	VERB	
-('li_li_PRON', 'porterò_portare_VERB')	6	li porterò	li	porterò	li	portare	PRON	VERB	
-('sia_essere_AUX', 'pronto_pronto_ADJ')	6	sia pronto	sia	pronto	essere	pronto	AUX	ADJ	
-('così_così_ADV', 'impegnata_impegnare_VERB')	6	così impegnata	così	impegnata	così	impegnare	ADV	VERB	
-('prestito_prestito_NOUN', 'del_di_ADP')	6	prestito del	prestito	del	prestito	di	NOUN	ADP	
-('essere_essere_AUX', 'già_già_ADV')	6	essere già	essere	già	essere	già	AUX	ADV	
-('bici_bici_NOUN', 'è_essere_AUX')	6	bici è	bici	è	bici	essere	NOUN	AUX	
-('gentili_gentile_ADJ', 'con_con_ADP')	6	gentili con	gentili	con	gentile	con	ADJ	ADP	
-('sono_essere_AUX', 'divertito_divertire_VERB')	6	sono divertito	sono	divertito	essere	divertire	AUX	VERB	
-('caffè_caffè_NOUN', 'ogni_ogni_DET')	6	caffè ogni	caffè	ogni	caffè	ogni	NOUN	DET	
-('avuto_avere_VERB', 'abbastanza_abbastanza_ADV')	6	avuto abbastanza	avuto	abbastanza	avere	abbastanza	VERB	ADV	
-('la_il_DET', 'rivista_rivista_NOUN')	6	la rivista	la	rivista	il	rivista	DET	NOUN	
-('orario_orario_NOUN', 'di_di_ADP')	6	orario di	orario	di	orario	di	NOUN	ADP	
-('piaccia_piacere_VERB', 'il_il_DET')	6	piaccia il	piaccia	il	piacere	il	VERB	DET	
-('vuole_volere_AUX', 'vivere_vivere_VERB')	6	vuole vivere	vuole	vivere	volere	vivere	AUX	VERB	
-('di_di_ADP', 'averti_avere_AUX')	6	dispiace di averti	di	averti	di	avere	ADP	AUX	
-('delle_di_ADP', 'loro_loro_DET')	6	delle loro	delle	loro	di	loro	ADP	DET	
-('storia_storia_NOUN', 'è_essere_AUX')	6	storia è	storia	è	storia	essere	NOUN	AUX	
-('è_essere_VERB', 'solo_solo_ADV')	6	è solo	è	solo	essere	solo	VERB	ADV	
-('erano_essere_AUX', 'da_da_ADP')	6	erano da	erano	da	essere	da	AUX	ADP	
-('del_di_ADP', 'brandy_brandy_NOUN')	6	del brandy	del	brandy	di	brandy	ADP	NOUN	
-('di_di_ADP', 'successo_successo_NOUN')	6	di successo	di	successo	di	successo	ADP	NOUN	
-('tempo_tempo_NOUN', 'atmosferico_atmosferico_ADJ')	6	tempo atmosferico	tempo	atmosferico	tempo	atmosferico	NOUN	ADJ	
-('venuta_venire_VERB', 'in_in_ADP')	6	venuta in	venuta	in	venire	in	VERB	ADP	
-('lasciato_lasciare_VERB', 'guidare_guidare_VERB')	6	lasciato guidare	lasciato	guidare	lasciare	guidare	VERB	VERB	
-('che_che_SCONJ', 'hanno_avere_AUX')	6	che hanno	che	hanno	che	avere	SCONJ	AUX	
-('una_uno_DET', 'moneta_moneta_NOUN')	6	una moneta	una	moneta	uno	moneta	DET	NOUN	
-('immagino_immaginare_VERB', 'di_di_ADP')	6	immagino di	immagino	di	immaginare	di	VERB	ADP	
-('fuori_fuori_ADV', 'stasera_stasera_ADV')	6	fuori stasera	fuori	stasera	fuori	stasera	ADV	ADV	
-('ma_ma_CCONJ', 'sono_essere_AUX')	6	ma sono	ma	sono	ma	essere	CCONJ	AUX	
-('veramente_veramente_ADV', 'i_il_DET')	6		veramente	i	veramente	il	ADV	DET	
-('te_te_PRON', 'stessa_stesso_ADJ')	6	te stessa	te	stessa	te	stesso	PRON	ADJ	
-('accusata_accusare_VERB', 'di_di_ADP')	6	accusata di	accusata	di	accusare	di	VERB	ADP	
-('non_non_ADV', 'la_il_DET')	6	non la	non	la	non	il	ADV	DET	
-('aiutarci_aiutare_VERB', 'a_a_ADP')	6	a	aiutarci	a	aiutare	a	VERB	ADP	
-('sai_sapere_VERB', 'il_il_DET')	6	sai il	sai	il	sapere	il	VERB	DET	
-('farò_fare_VERB', 'un_uno_DET')	6	farò un	farò	un	fare	uno	VERB	DET	
-('stava_stare_AUX', 'morendo_morire_VERB')	6	stava morendo	stava	morendo	stare	morire	AUX	VERB	
-('abitava_abitare_VERB', 'in_in_ADP')	6	abitava in	abitava	in	abitare	in	VERB	ADP	
-('so_sapere_VERB', 'il_il_DET')	6	so il	so	il	sapere	il	VERB	DET	
-('che_che_SCONJ', 'qualcosa_qualcosa_PRON')	6	che qualcosa	che	qualcosa	che	qualcosa	SCONJ	PRON	
-('può_potere_AUX', 'sempre_sempre_ADV')	6	può sempre	può	sempre	potere	sempre	AUX	ADV	
-('un_uno_DET', 'cellulare_cellulare_NOUN')	6	un cellulare	un	cellulare	uno	cellulare	DET	NOUN	
-('occhi_occhio_NOUN', 'sono_essere_AUX')	6	occhi sono	occhi	sono	occhio	essere	NOUN	AUX	
-('parli_parlare_VERB', 'in_in_ADP')	6	parli in	parli	in	parlare	in	VERB	ADP	
-"(""dell'_di_ADP"", 'auto_auto_NOUN')"	6	dell'auto	dell'	auto	di	auto	ADP	NOUN	
-('proprio_proprio_ADV', 'qui_qui_ADV')	6	proprio qui	proprio	qui	proprio	qui	ADV	ADV	
-('pupazzo_pupazzo_NOUN', 'di_di_ADP')	6	pupazzo di	pupazzo	di	pupazzo	di	NOUN	ADP	
-('lei_in_ADP', 'capisce_capire_VERB')	6	lei capisce	lei	capisce	in	capire	ADP	VERB	
+('appena_appena_ADV', 'perso_perdere_VERB')	6	appena perso	appena	perso	appena	perdere	ADV	VERB	just lost
+"('quasi_quasi_ADV', ""un'_uno_DET"")"	6	quasi un'	quasi	un'	quasi	uno	ADV	DET	almost a (before a vowel)
+('quel_quello_DET', 'ristorante_ristorante_NOUN')	6	quel ristorante	quel	ristorante	quello	ristorante	DET	NOUN	that restaurant
+('a_a_ADP', 'rimanere_rimanere_VERB')	6	a convinto a rimanere	a	rimanere	a	rimanere	ADP	VERB	has convinced to stay
+('a_a_ADP', 'mano_mano_NOUN')	6	a scritto a mano	a	mano	a	mano	ADP	NOUN	has written by hand
+('come_come_ADV', 'osa_osare_VERB')	6	come osa	come	osa	come	osare	ADV	VERB	how dare
+('sorta_sorta_NOUN', 'di_di_ADP')	6	sorta di	sorta	di	sorta	di	NOUN	ADP	kind of
+('e_e_CCONJ', 'sono_essere_AUX')	6		e	sono	e	essere	CCONJ	AUX	and are
+('versò_versare_VERB', 'un_uno_DET')	6	versò un	versò	un	versare	uno	VERB	DET	poured a
+('sto_essere_AUX', 'lavorando_lavorare_VERB')	6	sto lavorando	sto	lavorando	essere	lavorare	AUX	VERB	I am working
+('chiesto_chiedere_VERB', 'un_uno_DET')	6	chiesto un	chiesto	un	chiedere	uno	VERB	DET	asked for a
+('che_che_SCONJ', 'verrà_venire_VERB')	6	che verrà	che	verrà	che	venire	SCONJ	VERB	that will come
+('mio_mio_DET', 'corpo_corpo_NOUN')	6	mio corpo	mio	corpo	mio	corpo	DET	NOUN	my body
+('nel_in_ADP', 'panico_panico_NOUN')	6	nel panico	nel	panico	in	panico	ADP	NOUN	in panic
+('nessuno_nessuno_PRON', 'a_a_ADP')	6	nessuno a	nessuno	a	nessuno	a	PRON	ADP	nobody to
+('leggere_leggere_VERB', 'i_il_DET')	6		leggere	i	leggere	il	VERB	DET	to read the (masculine plural)
+('ha_avere_AUX', 'risolto_risolvere_VERB')	6	ha risolto	ha	risolto	avere	risolvere	AUX	VERB	has solved
+('amano_amare_VERB', 'la_il_DET')	6	amano la	amano	la	amare	il	VERB	DET	they love the (feminine)
+('a_a_ADP', 'mahjong_mahjong_NOUN')	6	ace giocare a mahjong	a	mahjong	a	mahjong	ADP	NOUN	to play mahjong
+('sono_essere_AUX', 'piaciuti_piacere_VERB')	6	sono piaciuti	sono	piaciuti	essere	piacere	AUX	VERB	they were liked
+('via_via_ADV', 'per_per_ADP')	6	via per	via	per	via	per	ADV	ADP	way to
+('vengono_venire_VERB', 'da_da_ADP')	6	vengono da	vengono	da	venire	da	VERB	ADP	they come from
+('ha_avere_AUX', 'toccato_toccare_VERB')	6	ha toccato	ha	toccato	avere	toccare	AUX	VERB	he touched
+('così_così_ADV', 'triste_triste_ADJ')	6	così triste	così	triste	così	triste	ADV	ADJ	so sad
+('sta_stare_AUX', 'soffrendo_soffrire_VERB')	6	sta soffrendo	sta	soffrendo	stare	soffrire	AUX	VERB	is suffering
+('lei_in_ADP', 'fece_fare_VERB')	6	lei fece	lei	fece	in	fare	ADP	VERB	she made
+('il_il_DET', 'suono_suono_NOUN')	6	il suono	il	suono	il	suono	DET	NOUN	the sound
+('che_che_PRON', 'li_li_PRON')	6	che li	che	li	che	li	PRON	PRON	who them
+('non_non_ADV', 'succede_succedere_VERB')	6	non succede	non	succede	non	succedere	ADV	VERB	does not happen
+('farlo_fare_VERB', 'in_in_ADP')	6	farlo in	farlo	in	fare	in	VERB	ADP	do it in
+('avere_avere_AUX', 'perso_perdere_VERB')	6	avere perso	avere	perso	avere	perdere	AUX	VERB	to have lost
+('nostro_nostro_DET', 'cane_cane_NOUN')	6	nostro cane	nostro	cane	nostro	cane	DET	NOUN	our dog
+('chiedo_chiedere_VERB', 'cosa_cosa_PRON')	6	chiedo cosa	chiedo	cosa	chiedere	cosa	VERB	PRON	I ask what
+('mi_mi_PRON', 'devi_dovere_VERB')	6	mi devi	mi	devi	mi	dovere	PRON	VERB	you owe me
+('parlare_parlare_VERB', 'bene_bene_ADV')	6	parlare bene	parlare	bene	parlare	bene	VERB	ADV	to speak well
+('visto_vedere_VERB', 'uno_uno_PRON')	6	visto uno	visto	uno	vedere	uno	VERB	PRON	seen one
+('come_come_ADV', 'possiamo_potere_AUX')	6	come possiamo	come	possiamo	come	potere	ADV	AUX	how can we
+('suoi_suo_DET', 'vicini_vicino_NOUN')	6	suoi vicini	suoi	vicini	suo	vicino	DET	NOUN	his; her (masculine plural) neighbors
+('tuo_tuo_DET', 'ragazzo_ragazzo_NOUN')	6	tuo ragazzo	tuo	ragazzo	tuo	ragazzo	DET	NOUN	your boyfriend
+('non_non_ADV', 'dimenticarti_dimenticare_VERB')	6	non dimenticarti	non	dimenticarti	non	dimenticare	ADV	VERB	do not forget yourself
+('sua_suo_DET', 'religione_religione_NOUN')	6	sua religione	sua	religione	suo	religione	DET	NOUN	his; her (feminine) religion
+('si_si_PRON', 'possono_potere_AUX')	6	si possono	si	possono	si	potere	PRON	AUX	they can
+('idea_idea_NOUN', 'è_essere_AUX')	6	idea è	idea	è	idea	essere	NOUN	AUX	idea is
+"('lasciare_lasciare_VERB', ""l'_il_DET"")"	6	lasciare l'	lasciare	l'	lasciare	il	VERB	DET	leave the (before a vowel)
+('nel_in_ADP', 'bosco_bosco_NOUN')	6	nel bosco	nel	bosco	in	bosco	ADP	NOUN	in the woods
+('sia_essere_AUX', 'sbagliato_sbagliare_VERB')	6	sia sbagliato	sia	sbagliato	essere	sbagliare	AUX	VERB	may be wrong
+('stato_essere_AUX', 'rubato_rubare_VERB')	6	stato rubato	stato	rubato	essere	rubare	AUX	VERB	has been stolen
+('volete_volere_AUX', 'davvero_davvero_ADV')	6	volete davvero	volete	davvero	volere	davvero	AUX	ADV	you (plural) really want
+('ci_ci_PRON', 'crederà_credere_VERB')	6	ci crederà	ci	crederà	ci	credere	PRON	VERB	will believe us
+('sia_essere_AUX', 'tutto_tutto_PRON')	6	sia tutto	sia	tutto	essere	tutto	AUX	PRON	may be everything
+('ancora_ancora_ADV', 'fame_fame_NOUN')	6	ancora fame	ancora	fame	ancora	fame	ADV	NOUN	still hungry
+('che_che_PRON', 'fece_fare_VERB')	6	che fece	che	fece	che	fare	PRON	VERB	who did
+('li_li_PRON', 'porterò_portare_VERB')	6	li porterò	li	porterò	li	portare	PRON	VERB	I will bring them
+('sia_essere_AUX', 'pronto_pronto_ADJ')	6	sia pronto	sia	pronto	essere	pronto	AUX	ADJ	may be ready
+('così_così_ADV', 'impegnata_impegnare_VERB')	6	così impegnata	così	impegnata	così	impegnare	ADV	VERB	so busy (feminine)
+('prestito_prestito_NOUN', 'del_di_ADP')	6	prestito del	prestito	del	prestito	di	NOUN	ADP	loan of the
+('essere_essere_AUX', 'già_già_ADV')	6	essere già	essere	già	essere	già	AUX	ADV	already be
+('bici_bici_NOUN', 'è_essere_AUX')	6	bici è	bici	è	bici	essere	NOUN	AUX	bike is
+('gentili_gentile_ADJ', 'con_con_ADP')	6	gentili con	gentili	con	gentile	con	ADJ	ADP	kind to
+('sono_essere_AUX', 'divertito_divertire_VERB')	6	sono divertito	sono	divertito	essere	divertire	AUX	VERB	I was amused
+('caffè_caffè_NOUN', 'ogni_ogni_DET')	6	caffè ogni	caffè	ogni	caffè	ogni	NOUN	DET	coffee every
+('avuto_avere_VERB', 'abbastanza_abbastanza_ADV')	6	avuto abbastanza	avuto	abbastanza	avere	abbastanza	VERB	ADV	had enough
+('la_il_DET', 'rivista_rivista_NOUN')	6	la rivista	la	rivista	il	rivista	DET	NOUN	the magazine
+('orario_orario_NOUN', 'di_di_ADP')	6	orario di	orario	di	orario	di	NOUN	ADP	schedule of
+('piaccia_piacere_VERB', 'il_il_DET')	6	piaccia il	piaccia	il	piacere	il	VERB	DET	may the (masculine) please
+('vuole_volere_AUX', 'vivere_vivere_VERB')	6	vuole vivere	vuole	vivere	volere	vivere	AUX	VERB	wants to live
+('di_di_ADP', 'averti_avere_AUX')	6	dispiace di averti	di	averti	di	avere	ADP	AUX	sorry to have you
+('delle_di_ADP', 'loro_loro_DET')	6	delle loro	delle	loro	di	loro	ADP	DET	of their (feminine plural)
+('storia_storia_NOUN', 'è_essere_AUX')	6	storia è	storia	è	storia	essere	NOUN	AUX	story is
+('è_essere_VERB', 'solo_solo_ADV')	6	è solo	è	solo	essere	solo	VERB	ADV	is only
+('erano_essere_AUX', 'da_da_ADP')	6	erano da	erano	da	essere	da	AUX	ADP	they were from
+('del_di_ADP', 'brandy_brandy_NOUN')	6	del brandy	del	brandy	di	brandy	ADP	NOUN	some brandy
+('di_di_ADP', 'successo_successo_NOUN')	6	di successo	di	successo	di	successo	ADP	NOUN	successful
+('tempo_tempo_NOUN', 'atmosferico_atmosferico_ADJ')	6	tempo atmosferico	tempo	atmosferico	tempo	atmosferico	NOUN	ADJ	weather
+('venuta_venire_VERB', 'in_in_ADP')	6	venuta in	venuta	in	venire	in	VERB	ADP	come in
+('lasciato_lasciare_VERB', 'guidare_guidare_VERB')	6	lasciato guidare	lasciato	guidare	lasciare	guidare	VERB	VERB	allowed to drive
+('che_che_SCONJ', 'hanno_avere_AUX')	6	che hanno	che	hanno	che	avere	SCONJ	AUX	that have
+('una_uno_DET', 'moneta_moneta_NOUN')	6	una moneta	una	moneta	uno	moneta	DET	NOUN	a coin
+('immagino_immaginare_VERB', 'di_di_ADP')	6	immagino di	immagino	di	immaginare	di	VERB	ADP	I imagine to
+('fuori_fuori_ADV', 'stasera_stasera_ADV')	6	fuori stasera	fuori	stasera	fuori	stasera	ADV	ADV	out tonight
+('ma_ma_CCONJ', 'sono_essere_AUX')	6	ma sono	ma	sono	ma	essere	CCONJ	AUX	but I am
+('veramente_veramente_ADV', 'i_il_DET')	6		veramente	i	veramente	il	ADV	DET	really the (masculine plural)
+('te_te_PRON', 'stessa_stesso_ADJ')	6	te stessa	te	stessa	te	stesso	PRON	ADJ	yourself (feminine)
+('accusata_accusare_VERB', 'di_di_ADP')	6	accusata di	accusata	di	accusare	di	VERB	ADP	accused of
+('non_non_ADV', 'la_il_DET')	6	non la	non	la	non	il	ADV	DET	not it (feminine)
+('aiutarci_aiutare_VERB', 'a_a_ADP')	6	a	aiutarci	a	aiutare	a	VERB	ADP	help us to
+('sai_sapere_VERB', 'il_il_DET')	6	sai il	sai	il	sapere	il	VERB	DET	you know the
+('farò_fare_VERB', 'un_uno_DET')	6	farò un	farò	un	fare	uno	VERB	DET	I will make a
+('stava_stare_AUX', 'morendo_morire_VERB')	6	stava morendo	stava	morendo	stare	morire	AUX	VERB	was dying
+('abitava_abitare_VERB', 'in_in_ADP')	6	abitava in	abitava	in	abitare	in	VERB	ADP	lived in
+('so_sapere_VERB', 'il_il_DET')	6	so il	so	il	sapere	il	VERB	DET	I know the
+('che_che_SCONJ', 'qualcosa_qualcosa_PRON')	6	che qualcosa	che	qualcosa	che	qualcosa	SCONJ	PRON	that something
+('può_potere_AUX', 'sempre_sempre_ADV')	6	può sempre	può	sempre	potere	sempre	AUX	ADV	can always
+('un_uno_DET', 'cellulare_cellulare_NOUN')	6	un cellulare	un	cellulare	uno	cellulare	DET	NOUN	a cellphone
+('occhi_occhio_NOUN', 'sono_essere_AUX')	6	occhi sono	occhi	sono	occhio	essere	NOUN	AUX	eyes are
+('parli_parlare_VERB', 'in_in_ADP')	6	parli in	parli	in	parlare	in	VERB	ADP	you speak in
+"(""dell'_di_ADP"", 'auto_auto_NOUN')"	6	dell'auto	dell'	auto	di	auto	ADP	NOUN	of the car
+('proprio_proprio_ADV', 'qui_qui_ADV')	6	proprio qui	proprio	qui	proprio	qui	ADV	ADV	right here
+('pupazzo_pupazzo_NOUN', 'di_di_ADP')	6	pupazzo di	pupazzo	di	pupazzo	di	NOUN	ADP	puppet of
+('lei_in_ADP', 'capisce_capire_VERB')	6	lei capisce	lei	capisce	in	capire	ADP	VERB	she understands
