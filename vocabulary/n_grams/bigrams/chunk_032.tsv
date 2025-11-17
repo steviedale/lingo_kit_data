@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('essere_essere_AUX', 'come_come_ADP')	15	essere come	essere	come	essere	come	AUX	ADP	
-('suo_suo_DET', 'piano_piano_NOUN')	15	suo piano	suo	piano	suo	piano	DET	NOUN	
-('sia_essere_AUX', 'il_il_DET')	15	sia il	sia	il	essere	il	AUX	DET	
-('non_non_ADV', 'conosce_conoscere_VERB')	15	non conosce	non	conosce	non	conoscere	ADV	VERB	
-('un_uno_DET', 'professore_professore_NOUN')	15	un professore	un	professore	uno	professore	DET	NOUN	
-('i_il_DET', 'biglietti_biglietto_NOUN')	15	i biglietti	i	biglietti	il	biglietto	DET	NOUN	
-('si_si_PRON', 'fa_fare_VERB')	15	si fa	si	fa	si	fare	PRON	VERB	
-('strada_strada_NOUN', 'è_essere_AUX')	15	strada è	strada	è	strada	essere	NOUN	AUX	
-('questa_questo_DET', 'chiave_chiave_NOUN')	15	questa chiave	questa	chiave	questo	chiave	DET	NOUN	
-('promesso_promettere_VERB', 'di_di_ADP')	15	promesso di	promesso	di	promettere	di	VERB	ADP	
-"(""l'_il_DET"", 'ombrello_ombrello_NOUN')"	15	l'ombrello	l'	ombrello	il	ombrello	DET	NOUN	
-('nostra_nostro_DET', 'squadra_squadra_NOUN')	15	nostra squadra	nostra	squadra	nostro	squadra	DET	NOUN	
-('suo_suo_DET', 'problema_problema_NOUN')	15	suo problema	suo	problema	suo	problema	DET	NOUN	
-('cosa_cosa_PRON', 'volete_volere_VERB')	15	cosa volete	cosa	volete	cosa	volere	PRON	VERB	
-('lì_lì_ADV', 'da_da_ADP')	15		lì	da	lì	da	ADV	ADP	
-('ho_avere_AUX', 'visitato_visitare_VERB')	15	ho visitato	ho	visitato	avere	visitare	AUX	VERB	
-('scrivere_scrivere_VERB', 'il_il_DET')	15	scrivere il	scrivere	il	scrivere	il	VERB	DET	
-('sta_stare_VERB', 'a_a_ADP')	15	sta	sta	a	stare	a	VERB	ADP	
-('mia_mio_DET', 'opinione_opinione_NOUN')	15	mia opinione	mia	opinione	mio	opinione	DET	NOUN	
-('ancora_ancora_ADV', 'qui_qui_ADV')	15	ancora qui	ancora	qui	ancora	qui	ADV	ADV	
-('un_uno_DET', 'suo_suo_DET')	15	un suo	un	suo	uno	suo	DET	DET	
-('come_come_ADV', 'funziona_funzionare_VERB')	15	come funziona	come	funziona	come	funzionare	ADV	VERB	
-('le_il_DET', 'scatole_scatola_NOUN')	15	le scatole	le	scatole	il	scatola	DET	NOUN	
-('lavorando_lavorare_VERB', 'per_per_ADP')	15	lavorando per	lavorando	per	lavorare	per	VERB	ADP	
-('lei_lei_PRON', 'va_andare_VERB')	15	lei va	lei	va	lei	andare	PRON	VERB	
-('come_come_ADV', 'avete_avere_AUX')	15	come avete	come	avete	come	avere	ADV	AUX	
-('andate_andare_VERB', 'in_in_ADP')	15	andate in	andate	in	andare	in	VERB	ADP	
-('avevo_avere_VERB', 'un_uno_DET')	15	avevo un	avevo	un	avere	uno	VERB	DET	
-('si_si_PRON', 'dovrebbe_dovere_AUX')	15	si dovrebbe	si	dovrebbe	si	dovere	PRON	AUX	
-('dare_dare_VERB', 'a_a_ADP')	15		dare	a	dare	a	VERB	ADP	
-('mangiare_mangiare_VERB', 'il_il_DET')	15	mangiare il	mangiare	il	mangiare	il	VERB	DET	
-('mangiato_mangiare_VERB', 'una_uno_DET')	15	mangiato una	mangiato	una	mangiare	uno	VERB	DET	
-('padre_padre_NOUN', 'non_non_ADV')	15	padre non	padre	non	padre	non	NOUN	ADV	
-('il_il_DET', 'figlio_figlio_NOUN')	15	il figlio	il	figlio	il	figlio	DET	NOUN	
-('avete_avere_VERB', 'delle_di_ADP')	15	avete delle	avete	delle	avere	di	VERB	ADP	
-('la_il_DET', 'bambina_bambino_NOUN')	15	la bambina	la	bambina	il	bambino	DET	NOUN	
-('fa_fare_VERB', 'molto_molto_ADV')	15	fa molto	fa	molto	fare	molto	VERB	ADV	
-('può_potere_AUX', 'aiutare_aiutare_VERB')	15	può aiutare	può	aiutare	potere	aiutare	AUX	VERB	
-('le_le_PRON', 'sto_essere_AUX')	15	le sto	le	sto	le	essere	PRON	AUX	
-('importante_importante_ADJ', 'per_per_ADP')	15	importante per	importante	per	importante	per	ADJ	ADP	
-('fratello_fratello_NOUN', 'è_essere_AUX')	15	fratello è	fratello	è	fratello	essere	NOUN	AUX	
-('io_io_PRON', 'vedo_vedere_VERB')	15	io vedo	io	vedo	io	vedere	PRON	VERB	
-('suoi_suo_DET', 'occhiali_occhiale_NOUN')	15	suoi occhiali	suoi	occhiali	suo	occhiale	DET	NOUN	
-('risposta_risposta_NOUN', 'è_essere_AUX')	15	risposta è	risposta	è	risposta	essere	NOUN	AUX	
-('venga_venire_VERB', 'a_a_ADP')	15	venga	venga	a	venire	a	VERB	ADP	
-('dove_dove_PRON', 'posso_potere_AUX')	15	dove posso	dove	posso	dove	potere	PRON	AUX	
-('il_il_DET', 'premio_premio_NOUN')	15	il premio	il	premio	il	premio	DET	NOUN	
-('non_non_ADV', 'faccio_fare_VERB')	15	non faccio	non	faccio	non	fare	ADV	VERB	
-('iniziando_iniziare_VERB', 'a_a_ADP')	15		iniziando	a	iniziare	a	VERB	ADP	
-('dovuto_dovere_AUX', 'fare_fare_VERB')	15	dovuto fare	dovuto	fare	dovere	fare	AUX	VERB	
-('sue_suo_DET', 'figlie_figlia_NOUN')	15	sue figlie	sue	figlie	suo	figlia	DET	NOUN	
-('mi_mi_PRON', 'avrebbe_avere_AUX')	15	mi avrebbe	mi	avrebbe	mi	avere	PRON	AUX	
-('lingue_lingua_NOUN', 'straniere_straniero_ADJ')	15	lingue straniere	lingue	straniere	lingua	straniero	NOUN	ADJ	
-('aiuto_aiuto_NOUN', 'di_di_ADP')	15	aiuto di	aiuto	di	aiuto	di	NOUN	ADP	
-('mio_mio_DET', 'insegnante_insegnante_NOUN')	15	mio insegnante	mio	insegnante	mio	insegnante	DET	NOUN	
-('di_di_ADP', 'quel_quello_DET')	15	di quel	di	quel	di	quello	ADP	DET	
-('è_essere_AUX', 'questa_questo_DET')	15	è questa	è	questa	essere	questo	AUX	DET	
-('a_a_ADP', 'comprare_comprare_VERB')	15	ai a comprare	a	comprare	a	comprare	ADP	VERB	
-('da_da_ADP', 'scuola_scuola_NOUN')	15	da scuola	da	scuola	da	scuola	ADP	NOUN	
-('mi_mi_PRON', 'passi_passare_VERB')	15	mi passi	mi	passi	mi	passare	PRON	VERB	
-('era_essere_AUX', 'nella_in_ADP')	15	era nella	era	nella	essere	in	AUX	ADP	
-('sto_essere_AUX', 'aspettando_aspettare_VERB')	15	sto aspettando	sto	aspettando	essere	aspettare	AUX	VERB	
-('non_non_ADV', 'preoccupatevi_preoccupare_VERB')	15	non preoccupatevi	non	preoccupatevi	non	preoccupare	ADV	VERB	
-('tuo_tuo_DET', 'lavoro_lavoro_NOUN')	15	tuo lavoro	tuo	lavoro	tuo	lavoro	DET	NOUN	
-('si_si_PRON', 'scusò_scusare_VERB')	15	si scusò	si	scusò	si	scusare	PRON	VERB	
-('non_non_ADV', 'sanno_sapere_VERB')	15	non sanno	non	sanno	non	sapere	ADV	VERB	
-"(""l'_il_DET"", 'appartamento_appartamento_NOUN')"	15	l'appartamento	l'	appartamento	il	appartamento	DET	NOUN	
-('ha_avere_AUX', 'trascorso_trascorrere_VERB')	15	ha trascorso	ha	trascorso	avere	trascorrere	AUX	VERB	
-('sai_sapere_VERB', 'chi_chi_PRON')	15	sai chi	sai	chi	sapere	chi	VERB	PRON	
-('sorella_sorella_NOUN', 'è_essere_AUX')	15	sorella è	sorella	è	sorella	essere	NOUN	AUX	
-('di_di_ADP', 'tutto_tutto_PRON')	15	di tutto	di	tutto	di	tutto	ADP	PRON	
-('dicono_dire_VERB', 'di_di_ADP')	15	di	dicono	di	dire	di	VERB	ADP	
-('comprato_comprare_VERB', 'questo_questo_DET')	15	comprato questo	comprato	questo	comprare	questo	VERB	DET	
-('questo_questo_DET', 'fiore_fiore_NOUN')	15	questo fiore	questo	fiore	questo	fiore	DET	NOUN	
-('so_sapere_VERB', 'se_se_SCONJ')	15	so se	so	se	sapere	se	VERB	SCONJ	
-('molte_molto_DET', 'amiche_amico_NOUN')	15	molte amiche	molte	amiche	molto	amico	DET	NOUN	
-('giochiamo_giocare_VERB', 'a_a_ADP')	15	giochia	giochiamo	a	giocare	a	VERB	ADP	
-('le_le_PRON', 'serve_servire_VERB')	15	le serve	le	serve	le	servire	PRON	VERB	
-('fatto_fare_VERB', 'il_il_DET')	15	fatto il	fatto	il	fare	il	VERB	DET	
-('ha_avere_AUX', 'raccontato_raccontare_VERB')	15	ha raccontato	ha	raccontato	avere	raccontare	AUX	VERB	
-('una_uno_DET', 'bambina_bambino_NOUN')	15	una bambina	una	bambina	uno	bambino	DET	NOUN	
-('sono_essere_AUX', 'felici_felice_ADJ')	15	sono felici	sono	felici	essere	felice	AUX	ADJ	
-('di_di_ADP', 'cambiare_cambiare_VERB')	15	di cambiare	di	cambiare	di	cambiare	ADP	VERB	
-('suoi_suo_DET', 'piani_piano_NOUN')	15	suoi piani	suoi	piani	suo	piano	DET	NOUN	
-('ho_avere_AUX', 'ordinato_ordinare_VERB')	15	ho ordinato	ho	ordinato	avere	ordinare	AUX	VERB	
-('a_a_ADP', 'qualcuno_qualcuno_PRON')	15	avete detto a qualcuno	a	qualcuno	a	qualcuno	ADP	PRON	
-('posto_posto_NOUN', 'in_in_ADP')	15	posto in	posto	in	posto	in	NOUN	ADP	
-('è_essere_AUX', 'vecchio_vecchio_ADJ')	15	è vecchio	è	vecchio	essere	vecchio	AUX	ADJ	
-('più_più_ADV', 'vecchio_vecchio_ADJ')	15	più vecchio	più	vecchio	più	vecchio	ADV	ADJ	
-('te_te_PRON', 'ne_ne_PRON')	15	te ne	te	ne	te	ne	PRON	PRON	
-('lei_lei_PRON', 'ci_ci_PRON')	15	lei ci	lei	ci	lei	ci	PRON	PRON	
-('un_uno_DET', 'asciugamano_asciugamano_NOUN')	15	un asciugamano	un	asciugamano	uno	asciugamano	DET	NOUN	
-('quella_quello_DET', 'macchina_macchina_NOUN')	15	quella macchina	quella	macchina	quello	macchina	DET	NOUN	
-('molto_molto_ADV', 'gentile_gentile_ADJ')	15	molto gentile	molto	gentile	molto	gentile	ADV	ADJ	
-('mi_mi_PRON', 'ami_amare_VERB')	15	mi ami	mi	ami	mi	amare	PRON	VERB	
-('i_il_DET', 'ragazzi_ragazzo_NOUN')	15	i ragazzi	i	ragazzi	il	ragazzo	DET	NOUN	
-('aiuterò_aiutare_VERB', 'a_a_ADP')	15	a	aiuterò	a	aiutare	a	VERB	ADP	
-('avrebbe_avere_AUX', 'aiutato_aiutare_VERB')	15	avrebbe aiutato	avrebbe	aiutato	avere	aiutare	AUX	VERB	
-('delle_di_ADP', 'mie_mio_DET')	15	delle mie	delle	mie	di	mio	ADP	DET	
-('diede_dare_VERB', 'una_uno_DET')	15	diede una	diede	una	dare	uno	VERB	DET	
+('essere_essere_AUX', 'come_come_ADP')	15	essere come	essere	come	essere	come	AUX	ADP	to be like
+('suo_suo_DET', 'piano_piano_NOUN')	15	suo piano	suo	piano	suo	piano	DET	NOUN	his plan; her plan
+('sia_essere_AUX', 'il_il_DET')	15	sia il	sia	il	essere	il	AUX	DET	be the (masculine)
+('non_non_ADV', 'conosce_conoscere_VERB')	15	non conosce	non	conosce	non	conoscere	ADV	VERB	does not know
+('un_uno_DET', 'professore_professore_NOUN')	15	un professore	un	professore	uno	professore	DET	NOUN	a professor
+('i_il_DET', 'biglietti_biglietto_NOUN')	15	i biglietti	i	biglietti	il	biglietto	DET	NOUN	the tickets
+('si_si_PRON', 'fa_fare_VERB')	15	si fa	si	fa	si	fare	PRON	VERB	one makes
+('strada_strada_NOUN', 'è_essere_AUX')	15	strada è	strada	è	strada	essere	NOUN	AUX	the road is
+('questa_questo_DET', 'chiave_chiave_NOUN')	15	questa chiave	questa	chiave	questo	chiave	DET	NOUN	this key
+('promesso_promettere_VERB', 'di_di_ADP')	15	promesso di	promesso	di	promettere	di	VERB	ADP	promised to
+"(""l'_il_DET"", 'ombrello_ombrello_NOUN')"	15	l'ombrello	l'	ombrello	il	ombrello	DET	NOUN	the umbrella (before a vowel)
+('nostra_nostro_DET', 'squadra_squadra_NOUN')	15	nostra squadra	nostra	squadra	nostro	squadra	DET	NOUN	our team
+('suo_suo_DET', 'problema_problema_NOUN')	15	suo problema	suo	problema	suo	problema	DET	NOUN	his problem; her problem
+('cosa_cosa_PRON', 'volete_volere_VERB')	15	cosa volete	cosa	volete	cosa	volere	PRON	VERB	what do you (plural) want
+('lì_lì_ADV', 'da_da_ADP')	15		lì	da	lì	da	ADV	ADP	there from
+('ho_avere_AUX', 'visitato_visitare_VERB')	15	ho visitato	ho	visitato	avere	visitare	AUX	VERB	I visited
+('scrivere_scrivere_VERB', 'il_il_DET')	15	scrivere il	scrivere	il	scrivere	il	VERB	DET	write the (masculine)
+('sta_stare_VERB', 'a_a_ADP')	15	sta	sta	a	stare	a	VERB	ADP	been to
+('mia_mio_DET', 'opinione_opinione_NOUN')	15	mia opinione	mia	opinione	mio	opinione	DET	NOUN	my opinion
+('ancora_ancora_ADV', 'qui_qui_ADV')	15	ancora qui	ancora	qui	ancora	qui	ADV	ADV	still here
+('un_uno_DET', 'suo_suo_DET')	15	un suo	un	suo	uno	suo	DET	DET	one of his; one of her
+('come_come_ADV', 'funziona_funzionare_VERB')	15	come funziona	come	funziona	come	funzionare	ADV	VERB	how it works
+('le_il_DET', 'scatole_scatola_NOUN')	15	le scatole	le	scatole	il	scatola	DET	NOUN	the boxes
+('lavorando_lavorare_VERB', 'per_per_ADP')	15	lavorando per	lavorando	per	lavorare	per	VERB	ADP	working for
+('lei_lei_PRON', 'va_andare_VERB')	15	lei va	lei	va	lei	andare	PRON	VERB	she goes
+('come_come_ADV', 'avete_avere_AUX')	15	come avete	come	avete	come	avere	ADV	AUX	how you (plural) have
+('andate_andare_VERB', 'in_in_ADP')	15	andate in	andate	in	andare	in	VERB	ADP	you (plural) go in
+('avevo_avere_VERB', 'un_uno_DET')	15	avevo un	avevo	un	avere	uno	VERB	DET	I had a (masculine)
+('si_si_PRON', 'dovrebbe_dovere_AUX')	15	si dovrebbe	si	dovrebbe	si	dovere	PRON	AUX	one should
+('dare_dare_VERB', 'a_a_ADP')	15		dare	a	dare	a	VERB	ADP	to give to
+('mangiare_mangiare_VERB', 'il_il_DET')	15	mangiare il	mangiare	il	mangiare	il	VERB	DET	eat the (masculine)
+('mangiato_mangiare_VERB', 'una_uno_DET')	15	mangiato una	mangiato	una	mangiare	uno	VERB	DET	eaten a (feminine)
+('padre_padre_NOUN', 'non_non_ADV')	15	padre non	padre	non	padre	non	NOUN	ADV	father does not
+('il_il_DET', 'figlio_figlio_NOUN')	15	il figlio	il	figlio	il	figlio	DET	NOUN	the son
+('avete_avere_VERB', 'delle_di_ADP')	15	avete delle	avete	delle	avere	di	VERB	ADP	you (plural) have some (feminine)
+('la_il_DET', 'bambina_bambino_NOUN')	15	la bambina	la	bambina	il	bambino	DET	NOUN	the girl
+('fa_fare_VERB', 'molto_molto_ADV')	15	fa molto	fa	molto	fare	molto	VERB	ADV	does a lot
+('può_potere_AUX', 'aiutare_aiutare_VERB')	15	può aiutare	può	aiutare	potere	aiutare	AUX	VERB	can help
+('le_le_PRON', 'sto_essere_AUX')	15	le sto	le	sto	le	essere	PRON	AUX	I am to her
+('importante_importante_ADJ', 'per_per_ADP')	15	importante per	importante	per	importante	per	ADJ	ADP	important for
+('fratello_fratello_NOUN', 'è_essere_AUX')	15	fratello è	fratello	è	fratello	essere	NOUN	AUX	the brother is
+('io_io_PRON', 'vedo_vedere_VERB')	15	io vedo	io	vedo	io	vedere	PRON	VERB	I see
+('suoi_suo_DET', 'occhiali_occhiale_NOUN')	15	suoi occhiali	suoi	occhiali	suo	occhiale	DET	NOUN	his glasses; her glasses
+('risposta_risposta_NOUN', 'è_essere_AUX')	15	risposta è	risposta	è	risposta	essere	NOUN	AUX	the answer is
+('venga_venire_VERB', 'a_a_ADP')	15	venga	venga	a	venire	a	VERB	ADP	come to
+('dove_dove_PRON', 'posso_potere_AUX')	15	dove posso	dove	posso	dove	potere	PRON	AUX	where can I
+('il_il_DET', 'premio_premio_NOUN')	15	il premio	il	premio	il	premio	DET	NOUN	the prize
+('non_non_ADV', 'faccio_fare_VERB')	15	non faccio	non	faccio	non	fare	ADV	VERB	I do not do
+('iniziando_iniziare_VERB', 'a_a_ADP')	15		iniziando	a	iniziare	a	VERB	ADP	starting to
+('dovuto_dovere_AUX', 'fare_fare_VERB')	15	dovuto fare	dovuto	fare	dovere	fare	AUX	VERB	had to do
+('sue_suo_DET', 'figlie_figlia_NOUN')	15	sue figlie	sue	figlie	suo	figlia	DET	NOUN	his daughters; her daughters
+('mi_mi_PRON', 'avrebbe_avere_AUX')	15	mi avrebbe	mi	avrebbe	mi	avere	PRON	AUX	would have me
+('lingue_lingua_NOUN', 'straniere_straniero_ADJ')	15	lingue straniere	lingue	straniere	lingua	straniero	NOUN	ADJ	foreign languages
+('aiuto_aiuto_NOUN', 'di_di_ADP')	15	aiuto di	aiuto	di	aiuto	di	NOUN	ADP	help from
+('mio_mio_DET', 'insegnante_insegnante_NOUN')	15	mio insegnante	mio	insegnante	mio	insegnante	DET	NOUN	my teacher
+('di_di_ADP', 'quel_quello_DET')	15	di quel	di	quel	di	quello	ADP	DET	of that (masculine)
+('è_essere_AUX', 'questa_questo_DET')	15	è questa	è	questa	essere	questo	AUX	DET	is this (feminine)
+('a_a_ADP', 'comprare_comprare_VERB')	15	ai a comprare	a	comprare	a	comprare	ADP	VERB	to buy
+('da_da_ADP', 'scuola_scuola_NOUN')	15	da scuola	da	scuola	da	scuola	ADP	NOUN	from school
+('mi_mi_PRON', 'passi_passare_VERB')	15	mi passi	mi	passi	mi	passare	PRON	VERB	pass me
+('era_essere_AUX', 'nella_in_ADP')	15	era nella	era	nella	essere	in	AUX	ADP	was in the (feminine)
+('sto_essere_AUX', 'aspettando_aspettare_VERB')	15	sto aspettando	sto	aspettando	essere	aspettare	AUX	VERB	I am waiting
+('non_non_ADV', 'preoccupatevi_preoccupare_VERB')	15	non preoccupatevi	non	preoccupatevi	non	preoccupare	ADV	VERB	do not worry (you (plural))
+('tuo_tuo_DET', 'lavoro_lavoro_NOUN')	15	tuo lavoro	tuo	lavoro	tuo	lavoro	DET	NOUN	your job
+('si_si_PRON', 'scusò_scusare_VERB')	15	si scusò	si	scusò	si	scusare	PRON	VERB	he apologized
+('non_non_ADV', 'sanno_sapere_VERB')	15	non sanno	non	sanno	non	sapere	ADV	VERB	they do not know
+"(""l'_il_DET"", 'appartamento_appartamento_NOUN')"	15	l'appartamento	l'	appartamento	il	appartamento	DET	NOUN	the apartment (before a vowel)
+('ha_avere_AUX', 'trascorso_trascorrere_VERB')	15	ha trascorso	ha	trascorso	avere	trascorrere	AUX	VERB	spent
+('sai_sapere_VERB', 'chi_chi_PRON')	15	sai chi	sai	chi	sapere	chi	VERB	PRON	you know who
+('sorella_sorella_NOUN', 'è_essere_AUX')	15	sorella è	sorella	è	sorella	essere	NOUN	AUX	sister is
+('di_di_ADP', 'tutto_tutto_PRON')	15	di tutto	di	tutto	di	tutto	ADP	PRON	of everything
+('dicono_dire_VERB', 'di_di_ADP')	15	di	dicono	di	dire	di	VERB	ADP	of
+('comprato_comprare_VERB', 'questo_questo_DET')	15	comprato questo	comprato	questo	comprare	questo	VERB	DET	bought this
+('questo_questo_DET', 'fiore_fiore_NOUN')	15	questo fiore	questo	fiore	questo	fiore	DET	NOUN	this flower
+('so_sapere_VERB', 'se_se_SCONJ')	15	so se	so	se	sapere	se	VERB	SCONJ	I know if
+('molte_molto_DET', 'amiche_amico_NOUN')	15	molte amiche	molte	amiche	molto	amico	DET	NOUN	many friends (feminine)
+('giochiamo_giocare_VERB', 'a_a_ADP')	15	giochia	giochiamo	a	giocare	a	VERB	ADP	we play
+('le_le_PRON', 'serve_servire_VERB')	15	le serve	le	serve	le	servire	PRON	VERB	she needs
+('fatto_fare_VERB', 'il_il_DET')	15	fatto il	fatto	il	fare	il	VERB	DET	done the (masculine)
+('ha_avere_AUX', 'raccontato_raccontare_VERB')	15	ha raccontato	ha	raccontato	avere	raccontare	AUX	VERB	told
+('una_uno_DET', 'bambina_bambino_NOUN')	15	una bambina	una	bambina	uno	bambino	DET	NOUN	a girl
+('sono_essere_AUX', 'felici_felice_ADJ')	15	sono felici	sono	felici	essere	felice	AUX	ADJ	they are happy
+('di_di_ADP', 'cambiare_cambiare_VERB')	15	di cambiare	di	cambiare	di	cambiare	ADP	VERB	to change
+('suoi_suo_DET', 'piani_piano_NOUN')	15	suoi piani	suoi	piani	suo	piano	DET	NOUN	his plans; her plans
+('ho_avere_AUX', 'ordinato_ordinare_VERB')	15	ho ordinato	ho	ordinato	avere	ordinare	AUX	VERB	I ordered
+('a_a_ADP', 'qualcuno_qualcuno_PRON')	15	avete detto a qualcuno	a	qualcuno	a	qualcuno	ADP	PRON	you (plural) told someone
+('posto_posto_NOUN', 'in_in_ADP')	15	posto in	posto	in	posto	in	NOUN	ADP	place in
+('è_essere_AUX', 'vecchio_vecchio_ADJ')	15	è vecchio	è	vecchio	essere	vecchio	AUX	ADJ	is old
+('più_più_ADV', 'vecchio_vecchio_ADJ')	15	più vecchio	più	vecchio	più	vecchio	ADV	ADJ	older
+('te_te_PRON', 'ne_ne_PRON')	15	te ne	te	ne	te	ne	PRON	PRON	you of it
+('lei_lei_PRON', 'ci_ci_PRON')	15	lei ci	lei	ci	lei	ci	PRON	PRON	she us
+('un_uno_DET', 'asciugamano_asciugamano_NOUN')	15	un asciugamano	un	asciugamano	uno	asciugamano	DET	NOUN	a towel
+('quella_quello_DET', 'macchina_macchina_NOUN')	15	quella macchina	quella	macchina	quello	macchina	DET	NOUN	that car
+('molto_molto_ADV', 'gentile_gentile_ADJ')	15	molto gentile	molto	gentile	molto	gentile	ADV	ADJ	very kind
+('mi_mi_PRON', 'ami_amare_VERB')	15	mi ami	mi	ami	mi	amare	PRON	VERB	do you love me
+('i_il_DET', 'ragazzi_ragazzo_NOUN')	15	i ragazzi	i	ragazzi	il	ragazzo	DET	NOUN	the boys
+('aiuterò_aiutare_VERB', 'a_a_ADP')	15	a	aiuterò	a	aiutare	a	VERB	ADP	to
+('avrebbe_avere_AUX', 'aiutato_aiutare_VERB')	15	avrebbe aiutato	avrebbe	aiutato	avere	aiutare	AUX	VERB	would have helped
+('delle_di_ADP', 'mie_mio_DET')	15	delle mie	delle	mie	di	mio	ADP	DET	of my (feminine plural)
+('diede_dare_VERB', 'una_uno_DET')	15	diede una	diede	una	dare	uno	VERB	DET	he gave a (feminine)
