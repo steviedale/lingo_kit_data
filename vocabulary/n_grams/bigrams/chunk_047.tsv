@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('dei_di_ADP', 'film_film_NOUN')	11	dei film	dei	film	di	film	ADP	NOUN	
-('ecco_ecco_ADV', 'la_il_DET')	11	ecco la	ecco	la	ecco	il	ADV	DET	
-('chiesi_chiedere_VERB', 'di_di_ADP')	11	chiesi di	chiesi	di	chiedere	di	VERB	ADP	
-"(""quest'_questo_DET"", 'estate_estate_NOUN')"	11	quest'estate	quest'	estate	questo	estate	DET	NOUN	
-('vale_valere_VERB', 'la_il_DET')	11	vale la	vale	la	valere	il	VERB	DET	
-('ti_ti_PRON', 'posso_potere_AUX')	11	ti posso	ti	posso	ti	potere	PRON	AUX	
-('perché_perché_PRON', 'ci_ci_PRON')	11	perché ci	perché	ci	perché	ci	PRON	PRON	
-('guarda_guardare_VERB', 'la_il_DET')	11	guarda la	guarda	la	guardare	il	VERB	DET	
-('lui_lui_PRON', 'aveva_avere_VERB')	11	lui aveva	lui	aveva	lui	avere	PRON	VERB	
-('sto_essere_AUX', 'chiedendo_chiedere_VERB')	11	sto chiedendo	sto	chiedendo	essere	chiedere	AUX	VERB	
-('pagato_pagare_VERB', 'per_per_ADP')	11	pagato per	pagato	per	pagare	per	VERB	ADP	
-('una_uno_DET', 'partita_partita_NOUN')	11	una partita	una	partita	uno	partita	DET	NOUN	
-('ha_avere_AUX', 'finalmente_finalmente_ADV')	11	ha finalmente	ha	finalmente	avere	finalmente	AUX	ADV	
-('da_da_ADP', 'anni_anno_NOUN')	11	da anni	da	anni	da	anno	ADP	NOUN	
-('questo_questo_DET', 'paese_paese_NOUN')	11	questo paese	questo	paese	questo	paese	DET	NOUN	
-('una_uno_DET', 'sua_suo_DET')	11	una sua	una	sua	uno	suo	DET	DET	
-"('superato_superare_VERB', ""l'_il_DET"")"	11	superato l'	superato	l'	superare	il	VERB	DET	
-('ti_ti_PRON', 'dispiace_dispiacere_VERB')	11	ti dispiace	ti	dispiace	ti	dispiacere	PRON	VERB	
-('che_che_PRON', 'sto_essere_AUX')	11	che sto	che	sto	che	essere	PRON	AUX	
-('colpo_colpo_NOUN', 'di_di_ADP')	11	colpo di	colpo	di	colpo	di	NOUN	ADP	
-('un_uno_DET', 'fantasma_fantasma_NOUN')	11	un fantasma	un	fantasma	uno	fantasma	DET	NOUN	
-"(""all'_a_ADP"", 'ufficio_ufficio_NOUN')"	11	all'ufficio	all'	ufficio	a	ufficio	ADP	NOUN	
-('il_il_DET', 'motore_motore_NOUN')	11	il motore	il	motore	il	motore	DET	NOUN	
-('finire_finire_VERB', 'il_il_DET')	11	finire il	finire	il	finire	il	VERB	DET	
-('ad_a_ADP', 'avere_avere_VERB')	11	ad avere	ad	avere	a	avere	ADP	VERB	
-('ha_avere_AUX', 'invitata_invitare_VERB')	11	ha invitata	ha	invitata	avere	invitare	AUX	VERB	
-('loro_loro_PRON', 'una_uno_DET')	11	loro una	loro	una	loro	uno	PRON	DET	
-('ti_ti_PRON', 'fa_fare_VERB')	11	ti fa	ti	fa	ti	fare	PRON	VERB	
-('essere_essere_AUX', 'qua_qua_ADV')	11	essere qua	essere	qua	essere	qua	AUX	ADV	
-('il_il_DET', 'burro_burro_NOUN')	11	il burro	il	burro	il	burro	DET	NOUN	
-('morì_morire_VERB', 'di_di_ADP')	11	morì di	morì	di	morire	di	VERB	ADP	
-('suo_suo_DET', 'indirizzo_indirizzo_NOUN')	11	suo indirizzo	suo	indirizzo	suo	indirizzo	DET	NOUN	
-('per_per_ADP', 'aver_avere_AUX')	11	per aver	per	aver	per	avere	ADP	AUX	
-('così_così_ADV', 'tanta_tanto_DET')	11	così tanta	così	tanta	così	tanto	ADV	DET	
-('diverse_diverso_DET', 'ore_ora_NOUN')	11	diverse ore	diverse	ore	diverso	ora	DET	NOUN	
-('le_il_DET', 'carte_carta_NOUN')	11	le carte	le	carte	il	carta	DET	NOUN	
-('sue_suo_DET', 'parole_parola_NOUN')	11	sue parole	sue	parole	suo	parola	DET	NOUN	
-"(""l'_il_DET"", 'italiano_italiano_NOUN')"	11	l'italiano	l'	italiano	il	italiano	DET	NOUN	
-('il_il_DET', 'messaggio_messaggio_NOUN')	11	il messaggio	il	messaggio	il	messaggio	DET	NOUN	
-('con_con_ADP', 'questo_questo_PRON')	11	con questo	con	questo	con	questo	ADP	PRON	
-('quel_quello_DET', 'ragazzo_ragazzo_NOUN')	11	quel ragazzo	quel	ragazzo	quello	ragazzo	DET	NOUN	
-('qualcuno_qualcuno_PRON', 'è_essere_AUX')	11	qualcuno è	qualcuno	è	qualcuno	essere	PRON	AUX	
-('lui_lui_PRON', 'vuole_volere_AUX')	11	lui vuole	lui	vuole	lui	volere	PRON	AUX	
-('lavare_lavare_VERB', 'la_il_DET')	11	la	lavare	la	lavare	il	VERB	DET	
-('ha_avere_AUX', 'utilizzato_utilizzare_VERB')	11	ha utilizzato	ha	utilizzato	avere	utilizzare	AUX	VERB	
-('non_non_ADV', 'lavora_lavorare_VERB')	11	non lavora	non	lavora	non	lavorare	ADV	VERB	
-('posto_posto_NOUN', 'è_essere_AUX')	11	posto è	posto	è	posto	essere	NOUN	AUX	
-('rubò_rubare_VERB', 'il_il_DET')	11	rubò il	rubò	il	rubare	il	VERB	DET	
-('ora_ora_NOUN', 'fa_fa_ADV')	11	ora fa	ora	fa	ora	fa	NOUN	ADV	
-('disposto_disporre_VERB', 'ad_a_ADP')	11	disposto ad	disposto	ad	disporre	a	VERB	ADP	
-('fratello_fratello_NOUN', 'maggiore_maggiore_ADJ')	11	fratello maggiore	fratello	maggiore	fratello	maggiore	NOUN	ADJ	
-('ho_avere_AUX', 'vissuto_vivere_VERB')	11	ho vissuto	ho	vissuto	avere	vivere	AUX	VERB	
-('andato_andare_VERB', 'con_con_ADP')	11	andato con	andato	con	andare	con	VERB	ADP	
-('mangiare_mangiare_VERB', 'adesso_adesso_ADV')	11	mangiare adesso	mangiare	adesso	mangiare	adesso	VERB	ADV	
-('per_per_ADP', 'quale_quale_DET')	11	per quale	per	quale	per	quale	ADP	DET	
-('piace_piacere_VERB', 'ancora_ancora_ADV')	11	piace ancora	piace	ancora	piacere	ancora	VERB	ADV	
-('loro_loro_DET', 'auto_auto_NOUN')	11	loro auto	loro	auto	loro	auto	DET	NOUN	
-('è_essere_AUX', 'restato_restare_VERB')	11	è restato	è	restato	essere	restare	AUX	VERB	
-('ogni_ogni_DET', 'anno_anno_NOUN')	11	ogni anno	ogni	anno	ogni	anno	DET	NOUN	
-('questa_questo_DET', 'volta_volta_NOUN')	11	questa volta	questa	volta	questo	volta	DET	NOUN	
-('la_il_DET', 'figlia_figlio_NOUN')	11	la figlia	la	figlia	il	figlio	DET	NOUN	
-"(""l'_il_DET"", 'unico_unico_PRON')"	11	l'unico	l'	unico	il	unico	DET	PRON	
-('gli_gli_PRON', 'dirò_dire_VERB')	11	gli dirò	gli	dirò	gli	dire	PRON	VERB	
-('è_essere_AUX', 'nuovo_nuovo_ADJ')	11	è nuovo	è	nuovo	essere	nuovo	AUX	ADJ	
-('albero_albero_NOUN', 'di_di_ADP')	11	albero di	albero	di	albero	di	NOUN	ADP	
-('di_di_ADP', 'pagare_pagare_VERB')	11	di pagare	di	pagare	di	pagare	ADP	VERB	
-('io_io_PRON', 'avrei_avere_AUX')	11	io avrei	io	avrei	io	avere	PRON	AUX	
-('troppo_troppo_ADV', 'a_a_ADP')	11		troppo	a	troppo	a	ADV	ADP	
-('di_di_ADP', 'riso_riso_NOUN')	11	di riso	di	riso	di	riso	ADP	NOUN	
-('si_si_PRON', 'sarebbe_essere_AUX')	11	si sarebbe	si	sarebbe	si	essere	PRON	AUX	
-('ne_ne_PRON', 'è_essere_AUX')	11	ne è	ne	è	ne	essere	PRON	AUX	
-('una_uno_DET', 'morosa_moroso_NOUN')	11	una morosa	una	morosa	uno	moroso	DET	NOUN	
-('preso_prendere_VERB', 'una_uno_DET')	11	preso una	preso	una	prendere	uno	VERB	DET	
-('stanno_stare_AUX', 'andando_andare_VERB')	11	stanno andando	stanno	andando	stare	andare	AUX	VERB	
-('mangia_mangiare_VERB', 'del_di_ADP')	11	mangia del	mangia	del	mangiare	di	VERB	ADP	
-('apprezzo_apprezzare_VERB', 'la_il_DET')	11	apprezzo la	apprezzo	la	apprezzare	il	VERB	DET	
-('a_a_ADP', 'riparare_riparare_VERB')	11	a riparare	a	riparare	a	riparare	ADP	VERB	
-('comprato_comprare_VERB', 'da_da_ADP')	11	comprato da	comprato	da	comprare	da	VERB	ADP	
-('lo_lo_PRON', 'fai_fare_VERB')	11	lo fai	lo	fai	lo	fare	PRON	VERB	
-('mi_mi_PRON', 'chiamò_chiamare_VERB')	11	mi chiamò	mi	chiamò	mi	chiamare	PRON	VERB	
-('scrivere_scrivere_VERB', 'un_uno_DET')	11	scrivere un	scrivere	un	scrivere	uno	VERB	DET	
-('avrebbe_avere_AUX', 'potuto_potere_AUX')	11	avrebbe potuto	avrebbe	potuto	avere	potere	AUX	AUX	
-('sorella_sorella_NOUN', 'di_di_ADP')	11	sorella di	sorella	di	sorella	di	NOUN	ADP	
-('ci_ci_PRON', 'stiamo_stare_AUX')	11	ci stiamo	ci	stiamo	ci	stare	PRON	AUX	
-('sembrate_sembrare_VERB', 'molto_molto_ADV')	11	sembrate molto	sembrate	molto	sembrare	molto	VERB	ADV	
-('puoi_potere_AUX', 'fare_fare_VERB')	11	puoi fare	puoi	fare	potere	fare	AUX	VERB	
-('altra_altro_ADJ', 'bottiglia_bottiglia_NOUN')	11	altra bottiglia	altra	bottiglia	altro	bottiglia	ADJ	NOUN	
-('questo_questo_PRON', 'da_da_ADP')	11	questo da	questo	da	questo	da	PRON	ADP	
-('sto_stare_AUX', 'mangiando_mangiare_VERB')	11	sto mangiando	sto	mangiando	stare	mangiare	AUX	VERB	
-('a_a_ADP', 'rispondere_rispondere_VERB')	11	a rispondere	a	rispondere	a	rispondere	ADP	VERB	
-('ha_avere_AUX', 'arrestato_arrestare_VERB')	11	ha arrestato	ha	arrestato	avere	arrestare	AUX	VERB	
-('mi_mi_PRON', 'voglio_volere_AUX')	11	mi voglio	mi	voglio	mi	volere	PRON	AUX	
-('piacque_piacere_VERB', 'il_il_DET')	11	piacque il	piacque	il	piacere	il	VERB	DET	
-('e_e_CCONJ', 'a_a_ADP')	11		e	a	e	a	CCONJ	ADP	
-('ha_avere_AUX', 'piovuto_piovere_VERB')	11	ha piovuto	ha	piovuto	avere	piovere	AUX	VERB	
-('la_il_DET', 'corda_corda_NOUN')	11	la corda	la	corda	il	corda	DET	NOUN	
-('stava_stare_VERB', 'bene_bene_ADV')	11	stava bene	stava	bene	stare	bene	VERB	ADV	
-('le_le_PRON', 'fa_fare_VERB')	11	le fa	le	fa	le	fare	PRON	VERB	
-('può_potere_AUX', 'aiutarmi_aiutare_VERB')	11	può aiutarmi	può	aiutarmi	potere	aiutare	AUX	VERB	
-('lui_lui_PRON', 'ama_amare_VERB')	11	lui ama	lui	ama	lui	amare	PRON	VERB	
+('dei_di_ADP', 'film_film_NOUN')	11	dei film	dei	film	di	film	ADP	NOUN	some films
+('ecco_ecco_ADV', 'la_il_DET')	11	ecco la	ecco	la	ecco	il	ADV	DET	here is the
+('chiesi_chiedere_VERB', 'di_di_ADP')	11	chiesi di	chiesi	di	chiedere	di	VERB	ADP	I asked to
+"(""quest'_questo_DET"", 'estate_estate_NOUN')"	11	quest'estate	quest'	estate	questo	estate	DET	NOUN	this summer (before a vowel)
+('vale_valere_VERB', 'la_il_DET')	11	vale la	vale	la	valere	il	VERB	DET	is worth the
+('ti_ti_PRON', 'posso_potere_AUX')	11	ti posso	ti	posso	ti	potere	PRON	AUX	I can
+('perché_perché_PRON', 'ci_ci_PRON')	11	perché ci	perché	ci	perché	ci	PRON	PRON	because we
+('guarda_guardare_VERB', 'la_il_DET')	11	guarda la	guarda	la	guardare	il	VERB	DET	look at the
+('lui_lui_PRON', 'aveva_avere_VERB')	11	lui aveva	lui	aveva	lui	avere	PRON	VERB	he had
+('sto_essere_AUX', 'chiedendo_chiedere_VERB')	11	sto chiedendo	sto	chiedendo	essere	chiedere	AUX	VERB	I am asking
+('pagato_pagare_VERB', 'per_per_ADP')	11	pagato per	pagato	per	pagare	per	VERB	ADP	paid for
+('una_uno_DET', 'partita_partita_NOUN')	11	una partita	una	partita	uno	partita	DET	NOUN	a game
+('ha_avere_AUX', 'finalmente_finalmente_ADV')	11	ha finalmente	ha	finalmente	avere	finalmente	AUX	ADV	has finally
+('da_da_ADP', 'anni_anno_NOUN')	11	da anni	da	anni	da	anno	ADP	NOUN	for years
+('questo_questo_DET', 'paese_paese_NOUN')	11	questo paese	questo	paese	questo	paese	DET	NOUN	this country
+('una_uno_DET', 'sua_suo_DET')	11	una sua	una	sua	uno	suo	DET	DET	one of his; one of hers
+"('superato_superare_VERB', ""l'_il_DET"")"	11	superato l'	superato	l'	superare	il	VERB	DET	passed the (before a vowel)
+('ti_ti_PRON', 'dispiace_dispiacere_VERB')	11	ti dispiace	ti	dispiace	ti	dispiacere	PRON	VERB	do you mind
+('che_che_PRON', 'sto_essere_AUX')	11	che sto	che	sto	che	essere	PRON	AUX	that I am
+('colpo_colpo_NOUN', 'di_di_ADP')	11	colpo di	colpo	di	colpo	di	NOUN	ADP	stroke of
+('un_uno_DET', 'fantasma_fantasma_NOUN')	11	un fantasma	un	fantasma	uno	fantasma	DET	NOUN	a ghost
+"(""all'_a_ADP"", 'ufficio_ufficio_NOUN')"	11	all'ufficio	all'	ufficio	a	ufficio	ADP	NOUN	to the office (before a vowel)
+('il_il_DET', 'motore_motore_NOUN')	11	il motore	il	motore	il	motore	DET	NOUN	the engine
+('finire_finire_VERB', 'il_il_DET')	11	finire il	finire	il	finire	il	VERB	DET	to finish the
+('ad_a_ADP', 'avere_avere_VERB')	11	ad avere	ad	avere	a	avere	ADP	VERB	to have
+('ha_avere_AUX', 'invitata_invitare_VERB')	11	ha invitata	ha	invitata	avere	invitare	AUX	VERB	has invited her
+('loro_loro_PRON', 'una_uno_DET')	11	loro una	loro	una	loro	uno	PRON	DET	they ... a
+('ti_ti_PRON', 'fa_fare_VERB')	11	ti fa	ti	fa	ti	fare	PRON	VERB	makes you
+('essere_essere_AUX', 'qua_qua_ADV')	11	essere qua	essere	qua	essere	qua	AUX	ADV	to be here
+('il_il_DET', 'burro_burro_NOUN')	11	il burro	il	burro	il	burro	DET	NOUN	the butter
+('morì_morire_VERB', 'di_di_ADP')	11	morì di	morì	di	morire	di	VERB	ADP	died of
+('suo_suo_DET', 'indirizzo_indirizzo_NOUN')	11	suo indirizzo	suo	indirizzo	suo	indirizzo	DET	NOUN	his address; her address
+('per_per_ADP', 'aver_avere_AUX')	11	per aver	per	aver	per	avere	ADP	AUX	for having
+('così_così_ADV', 'tanta_tanto_DET')	11	così tanta	così	tanta	così	tanto	ADV	DET	so much (feminine)
+('diverse_diverso_DET', 'ore_ora_NOUN')	11	diverse ore	diverse	ore	diverso	ora	DET	NOUN	several hours
+('le_il_DET', 'carte_carta_NOUN')	11	le carte	le	carte	il	carta	DET	NOUN	the cards
+('sue_suo_DET', 'parole_parola_NOUN')	11	sue parole	sue	parole	suo	parola	DET	NOUN	his words; her words
+"(""l'_il_DET"", 'italiano_italiano_NOUN')"	11	l'italiano	l'	italiano	il	italiano	DET	NOUN	Italian (before a vowel)
+('il_il_DET', 'messaggio_messaggio_NOUN')	11	il messaggio	il	messaggio	il	messaggio	DET	NOUN	the message
+('con_con_ADP', 'questo_questo_PRON')	11	con questo	con	questo	con	questo	ADP	PRON	with this
+('quel_quello_DET', 'ragazzo_ragazzo_NOUN')	11	quel ragazzo	quel	ragazzo	quello	ragazzo	DET	NOUN	that boy
+('qualcuno_qualcuno_PRON', 'è_essere_AUX')	11	qualcuno è	qualcuno	è	qualcuno	essere	PRON	AUX	someone is
+('lui_lui_PRON', 'vuole_volere_AUX')	11	lui vuole	lui	vuole	lui	volere	PRON	AUX	he wants
+('lavare_lavare_VERB', 'la_il_DET')	11	la	lavare	la	lavare	il	VERB	DET	to wash the
+('ha_avere_AUX', 'utilizzato_utilizzare_VERB')	11	ha utilizzato	ha	utilizzato	avere	utilizzare	AUX	VERB	has used
+('non_non_ADV', 'lavora_lavorare_VERB')	11	non lavora	non	lavora	non	lavorare	ADV	VERB	does not work
+('posto_posto_NOUN', 'è_essere_AUX')	11	posto è	posto	è	posto	essere	NOUN	AUX	place is
+('rubò_rubare_VERB', 'il_il_DET')	11	rubò il	rubò	il	rubare	il	VERB	DET	stole the
+('ora_ora_NOUN', 'fa_fa_ADV')	11	ora fa	ora	fa	ora	fa	NOUN	ADV	an hour ago
+('disposto_disporre_VERB', 'ad_a_ADP')	11	disposto ad	disposto	ad	disporre	a	VERB	ADP	willing to
+('fratello_fratello_NOUN', 'maggiore_maggiore_ADJ')	11	fratello maggiore	fratello	maggiore	fratello	maggiore	NOUN	ADJ	older brother
+('ho_avere_AUX', 'vissuto_vivere_VERB')	11	ho vissuto	ho	vissuto	avere	vivere	AUX	VERB	I have lived
+('andato_andare_VERB', 'con_con_ADP')	11	andato con	andato	con	andare	con	VERB	ADP	went with
+('mangiare_mangiare_VERB', 'adesso_adesso_ADV')	11	mangiare adesso	mangiare	adesso	mangiare	adesso	VERB	ADV	to eat now
+('per_per_ADP', 'quale_quale_DET')	11	per quale	per	quale	per	quale	ADP	DET	for which
+('piace_piacere_VERB', 'ancora_ancora_ADV')	11	piace ancora	piace	ancora	piacere	ancora	VERB	ADV	still likes
+('loro_loro_DET', 'auto_auto_NOUN')	11	loro auto	loro	auto	loro	auto	DET	NOUN	their car
+('è_essere_AUX', 'restato_restare_VERB')	11	è restato	è	restato	essere	restare	AUX	VERB	has remained
+('ogni_ogni_DET', 'anno_anno_NOUN')	11	ogni anno	ogni	anno	ogni	anno	DET	NOUN	every year
+('questa_questo_DET', 'volta_volta_NOUN')	11	questa volta	questa	volta	questo	volta	DET	NOUN	this time
+('la_il_DET', 'figlia_figlio_NOUN')	11	la figlia	la	figlia	il	figlio	DET	NOUN	the daughter
+"(""l'_il_DET"", 'unico_unico_PRON')"	11	l'unico	l'	unico	il	unico	DET	PRON	the only one (before a vowel)
+('gli_gli_PRON', 'dirò_dire_VERB')	11	gli dirò	gli	dirò	gli	dire	PRON	VERB	I will tell him
+('è_essere_AUX', 'nuovo_nuovo_ADJ')	11	è nuovo	è	nuovo	essere	nuovo	AUX	ADJ	is new
+('albero_albero_NOUN', 'di_di_ADP')	11	albero di	albero	di	albero	di	NOUN	ADP	tree of
+('di_di_ADP', 'pagare_pagare_VERB')	11	di pagare	di	pagare	di	pagare	ADP	VERB	to pay
+('io_io_PRON', 'avrei_avere_AUX')	11	io avrei	io	avrei	io	avere	PRON	AUX	I would have
+('troppo_troppo_ADV', 'a_a_ADP')	11		troppo	a	troppo	a	ADV	ADP	too much to
+('di_di_ADP', 'riso_riso_NOUN')	11	di riso	di	riso	di	riso	ADP	NOUN	of rice
+('si_si_PRON', 'sarebbe_essere_AUX')	11	si sarebbe	si	sarebbe	si	essere	PRON	AUX	would have
+('ne_ne_PRON', 'è_essere_AUX')	11	ne è	ne	è	ne	essere	PRON	AUX	there is of it
+('una_uno_DET', 'morosa_moroso_NOUN')	11	una morosa	una	morosa	uno	moroso	DET	NOUN	a girlfriend
+('preso_prendere_VERB', 'una_uno_DET')	11	preso una	preso	una	prendere	uno	VERB	DET	took a
+('stanno_stare_AUX', 'andando_andare_VERB')	11	stanno andando	stanno	andando	stare	andare	AUX	VERB	they are going
+('mangia_mangiare_VERB', 'del_di_ADP')	11	mangia del	mangia	del	mangiare	di	VERB	ADP	eats some
+('apprezzo_apprezzare_VERB', 'la_il_DET')	11	apprezzo la	apprezzo	la	apprezzare	il	VERB	DET	I appreciate the
+('a_a_ADP', 'riparare_riparare_VERB')	11	a riparare	a	riparare	a	riparare	ADP	VERB	to repair
+('comprato_comprare_VERB', 'da_da_ADP')	11	comprato da	comprato	da	comprare	da	VERB	ADP	bought from
+('lo_lo_PRON', 'fai_fare_VERB')	11	lo fai	lo	fai	lo	fare	PRON	VERB	you do it
+('mi_mi_PRON', 'chiamò_chiamare_VERB')	11	mi chiamò	mi	chiamò	mi	chiamare	PRON	VERB	called me
+('scrivere_scrivere_VERB', 'un_uno_DET')	11	scrivere un	scrivere	un	scrivere	uno	VERB	DET	to write a
+('avrebbe_avere_AUX', 'potuto_potere_AUX')	11	avrebbe potuto	avrebbe	potuto	avere	potere	AUX	AUX	could have
+('sorella_sorella_NOUN', 'di_di_ADP')	11	sorella di	sorella	di	sorella	di	NOUN	ADP	sister of
+('ci_ci_PRON', 'stiamo_stare_AUX')	11	ci stiamo	ci	stiamo	ci	stare	PRON	AUX	we are
+('sembrate_sembrare_VERB', 'molto_molto_ADV')	11	sembrate molto	sembrate	molto	sembrare	molto	VERB	ADV	you (plural) seem very
+('puoi_potere_AUX', 'fare_fare_VERB')	11	puoi fare	puoi	fare	potere	fare	AUX	VERB	you can do
+('altra_altro_ADJ', 'bottiglia_bottiglia_NOUN')	11	altra bottiglia	altra	bottiglia	altro	bottiglia	ADJ	NOUN	another bottle
+('questo_questo_PRON', 'da_da_ADP')	11	questo da	questo	da	questo	da	PRON	ADP	this from
+('sto_stare_AUX', 'mangiando_mangiare_VERB')	11	sto mangiando	sto	mangiando	stare	mangiare	AUX	VERB	I am eating
+('a_a_ADP', 'rispondere_rispondere_VERB')	11	a rispondere	a	rispondere	a	rispondere	ADP	VERB	to answer
+('ha_avere_AUX', 'arrestato_arrestare_VERB')	11	ha arrestato	ha	arrestato	avere	arrestare	AUX	VERB	has arrested
+('mi_mi_PRON', 'voglio_volere_AUX')	11	mi voglio	mi	voglio	mi	volere	PRON	AUX	I want to
+('piacque_piacere_VERB', 'il_il_DET')	11	piacque il	piacque	il	piacere	il	VERB	DET	pleased the
+('e_e_CCONJ', 'a_a_ADP')	11		e	a	e	a	CCONJ	ADP	and to
+('ha_avere_AUX', 'piovuto_piovere_VERB')	11	ha piovuto	ha	piovuto	avere	piovere	AUX	VERB	it has rained
+('la_il_DET', 'corda_corda_NOUN')	11	la corda	la	corda	il	corda	DET	NOUN	the rope
+('stava_stare_VERB', 'bene_bene_ADV')	11	stava bene	stava	bene	stare	bene	VERB	ADV	was well
+('le_le_PRON', 'fa_fare_VERB')	11	le fa	le	fa	le	fare	PRON	VERB	he makes them
+('può_potere_AUX', 'aiutarmi_aiutare_VERB')	11	può aiutarmi	può	aiutarmi	potere	aiutare	AUX	VERB	can help me
+('lui_lui_PRON', 'ama_amare_VERB')	11	lui ama	lui	ama	lui	amare	PRON	VERB	he loves
