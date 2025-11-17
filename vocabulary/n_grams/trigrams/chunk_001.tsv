@@ -94,8 +94,8 @@ gram3_key	count	substr	term_1	term_2	term_3	lemma_1	lemma_2	lemma_3	pos_1	pos_2	
 ('è_essere_AUX', 'la_il_DET', 'vostra_vostro_DET')	36	è la vostra	è	la	vostra	essere	il	vostro	AUX	DET	DET	it is your (you (plural); feminine)
 ('mai_mai_ADV', 'visto_vedere_VERB', 'un_uno_DET')	36	mai visto un	mai	visto	un	mai	vedere	uno	ADV	VERB	DET	ever seen a
 "(""po'_poco_PRON"", ""d'_di_ADP"", 'acqua_acqua_NOUN')"	35	po' d'acqua	po'	d'	acqua	poco	di	acqua	PRON	ADP	NOUN	a bit of water
-('un_uno_DET', 'paio_paio_NOUN', 'di_di_ADP')	35	un paio di	un	paio	di	uno	paio	di	DET	NOUN	ADP	
-('avete_avere_AUX', 'mai_mai_ADV', 'visto_vedere_VERB')	35	avete mai visto	avete	mai	visto	avere	mai	vedere	AUX	ADV	VERB	
-"(""l'_lo_PRON"", 'ho_avere_AUX', 'visto_vedere_VERB')"	35	l'ho visto	l'	ho	visto	lo	avere	vedere	PRON	AUX	VERB	
+('un_uno_DET', 'paio_paio_NOUN', 'di_di_ADP')	35	un paio di	un	paio	di	uno	paio	di	DET	NOUN	ADP	a couple of
+('avete_avere_AUX', 'mai_mai_ADV', 'visto_vedere_VERB')	35	avete mai visto	avete	mai	visto	avere	mai	vedere	AUX	ADV	VERB	have you (plural) ever seen
+"(""l'_lo_PRON"", 'ho_avere_AUX', 'visto_vedere_VERB')"	35	l'ho visto	l'	ho	visto	lo	avere	vedere	PRON	AUX	VERB	I saw it
 ('ha_avere_VERB', 'paura_paura_NOUN', 'di_di_ADP')	35	ha paura di	ha	paura	di	avere	paura	di	VERB	NOUN	ADP	he/she is afraid of
 ('il_il_DET', 'cane_cane_NOUN', 'di_di_ADP')	35	il cane di	il	cane	di	il	cane	di	DET	NOUN	ADP	the dog of
