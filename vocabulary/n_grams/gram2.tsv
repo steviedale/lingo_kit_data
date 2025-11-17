@@ -99,106 +99,106 @@ gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
 ('detto_dire_VERB', 'di_di_ADP')	220	detto di	detto	di	dire	di	VERB	ADP	told to
 ('non_non_ADV', 'ci_ci_PRON')	219	non ci	non	ci	non	ci	ADV	PRON	not us; not there
 ('non_non_ADV', 'voglio_volere_AUX')	218	non voglio	non	voglio	non	volere	ADV	AUX	I do not want
-"('non_non_ADV', ""l'_lo_PRON"")"	215	non l'	non	l'	non	lo	ADV	PRON	
-('di_di_ADP', 'lui_lui_PRON')	215	di lui	di	lui	di	lui	ADP	PRON	
-('con_con_ADP', 'loro_loro_PRON')	215	con loro	con	loro	con	loro	ADP	PRON	
-('ci_ci_PRON', 'sono_essere_VERB')	215	ci sono	ci	sono	ci	essere	PRON	VERB	
-('non_non_ADV', 'so_sapere_VERB')	213	non so	non	so	non	sapere	ADV	VERB	
-('non_non_ADV', 'le_le_PRON')	211	non le	non	le	non	le	ADV	PRON	
-('è_essere_AUX', 'stata_essere_AUX')	211	è stata	è	stata	essere	essere	AUX	AUX	
-('ho_avere_VERB', 'bisogno_bisogno_NOUN')	209	ho bisogno	ho	bisogno	avere	bisogno	VERB	NOUN	
-('sono_essere_AUX', 'molto_molto_ADV')	207	sono molto	sono	molto	essere	molto	AUX	ADV	
-('di_di_ADP', 'un_uno_DET')	206	di un	di	un	di	uno	ADP	DET	
-('ha_avere_AUX', 'mai_mai_ADV')	205	ha mai	ha	mai	avere	mai	AUX	ADV	
-('voglio_volere_VERB', 'che_che_SCONJ')	205	voglio che	voglio	che	volere	che	VERB	SCONJ	
-('non_non_ADV', 'ti_ti_PRON')	203	non ti	non	ti	non	ti	ADV	PRON	
-('ha_avere_VERB', 'una_uno_DET')	201	ha una	ha	una	avere	uno	VERB	DET	
-('sono_essere_AUX', 'un_uno_DET')	201	sono un	sono	un	essere	uno	AUX	DET	
-('da_da_ADP', 'solo_solo_ADJ')	200	da solo	da	solo	da	solo	ADP	ADJ	
-('ho_avere_AUX', 'mai_mai_ADV')	200	ho mai	ho	mai	avere	mai	AUX	ADV	
-('è_essere_AUX', 'più_più_ADV')	200	è più	è	più	essere	più	AUX	ADV	
-('che_che_SCONJ', 'lo_lo_PRON')	200	che lo	che	lo	che	lo	SCONJ	PRON	
-('ciò_ciò_PRON', 'che_che_PRON')	198	ciò che	ciò	che	ciò	che	PRON	PRON	
-('pensa_pensare_VERB', 'che_che_SCONJ')	197	pensa che	pensa	che	pensare	che	VERB	SCONJ	
-('in_in_ADP', 'ritardo_ritardo_NOUN')	193	in ritardo	in	ritardo	in	ritardo	ADP	NOUN	
-('riesce_riuscire_VERB', 'a_a_ADP')	192	riesce a	riesce	a	riuscire	a	VERB	ADP	
-('con_con_ADP', 'il_il_DET')	192	con il	con	il	con	il	ADP	DET	
-('mi_mi_PRON', 'disse_dire_VERB')	191	mi disse	mi	disse	mi	dire	PRON	VERB	
-('questa_questo_PRON', 'è_essere_AUX')	191	questa è	questa	è	questo	essere	PRON	AUX	
-('lui_lui_PRON', 'non_non_ADV')	190	lui non	lui	non	lui	non	PRON	ADV	
-('che_che_SCONJ', 'sia_essere_AUX')	188	che sia	che	sia	che	essere	SCONJ	AUX	
-('detto_dire_VERB', 'a_a_ADP')	187		detto	a	dire	a	VERB	ADP	
-"('è_essere_AUX', ""l'_il_DET"")"	187	è l'	è	l'	essere	il	AUX	DET	
-('in_in_ADP', 'un_uno_DET')	186	in un	in	un	in	uno	ADP	DET	
-('io_io_PRON', 'voglio_volere_AUX')	185	io voglio	io	voglio	io	volere	PRON	AUX	
-('piace_piacere_VERB', 'la_il_DET')	184	piace la	piace	la	piacere	il	VERB	DET	
-('io_io_PRON', 'mi_mi_PRON')	183	io mi	io	mi	io	mi	PRON	PRON	
-('noi_noi_PRON', 'siamo_essere_AUX')	183	noi siamo	noi	siamo	noi	essere	PRON	AUX	
-('ha_avere_AUX', 'visto_vedere_VERB')	183	ha visto	ha	visto	avere	vedere	AUX	VERB	
-('a_a_ADP', 'fare_fare_VERB')	181	a fare	a	fare	a	fare	ADP	VERB	
-('ogni_ogni_DET', 'giorno_giorno_NOUN')	179	ogni giorno	ogni	giorno	ogni	giorno	DET	NOUN	
-('la_il_DET', 'verità_verità_NOUN')	177	la verità	la	verità	il	verità	DET	NOUN	
-('non_non_ADV', 'vi_vi_PRON')	176	non vi	non	vi	non	vi	ADV	PRON	
-('il_il_DET', 'libro_libro_NOUN')	175	il libro	il	libro	il	libro	DET	NOUN	
-('che_che_SCONJ', 'è_essere_AUX')	175	che è	che	è	che	essere	SCONJ	AUX	
-('a_a_ADP', 'lui_lui_PRON')	174	a lui	a	lui	a	lui	ADP	PRON	
-('noi_noi_PRON', 'non_non_ADV')	173	noi non	noi	non	noi	non	PRON	ADV	
-"('non_non_ADV', ""c'_ci_PRON"")"	173	non c'	non	c'	non	ci	ADV	PRON	
-('non_non_ADV', 'può_potere_AUX')	172	non può	non	può	non	potere	ADV	AUX	
-('spero_sperare_VERB', 'che_che_SCONJ')	172	spero che	spero	che	sperare	che	VERB	SCONJ	
-('in_in_ADP', 'francese_francese_NOUN')	171	in francese	in	francese	in	francese	ADP	NOUN	
-('ha_avere_AUX', 'comprato_comprare_VERB')	170	ha comprato	ha	comprato	avere	comprare	AUX	VERB	
-('di_di_ADP', 'andare_andare_VERB')	170	di andare	di	andare	di	andare	ADP	VERB	
-('un_uno_DET', 'libro_libro_NOUN')	168	un libro	un	libro	uno	libro	DET	NOUN	
-('ho_avere_AUX', 'fatto_fare_VERB')	165	ho fatto	ho	fatto	avere	fare	AUX	VERB	
-('pensavo_pensare_VERB', 'che_che_SCONJ')	164	pensavo che	pensavo	che	pensare	che	VERB	SCONJ	
-('ha_avere_AUX', 'dato_dare_VERB')	162	ha dato	ha	dato	avere	dare	AUX	VERB	
-('io_io_PRON', 'sto_essere_AUX')	162	io sto	io	sto	io	essere	PRON	AUX	
-('ho_avere_AUX', 'visto_vedere_VERB')	160	ho visto	ho	visto	avere	vedere	AUX	VERB	
-('lui_lui_PRON', 'ha_avere_AUX')	159	lui ha	lui	ha	lui	avere	PRON	AUX	
-('me_me_PRON', 'piace_piacere_VERB')	159	me piace	me	piace	me	piacere	PRON	VERB	
-('in_in_ADP', 'questo_questo_DET')	158	in questo	in	questo	in	questo	ADP	DET	
-('con_con_ADP', 'noi_noi_PRON')	158	con noi	con	noi	con	noi	ADP	PRON	
-('mi_mi_PRON', 'sento_sentire_VERB')	157	mi sento	mi	sento	mi	sentire	PRON	VERB	
-('le_le_PRON', 'ho_avere_AUX')	157	le ho	le	ho	le	avere	PRON	AUX	
-('è_essere_AUX', 'successo_succedere_VERB')	157	è successo	è	successo	essere	succedere	AUX	VERB	
-('è_essere_AUX', 'così_così_ADV')	157	è così	è	così	essere	così	AUX	ADV	
-('grado_grado_NOUN', 'di_di_ADP')	156	grado di	grado	di	grado	di	NOUN	ADP	
-('chi_chi_PRON', 'è_essere_AUX')	155	chi è	chi	è	chi	essere	PRON	AUX	
-('in_in_ADP', 'grado_grado_NOUN')	155	in grado	in	grado	in	grado	ADP	NOUN	
-('tutti_tutto_DET', 'i_il_DET')	155		tutti	i	tutto	il	DET	DET	
-('ha_avere_VERB', 'bisogno_bisogno_NOUN')	154	ha bisogno	ha	bisogno	avere	bisogno	VERB	NOUN	
-('che_che_SCONJ', 'erano_essere_AUX')	154	che erano	che	erano	che	essere	SCONJ	AUX	
-('io_io_PRON', 'ero_essere_AUX')	153	io ero	io	ero	io	essere	PRON	AUX	
-('ho_avere_VERB', 'un_uno_DET')	152	ho un	ho	un	avere	uno	VERB	DET	
-('per_per_ADP', 'lui_lui_PRON')	152	per lui	per	lui	per	lui	ADP	PRON	
-('con_con_ADP', 'la_il_DET')	148	con la	con	la	con	il	ADP	DET	
-('il_il_DET', 'nostro_nostro_DET')	148	il nostro	il	nostro	il	nostro	DET	DET	
-('ci_ci_PRON', 'ha_avere_AUX')	147	ci ha	ci	ha	ci	avere	PRON	AUX	
-('che_che_SCONJ', 'si_si_PRON')	147	che si	che	si	che	si	SCONJ	PRON	
-('dissero_dire_VERB', 'che_che_SCONJ')	146	dissero che	dissero	che	dire	che	VERB	SCONJ	
-('questo_questo_DET', 'libro_libro_NOUN')	146	questo libro	questo	libro	questo	libro	DET	NOUN	
-('giocare_giocare_VERB', 'a_a_ADP')	145		giocare	a	giocare	a	VERB	ADP	
-('con_con_ADP', 'i_il_DET')	144		con	i	con	il	ADP	DET	
-('a_a_ADP', 'letto_letto_NOUN')	143	a letto	a	letto	a	letto	ADP	NOUN	
-('andato_andare_VERB', 'a_a_ADP')	142	a	andato	a	andare	a	VERB	ADP	
-('è_essere_AUX', 'troppo_troppo_ADV')	142	è troppo	è	troppo	essere	troppo	AUX	ADV	
-('a_a_ADP', 'farlo_fare_VERB')	142	a farlo	a	farlo	a	fare	ADP	VERB	
-('che_che_SCONJ', 'lei_lei_PRON')	142	che lei	che	lei	che	lei	SCONJ	PRON	
-('tu_tu_PRON', 'non_non_ADV')	142	tu non	tu	non	tu	non	PRON	ADV	
-('con_con_ADP', 'te_te_PRON')	142	con te	con	te	con	te	ADP	PRON	
-('era_essere_AUX', 'molto_molto_ADV')	142	era molto	era	molto	essere	molto	AUX	ADV	
-('ha_avere_AUX', 'chiesto_chiedere_VERB')	140	ha chiesto	ha	chiesto	avere	chiedere	AUX	VERB	
-('una_uno_DET', 'volta_volta_NOUN')	139	una volta	una	volta	uno	volta	DET	NOUN	
-('le_il_DET', 'mie_mio_DET')	139	le mie	le	mie	il	mio	DET	DET	
-('tutto_tutto_DET', 'il_il_DET')	138	tutto il	tutto	il	tutto	il	DET	DET	
-('pensi_pensare_VERB', 'che_che_SCONJ')	137	pensi che	pensi	che	pensare	che	VERB	SCONJ	
-('a_a_ADP', 'tennis_tennis_NOUN')	137	are a tennis	a	tennis	a	tennis	ADP	NOUN	
-('paura_paura_NOUN', 'di_di_ADP')	137	paura di	paura	di	paura	di	NOUN	ADP	
-('era_essere_AUX', 'un_uno_DET')	136	era un	era	un	essere	uno	AUX	DET	
-('sono_essere_AUX', 'ancora_ancora_ADV')	136	sono ancora	sono	ancora	essere	ancora	AUX	ADV	
-('mai_mai_ADV', 'visto_vedere_VERB')	136	mai visto	mai	visto	mai	vedere	ADV	VERB	
-('mio_mio_DET', 'padre_padre_NOUN')	135	mio padre	mio	padre	mio	padre	DET	NOUN	
+"('non_non_ADV', ""l'_lo_PRON"")"	215	non l'	non	l'	non	lo	ADV	PRON	not him; not it (before a vowel)
+('di_di_ADP', 'lui_lui_PRON')	215	di lui	di	lui	di	lui	ADP	PRON	of him
+('con_con_ADP', 'loro_loro_PRON')	215	con loro	con	loro	con	loro	ADP	PRON	with them
+('ci_ci_PRON', 'sono_essere_VERB')	215	ci sono	ci	sono	ci	essere	PRON	VERB	there are
+('non_non_ADV', 'so_sapere_VERB')	213	non so	non	so	non	sapere	ADV	VERB	I do not know
+('non_non_ADV', 'le_le_PRON')	211	non le	non	le	non	le	ADV	PRON	not them (feminine); not to her
+('è_essere_AUX', 'stata_essere_AUX')	211	è stata	è	stata	essere	essere	AUX	AUX	she has been
+('ho_avere_VERB', 'bisogno_bisogno_NOUN')	209	ho bisogno	ho	bisogno	avere	bisogno	VERB	NOUN	I need
+('sono_essere_AUX', 'molto_molto_ADV')	207	sono molto	sono	molto	essere	molto	AUX	ADV	I am very
+('di_di_ADP', 'un_uno_DET')	206	di un	di	un	di	uno	ADP	DET	of a (masculine)
+('ha_avere_AUX', 'mai_mai_ADV')	205	ha mai	ha	mai	avere	mai	AUX	ADV	has ever
+('voglio_volere_VERB', 'che_che_SCONJ')	205	voglio che	voglio	che	volere	che	VERB	SCONJ	I want that
+('non_non_ADV', 'ti_ti_PRON')	203	non ti	non	ti	non	ti	ADV	PRON	not you
+('ha_avere_VERB', 'una_uno_DET')	201	ha una	ha	una	avere	uno	VERB	DET	has a (feminine)
+('sono_essere_AUX', 'un_uno_DET')	201	sono un	sono	un	essere	uno	AUX	DET	I am a (masculine)
+('da_da_ADP', 'solo_solo_ADJ')	200	da solo	da	solo	da	solo	ADP	ADJ	by himself
+('ho_avere_AUX', 'mai_mai_ADV')	200	ho mai	ho	mai	avere	mai	AUX	ADV	I have ever
+('è_essere_AUX', 'più_più_ADV')	200	è più	è	più	essere	più	AUX	ADV	is more
+('che_che_SCONJ', 'lo_lo_PRON')	200	che lo	che	lo	che	lo	SCONJ	PRON	that it; that him
+('ciò_ciò_PRON', 'che_che_PRON')	198	ciò che	ciò	che	ciò	che	PRON	PRON	what; that which
+('pensa_pensare_VERB', 'che_che_SCONJ')	197	pensa che	pensa	che	pensare	che	VERB	SCONJ	thinks that
+('in_in_ADP', 'ritardo_ritardo_NOUN')	193	in ritardo	in	ritardo	in	ritardo	ADP	NOUN	late
+('riesce_riuscire_VERB', 'a_a_ADP')	192	riesce a	riesce	a	riuscire	a	VERB	ADP	manages to
+('con_con_ADP', 'il_il_DET')	192	con il	con	il	con	il	ADP	DET	with the (masculine)
+('mi_mi_PRON', 'disse_dire_VERB')	191	mi disse	mi	disse	mi	dire	PRON	VERB	he told me
+('questa_questo_PRON', 'è_essere_AUX')	191	questa è	questa	è	questo	essere	PRON	AUX	this is (feminine)
+('lui_lui_PRON', 'non_non_ADV')	190	lui non	lui	non	lui	non	PRON	ADV	he does not
+('che_che_SCONJ', 'sia_essere_AUX')	188	che sia	che	sia	che	essere	SCONJ	AUX	that it be
+('detto_dire_VERB', 'a_a_ADP')	187		detto	a	dire	a	VERB	ADP	said to
+"('è_essere_AUX', ""l'_il_DET"")"	187	è l'	è	l'	essere	il	AUX	DET	is the (before a vowel)
+('in_in_ADP', 'un_uno_DET')	186	in un	in	un	in	uno	ADP	DET	in a (masculine)
+('io_io_PRON', 'voglio_volere_AUX')	185	io voglio	io	voglio	io	volere	PRON	AUX	I want
+('piace_piacere_VERB', 'la_il_DET')	184	piace la	piace	la	piacere	il	VERB	DET	likes the (feminine)
+('io_io_PRON', 'mi_mi_PRON')	183	io mi	io	mi	io	mi	PRON	PRON	I myself
+('noi_noi_PRON', 'siamo_essere_AUX')	183	noi siamo	noi	siamo	noi	essere	PRON	AUX	we are
+('ha_avere_AUX', 'visto_vedere_VERB')	183	ha visto	ha	visto	avere	vedere	AUX	VERB	has seen
+('a_a_ADP', 'fare_fare_VERB')	181	a fare	a	fare	a	fare	ADP	VERB	to do
+('ogni_ogni_DET', 'giorno_giorno_NOUN')	179	ogni giorno	ogni	giorno	ogni	giorno	DET	NOUN	every day
+('la_il_DET', 'verità_verità_NOUN')	177	la verità	la	verità	il	verità	DET	NOUN	the truth
+('non_non_ADV', 'vi_vi_PRON')	176	non vi	non	vi	non	vi	ADV	PRON	not you (plural)
+('il_il_DET', 'libro_libro_NOUN')	175	il libro	il	libro	il	libro	DET	NOUN	the book
+('che_che_SCONJ', 'è_essere_AUX')	175	che è	che	è	che	essere	SCONJ	AUX	that is
+('a_a_ADP', 'lui_lui_PRON')	174	a lui	a	lui	a	lui	ADP	PRON	to him
+('noi_noi_PRON', 'non_non_ADV')	173	noi non	noi	non	noi	non	PRON	ADV	we do not
+"('non_non_ADV', ""c'_ci_PRON"")"	173	non c'	non	c'	non	ci	ADV	PRON	not there (before a vowel)
+('non_non_ADV', 'può_potere_AUX')	172	non può	non	può	non	potere	ADV	AUX	cannot
+('spero_sperare_VERB', 'che_che_SCONJ')	172	spero che	spero	che	sperare	che	VERB	SCONJ	I hope that
+('in_in_ADP', 'francese_francese_NOUN')	171	in francese	in	francese	in	francese	ADP	NOUN	in French
+('ha_avere_AUX', 'comprato_comprare_VERB')	170	ha comprato	ha	comprato	avere	comprare	AUX	VERB	has bought
+('di_di_ADP', 'andare_andare_VERB')	170	di andare	di	andare	di	andare	ADP	VERB	to go
+('un_uno_DET', 'libro_libro_NOUN')	168	un libro	un	libro	uno	libro	DET	NOUN	a book
+('ho_avere_AUX', 'fatto_fare_VERB')	165	ho fatto	ho	fatto	avere	fare	AUX	VERB	I did; I made
+('pensavo_pensare_VERB', 'che_che_SCONJ')	164	pensavo che	pensavo	che	pensare	che	VERB	SCONJ	I thought that
+('ha_avere_AUX', 'dato_dare_VERB')	162	ha dato	ha	dato	avere	dare	AUX	VERB	has given
+('io_io_PRON', 'sto_essere_AUX')	162	io sto	io	sto	io	essere	PRON	AUX	I am
+('ho_avere_AUX', 'visto_vedere_VERB')	160	ho visto	ho	visto	avere	vedere	AUX	VERB	I saw
+('lui_lui_PRON', 'ha_avere_AUX')	159	lui ha	lui	ha	lui	avere	PRON	AUX	he has
+('me_me_PRON', 'piace_piacere_VERB')	159	me piace	me	piace	me	piacere	PRON	VERB	I like it
+('in_in_ADP', 'questo_questo_DET')	158	in questo	in	questo	in	questo	ADP	DET	in this (masculine)
+('con_con_ADP', 'noi_noi_PRON')	158	con noi	con	noi	con	noi	ADP	PRON	with us
+('mi_mi_PRON', 'sento_sentire_VERB')	157	mi sento	mi	sento	mi	sentire	PRON	VERB	I feel
+('le_le_PRON', 'ho_avere_AUX')	157	le ho	le	ho	le	avere	PRON	AUX	I have them (feminine); I have her
+('è_essere_AUX', 'successo_succedere_VERB')	157	è successo	è	successo	essere	succedere	AUX	VERB	it happened
+('è_essere_AUX', 'così_così_ADV')	157	è così	è	così	essere	così	AUX	ADV	it is so
+('grado_grado_NOUN', 'di_di_ADP')	156	grado di	grado	di	grado	di	NOUN	ADP	able to
+('chi_chi_PRON', 'è_essere_AUX')	155	chi è	chi	è	chi	essere	PRON	AUX	who is
+('in_in_ADP', 'grado_grado_NOUN')	155	in grado	in	grado	in	grado	ADP	NOUN	able
+('tutti_tutto_DET', 'i_il_DET')	155		tutti	i	tutto	il	DET	DET	all the (masculine plural)
+('ha_avere_VERB', 'bisogno_bisogno_NOUN')	154	ha bisogno	ha	bisogno	avere	bisogno	VERB	NOUN	needs
+('che_che_SCONJ', 'erano_essere_AUX')	154	che erano	che	erano	che	essere	SCONJ	AUX	that were
+('io_io_PRON', 'ero_essere_AUX')	153	io ero	io	ero	io	essere	PRON	AUX	I was
+('ho_avere_VERB', 'un_uno_DET')	152	ho un	ho	un	avere	uno	VERB	DET	I have a (masculine)
+('per_per_ADP', 'lui_lui_PRON')	152	per lui	per	lui	per	lui	ADP	PRON	for him
+('con_con_ADP', 'la_il_DET')	148	con la	con	la	con	il	ADP	DET	with the (feminine)
+('il_il_DET', 'nostro_nostro_DET')	148	il nostro	il	nostro	il	nostro	DET	DET	our (masculine)
+('ci_ci_PRON', 'ha_avere_AUX')	147	ci ha	ci	ha	ci	avere	PRON	AUX	has us
+('che_che_SCONJ', 'si_si_PRON')	147	che si	che	si	che	si	SCONJ	PRON	that ... himself/herself
+('dissero_dire_VERB', 'che_che_SCONJ')	146	dissero che	dissero	che	dire	che	VERB	SCONJ	they said that
+('questo_questo_DET', 'libro_libro_NOUN')	146	questo libro	questo	libro	questo	libro	DET	NOUN	this book
+('giocare_giocare_VERB', 'a_a_ADP')	145		giocare	a	giocare	a	VERB	ADP	to play
+('con_con_ADP', 'i_il_DET')	144		con	i	con	il	ADP	DET	with the (masculine plural)
+('a_a_ADP', 'letto_letto_NOUN')	143	a letto	a	letto	a	letto	ADP	NOUN	in bed
+('andato_andare_VERB', 'a_a_ADP')	142	a	andato	a	andare	a	VERB	ADP	went to
+('è_essere_AUX', 'troppo_troppo_ADV')	142	è troppo	è	troppo	essere	troppo	AUX	ADV	is too
+('a_a_ADP', 'farlo_fare_VERB')	142	a farlo	a	farlo	a	fare	ADP	VERB	to do it
+('che_che_SCONJ', 'lei_lei_PRON')	142	che lei	che	lei	che	lei	SCONJ	PRON	that she
+('tu_tu_PRON', 'non_non_ADV')	142	tu non	tu	non	tu	non	PRON	ADV	you do not
+('con_con_ADP', 'te_te_PRON')	142	con te	con	te	con	te	ADP	PRON	with you
+('era_essere_AUX', 'molto_molto_ADV')	142	era molto	era	molto	essere	molto	AUX	ADV	was very
+('ha_avere_AUX', 'chiesto_chiedere_VERB')	140	ha chiesto	ha	chiesto	avere	chiedere	AUX	VERB	has asked
+('una_uno_DET', 'volta_volta_NOUN')	139	una volta	una	volta	uno	volta	DET	NOUN	once
+('le_il_DET', 'mie_mio_DET')	139	le mie	le	mie	il	mio	DET	DET	my (feminine plural)
+('tutto_tutto_DET', 'il_il_DET')	138	tutto il	tutto	il	tutto	il	DET	DET	all the (masculine)
+('pensi_pensare_VERB', 'che_che_SCONJ')	137	pensi che	pensi	che	pensare	che	VERB	SCONJ	you think that
+('a_a_ADP', 'tennis_tennis_NOUN')	137	are a tennis	a	tennis	a	tennis	ADP	NOUN	at tennis
+('paura_paura_NOUN', 'di_di_ADP')	137	paura di	paura	di	paura	di	NOUN	ADP	afraid of
+('era_essere_AUX', 'un_uno_DET')	136	era un	era	un	essere	uno	AUX	DET	was a (masculine)
+('sono_essere_AUX', 'ancora_ancora_ADV')	136	sono ancora	sono	ancora	essere	ancora	AUX	ADV	I am still
+('mai_mai_ADV', 'visto_vedere_VERB')	136	mai visto	mai	visto	mai	vedere	ADV	VERB	ever seen
+('mio_mio_DET', 'padre_padre_NOUN')	135	mio padre	mio	padre	mio	padre	DET	NOUN	my father
 ('loro_loro_PRON', 'sono_essere_AUX')	134	loro sono	loro	sono	loro	essere	PRON	AUX	
 ('sembra_sembrare_VERB', 'che_che_SCONJ')	134	sembra che	sembra	che	sembrare	che	VERB	SCONJ	
 ('si_si_PRON', 'sono_essere_AUX')	133	si sono	si	sono	si	essere	PRON	AUX	
@@ -298,206 +298,206 @@ gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
 ('per_per_ADP', 'voi_voi_PRON')	101	per voi	per	voi	per	voi	ADP	PRON	
 ('ti_ti_PRON', 'ho_avere_AUX')	100	ti ho	ti	ho	ti	avere	PRON	AUX	
 ('sua_suo_DET', 'moglie_moglie_NOUN')	100	sua moglie	sua	moglie	suo	moglie	DET	NOUN	
-('sua_suo_DET', 'madre_madre_NOUN')	99	sua madre	sua	madre	suo	madre	DET	NOUN	
-('più_più_ADV', 'tardi_tardi_ADV')	99	più tardi	più	tardi	più	tardi	ADV	ADV	
-('da_da_ADP', 'fare_fare_VERB')	99	da fare	da	fare	da	fare	ADP	VERB	
-('per_per_ADP', 'loro_loro_PRON')	99	per loro	per	loro	per	loro	ADP	PRON	
-('a_a_ADP', 'te_te_PRON')	98	a te	a	te	a	te	ADP	PRON	
-('i_il_DET', 'loro_loro_DET')	98	i loro	i	loro	il	loro	DET	DET	
-"('è_essere_AUX', ""un'_uno_DET"")"	98	è un'	è	un'	essere	uno	AUX	DET	
-('piacciono_piacere_VERB', 'i_il_DET')	98		piacciono	i	piacere	il	VERB	DET	
-('mia_mio_DET', 'madre_madre_NOUN')	98	mia madre	mia	madre	mio	madre	DET	NOUN	
-('tipo_tipo_NOUN', 'di_di_ADP')	98	tipo di	tipo	di	tipo	di	NOUN	ADP	
-('tutte_tutto_DET', 'le_il_DET')	97	tutte le	tutte	le	tutto	il	DET	DET	
-('a_a_ADP', 'riguardo_riguardo_NOUN')	97	a riguardo	a	riguardo	a	riguardo	ADP	NOUN	
-('non_non_ADV', 'ero_essere_AUX')	97	non ero	non	ero	non	essere	ADV	AUX	
-('è_essere_AUX', 'piuttosto_piuttosto_ADV')	97	è piuttosto	è	piuttosto	essere	piuttosto	AUX	ADV	
-('sono_essere_AUX', 'in_in_ADP')	96	sono in	sono	in	essere	in	AUX	ADP	
-('ha_avere_AUX', 'trovato_trovare_VERB')	95	ha trovato	ha	trovato	avere	trovare	AUX	VERB	
-('di_di_ADP', 'noi_noi_PRON')	95	di noi	di	noi	di	noi	ADP	PRON	
-('i_il_DET', 'tuoi_tuo_DET')	94	i tuoi	i	tuoi	il	tuo	DET	DET	
-('è_essere_AUX', 'a_a_ADP')	94		è	a	essere	a	AUX	ADP	
-('che_che_SCONJ', 'voi_voi_PRON')	94	che voi	che	voi	che	voi	SCONJ	PRON	
-('di_di_ADP', 'fare_fare_VERB')	94	di fare	di	fare	di	fare	ADP	VERB	
-('ci_ci_PRON', 'siamo_essere_AUX')	94	ci siamo	ci	siamo	ci	essere	PRON	AUX	
-('la_il_DET', 'nostra_nostro_DET')	94	la nostra	la	nostra	il	nostro	DET	DET	
-('a_a_ADP', 'voi_voi_PRON')	93	a voi	a	voi	a	voi	ADP	PRON	
-('sono_essere_AUX', 'stato_essere_AUX')	93	sono stato	sono	stato	essere	essere	AUX	AUX	
-('di_di_ADP', 'una_uno_DET')	93	di una	di	una	di	uno	ADP	DET	
-('non_non_ADV', 'siete_essere_AUX')	93	non siete	non	siete	non	essere	ADV	AUX	
-('il_il_DET', 'problema_problema_NOUN')	93	il problema	il	problema	il	problema	DET	NOUN	
-('non_non_ADV', 'possiamo_potere_AUX')	92	non possiamo	non	possiamo	non	potere	ADV	AUX	
-('il_il_DET', 'lavoro_lavoro_NOUN')	92	il lavoro	il	lavoro	il	lavoro	DET	NOUN	
-('voi_voi_PRON', 'avete_avere_AUX')	92	voi avete	voi	avete	voi	avere	PRON	AUX	
-('sono_essere_AUX', 'stata_essere_AUX')	91	sono stata	sono	stata	essere	essere	AUX	AUX	
-('sono_essere_AUX', 'una_uno_DET')	91	sono una	sono	una	essere	uno	AUX	DET	
-('che_che_SCONJ', 'le_le_PRON')	91	che le	che	le	che	le	SCONJ	PRON	
-('è_essere_VERB', 'un_uno_DET')	91	è un	è	un	essere	uno	VERB	DET	
-('io_io_PRON', 'e_e_CCONJ')	91	io e	io	e	io	e	PRON	CCONJ	
-('del_di_ADP', 'genere_genere_NOUN')	91	del genere	del	genere	di	genere	ADP	NOUN	
-('sua_suo_DET', 'stanza_stanza_NOUN')	91	sua stanza	sua	stanza	suo	stanza	DET	NOUN	
-('dove_dove_ADV', 'ha_avere_AUX')	91	dove ha	dove	ha	dove	avere	ADV	AUX	
-('della_di_ADP', 'sua_suo_DET')	91	della sua	della	sua	di	suo	ADP	DET	
-('nel_in_ADP', 'suo_suo_DET')	90	nel suo	nel	suo	in	suo	ADP	DET	
-('me_me_PRON', 'non_non_ADV')	90	me non	me	non	me	non	PRON	ADV	
-('sono_essere_AUX', 'più_più_ADV')	90	sono più	sono	più	essere	più	AUX	ADV	
-('ha_avere_AUX', 'lasciato_lasciare_VERB')	90	ha lasciato	ha	lasciato	avere	lasciare	AUX	VERB	
-('fatto_fare_VERB', 'un_uno_DET')	90	fatto un	fatto	un	fare	uno	VERB	DET	
-('molto_molto_ADV', 'bene_bene_ADV')	90	molto bene	molto	bene	molto	bene	ADV	ADV	
-('qualcosa_qualcosa_PRON', 'da_da_ADP')	90	qualcosa da	qualcosa	da	qualcosa	da	PRON	ADP	
-('noi_noi_PRON', 'abbiamo_avere_AUX')	90	noi abbiamo	noi	abbiamo	noi	avere	PRON	AUX	
-('sono_essere_AUX', 'i_il_DET')	90		sono	i	essere	il	AUX	DET	
-('mio_mio_DET', 'fratello_fratello_NOUN')	90	mio fratello	mio	fratello	mio	fratello	DET	NOUN	
-('io_io_PRON', 'devo_dovere_AUX')	89	io devo	io	devo	io	dovere	PRON	AUX	
-('vuole_volere_VERB', 'che_che_SCONJ')	89	vuole che	vuole	che	volere	che	VERB	SCONJ	
-('a_a_ADP', 'volte_volta_NOUN')	89	a volte	a	volte	a	volta	ADP	NOUN	
-('una_uno_DET', 'casa_casa_NOUN')	89	una casa	una	casa	uno	casa	DET	NOUN	
-('tu_tu_PRON', 'hai_avere_AUX')	88	tu hai	tu	hai	tu	avere	PRON	AUX	
-('fino_fino_ADV', 'a_a_ADP')	88		fino	a	fino	a	ADV	ADP	
-('così_così_ADV', 'tanto_tanto_ADV')	88	così tanto	così	tanto	così	tanto	ADV	ADV	
-('noi_noi_PRON', 'abbiamo_avere_VERB')	88	noi abbiamo	noi	abbiamo	noi	avere	PRON	VERB	
-('sapeva_sapere_VERB', 'che_che_SCONJ')	88	sapeva che	sapeva	che	sapere	che	VERB	SCONJ	
-"(""l'_il_DET"", 'uomo_uomo_NOUN')"	88	l'uomo	l'	uomo	il	uomo	DET	NOUN	
-('con_con_ADP', 'un_uno_DET')	88	con un	con	un	con	uno	ADP	DET	
-('non_non_ADV', 'sia_essere_AUX')	88	non sia	non	sia	non	essere	ADV	AUX	
-('non_non_ADV', 'erano_essere_AUX')	88	non erano	non	erano	non	essere	ADV	AUX	
-"(""c'_ci_PRON"", 'era_essere_VERB')"	88	c'era	c'	era	ci	essere	PRON	VERB	
-('era_essere_AUX', 'una_uno_DET')	88	era una	era	una	essere	uno	AUX	DET	
-('non_non_ADV', 'riesce_riuscire_VERB')	87	non riesce	non	riesce	non	riuscire	ADV	VERB	
-('il_il_DET', 'loro_loro_DET')	87	il loro	il	loro	il	loro	DET	DET	
-('che_che_PRON', 'è_essere_AUX')	87	che è	che	è	che	essere	PRON	AUX	
-('piacciono_piacere_VERB', 'le_il_DET')	87	piacciono le	piacciono	le	piacere	il	VERB	DET	
-('non_non_ADV', 'voleva_volere_AUX')	87	non voleva	non	voleva	non	volere	ADV	AUX	
-('alla_a_ADP', 'sua_suo_DET')	87	alla sua	alla	sua	a	suo	ADP	DET	
-('del_di_ADP', 'male_male_NOUN')	86	del male	del	male	di	male	ADP	NOUN	
-('il_il_DET', 'treno_treno_NOUN')	86	il treno	il	treno	il	treno	DET	NOUN	
-('le_il_DET', 'mani_mano_NOUN')	86	le mani	le	mani	il	mano	DET	NOUN	
-('i_il_DET', 'soldi_soldo_NOUN')	86	i soldi	i	soldi	il	soldo	DET	NOUN	
-"(""l'_il_DET"", 'esperanto_esperanto_NOUN')"	86	l'esperanto	l'	esperanto	il	esperanto	DET	NOUN	
-('ho_avere_AUX', 'chiesto_chiedere_VERB')	86	ho chiesto	ho	chiesto	avere	chiedere	AUX	VERB	
-('un_uno_DET', 'lavoro_lavoro_NOUN')	86	un lavoro	un	lavoro	uno	lavoro	DET	NOUN	
-('mi_mi_PRON', 'chiedo_chiedere_VERB')	86	mi chiedo	mi	chiedo	mi	chiedere	PRON	VERB	
-('hai_avere_AUX', 'visto_vedere_VERB')	85	hai visto	hai	visto	avere	vedere	AUX	VERB	
-('il_il_DET', 'giorno_giorno_NOUN')	85	il giorno	il	giorno	il	giorno	DET	NOUN	
-('è_essere_AUX', 'andata_andare_VERB')	85	è andata	è	andata	essere	andare	AUX	VERB	
-('la_il_DET', 'casa_casa_NOUN')	85	la casa	la	casa	il	casa	DET	NOUN	
-('andate_andare_VERB', 'a_a_ADP')	85	a	andate	a	andare	a	VERB	ADP	
-('mi_mi_PRON', 'è_essere_AUX')	85	mi è	mi	è	mi	essere	PRON	AUX	
-('in_in_ADP', 'questa_questo_DET')	85	in questa	in	questa	in	questo	ADP	DET	
-('una_uno_DET', 'persona_persona_NOUN')	85	una persona	una	persona	uno	persona	DET	NOUN	
-('un_uno_DET', 'problema_problema_NOUN')	85	un problema	un	problema	uno	problema	DET	NOUN	
-('gli_gli_PRON', 'ho_avere_AUX')	85	gli ho	gli	ho	gli	avere	PRON	AUX	
-('i_il_DET', 'capelli_capello_NOUN')	85	i capelli	i	capelli	il	capello	DET	NOUN	
-('mai_mai_ADV', 'stato_essere_AUX')	84	mai stato	mai	stato	mai	essere	ADV	AUX	
-('chiesto_chiedere_VERB', 'di_di_ADP')	84	chiesto di	chiesto	di	chiedere	di	VERB	ADP	
-('se_se_PRON', 'ne_ne_PRON')	84	se ne	se	ne	se	ne	PRON	PRON	
-('è_essere_AUX', 'qui_qui_ADV')	84	è qui	è	qui	essere	qui	AUX	ADV	
-('di_di_ADP', 'parlare_parlare_VERB')	84	di parlare	di	parlare	di	parlare	ADP	VERB	
-('si_si_PRON', 'sentiva_sentire_VERB')	84	si sentiva	si	sentiva	si	sentire	PRON	VERB	
-('a_a_ADP', 'un_uno_DET')	84	a un	a	un	a	uno	ADP	DET	
-('più_più_ADV', 'di_di_ADP')	84	più di	più	di	più	di	ADV	ADP	
-('tutta_tutto_DET', 'la_il_DET')	84	tutta la	tutta	la	tutto	il	DET	DET	
-('ti_ti_PRON', 'piace_piacere_VERB')	84	ti piace	ti	piace	ti	piacere	PRON	VERB	
-"(""l'_il_DET"", 'acqua_acqua_NOUN')"	83	l'acqua	l'	acqua	il	acqua	DET	NOUN	the water (feminine; before a vowel)
-('cercato_cercare_VERB', 'di_di_ADP')	83	cercato di	cercato	di	cercare	di	VERB	ADP	tried to
-('a_a_ADP', 'lavorare_lavorare_VERB')	83	a lavorare	a	lavorare	a	lavorare	ADP	VERB	to work
-('perché_perché_ADV', 'è_essere_AUX')	83	perché è	perché	è	perché	essere	ADV	AUX	because it is
-('a_a_ADP', 'che_che_DET')	83	a che	a	che	a	che	ADP	DET	at what
-('suo_suo_DET', 'lavoro_lavoro_NOUN')	83	suo lavoro	suo	lavoro	suo	lavoro	DET	NOUN	his job; her job
-('una_uno_DET', 'macchina_macchina_NOUN')	83	una macchina	una	macchina	uno	macchina	DET	NOUN	a car
-('non_non_ADV', 'siamo_essere_AUX')	82	non siamo	non	siamo	non	essere	ADV	AUX	we are not
-('ti_ti_PRON', 'ha_avere_AUX')	82	ti ha	ti	ha	ti	avere	PRON	AUX	has you
-('ho_avere_AUX', 'comprato_comprare_VERB')	82	ho comprato	ho	comprato	avere	comprare	AUX	VERB	I bought
-('non_non_ADV', 'gli_gli_PRON')	82	non gli	non	gli	non	gli	ADV	PRON	not to him; not to her
-('di_di_ADP', 'vino_vino_NOUN')	82	di vino	di	vino	di	vino	ADP	NOUN	of wine
-"(""l'_il_DET"", 'anno_anno_NOUN')"	82	l'anno	l'	anno	il	anno	DET	NOUN	the year (masculine; before a vowel)
-('che_che_SCONJ', 'lui_lui_PRON')	82	che lui	che	lui	che	lui	SCONJ	PRON	that he
-('provato_provare_VERB', 'a_a_ADP')	82		provato	a	provare	a	VERB	ADP	tried to
-('dicono_dire_VERB', 'che_che_SCONJ')	82	dicono che	dicono	che	dire	che	VERB	SCONJ	they say that
-('grazie_grazie_INTJ', 'per_per_ADP')	81	grazie per	grazie	per	grazie	per	INTJ	ADP	thanks for
-('al_a_ADP', 'sicuro_sicuro_ADJ')	81	al sicuro	al	sicuro	a	sicuro	ADP	ADJ	safe
-('al_a_ADP', 'suo_suo_DET')	81	al suo	al	suo	a	suo	ADP	DET	to his; to her (masculine)
-('perso_perdere_VERB', 'il_il_DET')	81	perso il	perso	il	perdere	il	VERB	DET	lost the
-('era_essere_AUX', 'il_il_DET')	81	era il	era	il	essere	il	AUX	DET	was the
-('comprato_comprare_VERB', 'un_uno_DET')	80	comprato un	comprato	un	comprare	uno	VERB	DET	bought a
-('cercando_cercare_VERB', 'di_di_ADP')	80	cercando di	cercando	di	cercare	di	VERB	ADP	trying to
-('che_che_SCONJ', 'la_il_DET')	80	che la	che	la	che	il	SCONJ	DET	that the
-('penso_pensare_VERB', 'di_di_ADP')	80	penso di	penso	di	pensare	di	VERB	ADP	I plan to
-('lei_lei_PRON', 'mi_mi_PRON')	80	lei mi	lei	mi	lei	mi	PRON	PRON	she ... me
-('è_essere_AUX', 'venuto_venire_VERB')	80	è venuto	è	venuto	essere	venire	AUX	VERB	he came
-('è_essere_AUX', 'già_già_ADV')	79	è già	è	già	essere	già	AUX	ADV	is already
-('può_potere_AUX', 'essere_essere_AUX')	79	può essere	può	essere	potere	essere	AUX	AUX	can be
-('lui_lui_PRON', 'ha_avere_VERB')	79	lui ha	lui	ha	lui	avere	PRON	VERB	he has
-('sono_essere_AUX', 'andato_andare_VERB')	79	sono andato	sono	andato	essere	andare	AUX	VERB	I went (masculine)
-('le_il_DET', 'loro_loro_DET')	79	le loro	le	loro	il	loro	DET	DET	their (feminine plural)
-('molto_molto_DET', 'tempo_tempo_NOUN')	78	molto tempo	molto	tempo	molto	tempo	DET	NOUN	a long time
-('i_il_DET', 'bambini_bambino_NOUN')	78	i bambini	i	bambini	il	bambino	DET	NOUN	the children
-('li_li_PRON', 'ha_avere_AUX')	78	li ha	li	ha	li	avere	PRON	AUX	has them
-('ieri_ieri_ADV', 'sera_sera_NOUN')	78	ieri sera	ieri	sera	ieri	sera	ADV	NOUN	last night
-('visto_vedere_VERB', 'il_il_DET')	78	visto il	visto	il	vedere	il	VERB	DET	seen the
-('ho_avere_AUX', 'già_già_ADV')	78	ho già	ho	già	avere	già	AUX	ADV	I already
-('che_che_SCONJ', 'aveva_avere_VERB')	78	che aveva	che	aveva	che	avere	SCONJ	VERB	that he had
-('allo_a_ADP', 'zoo_zoo_NOUN')	78	allo zoo	allo	zoo	a	zoo	ADP	NOUN	at the zoo
-('non_non_ADV', 'sta_stare_AUX')	78	non sta	non	sta	non	stare	ADV	AUX	is not
-('non_non_ADV', 'voglio_volere_VERB')	77	non voglio	non	voglio	non	volere	ADV	VERB	I do not want
-('che_che_SCONJ', 'voleva_volere_AUX')	77	che voleva	che	voleva	che	volere	SCONJ	AUX	that he wanted
-('una_uno_DET', 'cosa_cosa_NOUN')	77	una cosa	una	cosa	uno	cosa	DET	NOUN	a thing
-('al_a_ADP', 'lavoro_lavoro_NOUN')	77	al lavoro	al	lavoro	a	lavoro	ADP	NOUN	at work
-('avete_avere_AUX', 'detto_dire_VERB')	77	avete detto	avete	detto	avere	dire	AUX	VERB	you (plural) said
-('hai_avere_AUX', 'detto_dire_VERB')	77	hai detto	hai	detto	avere	dire	AUX	VERB	you said
-('vi_vi_PRON', 'ho_avere_AUX')	77	vi ho	vi	ho	vi	avere	PRON	AUX	I have you (plural)
-('perché_perché_PRON', 'siete_essere_AUX')	77	perché siete	perché	siete	perché	essere	PRON	AUX	why are you (plural)
-('ha_avere_AUX', 'già_già_ADV')	76	ha già	ha	già	avere	già	AUX	ADV	has already
-('è_essere_AUX', 'vero_vero_ADJ')	76	è vero	è	vero	essere	vero	AUX	ADJ	is true
-('il_il_DET', 'latte_latte_NOUN')	76	il latte	il	latte	il	latte	DET	NOUN	the milk
-('sono_essere_AUX', 'andata_andare_VERB')	76	sono andata	sono	andata	essere	andare	AUX	VERB	I went (feminine)
-('che_che_DET', 'ora_ora_NOUN')	76	che ora	che	ora	che	ora	DET	NOUN	what time
-('tu_tu_PRON', 'hai_avere_VERB')	76	tu hai	tu	hai	tu	avere	PRON	VERB	you have
-('è_essere_AUX', 'uno_uno_DET')	76	è uno	è	uno	essere	uno	AUX	DET	is a (masculine)
-('provando_provare_VERB', 'a_a_ADP')	76		provando	a	provare	a	VERB	ADP	trying to
-('la_il_DET', 'loro_loro_DET')	75	la loro	la	loro	il	loro	DET	DET	their (feminine)
-('in_in_ADP', 'biblioteca_biblioteca_NOUN')	75	in biblioteca	in	biblioteca	in	biblioteca	ADP	NOUN	in the library
-('la_il_DET', 'lettera_lettera_NOUN')	75	la lettera	la	lettera	il	lettera	DET	NOUN	the letter
-('ha_avere_AUX', 'chiamato_chiamare_VERB')	74	ha chiamato	ha	chiamato	avere	chiamare	AUX	VERB	has called
-('un_uno_DET', 'grande_grande_ADJ')	74	un grande	un	grande	uno	grande	DET	ADJ	a great (masculine)
-('che_che_SCONJ', 'la_la_PRON')	74	che la	che	la	che	la	SCONJ	PRON	that her; that it
-('mi_mi_PRON', 'hai_avere_AUX')	74	mi hai	mi	hai	mi	avere	PRON	AUX	you have me
-('lui_lui_PRON', 'mi_mi_PRON')	74	lui mi	lui	mi	lui	mi	PRON	PRON	he ... me
-('non_non_ADV', 'abbiamo_avere_VERB')	74	non abbiamo	non	abbiamo	non	avere	ADV	VERB	we do not have
-('visto_vedere_VERB', 'un_uno_DET')	74	visto un	visto	un	vedere	uno	VERB	DET	seen a
-('deciso_decidere_VERB', 'di_di_ADP')	74	deciso di	deciso	di	decidere	di	VERB	ADP	decided to
-('siete_essere_AUX', 'così_così_ADV')	74	siete così	siete	così	essere	così	AUX	ADV	you (plural) are so
-('che_che_SCONJ', 'ci_ci_PRON')	74	che ci	che	ci	che	ci	SCONJ	PRON	that ... us
-"(""d'_di_ADP"", 'acqua_acqua_NOUN')"	74	d'acqua	d'	acqua	di	acqua	ADP	NOUN	of water (feminine; before a vowel)
-('questo_questo_DET', 'momento_momento_NOUN')	73	questo momento	questo	momento	questo	momento	DET	NOUN	this moment
-('sono_essere_AUX', 'così_così_ADV')	73	sono così	sono	così	essere	così	AUX	ADV	I am so
-('come_come_ADP', 'un_uno_DET')	73	come un	come	un	come	uno	ADP	DET	like a (masculine)
-('suoi_suo_DET', 'genitori_genitore_NOUN')	73	suoi genitori	suoi	genitori	suo	genitore	DET	NOUN	his parents; her parents
-('io_io_PRON', 'voglio_volere_VERB')	73	io voglio	io	voglio	io	volere	PRON	VERB	I want
-('la_il_DET', 'gente_gente_NOUN')	73	la gente	la	gente	il	gente	DET	NOUN	the people
-('andata_andare_VERB', 'a_a_ADP')	73	a	andata	a	andare	a	VERB	ADP	gone to (feminine)
-('la_il_DET', 'polizia_polizia_NOUN')	73	la polizia	la	polizia	il	polizia	DET	NOUN	the police
-('cosa_cosa_PRON', 'sta_stare_AUX')	73	cosa sta	cosa	sta	cosa	stare	PRON	AUX	what is
-('mi_mi_PRON', 'dia_dare_VERB')	73	mi dia	mi	dia	mi	dare	PRON	VERB	give me
-('parlato_parlare_VERB', 'con_con_ADP')	73	parlato con	parlato	con	parlare	con	VERB	ADP	spoken with
-('ha_avere_VERB', 'paura_paura_NOUN')	73	ha paura	ha	paura	avere	paura	VERB	NOUN	is afraid
-('sembra_sembrare_VERB', 'essere_essere_AUX')	72	sembra essere	sembra	essere	sembrare	essere	VERB	AUX	seems to be
-('di_di_ADP', 'aver_avere_AUX')	72	di aver	di	aver	di	avere	ADP	AUX	to have
-('non_non_ADV', 'riusciva_riuscire_VERB')	72	non riusciva	non	riusciva	non	riuscire	ADV	VERB	could not
-('un_uno_DET', 'insegnante_insegnante_NOUN')	72	un insegnante	un	insegnante	uno	insegnante	DET	NOUN	a teacher
-('io_io_PRON', 'lo_lo_PRON')	72	io lo	io	lo	io	lo	PRON	PRON	I ... it; I ... him
-('è_essere_AUX', 'di_di_ADP')	72	è di	è	di	essere	di	AUX	ADP	is of
-('a_a_ADP', 'vedere_vedere_VERB')	72	a vedere	a	vedere	a	vedere	ADP	VERB	to see
-('se_se_SCONJ', 'non_non_ADV')	72	se non	se	non	se	non	SCONJ	ADV	if not
-('senza_senza_ADP', 'di_di_ADP')	72	senza di	senza	di	senza	di	ADP	ADP	without
-('aveva_avere_VERB', 'un_uno_DET')	71	aveva un	aveva	un	avere	uno	VERB	DET	had a
-('con_con_ADP', 'le_il_DET')	71	con le	con	le	con	il	ADP	DET	with the (feminine)
-('la_il_DET', 'scorsa_scorso_ADJ')	71	la scorsa	la	scorsa	il	scorso	DET	ADJ	the last (feminine)
-('mi_mi_PRON', 'dispiace_dispiacere_VERB')	71	mi dispiace	mi	dispiace	mi	dispiacere	PRON	VERB	I am sorry
-('accordo_accordo_NOUN', 'con_con_ADP')	71	accordo con	accordo	con	accordo	con	NOUN	ADP	agreement with
-('il_il_DET', 'vino_vino_NOUN')	71	il vino	il	vino	il	vino	DET	NOUN	the wine
-('loro_loro_PRON', 'che_che_SCONJ')	71	loro che	loro	che	loro	che	PRON	SCONJ	they who
-('che_che_PRON', 'non_non_ADV')	71	che non	che	non	che	non	PRON	ADV	that ... not
+('sua_suo_DET', 'madre_madre_NOUN')	99	sua madre	sua	madre	suo	madre	DET	NOUN	his mother; her mother
+('più_più_ADV', 'tardi_tardi_ADV')	99	più tardi	più	tardi	più	tardi	ADV	ADV	later
+('da_da_ADP', 'fare_fare_VERB')	99	da fare	da	fare	da	fare	ADP	VERB	to do
+('per_per_ADP', 'loro_loro_PRON')	99	per loro	per	loro	per	loro	ADP	PRON	for them
+('a_a_ADP', 'te_te_PRON')	98	a te	a	te	a	te	ADP	PRON	to you
+('i_il_DET', 'loro_loro_DET')	98	i loro	i	loro	il	loro	DET	DET	their (masculine plural)
+"('è_essere_AUX', ""un'_uno_DET"")"	98	è un'	è	un'	essere	uno	AUX	DET	is a (feminine; before a vowel)
+('piacciono_piacere_VERB', 'i_il_DET')	98		piacciono	i	piacere	il	VERB	DET	like the (masculine plural)
+('mia_mio_DET', 'madre_madre_NOUN')	98	mia madre	mia	madre	mio	madre	DET	NOUN	my mother
+('tipo_tipo_NOUN', 'di_di_ADP')	98	tipo di	tipo	di	tipo	di	NOUN	ADP	type of
+('tutte_tutto_DET', 'le_il_DET')	97	tutte le	tutte	le	tutto	il	DET	DET	all the (feminine plural)
+('a_a_ADP', 'riguardo_riguardo_NOUN')	97	a riguardo	a	riguardo	a	riguardo	ADP	NOUN	regarding it
+('non_non_ADV', 'ero_essere_AUX')	97	non ero	non	ero	non	essere	ADV	AUX	I was not
+('è_essere_AUX', 'piuttosto_piuttosto_ADV')	97	è piuttosto	è	piuttosto	essere	piuttosto	AUX	ADV	is rather
+('sono_essere_AUX', 'in_in_ADP')	96	sono in	sono	in	essere	in	AUX	ADP	am in; are in
+('ha_avere_AUX', 'trovato_trovare_VERB')	95	ha trovato	ha	trovato	avere	trovare	AUX	VERB	has found
+('di_di_ADP', 'noi_noi_PRON')	95	di noi	di	noi	di	noi	ADP	PRON	of us
+('i_il_DET', 'tuoi_tuo_DET')	94	i tuoi	i	tuoi	il	tuo	DET	DET	your (masculine plural)
+('è_essere_AUX', 'a_a_ADP')	94		è	a	essere	a	AUX	ADP	is at
+('che_che_SCONJ', 'voi_voi_PRON')	94	che voi	che	voi	che	voi	SCONJ	PRON	that you (plural)
+('di_di_ADP', 'fare_fare_VERB')	94	di fare	di	fare	di	fare	ADP	VERB	to do
+('ci_ci_PRON', 'siamo_essere_AUX')	94	ci siamo	ci	siamo	ci	essere	PRON	AUX	we are
+('la_il_DET', 'nostra_nostro_DET')	94	la nostra	la	nostra	il	nostro	DET	DET	our (feminine)
+('a_a_ADP', 'voi_voi_PRON')	93	a voi	a	voi	a	voi	ADP	PRON	to you (plural)
+('sono_essere_AUX', 'stato_essere_AUX')	93	sono stato	sono	stato	essere	essere	AUX	AUX	I have been
+('di_di_ADP', 'una_uno_DET')	93	di una	di	una	di	uno	ADP	DET	of a (feminine)
+('non_non_ADV', 'siete_essere_AUX')	93	non siete	non	siete	non	essere	ADV	AUX	you (plural) are not
+('il_il_DET', 'problema_problema_NOUN')	93	il problema	il	problema	il	problema	DET	NOUN	the problem
+('non_non_ADV', 'possiamo_potere_AUX')	92	non possiamo	non	possiamo	non	potere	ADV	AUX	we cannot
+('il_il_DET', 'lavoro_lavoro_NOUN')	92	il lavoro	il	lavoro	il	lavoro	DET	NOUN	the work
+('voi_voi_PRON', 'avete_avere_AUX')	92	voi avete	voi	avete	voi	avere	PRON	AUX	you (plural) have
+('sono_essere_AUX', 'stata_essere_AUX')	91	sono stata	sono	stata	essere	essere	AUX	AUX	I have been (feminine)
+('sono_essere_AUX', 'una_uno_DET')	91	sono una	sono	una	essere	uno	AUX	DET	I am a (feminine)
+('che_che_SCONJ', 'le_le_PRON')	91	che le	che	le	che	le	SCONJ	PRON	that them (feminine)
+('è_essere_VERB', 'un_uno_DET')	91	è un	è	un	essere	uno	VERB	DET	is a (masculine)
+('io_io_PRON', 'e_e_CCONJ')	91	io e	io	e	io	e	PRON	CCONJ	I and
+('del_di_ADP', 'genere_genere_NOUN')	91	del genere	del	genere	di	genere	ADP	NOUN	of the sort
+('sua_suo_DET', 'stanza_stanza_NOUN')	91	sua stanza	sua	stanza	suo	stanza	DET	NOUN	his room; her room
+('dove_dove_ADV', 'ha_avere_AUX')	91	dove ha	dove	ha	dove	avere	ADV	AUX	where has
+('della_di_ADP', 'sua_suo_DET')	91	della sua	della	sua	di	suo	ADP	DET	of his (feminine); of her (feminine)
+('nel_in_ADP', 'suo_suo_DET')	90	nel suo	nel	suo	in	suo	ADP	DET	in his (masculine); in her (masculine)
+('me_me_PRON', 'non_non_ADV')	90	me non	me	non	me	non	PRON	ADV	me not
+('sono_essere_AUX', 'più_più_ADV')	90	sono più	sono	più	essere	più	AUX	ADV	am more; are more
+('ha_avere_AUX', 'lasciato_lasciare_VERB')	90	ha lasciato	ha	lasciato	avere	lasciare	AUX	VERB	has left
+('fatto_fare_VERB', 'un_uno_DET')	90	fatto un	fatto	un	fare	uno	VERB	DET	made a
+('molto_molto_ADV', 'bene_bene_ADV')	90	molto bene	molto	bene	molto	bene	ADV	ADV	very well
+('qualcosa_qualcosa_PRON', 'da_da_ADP')	90	qualcosa da	qualcosa	da	qualcosa	da	PRON	ADP	something to
+('noi_noi_PRON', 'abbiamo_avere_AUX')	90	noi abbiamo	noi	abbiamo	noi	avere	PRON	AUX	we have
+('sono_essere_AUX', 'i_il_DET')	90		sono	i	essere	il	AUX	DET	are the
+('mio_mio_DET', 'fratello_fratello_NOUN')	90	mio fratello	mio	fratello	mio	fratello	DET	NOUN	my brother
+('io_io_PRON', 'devo_dovere_AUX')	89	io devo	io	devo	io	dovere	PRON	AUX	I must
+('vuole_volere_VERB', 'che_che_SCONJ')	89	vuole che	vuole	che	volere	che	VERB	SCONJ	wants that
+('a_a_ADP', 'volte_volta_NOUN')	89	a volte	a	volte	a	volta	ADP	NOUN	sometimes
+('una_uno_DET', 'casa_casa_NOUN')	89	una casa	una	casa	uno	casa	DET	NOUN	a house
+('tu_tu_PRON', 'hai_avere_AUX')	88	tu hai	tu	hai	tu	avere	PRON	AUX	you have
+('fino_fino_ADV', 'a_a_ADP')	88		fino	a	fino	a	ADV	ADP	up to
+('così_così_ADV', 'tanto_tanto_ADV')	88	così tanto	così	tanto	così	tanto	ADV	ADV	so much
+('noi_noi_PRON', 'abbiamo_avere_VERB')	88	noi abbiamo	noi	abbiamo	noi	avere	PRON	VERB	we have
+('sapeva_sapere_VERB', 'che_che_SCONJ')	88	sapeva che	sapeva	che	sapere	che	VERB	SCONJ	knew that
+"(""l'_il_DET"", 'uomo_uomo_NOUN')"	88	l'uomo	l'	uomo	il	uomo	DET	NOUN	the man (masculine; before a vowel)
+('con_con_ADP', 'un_uno_DET')	88	con un	con	un	con	uno	ADP	DET	with a (masculine)
+('non_non_ADV', 'sia_essere_AUX')	88	non sia	non	sia	non	essere	ADV	AUX	not be
+('non_non_ADV', 'erano_essere_AUX')	88	non erano	non	erano	non	essere	ADV	AUX	they were not
+"(""c'_ci_PRON"", 'era_essere_VERB')"	88	c'era	c'	era	ci	essere	PRON	VERB	there was (before a vowel)
+('era_essere_AUX', 'una_uno_DET')	88	era una	era	una	essere	uno	AUX	DET	was a (feminine)
+('non_non_ADV', 'riesce_riuscire_VERB')	87	non riesce	non	riesce	non	riuscire	ADV	VERB	cannot manage
+('il_il_DET', 'loro_loro_DET')	87	il loro	il	loro	il	loro	DET	DET	their (masculine)
+('che_che_PRON', 'è_essere_AUX')	87	che è	che	è	che	essere	PRON	AUX	that is
+('piacciono_piacere_VERB', 'le_il_DET')	87	piacciono le	piacciono	le	piacere	il	VERB	DET	like the (feminine plural)
+('non_non_ADV', 'voleva_volere_AUX')	87	non voleva	non	voleva	non	volere	ADV	AUX	did not want
+('alla_a_ADP', 'sua_suo_DET')	87	alla sua	alla	sua	a	suo	ADP	DET	to his (feminine); to her (feminine)
+('del_di_ADP', 'male_male_NOUN')	86	del male	del	male	di	male	ADP	NOUN	of evil
+('il_il_DET', 'treno_treno_NOUN')	86	il treno	il	treno	il	treno	DET	NOUN	the train
+('le_il_DET', 'mani_mano_NOUN')	86	le mani	le	mani	il	mano	DET	NOUN	the hands
+('i_il_DET', 'soldi_soldo_NOUN')	86	i soldi	i	soldi	il	soldo	DET	NOUN	the money
+"(""l'_il_DET"", 'esperanto_esperanto_NOUN')"	86	l'esperanto	l'	esperanto	il	esperanto	DET	NOUN	the Esperanto language (masculine; before a vowel)
+('ho_avere_AUX', 'chiesto_chiedere_VERB')	86	ho chiesto	ho	chiesto	avere	chiedere	AUX	VERB	I asked
+('un_uno_DET', 'lavoro_lavoro_NOUN')	86	un lavoro	un	lavoro	uno	lavoro	DET	NOUN	a job
+('mi_mi_PRON', 'chiedo_chiedere_VERB')	86	mi chiedo	mi	chiedo	mi	chiedere	PRON	VERB	I wonder
+('hai_avere_AUX', 'visto_vedere_VERB')	85	hai visto	hai	visto	avere	vedere	AUX	VERB	you saw
+('il_il_DET', 'giorno_giorno_NOUN')	85	il giorno	il	giorno	il	giorno	DET	NOUN	the day
+('è_essere_AUX', 'andata_andare_VERB')	85	è andata	è	andata	essere	andare	AUX	VERB	she went
+('la_il_DET', 'casa_casa_NOUN')	85	la casa	la	casa	il	casa	DET	NOUN	the house
+('andate_andare_VERB', 'a_a_ADP')	85	a	andate	a	andare	a	VERB	ADP	you (plural) go to
+('mi_mi_PRON', 'è_essere_AUX')	85	mi è	mi	è	mi	essere	PRON	AUX	to me is
+('in_in_ADP', 'questa_questo_DET')	85	in questa	in	questa	in	questo	ADP	DET	in this (feminine)
+('una_uno_DET', 'persona_persona_NOUN')	85	una persona	una	persona	uno	persona	DET	NOUN	a person
+('un_uno_DET', 'problema_problema_NOUN')	85	un problema	un	problema	uno	problema	DET	NOUN	a problem
+('gli_gli_PRON', 'ho_avere_AUX')	85	gli ho	gli	ho	gli	avere	PRON	AUX	I have him; I have them (masculine)
+('i_il_DET', 'capelli_capello_NOUN')	85	i capelli	i	capelli	il	capello	DET	NOUN	the hair
+('mai_mai_ADV', 'stato_essere_AUX')	84	mai stato	mai	stato	mai	essere	ADV	AUX	ever been
+('chiesto_chiedere_VERB', 'di_di_ADP')	84	chiesto di	chiesto	di	chiedere	di	VERB	ADP	asked to
+('se_se_PRON', 'ne_ne_PRON')	84	se ne	se	ne	se	ne	PRON	PRON	of it
+('è_essere_AUX', 'qui_qui_ADV')	84	è qui	è	qui	essere	qui	AUX	ADV	is here
+('di_di_ADP', 'parlare_parlare_VERB')	84	di parlare	di	parlare	di	parlare	ADP	VERB	to speak
+('si_si_PRON', 'sentiva_sentire_VERB')	84	si sentiva	si	sentiva	si	sentire	PRON	VERB	he felt; she felt
+('a_a_ADP', 'un_uno_DET')	84	a un	a	un	a	uno	ADP	DET	to a (masculine)
+('più_più_ADV', 'di_di_ADP')	84	più di	più	di	più	di	ADV	ADP	more than
+('tutta_tutto_DET', 'la_il_DET')	84	tutta la	tutta	la	tutto	il	DET	DET	all the (feminine)
+('ti_ti_PRON', 'piace_piacere_VERB')	84	ti piace	ti	piace	ti	piacere	PRON	VERB	you like it
+"(""l'_il_DET"", 'acqua_acqua_NOUN')"	83	l'acqua	l'	acqua	il	acqua	DET	NOUN	
+('cercato_cercare_VERB', 'di_di_ADP')	83	cercato di	cercato	di	cercare	di	VERB	ADP	
+('a_a_ADP', 'lavorare_lavorare_VERB')	83	a lavorare	a	lavorare	a	lavorare	ADP	VERB	
+('perché_perché_ADV', 'è_essere_AUX')	83	perché è	perché	è	perché	essere	ADV	AUX	
+('a_a_ADP', 'che_che_DET')	83	a che	a	che	a	che	ADP	DET	
+('suo_suo_DET', 'lavoro_lavoro_NOUN')	83	suo lavoro	suo	lavoro	suo	lavoro	DET	NOUN	
+('una_uno_DET', 'macchina_macchina_NOUN')	83	una macchina	una	macchina	uno	macchina	DET	NOUN	
+('non_non_ADV', 'siamo_essere_AUX')	82	non siamo	non	siamo	non	essere	ADV	AUX	
+('ti_ti_PRON', 'ha_avere_AUX')	82	ti ha	ti	ha	ti	avere	PRON	AUX	
+('ho_avere_AUX', 'comprato_comprare_VERB')	82	ho comprato	ho	comprato	avere	comprare	AUX	VERB	
+('non_non_ADV', 'gli_gli_PRON')	82	non gli	non	gli	non	gli	ADV	PRON	
+('di_di_ADP', 'vino_vino_NOUN')	82	di vino	di	vino	di	vino	ADP	NOUN	
+"(""l'_il_DET"", 'anno_anno_NOUN')"	82	l'anno	l'	anno	il	anno	DET	NOUN	
+('che_che_SCONJ', 'lui_lui_PRON')	82	che lui	che	lui	che	lui	SCONJ	PRON	
+('provato_provare_VERB', 'a_a_ADP')	82		provato	a	provare	a	VERB	ADP	
+('dicono_dire_VERB', 'che_che_SCONJ')	82	dicono che	dicono	che	dire	che	VERB	SCONJ	
+('grazie_grazie_INTJ', 'per_per_ADP')	81	grazie per	grazie	per	grazie	per	INTJ	ADP	
+('al_a_ADP', 'sicuro_sicuro_ADJ')	81	al sicuro	al	sicuro	a	sicuro	ADP	ADJ	
+('al_a_ADP', 'suo_suo_DET')	81	al suo	al	suo	a	suo	ADP	DET	
+('perso_perdere_VERB', 'il_il_DET')	81	perso il	perso	il	perdere	il	VERB	DET	
+('era_essere_AUX', 'il_il_DET')	81	era il	era	il	essere	il	AUX	DET	
+('comprato_comprare_VERB', 'un_uno_DET')	80	comprato un	comprato	un	comprare	uno	VERB	DET	
+('cercando_cercare_VERB', 'di_di_ADP')	80	cercando di	cercando	di	cercare	di	VERB	ADP	
+('che_che_SCONJ', 'la_il_DET')	80	che la	che	la	che	il	SCONJ	DET	
+('penso_pensare_VERB', 'di_di_ADP')	80	penso di	penso	di	pensare	di	VERB	ADP	
+('lei_lei_PRON', 'mi_mi_PRON')	80	lei mi	lei	mi	lei	mi	PRON	PRON	
+('è_essere_AUX', 'venuto_venire_VERB')	80	è venuto	è	venuto	essere	venire	AUX	VERB	
+('è_essere_AUX', 'già_già_ADV')	79	è già	è	già	essere	già	AUX	ADV	
+('può_potere_AUX', 'essere_essere_AUX')	79	può essere	può	essere	potere	essere	AUX	AUX	
+('lui_lui_PRON', 'ha_avere_VERB')	79	lui ha	lui	ha	lui	avere	PRON	VERB	
+('sono_essere_AUX', 'andato_andare_VERB')	79	sono andato	sono	andato	essere	andare	AUX	VERB	
+('le_il_DET', 'loro_loro_DET')	79	le loro	le	loro	il	loro	DET	DET	
+('molto_molto_DET', 'tempo_tempo_NOUN')	78	molto tempo	molto	tempo	molto	tempo	DET	NOUN	
+('i_il_DET', 'bambini_bambino_NOUN')	78	i bambini	i	bambini	il	bambino	DET	NOUN	
+('li_li_PRON', 'ha_avere_AUX')	78	li ha	li	ha	li	avere	PRON	AUX	
+('ieri_ieri_ADV', 'sera_sera_NOUN')	78	ieri sera	ieri	sera	ieri	sera	ADV	NOUN	
+('visto_vedere_VERB', 'il_il_DET')	78	visto il	visto	il	vedere	il	VERB	DET	
+('ho_avere_AUX', 'già_già_ADV')	78	ho già	ho	già	avere	già	AUX	ADV	
+('che_che_SCONJ', 'aveva_avere_VERB')	78	che aveva	che	aveva	che	avere	SCONJ	VERB	
+('allo_a_ADP', 'zoo_zoo_NOUN')	78	allo zoo	allo	zoo	a	zoo	ADP	NOUN	
+('non_non_ADV', 'sta_stare_AUX')	78	non sta	non	sta	non	stare	ADV	AUX	
+('non_non_ADV', 'voglio_volere_VERB')	77	non voglio	non	voglio	non	volere	ADV	VERB	
+('che_che_SCONJ', 'voleva_volere_AUX')	77	che voleva	che	voleva	che	volere	SCONJ	AUX	
+('una_uno_DET', 'cosa_cosa_NOUN')	77	una cosa	una	cosa	uno	cosa	DET	NOUN	
+('al_a_ADP', 'lavoro_lavoro_NOUN')	77	al lavoro	al	lavoro	a	lavoro	ADP	NOUN	
+('avete_avere_AUX', 'detto_dire_VERB')	77	avete detto	avete	detto	avere	dire	AUX	VERB	
+('hai_avere_AUX', 'detto_dire_VERB')	77	hai detto	hai	detto	avere	dire	AUX	VERB	
+('vi_vi_PRON', 'ho_avere_AUX')	77	vi ho	vi	ho	vi	avere	PRON	AUX	
+('perché_perché_PRON', 'siete_essere_AUX')	77	perché siete	perché	siete	perché	essere	PRON	AUX	
+('ha_avere_AUX', 'già_già_ADV')	76	ha già	ha	già	avere	già	AUX	ADV	
+('è_essere_AUX', 'vero_vero_ADJ')	76	è vero	è	vero	essere	vero	AUX	ADJ	
+('il_il_DET', 'latte_latte_NOUN')	76	il latte	il	latte	il	latte	DET	NOUN	
+('sono_essere_AUX', 'andata_andare_VERB')	76	sono andata	sono	andata	essere	andare	AUX	VERB	
+('che_che_DET', 'ora_ora_NOUN')	76	che ora	che	ora	che	ora	DET	NOUN	
+('tu_tu_PRON', 'hai_avere_VERB')	76	tu hai	tu	hai	tu	avere	PRON	VERB	
+('è_essere_AUX', 'uno_uno_DET')	76	è uno	è	uno	essere	uno	AUX	DET	
+('provando_provare_VERB', 'a_a_ADP')	76		provando	a	provare	a	VERB	ADP	
+('la_il_DET', 'loro_loro_DET')	75	la loro	la	loro	il	loro	DET	DET	
+('in_in_ADP', 'biblioteca_biblioteca_NOUN')	75	in biblioteca	in	biblioteca	in	biblioteca	ADP	NOUN	
+('la_il_DET', 'lettera_lettera_NOUN')	75	la lettera	la	lettera	il	lettera	DET	NOUN	
+('ha_avere_AUX', 'chiamato_chiamare_VERB')	74	ha chiamato	ha	chiamato	avere	chiamare	AUX	VERB	
+('un_uno_DET', 'grande_grande_ADJ')	74	un grande	un	grande	uno	grande	DET	ADJ	
+('che_che_SCONJ', 'la_la_PRON')	74	che la	che	la	che	la	SCONJ	PRON	
+('mi_mi_PRON', 'hai_avere_AUX')	74	mi hai	mi	hai	mi	avere	PRON	AUX	
+('lui_lui_PRON', 'mi_mi_PRON')	74	lui mi	lui	mi	lui	mi	PRON	PRON	
+('non_non_ADV', 'abbiamo_avere_VERB')	74	non abbiamo	non	abbiamo	non	avere	ADV	VERB	
+('visto_vedere_VERB', 'un_uno_DET')	74	visto un	visto	un	vedere	uno	VERB	DET	
+('deciso_decidere_VERB', 'di_di_ADP')	74	deciso di	deciso	di	decidere	di	VERB	ADP	
+('siete_essere_AUX', 'così_così_ADV')	74	siete così	siete	così	essere	così	AUX	ADV	
+('che_che_SCONJ', 'ci_ci_PRON')	74	che ci	che	ci	che	ci	SCONJ	PRON	
+"(""d'_di_ADP"", 'acqua_acqua_NOUN')"	74	d'acqua	d'	acqua	di	acqua	ADP	NOUN	
+('questo_questo_DET', 'momento_momento_NOUN')	73	questo momento	questo	momento	questo	momento	DET	NOUN	
+('sono_essere_AUX', 'così_così_ADV')	73	sono così	sono	così	essere	così	AUX	ADV	
+('come_come_ADP', 'un_uno_DET')	73	come un	come	un	come	uno	ADP	DET	
+('suoi_suo_DET', 'genitori_genitore_NOUN')	73	suoi genitori	suoi	genitori	suo	genitore	DET	NOUN	
+('io_io_PRON', 'voglio_volere_VERB')	73	io voglio	io	voglio	io	volere	PRON	VERB	
+('la_il_DET', 'gente_gente_NOUN')	73	la gente	la	gente	il	gente	DET	NOUN	
+('andata_andare_VERB', 'a_a_ADP')	73	a	andata	a	andare	a	VERB	ADP	
+('la_il_DET', 'polizia_polizia_NOUN')	73	la polizia	la	polizia	il	polizia	DET	NOUN	
+('cosa_cosa_PRON', 'sta_stare_AUX')	73	cosa sta	cosa	sta	cosa	stare	PRON	AUX	
+('mi_mi_PRON', 'dia_dare_VERB')	73	mi dia	mi	dia	mi	dare	PRON	VERB	
+('parlato_parlare_VERB', 'con_con_ADP')	73	parlato con	parlato	con	parlare	con	VERB	ADP	
+('ha_avere_VERB', 'paura_paura_NOUN')	73	ha paura	ha	paura	avere	paura	VERB	NOUN	
+('sembra_sembrare_VERB', 'essere_essere_AUX')	72	sembra essere	sembra	essere	sembrare	essere	VERB	AUX	
+('di_di_ADP', 'aver_avere_AUX')	72	di aver	di	aver	di	avere	ADP	AUX	
+('non_non_ADV', 'riusciva_riuscire_VERB')	72	non riusciva	non	riusciva	non	riuscire	ADV	VERB	
+('un_uno_DET', 'insegnante_insegnante_NOUN')	72	un insegnante	un	insegnante	uno	insegnante	DET	NOUN	
+('io_io_PRON', 'lo_lo_PRON')	72	io lo	io	lo	io	lo	PRON	PRON	
+('è_essere_AUX', 'di_di_ADP')	72	è di	è	di	essere	di	AUX	ADP	
+('a_a_ADP', 'vedere_vedere_VERB')	72	a vedere	a	vedere	a	vedere	ADP	VERB	
+('se_se_SCONJ', 'non_non_ADV')	72	se non	se	non	se	non	SCONJ	ADV	
+('senza_senza_ADP', 'di_di_ADP')	72	senza di	senza	di	senza	di	ADP	ADP	
+('aveva_avere_VERB', 'un_uno_DET')	71	aveva un	aveva	un	avere	uno	VERB	DET	
+('con_con_ADP', 'le_il_DET')	71	con le	con	le	con	il	ADP	DET	
+('la_il_DET', 'scorsa_scorso_ADJ')	71	la scorsa	la	scorsa	il	scorso	DET	ADJ	
+('mi_mi_PRON', 'dispiace_dispiacere_VERB')	71	mi dispiace	mi	dispiace	mi	dispiacere	PRON	VERB	
+('accordo_accordo_NOUN', 'con_con_ADP')	71	accordo con	accordo	con	accordo	con	NOUN	ADP	
+('il_il_DET', 'vino_vino_NOUN')	71	il vino	il	vino	il	vino	DET	NOUN	
+('loro_loro_PRON', 'che_che_SCONJ')	71	loro che	loro	che	loro	che	PRON	SCONJ	
+('che_che_PRON', 'non_non_ADV')	71	che non	che	non	che	non	PRON	ADV	
 ('il_il_DET', 'gatto_gatto_NOUN')	70	il gatto	il	gatto	il	gatto	DET	NOUN	
 ('sono_essere_AUX', 'sempre_sempre_ADV')	70	sono sempre	sono	sempre	essere	sempre	AUX	ADV	
 ('che_che_SCONJ', 'il_il_DET')	70	che il	che	il	che	il	SCONJ	DET	
