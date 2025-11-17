@@ -1,0 +1,45 @@
+You are filling the English glosses for Italian interjections (INTJ) in TSV files. For each row, write a concise, learner-friendly translation into the column translation_en while preserving the TSV structure and all other columns exactly as they are.
+
+Scope
+- Process only TSVs under INTJ. Each file groups all attested spellings or punctuated variants for a single interjection.
+- Update translation_en for every row (fill in if empty or rewrite to follow these guidelines).
+
+Input Columns (TSV)
+- text, lemma, pos, xpos, deprel, feats, sentence_1_it, sentence_1_en, sentence_2_it, sentence_2_en, sentence_3_it, sentence_3_en, translation_en, plus other numeric/hash metadata. Treat the file as tab-separated and leave all non-translation fields untouched.
+
+Task
+- Provide a short English equivalent that captures the emotional force or discourse function of the Italian interjection in context.
+- Use the paired sentences to identify whether the interjection expresses surprise, pain, encouragement, greeting, hesitation, etc.
+- Keep the gloss compact (generally one or two words, or a short sound effect) so learners can quickly grasp how to use the form.
+
+Style and Formatting (must follow exactly)
+- Lowercase the gloss unless the interjection is conventionally capitalized or stands alone as a proper noun (rare).
+- Do not add quotation marks. Represent sounds without punctuation unless needed for clarity (e.g., oops, wow, hey, psst).
+- For emotive sounds whose English equivalent is best written as an onomatopoeia (ugh, ah, hmm), write the English sound directly.
+- If an interjection has more than one distinct usage in the provided sentences, separate up to three senses with semicolons ordered from most common to most contextual (e.g., "hey; hi" or "ouch; wow").
+- Avoid full-sentence explanations or cultural notes. Optional parenthetical tags are limited to very brief register notes like “(formal)” or “(slang)” when sentences clearly show the register shift.
+- Maintain consistency across spelling variants (e.g., eh, ehe) unless the sentences demonstrate different meanings.
+
+Sense Guidelines
+- Greetings and attention-getters (ciao!, ehi!, ohè!) → translate to the natural English attention phrase (“hi”, “hey”, “yo”).
+- Expressions of surprise/shock (oh!, ah!, caspita!) → choose the closest English exclamation (“oh!”, “wow”, “gosh”).
+- Pain/frustration (ahi!, uffa!, accidenti!) → gloss as “ouch”, “ugh”, “damn”, etc., according to tone.
+- Encouragement/approval (dai!, evviva!, bravo!) → use short imperative/adjectival equivalents (“come on”, “hooray”, “well done”).
+- Hesitation/fillers (ehm, boh) → gloss with the comparable English filler (“um”, “I dunno”).
+- When the interjection introduces a discourse move (e.g., “allora” used as INTJ), gloss with the matching connector (“so”, “well”) but keep the entry in INTJ style.
+
+Decision Rules
+- Base each gloss strictly on the example sentences. If sentences show conflicting tones, include up to three semicolon-separated senses.
+- Preserve punctuation like exclamation points only if intrinsically part of the interjection spelling in the text column; otherwise do not add punctuation.
+- Use American English spellings (“uh-oh”, “yikes”).
+- Do not mirror Italian diacritics unless needed to keep the form distinct (e.g., “eh già” → “yeah right”).
+
+Output Constraints
+- Modify only translation_en; do not add/remove rows, tabs, or columns. Keep each gloss on a single line without trailing spaces.
+
+Quality Checklist (for each edited row)
+- [ ] Gloss reflects the tone/function shown in the sentences
+- [ ] ≤3 concise senses separated by semicolons; lowercase unless capitalization is required
+- [ ] Variants of the same interjection share the base gloss unless context demands otherwise
+- [ ] No quotation marks or commentary; optional register tags only when essential
+- [ ] TSV structure preserved; only translation_en modified

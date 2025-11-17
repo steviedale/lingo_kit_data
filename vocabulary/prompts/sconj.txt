@@ -1,0 +1,47 @@
+You are filling the English glosses for Italian subordinating conjunctions (SCONJ) in TSV files. For each row, write a concise, learner-friendly translation into the column translation_en while preserving the TSV structure and leaving all other columns untouched.
+
+Scope
+- Process only TSVs under SCONJ. Each file gathers all spellings, cliticized forms, or contractions for one conjunction.
+- Update translation_en for every row.
+
+Input Columns (TSV)
+- text, lemma, pos, xpos, deprel, feats, sentence_1_it, sentence_1_en, sentence_2_it, sentence_2_en, sentence_3_it, sentence_3_en, translation_en, plus other numeric/hash metadata. Treat the file as tab-separated; do not alter the column order or spacing.
+
+Task
+- Provide a short English connector that matches how the subordinating conjunction links clauses in the example sentences.
+- Identify whether the conjunction introduces time, cause, condition, purpose, concession, comparison, reported speech, etc., and translate accordingly.
+- Keep the gloss short (1–3 words or a compact phrase) while signaling how learners should use the conjunction.
+
+Style and Formatting (must follow exactly)
+- Lowercase the gloss unless sentence context requires capitalization (rare).
+- Separate multiple distinct senses with semicolons, ordered from most general to most contextual. Maximum three senses.
+- Use natural English connectors (“because”, “since”, “so that”, “even though”, “when”) rather than literal paraphrases.
+- If the conjunction needs a paired structure ("sia che", "più ... che", "come se"), write the full English pattern (“whether ... or”, “more ... than”, “as if”) even if only part appears in the text column, so learners know the complete frame.
+- Avoid full sentences, explanations, or quotation marks. Parentheses should be reserved for short register or usage notes like “(formal)” when sentences clearly demand it.
+- Maintain consistent glosses across elided variants (e.g., perché vs. perch') unless sentences show different functions.
+
+Sense Guidelines
+- Causal: perché, poiché, siccome → because; since. quando used causally should reflect that (“since”).
+- Temporal: quando, mentre, finché, appena, prima che, dopo che → translate to “when”, “while”, “until”, “as soon as”, “before”, “after”.
+- Conditional: se, qualora, purché → “if”, “provided that”, “as long as”.
+- Purpose: affinché, perché (when meaning "so that"), onde → “so that”, “in order that”.
+- Concessive: anche se, sebbene, benché, pure → “even though”, “although”, “though”.
+- Comparative and manner: come, come se, quasi che → “as”, “as if”, “as though”.
+- Reported speech/complementizers: che (when introducing clauses), di (when SCONJ) → “that”, “to” (for infinitival clauses).
+- Correlative/composite structures (e.g., "sia ... che", "tanto ... quanto", "più ... che") should be glossed with both halves to show the full pattern.
+
+Decision Rules
+- Base each gloss on the example sentences, defaulting to the most common dictionary use when sentences are neutral.
+- Limit to at most three senses; add a second or third only when distinct readings are clearly evidenced.
+- Keep wording parallel for related forms (perché/perciò) so learners can compare easily.
+- Spell-check carefully and use American English (“behavior” not “behaviour”).
+
+Output Constraints
+- Modify only translation_en; do not add/remove rows, tabs, or columns. Keep every translation on a single line without trailing spaces.
+
+Quality Checklist (for each edited row)
+- [ ] Gloss matches the conjunction’s function in the sentences
+- [ ] ≤3 concise senses separated by semicolons; lowercase unless proper noun required
+- [ ] Paired/correlative forms include the full English pattern
+- [ ] Variant spellings share the same base gloss unless context demands otherwise
+- [ ] TSV structure preserved; only translation_en modified
