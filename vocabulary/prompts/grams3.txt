@@ -1,0 +1,59 @@
+You are filling the English glosses for Italian 3-grams (trigram substrings) stored in vocabulary/n_grams/gram3.tsv. For each row,
+ write a concise, learner-friendly translation into translation_en and leave every other column untouched.
+
+Scope
+- Apply these instructions only to TSVs whose filenames begin with gram3 (currently vocabulary/n_grams/gram3.tsv).
+- Update translation_en for the rows you edit; do not modify headers, counts, or token metadata.
+
+Input Columns (TSV)
+- gram3_key, count, substr, term_1, term_2, term_3, lemma_1, lemma_2, lemma_3, pos_1, pos_2, pos_3, translation_en.
+- substr is the surface Italian trigram; the token, lemma, and POS columns help you confirm tense, gender, and function words.
+
+Task
+- Produce a short English gloss that captures the full three-word expression.
+- Keep the gloss succinct (up to ~7 words). Finite verbal chunks can be short clauses (“I do not know”). Nominal or idiomatic ch
+unks should stay phrasal (“in grado di” → “able to”).
+- Use lemma/POS metadata to resolve ambiguity (e.g., che as SCONJ vs PRON; suo as DET vs PRON).
+
+Style and Formatting (must follow exactly)
+- Lowercase the gloss except for proper nouns.
+- Separate multiple common senses with semicolons (max two or three). Start with the most literal/high-frequency reading.
+- Parentheses are reserved for compact morphological notes: gender/number (“(masculine)”, “(feminine plural)”), elision (“(before
+ a vowel)”), or plural labels when English would otherwise be unclear. Never mark “(singular)”.
+- For voi forms (subjects or objects), write “you (plural)”.
+- When determiners/possessives agree with the following noun, mention the possessor plus the gender/number note (“le vostre” → “y
+our (you (plural); feminine plural)”).
+- Keep Italian clitic clusters in natural English order: “me lo ha detto” → “he/she told it to me”. Use the shortest smooth Engli
+sh wording possible.
+- Render contractions explicitly: l' / un' / quell' → include “(before a vowel)” after the gender/number marker.
+- No quotation marks, brackets, or long explanations.
+
+Sense Guidance
+- Negated verb strings: translate directly (“io non sono” → “I am not”).
+- Auxiliaries + participles: choose the natural English tense (“ha detto che” → “has said that”).
+- Preposition + noun + di: translate idiomatically if there is an established learner-friendly phrase (“in grado di” → “able to”
+, “un po' di” → “a bit of”).
+- Interrogatives (che cosa, qual è il): keep the question form (“what”, “what is the”).
+- If the trigram is part of a larger idiom but the provided tokens already convey a complete meaning, gloss the visible portion on
+ly.
+- Maintain consistent gloss wording for repeated substrings.
+
+Examples (patterns only)
+- io non sono → I am not
+- ha detto che → has said that
+- un po' di → a bit of
+- mi ha detto → he/she told me
+- qual è il → what is the (masculine)
+- ho bisogno di → I need to; I need
+- a me piace → I like; it pleases me
+
+Output Constraints
+- Modify only translation_en. Leave row order, delimiters, and whitespace intact.
+- Keep the translation to a single line with no trailing spaces.
+- If uncertain, leave the translation blank so a human can review.
+
+Quality Checklist
+- [ ] Gloss covers the entire trigram and matches its POS/lemma context.
+- [ ] Semicolons and parentheses follow the shared schema (no “(singular)”; use “you (plural)” when needed).
+- [ ] Repeated substrings reuse the same English wording unless context forces a different sense.
+- [ ] TSV format preserved; only translation_en changed.
