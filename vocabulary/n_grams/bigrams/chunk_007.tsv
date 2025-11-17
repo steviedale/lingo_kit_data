@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('da_da_ADP', 'qui_qui_ADV')	55	da qui	da	qui	da	qui	ADP	ADV	
-('in_in_ADP', 'cui_cui_PRON')	55	in cui	in	cui	in	cui	ADP	PRON	
-('non_non_ADV', 'va_andare_VERB')	55	non va	non	va	non	andare	ADV	VERB	
-('di_di_ADP', 'quello_quello_PRON')	55	di quello	di	quello	di	quello	ADP	PRON	
-('la_il_DET', 'chitarra_chitarra_NOUN')	54	la chitarra	la	chitarra	il	chitarra	DET	NOUN	
-('disse_dire_VERB', 'a_a_ADP')	54		disse	a	dire	a	VERB	ADP	
-('che_che_SCONJ', 'ha_avere_AUX')	54	che ha	che	ha	che	avere	SCONJ	AUX	
-('le_le_PRON', 'hai_avere_AUX')	54	le hai	le	hai	le	avere	PRON	AUX	
-('casa_casa_NOUN', 'di_di_ADP')	54	casa di	casa	di	casa	di	NOUN	ADP	
-('per_per_ADP', 'le_il_DET')	54	per le	per	le	per	il	ADP	DET	
-('ha_avere_VERB', 'il_il_DET')	54	ha il	ha	il	avere	il	VERB	DET	
-('del_di_ADP', 'pane_pane_NOUN')	54	del pane	del	pane	di	pane	ADP	NOUN	
-('un_uno_DET', 'messaggio_messaggio_NOUN')	54	un messaggio	un	messaggio	uno	messaggio	DET	NOUN	
-('una_uno_DET', 'mela_mela_NOUN')	54	una mela	una	mela	uno	mela	DET	NOUN	
-('mai_mai_ADV', 'detto_dire_VERB')	54	mai detto	mai	detto	mai	dire	ADV	VERB	
-('ha_avere_AUX', 'cominciato_cominciare_VERB')	54	ha cominciato	ha	cominciato	avere	cominciare	AUX	VERB	
-('il_il_DET', 'computer_computer_NOUN')	54	il computer	il	computer	il	computer	DET	NOUN	
-('gli_il_DET', 'occhi_occhio_NOUN')	54	gli occhi	gli	occhi	il	occhio	DET	NOUN	
-('visto_vedere_VERB', 'la_il_DET')	54	visto la	visto	la	vedere	il	VERB	DET	
-('sta_stare_AUX', 'cercando_cercare_VERB')	54	sta cercando	sta	cercando	stare	cercare	AUX	VERB	
-('era_essere_AUX', 'a_a_ADP')	54		era	a	essere	a	AUX	ADP	
-('un_uno_DET', 'coltello_coltello_NOUN')	54	un coltello	un	coltello	uno	coltello	DET	NOUN	
-('lo_lo_PRON', 'ha_avere_AUX')	53	lo ha	lo	ha	lo	avere	PRON	AUX	
-('a_a_ADP', 'noi_noi_PRON')	53	a noi	a	noi	a	noi	ADP	PRON	
-('mi_mi_PRON', 'dissero_dire_VERB')	53	mi dissero	mi	dissero	mi	dire	PRON	VERB	
-('per_per_ADP', 'i_il_DET')	53		per	i	per	il	ADP	DET	
-('quel_quello_DET', 'libro_libro_NOUN')	53	quel libro	quel	libro	quello	libro	DET	NOUN	
-('da_da_ADP', 'lei_lei_PRON')	53	da lei	da	lei	da	lei	ADP	PRON	
-('cosa_cosa_PRON', 'ne_ne_PRON')	53	cosa ne	cosa	ne	cosa	ne	PRON	PRON	
-('la_il_DET', 'scatola_scatola_NOUN')	53	la scatola	la	scatola	il	scatola	DET	NOUN	
-"(""cos'_cosa_PRON"", 'è_essere_AUX')"	53	cos'è	cos'	è	cosa	essere	PRON	AUX	
-('gli_gli_PRON', 'piace_piacere_VERB')	52	gli piace	gli	piace	gli	piacere	PRON	VERB	
-('ha_avere_AUX', 'rubato_rubare_VERB')	52	ha rubato	ha	rubato	avere	rubare	AUX	VERB	
-('una_uno_DET', 'festa_festa_NOUN')	52	una festa	una	festa	uno	festa	DET	NOUN	
-('ho_avere_AUX', 'trovato_trovare_VERB')	52	ho trovato	ho	trovato	avere	trovare	AUX	VERB	
-('la_il_DET', 'carne_carne_NOUN')	52	la carne	la	carne	il	carne	DET	NOUN	
-('ha_avere_AUX', 'parlato_parlare_VERB')	52	ha parlato	ha	parlato	avere	parlare	AUX	VERB	
-('che_che_PRON', 'ne_ne_PRON')	52	che ne	che	ne	che	ne	PRON	PRON	
-('i_il_DET', 'fiori_fiore_NOUN')	52	i fiori	i	fiori	il	fiore	DET	NOUN	
-('sembrava_sembrare_VERB', 'essere_essere_AUX')	52	sembrava essere	sembrava	essere	sembrare	essere	VERB	AUX	
-('hai_avere_VERB', 'un_uno_DET')	52	hai un	hai	un	avere	uno	VERB	DET	
-('non_non_ADV', 'potete_potere_AUX')	52	non potete	non	potete	non	potere	ADV	AUX	
-('questa_questo_DET', 'frase_frase_NOUN')	52	questa frase	questa	frase	questo	frase	DET	NOUN	
-('il_il_DET', 'pranzo_pranzo_NOUN')	52	il pranzo	il	pranzo	il	pranzo	DET	NOUN	
-('tutto_tutto_DET', 'ciò_ciò_PRON')	52	tutto ciò	tutto	ciò	tutto	ciò	DET	PRON	
-('casa_casa_NOUN', 'è_essere_AUX')	52	casa è	casa	è	casa	essere	NOUN	AUX	
-('ancora_ancora_ADV', 'in_in_ADP')	52	ancora in	ancora	in	ancora	in	ADV	ADP	
-('avere_avere_VERB', 'un_uno_DET')	51	avere un	avere	un	avere	uno	VERB	DET	
-('fidare_fidare_VERB', 'di_di_ADP')	51	fidare di	fidare	di	fidare	di	VERB	ADP	
-('che_che_SCONJ', 'fare_fare_VERB')	51	che fare	che	fare	che	fare	SCONJ	VERB	
-('in_in_ADP', 'orario_orario_NOUN')	51	in orario	in	orario	in	orario	ADP	NOUN	
-('dica_dire_VERB', 'a_a_ADP')	51	dica	dica	a	dire	a	VERB	ADP	
-('loro_loro_PRON', 'di_di_ADP')	51		loro	di	loro	di	PRON	ADP	
-('del_di_ADP', 'tè_tè_NOUN')	51	del tè	del	tè	di	tè	ADP	NOUN	
-('per_per_ADP', 'cui_cui_PRON')	51	per cui	per	cui	per	cui	ADP	PRON	
-('dire_dire_VERB', 'a_a_ADP')	51		dire	a	dire	a	VERB	ADP	
-('a_a_ADP', 'dormire_dormire_VERB')	51	a dormire	a	dormire	a	dormire	ADP	VERB	
-('dovrebbe_dovere_AUX', 'essere_essere_AUX')	51	dovrebbe essere	dovrebbe	essere	dovere	essere	AUX	AUX	
-('bottiglia_bottiglia_NOUN', 'di_di_ADP')	51	bottiglia di	bottiglia	di	bottiglia	di	NOUN	ADP	
-('è_essere_AUX', 'facile_facile_ADJ')	51	è facile	è	facile	essere	facile	AUX	ADJ	
-('a_a_ADP', 'golf_golf_NOUN')	51	a a golf	a	golf	a	golf	ADP	NOUN	
-('però_però_ADV', 'non_non_ADV')	51	però non	però	non	però	non	ADV	ADV	
-"('io_io_PRON', ""l'_lo_PRON"")"	51	io l'	io	l'	io	lo	PRON	PRON	
-('una_uno_DET', 'birra_birra_NOUN')	51	una birra	una	birra	uno	birra	DET	NOUN	
-('è_essere_VERB', 'che_che_SCONJ')	51	è che	è	che	essere	che	VERB	SCONJ	
-('lo_lo_PRON', 'fa_fare_VERB')	51	lo fa	lo	fa	lo	fare	PRON	VERB	
-('il_il_DET', 'ragazzo_ragazzo_NOUN')	51	il ragazzo	il	ragazzo	il	ragazzo	DET	NOUN	
-('sua_suo_DET', 'auto_auto_NOUN')	51	sua auto	sua	auto	suo	auto	DET	NOUN	
-('lei_lei_PRON', 'sa_sapere_VERB')	51	lei sa	lei	sa	lei	sapere	PRON	VERB	
-('non_non_ADV', 'sei_essere_AUX')	51	non sei	non	sei	non	essere	ADV	AUX	
-('noi_noi_PRON', 'dobbiamo_dovere_AUX')	51	noi dobbiamo	noi	dobbiamo	noi	dovere	PRON	AUX	
-('libro_libro_NOUN', 'è_essere_AUX')	51	libro è	libro	è	libro	essere	NOUN	AUX	
-('ha_avere_AUX', 'cercato_cercare_VERB')	50	ha cercato	ha	cercato	avere	cercare	AUX	VERB	
-('qualcosa_qualcosa_PRON', 'per_per_ADP')	50	qualcosa per	qualcosa	per	qualcosa	per	PRON	ADP	
-('noi_noi_PRON', 'stiamo_stare_AUX')	50	noi stiamo	noi	stiamo	noi	stare	PRON	AUX	
-('in_in_ADP', 'quel_quello_DET')	50	in quel	in	quel	in	quello	ADP	DET	
-('dei_di_ADP', 'suoi_suo_DET')	50	dei suoi	dei	suoi	di	suo	ADP	DET	
-('va_andare_VERB', 'a_a_ADP')	50	va	va	a	andare	a	VERB	ADP	
-('studiare_studiare_VERB', 'il_il_DET')	50	studiare il	studiare	il	studiare	il	VERB	DET	
-"(""un'_uno_DET"", 'amica_amico_NOUN')"	50	un'amica	un'	amica	uno	amico	DET	NOUN	
-('molto_molto_ADV', 'più_più_ADV')	50	molto più	molto	più	molto	più	ADV	ADV	
-('da_da_ADP', 'qualche_qualche_DET')	50	da qualche	da	qualche	da	qualche	ADP	DET	
-('essere_essere_AUX', 'qui_qui_ADV')	50	essere qui	essere	qui	essere	qui	AUX	ADV	
-('sua_suo_DET', 'macchina_macchina_NOUN')	50	sua macchina	sua	macchina	suo	macchina	DET	NOUN	
-('lei_lei_PRON', 'era_essere_AUX')	50	lei era	lei	era	lei	essere	PRON	AUX	
-('in_in_ADP', 'inglese_inglese_NOUN')	50	in inglese	in	inglese	in	inglese	ADP	NOUN	
-('un_uno_DET', 'giorno_giorno_NOUN')	50	un giorno	un	giorno	uno	giorno	DET	NOUN	
-('dirlo_dire_VERB', 'a_a_ADP')	50	dirlo a	dirlo	a	dire	a	VERB	ADP	
-('mi_mi_PRON', 'piacciono_piacere_VERB')	50	mi piacciono	mi	piacciono	mi	piacere	PRON	VERB	
-('non_non_ADV', 'hanno_avere_AUX')	50	non hanno	non	hanno	non	avere	ADV	AUX	
-('le_il_DET', 'vostre_vostro_DET')	50	le vostre	le	vostre	il	vostro	DET	DET	
-('vuole_volere_AUX', 'andare_andare_VERB')	50	vuole andare	vuole	andare	volere	andare	AUX	VERB	
-('una_uno_DET', 'ragazza_ragazzo_NOUN')	50	una ragazza	una	ragazza	uno	ragazzo	DET	NOUN	
-('credo_credere_VERB', 'che_che_SCONJ')	49	credo che	credo	che	credere	che	VERB	SCONJ	
-('noi_noi_PRON', 'ci_ci_PRON')	49	noi ci	noi	ci	noi	ci	PRON	PRON	
-('ha_avere_AUX', 'iniziato_iniziare_VERB')	49	ha iniziato	ha	iniziato	avere	iniziare	AUX	VERB	
-('mio_mio_DET', 'amico_amico_NOUN')	49	mio amico	mio	amico	mio	amico	DET	NOUN	
-"('cosa_cosa_PRON', ""c'_ci_PRON"")"	49	cosa c'	cosa	c'	cosa	ci	PRON	PRON	
-('un_uno_DET', 'taxi_taxi_NOUN')	49	un taxi	un	taxi	uno	taxi	DET	NOUN	
-('pensava_pensare_VERB', 'che_che_SCONJ')	49	pensava che	pensava	che	pensare	che	VERB	SCONJ	
+('da_da_ADP', 'qui_qui_ADV')	55	da qui	da	qui	da	qui	ADP	ADV	from here
+('in_in_ADP', 'cui_cui_PRON')	55	in cui	in	cui	in	cui	ADP	PRON	in which
+('non_non_ADV', 'va_andare_VERB')	55	non va	non	va	non	andare	ADV	VERB	does not go
+('di_di_ADP', 'quello_quello_PRON')	55	di quello	di	quello	di	quello	ADP	PRON	of that
+('la_il_DET', 'chitarra_chitarra_NOUN')	54	la chitarra	la	chitarra	il	chitarra	DET	NOUN	the guitar
+('disse_dire_VERB', 'a_a_ADP')	54		disse	a	dire	a	VERB	ADP	said to
+('che_che_SCONJ', 'ha_avere_AUX')	54	che ha	che	ha	che	avere	SCONJ	AUX	that has
+('le_le_PRON', 'hai_avere_AUX')	54	le hai	le	hai	le	avere	PRON	AUX	you have them
+('casa_casa_NOUN', 'di_di_ADP')	54	casa di	casa	di	casa	di	NOUN	ADP	house of
+('per_per_ADP', 'le_il_DET')	54	per le	per	le	per	il	ADP	DET	for the (feminine plural)
+('ha_avere_VERB', 'il_il_DET')	54	ha il	ha	il	avere	il	VERB	DET	has the
+('del_di_ADP', 'pane_pane_NOUN')	54	del pane	del	pane	di	pane	ADP	NOUN	some bread
+('un_uno_DET', 'messaggio_messaggio_NOUN')	54	un messaggio	un	messaggio	uno	messaggio	DET	NOUN	a message
+('una_uno_DET', 'mela_mela_NOUN')	54	una mela	una	mela	uno	mela	DET	NOUN	an apple
+('mai_mai_ADV', 'detto_dire_VERB')	54	mai detto	mai	detto	mai	dire	ADV	VERB	ever said
+('ha_avere_AUX', 'cominciato_cominciare_VERB')	54	ha cominciato	ha	cominciato	avere	cominciare	AUX	VERB	has started
+('il_il_DET', 'computer_computer_NOUN')	54	il computer	il	computer	il	computer	DET	NOUN	the computer
+('gli_il_DET', 'occhi_occhio_NOUN')	54	gli occhi	gli	occhi	il	occhio	DET	NOUN	the eyes
+('visto_vedere_VERB', 'la_il_DET')	54	visto la	visto	la	vedere	il	VERB	DET	seen the (feminine)
+('sta_stare_AUX', 'cercando_cercare_VERB')	54	sta cercando	sta	cercando	stare	cercare	AUX	VERB	is looking for
+('era_essere_AUX', 'a_a_ADP')	54		era	a	essere	a	AUX	ADP	was at
+('un_uno_DET', 'coltello_coltello_NOUN')	54	un coltello	un	coltello	uno	coltello	DET	NOUN	a knife
+('lo_lo_PRON', 'ha_avere_AUX')	53	lo ha	lo	ha	lo	avere	PRON	AUX	has him; has it
+('a_a_ADP', 'noi_noi_PRON')	53	a noi	a	noi	a	noi	ADP	PRON	to us
+('mi_mi_PRON', 'dissero_dire_VERB')	53	mi dissero	mi	dissero	mi	dire	PRON	VERB	they told me
+('per_per_ADP', 'i_il_DET')	53		per	i	per	il	ADP	DET	for the (masculine plural)
+('quel_quello_DET', 'libro_libro_NOUN')	53	quel libro	quel	libro	quello	libro	DET	NOUN	that book
+('da_da_ADP', 'lei_lei_PRON')	53	da lei	da	lei	da	lei	ADP	PRON	from her
+('cosa_cosa_PRON', 'ne_ne_PRON')	53	cosa ne	cosa	ne	cosa	ne	PRON	PRON	what about it
+('la_il_DET', 'scatola_scatola_NOUN')	53	la scatola	la	scatola	il	scatola	DET	NOUN	the box
+"(""cos'_cosa_PRON"", 'è_essere_AUX')"	53	cos'è	cos'	è	cosa	essere	PRON	AUX	what is it
+('gli_gli_PRON', 'piace_piacere_VERB')	52	gli piace	gli	piace	gli	piacere	PRON	VERB	he likes it
+('ha_avere_AUX', 'rubato_rubare_VERB')	52	ha rubato	ha	rubato	avere	rubare	AUX	VERB	has stolen
+('una_uno_DET', 'festa_festa_NOUN')	52	una festa	una	festa	uno	festa	DET	NOUN	a party
+('ho_avere_AUX', 'trovato_trovare_VERB')	52	ho trovato	ho	trovato	avere	trovare	AUX	VERB	I found
+('la_il_DET', 'carne_carne_NOUN')	52	la carne	la	carne	il	carne	DET	NOUN	the meat
+('ha_avere_AUX', 'parlato_parlare_VERB')	52	ha parlato	ha	parlato	avere	parlare	AUX	VERB	has spoken
+('che_che_PRON', 'ne_ne_PRON')	52	che ne	che	ne	che	ne	PRON	PRON	what about it
+('i_il_DET', 'fiori_fiore_NOUN')	52	i fiori	i	fiori	il	fiore	DET	NOUN	the flowers
+('sembrava_sembrare_VERB', 'essere_essere_AUX')	52	sembrava essere	sembrava	essere	sembrare	essere	VERB	AUX	seemed to be
+('hai_avere_VERB', 'un_uno_DET')	52	hai un	hai	un	avere	uno	VERB	DET	you have a
+('non_non_ADV', 'potete_potere_AUX')	52	non potete	non	potete	non	potere	ADV	AUX	you (plural) cannot
+('questa_questo_DET', 'frase_frase_NOUN')	52	questa frase	questa	frase	questo	frase	DET	NOUN	this sentence
+('il_il_DET', 'pranzo_pranzo_NOUN')	52	il pranzo	il	pranzo	il	pranzo	DET	NOUN	the lunch
+('tutto_tutto_DET', 'ciò_ciò_PRON')	52	tutto ciò	tutto	ciò	tutto	ciò	DET	PRON	all that
+('casa_casa_NOUN', 'è_essere_AUX')	52	casa è	casa	è	casa	essere	NOUN	AUX	the house is
+('ancora_ancora_ADV', 'in_in_ADP')	52	ancora in	ancora	in	ancora	in	ADV	ADP	still in
+('avere_avere_VERB', 'un_uno_DET')	51	avere un	avere	un	avere	uno	VERB	DET	to have a
+('fidare_fidare_VERB', 'di_di_ADP')	51	fidare di	fidare	di	fidare	di	VERB	ADP	to trust
+('che_che_SCONJ', 'fare_fare_VERB')	51	che fare	che	fare	che	fare	SCONJ	VERB	what to do
+('in_in_ADP', 'orario_orario_NOUN')	51	in orario	in	orario	in	orario	ADP	NOUN	on time
+('dica_dire_VERB', 'a_a_ADP')	51	dica	dica	a	dire	a	VERB	ADP	tell (formal)
+('loro_loro_PRON', 'di_di_ADP')	51		loro	di	loro	di	PRON	ADP	they from
+('del_di_ADP', 'tè_tè_NOUN')	51	del tè	del	tè	di	tè	ADP	NOUN	some tea
+('per_per_ADP', 'cui_cui_PRON')	51	per cui	per	cui	per	cui	ADP	PRON	for which
+('dire_dire_VERB', 'a_a_ADP')	51		dire	a	dire	a	VERB	ADP	to tell
+('a_a_ADP', 'dormire_dormire_VERB')	51	a dormire	a	dormire	a	dormire	ADP	VERB	to sleep
+('dovrebbe_dovere_AUX', 'essere_essere_AUX')	51	dovrebbe essere	dovrebbe	essere	dovere	essere	AUX	AUX	should be
+('bottiglia_bottiglia_NOUN', 'di_di_ADP')	51	bottiglia di	bottiglia	di	bottiglia	di	NOUN	ADP	bottle of
+('è_essere_AUX', 'facile_facile_ADJ')	51	è facile	è	facile	essere	facile	AUX	ADJ	is easy
+('a_a_ADP', 'golf_golf_NOUN')	51	a a golf	a	golf	a	golf	ADP	NOUN	at golf
+('però_però_ADV', 'non_non_ADV')	51	però non	però	non	però	non	ADV	ADV	but not
+"('io_io_PRON', ""l'_lo_PRON"")"	51	io l'	io	l'	io	lo	PRON	PRON	I him; I it (before a vowel)
+('una_uno_DET', 'birra_birra_NOUN')	51	una birra	una	birra	uno	birra	DET	NOUN	a beer
+('è_essere_VERB', 'che_che_SCONJ')	51	è che	è	che	essere	che	VERB	SCONJ	it is that
+('lo_lo_PRON', 'fa_fare_VERB')	51	lo fa	lo	fa	lo	fare	PRON	VERB	does it
+('il_il_DET', 'ragazzo_ragazzo_NOUN')	51	il ragazzo	il	ragazzo	il	ragazzo	DET	NOUN	the boy
+('sua_suo_DET', 'auto_auto_NOUN')	51	sua auto	sua	auto	suo	auto	DET	NOUN	his car; her car
+('lei_lei_PRON', 'sa_sapere_VERB')	51	lei sa	lei	sa	lei	sapere	PRON	VERB	she knows
+('non_non_ADV', 'sei_essere_AUX')	51	non sei	non	sei	non	essere	ADV	AUX	you are not
+('noi_noi_PRON', 'dobbiamo_dovere_AUX')	51	noi dobbiamo	noi	dobbiamo	noi	dovere	PRON	AUX	we must
+('libro_libro_NOUN', 'è_essere_AUX')	51	libro è	libro	è	libro	essere	NOUN	AUX	the book is
+('ha_avere_AUX', 'cercato_cercare_VERB')	50	ha cercato	ha	cercato	avere	cercare	AUX	VERB	has looked for
+('qualcosa_qualcosa_PRON', 'per_per_ADP')	50	qualcosa per	qualcosa	per	qualcosa	per	PRON	ADP	something for
+('noi_noi_PRON', 'stiamo_stare_AUX')	50	noi stiamo	noi	stiamo	noi	stare	PRON	AUX	we are
+('in_in_ADP', 'quel_quello_DET')	50	in quel	in	quel	in	quello	ADP	DET	in that (masculine)
+('dei_di_ADP', 'suoi_suo_DET')	50	dei suoi	dei	suoi	di	suo	ADP	DET	of his (masculine plural); of hers (masculine plural)
+('va_andare_VERB', 'a_a_ADP')	50	va	va	a	andare	a	VERB	ADP	goes
+('studiare_studiare_VERB', 'il_il_DET')	50	studiare il	studiare	il	studiare	il	VERB	DET	to study the
+"(""un'_uno_DET"", 'amica_amico_NOUN')"	50	un'amica	un'	amica	uno	amico	DET	NOUN	a friend (feminine; before a vowel)
+('molto_molto_ADV', 'più_più_ADV')	50	molto più	molto	più	molto	più	ADV	ADV	much more
+('da_da_ADP', 'qualche_qualche_DET')	50	da qualche	da	qualche	da	qualche	ADP	DET	from some
+('essere_essere_AUX', 'qui_qui_ADV')	50	essere qui	essere	qui	essere	qui	AUX	ADV	to be here
+('sua_suo_DET', 'macchina_macchina_NOUN')	50	sua macchina	sua	macchina	suo	macchina	DET	NOUN	his car; her car
+('lei_lei_PRON', 'era_essere_AUX')	50	lei era	lei	era	lei	essere	PRON	AUX	she was
+('in_in_ADP', 'inglese_inglese_NOUN')	50	in inglese	in	inglese	in	inglese	ADP	NOUN	in English
+('un_uno_DET', 'giorno_giorno_NOUN')	50	un giorno	un	giorno	uno	giorno	DET	NOUN	one day
+('dirlo_dire_VERB', 'a_a_ADP')	50	dirlo a	dirlo	a	dire	a	VERB	ADP	to tell it to
+('mi_mi_PRON', 'piacciono_piacere_VERB')	50	mi piacciono	mi	piacciono	mi	piacere	PRON	VERB	I like them
+('non_non_ADV', 'hanno_avere_AUX')	50	non hanno	non	hanno	non	avere	ADV	AUX	they do not have
+('le_il_DET', 'vostre_vostro_DET')	50	le vostre	le	vostre	il	vostro	DET	DET	your (you (plural); feminine plural)
+('vuole_volere_AUX', 'andare_andare_VERB')	50	vuole andare	vuole	andare	volere	andare	AUX	VERB	wants to go
+('una_uno_DET', 'ragazza_ragazzo_NOUN')	50	una ragazza	una	ragazza	uno	ragazzo	DET	NOUN	a girl
+('credo_credere_VERB', 'che_che_SCONJ')	49	credo che	credo	che	credere	che	VERB	SCONJ	I believe that
+('noi_noi_PRON', 'ci_ci_PRON')	49	noi ci	noi	ci	noi	ci	PRON	PRON	we ourselves
+('ha_avere_AUX', 'iniziato_iniziare_VERB')	49	ha iniziato	ha	iniziato	avere	iniziare	AUX	VERB	has begun
+('mio_mio_DET', 'amico_amico_NOUN')	49	mio amico	mio	amico	mio	amico	DET	NOUN	my friend (masculine)
+"('cosa_cosa_PRON', ""c'_ci_PRON"")"	49	cosa c'	cosa	c'	cosa	ci	PRON	PRON	what is there (before a vowel)
+('un_uno_DET', 'taxi_taxi_NOUN')	49	un taxi	un	taxi	uno	taxi	DET	NOUN	a taxi
+('pensava_pensare_VERB', 'che_che_SCONJ')	49	pensava che	pensava	che	pensare	che	VERB	SCONJ	thought that
