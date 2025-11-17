@@ -1,101 +1,101 @@
 gram3_key	count	substr	term_1	term_2	term_3	lemma_1	lemma_2	lemma_3	pos_1	pos_2	pos_3	translation_en
-('che_che_SCONJ', 'questa_questo_PRON', 'sia_essere_AUX')	8	che questa sia	che	questa	sia	che	questo	essere	SCONJ	PRON	AUX	
-('si_si_PRON', 'aspetta_aspettare_VERB', 'che_che_SCONJ')	8	si aspetta che	si	aspetta	che	si	aspettare	che	PRON	VERB	SCONJ	
-('un_uno_DET', 'buon_buono_ADJ', 'lavoro_lavoro_NOUN')	8	un buon lavoro	un	buon	lavoro	uno	buono	lavoro	DET	ADJ	NOUN	
-('è_essere_AUX', 'ancora_ancora_ADV', 'nella_in_ADP')	8	è ancora nella	è	ancora	nella	essere	ancora	in	AUX	ADV	ADP	
-('voi_voi_PRON', 'mi_mi_PRON', 'avete_avere_AUX')	8	voi mi avete	voi	mi	avete	voi	mi	avere	PRON	PRON	AUX	
-('ha_avere_AUX', 'aperto_aprire_VERB', 'il_il_DET')	8	ha aperto il	ha	aperto	il	avere	aprire	il	AUX	VERB	DET	
-('per_per_ADP', 'cui_cui_PRON', 'non_non_ADV')	8	per cui non	per	cui	non	per	cui	non	ADP	PRON	ADV	
-('grazie_grazie_INTJ', 'di_di_ADP', 'essere_essere_AUX')	8	grazie di essere	grazie	di	essere	grazie	di	essere	INTJ	ADP	AUX	
-('i_il_DET', 'tuoi_tuo_DET', 'compiti_compito_NOUN')	8	i i tuoi compiti	i	tuoi	compiti	il	tuo	compito	DET	DET	NOUN	
-('mai_mai_ADV', 'giocato_giocare_VERB', 'a_a_ADP')	8		mai	giocato	a	mai	giocare	a	ADV	VERB	ADP	
-('al_a_ADP', 'lavoro_lavoro_NOUN', 'in_in_ADP')	8	al lavoro in	al	lavoro	in	a	lavoro	in	ADP	NOUN	ADP	
-('ha_avere_AUX', 'dato_dare_VERB', 'del_di_ADP')	8	ha dato del	ha	dato	del	avere	dare	di	AUX	VERB	ADP	
-('piaceva_piacere_VERB', 'il_il_DET', 'suo_suo_DET')	8	piaceva il suo	piaceva	il	suo	piacere	il	suo	VERB	DET	DET	
-('a_a_ADP', 'me_me_PRON', 'manca_mancare_VERB')	8	a me manca	a	me	manca	a	me	mancare	ADP	PRON	VERB	
-"(""di'_dire_ADP"", 'loro_loro_PRON', 'di_di_ADP')"	8	di	di'	loro	di	dire	loro	di	ADP	PRON	ADP	
-('è_essere_AUX', 'venuto_venire_VERB', 'alla_a_ADP')	8	è venuto alla	è	venuto	alla	essere	venire	a	AUX	VERB	ADP	
-('venuto_venire_VERB', 'alla_a_ADP', 'festa_festa_NOUN')	8	venuto alla festa	venuto	alla	festa	venire	a	festa	VERB	ADP	NOUN	
-('sta_stare_AUX', 'suonando_suonare_VERB', 'il_il_DET')	8	sta suonando il	sta	suonando	il	stare	suonare	il	AUX	VERB	DET	
-('è_essere_AUX', 'morta_morire_VERB', 'nel_in_ADP')	8	è morta nel	è	morta	nel	essere	morire	in	AUX	VERB	ADP	
-('mi_mi_PRON', 'ha_avere_AUX', 'appena_appena_ADV')	8	mi ha appena	mi	ha	appena	mi	avere	appena	PRON	AUX	ADV	
-('aveva_avere_VERB', 'un_uno_DET', 'coltello_coltello_NOUN')	8	aveva un coltello	aveva	un	coltello	avere	uno	coltello	VERB	DET	NOUN	
-('chiudere_chiudere_VERB', 'a_a_ADP', 'chiave_chiave_NOUN')	8	chiudere a chiave	chiudere	a	chiave	chiudere	a	chiave	VERB	ADP	NOUN	
-('detto_dire_VERB', 'che_che_SCONJ', 'stavo_essere_AUX')	8	detto che stavo	detto	che	stavo	dire	che	essere	VERB	SCONJ	AUX	
-('a_a_ADP', 'spasso_spasso_NOUN', 'i_il_DET')	8	ava a spasso i	a	spasso	i	a	spasso	il	ADP	NOUN	DET	
-('non_non_ADV', 'è_essere_AUX', 'difficile_difficile_ADJ')	8	non è difficile	non	è	difficile	non	essere	difficile	ADV	AUX	ADJ	
-"(""un'_uno_DET"", 'altra_altro_ADJ', 'tazza_tazza_NOUN')"	8	un'altra tazza	un'	altra	tazza	uno	altro	tazza	DET	ADJ	NOUN	
-('le_il_DET', 'sue_suo_DET', 'mani_mano_NOUN')	8	le sue mani	le	sue	mani	il	suo	mano	DET	DET	NOUN	
-('il_il_DET', 'libro_libro_NOUN', 'che_che_PRON')	8	il libro che	il	libro	che	il	libro	che	DET	NOUN	PRON	
-('che_che_SCONJ', 'era_essere_AUX', 'pronta_pronto_ADJ')	8	che era pronta	che	era	pronta	che	essere	pronto	SCONJ	AUX	ADJ	
-('a_a_ADP', 'tutti_tutto_DET', 'i_il_DET')	8		a	tutti	i	a	tutto	il	ADP	DET	DET	
-('dovete_dovere_AUX', 'essere_essere_AUX', 'molto_molto_ADV')	8	dovete essere molto	dovete	essere	molto	dovere	essere	molto	AUX	AUX	ADV	
-('abbiamo_avere_AUX', 'giocato_giocare_VERB', 'a_a_ADP')	8	a	abbiamo	giocato	a	avere	giocare	a	AUX	VERB	ADP	
-('è_essere_AUX', 'importante_importante_ADJ', 'per_per_ADP')	8	è importante per	è	importante	per	essere	importante	per	AUX	ADJ	ADP	
-('è_essere_AUX', 'andata_andare_VERB', 'al_a_ADP')	8	è andata al	è	andata	al	essere	andare	a	AUX	VERB	ADP	
-('sono_essere_AUX', 'in_in_ADP', 'ritardo_ritardo_NOUN')	8	sono in ritardo	sono	in	ritardo	essere	in	ritardo	AUX	ADP	NOUN	
-('lei_lei_PRON', 'non_non_ADV', 'si_si_PRON')	8	lei non si	lei	non	si	lei	non	si	PRON	ADV	PRON	
-('qualunque_qualunque_DET', 'cosa_cosa_NOUN', 'per_per_ADP')	8	qualunque cosa per	qualunque	cosa	per	qualunque	cosa	per	DET	NOUN	ADP	
-('gli_il_DET', 'occhi_occhio_NOUN', 'di_di_ADP')	8	gli occhi di	gli	occhi	di	il	occhio	di	DET	NOUN	ADP	
-('in_in_ADP', 'prestito_prestito_NOUN', 'il_il_DET')	8	in prestito il	in	prestito	il	in	prestito	il	ADP	NOUN	DET	
-('in_in_ADP', 'questo_questo_DET', 'ristorante_ristorante_NOUN')	8	in questo ristorante	in	questo	ristorante	in	questo	ristorante	ADP	DET	NOUN	
-('lo_lo_PRON', 'sai_sapere_VERB', 'che_che_SCONJ')	8	lo sai che	lo	sai	che	lo	sapere	che	PRON	VERB	SCONJ	
-('vorrei_volere_VERB', 'che_che_SCONJ', 'tu_tu_PRON')	8	vorrei che tu	vorrei	che	tu	volere	che	tu	VERB	SCONJ	PRON	
-('di_di_ADP', 'comprare_comprare_VERB', 'il_il_DET')	8	di comprare il	di	comprare	il	di	comprare	il	ADP	VERB	DET	
-('trovato_trovare_VERB', 'le_il_DET', 'sue_suo_DET')	8	trovato le sue	trovato	le	sue	trovare	il	suo	VERB	DET	DET	
-('sono_essere_AUX', 'interessata_interessato_ADJ', 'alla_a_ADP')	8	sono interessata alla	sono	interessata	alla	essere	interessato	a	AUX	ADJ	ADP	
-('non_non_ADV', 'può_potere_AUX', 'fare_fare_VERB')	8	non può fare	non	può	fare	non	potere	fare	ADV	AUX	VERB	
-('fatto_fare_VERB', 'qualcosa_qualcosa_PRON', 'di_di_ADP')	8	fatto qualcosa di	fatto	qualcosa	di	fare	qualcosa	di	VERB	PRON	ADP	
-('dei_di_ADP', 'problemi_problema_NOUN', 'a_a_ADP')	8		dei	problemi	a	di	problema	a	ADP	NOUN	ADP	
-('non_non_ADV', 'riusciamo_riuscire_VERB', 'a_a_ADP')	8	non riuscia	non	riusciamo	a	non	riuscire	a	ADV	VERB	ADP	
-('che_che_DET', 'cosa_cosa_PRON', 'vi_vi_PRON')	8	che cosa vi	che	cosa	vi	che	cosa	vi	DET	PRON	PRON	
-('accanto_accanto_ADV', 'a_a_ADP', 'me_me_PRON')	8	accanto a me	accanto	a	me	accanto	a	me	ADV	ADP	PRON	
-('che_che_SCONJ', 'voleva_volere_VERB', 'un_uno_DET')	8	che voleva un	che	voleva	un	che	volere	uno	SCONJ	VERB	DET	
-"('olio_olio_NOUN', ""d'_di_ADP"", 'oliva_oliva_NOUN')"	8	olio d'oliva	olio	d'	oliva	olio	di	oliva	NOUN	ADP	NOUN	
-('non_non_ADV', 'essere_essere_AUX', 'in_in_ADP')	8	non essere in	non	essere	in	non	essere	in	ADV	AUX	ADP	
-('spero_sperare_VERB', 'che_che_SCONJ', 'lei_lei_PRON')	8	spero che lei	spero	che	lei	sperare	che	lei	VERB	SCONJ	PRON	
-('parlare_parlare_VERB', 'di_di_ADP', 'lui_lui_PRON')	8	parlare di lui	parlare	di	lui	parlare	di	lui	VERB	ADP	PRON	
-('la_il_DET', 'sua_suo_DET', 'birra_birra_NOUN')	8	la sua birra	la	sua	birra	il	suo	birra	DET	DET	NOUN	
-('di_di_ADP', 'avere_avere_VERB', 'una_uno_DET')	8	di avere una	di	avere	una	di	avere	uno	ADP	VERB	DET	
-('mi_mi_PRON', 'piace_piacere_VERB', 'questa_questo_DET')	8	mi piace questa	mi	piace	questa	mi	piacere	questo	PRON	VERB	DET	
-('le_le_PRON', 'ho_avere_AUX', 'mai_mai_ADV')	8	le ho mai	le	ho	mai	le	avere	mai	PRON	AUX	ADV	
-('il_il_DET', 'riso_riso_NOUN', 'è_essere_AUX')	8	il riso è	il	riso	è	il	riso	essere	DET	NOUN	AUX	
-"('è_essere_AUX', 'stata_essere_AUX', ""l'_il_DET"")"	8	è stata l'	è	stata	l'	essere	essere	il	AUX	AUX	DET	
-('lui_lui_PRON', 'è_essere_AUX', 'uno_uno_DET')	8	lui è uno	lui	è	uno	lui	essere	uno	PRON	AUX	DET	
-('ha_avere_AUX', 'venduto_vendere_VERB', 'la_il_DET')	8	ha venduto la	ha	venduto	la	avere	vendere	il	AUX	VERB	DET	
-('comprato_comprare_VERB', 'un_uno_DET', 'libro_libro_NOUN')	8	comprato un libro	comprato	un	libro	comprare	uno	libro	VERB	DET	NOUN	
-('troppo_troppo_ADV', 'anziano_anziano_ADJ', 'per_per_ADP')	8	troppo anziano per	troppo	anziano	per	troppo	anziano	per	ADV	ADJ	ADP	
-('ho_avere_AUX', 'sempre_sempre_ADV', 'voluto_volere_AUX')	8	ho sempre voluto	ho	sempre	voluto	avere	sempre	volere	AUX	ADV	AUX	
-('bisogno_bisogno_NOUN', 'di_di_ADP', 'spazio_spazio_NOUN')	8	bisogno di spazio	bisogno	di	spazio	bisogno	di	spazio	NOUN	ADP	NOUN	
-('è_essere_AUX', 'venuto_venire_VERB', 'in_in_ADP')	8	è venuto in	è	venuto	in	essere	venire	in	AUX	VERB	ADP	
-('non_non_ADV', 'voleva_volere_AUX', 'essere_essere_AUX')	8	non voleva essere	non	voleva	essere	non	volere	essere	ADV	AUX	AUX	
-('dovrebbe_dovere_AUX', 'parlare_parlare_VERB', 'con_con_ADP')	8	dovrebbe parlare con	dovrebbe	parlare	con	dovere	parlare	con	AUX	VERB	ADP	
-('ha_avere_AUX', 'mangiato_mangiare_VERB', 'un_uno_DET')	8	ha mangiato un	ha	mangiato	un	avere	mangiare	uno	AUX	VERB	DET	
-('tu_tu_PRON', 'devi_dovere_AUX', 'essere_essere_AUX')	8	tu devi essere	tu	devi	essere	tu	dovere	essere	PRON	AUX	AUX	
-('da_da_ADP', 'sola_solo_ADJ', 'con_con_ADP')	8	da sola con	da	sola	con	da	solo	con	ADP	ADJ	ADP	
-('più_più_ADV', 'alto_alto_ADJ', 'di_di_ADP')	8	più alto di	più	alto	di	più	alto	di	ADV	ADJ	ADP	
-('ha_avere_AUX', 'dato_dare_VERB', 'la_il_DET')	8	ha dato la	ha	dato	la	avere	dare	il	AUX	VERB	DET	
-('il_il_DET', 'problema_problema_NOUN', 'è_essere_VERB')	8	il problema è	il	problema	è	il	problema	essere	DET	NOUN	VERB	
-('non_non_ADV', 'lo_lo_PRON', 'sto_essere_AUX')	8	non lo sto	non	lo	sto	non	lo	essere	ADV	PRON	AUX	
-('non_non_ADV', 'sarà_essere_AUX', 'a_a_ADP')	8	non sa	non	sarà	a	non	essere	a	ADV	AUX	ADP	
-('fidare_fidare_VERB', 'di_di_ADP', 'lei_lei_PRON')	8	fidare di lei	fidare	di	lei	fidare	di	lei	VERB	ADP	PRON	
-('il_il_DET', 'suo_suo_DET', 'errore_errore_NOUN')	8	il suo errore	il	suo	errore	il	suo	errore	DET	DET	NOUN	
-"(""cos'_cosa_PRON"", 'ha_avere_AUX', 'fatto_fare_VERB')"	8	cos'ha fatto	cos'	ha	fatto	cosa	avere	fare	PRON	AUX	VERB	
-('voleva_volere_VERB', 'che_che_SCONJ', 'lo_lo_PRON')	8	voleva che lo	voleva	che	lo	volere	che	lo	VERB	SCONJ	PRON	
-('è_essere_AUX', 'in_in_ADP', 'servizio_servizio_NOUN')	8	è in servizio	è	in	servizio	essere	in	servizio	AUX	ADP	NOUN	
-('per_per_ADP', 'la_il_DET', 'cena_cena_NOUN')	8	per la cena	per	la	cena	per	il	cena	ADP	DET	NOUN	
-('deve_dovere_AUX', 'parlare_parlare_VERB', 'con_con_ADP')	8	deve parlare con	deve	parlare	con	dovere	parlare	con	AUX	VERB	ADP	
-('fatto_fare_VERB', 'tutto_tutto_DET', 'quello_quello_PRON')	8	fatto tutto quello	fatto	tutto	quello	fare	tutto	quello	VERB	DET	PRON	
-('di_di_ADP', 'quel_quello_PRON', 'che_che_PRON')	8	di quel che	di	quel	che	di	quello	che	ADP	PRON	PRON	
-('hai_avere_VERB', 'qualcosa_qualcosa_PRON', 'da_da_ADP')	8	hai qualcosa da	hai	qualcosa	da	avere	qualcosa	da	VERB	PRON	ADP	
-('a_a_ADP', 'pensare_pensare_VERB', 'a_a_ADP')	8	a	a	pensare	a	a	pensare	a	ADP	VERB	ADP	
-('per_per_ADP', 'una_uno_DET', 'settimana_settimana_NOUN')	8	per una settimana	per	una	settimana	per	uno	settimana	ADP	DET	NOUN	
-('che_che_SCONJ', 'gli_gli_PRON', 'piace_piacere_VERB')	8	che gli piace	che	gli	piace	che	gli	piacere	SCONJ	PRON	VERB	
-('che_che_PRON', 'avete_avere_AUX', 'fatto_fare_VERB')	8	che avete fatto	che	avete	fatto	che	avere	fare	PRON	AUX	VERB	
-('fetta_fetta_NOUN', 'di_di_ADP', 'pizza_pizza_NOUN')	8	fetta di pizza	fetta	di	pizza	fetta	di	pizza	NOUN	ADP	NOUN	
-('io_io_PRON', 'non_non_ADV', 'pensavo_pensare_VERB')	8	io non pensavo	io	non	pensavo	io	non	pensare	PRON	ADV	VERB	
-('pensavo_pensare_VERB', 'di_di_ADP', 'essere_essere_AUX')	8	pensavo di essere	pensavo	di	essere	pensare	di	essere	VERB	ADP	AUX	
-('faremmo_fare_VERB', 'meglio_meglio_ADV', 'ad_a_ADP')	8	faremmo meglio ad	faremmo	meglio	ad	fare	meglio	a	VERB	ADV	ADP	
-('ho_avere_AUX', 'mai_mai_ADV', 'viste_vedere_VERB')	8	ho mai viste	ho	mai	viste	avere	mai	vedere	AUX	ADV	VERB	
-('penso_pensare_VERB', 'che_che_SCONJ', 'dovresti_dovere_AUX')	8	penso che dovresti	penso	che	dovresti	pensare	che	dovere	VERB	SCONJ	AUX	
-('di_di_ADP', 'aver_avere_AUX', 'visto_vedere_VERB')	8	di aver visto	di	aver	visto	di	avere	vedere	ADP	AUX	VERB	
+('che_che_SCONJ', 'questa_questo_PRON', 'sia_essere_AUX')	8	che questa sia	che	questa	sia	che	questo	essere	SCONJ	PRON	AUX	that this is
+('si_si_PRON', 'aspetta_aspettare_VERB', 'che_che_SCONJ')	8	si aspetta che	si	aspetta	che	si	aspettare	che	PRON	VERB	SCONJ	expects that
+('un_uno_DET', 'buon_buono_ADJ', 'lavoro_lavoro_NOUN')	8	un buon lavoro	un	buon	lavoro	uno	buono	lavoro	DET	ADJ	NOUN	a good job
+('è_essere_AUX', 'ancora_ancora_ADV', 'nella_in_ADP')	8	è ancora nella	è	ancora	nella	essere	ancora	in	AUX	ADV	ADP	is still in the
+('voi_voi_PRON', 'mi_mi_PRON', 'avete_avere_AUX')	8	voi mi avete	voi	mi	avete	voi	mi	avere	PRON	PRON	AUX	you (plural) have me
+('ha_avere_AUX', 'aperto_aprire_VERB', 'il_il_DET')	8	ha aperto il	ha	aperto	il	avere	aprire	il	AUX	VERB	DET	has opened the
+('per_per_ADP', 'cui_cui_PRON', 'non_non_ADV')	8	per cui non	per	cui	non	per	cui	non	ADP	PRON	ADV	for which not
+('grazie_grazie_INTJ', 'di_di_ADP', 'essere_essere_AUX')	8	grazie di essere	grazie	di	essere	grazie	di	essere	INTJ	ADP	AUX	thanks for being
+('i_il_DET', 'tuoi_tuo_DET', 'compiti_compito_NOUN')	8	i i tuoi compiti	i	tuoi	compiti	il	tuo	compito	DET	DET	NOUN	your (masculine plural) homework
+('mai_mai_ADV', 'giocato_giocare_VERB', 'a_a_ADP')	8		mai	giocato	a	mai	giocare	a	ADV	VERB	ADP	never played
+('al_a_ADP', 'lavoro_lavoro_NOUN', 'in_in_ADP')	8	al lavoro in	al	lavoro	in	a	lavoro	in	ADP	NOUN	ADP	at work in
+('ha_avere_AUX', 'dato_dare_VERB', 'del_di_ADP')	8	ha dato del	ha	dato	del	avere	dare	di	AUX	VERB	ADP	has given some
+('piaceva_piacere_VERB', 'il_il_DET', 'suo_suo_DET')	8	piaceva il suo	piaceva	il	suo	piacere	il	suo	VERB	DET	DET	liked his/her (masculine singular)
+('a_a_ADP', 'me_me_PRON', 'manca_mancare_VERB')	8	a me manca	a	me	manca	a	me	mancare	ADP	PRON	VERB	i miss
+"(""di'_dire_ADP"", 'loro_loro_PRON', 'di_di_ADP')"	8	di	di'	loro	di	dire	loro	di	ADP	PRON	ADP	tell them to
+('è_essere_AUX', 'venuto_venire_VERB', 'alla_a_ADP')	8	è venuto alla	è	venuto	alla	essere	venire	a	AUX	VERB	ADP	came to the
+('venuto_venire_VERB', 'alla_a_ADP', 'festa_festa_NOUN')	8	venuto alla festa	venuto	alla	festa	venire	a	festa	VERB	ADP	NOUN	came to the party
+('sta_stare_AUX', 'suonando_suonare_VERB', 'il_il_DET')	8	sta suonando il	sta	suonando	il	stare	suonare	il	AUX	VERB	DET	is playing the
+('è_essere_AUX', 'morta_morire_VERB', 'nel_in_ADP')	8	è morta nel	è	morta	nel	essere	morire	in	AUX	VERB	ADP	died in the
+('mi_mi_PRON', 'ha_avere_AUX', 'appena_appena_ADV')	8	mi ha appena	mi	ha	appena	mi	avere	appena	PRON	AUX	ADV	has just to me
+('aveva_avere_VERB', 'un_uno_DET', 'coltello_coltello_NOUN')	8	aveva un coltello	aveva	un	coltello	avere	uno	coltello	VERB	DET	NOUN	had a knife
+('chiudere_chiudere_VERB', 'a_a_ADP', 'chiave_chiave_NOUN')	8	chiudere a chiave	chiudere	a	chiave	chiudere	a	chiave	VERB	ADP	NOUN	to lock
+('detto_dire_VERB', 'che_che_SCONJ', 'stavo_essere_AUX')	8	detto che stavo	detto	che	stavo	dire	che	essere	VERB	SCONJ	AUX	said that i was
+('a_a_ADP', 'spasso_spasso_NOUN', 'i_il_DET')	8	ava a spasso i	a	spasso	i	a	spasso	il	ADP	NOUN	DET	walking the
+('non_non_ADV', 'è_essere_AUX', 'difficile_difficile_ADJ')	8	non è difficile	non	è	difficile	non	essere	difficile	ADV	AUX	ADJ	is not difficult
+"(""un'_uno_DET"", 'altra_altro_ADJ', 'tazza_tazza_NOUN')"	8	un'altra tazza	un'	altra	tazza	uno	altro	tazza	DET	ADJ	NOUN	another cup
+('le_il_DET', 'sue_suo_DET', 'mani_mano_NOUN')	8	le sue mani	le	sue	mani	il	suo	mano	DET	DET	NOUN	his/her (feminine plural) hands
+('il_il_DET', 'libro_libro_NOUN', 'che_che_PRON')	8	il libro che	il	libro	che	il	libro	che	DET	NOUN	PRON	the book that
+('che_che_SCONJ', 'era_essere_AUX', 'pronta_pronto_ADJ')	8	che era pronta	che	era	pronta	che	essere	pronto	SCONJ	AUX	ADJ	that she was ready
+('a_a_ADP', 'tutti_tutto_DET', 'i_il_DET')	8		a	tutti	i	a	tutto	il	ADP	DET	DET	to all the
+('dovete_dovere_AUX', 'essere_essere_AUX', 'molto_molto_ADV')	8	dovete essere molto	dovete	essere	molto	dovere	essere	molto	AUX	AUX	ADV	you (plural) must be very
+('abbiamo_avere_AUX', 'giocato_giocare_VERB', 'a_a_ADP')	8	a	abbiamo	giocato	a	avere	giocare	a	AUX	VERB	ADP	we played
+('è_essere_AUX', 'importante_importante_ADJ', 'per_per_ADP')	8	è importante per	è	importante	per	essere	importante	per	AUX	ADJ	ADP	is important for
+('è_essere_AUX', 'andata_andare_VERB', 'al_a_ADP')	8	è andata al	è	andata	al	essere	andare	a	AUX	VERB	ADP	went to the
+('sono_essere_AUX', 'in_in_ADP', 'ritardo_ritardo_NOUN')	8	sono in ritardo	sono	in	ritardo	essere	in	ritardo	AUX	ADP	NOUN	i am late
+('lei_lei_PRON', 'non_non_ADV', 'si_si_PRON')	8	lei non si	lei	non	si	lei	non	si	PRON	ADV	PRON	she does not
+('qualunque_qualunque_DET', 'cosa_cosa_NOUN', 'per_per_ADP')	8	qualunque cosa per	qualunque	cosa	per	qualunque	cosa	per	DET	NOUN	ADP	anything for
+('gli_il_DET', 'occhi_occhio_NOUN', 'di_di_ADP')	8	gli occhi di	gli	occhi	di	il	occhio	di	DET	NOUN	ADP	the eyes of
+('in_in_ADP', 'prestito_prestito_NOUN', 'il_il_DET')	8	in prestito il	in	prestito	il	in	prestito	il	ADP	NOUN	DET	borrowed the
+('in_in_ADP', 'questo_questo_DET', 'ristorante_ristorante_NOUN')	8	in questo ristorante	in	questo	ristorante	in	questo	ristorante	ADP	DET	NOUN	in this restaurant
+('lo_lo_PRON', 'sai_sapere_VERB', 'che_che_SCONJ')	8	lo sai che	lo	sai	che	lo	sapere	che	PRON	VERB	SCONJ	you know that
+('vorrei_volere_VERB', 'che_che_SCONJ', 'tu_tu_PRON')	8	vorrei che tu	vorrei	che	tu	volere	che	tu	VERB	SCONJ	PRON	i would like you to
+('di_di_ADP', 'comprare_comprare_VERB', 'il_il_DET')	8	di comprare il	di	comprare	il	di	comprare	il	ADP	VERB	DET	to buy the
+('trovato_trovare_VERB', 'le_il_DET', 'sue_suo_DET')	8	trovato le sue	trovato	le	sue	trovare	il	suo	VERB	DET	DET	found his/her (feminine plural)
+('sono_essere_AUX', 'interessata_interessato_ADJ', 'alla_a_ADP')	8	sono interessata alla	sono	interessata	alla	essere	interessato	a	AUX	ADJ	ADP	i am interested in the
+('non_non_ADV', 'può_potere_AUX', 'fare_fare_VERB')	8	non può fare	non	può	fare	non	potere	fare	ADV	AUX	VERB	cannot do
+('fatto_fare_VERB', 'qualcosa_qualcosa_PRON', 'di_di_ADP')	8	fatto qualcosa di	fatto	qualcosa	di	fare	qualcosa	di	VERB	PRON	ADP	done something of
+('dei_di_ADP', 'problemi_problema_NOUN', 'a_a_ADP')	8		dei	problemi	a	di	problema	a	ADP	NOUN	ADP	some problems to
+('non_non_ADV', 'riusciamo_riuscire_VERB', 'a_a_ADP')	8	non riuscia	non	riusciamo	a	non	riuscire	a	ADV	VERB	ADP	we cannot
+('che_che_DET', 'cosa_cosa_PRON', 'vi_vi_PRON')	8	che cosa vi	che	cosa	vi	che	cosa	vi	DET	PRON	PRON	what do you (plural)
+('accanto_accanto_ADV', 'a_a_ADP', 'me_me_PRON')	8	accanto a me	accanto	a	me	accanto	a	me	ADV	ADP	PRON	next to me
+('che_che_SCONJ', 'voleva_volere_VERB', 'un_uno_DET')	8	che voleva un	che	voleva	un	che	volere	uno	SCONJ	VERB	DET	that wanted a
+"('olio_olio_NOUN', ""d'_di_ADP"", 'oliva_oliva_NOUN')"	8	olio d'oliva	olio	d'	oliva	olio	di	oliva	NOUN	ADP	NOUN	olive oil
+('non_non_ADV', 'essere_essere_AUX', 'in_in_ADP')	8	non essere in	non	essere	in	non	essere	in	ADV	AUX	ADP	not be in
+('spero_sperare_VERB', 'che_che_SCONJ', 'lei_lei_PRON')	8	spero che lei	spero	che	lei	sperare	che	lei	VERB	SCONJ	PRON	i hope that she
+('parlare_parlare_VERB', 'di_di_ADP', 'lui_lui_PRON')	8	parlare di lui	parlare	di	lui	parlare	di	lui	VERB	ADP	PRON	talk about him
+('la_il_DET', 'sua_suo_DET', 'birra_birra_NOUN')	8	la sua birra	la	sua	birra	il	suo	birra	DET	DET	NOUN	his/her (feminine singular) beer
+('di_di_ADP', 'avere_avere_VERB', 'una_uno_DET')	8	di avere una	di	avere	una	di	avere	uno	ADP	VERB	DET	to have a
+('mi_mi_PRON', 'piace_piacere_VERB', 'questa_questo_DET')	8	mi piace questa	mi	piace	questa	mi	piacere	questo	PRON	VERB	DET	i like this (feminine)
+('le_le_PRON', 'ho_avere_AUX', 'mai_mai_ADV')	8	le ho mai	le	ho	mai	le	avere	mai	PRON	AUX	ADV	have i ever to her
+('il_il_DET', 'riso_riso_NOUN', 'è_essere_AUX')	8	il riso è	il	riso	è	il	riso	essere	DET	NOUN	AUX	the rice is
+"('è_essere_AUX', 'stata_essere_AUX', ""l'_il_DET"")"	8	è stata l'	è	stata	l'	essere	essere	il	AUX	AUX	DET	it was the (before a vowel)
+('lui_lui_PRON', 'è_essere_AUX', 'uno_uno_DET')	8	lui è uno	lui	è	uno	lui	essere	uno	PRON	AUX	DET	he is a
+('ha_avere_AUX', 'venduto_vendere_VERB', 'la_il_DET')	8	ha venduto la	ha	venduto	la	avere	vendere	il	AUX	VERB	DET	sold the
+('comprato_comprare_VERB', 'un_uno_DET', 'libro_libro_NOUN')	8	comprato un libro	comprato	un	libro	comprare	uno	libro	VERB	DET	NOUN	bought a book
+('troppo_troppo_ADV', 'anziano_anziano_ADJ', 'per_per_ADP')	8	troppo anziano per	troppo	anziano	per	troppo	anziano	per	ADV	ADJ	ADP	too old to
+('ho_avere_AUX', 'sempre_sempre_ADV', 'voluto_volere_AUX')	8	ho sempre voluto	ho	sempre	voluto	avere	sempre	volere	AUX	ADV	AUX	i have always wanted
+('bisogno_bisogno_NOUN', 'di_di_ADP', 'spazio_spazio_NOUN')	8	bisogno di spazio	bisogno	di	spazio	bisogno	di	spazio	NOUN	ADP	NOUN	need for space
+('è_essere_AUX', 'venuto_venire_VERB', 'in_in_ADP')	8	è venuto in	è	venuto	in	essere	venire	in	AUX	VERB	ADP	came into
+('non_non_ADV', 'voleva_volere_AUX', 'essere_essere_AUX')	8	non voleva essere	non	voleva	essere	non	volere	essere	ADV	AUX	AUX	did not want to be
+('dovrebbe_dovere_AUX', 'parlare_parlare_VERB', 'con_con_ADP')	8	dovrebbe parlare con	dovrebbe	parlare	con	dovere	parlare	con	AUX	VERB	ADP	should talk with
+('ha_avere_AUX', 'mangiato_mangiare_VERB', 'un_uno_DET')	8	ha mangiato un	ha	mangiato	un	avere	mangiare	uno	AUX	VERB	DET	ate a
+('tu_tu_PRON', 'devi_dovere_AUX', 'essere_essere_AUX')	8	tu devi essere	tu	devi	essere	tu	dovere	essere	PRON	AUX	AUX	you must be
+('da_da_ADP', 'sola_solo_ADJ', 'con_con_ADP')	8	da sola con	da	sola	con	da	solo	con	ADP	ADJ	ADP	alone with
+('più_più_ADV', 'alto_alto_ADJ', 'di_di_ADP')	8	più alto di	più	alto	di	più	alto	di	ADV	ADJ	ADP	taller than
+('ha_avere_AUX', 'dato_dare_VERB', 'la_il_DET')	8	ha dato la	ha	dato	la	avere	dare	il	AUX	VERB	DET	gave the
+('il_il_DET', 'problema_problema_NOUN', 'è_essere_VERB')	8	il problema è	il	problema	è	il	problema	essere	DET	NOUN	VERB	the problem is
+('non_non_ADV', 'lo_lo_PRON', 'sto_essere_AUX')	8	non lo sto	non	lo	sto	non	lo	essere	ADV	PRON	AUX	i am not it
+('non_non_ADV', 'sarà_essere_AUX', 'a_a_ADP')	8	non sa	non	sarà	a	non	essere	a	ADV	AUX	ADP	does not know
+('fidare_fidare_VERB', 'di_di_ADP', 'lei_lei_PRON')	8	fidare di lei	fidare	di	lei	fidare	di	lei	VERB	ADP	PRON	to trust her
+('il_il_DET', 'suo_suo_DET', 'errore_errore_NOUN')	8	il suo errore	il	suo	errore	il	suo	errore	DET	DET	NOUN	his/her (masculine singular) mistake
+"(""cos'_cosa_PRON"", 'ha_avere_AUX', 'fatto_fare_VERB')"	8	cos'ha fatto	cos'	ha	fatto	cosa	avere	fare	PRON	AUX	VERB	what has he/she done
+('voleva_volere_VERB', 'che_che_SCONJ', 'lo_lo_PRON')	8	voleva che lo	voleva	che	lo	volere	che	lo	VERB	SCONJ	PRON	wanted it
+('è_essere_AUX', 'in_in_ADP', 'servizio_servizio_NOUN')	8	è in servizio	è	in	servizio	essere	in	servizio	AUX	ADP	NOUN	is on duty
+('per_per_ADP', 'la_il_DET', 'cena_cena_NOUN')	8	per la cena	per	la	cena	per	il	cena	ADP	DET	NOUN	for dinner
+('deve_dovere_AUX', 'parlare_parlare_VERB', 'con_con_ADP')	8	deve parlare con	deve	parlare	con	dovere	parlare	con	AUX	VERB	ADP	has to speak with
+('fatto_fare_VERB', 'tutto_tutto_DET', 'quello_quello_PRON')	8	fatto tutto quello	fatto	tutto	quello	fare	tutto	quello	VERB	DET	PRON	done everything that
+('di_di_ADP', 'quel_quello_PRON', 'che_che_PRON')	8	di quel che	di	quel	che	di	quello	che	ADP	PRON	PRON	of what
+('hai_avere_VERB', 'qualcosa_qualcosa_PRON', 'da_da_ADP')	8	hai qualcosa da	hai	qualcosa	da	avere	qualcosa	da	VERB	PRON	ADP	do you have anything to
+('a_a_ADP', 'pensare_pensare_VERB', 'a_a_ADP')	8	a	a	pensare	a	a	pensare	a	ADP	VERB	ADP	to think about
+('per_per_ADP', 'una_uno_DET', 'settimana_settimana_NOUN')	8	per una settimana	per	una	settimana	per	uno	settimana	ADP	DET	NOUN	for a week
+('che_che_SCONJ', 'gli_gli_PRON', 'piace_piacere_VERB')	8	che gli piace	che	gli	piace	che	gli	piacere	SCONJ	PRON	VERB	that he likes
+('che_che_PRON', 'avete_avere_AUX', 'fatto_fare_VERB')	8	che avete fatto	che	avete	fatto	che	avere	fare	PRON	AUX	VERB	what you have done
+('fetta_fetta_NOUN', 'di_di_ADP', 'pizza_pizza_NOUN')	8	fetta di pizza	fetta	di	pizza	fetta	di	pizza	NOUN	ADP	NOUN	slice of pizza
+('io_io_PRON', 'non_non_ADV', 'pensavo_pensare_VERB')	8	io non pensavo	io	non	pensavo	io	non	pensare	PRON	ADV	VERB	i did not think
+('pensavo_pensare_VERB', 'di_di_ADP', 'essere_essere_AUX')	8	pensavo di essere	pensavo	di	essere	pensare	di	essere	VERB	ADP	AUX	i thought i was
+('faremmo_fare_VERB', 'meglio_meglio_ADV', 'ad_a_ADP')	8	faremmo meglio ad	faremmo	meglio	ad	fare	meglio	a	VERB	ADV	ADP	we would do better to
+('ho_avere_AUX', 'mai_mai_ADV', 'viste_vedere_VERB')	8	ho mai viste	ho	mai	viste	avere	mai	vedere	AUX	ADV	VERB	i have ever seen (feminine plural)
+('penso_pensare_VERB', 'che_che_SCONJ', 'dovresti_dovere_AUX')	8	penso che dovresti	penso	che	dovresti	pensare	che	dovere	VERB	SCONJ	AUX	i think you should
+('di_di_ADP', 'aver_avere_AUX', 'visto_vedere_VERB')	8	di aver visto	di	aver	visto	di	avere	vedere	ADP	AUX	VERB	to have seen
