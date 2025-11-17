@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('mangiato_mangiare_VERB', 'della_di_ADP')	8	mangiato della	mangiato	della	mangiare	di	VERB	ADP	
-('andrà_andare_VERB', 'tutto_tutto_PRON')	8	andrà tutto	andrà	tutto	andare	tutto	VERB	PRON	
-('sentì_sentire_VERB', 'la_il_DET')	8	sentì la	sentì	la	sentire	il	VERB	DET	
-('è_essere_AUX', 'orgoglioso_orgoglioso_ADJ')	8	è orgoglioso	è	orgoglioso	essere	orgoglioso	AUX	ADJ	
-('vuole_volere_AUX', 'venire_venire_VERB')	8	vuole venire	vuole	venire	volere	venire	AUX	VERB	
-('meglio_meglio_ADV', 'oggi_oggi_ADV')	8	meglio oggi	meglio	oggi	meglio	oggi	ADV	ADV	
-('vogliono_volere_AUX', 'andare_andare_VERB')	8	vogliono andare	vogliono	andare	volere	andare	AUX	VERB	
-('mangiate_mangiare_VERB', 'il_il_DET')	8	mangiate il	mangiate	il	mangiare	il	VERB	DET	
-('posso_potere_AUX', 'più_più_ADV')	8	posso più	posso	più	potere	più	AUX	ADV	
-('chiamare_chiamare_VERB', 'il_il_DET')	8	chiamare il	chiamare	il	chiamare	il	VERB	DET	
-('erano_essere_AUX', 'le_il_DET')	8	erano le	erano	le	essere	il	AUX	DET	
-('si_si_PRON', 'alzò_alzare_VERB')	8	si alzò	si	alzò	si	alzare	PRON	VERB	
-('a_a_ADP', 'rugby_rugby_NOUN')	8	avo a rugby	a	rugby	a	rugby	ADP	NOUN	
-('arrivata_arrivare_VERB', 'qui_qui_ADV')	8	arrivata qui	arrivata	qui	arrivare	qui	VERB	ADV	
-"(""l'_il_DET"", 'ingresso_ingresso_NOUN')"	8	l'ingresso	l'	ingresso	il	ingresso	DET	NOUN	
-('un_uno_DET', 'allenatore_allenatore_NOUN')	8	un allenatore	un	allenatore	uno	allenatore	DET	NOUN	
-('borsa_borsa_NOUN', 'è_essere_AUX')	8	borsa è	borsa	è	borsa	essere	NOUN	AUX	
-('di_di_ADP', 'uccidersi_uccidere_VERB')	8	di uccidersi	di	uccidersi	di	uccidere	ADP	VERB	
-('nostra_nostro_DET', 'famiglia_famiglia_NOUN')	8	nostra famiglia	nostra	famiglia	nostro	famiglia	DET	NOUN	
-('colpa_colpa_NOUN', 'di_di_ADP')	8	colpa di	colpa	di	colpa	di	NOUN	ADP	
-('alcuni_alcuno_PRON', 'dei_di_ADP')	8	alcuni dei	alcuni	dei	alcuno	di	PRON	ADP	
-('mia_mio_DET', 'chitarra_chitarra_NOUN')	8	mia chitarra	mia	chitarra	mio	chitarra	DET	NOUN	
-('iniziai_iniziare_VERB', 'a_a_ADP')	8	inizia	iniziai	a	iniziare	a	VERB	ADP	
-"('hai_avere_VERB', ""un'_uno_DET"")"	8	hai un'	hai	un'	avere	uno	VERB	DET	
-('fatto_fare_VERB', 'nulla_nu_ADV')	8	fatto nulla	fatto	nulla	fare	nu	VERB	ADV	
-('spera_sperare_VERB', 'di_di_ADP')	8	spera di	spera	di	sperare	di	VERB	ADP	
-('ha_avere_AUX', 'confessato_confessare_VERB')	8	ha confessato	ha	confessato	avere	confessare	AUX	VERB	
-('mio_mio_DET', 'primo_primo_ADJ')	8	mio primo	mio	primo	mio	primo	DET	ADJ	
-('cui_cui_PRON', 'ho_avere_VERB')	8	cui ho	cui	ho	cui	avere	PRON	VERB	
-('non_non_ADV', 'andò_andare_VERB')	8	non andò	non	andò	non	andare	ADV	VERB	
-('qua_qua_ADV', 'è_essere_AUX')	8	qua è	qua	è	qua	essere	ADV	AUX	
-('era_essere_AUX', 'sposato_sposare_VERB')	8	era sposato	era	sposato	essere	sposare	AUX	VERB	
-('di_di_ADP', 'potere_potere_AUX')	8	di potere	di	potere	di	potere	ADP	AUX	
-('tutte_tutto_DET', 'queste_questo_DET')	8	tutte queste	tutte	queste	tutto	questo	DET	DET	
-('queste_questo_DET', 'parole_parola_NOUN')	8	queste parole	queste	parole	questo	parola	DET	NOUN	
-('impegnata_impegnare_VERB', 'adesso_adesso_ADV')	8	impegnata adesso	impegnata	adesso	impegnare	adesso	VERB	ADV	
-('farò_fare_VERB', 'sapere_sapere_VERB')	8	farò sapere	farò	sapere	fare	sapere	VERB	VERB	
-('che_che_DET', 'lingua_lingua_NOUN')	8	che lingua	che	lingua	che	lingua	DET	NOUN	
-('sono_essere_AUX', 'tutte_tutto_PRON')	8	sono tutte	sono	tutte	essere	tutto	AUX	PRON	
-('il_il_DET', 'banjo_banjo_NOUN')	8	il banjo	il	banjo	il	banjo	DET	NOUN	
-('parlate_parlare_VERB', 'con_con_ADP')	8	parlate con	parlate	con	parlare	con	VERB	ADP	
-('bisogno_bisogno_NOUN', 'della_di_ADP')	8	bisogno della	bisogno	della	bisogno	di	NOUN	ADP	
-('lo_lo_PRON', 'possiamo_potere_AUX')	8	lo possiamo	lo	possiamo	lo	potere	PRON	AUX	
-('ha_avere_VERB', 'alcun_alcuno_DET')	8	ha alcun	ha	alcun	avere	alcuno	VERB	DET	
-('le_il_DET', 'tasse_tassa_NOUN')	8	le tasse	le	tasse	il	tassa	DET	NOUN	
-('al_a_ADP', 'centro_centro_NOUN')	8	al centro	al	centro	a	centro	ADP	NOUN	
-('sia_essere_AUX', 'vera_vero_ADJ')	8	sia vera	sia	vera	essere	vero	AUX	ADJ	
-('starò_stare_VERB', 'qui_qui_ADV')	8	starò qui	starò	qui	stare	qui	VERB	ADV	
-('abitato_abitare_VERB', 'a_a_ADP')	8		abitato	a	abitare	a	VERB	ADP	
-('abbiamo_avere_AUX', 'sentito_sentire_VERB')	8	abbiamo sentito	abbiamo	sentito	avere	sentire	AUX	VERB	
-('sa_sapere_VERB', 'perché_perché_SCONJ')	8	sa perché	sa	perché	sapere	perché	VERB	SCONJ	
-('sta_stare_AUX', 'chiamando_chiamare_VERB')	8	sta chiamando	sta	chiamando	stare	chiamare	AUX	VERB	
-('non_non_ADV', 'esce_uscire_VERB')	8	non esce	non	esce	non	uscire	ADV	VERB	
-('a_a_ADP', 'vederli_vedere_VERB')	8	a vederli	a	vederli	a	vedere	ADP	VERB	
-('è_essere_AUX', 'popolare_popolare_ADJ')	8	è popolare	è	popolare	essere	popolare	AUX	ADJ	
-('un_uno_DET', 'lupo_lupo_NOUN')	8	un lupo	un	lupo	uno	lupo	DET	NOUN	
-('vogliono_volere_VERB', 'che_che_SCONJ')	8	vogliono che	vogliono	che	volere	che	VERB	SCONJ	
-('molto_molto_ADV', 'giovane_giovane_ADJ')	8	molto giovane	molto	giovane	molto	giovane	ADV	ADJ	
-('pizza_pizza_NOUN', 'è_essere_AUX')	8	pizza è	pizza	è	pizza	essere	NOUN	AUX	
-('giochi_gioco_NOUN', 'a_a_ADP')	8	giochi a	giochi	a	gioco	a	NOUN	ADP	
-('ogni_ogni_DET', 'settimana_settimana_NOUN')	8	ogni settimana	ogni	settimana	ogni	settimana	DET	NOUN	
-('la_il_DET', 'biro_biro_NOUN')	8	la biro	la	biro	il	biro	DET	NOUN	
-('ieri_ieri_ADV', 'era_essere_AUX')	8	ieri era	ieri	era	ieri	essere	ADV	AUX	
-('ho_avere_VERB', 'solo_solo_ADV')	8	ho solo	ho	solo	avere	solo	VERB	ADV	
-('quasi_quasi_ADV', 'mai_mai_ADV')	8	quasi mai	quasi	mai	quasi	mai	ADV	ADV	
-('di_di_ADP', 'distanza_distanza_NOUN')	8	di distanza	di	distanza	di	distanza	ADP	NOUN	
-('vi_vi_PRON', 'odio_odiare_VERB')	8	vi odio	vi	odio	vi	odiare	PRON	VERB	
-('un_uno_DET', 'contadino_contadino_NOUN')	8	un contadino	un	contadino	uno	contadino	DET	NOUN	
-('lei_in_ADP', 'viene_venire_VERB')	8	lei viene	lei	viene	in	venire	ADP	VERB	
-"(""un'_uno_DET"", 'arma_arma_NOUN')"	8	un'arma	un'	arma	uno	arma	DET	NOUN	
-"(""un'_uno_DET"", 'attrice_attore_NOUN')"	8	un'attrice	un'	attrice	uno	attore	DET	NOUN	
-('veramente_veramente_ADV', 'di_di_ADP')	8	veramente di	veramente	di	veramente	di	ADV	ADP	
-('preso_prendere_VERB', 'del_di_ADP')	8	preso del	preso	del	prendere	di	VERB	ADP	
-('suo_suo_DET', 'volto_volto_NOUN')	8	suo volto	suo	volto	suo	volto	DET	NOUN	
-('famiglia_famiglia_NOUN', 'di_di_ADP')	8	famiglia di	famiglia	di	famiglia	di	NOUN	ADP	
-('vuole_volere_AUX', 'diventare_diventare_VERB')	8	vuole diventare	vuole	diventare	volere	diventare	AUX	VERB	
-('un_uno_DET', 'gran_grande_ADJ')	8	un gran	un	gran	uno	grande	DET	ADJ	
-('a_a_ADP', 'pagare_pagare_VERB')	8	a pagare	a	pagare	a	pagare	ADP	VERB	
-('va_andare_VERB', 'spesso_spesso_ADV')	8	va spesso	va	spesso	andare	spesso	VERB	ADV	
-('sta_stare_AUX', 'uscendo_uscire_VERB')	8	sta uscendo	sta	uscendo	stare	uscire	AUX	VERB	
-('piace_piacere_VERB', 'farlo_fare_VERB')	8	piace farlo	piace	farlo	piacere	fare	VERB	VERB	
-('ha_avere_AUX', 'creato_creare_VERB')	8	ha creato	ha	creato	avere	creare	AUX	VERB	
-('sta_stare_AUX', 'fissando_fissare_VERB')	8	sta fissando	sta	fissando	stare	fissare	AUX	VERB	
-('alla_a_ADP', 'mensa_mensa_NOUN')	8	alla mensa	alla	mensa	a	mensa	ADP	NOUN	
-('sembrare_sembrare_VERB', 'così_così_ADV')	8	sembrare così	sembrare	così	sembrare	così	VERB	ADV	
-('mangiò_mangiare_VERB', 'del_di_ADP')	8	mangiò del	mangiò	del	mangiare	di	VERB	ADP	
-('problemi_problema_NOUN', 'di_di_ADP')	8	problemi di	problemi	di	problema	di	NOUN	ADP	
-('loro_loro_PRON', 'amano_amare_VERB')	8	loro amano	loro	amano	loro	amare	PRON	VERB	
-('dire_dire_VERB', 'niente_niente_PRON')	8	dire niente	dire	niente	dire	niente	VERB	PRON	
-('di_di_ADP', 'zucchero_zucchero_NOUN')	8	di zucchero	di	zucchero	di	zucchero	ADP	NOUN	
-('sapere_sapere_VERB', 'il_il_DET')	8	sapere il	sapere	il	sapere	il	VERB	DET	
-('uscire_uscire_VERB', 'con_con_ADP')	8	uscire con	uscire	con	uscire	con	VERB	ADP	
-('vuole_volere_AUX', 'lavorare_lavorare_VERB')	8	vuole lavorare	vuole	lavorare	volere	lavorare	AUX	VERB	
-('visitato_visitare_VERB', 'il_il_DET')	8	visitato il	visitato	il	visitare	il	VERB	DET	
-('non_non_ADV', 'facciamo_fare_VERB')	8	non facciamo	non	facciamo	non	fare	ADV	VERB	
-('non_non_ADV', 'è_essere_VERB')	8	non è	non	è	non	essere	ADV	VERB	
-"(""l'_il_DET"", 'oboe_oboe_NOUN')"	8	l'oboe	l'	oboe	il	oboe	DET	NOUN	
-('ho_avere_AUX', 'abitato_abitare_VERB')	8	ho abitato	ho	abitato	avere	abitare	AUX	VERB	
-('dovuto_dovere_AUX', 'dire_dire_VERB')	8	dovuto dire	dovuto	dire	dovere	dire	AUX	VERB	
-('sono_essere_AUX', 'rimasta_rimanere_VERB')	8	sono rimasta	sono	rimasta	essere	rimanere	AUX	VERB	
+('mangiato_mangiare_VERB', 'della_di_ADP')	8	mangiato della	mangiato	della	mangiare	di	VERB	ADP	eaten some
+('andrà_andare_VERB', 'tutto_tutto_PRON')	8	andrà tutto	andrà	tutto	andare	tutto	VERB	PRON	everything will go
+('sentì_sentire_VERB', 'la_il_DET')	8	sentì la	sentì	la	sentire	il	VERB	DET	heard the
+('è_essere_AUX', 'orgoglioso_orgoglioso_ADJ')	8	è orgoglioso	è	orgoglioso	essere	orgoglioso	AUX	ADJ	he is proud
+('vuole_volere_AUX', 'venire_venire_VERB')	8	vuole venire	vuole	venire	volere	venire	AUX	VERB	wants to come
+('meglio_meglio_ADV', 'oggi_oggi_ADV')	8	meglio oggi	meglio	oggi	meglio	oggi	ADV	ADV	better today
+('vogliono_volere_AUX', 'andare_andare_VERB')	8	vogliono andare	vogliono	andare	volere	andare	AUX	VERB	they want to go
+('mangiate_mangiare_VERB', 'il_il_DET')	8	mangiate il	mangiate	il	mangiare	il	VERB	DET	eat the
+('posso_potere_AUX', 'più_più_ADV')	8	posso più	posso	più	potere	più	AUX	ADV	I can no longer
+('chiamare_chiamare_VERB', 'il_il_DET')	8	chiamare il	chiamare	il	chiamare	il	VERB	DET	call the
+('erano_essere_AUX', 'le_il_DET')	8	erano le	erano	le	essere	il	AUX	DET	they were the
+('si_si_PRON', 'alzò_alzare_VERB')	8	si alzò	si	alzò	si	alzare	PRON	VERB	got up
+('a_a_ADP', 'rugby_rugby_NOUN')	8	avo a rugby	a	rugby	a	rugby	ADP	NOUN	to rugby
+('arrivata_arrivare_VERB', 'qui_qui_ADV')	8	arrivata qui	arrivata	qui	arrivare	qui	VERB	ADV	arrived here (feminine)
+"(""l'_il_DET"", 'ingresso_ingresso_NOUN')"	8	l'ingresso	l'	ingresso	il	ingresso	DET	NOUN	the entrance
+('un_uno_DET', 'allenatore_allenatore_NOUN')	8	un allenatore	un	allenatore	uno	allenatore	DET	NOUN	a coach
+('borsa_borsa_NOUN', 'è_essere_AUX')	8	borsa è	borsa	è	borsa	essere	NOUN	AUX	bag is
+('di_di_ADP', 'uccidersi_uccidere_VERB')	8	di uccidersi	di	uccidersi	di	uccidere	ADP	VERB	to kill oneself
+('nostra_nostro_DET', 'famiglia_famiglia_NOUN')	8	nostra famiglia	nostra	famiglia	nostro	famiglia	DET	NOUN	our family
+('colpa_colpa_NOUN', 'di_di_ADP')	8	colpa di	colpa	di	colpa	di	NOUN	ADP	fault of
+('alcuni_alcuno_PRON', 'dei_di_ADP')	8	alcuni dei	alcuni	dei	alcuno	di	PRON	ADP	some of the
+('mia_mio_DET', 'chitarra_chitarra_NOUN')	8	mia chitarra	mia	chitarra	mio	chitarra	DET	NOUN	my guitar
+('iniziai_iniziare_VERB', 'a_a_ADP')	8	inizia	iniziai	a	iniziare	a	VERB	ADP	starts to
+"('hai_avere_VERB', ""un'_uno_DET"")"	8	hai un'	hai	un'	avere	uno	VERB	DET	you have an
+('fatto_fare_VERB', 'nulla_nu_ADV')	8	fatto nulla	fatto	nulla	fare	nu	VERB	ADV	done nothing
+('spera_sperare_VERB', 'di_di_ADP')	8	spera di	spera	di	sperare	di	VERB	ADP	hopes to
+('ha_avere_AUX', 'confessato_confessare_VERB')	8	ha confessato	ha	confessato	avere	confessare	AUX	VERB	has confessed
+('mio_mio_DET', 'primo_primo_ADJ')	8	mio primo	mio	primo	mio	primo	DET	ADJ	my first
+('cui_cui_PRON', 'ho_avere_VERB')	8	cui ho	cui	ho	cui	avere	PRON	VERB	whom I have
+('non_non_ADV', 'andò_andare_VERB')	8	non andò	non	andò	non	andare	ADV	VERB	did not go
+('qua_qua_ADV', 'è_essere_AUX')	8	qua è	qua	è	qua	essere	ADV	AUX	here is
+('era_essere_AUX', 'sposato_sposare_VERB')	8	era sposato	era	sposato	essere	sposare	AUX	VERB	he was married
+('di_di_ADP', 'potere_potere_AUX')	8	di potere	di	potere	di	potere	ADP	AUX	to be able to
+('tutte_tutto_DET', 'queste_questo_DET')	8	tutte queste	tutte	queste	tutto	questo	DET	DET	all these (feminine)
+('queste_questo_DET', 'parole_parola_NOUN')	8	queste parole	queste	parole	questo	parola	DET	NOUN	these words
+('impegnata_impegnare_VERB', 'adesso_adesso_ADV')	8	impegnata adesso	impegnata	adesso	impegnare	adesso	VERB	ADV	busy now (feminine)
+('farò_fare_VERB', 'sapere_sapere_VERB')	8	farò sapere	farò	sapere	fare	sapere	VERB	VERB	I will let know
+('che_che_DET', 'lingua_lingua_NOUN')	8	che lingua	che	lingua	che	lingua	DET	NOUN	which language
+('sono_essere_AUX', 'tutte_tutto_PRON')	8	sono tutte	sono	tutte	essere	tutto	AUX	PRON	they are all (feminine)
+('il_il_DET', 'banjo_banjo_NOUN')	8	il banjo	il	banjo	il	banjo	DET	NOUN	the banjo
+('parlate_parlare_VERB', 'con_con_ADP')	8	parlate con	parlate	con	parlare	con	VERB	ADP	you (plural) speak with
+('bisogno_bisogno_NOUN', 'della_di_ADP')	8	bisogno della	bisogno	della	bisogno	di	NOUN	ADP	need of the (feminine)
+('lo_lo_PRON', 'possiamo_potere_AUX')	8	lo possiamo	lo	possiamo	lo	potere	PRON	AUX	we can it
+('ha_avere_VERB', 'alcun_alcuno_DET')	8	ha alcun	ha	alcun	avere	alcuno	VERB	DET	has any
+('le_il_DET', 'tasse_tassa_NOUN')	8	le tasse	le	tasse	il	tassa	DET	NOUN	the taxes
+('al_a_ADP', 'centro_centro_NOUN')	8	al centro	al	centro	a	centro	ADP	NOUN	in the center
+('sia_essere_AUX', 'vera_vero_ADJ')	8	sia vera	sia	vera	essere	vero	AUX	ADJ	be true (feminine)
+('starò_stare_VERB', 'qui_qui_ADV')	8	starò qui	starò	qui	stare	qui	VERB	ADV	I will stay here
+('abitato_abitare_VERB', 'a_a_ADP')	8		abitato	a	abitare	a	VERB	ADP	lived at
+('abbiamo_avere_AUX', 'sentito_sentire_VERB')	8	abbiamo sentito	abbiamo	sentito	avere	sentire	AUX	VERB	we heard
+('sa_sapere_VERB', 'perché_perché_SCONJ')	8	sa perché	sa	perché	sapere	perché	VERB	SCONJ	he knows why
+('sta_stare_AUX', 'chiamando_chiamare_VERB')	8	sta chiamando	sta	chiamando	stare	chiamare	AUX	VERB	is calling
+('non_non_ADV', 'esce_uscire_VERB')	8	non esce	non	esce	non	uscire	ADV	VERB	does not go out
+('a_a_ADP', 'vederli_vedere_VERB')	8	a vederli	a	vederli	a	vedere	ADP	VERB	to see them
+('è_essere_AUX', 'popolare_popolare_ADJ')	8	è popolare	è	popolare	essere	popolare	AUX	ADJ	is popular
+('un_uno_DET', 'lupo_lupo_NOUN')	8	un lupo	un	lupo	uno	lupo	DET	NOUN	a wolf
+('vogliono_volere_VERB', 'che_che_SCONJ')	8	vogliono che	vogliono	che	volere	che	VERB	SCONJ	they want that
+('molto_molto_ADV', 'giovane_giovane_ADJ')	8	molto giovane	molto	giovane	molto	giovane	ADV	ADJ	very young
+('pizza_pizza_NOUN', 'è_essere_AUX')	8	pizza è	pizza	è	pizza	essere	NOUN	AUX	pizza is
+('giochi_gioco_NOUN', 'a_a_ADP')	8	giochi a	giochi	a	gioco	a	NOUN	ADP	you play
+('ogni_ogni_DET', 'settimana_settimana_NOUN')	8	ogni settimana	ogni	settimana	ogni	settimana	DET	NOUN	every week
+('la_il_DET', 'biro_biro_NOUN')	8	la biro	la	biro	il	biro	DET	NOUN	the pen
+('ieri_ieri_ADV', 'era_essere_AUX')	8	ieri era	ieri	era	ieri	essere	ADV	AUX	yesterday was
+('ho_avere_VERB', 'solo_solo_ADV')	8	ho solo	ho	solo	avere	solo	VERB	ADV	I only have
+('quasi_quasi_ADV', 'mai_mai_ADV')	8	quasi mai	quasi	mai	quasi	mai	ADV	ADV	almost never
+('di_di_ADP', 'distanza_distanza_NOUN')	8	di distanza	di	distanza	di	distanza	ADP	NOUN	of distance
+('vi_vi_PRON', 'odio_odiare_VERB')	8	vi odio	vi	odio	vi	odiare	PRON	VERB	I hate you (plural)
+('un_uno_DET', 'contadino_contadino_NOUN')	8	un contadino	un	contadino	uno	contadino	DET	NOUN	a farmer
+('lei_in_ADP', 'viene_venire_VERB')	8	lei viene	lei	viene	in	venire	ADP	VERB	she comes
+"(""un'_uno_DET"", 'arma_arma_NOUN')"	8	un'arma	un'	arma	uno	arma	DET	NOUN	a weapon
+"(""un'_uno_DET"", 'attrice_attore_NOUN')"	8	un'attrice	un'	attrice	uno	attore	DET	NOUN	an actress
+('veramente_veramente_ADV', 'di_di_ADP')	8	veramente di	veramente	di	veramente	di	ADV	ADP	really of
+('preso_prendere_VERB', 'del_di_ADP')	8	preso del	preso	del	prendere	di	VERB	ADP	taken some
+('suo_suo_DET', 'volto_volto_NOUN')	8	suo volto	suo	volto	suo	volto	DET	NOUN	his face; her face
+('famiglia_famiglia_NOUN', 'di_di_ADP')	8	famiglia di	famiglia	di	famiglia	di	NOUN	ADP	family of
+('vuole_volere_AUX', 'diventare_diventare_VERB')	8	vuole diventare	vuole	diventare	volere	diventare	AUX	VERB	wants to become
+('un_uno_DET', 'gran_grande_ADJ')	8	un gran	un	gran	uno	grande	DET	ADJ	a great
+('a_a_ADP', 'pagare_pagare_VERB')	8	a pagare	a	pagare	a	pagare	ADP	VERB	to pay
+('va_andare_VERB', 'spesso_spesso_ADV')	8	va spesso	va	spesso	andare	spesso	VERB	ADV	goes often
+('sta_stare_AUX', 'uscendo_uscire_VERB')	8	sta uscendo	sta	uscendo	stare	uscire	AUX	VERB	is going out
+('piace_piacere_VERB', 'farlo_fare_VERB')	8	piace farlo	piace	farlo	piacere	fare	VERB	VERB	likes to do it
+('ha_avere_AUX', 'creato_creare_VERB')	8	ha creato	ha	creato	avere	creare	AUX	VERB	has created
+('sta_stare_AUX', 'fissando_fissare_VERB')	8	sta fissando	sta	fissando	stare	fissare	AUX	VERB	is staring
+('alla_a_ADP', 'mensa_mensa_NOUN')	8	alla mensa	alla	mensa	a	mensa	ADP	NOUN	at the cafeteria
+('sembrare_sembrare_VERB', 'così_così_ADV')	8	sembrare così	sembrare	così	sembrare	così	VERB	ADV	seem so
+('mangiò_mangiare_VERB', 'del_di_ADP')	8	mangiò del	mangiò	del	mangiare	di	VERB	ADP	ate some
+('problemi_problema_NOUN', 'di_di_ADP')	8	problemi di	problemi	di	problema	di	NOUN	ADP	problems of
+('loro_loro_PRON', 'amano_amare_VERB')	8	loro amano	loro	amano	loro	amare	PRON	VERB	they love
+('dire_dire_VERB', 'niente_niente_PRON')	8	dire niente	dire	niente	dire	niente	VERB	PRON	say nothing
+('di_di_ADP', 'zucchero_zucchero_NOUN')	8	di zucchero	di	zucchero	di	zucchero	ADP	NOUN	of sugar
+('sapere_sapere_VERB', 'il_il_DET')	8	sapere il	sapere	il	sapere	il	VERB	DET	know the
+('uscire_uscire_VERB', 'con_con_ADP')	8	uscire con	uscire	con	uscire	con	VERB	ADP	to go out with
+('vuole_volere_AUX', 'lavorare_lavorare_VERB')	8	vuole lavorare	vuole	lavorare	volere	lavorare	AUX	VERB	wants to work
+('visitato_visitare_VERB', 'il_il_DET')	8	visitato il	visitato	il	visitare	il	VERB	DET	visited the
+('non_non_ADV', 'facciamo_fare_VERB')	8	non facciamo	non	facciamo	non	fare	ADV	VERB	we do not do
+('non_non_ADV', 'è_essere_VERB')	8	non è	non	è	non	essere	ADV	VERB	is not
+"(""l'_il_DET"", 'oboe_oboe_NOUN')"	8	l'oboe	l'	oboe	il	oboe	DET	NOUN	the oboe
+('ho_avere_AUX', 'abitato_abitare_VERB')	8	ho abitato	ho	abitato	avere	abitare	AUX	VERB	I have lived
+('dovuto_dovere_AUX', 'dire_dire_VERB')	8	dovuto dire	dovuto	dire	dovere	dire	AUX	VERB	had to say
+('sono_essere_AUX', 'rimasta_rimanere_VERB')	8	sono rimasta	sono	rimasta	essere	rimanere	AUX	VERB	I stayed (feminine)
