@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('ringraziato_ringraziare_VERB', 'per_per_ADP')	7	ringraziato per	ringraziato	per	ringraziare	per	VERB	ADP	
+('libro_libro_NOUN', 'e_e_CCONJ')	7		libro	e	libro	e	NOUN	CCONJ	
+('gente_gente_NOUN', 'che_che_PRON')	7	gente che	gente	che	gente	che	NOUN	PRON	
+('qua_qua_ADV', 'con_con_ADP')	7	qua con	qua	con	qua	con	ADV	ADP	
+('pensa_pensare_VERB', 'davvero_davvero_ADV')	7	pensa davvero	pensa	davvero	pensare	davvero	VERB	ADV	
+('ha_avere_VERB', 'riso_riso_NOUN')	7	ha riso	ha	riso	avere	riso	VERB	NOUN	
+('stavi_stare_AUX', 'cercando_cercare_VERB')	7	stavi cercando	stavi	cercando	stare	cercare	AUX	VERB	
+('suoi_suo_DET', 'problemi_problema_NOUN')	7	suoi problemi	suoi	problemi	suo	problema	DET	NOUN	
+('questo_questo_DET', 'orologio_orologio_NOUN')	7	questo orologio	questo	orologio	questo	orologio	DET	NOUN	
+('per_per_ADP', 'strada_strada_NOUN')	7	per strada	per	strada	per	strada	ADP	NOUN	
+('scrivendo_scrivere_VERB', 'un_uno_DET')	7	scrivendo un	scrivendo	un	scrivere	uno	VERB	DET	
+('è_essere_AUX', 'salito_salire_VERB')	7	è salito	è	salito	essere	salire	AUX	VERB	
+('questo_questo_DET', 'caffè_caffè_NOUN')	7	questo caffè	questo	caffè	questo	caffè	DET	NOUN	
+('lo_lo_PRON', 'farete_fare_VERB')	7	lo farete	lo	farete	lo	fare	PRON	VERB	
+('che_che_DET', 'tempo_tempo_NOUN')	7	che tempo	che	tempo	che	tempo	DET	NOUN	
+('più_più_ADV', 'giovani_giovane_ADJ')	7	più giovani	più	giovani	più	giovane	ADV	ADJ	
+('è_essere_VERB', 'da_da_ADP')	7	è da	è	da	essere	da	VERB	ADP	
+('abbiamo_avere_AUX', 'comprato_comprare_VERB')	7	abbiamo comprato	abbiamo	comprato	avere	comprare	AUX	VERB	
+('abbiamo_avere_VERB', 'delle_di_ADP')	7	abbiamo delle	abbiamo	delle	avere	di	VERB	ADP	
+('potete_potere_AUX', 'aiutare_aiutare_VERB')	7	potete aiutare	potete	aiutare	potere	aiutare	AUX	VERB	
+('già_già_ADV', 'a_a_ADP')	7	già a	già	a	già	a	ADV	ADP	
+('dovuto_dovere_AUX', 'fidare_fidare_VERB')	7	dovuto fidare	dovuto	fidare	dovere	fidare	AUX	VERB	
+('sarei_essere_AUX', 'mai_mai_ADV')	7	sarei mai	sarei	mai	essere	mai	AUX	ADV	
+('farla_fare_VERB', 'in_in_ADP')	7	farla in	farla	in	fare	in	VERB	ADP	
+('tutte_tutto_PRON', 'a_a_ADP')	7		tutte	a	tutto	a	PRON	ADP	
+('ha_avere_AUX', 'impedito_impedire_VERB')	7	ha impedito	ha	impedito	avere	impedire	AUX	VERB	
+('e_e_CCONJ', 'la_la_PRON')	7		e	la	e	la	CCONJ	PRON	
+('cosa_cosa_DET', 'diavolo_diavolo_NOUN')	7	cosa diavolo	cosa	diavolo	cosa	diavolo	DET	NOUN	
+('che_che_SCONJ', 'questo_questo_DET')	7	che questo	che	questo	che	questo	SCONJ	DET	
+('cose_cosa_NOUN', 'succedono_succedere_VERB')	7	cose succedono	cose	succedono	cosa	succedere	NOUN	VERB	
+('ad_a_ADP', 'attraversare_attraversare_VERB')	7	ad attraversare	ad	attraversare	a	attraversare	ADP	VERB	
+('lo_lo_PRON', 'dovremmo_dovere_AUX')	7	lo dovremmo	lo	dovremmo	lo	dovere	PRON	AUX	
+('volete_volere_AUX', 'sapere_sapere_VERB')	7	volete sapere	volete	sapere	volere	sapere	AUX	VERB	
+('tornò_tornare_VERB', 'a_a_ADP')	7		tornò	a	tornare	a	VERB	ADP	
+('uscire_uscire_VERB', 'dalla_da_ADP')	7	uscire dalla	uscire	dalla	uscire	da	VERB	ADP	
+('con_con_ADP', 'piacere_piacere_NOUN')	7	con piacere	con	piacere	con	piacere	ADP	NOUN	
+('come_come_SCONJ', 'vi_vi_PRON')	7	come vi	come	vi	come	vi	SCONJ	PRON	
+('i_il_DET', 'sintomi_sintomo_NOUN')	7	i sintomi	i	sintomi	il	sintomo	DET	NOUN	
+('sua_suo_DET', 'nonna_nonno_NOUN')	7	sua nonna	sua	nonna	suo	nonno	DET	NOUN	
+"('conosci_conoscere_VERB', ""l'_il_DET"")"	7	conosci l'	conosci	l'	conoscere	il	VERB	DET	
+('seguire_seguire_VERB', 'la_il_DET')	7	seguire la	seguire	la	seguire	il	VERB	DET	
+('avevo_avere_VERB', 'una_uno_DET')	7	avevo una	avevo	una	avere	uno	VERB	DET	
+('inizia_iniziare_VERB', 'la_il_DET')	7	inizia la	inizia	la	iniziare	il	VERB	DET	
+('siamo_essere_AUX', 'mai_mai_ADV')	7	siamo mai	siamo	mai	essere	mai	AUX	ADV	
+('cambiare_cambiare_VERB', 'la_il_DET')	7	cambiare la	cambiare	la	cambiare	il	VERB	DET	
+('stato_essere_AUX', 'eletto_eleggere_VERB')	7	stato eletto	stato	eletto	essere	eleggere	AUX	VERB	
+('mise_mettere_VERB', 'in_in_ADP')	7	mise in	mise	in	mettere	in	VERB	ADP	
+('si_si_PRON', 'comprò_comprare_VERB')	7	si comprò	si	comprò	si	comprare	PRON	VERB	
+('ai_a_ADP', 'vostri_vostro_DET')	7	ai vostri	ai	vostri	a	vostro	ADP	DET	
+('si_si_PRON', 'unirà_unire_VERB')	7	si unirà	si	unirà	si	unire	PRON	VERB	
+('che_che_PRON', 'riesco_riuscire_VERB')	7	che riesco	che	riesco	che	riuscire	PRON	VERB	
+('agli_a_ADP', 'altri_altro_PRON')	7	agli altri	agli	altri	a	altro	ADP	PRON	
+('suo_suo_DET', 'diario_diario_NOUN')	7	suo diario	suo	diario	suo	diario	DET	NOUN	
+('vedere_vedere_VERB', 'i_il_DET')	7		vedere	i	vedere	il	VERB	DET	
+('dei_di_ADP', 'dubbi_dubbio_NOUN')	7	dei dubbi	dei	dubbi	di	dubbio	ADP	NOUN	
+('tagliò_tagliare_VERB', 'la_il_DET')	7	tagliò la	tagliò	la	tagliare	il	VERB	DET	
+('sorpreso_sorprendere_VERB', 'che_che_SCONJ')	7	sorpreso che	sorpreso	che	sorprendere	che	VERB	SCONJ	
+('sono_essere_AUX', 'sorpreso_sorprendere_VERB')	7	sono sorpreso	sono	sorpreso	essere	sorprendere	AUX	VERB	
+('visto_vedere_VERB', 'questo_questo_PRON')	7	visto questo	visto	questo	vedere	questo	VERB	PRON	
+('è_essere_AUX', 'certamente_certamente_ADV')	7	è certamente	è	certamente	essere	certamente	AUX	ADV	
+('che_che_SCONJ', 'dobbiamo_dovere_AUX')	7	che dobbiamo	che	dobbiamo	che	dovere	SCONJ	AUX	
+('ancora_ancora_ADV', 'del_di_ADP')	7	ancora del	ancora	del	ancora	di	ADV	ADP	
+('quante_quanto_DET', 'mele_mela_NOUN')	7	quante mele	quante	mele	quanto	mela	DET	NOUN	
+('di_di_ADP', 'vostra_vostro_DET')	7	di vostra	di	vostra	di	vostro	ADP	DET	
+('lo_lo_PRON', 'volevo_volere_AUX')	7	lo volevo	lo	volevo	lo	volere	PRON	AUX	
+('il_il_DET', 'direttore_direttore_NOUN')	7	il direttore	il	direttore	il	direttore	DET	NOUN	
+('aprì_aprire_VERB', 'il_il_DET')	7	aprì il	aprì	il	aprire	il	VERB	DET	
+('mia_mio_DET', 'matita_matita_NOUN')	7	mia matita	mia	matita	mio	matita	DET	NOUN	
+('regalo_regalo_NOUN', 'a_a_ADP')	7		regalo	a	regalo	a	NOUN	ADP	
+('giocare_giocare_VERB', 'bene_bene_ADV')	7	giocare bene	giocare	bene	giocare	bene	VERB	ADV	
+('ditemi_ditemere_VERB', 'cosa_cosa_PRON')	7	ditemi cosa	ditemi	cosa	ditemere	cosa	VERB	PRON	
+('su_su_ADP', 'cui_cui_PRON')	7	su cui	su	cui	su	cui	ADP	PRON	
+('migliori_migliore_ADJ', 'amici_amico_NOUN')	7	migliori amici	migliori	amici	migliore	amico	ADJ	NOUN	
+('mangiai_mangiare_VERB', 'un_uno_DET')	7	mangiai un	mangiai	un	mangiare	uno	VERB	DET	
+('sua_suo_DET', 'presenza_presenza_NOUN')	7	sua presenza	sua	presenza	suo	presenza	DET	NOUN	
+('in_in_ADP', 'sua_suo_DET')	7	in sua	in	sua	in	suo	ADP	DET	
+('dovrei_dovere_AUX', 'parlare_parlare_VERB')	7	dovrei parlare	dovrei	parlare	dovere	parlare	AUX	VERB	
+('sono_essere_VERB', 'in_in_ADP')	7	sono in	sono	in	essere	in	VERB	ADP	
+('sarebbe_essere_AUX', 'andata_andare_VERB')	7	sarebbe andata	sarebbe	andata	essere	andare	AUX	VERB	
+('presto_presto_ADV', 'a_a_ADP')	7		presto	a	presto	a	ADV	ADP	
+('chiamare_chiamare_VERB', 'la_il_DET')	7	chiamare la	chiamare	la	chiamare	il	VERB	DET	
+('finta_finta_NOUN', 'di_di_ADP')	7	finta di	finta	di	finta	di	NOUN	ADP	
+"('studiando_studiare_VERB', ""l'_il_DET"")"	7	studiando l'	studiando	l'	studiare	il	VERB	DET	
+('e_e_CCONJ', 'anche_anche_ADV')	7	edico e anche	e	anche	e	anche	CCONJ	ADV	
+('anziana_anziano_ADJ', 'di_di_ADP')	7	anziana di	anziana	di	anziano	di	ADJ	ADP	
+('più_più_ADV', 'anziana_anziano_ADJ')	7	più anziana	più	anziana	più	anziano	ADV	ADJ	
+('superato_superare_VERB', 'il_il_DET')	7	superato il	superato	il	superare	il	VERB	DET	
+('non_non_ADV', 'dimenticherò_dimenticare_VERB')	7	non dimenticherò	non	dimenticherò	non	dimenticare	ADV	VERB	
+('è_essere_AUX', 'proibito_proibire_VERB')	7	è proibito	è	proibito	essere	proibire	AUX	VERB	
+('segreto_segreto_NOUN', 'di_di_ADP')	7	segreto di	segreto	di	segreto	di	NOUN	ADP	
+('paese_paese_NOUN', 'più_più_ADV')	7	paese più	paese	più	paese	più	NOUN	ADV	
+('andate_andare_VERB', 'al_a_ADP')	7	andate al	andate	al	andare	a	VERB	ADP	
+('sono_essere_AUX', 'diverse_diverso_ADJ')	7	sono diverse	sono	diverse	essere	diverso	AUX	ADJ	
+('il_il_DET', 'risultato_risultato_NOUN')	7	il risultato	il	risultato	il	risultato	DET	NOUN	
+('così_così_ADV', 'veloce_veloce_ADJ')	7	così veloce	così	veloce	così	veloce	ADV	ADJ	
+('avete_avere_AUX', 'messo_mettere_VERB')	7	avete messo	avete	messo	avere	mettere	AUX	VERB	
+('sa_sapere_VERB', 'tutto_tutto_PRON')	7	sa tutto	sa	tutto	sapere	tutto	VERB	PRON	
+('gatto_gatto_NOUN', 'non_non_ADV')	7	gatto non	gatto	non	gatto	non	NOUN	ADV	
+('cose_cosa_NOUN', 'stupide_stupido_ADJ')	7	cose stupide	cose	stupide	cosa	stupido	NOUN	ADJ	
+('sia_essere_AUX', 'ricco_ricco_ADJ')	7	sia ricco	sia	ricco	essere	ricco	AUX	ADJ	

@@ -1,0 +1,101 @@
+gram3_key	count	substr	term_1	term_2	term_3	lemma_1	lemma_2	lemma_3	pos_1	pos_2	pos_3	translation_en
+('non_non_ADV', 'ha_avere_VERB', 'abbastanza_abbastanza_ADV')	6	non ha abbastanza	non	ha	abbastanza	non	avere	abbastanza	ADV	VERB	ADV	
+('il_il_DET', 'mio_mio_DET', 'ufficio_ufficio_NOUN')	6	il mio ufficio	il	mio	ufficio	il	mio	ufficio	DET	DET	NOUN	
+('cosa_cosa_PRON', 'vuol_volere_AUX', 'dire_dire_VERB')	6	cosa vuol dire	cosa	vuol	dire	cosa	volere	dire	PRON	AUX	VERB	
+('avrò_avere_VERB', 'bisogno_bisogno_NOUN', 'di_di_ADP')	6	avrò bisogno di	avrò	bisogno	di	avere	bisogno	di	VERB	NOUN	ADP	
+('riesco_riuscire_VERB', 'ancora_ancora_ADV', 'a_a_ADP')	6	riesco a	riesco	ancora	a	riuscire	ancora	a	VERB	ADV	ADP	
+"('è_essere_AUX', ""l'_il_DET"", 'auto_auto_NOUN')"	6	è l'auto	è	l'	auto	essere	il	auto	AUX	DET	NOUN	
+('penso_pensare_VERB', 'che_che_SCONJ', 'sarò_essere_AUX')	6	penso che sarò	penso	che	sarò	pensare	che	essere	VERB	SCONJ	AUX	
+('hanno_avere_AUX', 'perso_perdere_VERB', 'la_il_DET')	6	hanno perso la	hanno	perso	la	avere	perdere	il	AUX	VERB	DET	
+('ho_avere_AUX', 'ricevuto_ricevere_VERB', 'una_uno_DET')	6	ho ricevuto una	ho	ricevuto	una	avere	ricevere	uno	AUX	VERB	DET	
+('non_non_ADV', 'si_si_PRON', 'sta_stare_AUX')	6	non si sta	non	si	sta	non	si	stare	ADV	PRON	AUX	
+('lavare_lavare_VERB', 'la_il_DET', 'sua_suo_DET')	6	lavare la sua	lavare	la	sua	lavare	il	suo	VERB	DET	DET	
+('ci_ci_PRON', 'sono_essere_VERB', 'in_in_ADP')	6	ci sono in	ci	sono	in	ci	essere	in	PRON	VERB	ADP	
+('è_essere_AUX', 'troppo_troppo_ADV', 'vecchia_vecchio_ADJ')	6	è troppo vecchia	è	troppo	vecchia	essere	troppo	vecchio	AUX	ADV	ADJ	
+"('studiare_studiare_VERB', ""all'_a_ADP"", 'estero_estero_NOUN')"	6	studiare all'estero	studiare	all'	estero	studiare	a	estero	VERB	ADP	NOUN	
+('al_a_ADP', 'parco_parco_NOUN', 'con_con_ADP')	6	al parco con	al	parco	con	a	parco	con	ADP	NOUN	ADP	
+('in_in_ADP', 'quella_quello_DET', 'scuola_scuola_NOUN')	6	in quella scuola	in	quella	scuola	in	quello	scuola	ADP	DET	NOUN	
+('sicura_sicuro_ADJ', 'che_che_SCONJ', 'sia_essere_AUX')	6	sicura che sia	sicura	che	sia	sicuro	che	essere	ADJ	SCONJ	AUX	
+('ciò_ciò_PRON', 'che_che_PRON', 'mi_mi_PRON')	6	ciò che mi	ciò	che	mi	ciò	che	mi	PRON	PRON	PRON	
+('si_si_PRON', 'fiderà_fidare_VERB', 'di_di_ADP')	6	si fiderà di	si	fiderà	di	si	fidare	di	PRON	VERB	ADP	
+('sarà_essere_AUX', 'felice_felice_ADJ', 'di_di_ADP')	6	sarà felice di	sarà	felice	di	essere	felice	di	AUX	ADJ	ADP	
+('voi_voi_PRON', 'riuscite_riuscito_VERB', 'a_a_ADP')	6	voi riuscite a	voi	riuscite	a	voi	riuscito	a	PRON	VERB	ADP	
+"('parlare_parlare_VERB', ""l'_il_DET"", 'inglese_inglese_NOUN')"	6	parlare l'inglese	parlare	l'	inglese	parlare	il	inglese	VERB	DET	NOUN	
+('ho_avere_VERB', 'tempo_tempo_NOUN', 'di_di_ADP')	6	ho tempo di	ho	tempo	di	avere	tempo	di	VERB	NOUN	ADP	
+('quelli_quello_PRON', 'sono_essere_AUX', 'i_il_DET')	6	quelli	quelli	sono	i	quello	essere	il	PRON	AUX	DET	
+('perché_perché_ADV', 'non_non_ADV', 'me_me_PRON')	6	perché non me	perché	non	me	perché	non	me	ADV	ADV	PRON	
+('ascoltare_ascoltare_VERB', 'la_il_DET', 'musica_musica_NOUN')	6	ascoltare la musica	ascoltare	la	musica	ascoltare	il	musica	VERB	DET	NOUN	
+"('un_uno_DET', ""po'_poco_ADV"", 'a_a_ADP')"	6		un	po'	a	uno	poco	a	DET	ADV	ADP	
+"('se_se_SCONJ', ""n'_ne_PRON"", 'è_essere_AUX')"	6	se n'è	se	n'	è	se	ne	essere	SCONJ	PRON	AUX	
+"(""n'_ne_PRON"", 'è_essere_AUX', 'andata_andare_VERB')"	6	n'è andata	n'	è	andata	ne	essere	andare	PRON	AUX	VERB	
+('vai_andare_VERB', 'a_a_ADP', 'scuola_scuola_NOUN')	6	vai a scuola	vai	a	scuola	andare	a	scuola	VERB	ADP	NOUN	
+('il_il_DET', 'cibo_cibo_NOUN', 'in_in_ADP')	6	il cibo in	il	cibo	in	il	cibo	in	DET	NOUN	ADP	
+('mia_mio_DET', 'macchina_macchina_NOUN', 'è_essere_AUX')	6	mia macchina è	mia	macchina	è	mio	macchina	essere	DET	NOUN	AUX	
+('è_essere_AUX', 'più_più_ADV', 'vecchia_vecchio_ADJ')	6	è più vecchia	è	più	vecchia	essere	più	vecchio	AUX	ADV	ADJ	
+('qualcosa_qualcosa_PRON', 'per_per_ADP', 'lei_lei_PRON')	6	qualcosa per lei	qualcosa	per	lei	qualcosa	per	lei	PRON	ADP	PRON	
+('come_come_SCONJ', 'mi_mi_PRON', 'sento_sentire_VERB')	6	come mi sento	come	mi	sento	come	mi	sentire	SCONJ	PRON	VERB	
+('mi_mi_PRON', 'piace_piacere_VERB', 'essere_essere_AUX')	6	mi piace essere	mi	piace	essere	mi	piacere	essere	PRON	VERB	AUX	
+('una_uno_DET', 'cosa_cosa_NOUN', 'così_così_ADV')	6	una cosa così	una	cosa	così	uno	cosa	così	DET	NOUN	ADV	
+('le_il_DET', 'tue_tuo_DET', 'chiavi_chiave_NOUN')	6	le tue chiavi	le	tue	chiavi	il	tuo	chiave	DET	DET	NOUN	
+"(""c'_ci_PRON"", 'è_essere_VERB', 'da_da_ADP')"	6	c'è da	c'	è	da	ci	essere	da	PRON	VERB	ADP	
+('con_con_ADP', 'mio_mio_DET', 'fratello_fratello_NOUN')	6	con mio fratello	con	mio	fratello	con	mio	fratello	ADP	DET	NOUN	
+('vita_vita_NOUN', 'è_essere_AUX', 'una_uno_DET')	6	vita è una	vita	è	una	vita	essere	uno	NOUN	AUX	DET	
+('andare_andare_VERB', 'alla_a_ADP', 'festa_festa_NOUN')	6	andare alla festa	andare	alla	festa	andare	a	festa	VERB	ADP	NOUN	
+('è_essere_AUX', 'molto_molto_ADV', 'buono_buono_ADJ')	6	è molto buono	è	molto	buono	essere	molto	buono	AUX	ADV	ADJ	
+('che_che_SCONJ', 'sia_essere_AUX', 'troppo_troppo_ADV')	6	che sia troppo	che	sia	troppo	che	essere	troppo	SCONJ	AUX	ADV	
+('questo_questo_PRON', 'è_essere_AUX', 'troppo_troppo_ADV')	6	questo è troppo	questo	è	troppo	questo	essere	troppo	PRON	AUX	ADV	
+('non_non_ADV', 'è_essere_AUX', 'mia_mio_DET')	6	non è mia	non	è	mia	non	essere	mio	ADV	AUX	DET	
+('prese_prendere_VERB', 'in_in_ADP', 'prestito_prestito_NOUN')	6	prese in prestito	prese	in	prestito	prendere	in	prestito	VERB	ADP	NOUN	
+('è_essere_AUX', 'un_uno_DET', 'ingegnere_ingegnere_NOUN')	6	è un ingegnere	è	un	ingegnere	essere	uno	ingegnere	AUX	DET	NOUN	
+('un_uno_DET', 'amico_amico_NOUN', 'che_che_PRON')	6	un amico che	un	amico	che	uno	amico	che	DET	NOUN	PRON	
+('il_il_DET', 'nostro_nostro_DET', 'piano_piano_NOUN')	6	il nostro piano	il	nostro	piano	il	nostro	piano	DET	DET	NOUN	
+('che_che_DET', 'cosa_cosa_PRON', 'dovremmo_dovere_AUX')	6	che cosa dovremmo	che	cosa	dovremmo	che	cosa	dovere	DET	PRON	AUX	
+('io_io_PRON', 'sto_essere_AUX', 'facendo_fare_VERB')	6	io sto facendo	io	sto	facendo	io	essere	fare	PRON	AUX	VERB	
+('attenzione_attenzione_NOUN', 'a_a_ADP', 'non_non_ADV')	6	attenzione a non	attenzione	a	non	attenzione	a	non	NOUN	ADP	ADV	
+('ha_avere_AUX', 'detto_dire_VERB', 'cosa_cosa_PRON')	6	ha detto cosa	ha	detto	cosa	avere	dire	cosa	AUX	VERB	PRON	
+('qui_qui_ADV', 'per_per_ADP', 'giocare_giocare_VERB')	6	qui per giocare	qui	per	giocare	qui	per	giocare	ADV	ADP	VERB	
+('spesso_spesso_ADV', 'in_in_ADP', 'ritardo_ritardo_NOUN')	6	spesso in ritardo	spesso	in	ritardo	spesso	in	ritardo	ADV	ADP	NOUN	
+('davvero_davvero_ADV', 'bisogno_bisogno_NOUN', 'di_di_ADP')	6	davvero bisogno di	davvero	bisogno	di	davvero	bisogno	di	ADV	NOUN	ADP	
+('avete_avere_AUX', 'mai_mai_ADV', 'letto_leggere_VERB')	6	avete mai letto	avete	mai	letto	avere	mai	leggere	AUX	ADV	VERB	
+('mai_mai_ADV', 'letto_leggere_VERB', 'la_il_DET')	6	mai letto la	mai	letto	la	mai	leggere	il	ADV	VERB	DET	
+('le_il_DET', 'mie_mio_DET', 'lettere_lettera_NOUN')	6	le mie lettere	le	mie	lettere	il	mio	lettera	DET	DET	NOUN	
+('il_il_DET', 'suo_suo_DET', 'paese_paese_NOUN')	6	il suo paese	il	suo	paese	il	suo	paese	DET	DET	NOUN	
+('non_non_ADV', 'abbiamo_avere_VERB', 'bisogno_bisogno_NOUN')	6	non abbiamo bisogno	non	abbiamo	bisogno	non	avere	bisogno	ADV	VERB	NOUN	
+('fatto_fare_VERB', 'una_uno_DET', 'doccia_doccia_NOUN')	6	fatto una doccia	fatto	una	doccia	fare	uno	doccia	VERB	DET	NOUN	
+('per_per_ADP', 'quale_quale_DET', 'ragione_ragione_NOUN')	6	per quale ragione	per	quale	ragione	per	quale	ragione	ADP	DET	NOUN	
+('il_il_DET', 'mio_mio_DET', 'fratello_fratello_NOUN')	6	il mio fratello	il	mio	fratello	il	mio	fratello	DET	DET	NOUN	
+('nei_in_ADP', 'loro_loro_DET', 'uffici_ufficio_NOUN')	6	nei loro uffici	nei	loro	uffici	in	loro	ufficio	ADP	DET	NOUN	
+('che_che_SCONJ', 'lei_lei_PRON', 'vada_andare_VERB')	6	che lei vada	che	lei	vada	che	lei	andare	SCONJ	PRON	VERB	
+('ci_ci_PRON', 'vuole_volere_VERB', 'per_per_ADP')	6	ci vuole per	ci	vuole	per	ci	volere	per	PRON	VERB	ADP	
+('perché_perché_ADV', 'non_non_ADV', 'gli_gli_PRON')	6	perché non gli	perché	non	gli	perché	non	gli	ADV	ADV	PRON	
+('in_in_ADP', 'comune_comune_NOUN', 'con_con_ADP')	6	in comune con	in	comune	con	in	comune	con	ADP	NOUN	ADP	
+('che_che_DET', 'cosa_cosa_PRON', 'parla_parlare_VERB')	6	che cosa parla	che	cosa	parla	che	cosa	parlare	DET	PRON	VERB	
+('bisogno_bisogno_NOUN', 'di_di_ADP', 'qualcosa_qualcosa_PRON')	6	bisogno di qualcosa	bisogno	di	qualcosa	bisogno	di	qualcosa	NOUN	ADP	PRON	
+('queste_questo_DET', 'cose_cosa_NOUN', 'succedono_succedere_VERB')	6	queste cose succedono	queste	cose	succedono	questo	cosa	succedere	DET	NOUN	VERB	
+('mi_mi_PRON', 'sarei_essere_AUX', 'mai_mai_ADV')	6	mi sarei mai	mi	sarei	mai	mi	essere	mai	PRON	AUX	ADV	
+('bravo_bravo_ADJ', 'a_a_ADP', 'cucinare_cucinare_VERB')	6	bravo a cucinare	bravo	a	cucinare	bravo	a	cucinare	ADJ	ADP	VERB	
+('farò_fare_VERB', 'del_di_ADP', 'mio_mio_DET')	6	farò del mio	farò	del	mio	fare	di	mio	VERB	ADP	DET	
+('comprato_comprare_VERB', 'un_uno_DET', 'nuovo_nuovo_ADJ')	6	comprato un nuovo	comprato	un	nuovo	comprare	uno	nuovo	VERB	DET	ADJ	
+('è_essere_AUX', 'brava_bravo_ADJ', 'in_in_ADP')	6	è brava in	è	brava	in	essere	bravo	in	AUX	ADJ	ADP	
+('dice_dire_VERB', 'di_di_ADP', 'un_uno_DET')	6	dice di un	dice	di	un	dire	di	uno	VERB	ADP	DET	
+('è_essere_AUX', 'mio_mio_DET', 'zio_zio_NOUN')	6	è mio zio	è	mio	zio	essere	mio	zio	AUX	DET	NOUN	
+('zucchero_zucchero_NOUN', 'nel_in_ADP', 'suo_suo_DET')	6	zucchero nel suo	zucchero	nel	suo	zucchero	in	suo	NOUN	ADP	DET	
+"(""l'_il_DET"", 'uomo_uomo_NOUN', 'più_più_ADV')"	6	l'uomo più	l'	uomo	più	il	uomo	più	DET	NOUN	ADV	
+('ascoltato_ascoltare_VERB', 'della_di_ADP', 'musica_musica_NOUN')	6	ascoltato della musica	ascoltato	della	musica	ascoltare	di	musica	VERB	ADP	NOUN	
+('non_non_ADV', 'sono_essere_AUX', 'stato_essere_AUX')	6	non sono stato	non	sono	stato	non	essere	essere	ADV	AUX	AUX	
+('non_non_ADV', 'vengo_venire_AUX', 'pagato_pagare_VERB')	6	non vengo pagato	non	vengo	pagato	non	venire	pagare	ADV	AUX	VERB	
+('aveva_avere_VERB', 'molto_molto_DET', 'denaro_denaro_NOUN')	6	aveva molto denaro	aveva	molto	denaro	avere	molto	denaro	VERB	DET	NOUN	
+('troppo_troppo_ADV', 'impegnato_impegnare_VERB', 'per_per_ADP')	6	troppo impegnato per	troppo	impegnato	per	troppo	impegnare	per	ADV	VERB	ADP	
+('loro_loro_PRON', 'che_che_SCONJ', 'non_non_ADV')	6	loro che non	loro	che	non	loro	che	non	PRON	SCONJ	ADV	
+('penso_pensare_VERB', 'di_di_ADP', 'sapere_sapere_VERB')	6	penso di sapere	penso	di	sapere	pensare	di	sapere	VERB	ADP	VERB	
+('io_io_PRON', 'e_e_CCONJ', 'lei_lei_PRON')	6	io e lei	io	e	lei	io	e	lei	PRON	CCONJ	PRON	
+('farebbe_fare_VERB', 'meglio_meglio_ADV', 'ad_a_ADP')	6	farebbe meglio ad	farebbe	meglio	ad	fare	meglio	a	VERB	ADV	ADP	
+('che_che_SCONJ', 'tu_tu_PRON', 'abbia_avere_VERB')	6	che tu abbia	che	tu	abbia	che	tu	avere	SCONJ	PRON	VERB	
+('niente_niente_PRON', 'da_da_ADP', 'fare_fare_VERB')	6	niente da fare	niente	da	fare	niente	da	fare	PRON	ADP	VERB	
+('giocando_giocare_VERB', 'con_con_ADP', 'il_il_DET')	6	giocando con il	giocando	con	il	giocare	con	il	VERB	ADP	DET	
+('con_con_ADP', 'il_il_DET', 'cane_cane_NOUN')	6	con il cane	con	il	cane	con	il	cane	ADP	DET	NOUN	
+('sono_essere_AUX', 'nata_nascere_VERB', 'in_in_ADP')	6	sono nata in	sono	nata	in	essere	nascere	in	AUX	VERB	ADP	
+('non_non_ADV', 'era_essere_AUX', 'una_uno_DET')	6	non era una	non	era	una	non	essere	uno	ADV	AUX	DET	
+('va_andare_VERB', 'al_a_ADP', 'lavoro_lavoro_NOUN')	6	va al lavoro	va	al	lavoro	andare	a	lavoro	VERB	ADP	NOUN	
+('si_si_PRON', 'lamenta_lamentare_VERB', 'sempre_sempre_ADV')	6	si lamenta sempre	si	lamenta	sempre	si	lamentare	sempre	PRON	VERB	ADV	
+('il_il_DET', 'francese_francese_NOUN', 'con_con_ADP')	6	il francese con	il	francese	con	il	francese	con	DET	NOUN	ADP	

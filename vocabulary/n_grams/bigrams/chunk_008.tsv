@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('sul_su_ADP', 'tavolo_tavolo_NOUN')	49	sul tavolo	sul	tavolo	su	tavolo	ADP	NOUN	
+('io_io_PRON', 'pensavo_pensare_VERB')	49	io pensavo	io	pensavo	io	pensare	PRON	VERB	
+('è_essere_AUX', 'importante_importante_ADJ')	49	è importante	è	importante	essere	importante	AUX	ADJ	
+('preoccupato_preoccupato_ADJ', 'per_per_ADP')	49	preoccupato per	preoccupato	per	preoccupato	per	ADJ	ADP	
+('ha_avere_AUX', 'vinto_vincere_VERB')	49	ha vinto	ha	vinto	avere	vincere	AUX	VERB	
+('niente_niente_PRON', 'di_di_ADP')	49	niente di	niente	di	niente	di	PRON	ADP	
+('li_li_PRON', 'ho_avere_AUX')	49	li ho	li	ho	li	avere	PRON	AUX	
+('lo_lo_PRON', 'sapevo_sapere_VERB')	49	lo sapevo	lo	sapevo	lo	sapere	PRON	VERB	
+('gioca_giocare_VERB', 'a_a_ADP')	49	gioca	gioca	a	giocare	a	VERB	ADP	
+('la_il_DET', 'mela_mela_NOUN')	48	la mela	la	mela	il	mela	DET	NOUN	
+('comprò_comprare_VERB', 'un_uno_DET')	48	comprò un	comprò	un	comprare	uno	VERB	DET	
+('ancora_ancora_ADV', 'a_a_ADP')	48	a	ancora	a	ancora	a	ADV	ADP	
+('comprato_comprare_VERB', 'una_uno_DET')	48	comprato una	comprato	una	comprare	uno	VERB	DET	
+('paura_paura_NOUN', 'dei_di_ADP')	48	paura dei	paura	dei	paura	di	NOUN	ADP	
+('io_io_PRON', 'sarò_essere_AUX')	48	io sarò	io	sarò	io	essere	PRON	AUX	
+('imparare_imparare_VERB', 'il_il_DET')	48	imparare il	imparare	il	imparare	il	VERB	DET	
+('le_le_PRON', 'avete_avere_AUX')	48	le avete	le	avete	le	avere	PRON	AUX	
+('un_uno_DET', 'computer_computer_NOUN')	48	un computer	un	computer	uno	computer	DET	NOUN	
+('è_essere_AUX', 'tornato_tornare_VERB')	48	è tornato	è	tornato	essere	tornare	AUX	VERB	
+"('piace_piacere_VERB', ""l'_il_DET"")"	48	piace l'	piace	l'	piacere	il	VERB	DET	
+"(""l'_lo_PRON"", 'abbiamo_avere_AUX')"	48	l'abbiamo	l'	abbiamo	lo	avere	PRON	AUX	
+('a_a_ADP', 'calcio_calcio_NOUN')	48	a calcio	a	calcio	a	calcio	ADP	NOUN	
+('ha_avere_AUX', 'bevuto_bere_VERB')	48	ha bevuto	ha	bevuto	avere	bere	AUX	VERB	
+('il_il_DET', 'signor_signore_NOUN')	48	il signor	il	signor	il	signore	DET	NOUN	
+('di_di_ADP', 'casa_casa_NOUN')	48	di casa	di	casa	di	casa	ADP	NOUN	
+('solo_solo_ADV', 'un_uno_DET')	48	solo un	solo	un	solo	uno	ADV	DET	
+('vada_andare_VERB', 'a_a_ADP')	48	va	vada	a	andare	a	VERB	ADP	
+('del_di_ADP', 'vino_vino_NOUN')	48	del vino	del	vino	di	vino	ADP	NOUN	
+('dei_di_ADP', 'fiori_fiore_NOUN')	48	dei fiori	dei	fiori	di	fiore	ADP	NOUN	
+('o_o_CCONJ', 'no_no_INTJ')	48	o no	o	no	o	no	CCONJ	INTJ	
+('sa_sapere_VERB', 'cosa_cosa_PRON')	48	sa cosa	sa	cosa	sapere	cosa	VERB	PRON	
+('mia_mio_DET', 'amica_amico_NOUN')	48	mia amica	mia	amica	mio	amico	DET	NOUN	
+('la_il_DET', 'radio_radio_NOUN')	47	la radio	la	radio	il	radio	DET	NOUN	
+('è_essere_AUX', 'quasi_quasi_ADV')	47	è quasi	è	quasi	essere	quasi	AUX	ADV	
+('quanto_quanto_ADV', 'spesso_spesso_ADV')	47	quanto spesso	quanto	spesso	quanto	spesso	ADV	ADV	
+('siete_essere_AUX', 'mai_mai_ADV')	47	siete mai	siete	mai	essere	mai	AUX	ADV	
+('molto_molto_ADV', 'felice_felice_ADJ')	47	molto felice	molto	felice	molto	felice	ADV	ADJ	
+('giocando_giocare_VERB', 'a_a_ADP')	47		giocando	a	giocare	a	VERB	ADP	
+('io_io_PRON', 'so_sapere_VERB')	47	io so	io	so	io	sapere	PRON	VERB	
+('a_a_ADP', 'chiave_chiave_NOUN')	47	a chiave	a	chiave	a	chiave	ADP	NOUN	
+('è_essere_AUX', 'tutto_tutto_PRON')	47	è tutto	è	tutto	essere	tutto	AUX	PRON	
+('a_a_ADP', 'giocare_giocare_VERB')	47	a giocare	a	giocare	a	giocare	ADP	VERB	
+('ha_avere_VERB', 'dei_di_ADP')	47	ha dei	ha	dei	avere	di	VERB	ADP	
+('i_il_DET', 'nostri_nostro_DET')	47	i nostri	i	nostri	il	nostro	DET	DET	
+('giocato_giocare_VERB', 'a_a_ADP')	47		giocato	a	giocare	a	VERB	ADP	
+('della_di_ADP', 'mia_mio_DET')	47	della mia	della	mia	di	mio	ADP	DET	
+('sono_essere_AUX', 'la_il_DET')	47	sono la	sono	la	essere	il	AUX	DET	
+('ero_essere_AUX', 'molto_molto_ADV')	47	ero molto	ero	molto	essere	molto	AUX	ADV	
+('lo_lo_PRON', 'avete_avere_AUX')	47	lo avete	lo	avete	lo	avere	PRON	AUX	
+('parlare_parlare_VERB', 'di_di_ADP')	46	parlare di	parlare	di	parlare	di	VERB	ADP	
+('da_da_ADP', 'sole_sole_NOUN')	46	da sole	da	sole	da	sole	ADP	NOUN	
+('che_che_SCONJ', 'vi_vi_PRON')	46	che vi	che	vi	che	vi	SCONJ	PRON	
+('avrebbe_avere_AUX', 'dovuto_dovere_AUX')	46	avrebbe dovuto	avrebbe	dovuto	avere	dovere	AUX	AUX	
+('la_il_DET', 'risposta_risposta_NOUN')	46	la risposta	la	risposta	il	risposta	DET	NOUN	
+('un_uno_DET', 'minuto_minuto_NOUN')	46	un minuto	un	minuto	uno	minuto	DET	NOUN	
+('di_di_ADP', 'tè_tè_NOUN')	46	di tè	di	tè	di	tè	ADP	NOUN	
+('la_il_DET', 'finestra_finestra_NOUN')	46	la finestra	la	finestra	il	finestra	DET	NOUN	
+('di_di_ADP', 'sua_suo_DET')	46	di sua	di	sua	di	suo	ADP	DET	
+('a_a_ADP', 'suonare_suonare_VERB')	46	a suonare	a	suonare	a	suonare	ADP	VERB	
+('hai_avere_AUX', 'comprato_comprare_VERB')	46	hai comprato	hai	comprato	avere	comprare	AUX	VERB	
+('arrabbiato_arrabbiare_VERB', 'con_con_ADP')	46	arrabbiato con	arrabbiato	con	arrabbiare	con	VERB	ADP	
+('sono_essere_AUX', 'piuttosto_piuttosto_ADV')	46	sono piuttosto	sono	piuttosto	essere	piuttosto	AUX	ADV	
+"(""all'_a_ADP"", 'estero_estero_NOUN')"	46	all'estero	all'	estero	a	estero	ADP	NOUN	
+('in_in_ADP', 'giro_giro_NOUN')	46	in giro	in	giro	in	giro	ADP	NOUN	
+('li_li_PRON', 'avete_avere_AUX')	46	li avete	li	avete	li	avere	PRON	AUX	
+('insegnante_insegnante_NOUN', 'di_di_ADP')	46	insegnante di	insegnante	di	insegnante	di	NOUN	ADP	
+('festa_festa_NOUN', 'di_di_ADP')	46	festa di	festa	di	festa	di	NOUN	ADP	
+('tazza_tazza_NOUN', 'di_di_ADP')	46	tazza di	tazza	di	tazza	di	NOUN	ADP	
+('di_di_ADP', 'aiutare_aiutare_VERB')	46	di aiutare	di	aiutare	di	aiutare	ADP	VERB	
+('a_a_ADP', 'nessuno_nessuno_PRON')	46	a nessuno	a	nessuno	a	nessuno	ADP	PRON	
+('non_non_ADV', 'avete_avere_AUX')	46	non avete	non	avete	non	avere	ADV	AUX	
+('so_sapere_VERB', 'cosa_cosa_PRON')	46	so cosa	so	cosa	sapere	cosa	VERB	PRON	
+('quanto_quanto_PRON', 'è_essere_AUX')	46	quanto è	quanto	è	quanto	essere	PRON	AUX	
+('più_più_ADV', 'grande_grande_ADJ')	46	più grande	più	grande	più	grande	ADV	ADJ	
+('mio_mio_DET', 'figlio_figlio_NOUN')	46	mio figlio	mio	figlio	mio	figlio	DET	NOUN	
+('non_non_ADV', 'hai_avere_AUX')	46	non hai	non	hai	non	avere	ADV	AUX	
+('a_a_ADP', 'sua_suo_DET')	45	a sua	a	sua	a	suo	ADP	DET	
+('di_di_ADP', 'venire_venire_VERB')	45	di venire	di	venire	di	venire	ADP	VERB	
+"(""l'_lo_PRON"", 'hanno_avere_AUX')"	45	l'hanno	l'	hanno	lo	avere	PRON	AUX	
+('a_a_ADP', 'prendere_prendere_VERB')	45	andare a prendere	a	prendere	a	prendere	ADP	VERB	
+('mio_mio_DET', 'nome_nome_NOUN')	45	mio nome	mio	nome	mio	nome	DET	NOUN	
+"(""l'_il_DET"", 'insegnante_insegnante_NOUN')"	45	l'insegnante	l'	insegnante	il	insegnante	DET	NOUN	
+('sul_su_ADP', 'serio_serio_ADJ')	45	sul serio	sul	serio	su	serio	ADP	ADJ	
+('ho_avere_AUX', 'preso_prendere_VERB')	45	ho preso	ho	preso	avere	prendere	AUX	VERB	
+('era_essere_AUX', 'così_così_ADV')	45	era così	era	così	essere	così	AUX	ADV	
+('ho_avere_VERB', 'paura_paura_NOUN')	45	ho paura	ho	paura	avere	paura	VERB	NOUN	
+('mi_mi_PRON', 'diede_dare_VERB')	45	mi diede	mi	diede	mi	dare	PRON	VERB	
+('sicuro_sicuro_ADJ', 'di_di_ADP')	45	sicuro di	sicuro	di	sicuro	di	ADJ	ADP	
+('la_il_DET', 'stessa_stesso_ADJ')	45	la stessa	la	stessa	il	stesso	DET	ADJ	
+('in_in_ADP', 'pensione_pensione_NOUN')	45	in pensione	in	pensione	in	pensione	ADP	NOUN	
+"(""l'_il_DET"", 'unica_unico_ADJ')"	45	l'unica	l'	unica	il	unico	DET	ADJ	
+('perché_perché_SCONJ', 'non_non_ADV')	45	perché non	perché	non	perché	non	SCONJ	ADV	
+"(""un'_uno_DET"", 'auto_auto_NOUN')"	45	un'auto	un'	auto	uno	auto	DET	NOUN	
+('tutti_tutto_PRON', 'che_che_SCONJ')	45	tutti che	tutti	che	tutto	che	PRON	SCONJ	
+"(""l'_il_DET"", 'ultima_ultimo_ADJ')"	45	l'ultima	l'	ultima	il	ultimo	DET	ADJ	
+('fatto_fare_VERB', 'una_uno_DET')	45	fatto una	fatto	una	fare	uno	VERB	DET	
+('in_in_ADP', 'prigione_prigione_NOUN')	45	in prigione	in	prigione	in	prigione	ADP	NOUN	
+('vi_vi_PRON', 'siete_essere_AUX')	45	vi siete	vi	siete	vi	essere	PRON	AUX	
+('sta_stare_AUX', 'aspettando_aspettare_VERB')	44	sta aspettando	sta	aspettando	stare	aspettare	AUX	VERB	
+('iniziò_iniziare_VERB', 'a_a_ADP')	44	iniziò a	iniziò	a	iniziare	a	VERB	ADP	

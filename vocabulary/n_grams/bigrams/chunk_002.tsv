@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('loro_loro_PRON', 'sono_essere_AUX')	134	loro sono	loro	sono	loro	essere	PRON	AUX	they are
+('sembra_sembrare_VERB', 'che_che_SCONJ')	134	sembra che	sembra	che	sembrare	che	VERB	SCONJ	it seems that
+('si_si_PRON', 'sono_essere_AUX')	133	si sono	si	sono	si	essere	PRON	AUX	have ... themselves
+('di_di_ADP', 'farlo_fare_VERB')	133	di farlo	di	farlo	di	fare	ADP	VERB	to do it
+('le_le_PRON', 'piace_piacere_VERB')	133	le piace	le	piace	le	piacere	PRON	VERB	she likes it
+('di_di_ADP', 'più_più_ADV')	132	di più	di	più	di	più	ADP	ADV	more
+('non_non_ADV', 'penso_pensare_VERB')	131	non penso	non	penso	non	pensare	ADV	VERB	I do not think
+('del_di_ADP', 'suo_suo_DET')	131	del suo	del	suo	di	suo	ADP	DET	of his (masculine); of hers (masculine)
+('lo_lo_PRON', 'so_sapere_VERB')	131	lo so	lo	so	lo	sapere	PRON	VERB	I know it
+('intenzione_intenzione_NOUN', 'di_di_ADP')	130	intenzione di	intenzione	di	intenzione	di	NOUN	ADP	intention to
+('le_le_PRON', 'ha_avere_AUX')	129	le ha	le	ha	le	avere	PRON	AUX	has them (feminine); has her
+('ha_avere_AUX', 'preso_prendere_VERB')	127	ha preso	ha	preso	avere	prendere	AUX	VERB	has taken
+('lei_lei_PRON', 'ha_avere_VERB')	127	lei ha	lei	ha	lei	avere	PRON	VERB	she has
+('non_non_ADV', 'essere_essere_AUX')	127	non essere	non	essere	non	essere	ADV	AUX	not to be
+('il_il_DET', 'cane_cane_NOUN')	126	il cane	il	cane	il	cane	DET	NOUN	the dog
+('non_non_ADV', 'aveva_avere_VERB')	126	non aveva	non	aveva	non	avere	ADV	VERB	did not have
+"(""l'_il_DET"", 'inglese_inglese_NOUN')"	126	l'inglese	l'	inglese	il	inglese	DET	NOUN	the English (masculine; before a vowel)
+('di_di_ADP', 'loro_loro_PRON')	126	di loro	di	loro	di	loro	ADP	PRON	of them
+('qualcosa_qualcosa_PRON', 'di_di_ADP')	125	qualcosa di	qualcosa	di	qualcosa	di	PRON	ADP	something of
+('andare_andare_VERB', 'in_in_ADP')	124	andare in	andare	in	andare	in	VERB	ADP	to go into
+('su_su_ADP', 'di_di_ADP')	124	su di	su	di	su	di	ADP	ADP	about
+('è_essere_AUX', 'mai_mai_ADV')	124	è mai	è	mai	essere	mai	AUX	ADV	has ever
+('non_non_ADV', 'piace_piacere_VERB')	123	non piace	non	piace	non	piacere	ADV	VERB	does not like
+('ha_avere_AUX', 'perso_perdere_VERB')	123	ha perso	ha	perso	avere	perdere	AUX	VERB	has lost
+('sicuro_sicuro_ADJ', 'che_che_SCONJ')	123	sicuro che	sicuro	che	sicuro	che	ADJ	SCONJ	sure that
+('in_in_ADP', 'una_uno_DET')	122	in una	in	una	in	uno	ADP	DET	in a (feminine)
+('la_il_DET', 'scuola_scuola_NOUN')	122	la scuola	la	scuola	il	scuola	DET	NOUN	the school
+('mi_mi_PRON', 'hanno_avere_AUX')	122	mi hanno	mi	hanno	mi	avere	PRON	AUX	have me
+('è_essere_AUX', 'davvero_davvero_ADV')	121	è davvero	è	davvero	essere	davvero	AUX	ADV	is really
+('è_essere_AUX', 'morto_morire_VERB')	120	è morto	è	morto	essere	morire	AUX	VERB	is dead
+('per_per_ADP', 'te_te_PRON')	120	per te	per	te	per	te	ADP	PRON	for you
+('voi_voi_PRON', 'non_non_ADV')	120	voi non	voi	non	voi	non	PRON	ADV	you (plural) do not
+('sapevo_sapere_VERB', 'che_che_SCONJ')	120	sapevo che	sapevo	che	sapere	che	VERB	SCONJ	I knew that
+('ad_a_ADP', 'andare_andare_VERB')	120	ad andare	ad	andare	a	andare	ADP	VERB	to go
+('hai_avere_AUX', 'mai_mai_ADV')	120	hai mai	hai	mai	avere	mai	AUX	ADV	have you ever
+('alla_a_ADP', 'festa_festa_NOUN')	120	alla festa	alla	festa	a	festa	ADP	NOUN	to the party
+"(""d'_di_ADP"", 'accordo_accordo_NOUN')"	119	d'accordo	d'	accordo	di	accordo	ADP	NOUN	okay
+('non_non_ADV', 'sarà_essere_AUX')	118	non sarà	non	sarà	non	essere	ADV	AUX	will not be
+('pensate_pensare_VERB', 'che_che_SCONJ')	118	pensate che	pensate	che	pensare	che	VERB	SCONJ	you (plural) think that
+('chi_chi_PRON', 'ha_avere_AUX')	116	chi ha	chi	ha	chi	avere	PRON	AUX	who has
+('deve_dovere_AUX', 'essere_essere_AUX')	116	deve essere	deve	essere	dovere	essere	AUX	AUX	must be
+('che_che_PRON', 'ha_avere_AUX')	116	che ha	che	ha	che	avere	PRON	AUX	that has
+('si_si_PRON', 'sta_stare_AUX')	116	si sta	si	sta	si	stare	PRON	AUX	is ... himself/herself
+('sono_essere_AUX', 'sicuro_sicuro_ADJ')	116	sono sicuro	sono	sicuro	essere	sicuro	AUX	ADJ	I am sure
+('tutto_tutto_DET', 'quello_quello_PRON')	116	tutto quello	tutto	quello	tutto	quello	DET	PRON	all that
+"(""un'_uno_DET"", 'altra_altro_ADJ')"	116	un'altra	un'	altra	uno	altro	DET	ADJ	another (feminine; before a vowel)
+('nella_in_ADP', 'sua_suo_DET')	116	nella sua	nella	sua	in	suo	ADP	DET	in his (feminine); in her (feminine)
+('è_essere_AUX', 'quello_quello_PRON')	115	è quello	è	quello	essere	quello	AUX	PRON	is that one
+('la_il_DET', 'porta_porta_NOUN')	115	la porta	la	porta	il	porta	DET	NOUN	the door
+('di_di_ADP', 'voi_voi_PRON')	115	di voi	di	voi	di	voi	ADP	PRON	of you (plural)
+('una_uno_DET', 'buona_buono_ADJ')	114	una buona	una	buona	uno	buono	DET	ADJ	a good (feminine)
+('di_di_ADP', 'nuovo_nuovo_ADJ')	114	di nuovo	di	nuovo	di	nuovo	ADP	ADJ	again
+('sicura_sicuro_ADJ', 'che_che_SCONJ')	114	sicura che	sicura	che	sicuro	che	ADJ	SCONJ	sure that (feminine)
+('che_che_SCONJ', 'tu_tu_PRON')	113	che tu	che	tu	che	tu	SCONJ	PRON	that you
+('qui_qui_ADV', 'per_per_ADP')	113	qui per	qui	per	qui	per	ADV	ADP	here for
+('la_il_DET', 'musica_musica_NOUN')	113	la musica	la	musica	il	musica	DET	NOUN	the music
+('il_il_DET', 'cibo_cibo_NOUN')	112	il cibo	il	cibo	il	cibo	DET	NOUN	the food
+('un_uno_DET', 'altro_altro_ADJ')	112	un altro	un	altro	uno	altro	DET	ADJ	another (masculine)
+('una_uno_DET', 'lettera_lettera_NOUN')	111	una lettera	una	lettera	uno	lettera	DET	NOUN	a letter
+('sa_sapere_VERB', 'che_che_SCONJ')	111	sa che	sa	che	sapere	che	VERB	SCONJ	knows that
+"(""cos'_cos'_PRON"", 'è_essere_AUX')"	111	cos'è	cos'	è	cos'	essere	PRON	AUX	what is it
+('suo_suo_DET', 'padre_padre_NOUN')	111	suo padre	suo	padre	suo	padre	DET	NOUN	his father; her father
+('un_uno_DET', 'uomo_uomo_NOUN')	111	un uomo	un	uomo	uno	uomo	DET	NOUN	a man
+('avete_avere_AUX', 'visto_vedere_VERB')	110	avete visto	avete	visto	avere	vedere	AUX	VERB	you (plural) have seen
+('non_non_ADV', 'li_li_PRON')	110	non li	non	li	non	li	ADV	PRON	not them
+('non_non_ADV', 'sa_sapere_VERB')	109	non sa	non	sa	non	sapere	ADV	VERB	does not know
+('ho_avere_VERB', 'una_uno_DET')	109	ho una	ho	una	avere	uno	VERB	DET	I have a (feminine)
+('non_non_ADV', 'vuole_volere_AUX')	109	non vuole	non	vuole	non	volere	ADV	AUX	does not want
+('che_che_SCONJ', 'sono_essere_AUX')	109	che sono	che	sono	che	essere	SCONJ	AUX	that are
+('che_che_SCONJ', 'io_io_PRON')	108	che io	che	io	che	io	SCONJ	PRON	that I
+('che_che_SCONJ', 'a_a_ADP')	108		che	a	che	a	SCONJ	ADP	that ... to
+('sta_stare_AUX', 'facendo_fare_VERB')	108	sta facendo	sta	facendo	stare	fare	AUX	VERB	is doing
+('era_essere_AUX', 'in_in_ADP')	108	era in	era	in	essere	in	AUX	ADP	was in
+('da_da_ADP', 'mangiare_mangiare_VERB')	108	da mangiare	da	mangiare	da	mangiare	ADP	VERB	to eat
+('che_che_SCONJ', 'mi_mi_PRON')	107	che mi	che	mi	che	mi	SCONJ	PRON	that ... me
+('io_io_PRON', 'amo_amare_VERB')	107	io amo	io	amo	io	amare	PRON	VERB	I love
+('è_essere_AUX', 'veramente_veramente_ADV')	107	è veramente	è	veramente	essere	veramente	AUX	ADV	is really
+('per_per_ADP', 'un_uno_DET')	107	per un	per	un	per	uno	ADP	DET	for a (masculine)
+('la_il_DET', 'vita_vita_NOUN')	106	la vita	la	vita	il	vita	DET	NOUN	life
+('loro_loro_PRON', 'non_non_ADV')	106	loro non	loro	non	loro	non	PRON	ADV	they do not
+('con_con_ADP', 'voi_voi_PRON')	106	con voi	con	voi	con	voi	ADP	PRON	with you (plural)
+"(""l'_lo_PRON"", 'hai_avere_AUX')"	106	l'hai	l'	hai	lo	avere	PRON	AUX	you have it; you have him (before a vowel)
+('avete_avere_AUX', 'mai_mai_ADV')	106	avete mai	avete	mai	avere	mai	AUX	ADV	have you (plural) ever
+('le_il_DET', 'cose_cosa_NOUN')	106	le cose	le	cose	il	cosa	DET	NOUN	the things
+('e_e_CCONJ', 'basta_bastare_VERB')	105	e basta	e	basta	e	bastare	CCONJ	VERB	and that's it
+('un_uno_DET', 'cane_cane_NOUN')	105	un cane	un	cane	uno	cane	DET	NOUN	a dog
+('è_essere_AUX', 'sempre_sempre_ADV')	105	è sempre	è	sempre	essere	sempre	AUX	ADV	is always
+('essere_essere_AUX', 'un_uno_DET')	105	essere un	essere	un	essere	uno	AUX	DET	to be a (masculine)
+('sono_essere_AUX', 'sicura_sicuro_ADJ')	105	sono sicura	sono	sicura	essere	sicuro	AUX	ADJ	I am sure (feminine)
+('un_uno_DET', 'buon_buono_ADJ')	105	un buon	un	buon	uno	buono	DET	ADJ	a good (masculine)
+('a_a_ADP', 'trovare_trovare_VERB')	103	a trovare	a	trovare	a	trovare	ADP	VERB	to find
+('i_il_DET', 'cani_cane_NOUN')	103	i cani	i	cani	il	cane	DET	NOUN	the dogs
+('dice_dire_VERB', 'di_di_ADP')	102	di	dice	di	dire	di	VERB	ADP	says of
+('ha_avere_AUX', 'mangiato_mangiare_VERB')	102	ha mangiato	ha	mangiato	avere	mangiare	AUX	VERB	has eaten
+('a_a_ADP', 'parlare_parlare_VERB')	102	a parlare	a	parlare	a	parlare	ADP	VERB	to talk
+('un_uno_DET', 'errore_errore_NOUN')	102	un errore	un	errore	uno	errore	DET	NOUN	a mistake
+('per_per_ADP', 'voi_voi_PRON')	101	per voi	per	voi	per	voi	ADP	PRON	for you (plural)
+('sua_suo_DET', 'moglie_moglie_NOUN')	100	sua moglie	sua	moglie	suo	moglie	DET	NOUN	his wife; her wife
+('ti_ti_PRON', 'ho_avere_AUX')	100	ti ho	ti	ho	ti	avere	PRON	AUX	I have you
+('sua_suo_DET', 'madre_madre_NOUN')	99	sua madre	sua	madre	suo	madre	DET	NOUN	his mother; her mother

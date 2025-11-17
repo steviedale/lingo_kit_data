@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('morendo_morire_VERB', 'di_di_ADP')	5	morendo di	morendo	di	morire	di	VERB	ADP	
+('il_il_DET', 'fumo_fumo_NOUN')	5	il fumo	il	fumo	il	fumo	DET	NOUN	
+('ancora_ancora_ADV', 'studiando_studiare_VERB')	5	ancora studiando	ancora	studiando	ancora	studiare	ADV	VERB	
+('preparando_preparare_VERB', 'per_per_ADP')	5	preparando per	preparando	per	preparare	per	VERB	ADP	
+('siate_essere_AUX', 'felici_felice_ADJ')	5	siate felici	siate	felici	essere	felice	AUX	ADJ	
+('forma_forma_NOUN', 'di_di_ADP')	5	forma di	forma	di	forma	di	NOUN	ADP	
+('peggiorando_peggiorare_VERB', 'le_il_DET')	5	peggiorando le	peggiorando	le	peggiorare	il	VERB	DET	
+('stata_essere_AUX', 'con_con_ADP')	5	stata con	stata	con	essere	con	AUX	ADP	
+('dica_dire_VERB', 'quando_quando_SCONJ')	5	dica quando	dica	quando	dire	quando	VERB	SCONJ	
+('un_uno_DET', 'cocktail_cocktail_NOUN')	5	un cocktail	un	cocktail	uno	cocktail	DET	NOUN	
+('stata_essere_AUX', 'brava_bravo_ADJ')	5	stata brava	stata	brava	essere	bravo	AUX	ADJ	
+('gli_gli_PRON', 'darò_dare_VERB')	5	gli darò	gli	darò	gli	dare	PRON	VERB	
+('suo_suo_DET', 'vero_vero_ADJ')	5	suo vero	suo	vero	suo	vero	DET	ADJ	
+('cattiva_cattivo_ADJ', 'influenza_influenza_NOUN')	5	cattiva influenza	cattiva	influenza	cattivo	influenza	ADJ	NOUN	
+('deciso_decidere_VERB', 'che_che_SCONJ')	5	deciso che	deciso	che	decidere	che	VERB	SCONJ	
+('è_essere_AUX', 'responsabile_responsabile_ADJ')	5	è responsabile	è	responsabile	essere	responsabile	AUX	ADJ	
+('lui_lui_PRON', 'prima_prima_ADV')	5	lui prima	lui	prima	lui	prima	PRON	ADV	
+('felice_felice_ADJ', 'a_a_ADP')	5		felice	a	felice	a	ADJ	ADP	
+"(""un'_uno_DET"", 'eccezione_eccezione_NOUN')"	5	un'eccezione	un'	eccezione	uno	eccezione	DET	NOUN	
+('nacque_nascere_VERB', 'a_a_ADP')	5	na	nacque	a	nascere	a	VERB	ADP	
+('suo_suo_DET', 'vino_vino_NOUN')	5	suo vino	suo	vino	suo	vino	DET	NOUN	
+('quanti_quanto_PRON', 'ne_ne_PRON')	5	quanti ne	quanti	ne	quanto	ne	PRON	PRON	
+('aver_avere_AUX', 'finito_finire_VERB')	5	aver finito	aver	finito	avere	finire	AUX	VERB	
+('sua_suo_DET', 'cucina_cucina_NOUN')	5	sua cucina	sua	cucina	suo	cucina	DET	NOUN	
+('ancora_ancora_ADV', 'pagato_pagare_VERB')	5	ancora pagato	ancora	pagato	ancora	pagare	ADV	VERB	
+('sul_su_ADP', 'tuo_tuo_DET')	5	sul tuo	sul	tuo	su	tuo	ADP	DET	
+('è_essere_AUX', 'versato_versare_VERB')	5	è versato	è	versato	essere	versare	AUX	VERB	
+('ballo_ballo_NOUN', 'studentesco_studentesco_ADJ')	5	ballo studentesco	ballo	studentesco	ballo	studentesco	NOUN	ADJ	
+('altro_altro_ADJ', 'lavoro_lavoro_NOUN')	5	altro lavoro	altro	lavoro	altro	lavoro	ADJ	NOUN	
+"(""cos'_cos'_PRON"", 'era_essere_VERB')"	5	cos'era	cos'	era	cos'	essere	PRON	VERB	
+('rotta_rompere_VERB', 'la_il_DET')	5	rotta la	rotta	la	rompere	il	VERB	DET	
+('facendo_fare_VERB', 'quello_quello_PRON')	5	facendo quello	facendo	quello	fare	quello	VERB	PRON	
+('una_uno_DET', 'modella_modella_NOUN')	5	una modella	una	modella	uno	modella	DET	NOUN	
+('mio_mio_DET', 'professore_professore_NOUN')	5	mio professore	mio	professore	mio	professore	DET	NOUN	
+('ti_ti_PRON', 'piacerebbe_piacere_VERB')	5	ti piacerebbe	ti	piacerebbe	ti	piacere	PRON	VERB	
+('studiato_studiare_VERB', 'francese_francese_ADJ')	5	studiato francese	studiato	francese	studiare	francese	VERB	ADJ	
+('stava_stare_AUX', 'aspettando_aspettare_VERB')	5	stava aspettando	stava	aspettando	stare	aspettare	AUX	VERB	
+('tutto_tutto_PRON', 'molto_molto_ADV')	5	tutto molto	tutto	molto	tutto	molto	PRON	ADV	
+('così_così_ADV', 'in_in_ADP')	5	così in	così	in	così	in	ADV	ADP	
+('consiglierei_consigliare_VERB', 'di_di_ADP')	5	consiglierei di	consiglierei	di	consigliare	di	VERB	ADP	
+('conversazione_conversazione_NOUN', 'con_con_ADP')	5	con	conversazione	con	conversazione	con	NOUN	ADP	
+('non_non_ADV', 'guida_guidare_VERB')	5	non guida	non	guida	non	guidare	ADV	VERB	
+('assente_assente_ADJ', 'da_da_ADP')	5	assente da	assente	da	assente	da	ADJ	ADP	
+('arrivate_arrivare_VERB', 'a_a_ADP')	5		arrivate	a	arrivare	a	VERB	ADP	
+('un_uno_DET', 'compromesso_compromesso_NOUN')	5	un compromesso	un	compromesso	uno	compromesso	DET	NOUN	
+('mia_mio_DET', 'frase_frase_NOUN')	5	mia frase	mia	frase	mio	frase	DET	NOUN	
+('posso_potere_AUX', 'sedere_sedere_VERB')	5	posso sedere	posso	sedere	potere	sedere	AUX	VERB	
+('ha_avere_AUX', 'consegnato_consegnare_VERB')	5	ha consegnato	ha	consegnato	avere	consegnare	AUX	VERB	
+('mani_mano_NOUN', 'di_di_ADP')	5	mani di	mani	di	mano	di	NOUN	ADP	
+('li_li_PRON', 'volevo_volere_AUX')	5	li volevo	li	volevo	li	volere	PRON	AUX	
+('quasi_quasi_ADV', 'finito_finire_VERB')	5	quasi finito	quasi	finito	quasi	finire	ADV	VERB	
+"('giorno_giorno_NOUN', ""d'_di_ADP"")"	5	giorno d'	giorno	d'	giorno	di	NOUN	ADP	
+('non_non_ADV', 'mangerà_mangiare_VERB')	5	non mangerà	non	mangerà	non	mangiare	ADV	VERB	
+('sono_essere_AUX', 'alzato_alzare_VERB')	5	sono alzato	sono	alzato	essere	alzare	AUX	VERB	
+('mese_mese_NOUN', 'fa_fa_ADV')	5	mese fa	mese	fa	mese	fa	NOUN	ADV	
+('una_uno_DET', 'conversazione_conversazione_NOUN')	5	una conversazione	una	conversazione	uno	conversazione	DET	NOUN	
+('che_che_SCONJ', 'abbiamo_avere_AUX')	5	che abbiamo	che	abbiamo	che	avere	SCONJ	AUX	
+('sono_essere_AUX', 'alzata_alzare_VERB')	5	sono alzata	sono	alzata	essere	alzare	AUX	VERB	
+('aspettando_aspettare_VERB', 'il_il_DET')	5	aspettando il	aspettando	il	aspettare	il	VERB	DET	
+('avete_avere_VERB', 'molte_molto_DET')	5	avete molte	avete	molte	avere	molto	VERB	DET	
+('potete_potere_AUX', 'parlare_parlare_VERB')	5	potete parlare	potete	parlare	potere	parlare	AUX	VERB	
+('che_che_SCONJ', 'hanno_avere_VERB')	5	che hanno	che	hanno	che	avere	SCONJ	VERB	
+('hanno_avere_VERB', 'molti_molto_DET')	5	hanno molti	hanno	molti	avere	molto	VERB	DET	
+('troppo_troppo_ADV', 'sicuro_sicuro_ADJ')	5	troppo sicuro	troppo	sicuro	troppo	sicuro	ADV	ADJ	
+('comprai_comprare_VERB', 'una_uno_DET')	5	comprai una	comprai	una	comprare	uno	VERB	DET	
+('vai_andare_VERB', 'lì_lì_ADV')	5	vai lì	vai	lì	andare	lì	VERB	ADV	
+('fare_fare_VERB', 'ciò_ciò_PRON')	5	fare ciò	fare	ciò	fare	ciò	VERB	PRON	
+('cani_cane_NOUN', 'in_in_ADP')	5	cani in	cani	in	cane	in	NOUN	ADP	
+('un_uno_DET', 'moroso_moroso_NOUN')	5	un moroso	un	moroso	uno	moroso	DET	NOUN	
+('i_il_DET', 'mobili_mobile_NOUN')	5	i mobili	i	mobili	il	mobile	DET	NOUN	
+('sia_essere_AUX', 'lui_lui_PRON')	5	sia lui	sia	lui	essere	lui	AUX	PRON	
+('molti_molto_DET', 'turisti_turista_NOUN')	5	molti turisti	molti	turisti	molto	turista	DET	NOUN	
+('voglio_volere_AUX', 'incontrare_incontrare_VERB')	5	voglio incontrare	voglio	incontrare	volere	incontrare	AUX	VERB	
+('sento_sentire_VERB', 'a_a_ADP')	5	sento a	sento	a	sentire	a	VERB	ADP	
+('di_di_ADP', 'farti_fare_VERB')	5	di farti	di	farti	di	fare	ADP	VERB	
+('una_uno_DET', 'promozione_promozione_NOUN')	5	una promozione	una	promozione	uno	promozione	DET	NOUN	
+('ero_essere_AUX', 'piuttosto_piuttosto_ADV')	5	ero piuttosto	ero	piuttosto	essere	piuttosto	AUX	ADV	
+('sua_suo_DET', 'lingua_lingua_NOUN')	5	sua lingua	sua	lingua	suo	lingua	DET	NOUN	
+('forza_forza_NOUN', 'di_di_ADP')	5	forza di	forza	di	forza	di	NOUN	ADP	
+('fare_fare_VERB', 'come_come_SCONJ')	5	fare come	fare	come	fare	come	VERB	SCONJ	
+('ho_avere_VERB', 'fiducia_fiducia_NOUN')	5	ho fiducia	ho	fiducia	avere	fiducia	VERB	NOUN	
+('vorrei_volere_AUX', 'provare_provare_VERB')	5	vorrei provare	vorrei	provare	volere	provare	AUX	VERB	
+('mio_mio_DET', 'francese_francese_NOUN')	5	mio francese	mio	francese	mio	francese	DET	NOUN	
+('tornare_tornare_VERB', 'al_a_ADP')	5	tornare al	tornare	al	tornare	a	VERB	ADP	
+('di_di_ADP', 'polizia_polizia_NOUN')	5	di polizia	di	polizia	di	polizia	ADP	NOUN	
+('mai_mai_ADV', 'viaggiato_viaggiare_VERB')	5	mai viaggiato	mai	viaggiato	mai	viaggiare	ADV	VERB	
+('che_che_SCONJ', 'forse_forse_ADV')	5	che forse	che	forse	che	forse	SCONJ	ADV	
+('sua_suo_DET', 'immaginazione_immaginazione_NOUN')	5	sua immaginazione	sua	immaginazione	suo	immaginazione	DET	NOUN	
+('e_e_CCONJ', 'zucchero_zucchero_NOUN')	5	endono il sale e zucchero	e	zucchero	e	zucchero	CCONJ	NOUN	
+('siamo_essere_AUX', 'i_il_DET')	5		siamo	i	essere	il	AUX	DET	
+('venute_venire_VERB', 'qui_qui_ADV')	5	venute qui	venute	qui	venire	qui	VERB	ADV	
+('è_essere_AUX', 'basso_basso_ADJ')	5	è basso	è	basso	essere	basso	AUX	ADJ	
+('un_uno_DET', 'consiglio_consiglio_NOUN')	5	un consiglio	un	consiglio	uno	consiglio	DET	NOUN	
+('più_più_ADV', 'vecchi_vecchio_ADJ')	5	più vecchi	più	vecchi	più	vecchio	ADV	ADJ	
+('i_il_DET', 'più_più_ADV')	5	i più	i	più	il	più	DET	ADV	
+('che_che_SCONJ', 'possiamo_potere_AUX')	5	che possiamo	che	possiamo	che	potere	SCONJ	AUX	
+('mi_mi_PRON', 'ringraziò_ringraziare_VERB')	5	mi ringraziò	mi	ringraziò	mi	ringraziare	PRON	VERB	
+('ringraziò_ringraziare_VERB', 'per_per_ADP')	5	ringraziò per	ringraziò	per	ringraziare	per	VERB	ADP	
+('di_di_ADP', 'vestiti_vestito_NOUN')	5	di vestiti	di	vestiti	di	vestito	ADP	NOUN	
+('ti_ti_PRON', 'devo_dovere_AUX')	5	ti devo	ti	devo	ti	dovere	PRON	AUX	

@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('avere_avere_VERB', 'ragione_ragione_NOUN')	9	avere ragione	avere	ragione	avere	ragione	VERB	NOUN	
+('scommetto_scommettere_VERB', 'che_che_SCONJ')	9	scommetto che	scommetto	che	scommettere	che	VERB	SCONJ	
+('ho_avere_AUX', 'passato_passare_VERB')	9	ho passato	ho	passato	avere	passare	AUX	VERB	
+('di_di_ADP', 'chiudere_chiudere_VERB')	9	di chiudere	di	chiudere	di	chiudere	ADP	VERB	
+('è_essere_AUX', 'lei_lei_PRON')	9	è lei	è	lei	essere	lei	AUX	PRON	
+('chiedere_chiedere_VERB', 'il_il_DET')	9	chiedere il	chiedere	il	chiedere	il	VERB	DET	
+('non_non_ADV', 'parliamo_parlare_VERB')	9	non parliamo	non	parliamo	non	parlare	ADV	VERB	
+('a_a_ADP', 'cambiare_cambiare_VERB')	9	a a cambiare	a	cambiare	a	cambiare	ADP	VERB	
+('acconsentito_acconsentire_VERB', 'ad_a_ADP')	9	acconsentito ad	acconsentito	ad	acconsentire	a	VERB	ADP	
+('del_di_ADP', 'solito_solito_NOUN')	9	del solito	del	solito	di	solito	ADP	NOUN	
+('sono_essere_AUX', 'stanchi_stanco_ADJ')	9	sono stanchi	sono	stanchi	essere	stanco	AUX	ADJ	
+('è_essere_AUX', 'incredibile_incredibile_ADJ')	9	è incredibile	è	incredibile	essere	incredibile	AUX	ADJ	
+('è_essere_AUX', 'diventata_diventare_VERB')	9	è diventata	è	diventata	essere	diventare	AUX	VERB	
+('vuole_volere_VERB', 'una_uno_DET')	9	vuole una	vuole	una	volere	uno	VERB	DET	
+"(""l'_il_DET"", 'hijab_hijab_NOUN')"	9	l'hijab	l'	hijab	il	hijab	DET	NOUN	
+('sulla_su_ADP', 'panchina_panchina_NOUN')	9	sulla panchina	sulla	panchina	su	panchina	ADP	NOUN	
+('questo_questo_DET', 'albero_albero_NOUN')	9	questo albero	questo	albero	questo	albero	DET	NOUN	
+('consiglio_consiglio_NOUN', 'di_di_ADP')	9	consiglio di	consiglio	di	consiglio	di	NOUN	ADP	
+('centro_centro_NOUN', 'commerciale_commerciale_ADJ')	9	centro commerciale	centro	commerciale	centro	commerciale	NOUN	ADJ	
+('tu_tu_PRON', 'mangi_mangiare_VERB')	9	tu mangi	tu	mangi	tu	mangiare	PRON	VERB	
+('i_il_DET', 'documenti_documento_NOUN')	9	i firma i documenti	i	documenti	il	documento	DET	NOUN	
+('che_che_SCONJ', 'venga_venire_VERB')	9	che venga	che	venga	che	venire	SCONJ	VERB	
+('più_più_ADV', 'qui_qui_ADV')	9	più qui	più	qui	più	qui	ADV	ADV	
+('quanto_quanto_PRON', 'ci_ci_PRON')	9	quanto ci	quanto	ci	quanto	ci	PRON	PRON	
+('proprio_proprio_ADV', 'dietro_dietro_ADV')	9	proprio dietro	proprio	dietro	proprio	dietro	ADV	ADV	
+('viveva_vivere_VERB', 'a_a_ADP')	9	viveva	viveva	a	vivere	a	VERB	ADP	
+('essere_essere_AUX', 'ricco_ricco_ADJ')	9	essere ricco	essere	ricco	essere	ricco	AUX	ADJ	
+('che_che_SCONJ', 'sta_stare_AUX')	9	che sta	che	sta	che	stare	SCONJ	AUX	
+('i_il_DET', 'poliziotti_poliziotto_NOUN')	9	i poliziotti	i	poliziotti	il	poliziotto	DET	NOUN	
+('domani_domani_ADV', 'pomeriggio_pomeriggio_NOUN')	9	domani pomeriggio	domani	pomeriggio	domani	pomeriggio	ADV	NOUN	
+('lingua_lingua_NOUN', 'madre_madre_NOUN')	9	lingua madre	lingua	madre	lingua	madre	NOUN	NOUN	
+('stavo_stare_AUX', 'pensando_pensare_VERB')	9	stavo pensando	stavo	pensando	stare	pensare	AUX	VERB	
+"('visitare_visitare_VERB', ""l'_il_DET"")"	9	visitare l'	visitare	l'	visitare	il	VERB	DET	
+"(""all'_a_ADP"", 'esterno_esterno_NOUN')"	9	all'esterno	all'	esterno	a	esterno	ADP	NOUN	
+('andare_andare_VERB', 'ora_ora_ADV')	9	andare ora	andare	ora	andare	ora	VERB	ADV	
+('di_di_ADP', 'notte_notte_NOUN')	9	di notte	di	notte	di	notte	ADP	NOUN	
+('suo_suo_DET', 'passaporto_passaporto_NOUN')	9	suo passaporto	suo	passaporto	suo	passaporto	DET	NOUN	
+('non_non_ADV', 'cambierà_cambiare_VERB')	9	non cambierà	non	cambierà	non	cambiare	ADV	VERB	
+('si_si_PRON', 'stia_essere_AUX')	9	si stia	si	stia	si	essere	PRON	AUX	
+('possiamo_potere_AUX', 'essere_essere_AUX')	9	possiamo essere	possiamo	essere	potere	essere	AUX	AUX	
+('preparato_preparare_VERB', 'del_di_ADP')	9	preparato del	preparato	del	preparare	di	VERB	ADP	
+('questo_questo_DET', 'dipinto_dipinto_NOUN')	9	questo dipinto	questo	dipinto	questo	dipinto	DET	NOUN	
+('date_dare_VERB', 'loro_loro_PRON')	9	date loro	date	loro	dare	loro	VERB	PRON	
+('era_essere_VERB', 'una_uno_DET')	9	era una	era	una	essere	uno	VERB	DET	
+('a_a_ADP', 'sentirmi_sentire_VERB')	9	ando a sentirmi	a	sentirmi	a	sentire	ADP	VERB	
+('ha_avere_VERB', 'sempre_sempre_ADV')	9	ha sempre	ha	sempre	avere	sempre	VERB	ADV	
+('ha_avere_AUX', 'riempito_riempire_VERB')	9	ha riempito	ha	riempito	avere	riempire	AUX	VERB	
+('dentro_dentro_ADP', 'la_il_DET')	9	dentro la	dentro	la	dentro	il	ADP	DET	
+('di_di_ADP', 'strano_strano_ADJ')	9	di strano	di	strano	di	strano	ADP	ADJ	
+('vogliamo_volere_VERB', 'che_che_SCONJ')	9	vogliamo che	vogliamo	che	volere	che	VERB	SCONJ	
+('lo_lo_PRON', 'aiuti_aiutare_VERB')	9	lo aiuti	lo	aiuti	lo	aiutare	PRON	VERB	
+('sua_suo_DET', 'lettera_lettera_NOUN')	9	sua lettera	sua	lettera	suo	lettera	DET	NOUN	
+('messo_mettere_VERB', 'le_il_DET')	9	messo le	messo	le	mettere	il	VERB	DET	
+('avuto_avere_VERB', 'la_il_DET')	9	avuto la	avuto	la	avere	il	VERB	DET	
+('vi_vi_PRON', 'dovreste_dovere_AUX')	9	vi dovreste	vi	dovreste	vi	dovere	PRON	AUX	
+('albero_albero_NOUN', 'è_essere_AUX')	9	albero è	albero	è	albero	essere	NOUN	AUX	
+('vino_vino_NOUN', 'bianco_bianco_ADJ')	9	vino bianco	vino	bianco	vino	bianco	NOUN	ADJ	
+('ha_avere_AUX', 'abbandonato_abbandonare_VERB')	9	ha abbandonato	ha	abbandonato	avere	abbandonare	AUX	VERB	
+('ha_avere_AUX', 'fermato_fermare_VERB')	9	ha fermato	ha	fermato	avere	fermare	AUX	VERB	
+('male_male_ADV', 'al_a_ADP')	9	mal	male	al	male	a	ADV	ADP	
+('al_a_ADP', 'mattino_mattino_NOUN')	9	al mattino	al	mattino	a	mattino	ADP	NOUN	
+('il_il_DET', 'consiglio_consiglio_NOUN')	9	il consiglio	il	consiglio	il	consiglio	DET	NOUN	
+('in_in_ADP', 'meno_meno_ADV')	9	in meno	in	meno	in	meno	ADP	ADV	
+('forte_forte_ADJ', 'di_di_ADP')	9	forte di	forte	di	forte	di	ADJ	ADP	
+('deve_dovere_AUX', 'avere_avere_VERB')	9	deve avere	deve	avere	dovere	avere	AUX	VERB	
+('sono_essere_AUX', 'nella_in_ADP')	9	sono nella	sono	nella	essere	in	AUX	ADP	
+('sento_sentire_VERB', 'così_così_ADV')	9	sento così	sento	così	sentire	così	VERB	ADV	
+('ha_avere_AUX', 'acceso_accendere_VERB')	9	ha acceso	ha	acceso	avere	accendere	AUX	VERB	
+('loro_loro_DET', 'casa_casa_NOUN')	9	loro casa	loro	casa	loro	casa	DET	NOUN	
+('cosa_cosa_PRON', 'parla_parlare_VERB')	9	cosa parla	cosa	parla	cosa	parlare	PRON	VERB	
+('suo_suo_DET', 'cibo_cibo_NOUN')	9	suo cibo	suo	cibo	suo	cibo	DET	NOUN	
+('sa_sapere_VERB', 'che_che_DET')	9	sa che	sa	che	sapere	che	VERB	DET	
+"('di_di_ADP', ""cos'_cos'_PRON"")"	9	di cos'	di	cos'	di	cos'	ADP	PRON	
+('sempre_sempre_ADV', 'più_più_ADV')	9	sempre più	sempre	più	sempre	più	ADV	ADV	
+('così_così_ADV', 'stupida_stupido_ADJ')	9	così stupida	così	stupida	così	stupido	ADV	ADJ	
+('cercare_cercare_VERB', 'di_di_ADP')	9	cercare di	cercare	di	cercare	di	VERB	ADP	
+('non_non_ADV', 'per_per_ADP')	9	non per	non	per	non	per	ADV	ADP	
+('suo_suo_DET', 'laptop_laptop_NOUN')	9	suo laptop	suo	laptop	suo	laptop	DET	NOUN	
+('avete_avere_AUX', 'ricevuto_ricevere_VERB')	9	avete ricevuto	avete	ricevuto	avere	ricevere	AUX	VERB	
+('di_di_ADP', 'meno_meno_ADV')	9	di meno	di	meno	di	meno	ADP	ADV	
+('un_uno_DET', 'ufficio_ufficio_NOUN')	9	un ufficio	un	ufficio	uno	ufficio	DET	NOUN	
+('ci_ci_PRON', 'ho_avere_AUX')	9	ci ho	ci	ho	ci	avere	PRON	AUX	
+('modo_modo_NOUN', 'suo_suo_DET')	9	modo suo	modo	suo	modo	suo	NOUN	DET	
+('sempre_sempre_ADV', 'le_il_DET')	9	sempre le	sempre	le	sempre	il	ADV	DET	
+('un_uno_DET', 'tatuaggio_tatuaggio_NOUN')	9	un tatuaggio	un	tatuaggio	uno	tatuaggio	DET	NOUN	
+('sentendo_sentire_VERB', 'molto_molto_ADV')	9	sentendo molto	sentendo	molto	sentire	molto	VERB	ADV	
+('mia_mio_DET', 'risposta_risposta_NOUN')	9	mia risposta	mia	risposta	mio	risposta	DET	NOUN	
+('se_se_SCONJ', 'le_le_PRON')	9	se le	se	le	se	le	SCONJ	PRON	
+('qui_qui_ADV', 'ogni_ogni_DET')	9	qui ogni	qui	ogni	qui	ogni	ADV	DET	
+('a_a_ADP', 'pregare_pregare_VERB')	9	aggiale a pregare	a	pregare	a	pregare	ADP	VERB	
+('così_così_ADV', 'sicura_sicuro_ADJ')	9	così sicura	così	sicura	così	sicuro	ADV	ADJ	
+('sapere_sapere_VERB', 'che_che_SCONJ')	9	sapere che	sapere	che	sapere	che	VERB	SCONJ	
+('troppo_troppo_ADV', 'anziano_anziano_ADJ')	9	troppo anziano	troppo	anziano	troppo	anziano	ADV	ADJ	
+('utilizzare_utilizzare_VERB', 'la_il_DET')	9	utilizzare la	utilizzare	la	utilizzare	il	VERB	DET	
+('trovò_trovare_VERB', 'la_il_DET')	9	trovò la	trovò	la	trovare	il	VERB	DET	
+('al_a_ADP', 'peggio_peggio_NOUN')	9	al peggio	al	peggio	a	peggio	ADP	NOUN	
+('dopo_dopo_ADP', 'una_uno_DET')	9	dopo una	dopo	una	dopo	uno	ADP	DET	
+('una_uno_DET', 'breve_breve_ADJ')	9	una breve	una	breve	uno	breve	DET	ADJ	
+('quando_quando_PRON', 'avete_avere_AUX')	9	quando avete	quando	avete	quando	avere	PRON	AUX	
+"(""l'_il_DET"", 'altra_altro_PRON')"	9	l'altra	l'	altra	il	altro	DET	PRON	

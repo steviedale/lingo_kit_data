@@ -1,0 +1,101 @@
+gram3_key	count	substr	term_1	term_2	term_3	lemma_1	lemma_2	lemma_3	pos_1	pos_2	pos_3	translation_en
+('ho_avere_VERB', 'una_uno_DET', 'figlia_figlio_NOUN')	6	ho una figlia	ho	una	figlia	avere	uno	figlio	VERB	DET	NOUN	
+('di_di_ADP', 'venire_venire_VERB', 'qui_qui_ADV')	6	di venire qui	di	venire	qui	di	venire	qui	ADP	VERB	ADV	
+"('sapete_sapere_VERB', ""cos'_cos'_PRON"", 'è_essere_AUX')"	6	sapete cos'è	sapete	cos'	è	sapere	cos'	essere	VERB	PRON	AUX	
+('ha_avere_AUX', 'già_già_ADV', 'fatto_fare_VERB')	6	ha già fatto	ha	già	fatto	avere	già	fare	AUX	ADV	VERB	
+('non_non_ADV', 'importa_importare_VERB', 'se_se_SCONJ')	6	non importa se	non	importa	se	non	importare	se	ADV	VERB	SCONJ	
+('appartiene_appartenere_VERB', 'a_a_ADP', 'me_me_PRON')	6	appartiene a me	appartiene	a	me	appartenere	a	me	VERB	ADP	PRON	
+('di_di_ADP', 'nuovo_nuovo_ADJ', 'con_con_ADP')	6	di nuovo con	di	nuovo	con	di	nuovo	con	ADP	ADJ	ADP	
+('il_il_DET', 'suo_suo_DET', 'castello_castello_NOUN')	6	il suo castello	il	suo	castello	il	suo	castello	DET	DET	NOUN	
+('il_il_DET', 'tè_tè_NOUN', 'al_a_ADP')	6	il tè al	il	tè	al	il	tè	a	DET	NOUN	ADP	
+('gioco_gioco_NOUN', 'di_di_ADP', 'me_me_PRON')	6	gioco di me	gioco	di	me	gioco	di	me	NOUN	ADP	PRON	
+('voglio_volere_AUX', 'essere_essere_AUX', 'una_uno_DET')	6	voglio essere una	voglio	essere	una	volere	essere	uno	AUX	AUX	DET	
+('nel_in_ADP', 'suo_suo_DET', 'lavoro_lavoro_NOUN')	6	nel suo lavoro	nel	suo	lavoro	in	suo	lavoro	ADP	DET	NOUN	
+('molto_molto_DET', 'tempo_tempo_NOUN', 'fa_fa_ADV')	6	molto tempo fa	molto	tempo	fa	molto	tempo	fa	DET	NOUN	ADV	
+('lo_lo_PRON', 'sapeva_sapere_VERB', 'che_che_SCONJ')	6	lo sapeva che	lo	sapeva	che	lo	sapere	che	PRON	VERB	SCONJ	
+('sa_sapere_VERB', 'che_che_SCONJ', 'sono_essere_AUX')	6	sa che sono	sa	che	sono	sapere	che	essere	VERB	SCONJ	AUX	
+('vorrei_volere_AUX', 'parlare_parlare_VERB', 'con_con_ADP')	6	vorrei parlare con	vorrei	parlare	con	volere	parlare	con	AUX	VERB	ADP	
+('mi_mi_PRON', 'ha_avere_AUX', 'scritto_scrivere_VERB')	6	mi ha scritto	mi	ha	scritto	mi	avere	scrivere	PRON	AUX	VERB	
+"(""l'_lo_PRON"", 'hai_avere_AUX', 'visto_vedere_VERB')"	6	l'hai visto	l'	hai	visto	lo	avere	vedere	PRON	AUX	VERB	
+('ero_essere_AUX', 'a_a_ADP', 'casa_casa_NOUN')	6	ero a casa	ero	a	casa	essere	a	casa	AUX	ADP	NOUN	
+('di_di_ADP', 'mio_mio_DET', 'zio_zio_NOUN')	6	di mio zio	di	mio	zio	di	mio	zio	ADP	DET	NOUN	
+('ha_avere_AUX', 'accettato_accettare_VERB', 'la_il_DET')	6	ha accettato la	ha	accettato	la	avere	accettare	il	AUX	VERB	DET	
+('il_il_DET', 'ristorante_ristorante_NOUN', 'di_di_ADP')	6	il ristorante di	il	ristorante	di	il	ristorante	di	DET	NOUN	ADP	
+"(""l'_lo_PRON"", 'ha_avere_AUX', 'dato_dare_VERB')"	6	l'ha dato	l'	ha	dato	lo	avere	dare	PRON	AUX	VERB	
+('dirò_dire_VERB', 'loro_loro_PRON', 'che_che_SCONJ')	6	dirò loro che	dirò	loro	che	dire	loro	che	VERB	PRON	SCONJ	
+('in_in_ADP', 'più_più_ADV', 'di_di_ADP')	6	in più di	in	più	di	in	più	di	ADP	ADV	ADP	
+('la_il_DET', 'sua_suo_DET', 'propria_proprio_DET')	6	la sua propria	la	sua	propria	il	suo	proprio	DET	DET	DET	
+('io_io_PRON', 'apprezzo_apprezzare_VERB', 'il_il_DET')	6	io apprezzo il	io	apprezzo	il	io	apprezzare	il	PRON	VERB	DET	
+('di_di_ADP', 'andare_andare_VERB', 'da_da_ADP')	6	di anda	di	andare	da	di	andare	da	ADP	VERB	ADP	
+('da_da_ADP', 'casa_casa_NOUN', 'mia_mio_DET')	6	da casa mia	da	casa	mia	da	casa	mio	ADP	NOUN	DET	
+('io_io_PRON', 'apprezzo_apprezzare_VERB', 'la_il_DET')	6	io apprezzo la	io	apprezzo	la	io	apprezzare	il	PRON	VERB	DET	
+('essere_essere_AUX', 'nei_in_ADP', 'guai_guaio_NOUN')	6	essere nei guai	essere	nei	guai	essere	in	guaio	AUX	ADP	NOUN	
+('è_essere_AUX', 'qui_qui_ADV', 'per_per_ADP')	6	è qui per	è	qui	per	essere	qui	per	AUX	ADV	ADP	
+('sono_essere_AUX', 'ancora_ancora_ADV', 'una_uno_DET')	6	sono ancora una	sono	ancora	una	essere	ancora	uno	AUX	ADV	DET	
+('che_che_SCONJ', 'era_essere_AUX', 'a_a_ADP')	6		che	era	a	che	essere	a	SCONJ	AUX	ADP	
+('lei_lei_PRON', 'ha_avere_VERB', 'molti_molto_DET')	6	lei ha molti	lei	ha	molti	lei	avere	molto	PRON	VERB	DET	
+('di_di_ADP', 'vino_vino_NOUN', 'rosso_rosso_ADJ')	6	di vino rosso	di	vino	rosso	di	vino	rosso	ADP	NOUN	ADJ	
+('lei_lei_PRON', 'è_essere_AUX', 'sempre_sempre_ADV')	6	lei è sempre	lei	è	sempre	lei	essere	sempre	PRON	AUX	ADV	
+('la_il_DET', 'risposta_risposta_NOUN', 'è_essere_AUX')	6	la risposta è	la	risposta	è	il	risposta	essere	DET	NOUN	AUX	
+('detto_dire_VERB', 'di_di_ADP', 'aver_avere_AUX')	6	detto di aver	detto	di	aver	dire	di	avere	VERB	ADP	AUX	
+('di_di_ADP', 'spegnere_spengere_VERB', 'la_il_DET')	6	di spegnere la	di	spegnere	la	di	spengere	il	ADP	VERB	DET	
+('sarà_essere_AUX', 'un_uno_DET', 'problema_problema_NOUN')	6	sarà un problema	sarà	un	problema	essere	uno	problema	AUX	DET	NOUN	
+('la_il_DET', 'tua_tuo_DET', 'gentilezza_gentilezza_NOUN')	6	la tua gentilezza	la	tua	gentilezza	il	tuo	gentilezza	DET	DET	NOUN	
+('il_il_DET', 'sole_sole_NOUN', 'è_essere_AUX')	6	il sole è	il	sole	è	il	sole	essere	DET	NOUN	AUX	
+('non_non_ADV', 'vi_vi_PRON', 'voglio_volere_VERB')	6	non vi voglio	non	vi	voglio	non	vi	volere	ADV	PRON	VERB	
+('spero_sperare_VERB', 'che_che_SCONJ', 'mi_mi_PRON')	6	spero che mi	spero	che	mi	sperare	che	mi	VERB	SCONJ	PRON	
+('so_sapere_VERB', 'perché_perché_SCONJ', 'non_non_ADV')	6	so perché non	so	perché	non	sapere	perché	non	VERB	SCONJ	ADV	
+('le_le_PRON', 'darò_dare_VERB', 'un_uno_DET')	6	le darò un	le	darò	un	le	dare	uno	PRON	VERB	DET	
+('è_essere_AUX', 'molto_molto_ADV', 'popolare_popolare_ADJ')	6	è molto popolare	è	molto	popolare	essere	molto	popolare	AUX	ADV	ADJ	
+('lei_lei_PRON', 'ha_avere_AUX', 'provato_provare_VERB')	6	lei ha provato	lei	ha	provato	lei	avere	provare	PRON	AUX	VERB	
+('nella_in_ADP', 'sua_suo_DET', 'automobile_automobile_NOUN')	6	nella sua automobile	nella	sua	automobile	in	suo	automobile	ADP	DET	NOUN	
+('come_come_SCONJ', 'era_essere_AUX', 'una_uno_DET')	6	come era una	come	era	una	come	essere	uno	SCONJ	AUX	DET	
+('indossando_indossare_VERB', 'la_il_DET', 'sua_suo_DET')	6	indossando la sua	indossando	la	sua	indossare	il	suo	VERB	DET	DET	
+('è_essere_AUX', 'un_uno_DET', 'ragazzo_ragazzo_NOUN')	6	è un ragazzo	è	un	ragazzo	essere	uno	ragazzo	AUX	DET	NOUN	
+('io_io_PRON', 'ho_avere_AUX', 'cercato_cercare_VERB')	6	io ho cercato	io	ho	cercato	io	avere	cercare	PRON	AUX	VERB	
+"(""l'_il_DET"", 'ufficio_ufficio_NOUN', 'di_di_ADP')"	6	l'ufficio di	l'	ufficio	di	il	ufficio	di	DET	NOUN	ADP	
+('la_il_DET', 'sua_suo_DET', 'teoria_teoria_NOUN')	6	la sua teoria	la	sua	teoria	il	suo	teoria	DET	DET	NOUN	
+('aspettare_aspettare_VERB', 'fino_fino_ADV', 'a_a_ADP')	6		aspettare	fino	a	aspettare	fino	a	VERB	ADV	ADP	
+('vuole_volere_AUX', 'imparare_imparare_VERB', 'il_il_DET')	6	vuole imparare il	vuole	imparare	il	volere	imparare	il	AUX	VERB	DET	
+('non_non_ADV', 'è_essere_AUX', 'occupato_occupare_VERB')	6	non è occupato	non	è	occupato	non	essere	occupare	ADV	AUX	VERB	
+('più_più_ADV', 'di_di_ADP', 'me_me_PRON')	6	più di me	più	di	me	più	di	me	ADV	ADP	PRON	
+('detto_dire_VERB', 'che_che_SCONJ', 'la_la_PRON')	6	detto che la	detto	che	la	dire	che	la	VERB	SCONJ	PRON	
+('di_di_ADP', 'essere_essere_AUX', 'in_in_ADP')	6	di essere in	di	essere	in	di	essere	in	ADP	AUX	ADP	
+('la_il_DET', 'mia_mio_DET', 'nuova_nuovo_ADJ')	6	la mia nuova	la	mia	nuova	il	mio	nuovo	DET	DET	ADJ	
+('il_il_DET', 'suo_suo_DET', 'pranzo_pranzo_NOUN')	6	il suo pranzo	il	suo	pranzo	il	suo	pranzo	DET	DET	NOUN	
+('lui_lui_PRON', 'ci_ci_PRON', 'ha_avere_AUX')	6	lui ci ha	lui	ci	ha	lui	ci	avere	PRON	PRON	AUX	
+('possiamo_potere_AUX', 'fidarci_fidare_VERB', 'di_di_ADP')	6	possiamo fidarci di	possiamo	fidarci	di	potere	fidare	di	AUX	VERB	ADP	
+('nella_in_ADP', 'sua_suo_DET', 'macchina_macchina_NOUN')	6	nella sua macchina	nella	sua	macchina	in	suo	macchina	ADP	DET	NOUN	
+('disse_dire_VERB', 'mai_mai_ADV', 'che_che_SCONJ')	6	disse mai che	disse	mai	che	dire	mai	che	VERB	ADV	SCONJ	
+"(""com'_come_ADV"", 'è_essere_VERB', 'che_che_SCONJ')"	6	com'è che	com'	è	che	come	essere	che	ADV	VERB	SCONJ	
+('non_non_ADV', 'ho_avere_VERB', 'la_il_DET')	6	non ho la	non	ho	la	non	avere	il	ADV	VERB	DET	
+('è_essere_AUX', 'fatto_fare_VERB', 'male_male_ADV')	6	è fatto male	è	fatto	male	essere	fare	male	AUX	VERB	ADV	
+('noi_noi_PRON', 'non_non_ADV', 'la_la_PRON')	6	noi non la	noi	non	la	noi	non	la	PRON	ADV	PRON	
+('avete_avere_AUX', 'mai_mai_ADV', 'mangiato_mangiare_VERB')	6	avete mai mangiato	avete	mai	mangiato	avere	mai	mangiare	AUX	ADV	VERB	
+('il_il_DET', 'suo_suo_DET', 'proprio_proprio_DET')	6	il suo proprio	il	suo	proprio	il	suo	proprio	DET	DET	DET	
+('io_io_PRON', 'conosco_conoscere_VERB', 'la_il_DET')	6	io conosco la	io	conosco	la	io	conoscere	il	PRON	VERB	DET	
+('non_non_ADV', 'so_sapere_VERB', 'quale_quale_PRON')	6	non so quale	non	so	quale	non	sapere	quale	ADV	VERB	PRON	
+('sono_essere_AUX', 'in_in_ADP', 'vendita_vendita_NOUN')	6	sono in vendita	sono	in	vendita	essere	in	vendita	AUX	ADP	NOUN	
+('la_il_DET', 'sua_suo_DET', 'decisione_decisione_NOUN')	6	la sua decisione	la	sua	decisione	il	suo	decisione	DET	DET	NOUN	
+('sa_sapere_VERB', 'che_che_SCONJ', 'dovrebbe_dovere_AUX')	6	sa che dovrebbe	sa	che	dovrebbe	sapere	che	dovere	VERB	SCONJ	AUX	
+('si_si_PRON', 'è_essere_AUX', 'innamorata_innamorare_VERB')	6	si è innamorata	si	è	innamorata	si	essere	innamorare	PRON	AUX	VERB	
+('per_per_ADP', 'essere_essere_AUX', 'un_uno_DET')	6		per	essere	un	per	essere	uno	ADP	AUX	DET	
+('siete_essere_AUX', 'sicuri_sicuro_ADJ', 'di_di_ADP')	6	siete sicuri di	siete	sicuri	di	essere	sicuro	di	AUX	ADJ	ADP	
+('rimasto_rimanere_VERB', 'a_a_ADP', 'casa_casa_NOUN')	6	rimasto a casa	rimasto	a	casa	rimanere	a	casa	VERB	ADP	NOUN	
+('che_che_SCONJ', 'non_non_ADV', 'siete_essere_AUX')	6	che non siete	che	non	siete	che	non	essere	SCONJ	ADV	AUX	
+('non_non_ADV', 'lo_lo_PRON', 'faccio_fare_VERB')	6	non lo faccio	non	lo	faccio	non	lo	fare	ADV	PRON	VERB	
+('i_il_DET', 'suoi_suo_DET', 'sentimenti_sentimento_NOUN')	6	ivido i suoi sentimenti	i	suoi	sentimenti	il	suo	sentimento	DET	DET	NOUN	
+"('non_non_ADV', 'ce_ce_PRON', ""l'_lo_PRON"")"	6	non ce l'	non	ce	l'	non	ce	lo	ADV	PRON	PRON	
+('occhiali_occhiale_NOUN', 'da_da_ADP', 'lettura_lettura_NOUN')	6	occhiali da lettura	occhiali	da	lettura	occhiale	da	lettura	NOUN	ADP	NOUN	
+('io_io_PRON', 'ho_avere_AUX', 'dovuto_dovere_AUX')	6	io ho dovuto	io	ho	dovuto	io	avere	dovere	PRON	AUX	AUX	
+('non_non_ADV', 'capisco_capire_VERB', 'cosa_cosa_PRON')	6	non capisco cosa	non	capisco	cosa	non	capire	cosa	ADV	VERB	PRON	
+"(""all'_a_ADP"", 'ufficio_ufficio_NOUN', 'postale_postale_ADJ')"	6	all'ufficio postale	all'	ufficio	postale	a	ufficio	postale	ADP	NOUN	ADJ	
+('mia_mio_DET', 'madre_madre_NOUN', 'non_non_ADV')	6	mia madre non	mia	madre	non	mio	madre	non	DET	NOUN	ADV	
+('sapeva_sapere_VERB', 'che_che_DET', 'cosa_cosa_PRON')	6	sapeva che cosa	sapeva	che	cosa	sapere	che	cosa	VERB	DET	PRON	
+"(""c'_ci_PRON"", 'è_essere_VERB', 'che_che_SCONJ')"	6	c'è che	c'	è	che	ci	essere	che	PRON	VERB	SCONJ	
+('con_con_ADP', 'un_uno_DET', 'sorriso_sorriso_NOUN')	6	con un sorriso	con	un	sorriso	con	uno	sorriso	ADP	DET	NOUN	
+('ha_avere_AUX', 'fatto_fare_VERB', 'bene_bene_ADV')	6	ha fatto bene	ha	fatto	bene	avere	fare	bene	AUX	VERB	ADV	
+('dimenticato_dimenticare_VERB', 'di_di_ADP', 'comprare_comprare_VERB')	6	dimenticato di comprare	dimenticato	di	comprare	dimenticare	di	comprare	VERB	ADP	VERB	
+('accordo_accordo_NOUN', 'con_con_ADP', 'voi_voi_PRON')	6	accordo con voi	accordo	con	voi	accordo	con	voi	NOUN	ADP	PRON	
+('non_non_ADV', 'è_essere_AUX', 'piaciuto_piacere_VERB')	6	non è piaciuto	non	è	piaciuto	non	essere	piacere	ADV	AUX	VERB	
+('fatto_fare_VERB', 'da_da_ADP', 'sola_solo_ADJ')	6	fatto da sola	fatto	da	sola	fare	da	solo	VERB	ADP	ADJ	

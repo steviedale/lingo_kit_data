@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('la_la_PRON', 'troveremo_trovare_VERB')	6	la troveremo	la	troveremo	la	trovare	PRON	VERB	
+('che_che_SCONJ', 'abbiate_avere_VERB')	6	che abbiate	che	abbiate	che	avere	SCONJ	VERB	
+('comprato_comprare_VERB', 'a_a_ADP')	6		comprato	a	comprare	a	VERB	ADP	
+('dichiara_dichiarare_VERB', 'di_di_ADP')	6	di	dichiara	di	dichiarare	di	VERB	ADP	
+('stazione_stazione_NOUN', 'di_di_ADP')	6	stazione di	stazione	di	stazione	di	NOUN	ADP	
+('questo_questo_DET', 'fine_fine_NOUN')	6	questo fine	questo	fine	questo	fine	DET	NOUN	
+('sia_essere_AUX', 'colpevole_colpevole_ADJ')	6	sia colpevole	sia	colpevole	essere	colpevole	AUX	ADJ	
+('gli_gli_PRON', 'piacevano_piacere_VERB')	6	gli piacevano	gli	piacevano	gli	piacere	PRON	VERB	
+('suo_suo_DET', 'pasto_pasto_NOUN')	6	suo pasto	suo	pasto	suo	pasto	DET	NOUN	
+('la_il_DET', 'battaglia_battaglia_NOUN')	6	la battaglia	la	battaglia	il	battaglia	DET	NOUN	
+"(""dell'_di_ADP"", 'esperanto_esperanto_NOUN')"	6	dell'esperanto	dell'	esperanto	di	esperanto	ADP	NOUN	
+('vista_vedere_VERB', 'danzare_danzare_VERB')	6	vista danzare	vista	danzare	vedere	danzare	VERB	VERB	
+('altro_altro_ADJ', 'bicchiere_bicchiere_NOUN')	6	altro bicchiere	altro	bicchiere	altro	bicchiere	ADJ	NOUN	
+('quanto_quanto_ADV', 'lei_lei_PRON')	6	quanto lei	quanto	lei	quanto	lei	ADV	PRON	
+('o_o_CCONJ', 'un_uno_DET')	6		o	un	o	uno	CCONJ	DET	
+"(""l'_il_DET"", 'alibi_alibo_NOUN')"	6	l'alibi	l'	alibi	il	alibo	DET	NOUN	
+('se_se_SCONJ', 'avete_avere_VERB')	6	se avete	se	avete	se	avere	SCONJ	VERB	
+('uno_uno_DET', 'zoo_zoo_NOUN')	6	uno zoo	uno	zoo	uno	zoo	DET	NOUN	
+('inglese_inglese_NOUN', 'non_non_ADV')	6	inglese non	inglese	non	inglese	non	NOUN	ADV	
+('questo_questo_PRON', 'sarà_essere_AUX')	6	questo sarà	questo	sarà	questo	essere	PRON	AUX	
+('di_di_ADP', 'blu_blu_NOUN')	6	di blu	di	blu	di	blu	ADP	NOUN	
+('poteva_potere_AUX', 'fare_fare_VERB')	6	poteva fare	poteva	fare	potere	fare	AUX	VERB	
+('è_essere_AUX', 'pesante_pesante_ADJ')	6	è pesante	è	pesante	essere	pesante	AUX	ADJ	
+('volete_volere_AUX', 'essere_essere_AUX')	6	volete essere	volete	essere	volere	essere	AUX	AUX	
+('sua_suo_DET', 'uniforme_uniforme_NOUN')	6	sua uniforme	sua	uniforme	suo	uniforme	DET	NOUN	
+('voglio_volere_AUX', 'tornare_tornare_VERB')	6	voglio tornare	voglio	tornare	volere	tornare	AUX	VERB	
+('acqua_acqua_NOUN', 'in_in_ADP')	6	acqua in	acqua	in	acqua	in	NOUN	ADP	
+('farà_fare_VERB', 'per_per_ADP')	6	farà per	farà	per	fare	per	VERB	ADP	
+('lo_lo_PRON', 'farebbe_fare_VERB')	6	lo farebbe	lo	farebbe	lo	fare	PRON	VERB	
+('messo_mettere_VERB', 'del_di_ADP')	6	messo del	messo	del	mettere	di	VERB	ADP	
+('in_in_ADP', 'cima_cima_NOUN')	6	in cima	in	cima	in	cima	ADP	NOUN	
+"(""l'_il_DET"", 'attenzione_attenzione_NOUN')"	6	l'attenzione	l'	attenzione	il	attenzione	DET	NOUN	
+('sospettato_sospettare_VERB', 'di_di_ADP')	6	sospettato di	sospettato	di	sospettare	di	VERB	ADP	
+('ero_essere_AUX', 'sposato_sposare_VERB')	6	ero sposato	ero	sposato	essere	sposare	AUX	VERB	
+('avevo_avere_AUX', 'detto_dire_VERB')	6	avevo detto	avevo	detto	avere	dire	AUX	VERB	
+('lui_lui_PRON', 'avrà_avere_VERB')	6	lui avrà	lui	avrà	lui	avere	PRON	VERB	
+('si_si_PRON', 'vestì_vestire_VERB')	6	si vestì	si	vestì	si	vestire	PRON	VERB	
+('voglia_volere_AUX', 'fare_fare_VERB')	6	voglia fare	voglia	fare	volere	fare	AUX	VERB	
+('vorresti_volere_VERB', 'che_che_SCONJ')	6	vorresti che	vorresti	che	volere	che	VERB	SCONJ	
+('è_essere_AUX', 'abituato_abituare_VERB')	6	è abituato	è	abituato	essere	abituare	AUX	VERB	
+('tornato_tornare_VERB', 'da_da_ADP')	6	tornato da	tornato	da	tornare	da	VERB	ADP	
+('nascosto_nascondere_VERB', 'il_il_DET')	6	nascosto il	nascosto	il	nascondere	il	VERB	DET	
+('dei_di_ADP', 'jeans_jeans_NOUN')	6	dei jeans	dei	jeans	di	jeans	ADP	NOUN	
+('io_io_PRON', 'farei_fare_VERB')	6	io farei	io	farei	io	fare	PRON	VERB	
+('molto_molto_ADV', 'interessato_interessare_VERB')	6	molto interessato	molto	interessato	molto	interessare	ADV	VERB	
+('perso_perdere_VERB', 'interesse_interesse_NOUN')	6	perso interesse	perso	interesse	perdere	interesse	VERB	NOUN	
+('quale_quale_DET', 'ragione_ragione_NOUN')	6	quale ragione	quale	ragione	quale	ragione	DET	NOUN	
+('perché_perché_PRON', 'le_le_PRON')	6	perché le	perché	le	perché	le	PRON	PRON	
+('cosa_cosa_PRON', 'sto_essere_AUX')	6	cosa sto	cosa	sto	cosa	essere	PRON	AUX	
+('il_il_DET', 'coraggio_coraggio_NOUN')	6	il coraggio	il	coraggio	il	coraggio	DET	NOUN	
+('hai_avere_VERB', 'il_il_DET')	6	hai il	hai	il	avere	il	VERB	DET	
+('quanti_quanto_DET', 'giorni_giorno_NOUN')	6	quanti giorni	quanti	giorni	quanto	giorno	DET	NOUN	
+"('passato_passare_VERB', ""l'_il_DET"")"	6	passato l'	passato	l'	passare	il	VERB	DET	
+('giocano_giocare_VERB', 'a_a_ADP')	6	gioca	giocano	a	giocare	a	VERB	ADP	
+('cosa_cosa_PRON', 'capita_capitare_VERB')	6	cosa capita	cosa	capita	cosa	capitare	PRON	VERB	
+('così_così_ADV', 'semplice_semplice_ADJ')	6	così semplice	così	semplice	così	semplice	ADV	ADJ	
+('di_di_ADP', 'esperanto_esperanto_NOUN')	6	di esperanto	di	esperanto	di	esperanto	ADP	NOUN	
+('questo_questo_PRON', 'sembra_sembrare_VERB')	6	questo sembra	questo	sembra	questo	sembrare	PRON	VERB	
+('altra_altro_DET', 'scelta_scelta_NOUN')	6	altra scelta	altra	scelta	altro	scelta	DET	NOUN	
+('messaggio_messaggio_NOUN', 'a_a_ADP')	6		messaggio	a	messaggio	a	NOUN	ADP	
+('a_a_ADP', 'prenderla_prendere_VERB')	6	a prenderla	a	prenderla	a	prendere	ADP	VERB	
+('hanno_avere_AUX', 'cercato_cercare_VERB')	6	hanno cercato	hanno	cercato	avere	cercare	AUX	VERB	
+('siamo_essere_AUX', 'qua_qua_ADV')	6	siamo qua	siamo	qua	essere	qua	AUX	ADV	
+('so_sapere_VERB', 'neanche_neanche_ADV')	6	so neanche	so	neanche	sapere	neanche	VERB	ADV	
+('suo_suo_DET', 'progetto_progetto_NOUN')	6	suo progetto	suo	progetto	suo	progetto	DET	NOUN	
+('del_di_ADP', 'ragazzo_ragazzo_NOUN')	6	del ragazzo	del	ragazzo	di	ragazzo	ADP	NOUN	
+('a_a_ADP', 'sopportare_sopportare_VERB')	6	a sopportare	a	sopportare	a	sopportare	ADP	VERB	
+('per_per_ADP', 'oggi_oggi_ADV')	6	per oggi	per	oggi	per	oggi	ADP	ADV	
+"(""quell'_quello_DET"", 'automobile_automobile_NOUN')"	6	quell'automobile	quell'	automobile	quello	automobile	DET	NOUN	
+('io_io_PRON', 'prenderò_prendere_VERB')	6	io prenderò	io	prenderò	io	prendere	PRON	VERB	
+('chiedendo_chiedere_VERB', 'a_a_ADP')	6	chiedendo a	chiedendo	a	chiedere	a	VERB	ADP	
+"(""quest'_questo_DET"", 'automobile_automobile_NOUN')"	6	quest'automobile	quest'	automobile	questo	automobile	DET	NOUN	
+('che_che_SCONJ', 'avrebbero_avere_AUX')	6	che avrebbero	che	avrebbero	che	avere	SCONJ	AUX	
+('le_il_DET', 'tasche_tasca_NOUN')	6	le tasche	le	tasche	il	tasca	DET	NOUN	
+('sola_solo_ADJ', 'nella_in_ADP')	6	sola nella	sola	nella	solo	in	ADJ	ADP	
+('non_non_ADV', 'sapevi_sapere_VERB')	6	non sapevi	non	sapevi	non	sapere	ADV	VERB	
+('amica_amico_NOUN', 'è_essere_AUX')	6	amica è	amica	è	amico	essere	NOUN	AUX	
+('davvero_davvero_ADV', 'una_uno_DET')	6	davvero una	davvero	una	davvero	uno	ADV	DET	
+('chi_chi_PRON', 'ha_avere_VERB')	6	chi ha	chi	ha	chi	avere	PRON	VERB	
+('buon_buono_ADJ', 'vino_vino_NOUN')	5	buon vino	buon	vino	buono	vino	ADJ	NOUN	
+('padre_padre_NOUN', 'era_essere_AUX')	5	padre era	padre	era	padre	essere	NOUN	AUX	
+('mia_mio_DET', 'vicina_vicina_NOUN')	5	mia vicina	mia	vicina	mio	vicina	DET	NOUN	
+('noi_noi_PRON', 'ce_ce_PRON')	5	noi ce	noi	ce	noi	ce	PRON	PRON	
+('nel_in_ADP', 'ristorante_ristorante_NOUN')	5	nel ristorante	nel	ristorante	in	ristorante	ADP	NOUN	
+('scorso_scorso_ADJ', 'mese_mese_NOUN')	5	scorso mese	scorso	mese	scorso	mese	ADJ	NOUN	
+('abbiamo_avere_VERB', 'intenzione_intenzione_NOUN')	5	abbiamo intenzione	abbiamo	intenzione	avere	intenzione	VERB	NOUN	
+('deve_dovere_AUX', 'aiutarmi_aiutare_VERB')	5	deve aiutarmi	deve	aiutarmi	dovere	aiutare	AUX	VERB	
+('sono_essere_AUX', 'tuoi_tuo_DET')	5	sono tuoi	sono	tuoi	essere	tuo	AUX	DET	
+('ne_ne_PRON', 'deve_dovere_AUX')	5	ne deve	ne	deve	ne	dovere	PRON	AUX	
+('chi_chi_PRON', 'hai_avere_AUX')	5	chi hai	chi	hai	chi	avere	PRON	AUX	
+('avete_avere_AUX', 'torto_torto_VERB')	5	avete torto	avete	torto	avere	torto	AUX	VERB	
+('parlato_parlare_VERB', 'per_per_ADP')	5	parlato per	parlato	per	parlare	per	VERB	ADP	
+('del_di_ADP', 'buio_buio_NOUN')	5	del buio	del	buio	di	buio	ADP	NOUN	
+('altro_altro_ADJ', 'libro_libro_NOUN')	5	altro libro	altro	libro	altro	libro	ADJ	NOUN	
+('si_si_PRON', 'siano_essere_AUX')	5	si siano	si	siano	si	essere	PRON	AUX	
+"('lettera_lettera_NOUN', ""d'_di_ADP"")"	5	lettera d'	lettera	d'	lettera	di	NOUN	ADP	
+('molto_molto_ADV', 'infelice_infelice_ADJ')	5	molto infelice	molto	infelice	molto	infelice	ADV	ADJ	
+('cose_cosa_NOUN', 'troppo_troppo_ADV')	5	cose troppo	cose	troppo	cosa	troppo	NOUN	ADV	
+('preoccuparti_preoccupare_VERB', 'per_per_ADP')	5	preoccuparti per	preoccuparti	per	preoccupare	per	VERB	ADP	
+('già_già_ADV', 'trovato_trovare_VERB')	5	già trovato	già	trovato	già	trovare	ADV	VERB	

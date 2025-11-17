@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('dove_dove_PRON', 'avete_avere_AUX')	17	dove avete	dove	avete	dove	avere	PRON	AUX	
+('francese_francese_NOUN', 'con_con_ADP')	17	francese con	francese	con	francese	con	NOUN	ADP	
+('lei_in_ADP', 'parla_parlare_VERB')	17	lei parla	lei	parla	in	parlare	ADP	VERB	
+('il_il_DET', 'cappotto_cappotto_NOUN')	17	il cappotto	il	cappotto	il	cappotto	DET	NOUN	
+('morto_morire_VERB', 'di_di_ADP')	17	morto di	morto	di	morire	di	VERB	ADP	
+('per_per_ADP', 'aiutare_aiutare_VERB')	17	per aiutare	per	aiutare	per	aiutare	ADP	VERB	
+('è_essere_AUX', 'tua_tuo_DET')	17	è tua	è	tua	essere	tuo	AUX	DET	
+('ha_avere_AUX', 'aspettato_aspettare_VERB')	17	ha aspettato	ha	aspettato	avere	aspettare	AUX	VERB	
+('un_uno_DET', 'bugiardo_bugiardo_NOUN')	17	un bugiardo	un	bugiardo	uno	bugiardo	DET	NOUN	
+('una_uno_DET', 'gatta_gatta_NOUN')	17	una gatta	una	gatta	uno	gatta	DET	NOUN	
+('mi_mi_PRON', 'ama_amare_VERB')	17	mi ama	mi	ama	mi	amare	PRON	VERB	
+('si_si_PRON', 'dice_dire_VERB')	17	si dice	si	dice	si	dire	PRON	VERB	
+('stati_essere_AUX', 'in_in_ADP')	17	stati in	stati	in	essere	in	AUX	ADP	
+('sempre_sempre_ADV', 'la_il_DET')	17	sempre la	sempre	la	sempre	il	ADV	DET	
+('comprato_comprare_VERB', 'dei_di_ADP')	17	comprato dei	comprato	dei	comprare	di	VERB	ADP	
+('della_di_ADP', 'nostra_nostro_DET')	17	della nostra	della	nostra	di	nostro	ADP	DET	
+('dovrei_dovere_AUX', 'andare_andare_VERB')	17	dovrei andare	dovrei	andare	dovere	andare	AUX	VERB	
+('le_le_PRON', 'abbiamo_avere_AUX')	17	le abbiamo	le	abbiamo	le	avere	PRON	AUX	
+('insegnante_insegnante_NOUN', 'mi_mi_PRON')	17	insegnante mi	insegnante	mi	insegnante	mi	NOUN	PRON	
+"(""quest'_questo_DET"", 'anno_anno_NOUN')"	17	quest'anno	quest'	anno	questo	anno	DET	NOUN	
+('molti_molto_DET', 'amici_amico_NOUN')	17	molti amici	molti	amici	molto	amico	DET	NOUN	
+('deve_dovere_AUX', 'farlo_fare_VERB')	17	deve farlo	deve	farlo	dovere	fare	AUX	VERB	
+('fino_fino_ADV', 'al_a_ADP')	17	fino al	fino	al	fino	a	ADV	ADP	
+('la_il_DET', 'sicurezza_sicurezza_NOUN')	17	la sicurezza	la	sicurezza	il	sicurezza	DET	NOUN	
+('lavoro_lavoro_NOUN', 'è_essere_AUX')	17	lavoro è	lavoro	è	lavoro	essere	NOUN	AUX	
+('a_a_ADP', 'destra_destra_NOUN')	17	a destra	a	destra	a	destra	ADP	NOUN	
+('di_di_ADP', 'scarpe_scarpa_NOUN')	17	di scarpe	di	scarpe	di	scarpa	ADP	NOUN	
+('lavoro_lavoro_NOUN', 'a_a_ADP')	17		lavoro	a	lavoro	a	NOUN	ADP	
+('che_che_SCONJ', 'loro_loro_PRON')	17	che loro	che	loro	che	loro	SCONJ	PRON	
+('di_di_ADP', 'rimanere_rimanere_VERB')	17	di rimanere	di	rimanere	di	rimanere	ADP	VERB	
+('questo_questo_DET', 'lavoro_lavoro_NOUN')	17	questo lavoro	questo	lavoro	questo	lavoro	DET	NOUN	
+('nella_in_ADP', 'casa_casa_NOUN')	17	nella casa	nella	casa	in	casa	ADP	NOUN	
+('automobile_automobile_NOUN', 'è_essere_AUX')	17	automobile è	automobile	è	automobile	essere	NOUN	AUX	
+('pensando_pensare_VERB', 'di_di_ADP')	17	pensando di	pensando	di	pensare	di	VERB	ADP	
+('tempo_tempo_NOUN', 'fa_fa_ADV')	17	tempo fa	tempo	fa	tempo	fa	NOUN	ADV	
+('non_non_ADV', 'beve_bere_VERB')	17	non beve	non	beve	non	bere	ADV	VERB	
+('stava_stare_VERB', 'per_per_ADP')	17	stava per	stava	per	stare	per	VERB	ADP	
+('è_essere_AUX', 'blu_blu_ADJ')	17	è blu	è	blu	essere	blu	AUX	ADJ	
+('qualche_qualche_DET', 'domanda_domanda_NOUN')	17	qualche domanda	qualche	domanda	qualche	domanda	DET	NOUN	
+('ci_ci_PRON', 'serve_servire_VERB')	17	ci serve	ci	serve	ci	servire	PRON	VERB	
+('sono_essere_AUX', 'arrivato_arrivare_VERB')	17	sono arrivato	sono	arrivato	essere	arrivare	AUX	VERB	
+('arrivato_arrivare_VERB', 'qui_qui_ADV')	17	arrivato qui	arrivato	qui	arrivare	qui	VERB	ADV	
+('il_il_DET', 'giornale_giornale_NOUN')	17	il giornale	il	giornale	il	giornale	DET	NOUN	
+('aperto_aprire_VERB', 'il_il_DET')	17	aperto il	aperto	il	aprire	il	VERB	DET	
+('è_essere_AUX', 'malato_malato_ADJ')	17	è malato	è	malato	essere	malato	AUX	ADJ	
+('il_il_DET', 'basket_basket_NOUN')	17	il basket	il	basket	il	basket	DET	NOUN	
+('fetta_fetta_NOUN', 'di_di_ADP')	17	fetta di	fetta	di	fetta	di	NOUN	ADP	
+('che_che_SCONJ', 'deve_dovere_AUX')	17	che deve	che	deve	che	dovere	SCONJ	AUX	
+('ha_avere_AUX', 'scelto_scegliere_VERB')	17	ha scelto	ha	scelto	avere	scegliere	AUX	VERB	
+('a_a_ADP', 'morte_morte_NOUN')	17	annato a morte	a	morte	a	morte	ADP	NOUN	
+('penso_pensare_VERB', 'sia_essere_AUX')	17	penso sia	penso	sia	pensare	essere	VERB	AUX	
+('parlare_parlare_VERB', 'inglese_inglese_ADJ')	17	parlare inglese	parlare	inglese	parlare	inglese	VERB	ADJ	
+('stai_stare_AUX', 'ancora_ancora_ADV')	17	stai ancora	stai	ancora	stare	ancora	AUX	ADV	
+('fosse_essere_AUX', 'un_uno_DET')	17	fosse un	fosse	un	essere	uno	AUX	DET	
+('male_male_NOUN', 'a_a_ADP')	17		male	a	male	a	NOUN	ADP	
+('e_e_CCONJ', 'se_se_SCONJ')	17	e se	e	se	e	se	CCONJ	SCONJ	
+('i_il_DET', 'cavalli_cavallo_NOUN')	17	i cavalli	i	cavalli	il	cavallo	DET	NOUN	
+('perché_perché_ADV', 'ci_ci_PRON')	17	perché ci	perché	ci	perché	ci	ADV	PRON	
+('di_di_ADP', 'qualcosa_qualcosa_PRON')	17	di qualcosa	di	qualcosa	di	qualcosa	ADP	PRON	
+('del_di_ADP', 'sangue_sangue_NOUN')	17	del sangue	del	sangue	di	sangue	ADP	NOUN	
+('sembri_sembrare_VERB', 'molto_molto_ADV')	17	sembri molto	sembri	molto	sembrare	molto	VERB	ADV	
+('ad_a_ADP', 'aiutarmi_aiutare_VERB')	17	ad aiutarmi	ad	aiutarmi	a	aiutare	ADP	VERB	
+('venuta_venire_VERB', 'qui_qui_ADV')	17	venuta qui	venuta	qui	venire	qui	VERB	ADV	
+('lei_lei_PRON', 'piacciono_piacere_VERB')	17	lei piacciono	lei	piacciono	lei	piacere	PRON	VERB	
+('sei_essere_AUX', 'sicuro_sicuro_ADJ')	17	sei sicuro	sei	sicuro	essere	sicuro	AUX	ADJ	
+('ha_avere_AUX', 'causato_causare_VERB')	17	ha causato	ha	causato	avere	causare	AUX	VERB	
+('lui_lui_PRON', 'sia_essere_AUX')	17	lui sia	lui	sia	lui	essere	PRON	AUX	
+('libro_libro_NOUN', 'da_da_ADP')	17	libro da	libro	da	libro	da	NOUN	ADP	
+('innamorato_innamorare_ADJ', 'di_di_ADP')	17	innamorato di	innamorato	di	innamorare	di	ADJ	ADP	
+('non_non_ADV', 'serve_servire_VERB')	17	non serve	non	serve	non	servire	ADV	VERB	
+('fatto_fare_VERB', 'qualcosa_qualcosa_PRON')	17	fatto qualcosa	fatto	qualcosa	fare	qualcosa	VERB	PRON	
+('forse_forse_ADV', 'non_non_ADV')	17	forse non	forse	non	forse	non	ADV	ADV	
+('che_che_PRON', 'vi_vi_PRON')	17	che vi	che	vi	che	vi	PRON	PRON	
+('lasciare_lasciare_VERB', 'la_il_DET')	17	la	lasciare	la	lasciare	il	VERB	DET	
+('prova_provare_VERB', 'a_a_ADP')	17	prova	prova	a	provare	a	VERB	ADP	
+('non_non_ADV', 'ce_ce_PRON')	17	non ce	non	ce	non	ce	ADV	PRON	
+('le_il_DET', 'parole_parola_NOUN')	17	le parole	le	parole	il	parola	DET	NOUN	
+('è_essere_AUX', 'impegnata_impegnare_VERB')	17	è impegnata	è	impegnata	essere	impegnare	AUX	VERB	
+('miei_mio_DET', 'compiti_compito_NOUN')	17	miei compiti	miei	compiti	mio	compito	DET	NOUN	
+('visto_vedere_VERB', 'questo_questo_DET')	17	visto questo	visto	questo	vedere	questo	VERB	DET	
+('in_in_ADP', 'salute_salute_NOUN')	17	in salute	in	salute	in	salute	ADP	NOUN	
+('libro_libro_NOUN', 'per_per_ADP')	17	libro per	libro	per	libro	per	NOUN	ADP	
+('in_in_ADP', 'vendita_vendita_NOUN')	17	in vendita	in	vendita	in	vendita	ADP	NOUN	
+('fare_fare_VERB', 'in_in_ADP')	17	fare in	fare	in	fare	in	VERB	ADP	
+('dici_dire_VERB', 'di_di_ADP')	17	di	dici	di	dire	di	VERB	ADP	
+('avete_avere_AUX', 'trovato_trovare_VERB')	17	avete trovato	avete	trovato	avere	trovare	AUX	VERB	
+('ho_avere_AUX', 'lavorato_lavorare_VERB')	17	ho lavorato	ho	lavorato	avere	lavorare	AUX	VERB	
+('è_essere_AUX', 'inutile_inutile_ADJ')	17	è inutile	è	inutile	essere	inutile	AUX	ADJ	
+('età_età_NOUN', 'di_di_ADP')	17	età di	età	di	età	di	NOUN	ADP	
+('volete_volere_AUX', 'andare_andare_VERB')	17	volete andare	volete	andare	volere	andare	AUX	VERB	
+('vuole_volere_AUX', 'imparare_imparare_VERB')	17	vuole imparare	vuole	imparare	volere	imparare	AUX	VERB	
+('il_il_DET', 'futuro_futuro_NOUN')	17	il futuro	il	futuro	il	futuro	DET	NOUN	
+('cosa_cosa_PRON', 'stanno_stare_AUX')	17	cosa stanno	cosa	stanno	cosa	stare	PRON	AUX	
+('suo_suo_DET', 'bicchiere_bicchiere_NOUN')	17	suo bicchiere	suo	bicchiere	suo	bicchiere	DET	NOUN	
+('vi_vi_PRON', 'è_essere_AUX')	17	vi è	vi	è	vi	essere	PRON	AUX	
+('pensando_pensare_VERB', 'a_a_ADP')	17		pensando	a	pensare	a	VERB	ADP	
+('aiutata_aiutare_VERB', 'a_a_ADP')	17		aiutata	a	aiutare	a	VERB	ADP	
+('di_di_ADP', 'se_se_PRON')	17	di se	di	se	di	se	ADP	PRON	
+('un_uno_DET', 'nome_nome_NOUN')	17	un nome	un	nome	uno	nome	DET	NOUN	
+('cani_cane_NOUN', 'sono_essere_AUX')	17	cani sono	cani	sono	cane	essere	NOUN	AUX	

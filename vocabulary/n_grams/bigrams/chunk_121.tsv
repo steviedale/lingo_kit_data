@@ -1,0 +1,39 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('ancora_ancora_ADV', 'arrabbiate_arrabbiare_VERB')	5	ancora arrabbiate	ancora	arrabbiate	ancora	arrabbiare	ADV	VERB	
+('io_io_PRON', 'abbia_avere_AUX')	5	io abbia	io	abbia	io	avere	PRON	AUX	
+('sua_suo_DET', 'insalata_insalata_NOUN')	5	sua insalata	sua	insalata	suo	insalata	DET	NOUN	
+('che_che_PRON', 'dico_dire_VERB')	5	che dico	che	dico	che	dire	PRON	VERB	
+('vostra_vostro_DET', 'scuola_scuola_NOUN')	5	vostra scuola	vostra	scuola	vostro	scuola	DET	NOUN	
+('è_essere_AUX', 'usata_usare_VERB')	5	è usata	è	usata	essere	usare	AUX	VERB	
+('più_più_ADV', 'dei_di_ADP')	5	più dei	più	dei	più	di	ADV	ADP	
+('venite_venire_VERB', 'con_con_ADP')	5	venite con	venite	con	venire	con	VERB	ADP	
+('in_in_ADP', 'te_te_PRON')	5	in te	in	te	in	te	ADP	PRON	
+('consigliai_consigliare_VERB', 'a_a_ADP')	5	consiglia	consigliai	a	consigliare	a	VERB	ADP	
+('in_in_ADP', 'moto_moto_NOUN')	5	in moto	in	moto	in	moto	ADP	NOUN	
+('è_essere_AUX', 'normale_normale_ADJ')	5	è normale	è	normale	essere	normale	AUX	ADJ	
+('uno_uno_DET', 'screenshot_screenshot_NOUN')	5	uno screenshot	uno	screenshot	uno	screenshot	DET	NOUN	
+('manca_mancare_VERB', 'molto_molto_ADV')	5	manca molto	manca	molto	mancare	molto	VERB	ADV	
+('avuto_avere_VERB', 'problemi_problema_NOUN')	5	avuto problemi	avuto	problemi	avere	problema	VERB	NOUN	
+('più_più_ADV', 'una_uno_DET')	5	più una	più	una	più	uno	ADV	DET	
+('consigliato_consigliare_VERB', 'a_a_ADP')	5		consigliato	a	consigliare	a	VERB	ADP	
+('imparato_imparare_VERB', 'niente_niente_PRON')	5	imparato niente	imparato	niente	imparare	niente	VERB	PRON	
+('tornerà_tornare_VERB', 'mai_mai_ADV')	5	tornerà mai	tornerà	mai	tornare	mai	VERB	ADV	
+('è_essere_AUX', 'incredibilmente_incredibilmente_ADV')	5	è incredibilmente	è	incredibilmente	essere	incredibilmente	AUX	ADV	
+('vita_vita_NOUN', 'senza_senza_ADP')	5	vita senza	vita	senza	vita	senza	NOUN	ADP	
+('farvi_fare_VERB', 'del_di_ADP')	5	farvi del	farvi	del	fare	di	VERB	ADP	
+('sperando_sperare_VERB', 'che_che_SCONJ')	5	sperando che	sperando	che	sperare	che	VERB	SCONJ	
+('prendete_prendere_VERB', 'il_il_DET')	5	prendete il	prendete	il	prendere	il	VERB	DET	
+('triste_triste_ADJ', 'di_di_ADP')	5	triste di	triste	di	triste	di	ADJ	ADP	
+('messaggio_messaggio_NOUN', 'di_di_ADP')	5	messaggio di	messaggio	di	messaggio	di	NOUN	ADP	
+('buone_buono_ADJ', 'notizie_notizia_NOUN')	5	buone notizie	buone	notizie	buono	notizia	ADJ	NOUN	
+('film_film_NOUN', 'vecchi_vecchio_ADJ')	5	film vecchi	film	vecchi	film	vecchio	NOUN	ADJ	
+('passato_passare_VERB', 'una_uno_DET')	5	passato una	passato	una	passare	uno	VERB	DET	
+('piaceva_piacere_VERB', 'nuotare_nuotare_VERB')	5	piaceva nuotare	piaceva	nuotare	piacere	nuotare	VERB	VERB	
+('eravate_essere_AUX', 'occupati_occupare_VERB')	5	eravate occupati	eravate	occupati	essere	occupare	AUX	VERB	
+('tutti_tutto_DET', 'voi_voi_PRON')	5	tutti voi	tutti	voi	tutto	voi	DET	PRON	
+('ne_ne_PRON', 'era_essere_AUX')	5	ne era	ne	era	ne	essere	PRON	AUX	
+('risolvere_risolvere_VERB', 'questo_questo_DET')	5	risolvere questo	risolvere	questo	risolvere	questo	VERB	DET	
+('a_a_ADP', 'suicidarsi_suicidare_VERB')	5	a provato a suicidarsi	a	suicidarsi	a	suicidare	ADP	VERB	
+('come_come_ADV', 'sai_sapere_VERB')	5	come sai	come	sai	come	sapere	ADV	VERB	
+('via_via_ADV', 'in_in_ADP')	5	via in	via	in	via	in	ADV	ADP	
+('scelse_scegliere_VERB', 'di_di_ADP')	5	scelse di	scelse	di	scegliere	di	VERB	ADP	
