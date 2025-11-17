@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('venuto_venire_VERB', 'con_con_ADP')	13	venuto con	venuto	con	venire	con	VERB	ADP	
-('sarò_essere_AUX', 'in_in_ADP')	13	sarò in	sarò	in	essere	in	AUX	ADP	
-('sei_essere_AUX', 'pronto_pronto_ADJ')	13	sei pronto	sei	pronto	essere	pronto	AUX	ADJ	
-('come_come_SCONJ', 'farlo_fare_VERB')	13	come farlo	come	farlo	come	fare	SCONJ	VERB	
-('insegnato_insegnare_VERB', 'a_a_ADP')	13		insegnato	a	insegnare	a	VERB	ADP	
-('siete_essere_AUX', 'qui_qui_ADV')	13	siete qui	siete	qui	essere	qui	AUX	ADV	
-('andare_andare_VERB', 'ad_a_ADP')	13	andare ad	andare	ad	andare	a	VERB	ADP	
-('sto_stare_AUX', 'lavorando_lavorare_VERB')	13	sto lavorando	sto	lavorando	stare	lavorare	AUX	VERB	
-('ha_avere_AUX', 'tradito_tradire_VERB')	13	ha tradito	ha	tradito	avere	tradire	AUX	VERB	
-('piace_piacere_VERB', 'lo_il_DET')	13	piace lo	piace	lo	piacere	il	VERB	DET	
-('realizzato_realizzare_VERB', 'che_che_SCONJ')	13	realizzato che	realizzato	che	realizzare	che	VERB	SCONJ	
-('va_andare_VERB', 'al_a_ADP')	13	va al	va	al	andare	a	VERB	ADP	
-"('e_e_CCONJ', ""l'_il_DET"")"	13		e	l'	e	il	CCONJ	DET	
-('stanco_stanco_ADJ', 'per_per_ADP')	13	stanco per	stanco	per	stanco	per	ADJ	ADP	
-('trovato_trovare_VERB', 'le_il_DET')	13	trovato le	trovato	le	trovare	il	VERB	DET	
-('devo_dovere_AUX', 'comprare_comprare_VERB')	13	devo comprare	devo	comprare	dovere	comprare	AUX	VERB	
-('vostro_vostro_DET', 'amico_amico_NOUN')	13	vostro amico	vostro	amico	vostro	amico	DET	NOUN	
-('facendo_fare_VERB', 'per_per_ADP')	13	facendo per	facendo	per	fare	per	VERB	ADP	
-('essere_essere_AUX', 'fatto_fare_VERB')	13	essere fatto	essere	fatto	essere	fare	AUX	VERB	
-('a_a_ADP', 'tutte_tutto_DET')	13	ancato a tutte	a	tutte	a	tutto	ADP	DET	
-('film_film_NOUN', 'è_essere_AUX')	13	film è	film	è	film	essere	NOUN	AUX	
-('di_di_ADP', 'scrivere_scrivere_VERB')	13	di scrivere	di	scrivere	di	scrivere	ADP	VERB	
-('abbiamo_avere_VERB', 'ancora_ancora_ADV')	13	abbiamo ancora	abbiamo	ancora	avere	ancora	VERB	ADV	
-('fino_fino_ADV', 'alla_a_ADP')	13	fino alla	fino	alla	fino	a	ADV	ADP	
-('al_a_ADP', 'verde_verde_NOUN')	13	al verde	al	verde	a	verde	ADP	NOUN	
-('dalla_da_ADP', 'mia_mio_DET')	13	dalla mia	dalla	mia	da	mio	ADP	DET	
-('un_uno_DET', 'aspetto_aspetto_NOUN')	13	un aspetto	un	aspetto	uno	aspetto	DET	NOUN	
-('è_essere_AUX', 'giusto_giusto_ADJ')	13	è giusto	è	giusto	essere	giusto	AUX	ADJ	
-('le_le_PRON', 'devo_dovere_AUX')	13	le devo	le	devo	le	dovere	PRON	AUX	
-('lui_lui_PRON', 'la_la_PRON')	13	lui la	lui	la	lui	la	PRON	PRON	
-('imparato_imparare_VERB', 'molto_molto_ADV')	13	imparato molto	imparato	molto	imparare	molto	VERB	ADV	
-('nato_nascere_VERB', 'in_in_ADP')	13	nato in	nato	in	nascere	in	VERB	ADP	
-('entrambi_entrambi_DET', 'i_il_DET')	13	entrambi	entrambi	i	entrambi	il	DET	DET	
-('è_essere_AUX', 'fuori_fuori_ADV')	13	è fuori	è	fuori	essere	fuori	AUX	ADV	
-('ha_avere_AUX', 'riparato_riparare_VERB')	13	ha riparato	ha	riparato	avere	riparare	AUX	VERB	
-('a_a_ADP', 'poker_poker_NOUN')	13	a poker	a	poker	a	poker	ADP	NOUN	
-('potete_potere_AUX', 'fare_fare_VERB')	13	potete fare	potete	fare	potere	fare	AUX	VERB	
-('questo_questo_DET', 'tipo_tipo_NOUN')	13	questo tipo	questo	tipo	questo	tipo	DET	NOUN	
-('cambiato_cambiare_VERB', 'idea_idea_NOUN')	13	cambiato idea	cambiato	idea	cambiare	idea	VERB	NOUN	
-('è_essere_AUX', 'gentile_gentile_ADJ')	13	è gentile	è	gentile	essere	gentile	AUX	ADJ	
-('una_uno_DET', 'sedia_sedia_NOUN')	13	una sedia	una	sedia	uno	sedia	DET	NOUN	
-('di_di_ADP', 'neve_neve_NOUN')	13	di neve	di	neve	di	neve	ADP	NOUN	
-('ha_avere_AUX', 'costruito_costruire_VERB')	13	ha costruito	ha	costruito	avere	costruire	AUX	VERB	
-('mai_mai_ADV', 'in_in_ADP')	13	mai in	mai	in	mai	in	ADV	ADP	
-('mia_mio_DET', 'zia_zia_NOUN')	13	mia zia	mia	zia	mio	zia	DET	NOUN	
-('la_il_DET', 'decisione_decisione_NOUN')	13	la decisione	la	decisione	il	decisione	DET	NOUN	
-('di_di_ADP', 'quella_quello_DET')	13	di quella	di	quella	di	quello	ADP	DET	
-('dei_di_ADP', 'bei_bello_ADJ')	13	dei bei	dei	bei	di	bello	ADP	ADJ	
-('vado_andare_VERB', 'in_in_ADP')	13	vado in	vado	in	andare	in	VERB	ADP	
-('la_il_DET', 'famiglia_famiglia_NOUN')	13	la famiglia	la	famiglia	il	famiglia	DET	NOUN	
-('la_il_DET', 'banca_banca_NOUN')	13	la banca	la	banca	il	banca	DET	NOUN	
-('che_che_SCONJ', 'pensava_pensare_VERB')	13	che pensava	che	pensava	che	pensare	SCONJ	VERB	
-('stesso_stesso_ADJ', 'errore_errore_NOUN')	13	stesso errore	stesso	errore	stesso	errore	ADJ	NOUN	
-('sai_sapere_VERB', 'cosa_cosa_PRON')	13	sai cosa	sai	cosa	sapere	cosa	VERB	PRON	
-('ero_essere_AUX', 'un_uno_DET')	13	ero un	ero	un	essere	uno	AUX	DET	
-('suo_suo_DET', 'ombrello_ombrello_NOUN')	13	suo ombrello	suo	ombrello	suo	ombrello	DET	NOUN	
-('qualcuno_qualcuno_PRON', 'qui_qui_ADV')	13	qualcuno qui	qualcuno	qui	qualcuno	qui	PRON	ADV	
-('alla_a_ADP', 'volta_volta_NOUN')	13	alla volta	alla	volta	a	volta	ADP	NOUN	
-('non_non_ADV', 'disse_dire_VERB')	13	non disse	non	disse	non	dire	ADV	VERB	
-"('te_te_PRON', ""l'_lo_PRON"")"	13	te l'	te	l'	te	lo	PRON	PRON	
-('incidente_incidente_NOUN', 'stradale_stradale_ADJ')	13	incidente stradale	incidente	stradale	incidente	stradale	NOUN	ADJ	
-('a_a_ADP', 'controllare_controllare_VERB')	13	a controllare	a	controllare	a	controllare	ADP	VERB	
-('ne_ne_PRON', 'andò_andare_VERB')	13	ne andò	ne	andò	ne	andare	PRON	VERB	
-('succo_succo_NOUN', 'di_di_ADP')	13	succo di	succo	di	succo	di	NOUN	ADP	
-('che_che_PRON', 'ha_avere_VERB')	13	che ha	che	ha	che	avere	PRON	VERB	
-('nulla_nu_ADV', 'a_a_ADP')	13		nulla	a	nu	a	ADV	ADP	
-('un_uno_DET', 'esperto_esperto_NOUN')	13	un esperto	un	esperto	uno	esperto	DET	NOUN	
-('che_che_PRON', 'può_potere_AUX')	13	che può	che	può	che	potere	PRON	AUX	
-('in_in_ADP', 'tutto_tutto_PRON')	13	in tutto	in	tutto	in	tutto	ADP	PRON	
-('tutti_tutto_PRON', 'tranne_tranne_ADP')	13	tutti tranne	tutti	tranne	tutto	tranne	PRON	ADP	
-('aprì_aprire_VERB', 'la_il_DET')	13	aprì la	aprì	la	aprire	il	VERB	DET	
-('dalla_da_ADP', 'scuola_scuola_NOUN')	13	dalla scuola	dalla	scuola	da	scuola	ADP	NOUN	
-('di_di_ADP', 'fame_fame_NOUN')	13	di fame	di	fame	di	fame	ADP	NOUN	
-('ha_avere_AUX', 'chiuso_chiudere_VERB')	13	ha chiuso	ha	chiuso	avere	chiudere	AUX	VERB	
-('lei_lei_PRON', 'abbia_avere_VERB')	13	lei abbia	lei	abbia	lei	avere	PRON	VERB	
-('ancora_ancora_ADV', 'dei_di_ADP')	13	ancora dei	ancora	dei	ancora	di	ADV	ADP	
-('guidare_guidare_VERB', 'la_il_DET')	13	guidare la	guidare	la	guidare	il	VERB	DET	
-('interessato_interessato_ADJ', 'alla_a_ADP')	13	interessato alla	interessato	alla	interessato	a	ADJ	ADP	
-('risposto_rispondere_VERB', 'alla_a_ADP')	13	risposto alla	risposto	alla	rispondere	a	VERB	ADP	
-('tua_tuo_DET', 'lettera_lettera_NOUN')	13	tua lettera	tua	lettera	tuo	lettera	DET	NOUN	
-('è_essere_AUX', 'rifiutato_rifiutare_VERB')	13	è rifiutato	è	rifiutato	essere	rifiutare	AUX	VERB	
-('la_il_DET', 'febbre_febbre_NOUN')	13	la febbre	la	febbre	il	febbre	DET	NOUN	
-('provò_provare_VERB', 'ad_a_ADP')	13	provò ad	provò	ad	provare	a	VERB	ADP	
-('molto_molto_ADV', 'stanca_stanco_ADJ')	13	molto stanca	molto	stanca	molto	stanco	ADV	ADJ	
-('la_il_DET', 'doccia_doccia_NOUN')	13	la doccia	la	doccia	il	doccia	DET	NOUN	
-('ha_avere_AUX', 'inventato_inventare_VERB')	13	ha inventato	ha	inventato	avere	inventare	AUX	VERB	
-('gli_gli_PRON', 'diede_dare_VERB')	13	gli diede	gli	diede	gli	dare	PRON	VERB	
-('dove_dove_PRON', 'siete_essere_AUX')	13	dove siete	dove	siete	dove	essere	PRON	AUX	
-('riparare_riparare_VERB', 'la_il_DET')	13	riparare la	riparare	la	riparare	il	VERB	DET	
-('più_più_ADV', 'duramente_duramente_ADV')	13	più duramente	più	duramente	più	duramente	ADV	ADV	
-('ancora_ancora_ADV', 'la_il_DET')	13	ancora la	ancora	la	ancora	il	ADV	DET	
-('molto_molto_ADV', 'orgogliosa_orgoglioso_ADJ')	13	molto orgogliosa	molto	orgogliosa	molto	orgoglioso	ADV	ADJ	
-('stata_essere_AUX', 'molto_molto_ADV')	13	stata molto	stata	molto	essere	molto	AUX	ADV	
-('tutto_tutto_PRON', 'bene_bene_ADV')	13	tutto bene	tutto	bene	tutto	bene	PRON	ADV	
-('come_come_ADV', 'va_andare_VERB')	13	come va	come	va	come	andare	ADV	VERB	
-"('parla_parlare_VERB', ""l'_il_DET"")"	13	parla l'	parla	l'	parlare	il	VERB	DET	
-('cosa_cosa_PRON', 'è_essere_AUX')	13	cosa è	cosa	è	cosa	essere	PRON	AUX	
-('la_la_PRON', 'voleva_volere_AUX')	13	la voleva	la	voleva	la	volere	PRON	AUX	
-('a_a_ADP', 'quel_quello_DET')	13	a quel	a	quel	a	quello	ADP	DET	
-('lasciato_lasciare_VERB', 'un_uno_DET')	13	lasciato un	lasciato	un	lasciare	uno	VERB	DET	
+('venuto_venire_VERB', 'con_con_ADP')	13	venuto con	venuto	con	venire	con	VERB	ADP	come with
+('sarò_essere_AUX', 'in_in_ADP')	13	sarò in	sarò	in	essere	in	AUX	ADP	i will be in
+('sei_essere_AUX', 'pronto_pronto_ADJ')	13	sei pronto	sei	pronto	essere	pronto	AUX	ADJ	are you ready
+('come_come_SCONJ', 'farlo_fare_VERB')	13	come farlo	come	farlo	come	fare	SCONJ	VERB	how to do it
+('insegnato_insegnare_VERB', 'a_a_ADP')	13		insegnato	a	insegnare	a	VERB	ADP	taught to
+('siete_essere_AUX', 'qui_qui_ADV')	13	siete qui	siete	qui	essere	qui	AUX	ADV	you (plural) are here
+('andare_andare_VERB', 'ad_a_ADP')	13	andare ad	andare	ad	andare	a	VERB	ADP	to go to
+('sto_stare_AUX', 'lavorando_lavorare_VERB')	13	sto lavorando	sto	lavorando	stare	lavorare	AUX	VERB	i am working
+('ha_avere_AUX', 'tradito_tradire_VERB')	13	ha tradito	ha	tradito	avere	tradire	AUX	VERB	has betrayed
+('piace_piacere_VERB', 'lo_il_DET')	13	piace lo	piace	lo	piacere	il	VERB	DET	likes the (masculine)
+('realizzato_realizzare_VERB', 'che_che_SCONJ')	13	realizzato che	realizzato	che	realizzare	che	VERB	SCONJ	realized that
+('va_andare_VERB', 'al_a_ADP')	13	va al	va	al	andare	a	VERB	ADP	goes to the (masculine)
+"('e_e_CCONJ', ""l'_il_DET"")"	13		e	l'	e	il	CCONJ	DET	and the (before a vowel)
+('stanco_stanco_ADJ', 'per_per_ADP')	13	stanco per	stanco	per	stanco	per	ADJ	ADP	tired from
+('trovato_trovare_VERB', 'le_il_DET')	13	trovato le	trovato	le	trovare	il	VERB	DET	found the (feminine plural)
+('devo_dovere_AUX', 'comprare_comprare_VERB')	13	devo comprare	devo	comprare	dovere	comprare	AUX	VERB	i have to buy
+('vostro_vostro_DET', 'amico_amico_NOUN')	13	vostro amico	vostro	amico	vostro	amico	DET	NOUN	your (plural) friend
+('facendo_fare_VERB', 'per_per_ADP')	13	facendo per	facendo	per	fare	per	VERB	ADP	doing to
+('essere_essere_AUX', 'fatto_fare_VERB')	13	essere fatto	essere	fatto	essere	fare	AUX	VERB	to be done
+('a_a_ADP', 'tutte_tutto_DET')	13	ancato a tutte	a	tutte	a	tutto	ADP	DET	to all (feminine plural)
+('film_film_NOUN', 'è_essere_AUX')	13	film è	film	è	film	essere	NOUN	AUX	movie is
+('di_di_ADP', 'scrivere_scrivere_VERB')	13	di scrivere	di	scrivere	di	scrivere	ADP	VERB	to write
+('abbiamo_avere_VERB', 'ancora_ancora_ADV')	13	abbiamo ancora	abbiamo	ancora	avere	ancora	VERB	ADV	we still have
+('fino_fino_ADV', 'alla_a_ADP')	13	fino alla	fino	alla	fino	a	ADV	ADP	until the (feminine)
+('al_a_ADP', 'verde_verde_NOUN')	13	al verde	al	verde	a	verde	ADP	NOUN	broke
+('dalla_da_ADP', 'mia_mio_DET')	13	dalla mia	dalla	mia	da	mio	ADP	DET	from my (feminine)
+('un_uno_DET', 'aspetto_aspetto_NOUN')	13	un aspetto	un	aspetto	uno	aspetto	DET	NOUN	an aspect
+('è_essere_AUX', 'giusto_giusto_ADJ')	13	è giusto	è	giusto	essere	giusto	AUX	ADJ	it is right
+('le_le_PRON', 'devo_dovere_AUX')	13	le devo	le	devo	le	dovere	PRON	AUX	i owe them
+('lui_lui_PRON', 'la_la_PRON')	13	lui la	lui	la	lui	la	PRON	PRON	he her
+('imparato_imparare_VERB', 'molto_molto_ADV')	13	imparato molto	imparato	molto	imparare	molto	VERB	ADV	learned a lot
+('nato_nascere_VERB', 'in_in_ADP')	13	nato in	nato	in	nascere	in	VERB	ADP	born in
+('entrambi_entrambi_DET', 'i_il_DET')	13	entrambi	entrambi	i	entrambi	il	DET	DET	both (masculine)
+('è_essere_AUX', 'fuori_fuori_ADV')	13	è fuori	è	fuori	essere	fuori	AUX	ADV	is outside
+('ha_avere_AUX', 'riparato_riparare_VERB')	13	ha riparato	ha	riparato	avere	riparare	AUX	VERB	has repaired
+('a_a_ADP', 'poker_poker_NOUN')	13	a poker	a	poker	a	poker	ADP	NOUN	at poker
+('potete_potere_AUX', 'fare_fare_VERB')	13	potete fare	potete	fare	potere	fare	AUX	VERB	you (plural) can do
+('questo_questo_DET', 'tipo_tipo_NOUN')	13	questo tipo	questo	tipo	questo	tipo	DET	NOUN	this type
+('cambiato_cambiare_VERB', 'idea_idea_NOUN')	13	cambiato idea	cambiato	idea	cambiare	idea	VERB	NOUN	changed mind
+('è_essere_AUX', 'gentile_gentile_ADJ')	13	è gentile	è	gentile	essere	gentile	AUX	ADJ	is kind
+('una_uno_DET', 'sedia_sedia_NOUN')	13	una sedia	una	sedia	uno	sedia	DET	NOUN	a chair
+('di_di_ADP', 'neve_neve_NOUN')	13	di neve	di	neve	di	neve	ADP	NOUN	of snow
+('ha_avere_AUX', 'costruito_costruire_VERB')	13	ha costruito	ha	costruito	avere	costruire	AUX	VERB	has built
+('mai_mai_ADV', 'in_in_ADP')	13	mai in	mai	in	mai	in	ADV	ADP	never in
+('mia_mio_DET', 'zia_zia_NOUN')	13	mia zia	mia	zia	mio	zia	DET	NOUN	my aunt
+('la_il_DET', 'decisione_decisione_NOUN')	13	la decisione	la	decisione	il	decisione	DET	NOUN	the decision
+('di_di_ADP', 'quella_quello_DET')	13	di quella	di	quella	di	quello	ADP	DET	of that (feminine)
+('dei_di_ADP', 'bei_bello_ADJ')	13	dei bei	dei	bei	di	bello	ADP	ADJ	some nice (masculine plural)
+('vado_andare_VERB', 'in_in_ADP')	13	vado in	vado	in	andare	in	VERB	ADP	i go to
+('la_il_DET', 'famiglia_famiglia_NOUN')	13	la famiglia	la	famiglia	il	famiglia	DET	NOUN	the family
+('la_il_DET', 'banca_banca_NOUN')	13	la banca	la	banca	il	banca	DET	NOUN	the bank
+('che_che_SCONJ', 'pensava_pensare_VERB')	13	che pensava	che	pensava	che	pensare	SCONJ	VERB	that he thought
+('stesso_stesso_ADJ', 'errore_errore_NOUN')	13	stesso errore	stesso	errore	stesso	errore	ADJ	NOUN	same mistake
+('sai_sapere_VERB', 'cosa_cosa_PRON')	13	sai cosa	sai	cosa	sapere	cosa	VERB	PRON	do you know what
+('ero_essere_AUX', 'un_uno_DET')	13	ero un	ero	un	essere	uno	AUX	DET	i was a
+('suo_suo_DET', 'ombrello_ombrello_NOUN')	13	suo ombrello	suo	ombrello	suo	ombrello	DET	NOUN	his umbrella; her umbrella
+('qualcuno_qualcuno_PRON', 'qui_qui_ADV')	13	qualcuno qui	qualcuno	qui	qualcuno	qui	PRON	ADV	someone here
+('alla_a_ADP', 'volta_volta_NOUN')	13	alla volta	alla	volta	a	volta	ADP	NOUN	at a time
+('non_non_ADV', 'disse_dire_VERB')	13	non disse	non	disse	non	dire	ADV	VERB	did not say
+"('te_te_PRON', ""l'_lo_PRON"")"	13	te l'	te	l'	te	lo	PRON	PRON	you it (before a vowel)
+('incidente_incidente_NOUN', 'stradale_stradale_ADJ')	13	incidente stradale	incidente	stradale	incidente	stradale	NOUN	ADJ	car accident
+('a_a_ADP', 'controllare_controllare_VERB')	13	a controllare	a	controllare	a	controllare	ADP	VERB	to check
+('ne_ne_PRON', 'andò_andare_VERB')	13	ne andò	ne	andò	ne	andare	PRON	VERB	went away
+('succo_succo_NOUN', 'di_di_ADP')	13	succo di	succo	di	succo	di	NOUN	ADP	juice of
+('che_che_PRON', 'ha_avere_VERB')	13	che ha	che	ha	che	avere	PRON	VERB	that has
+('nulla_nu_ADV', 'a_a_ADP')	13		nulla	a	nu	a	ADV	ADP	nothing to
+('un_uno_DET', 'esperto_esperto_NOUN')	13	un esperto	un	esperto	uno	esperto	DET	NOUN	an expert
+('che_che_PRON', 'può_potere_AUX')	13	che può	che	può	che	potere	PRON	AUX	that can
+('in_in_ADP', 'tutto_tutto_PRON')	13	in tutto	in	tutto	in	tutto	ADP	PRON	in all
+('tutti_tutto_PRON', 'tranne_tranne_ADP')	13	tutti tranne	tutti	tranne	tutto	tranne	PRON	ADP	everyone except
+('aprì_aprire_VERB', 'la_il_DET')	13	aprì la	aprì	la	aprire	il	VERB	DET	opened the (feminine)
+('dalla_da_ADP', 'scuola_scuola_NOUN')	13	dalla scuola	dalla	scuola	da	scuola	ADP	NOUN	from the school
+('di_di_ADP', 'fame_fame_NOUN')	13	di fame	di	fame	di	fame	ADP	NOUN	with hunger
+('ha_avere_AUX', 'chiuso_chiudere_VERB')	13	ha chiuso	ha	chiuso	avere	chiudere	AUX	VERB	has closed
+('lei_lei_PRON', 'abbia_avere_VERB')	13	lei abbia	lei	abbia	lei	avere	PRON	VERB	she has
+('ancora_ancora_ADV', 'dei_di_ADP')	13	ancora dei	ancora	dei	ancora	di	ADV	ADP	still some
+('guidare_guidare_VERB', 'la_il_DET')	13	guidare la	guidare	la	guidare	il	VERB	DET	to drive the (feminine)
+('interessato_interessato_ADJ', 'alla_a_ADP')	13	interessato alla	interessato	alla	interessato	a	ADJ	ADP	interested in the (feminine)
+('risposto_rispondere_VERB', 'alla_a_ADP')	13	risposto alla	risposto	alla	rispondere	a	VERB	ADP	answered the (feminine)
+('tua_tuo_DET', 'lettera_lettera_NOUN')	13	tua lettera	tua	lettera	tuo	lettera	DET	NOUN	your letter (feminine)
+('è_essere_AUX', 'rifiutato_rifiutare_VERB')	13	è rifiutato	è	rifiutato	essere	rifiutare	AUX	VERB	is rejected
+('la_il_DET', 'febbre_febbre_NOUN')	13	la febbre	la	febbre	il	febbre	DET	NOUN	the fever
+('provò_provare_VERB', 'ad_a_ADP')	13	provò ad	provò	ad	provare	a	VERB	ADP	he tried to
+('molto_molto_ADV', 'stanca_stanco_ADJ')	13	molto stanca	molto	stanca	molto	stanco	ADV	ADJ	very tired (feminine)
+('la_il_DET', 'doccia_doccia_NOUN')	13	la doccia	la	doccia	il	doccia	DET	NOUN	the shower
+('ha_avere_AUX', 'inventato_inventare_VERB')	13	ha inventato	ha	inventato	avere	inventare	AUX	VERB	has invented
+('gli_gli_PRON', 'diede_dare_VERB')	13	gli diede	gli	diede	gli	dare	PRON	VERB	he gave him
+('dove_dove_PRON', 'siete_essere_AUX')	13	dove siete	dove	siete	dove	essere	PRON	AUX	where are you (plural)
+('riparare_riparare_VERB', 'la_il_DET')	13	riparare la	riparare	la	riparare	il	VERB	DET	to repair the (feminine)
+('più_più_ADV', 'duramente_duramente_ADV')	13	più duramente	più	duramente	più	duramente	ADV	ADV	harder
+('ancora_ancora_ADV', 'la_il_DET')	13	ancora la	ancora	la	ancora	il	ADV	DET	still the (feminine)
+('molto_molto_ADV', 'orgogliosa_orgoglioso_ADJ')	13	molto orgogliosa	molto	orgogliosa	molto	orgoglioso	ADV	ADJ	very proud (feminine)
+('stata_essere_AUX', 'molto_molto_ADV')	13	stata molto	stata	molto	essere	molto	AUX	ADV	been very
+('tutto_tutto_PRON', 'bene_bene_ADV')	13	tutto bene	tutto	bene	tutto	bene	PRON	ADV	all good
+('come_come_ADV', 'va_andare_VERB')	13	come va	come	va	come	andare	ADV	VERB	how is it going
+"('parla_parlare_VERB', ""l'_il_DET"")"	13	parla l'	parla	l'	parlare	il	VERB	DET	speaks the (before a vowel)
+('cosa_cosa_PRON', 'è_essere_AUX')	13	cosa è	cosa	è	cosa	essere	PRON	AUX	what is
+('la_la_PRON', 'voleva_volere_AUX')	13	la voleva	la	voleva	la	volere	PRON	AUX	he wanted her
+('a_a_ADP', 'quel_quello_DET')	13	a quel	a	quel	a	quello	ADP	DET	to that (masculine)
+('lasciato_lasciare_VERB', 'un_uno_DET')	13	lasciato un	lasciato	un	lasciare	uno	VERB	DET	left a
