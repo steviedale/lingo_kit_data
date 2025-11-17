@@ -1,101 +1,201 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('il_il_DET', 'vaso_vaso_NOUN')	10	il vaso	il	vaso	il	vaso	DET	NOUN	
-('può_potere_AUX', 'avere_avere_AUX')	10	può avere	può	avere	potere	avere	AUX	AUX	
-('è_essere_AUX', 'caduta_cadere_VERB')	10	è caduta	è	caduta	essere	cadere	AUX	VERB	
-('lei_lei_PRON', 'può_potere_AUX')	10	lei può	lei	può	lei	potere	PRON	AUX	
-('sopportare_sopportare_VERB', 'il_il_DET')	10	sopportare il	sopportare	il	sopportare	il	VERB	DET	
-('mai_mai_ADV', 'una_uno_DET')	10	mai una	mai	una	mai	uno	ADV	DET	
-('non_non_ADV', 'posso_potere_VERB')	10	non posso	non	posso	non	potere	ADV	VERB	
-('aspettare_aspettare_VERB', 'qui_qui_ADV')	10	aspettare qui	aspettare	qui	aspettare	qui	VERB	ADV	
-('potrei_potere_AUX', 'essere_essere_AUX')	10	potrei essere	potrei	essere	potere	essere	AUX	AUX	
-('spegnere_spengere_VERB', 'la_il_DET')	10	spegnere la	spegnere	la	spengere	il	VERB	DET	
-('una_uno_DET', 'barzelletta_barzelletta_NOUN')	10	una barzelletta	una	barzelletta	uno	barzelletta	DET	NOUN	
-('gli_il_DET', 'alberi_albero_NOUN')	10	gli alberi	gli	alberi	il	albero	DET	NOUN	
-('dirlo_dirlo_NOUN', 'a_a_ADP')	10		dirlo	a	dirlo	a	NOUN	ADP	
-('un_uno_DET', 'treno_treno_NOUN')	10	un treno	un	treno	uno	treno	DET	NOUN	
-('ammisero_ammitare_VERB', 'che_che_SCONJ')	10	ammisero che	ammisero	che	ammitare	che	VERB	SCONJ	
-('stessa_stesso_ADJ', 'età_età_NOUN')	10	stessa età	stessa	età	stesso	età	ADJ	NOUN	
-('a_a_ADP', 'perdere_perdere_VERB')	10	ando a perdere	a	perdere	a	perdere	ADP	VERB	
-('diventare_diventare_VERB', 'una_uno_DET')	10	diventare una	diventare	una	diventare	uno	VERB	DET	
-('fatto_fare_VERB', 'tutto_tutto_DET')	10	fatto tutto	fatto	tutto	fare	tutto	VERB	DET	
-('tavolo_tavolo_NOUN', 'è_essere_AUX')	10	tavolo è	tavolo	è	tavolo	essere	NOUN	AUX	
-('sa_sapere_VERB', 'giocare_giocare_VERB')	10	sa giocare	sa	giocare	sapere	giocare	VERB	VERB	
-('senza_senza_ADP', 'un_uno_DET')	10	senza un	senza	un	senza	uno	ADP	DET	
-('è_essere_VERB', 'nella_in_ADP')	10	è nella	è	nella	essere	in	VERB	ADP	
-('su_su_ADP', 'quale_quale_DET')	10	su quale	su	quale	su	quale	ADP	DET	
-('il_il_DET', 'vostro_vostro_PRON')	10	il vostro	il	vostro	il	vostro	DET	PRON	
-('stavo_stare_AUX', 'cercando_cercare_VERB')	10	stavo cercando	stavo	cercando	stare	cercare	AUX	VERB	
-('visto_vedere_VERB', 'le_il_DET')	10	visto le	visto	le	vedere	il	VERB	DET	
-('è_essere_AUX', 'allergico_allergico_ADJ')	10	è allergico	è	allergico	essere	allergico	AUX	ADJ	
-('di_di_ADP', 'qualcuno_qualcuno_PRON')	10	di qualcuno	di	qualcuno	di	qualcuno	ADP	PRON	
-('miei_mio_DET', 'sentimenti_sentimento_NOUN')	10	miei sentimenti	miei	sentimenti	mio	sentimento	DET	NOUN	
-('suo_suo_DET', 'consiglio_consiglio_NOUN')	10	suo consiglio	suo	consiglio	suo	consiglio	DET	NOUN	
-('dalla_da_ADP', 'polizia_polizia_NOUN')	10	dalla polizia	dalla	polizia	da	polizia	ADP	NOUN	
-('gli_il_DET', 'spinaci_spinace_NOUN')	10	gli spinaci	gli	spinaci	il	spinace	DET	NOUN	
-('non_non_ADV', 'vada_andare_VERB')	10	non vada	non	vada	non	andare	ADV	VERB	
-('dissi_dire_VERB', 'di_di_ADP')	10	di	dissi	di	dire	di	VERB	ADP	
-('quanto_quanto_PRON', 'sono_essere_AUX')	10	quanto sono	quanto	sono	quanto	essere	PRON	AUX	
-('per_per_ADP', 'ciò_ciò_PRON')	10	per ciò	per	ciò	per	ciò	ADP	PRON	
-('andati_andare_VERB', 'alla_a_ADP')	10	andati alla	andati	alla	andare	a	VERB	ADP	
-('della_di_ADP', 'situazione_situazione_NOUN')	10	della situazione	della	situazione	di	situazione	ADP	NOUN	
-('me_me_PRON', 'serve_servire_VERB')	10	me serve	me	serve	me	servire	PRON	VERB	
-('la_il_DET', 'fine_fine_NOUN')	10	la fine	la	fine	il	fine	DET	NOUN	
-('domani_domani_ADV', 'sera_sera_NOUN')	10	domani sera	domani	sera	domani	sera	ADV	NOUN	
-('scrisse_scrivere_VERB', 'una_uno_DET')	10	scrisse una	scrisse	una	scrivere	uno	VERB	DET	
-('una_uno_DET', 'camicia_camicia_NOUN')	10	una camicia	una	camicia	uno	camicia	DET	NOUN	
-('una_uno_DET', 'chiamata_chiamata_NOUN')	10	una chiamata	una	chiamata	uno	chiamata	DET	NOUN	
-('farà_fare_VERB', 'del_di_ADP')	10	farà del	farà	del	fare	di	VERB	ADP	
-('voglio_volere_VERB', 'la_il_DET')	10	voglio la	voglio	la	volere	il	VERB	DET	
-('voglio_volere_AUX', 'più_più_ADV')	10	voglio più	voglio	più	volere	più	AUX	ADV	
-('piace_piacere_VERB', 'quella_quello_DET')	10	piace quella	piace	quella	piacere	quello	VERB	DET	
-('che_che_SCONJ', 'pioverà_piovare_VERB')	10	che pioverà	che	pioverà	che	piovare	SCONJ	VERB	
-('mangiare_mangiare_VERB', 'con_con_ADP')	10	mangiare con	mangiare	con	mangiare	con	VERB	ADP	
-('li_li_PRON', 'conosco_conoscere_VERB')	10	li conosco	li	conosco	li	conoscere	PRON	VERB	
-('diverse_diverso_DET', 'volte_volta_NOUN')	10	diverse volte	diverse	volte	diverso	volta	DET	NOUN	
-('sentiva_sentire_VERB', 'un_uno_DET')	10	sentiva un	sentiva	un	sentire	uno	VERB	DET	
-('ho_avere_AUX', 'sentita_sentire_VERB')	10	ho sentita	ho	sentita	avere	sentire	AUX	VERB	
-('pagato_pagare_VERB', 'il_il_DET')	10	pagato il	pagato	il	pagare	il	VERB	DET	
-"(""quant'_quanto_PRON"", 'è_essere_AUX')"	10	quant'è	quant'	è	quanto	essere	PRON	AUX	
-('facendo_fare_VERB', 'del_di_ADP')	10	facendo del	facendo	del	fare	di	VERB	ADP	
-('io_io_PRON', 'studio_studiare_VERB')	10	io studio	io	studio	io	studiare	PRON	VERB	
-('riuscita_riuscire_VERB', 'a_a_ADP')	10	riuscita	riuscita	a	riuscire	a	VERB	ADP	
-('non_non_ADV', 'tocchi_toccare_VERB')	10	non tocchi	non	tocchi	non	toccare	ADV	VERB	
-"('senso_senso_NOUN', ""dell'_di_ADP"")"	10	senso dell'	senso	dell'	senso	di	NOUN	ADP	
-('al_a_ADP', 'ballo_ballo_NOUN')	10	al ballo	al	ballo	a	ballo	ADP	NOUN	
-('un_uno_DET', 'poeta_poeta_NOUN')	10	un poeta	un	poeta	uno	poeta	DET	NOUN	
-('come_come_ADV', 'siete_essere_AUX')	10	come siete	come	siete	come	essere	ADV	AUX	
-('vita_vita_NOUN', 'in_in_ADP')	10	vita in	vita	in	vita	in	NOUN	ADP	
-('bene_bene_ADV', 'adesso_adesso_ADV')	10	bene adesso	bene	adesso	bene	adesso	ADV	ADV	
-('sarò_essere_AUX', 'la_il_DET')	10	sarò la	sarò	la	essere	il	AUX	DET	
-('troppo_troppo_ADV', 'stanca_stanco_ADJ')	10	troppo stanca	troppo	stanca	troppo	stanco	ADV	ADJ	
-('abito_abitare_VERB', 'a_a_ADP')	10	a	abito	a	abitare	a	VERB	ADP	
-('come_come_ADP', 'la_il_DET')	10	come la	come	la	come	il	ADP	DET	
-('il_il_DET', 'marito_marito_NOUN')	9	il marito	il	marito	il	marito	DET	NOUN	
-('che_che_SCONJ', 'tutto_tutto_PRON')	9	che tutto	che	tutto	che	tutto	SCONJ	PRON	
-('questo_questo_PRON', 'potrebbe_potere_AUX')	9	questo potrebbe	questo	potrebbe	questo	potere	PRON	AUX	
-('perché_perché_PRON', 'hai_avere_VERB')	9	perché hai	perché	hai	perché	avere	PRON	VERB	
-('sapete_sapete_VERB', 'chi_chi_PRON')	9	sapete chi	sapete	chi	sapete	chi	VERB	PRON	
-('miei_mio_DET', 'figli_figlio_NOUN')	9	miei figli	miei	figli	mio	figlio	DET	NOUN	
-('piace_piacere_VERB', 'cantare_cantare_VERB')	9	piace cantare	piace	cantare	piacere	cantare	VERB	VERB	
-('era_essere_AUX', 'occupato_occupare_VERB')	9	era occupato	era	occupato	essere	occupare	AUX	VERB	
-('è_essere_AUX', 'niente_niente_PRON')	9	è niente	è	niente	essere	niente	AUX	PRON	
-('è_essere_VERB', 'che_che_PRON')	9	è che	è	che	essere	che	VERB	PRON	
-('aveva_avere_AUX', 'torto_torto_VERB')	9	aveva torto	aveva	torto	avere	torto	AUX	VERB	
-('scarpe_scarpa_NOUN', 'di_di_ADP')	9	scarpe di	scarpe	di	scarpa	di	NOUN	ADP	
-('era_essere_AUX', 'canadese_canadese_ADJ')	9	era canadese	era	canadese	essere	canadese	AUX	ADJ	
-('molto_molto_ADV', 'occupata_occupare_VERB')	9	molto occupata	molto	occupata	molto	occupare	ADV	VERB	
-('fa_fare_VERB', 'bene_bene_ADV')	9	fa bene	fa	bene	fare	bene	VERB	ADV	
-('denaro_denaro_NOUN', 'a_a_ADP')	9		denaro	a	denaro	a	NOUN	ADP	
-('per_per_ADP', 'guidare_guidare_VERB')	9	per guidare	per	guidare	per	guidare	ADP	VERB	
-('delle_di_ADP', 'foto_foto_NOUN')	9	delle foto	delle	foto	di	foto	ADP	NOUN	
-('sono_essere_AUX', 'delle_di_ADP')	9	sono delle	sono	delle	essere	di	AUX	ADP	
-('so_sapere_VERB', 'parlare_parlare_VERB')	9	so parlare	so	parlare	sapere	parlare	VERB	VERB	
-('sola_solo_ADJ', 'con_con_ADP')	9	sola con	sola	con	solo	con	ADJ	ADP	
-('state_essere_AUX', 'guardando_guardare_VERB')	9	state guardando	state	guardando	essere	guardare	AUX	VERB	
-"(""nell'_in_ADP"", 'elenco_elenco_NOUN')"	9	nell'elenco	nell'	elenco	in	elenco	ADP	NOUN	
-('sua_suo_DET', 'offerta_offerta_NOUN')	9	sua offerta	sua	offerta	suo	offerta	DET	NOUN	
-('è_essere_AUX', 'tolta_togliere_VERB')	9	è tolta	è	tolta	essere	togliere	AUX	VERB	
-('ho_avere_AUX', 'aspettato_aspettare_VERB')	9	ho aspettato	ho	aspettato	avere	aspettare	AUX	VERB	
-('per_per_ADP', 'lavorare_lavorare_VERB')	9	per lavorare	per	lavorare	per	lavorare	ADP	VERB	
-('suonando_suonare_VERB', 'con_con_ADP')	9	suonando con	suonando	con	suonare	con	VERB	ADP	
-"('come_come_ADP', ""l'_il_DET"")"	9	come l'	come	l'	come	il	ADP	DET	
+('il_il_DET', 'vaso_vaso_NOUN')	10	il vaso	il	vaso	il	vaso	DET	NOUN	"the vase (masculine)
+"
+('può_potere_AUX', 'avere_avere_AUX')	10	può avere	può	avere	potere	avere	AUX	AUX	"can have
+"
+('è_essere_AUX', 'caduta_cadere_VERB')	10	è caduta	è	caduta	essere	cadere	AUX	VERB	"has fallen
+"
+('lei_lei_PRON', 'può_potere_AUX')	10	lei può	lei	può	lei	potere	PRON	AUX	"she can
+"
+('sopportare_sopportare_VERB', 'il_il_DET')	10	sopportare il	sopportare	il	sopportare	il	VERB	DET	"to endure the (masculine)
+"
+('mai_mai_ADV', 'una_uno_DET')	10	mai una	mai	una	mai	uno	ADV	DET	"never a (feminine)
+"
+('non_non_ADV', 'posso_potere_VERB')	10	non posso	non	posso	non	potere	ADV	VERB	"I cannot
+"
+('aspettare_aspettare_VERB', 'qui_qui_ADV')	10	aspettare qui	aspettare	qui	aspettare	qui	VERB	ADV	"wait here
+"
+('potrei_potere_AUX', 'essere_essere_AUX')	10	potrei essere	potrei	essere	potere	essere	AUX	AUX	"I could be
+"
+('spegnere_spengere_VERB', 'la_il_DET')	10	spegnere la	spegnere	la	spengere	il	VERB	DET	"to turn off the (feminine)
+"
+('una_uno_DET', 'barzelletta_barzelletta_NOUN')	10	una barzelletta	una	barzelletta	uno	barzelletta	DET	NOUN	"a joke (feminine)
+"
+('gli_il_DET', 'alberi_albero_NOUN')	10	gli alberi	gli	alberi	il	albero	DET	NOUN	"the trees (masculine plural)
+"
+('dirlo_dirlo_NOUN', 'a_a_ADP')	10		dirlo	a	dirlo	a	NOUN	ADP	"to tell it to
+"
+('un_uno_DET', 'treno_treno_NOUN')	10	un treno	un	treno	uno	treno	DET	NOUN	"a train (masculine)
+"
+('ammisero_ammitare_VERB', 'che_che_SCONJ')	10	ammisero che	ammisero	che	ammitare	che	VERB	SCONJ	"they admitted that
+"
+('stessa_stesso_ADJ', 'età_età_NOUN')	10	stessa età	stessa	età	stesso	età	ADJ	NOUN	"same age
+"
+('a_a_ADP', 'perdere_perdere_VERB')	10	ando a perdere	a	perdere	a	perdere	ADP	VERB	"going to lose
+"
+('diventare_diventare_VERB', 'una_uno_DET')	10	diventare una	diventare	una	diventare	uno	VERB	DET	"to become a (feminine)
+"
+('fatto_fare_VERB', 'tutto_tutto_DET')	10	fatto tutto	fatto	tutto	fare	tutto	VERB	DET	"done everything
+"
+('tavolo_tavolo_NOUN', 'è_essere_AUX')	10	tavolo è	tavolo	è	tavolo	essere	NOUN	AUX	"table is
+"
+('sa_sapere_VERB', 'giocare_giocare_VERB')	10	sa giocare	sa	giocare	sapere	giocare	VERB	VERB	"knows how to play
+"
+('senza_senza_ADP', 'un_uno_DET')	10	senza un	senza	un	senza	uno	ADP	DET	"without a (masculine)
+"
+('è_essere_VERB', 'nella_in_ADP')	10	è nella	è	nella	essere	in	VERB	ADP	"is in the (feminine)
+"
+('su_su_ADP', 'quale_quale_DET')	10	su quale	su	quale	su	quale	ADP	DET	"on which
+"
+('il_il_DET', 'vostro_vostro_PRON')	10	il vostro	il	vostro	il	vostro	DET	PRON	"your (masculine)
+"
+('stavo_stare_AUX', 'cercando_cercare_VERB')	10	stavo cercando	stavo	cercando	stare	cercare	AUX	VERB	"I was looking
+"
+('visto_vedere_VERB', 'le_il_DET')	10	visto le	visto	le	vedere	il	VERB	DET	"seen the (feminine plural)
+"
+('è_essere_AUX', 'allergico_allergico_ADJ')	10	è allergico	è	allergico	essere	allergico	AUX	ADJ	"is allergic
+"
+('di_di_ADP', 'qualcuno_qualcuno_PRON')	10	di qualcuno	di	qualcuno	di	qualcuno	ADP	PRON	"of someone
+"
+('miei_mio_DET', 'sentimenti_sentimento_NOUN')	10	miei sentimenti	miei	sentimenti	mio	sentimento	DET	NOUN	"my feelings (masculine plural)
+"
+('suo_suo_DET', 'consiglio_consiglio_NOUN')	10	suo consiglio	suo	consiglio	suo	consiglio	DET	NOUN	"his advice; her advice (masculine)
+"
+('dalla_da_ADP', 'polizia_polizia_NOUN')	10	dalla polizia	dalla	polizia	da	polizia	ADP	NOUN	"from the police
+"
+('gli_il_DET', 'spinaci_spinace_NOUN')	10	gli spinaci	gli	spinaci	il	spinace	DET	NOUN	"the spinach (masculine plural)
+"
+('non_non_ADV', 'vada_andare_VERB')	10	non vada	non	vada	non	andare	ADV	VERB	"do not go
+"
+('dissi_dire_VERB', 'di_di_ADP')	10	di	dissi	di	dire	di	VERB	ADP	"of
+"
+('quanto_quanto_PRON', 'sono_essere_AUX')	10	quanto sono	quanto	sono	quanto	essere	PRON	AUX	"how much are they
+"
+('per_per_ADP', 'ciò_ciò_PRON')	10	per ciò	per	ciò	per	ciò	ADP	PRON	"for that
+"
+('andati_andare_VERB', 'alla_a_ADP')	10	andati alla	andati	alla	andare	a	VERB	ADP	"gone to the (feminine)
+"
+('della_di_ADP', 'situazione_situazione_NOUN')	10	della situazione	della	situazione	di	situazione	ADP	NOUN	"of the situation
+"
+('me_me_PRON', 'serve_servire_VERB')	10	me serve	me	serve	me	servire	PRON	VERB	"I need it
+"
+('la_il_DET', 'fine_fine_NOUN')	10	la fine	la	fine	il	fine	DET	NOUN	"the end (feminine)
+"
+('domani_domani_ADV', 'sera_sera_NOUN')	10	domani sera	domani	sera	domani	sera	ADV	NOUN	"tomorrow evening
+"
+('scrisse_scrivere_VERB', 'una_uno_DET')	10	scrisse una	scrisse	una	scrivere	uno	VERB	DET	"wrote a (feminine)
+"
+('una_uno_DET', 'camicia_camicia_NOUN')	10	una camicia	una	camicia	uno	camicia	DET	NOUN	"a shirt (feminine)
+"
+('una_uno_DET', 'chiamata_chiamata_NOUN')	10	una chiamata	una	chiamata	uno	chiamata	DET	NOUN	"a call (feminine)
+"
+('farà_fare_VERB', 'del_di_ADP')	10	farà del	farà	del	fare	di	VERB	ADP	"will do some
+"
+('voglio_volere_VERB', 'la_il_DET')	10	voglio la	voglio	la	volere	il	VERB	DET	"I want the (feminine)
+"
+('voglio_volere_AUX', 'più_più_ADV')	10	voglio più	voglio	più	volere	più	AUX	ADV	"I want more
+"
+('piace_piacere_VERB', 'quella_quello_DET')	10	piace quella	piace	quella	piacere	quello	VERB	DET	"I like that one (feminine)
+"
+('che_che_SCONJ', 'pioverà_piovare_VERB')	10	che pioverà	che	pioverà	che	piovare	SCONJ	VERB	"that it will rain
+"
+('mangiare_mangiare_VERB', 'con_con_ADP')	10	mangiare con	mangiare	con	mangiare	con	VERB	ADP	"to eat with
+"
+('li_li_PRON', 'conosco_conoscere_VERB')	10	li conosco	li	conosco	li	conoscere	PRON	VERB	"I know them
+"
+('diverse_diverso_DET', 'volte_volta_NOUN')	10	diverse volte	diverse	volte	diverso	volta	DET	NOUN	"several times
+"
+('sentiva_sentire_VERB', 'un_uno_DET')	10	sentiva un	sentiva	un	sentire	uno	VERB	DET	"felt a (masculine)
+"
+('ho_avere_AUX', 'sentita_sentire_VERB')	10	ho sentita	ho	sentita	avere	sentire	AUX	VERB	"I heard it
+"
+('pagato_pagare_VERB', 'il_il_DET')	10	pagato il	pagato	il	pagare	il	VERB	DET	"paid the (masculine)
+"
+"(""quant'_quanto_PRON"", 'è_essere_AUX')"	10	quant'è	quant'	è	quanto	essere	PRON	AUX	"how much is it
+"
+('facendo_fare_VERB', 'del_di_ADP')	10	facendo del	facendo	del	fare	di	VERB	ADP	"doing some
+"
+('io_io_PRON', 'studio_studiare_VERB')	10	io studio	io	studio	io	studiare	PRON	VERB	"I study
+"
+('riuscita_riuscire_VERB', 'a_a_ADP')	10	riuscita	riuscita	a	riuscire	a	VERB	ADP	"managed to
+"
+('non_non_ADV', 'tocchi_toccare_VERB')	10	non tocchi	non	tocchi	non	toccare	ADV	VERB	"do not touch
+"
+"('senso_senso_NOUN', ""dell'_di_ADP"")"	10	senso dell'	senso	dell'	senso	di	NOUN	ADP	"sense of the (before a vowel)
+"
+('al_a_ADP', 'ballo_ballo_NOUN')	10	al ballo	al	ballo	a	ballo	ADP	NOUN	"to the dance
+"
+('un_uno_DET', 'poeta_poeta_NOUN')	10	un poeta	un	poeta	uno	poeta	DET	NOUN	"a poet (masculine)
+"
+('come_come_ADV', 'siete_essere_AUX')	10	come siete	come	siete	come	essere	ADV	AUX	"how you (plural) are
+"
+('vita_vita_NOUN', 'in_in_ADP')	10	vita in	vita	in	vita	in	NOUN	ADP	"life in
+"
+('bene_bene_ADV', 'adesso_adesso_ADV')	10	bene adesso	bene	adesso	bene	adesso	ADV	ADV	"fine now
+"
+('sarò_essere_AUX', 'la_il_DET')	10	sarò la	sarò	la	essere	il	AUX	DET	"I will be the (feminine)
+"
+('troppo_troppo_ADV', 'stanca_stanco_ADJ')	10	troppo stanca	troppo	stanca	troppo	stanco	ADV	ADJ	"too tired (feminine)
+"
+('abito_abitare_VERB', 'a_a_ADP')	10	a	abito	a	abitare	a	VERB	ADP	"I live in
+"
+('come_come_ADP', 'la_il_DET')	10	come la	come	la	come	il	ADP	DET	"like the (feminine)
+"
+('il_il_DET', 'marito_marito_NOUN')	9	il marito	il	marito	il	marito	DET	NOUN	"the husband (masculine)
+"
+('che_che_SCONJ', 'tutto_tutto_PRON')	9	che tutto	che	tutto	che	tutto	SCONJ	PRON	"that everything
+"
+('questo_questo_PRON', 'potrebbe_potere_AUX')	9	questo potrebbe	questo	potrebbe	questo	potere	PRON	AUX	"this could
+"
+('perché_perché_PRON', 'hai_avere_VERB')	9	perché hai	perché	hai	perché	avere	PRON	VERB	"why did you
+"
+('sapete_sapete_VERB', 'chi_chi_PRON')	9	sapete chi	sapete	chi	sapete	chi	VERB	PRON	"do you (plural) know who
+"
+('miei_mio_DET', 'figli_figlio_NOUN')	9	miei figli	miei	figli	mio	figlio	DET	NOUN	"my children (masculine plural)
+"
+('piace_piacere_VERB', 'cantare_cantare_VERB')	9	piace cantare	piace	cantare	piacere	cantare	VERB	VERB	"likes to sing
+"
+('era_essere_AUX', 'occupato_occupare_VERB')	9	era occupato	era	occupato	essere	occupare	AUX	VERB	"was busy
+"
+('è_essere_AUX', 'niente_niente_PRON')	9	è niente	è	niente	essere	niente	AUX	PRON	"it is nothing
+"
+('è_essere_VERB', 'che_che_PRON')	9	è che	è	che	essere	che	VERB	PRON	"it is that
+"
+('aveva_avere_AUX', 'torto_torto_VERB')	9	aveva torto	aveva	torto	avere	torto	AUX	VERB	"was wrong
+"
+('scarpe_scarpa_NOUN', 'di_di_ADP')	9	scarpe di	scarpe	di	scarpa	di	NOUN	ADP	"shoes of
+"
+('era_essere_AUX', 'canadese_canadese_ADJ')	9	era canadese	era	canadese	essere	canadese	AUX	ADJ	"was Canadian
+"
+('molto_molto_ADV', 'occupata_occupare_VERB')	9	molto occupata	molto	occupata	molto	occupare	ADV	VERB	"very busy (feminine)
+"
+('fa_fare_VERB', 'bene_bene_ADV')	9	fa bene	fa	bene	fare	bene	VERB	ADV	"is good
+"
+('denaro_denaro_NOUN', 'a_a_ADP')	9		denaro	a	denaro	a	NOUN	ADP	"money to
+"
+('per_per_ADP', 'guidare_guidare_VERB')	9	per guidare	per	guidare	per	guidare	ADP	VERB	"to drive
+"
+('delle_di_ADP', 'foto_foto_NOUN')	9	delle foto	delle	foto	di	foto	ADP	NOUN	"some photos (feminine plural)
+"
+('sono_essere_AUX', 'delle_di_ADP')	9	sono delle	sono	delle	essere	di	AUX	ADP	"they are some (feminine plural)
+"
+('so_sapere_VERB', 'parlare_parlare_VERB')	9	so parlare	so	parlare	sapere	parlare	VERB	VERB	"I know how to speak
+"
+('sola_solo_ADJ', 'con_con_ADP')	9	sola con	sola	con	solo	con	ADJ	ADP	"alone with (feminine)
+"
+('state_essere_AUX', 'guardando_guardare_VERB')	9	state guardando	state	guardando	essere	guardare	AUX	VERB	"you (plural) are watching
+"
+"(""nell'_in_ADP"", 'elenco_elenco_NOUN')"	9	nell'elenco	nell'	elenco	in	elenco	ADP	NOUN	"in the list (before a vowel)
+"
+('sua_suo_DET', 'offerta_offerta_NOUN')	9	sua offerta	sua	offerta	suo	offerta	DET	NOUN	"his offer; her offer (feminine)
+"
+('è_essere_AUX', 'tolta_togliere_VERB')	9	è tolta	è	tolta	essere	togliere	AUX	VERB	"is removed
+"
+('ho_avere_AUX', 'aspettato_aspettare_VERB')	9	ho aspettato	ho	aspettato	avere	aspettare	AUX	VERB	"I waited
+"
+('per_per_ADP', 'lavorare_lavorare_VERB')	9	per lavorare	per	lavorare	per	lavorare	ADP	VERB	"to work
+"
+('suonando_suonare_VERB', 'con_con_ADP')	9	suonando con	suonando	con	suonare	con	VERB	ADP	"playing with
+"
+"('come_come_ADP', ""l'_il_DET"")"	9	come l'	come	l'	come	il	ADP	DET	"like the (before a vowel)
+"
