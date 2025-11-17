@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('a_a_ADP', 'scacchi_scacco_NOUN')	30	avo a scacchi	a	scacchi	a	scacco	ADP	NOUN	
+('del_di_ADP', 'vostro_vostro_DET')	30	del vostro	del	vostro	di	vostro	ADP	DET	
+('un_uno_DET', 'avvocato_avvocato_NOUN')	30	un avvocato	un	avvocato	uno	avvocato	DET	NOUN	
+('di_di_ADP', 'sapere_sapere_VERB')	30	di sapere	di	sapere	di	sapere	ADP	VERB	
+('di_di_ADP', 'mangiare_mangiare_VERB')	30	di mangiare	di	mangiare	di	mangiare	ADP	VERB	
+('a_a_ADP', 'guidare_guidare_VERB')	30	a guidare	a	guidare	a	guidare	ADP	VERB	
+('lo_il_DET', 'stesso_stesso_ADJ')	30	lo stesso	lo	stesso	il	stesso	DET	ADJ	
+('la_il_DET', 'neve_neve_NOUN')	30	la neve	la	neve	il	neve	DET	NOUN	
+('è_essere_AUX', 'sicura_sicuro_ADJ')	30	è sicura	è	sicura	essere	sicuro	AUX	ADJ	
+('la_il_DET', 'bottiglia_bottiglia_NOUN')	30	la bottiglia	la	bottiglia	il	bottiglia	DET	NOUN	
+('suo_suo_DET', 'amico_amico_NOUN')	29	suo amico	suo	amico	suo	amico	DET	NOUN	
+('sotto_sotto_ADP', 'la_il_DET')	29	sotto la	sotto	la	sotto	il	ADP	DET	
+('casa_casa_NOUN', 'a_a_ADP')	29		casa	a	casa	a	NOUN	ADP	
+('piace_piacere_VERB', 'questo_questo_DET')	29	piace questo	piace	questo	piacere	questo	VERB	DET	
+('a_a_ADP', 'lungo_lungo_ADJ')	29	a lungo	a	lungo	a	lungo	ADP	ADJ	
+('abita_abitare_VERB', 'a_a_ADP')	29	a	abita	a	abitare	a	VERB	ADP	
+('piena_pieno_ADJ', 'di_di_ADP')	29	piena di	piena	di	pieno	di	ADJ	ADP	
+('non_non_ADV', 'avete_avere_VERB')	29	non avete	non	avete	non	avere	ADV	VERB	
+('in_in_ADP', 'piedi_piede_NOUN')	29	in piedi	in	piedi	in	piede	ADP	NOUN	
+('sa_sapere_VERB', 'di_di_ADP')	29	sa di	sa	di	sapere	di	VERB	ADP	
+('bene_bene_ADV', 'a_a_ADP')	29		bene	a	bene	a	ADV	ADP	
+('è_essere_AUX', 'qua_qua_ADV')	29	è qua	è	qua	essere	qua	AUX	ADV	
+('è_essere_AUX', 'uno_uno_PRON')	29	è uno	è	uno	essere	uno	AUX	PRON	
+('piace_piacere_VERB', 'veramente_veramente_ADV')	29	piace veramente	piace	veramente	piacere	veramente	VERB	ADV	
+('è_essere_AUX', 'arrabbiato_arrabbiare_VERB')	29	è arrabbiato	è	arrabbiato	essere	arrabbiare	AUX	VERB	
+('il_il_DET', 'lunedì_lunedì_NOUN')	29	il lunedì	il	lunedì	il	lunedì	DET	NOUN	
+('sacco_sacco_NOUN', 'di_di_ADP')	29	sacco di	sacco	di	sacco	di	NOUN	ADP	
+('al_a_ADP', 'concerto_concerto_NOUN')	29	al concerto	al	concerto	a	concerto	ADP	NOUN	
+('vino_vino_NOUN', 'rosso_rosso_ADJ')	29	vino rosso	vino	rosso	vino	rosso	NOUN	ADJ	
+('oggi_oggi_ADV', 'è_essere_AUX')	29	oggi è	oggi	è	oggi	essere	ADV	AUX	
+('voleva_volere_AUX', 'fare_fare_VERB')	29	voleva fare	voleva	fare	volere	fare	AUX	VERB	
+('una_uno_DET', 'pistola_pistola_NOUN')	29	una pistola	una	pistola	uno	pistola	DET	NOUN	
+('è_essere_AUX', 'buono_buono_ADJ')	29	è buono	è	buono	essere	buono	AUX	ADJ	
+('non_non_ADV', 'vuole_volere_VERB')	29	non vuole	non	vuole	non	volere	ADV	VERB	
+('non_non_ADV', 'vedo_vedere_VERB')	29	non vedo	non	vedo	non	vedere	ADV	VERB	
+('qua_qua_ADV', 'per_per_ADP')	29	qua per	qua	per	qua	per	ADV	ADP	
+('ha_avere_AUX', 'insegnato_insegnare_VERB')	29	ha insegnato	ha	insegnato	avere	insegnare	AUX	VERB	
+('noi_noi_PRON', 'eravamo_essere_AUX')	29	noi eravamo	noi	eravamo	noi	essere	PRON	AUX	
+('vedere_vedere_VERB', 'la_il_DET')	29	vedere la	vedere	la	vedere	il	VERB	DET	
+('quando_quando_ADV', 'è_essere_AUX')	29	quando è	quando	è	quando	essere	ADV	AUX	
+('ancora_ancora_ADV', 'il_il_DET')	29	ancora il	ancora	il	ancora	il	ADV	DET	
+('dimenticato_dimenticare_VERB', 'di_di_ADP')	29	di	dimenticato	di	dimenticare	di	VERB	ADP	
+('scuola_scuola_NOUN', 'oggi_oggi_ADV')	29	scuola oggi	scuola	oggi	scuola	oggi	NOUN	ADV	
+"(""l'_il_DET"", 'incidente_incidente_NOUN')"	29	l'incidente	l'	incidente	il	incidente	DET	NOUN	
+('più_più_ADV', 'alto_alto_ADJ')	29	più alto	più	alto	più	alto	ADV	ADJ	
+('il_il_DET', 'prezzo_prezzo_NOUN')	29	il prezzo	il	prezzo	il	prezzo	DET	NOUN	
+('sto_stare_AUX', 'cercando_cercare_VERB')	29	sto cercando	sto	cercando	stare	cercare	AUX	VERB	
+('mai_mai_ADV', 'vista_vedere_VERB')	29	mai vista	mai	vista	mai	vedere	ADV	VERB	
+('a_a_ADP', 'imparare_imparare_VERB')	29	ato a imparare	a	imparare	a	imparare	ADP	VERB	
+('riuscite_riuscito_VERB', 'a_a_ADP')	29	riuscite a	riuscite	a	riuscito	a	VERB	ADP	
+('tu_tu_PRON', 'devi_dovere_AUX')	29	tu devi	tu	devi	tu	dovere	PRON	AUX	
+('sei_essere_AUX', 'una_uno_DET')	29	sei una	sei	una	essere	uno	AUX	DET	
+"('ha_avere_VERB', ""un'_uno_DET"")"	29	ha un'	ha	un'	avere	uno	VERB	DET	
+('queste_questo_DET', 'parti_parte_NOUN')	29	queste parti	queste	parti	questo	parte	DET	NOUN	
+('sono_essere_AUX', 'arrivata_arrivare_VERB')	29	sono arrivata	sono	arrivata	essere	arrivare	AUX	VERB	
+('ha_avere_AUX', 'cambiato_cambiare_VERB')	29	ha cambiato	ha	cambiato	avere	cambiare	AUX	VERB	
+('riesce_riuscire_VERB', 'ad_a_ADP')	29	riesce ad	riesce	ad	riuscire	a	VERB	ADP	
+('tua_tuo_DET', 'moglie_moglie_NOUN')	29	tua moglie	tua	moglie	tuo	moglie	DET	NOUN	
+('io_io_PRON', 'vi_vi_PRON')	29	io vi	io	vi	io	vi	PRON	PRON	
+('qualcuno_qualcuno_PRON', 'ha_avere_AUX')	29	qualcuno ha	qualcuno	ha	qualcuno	avere	PRON	AUX	
+('siete_essere_AUX', 'andati_andare_VERB')	29	siete andati	siete	andati	essere	andare	AUX	VERB	
+('la_il_DET', 'morte_morte_NOUN')	29	la morte	la	morte	il	morte	DET	NOUN	
+('dia_dare_VERB', 'un_uno_DET')	29	dia un	dia	un	dare	uno	VERB	DET	
+('parlando_parlare_VERB', 'con_con_ADP')	29	parlando con	parlando	con	parlare	con	VERB	ADP	
+"('con_con_ADP', ""l'_il_DET"")"	29	con l'	con	l'	con	il	ADP	DET	
+('da_da_ADP', 'nessuna_nessuno_DET')	29	da nessuna	da	nessuna	da	nessuno	ADP	DET	
+('avete_avere_VERB', 'una_uno_DET')	29	avete una	avete	una	avere	uno	VERB	DET	
+('vero_vero_ADJ', 'che_che_SCONJ')	29	vero che	vero	che	vero	che	ADJ	SCONJ	
+('ha_avere_AUX', 'baciato_baciare_VERB')	29	ha baciato	ha	baciato	avere	baciare	AUX	VERB	
+('in_in_ADP', 'ogni_ogni_DET')	29	in ogni	in	ogni	in	ogni	ADP	DET	
+('non_non_ADV', 'sarebbe_essere_AUX')	29	non sarebbe	non	sarebbe	non	essere	ADV	AUX	
+('andare_andare_VERB', 'lì_lì_ADV')	29	andare lì	andare	lì	andare	lì	VERB	ADV	
+('gli_il_DET', 'occhiali_occhiale_NOUN')	29	gli occhiali	gli	occhiali	il	occhiale	DET	NOUN	
+('la_il_DET', 'donna_donna_NOUN')	29	la donna	la	donna	il	donna	DET	NOUN	
+('il_il_DET', 'sole_sole_NOUN')	29	il sole	il	sole	il	sole	DET	NOUN	
+('che_che_PRON', 'sono_essere_AUX')	28	che sono	che	sono	che	essere	PRON	AUX	
+('che_che_SCONJ', 'li_li_PRON')	28	che li	che	li	che	li	SCONJ	PRON	
+('di_di_ADP', 'aiutarla_aiutare_VERB')	28	di aiutarla	di	aiutarla	di	aiutare	ADP	VERB	
+('ha_avere_AUX', 'lavorato_lavorare_VERB')	28	ha lavorato	ha	lavorato	avere	lavorare	AUX	VERB	
+('era_essere_AUX', 'veramente_veramente_ADV')	28	era veramente	era	veramente	essere	veramente	AUX	ADV	
+('che_che_SCONJ', 'siete_essere_AUX')	28	che siete	che	siete	che	essere	SCONJ	AUX	
+('le_le_PRON', 'piacciono_piacere_VERB')	28	le piacciono	le	piacciono	le	piacere	PRON	VERB	
+('in_in_ADP', 'ufficio_ufficio_NOUN')	28	in ufficio	in	ufficio	in	ufficio	ADP	NOUN	
+('si_si_PRON', 'fida_fidare_VERB')	28	si fida	si	fida	si	fidare	PRON	VERB	
+('detto_dire_VERB', 'la_il_DET')	28	detto la	detto	la	dire	il	VERB	DET	
+('questo_questo_DET', 'film_film_NOUN')	28	questo film	questo	film	questo	film	DET	NOUN	
+('a_a_ADP', 'mia_mio_DET')	28	a mia	a	mia	a	mio	ADP	DET	
+('averlo_avere_AUX', 'fatto_fare_VERB')	28	averlo fatto	averlo	fatto	avere	fare	AUX	VERB	
+('venuto_venire_VERB', 'a_a_ADP')	28	venuto a	venuto	a	venire	a	VERB	ADP	
+('voi_voi_PRON', 'pensate_pensare_VERB')	28	voi pensate	voi	pensate	voi	pensare	PRON	VERB	
+('riusciamo_riuscire_VERB', 'a_a_ADP')	28	riuscia	riusciamo	a	riuscire	a	VERB	ADP	
+('amica_amico_NOUN', 'di_di_ADP')	28	amica di	amica	di	amico	di	NOUN	ADP	
+('molte_molto_DET', 'persone_persona_NOUN')	28	molte persone	molte	persone	molto	persona	DET	NOUN	
+('lei_lei_PRON', 'deve_dovere_AUX')	28	lei deve	lei	deve	lei	dovere	PRON	AUX	
+('fatto_fare_VERB', 'del_di_ADP')	28	fatto del	fatto	del	fare	di	VERB	ADP	
+('qui_qui_ADV', 'a_a_ADP')	28		qui	a	qui	a	ADV	ADP	
+('di_di_ADP', 'persona_persona_NOUN')	28	di persona	di	persona	di	persona	ADP	NOUN	
+('essere_essere_AUX', 'più_più_ADV')	28	essere più	essere	più	essere	più	AUX	ADV	
+('molto_molto_ADV', 'il_il_DET')	28	molto il	molto	il	molto	il	ADV	DET	
+('in_in_ADP', 'vacanza_vacanza_NOUN')	28	in vacanza	in	vacanza	in	vacanza	ADP	NOUN	

@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('unirsi_unire_VERB', 'a_a_ADP')	8		unirsi	a	unire	a	VERB	ADP	
+('ai_a_ADP', 'gatti_gatto_NOUN')	8	ai gatti	ai	gatti	a	gatto	ADP	NOUN	
+('compagna_compagna_NOUN', 'di_di_ADP')	8	compagna di	compagna	di	compagna	di	NOUN	ADP	
+('allergico_allergico_ADJ', 'alle_a_ADP')	8	alle	allergico	alle	allergico	a	ADJ	ADP	
+('hanno_avere_AUX', 'provato_provare_VERB')	8	hanno provato	hanno	provato	avere	provare	AUX	VERB	
+"(""d'_di_ADP"", 'arancia_arancia_NOUN')"	8	d'arancia	d'	arancia	di	arancia	ADP	NOUN	
+('vuole_volere_VERB', 'il_il_DET')	8	vuole il	vuole	il	volere	il	VERB	DET	
+('cavallo_cavallo_NOUN', 'è_essere_AUX')	8	cavallo è	cavallo	è	cavallo	essere	NOUN	AUX	
+('preferito_preferito_ADJ', 'è_essere_AUX')	8	preferito è	preferito	è	preferito	essere	ADJ	AUX	
+('era_essere_AUX', 'ricca_ricco_ADJ')	8	era ricca	era	ricca	essere	ricco	AUX	ADJ	
+('sto_essere_AUX', 'venendo_venire_VERB')	8	sto venendo	sto	venendo	essere	venire	AUX	VERB	
+('parliamo_parlare_VERB', 'di_di_ADP')	8	parliamo di	parliamo	di	parlare	di	VERB	ADP	
+('abbiamo_avere_VERB', 'abbastanza_abbastanza_ADV')	8	abbiamo abbastanza	abbiamo	abbastanza	avere	abbastanza	VERB	ADV	
+('discutere_discutere_VERB', 'di_di_ADP')	8	di	discutere	di	discutere	di	VERB	ADP	
+('abbiamo_avere_AUX', 'visti_vedere_VERB')	8	abbiamo visti	abbiamo	visti	avere	vedere	AUX	VERB	
+('mi_mi_PRON', 'alzo_alzare_VERB')	8	mi alzo	mi	alzo	mi	alzare	PRON	VERB	
+('lesse_leggere_VERB', 'il_il_DET')	8	lesse il	lesse	il	leggere	il	VERB	DET	
+('un_uno_DET', 'test_test_NOUN')	8	un test	un	test	uno	test	DET	NOUN	
+('lasci_lasciare_VERB', 'da_da_ADP')	8	lasci da	lasci	da	lasciare	da	VERB	ADP	
+('la_il_DET', 'forza_forza_NOUN')	8	la forza	la	forza	il	forza	DET	NOUN	
+('i_il_DET', 'giornali_giornale_NOUN')	8	i giornali	i	giornali	il	giornale	DET	NOUN	
+('interessato_interessare_VERB', 'a_a_ADP')	8	interessa	interessato	a	interessare	a	VERB	ADP	
+('non_non_ADV', 'mangiò_mangiare_VERB')	8	non mangiò	non	mangiò	non	mangiare	ADV	VERB	
+"('superare_superare_VERB', ""l'_il_DET"")"	8	superare l'	superare	l'	superare	il	VERB	DET	
+('una_uno_DET', 'decisione_decisione_NOUN')	8	una decisione	una	decisione	uno	decisione	DET	NOUN	
+('domanda_domanda_NOUN', 'per_per_ADP')	8	domanda per	domanda	per	domanda	per	NOUN	ADP	
+('avete_avere_AUX', 'vista_vedere_VERB')	8	avete vista	avete	vista	avere	vedere	AUX	VERB	
+('chiave_chiave_NOUN', 'nella_in_ADP')	8	chiave nella	chiave	nella	chiave	in	NOUN	ADP	
+('la_la_PRON', 'puoi_potere_AUX')	8	la puoi	la	puoi	la	potere	PRON	AUX	
+('non_non_ADV', 'mangiate_mangiare_VERB')	8	non mangiate	non	mangiate	non	mangiare	ADV	VERB	
+('sua_suo_DET', 'gamba_gamba_NOUN')	8	sua gamba	sua	gamba	suo	gamba	DET	NOUN	
+('anziano_anziano_ADJ', 'per_per_ADP')	8	anziano per	anziano	per	anziano	per	ADJ	ADP	
+('amiche_amico_NOUN', 'di_di_ADP')	8	amiche di	amiche	di	amico	di	NOUN	ADP	
+('era_essere_AUX', 'là_là_ADV')	8	era là	era	là	essere	là	AUX	ADV	
+('un_uno_DET', 'luogo_luogo_NOUN')	8	un luogo	un	luogo	uno	luogo	DET	NOUN	
+('perché_perché_ADV', 'le_il_DET')	8	perché le	perché	le	perché	il	ADV	DET	
+('mi_mi_PRON', 'comprò_comprare_VERB')	8	mi comprò	mi	comprò	mi	comprare	PRON	VERB	
+('che_che_SCONJ', 'me_me_PRON')	8	che me	che	me	che	me	SCONJ	PRON	
+('a_a_ADP', 'corto_corto_NOUN')	8	a corto	a	corto	a	corto	ADP	NOUN	
+('corto_corto_NOUN', 'di_di_ADP')	8	corto di	corto	di	corto	di	NOUN	ADP	
+('lo_lo_PRON', 'conosci_conoscere_VERB')	8	lo conosci	lo	conosci	lo	conoscere	PRON	VERB	
+('stata_essere_AUX', 'rubata_rubato_VERB')	8	stata rubata	stata	rubata	essere	rubato	AUX	VERB	
+('hanno_avere_VERB', 'fame_fame_NOUN')	8	hanno fame	hanno	fame	avere	fame	VERB	NOUN	
+('piace_piacere_VERB', 'osservare_osservare_VERB')	8	piace osservare	piace	osservare	piacere	osservare	VERB	VERB	
+('abbiamo_avere_AUX', 'detto_dire_VERB')	8	abbiamo detto	abbiamo	detto	avere	dire	AUX	VERB	
+('vuoi_volere_AUX', 'parlare_parlare_VERB')	8	vuoi parlare	vuoi	parlare	volere	parlare	AUX	VERB	
+('in_in_ADP', 'tedesco_tedesco_NOUN')	8	in tedesco	in	tedesco	in	tedesco	ADP	NOUN	
+('nuova_nuovo_ADJ', 'casa_casa_NOUN')	8	nuova casa	nuova	casa	nuovo	casa	ADJ	NOUN	
+('quanto_quanto_PRON', 'dista_distare_VERB')	8	quanto dista	quanto	dista	quanto	distare	PRON	VERB	
+('è_essere_AUX', 'semplice_semplice_ADJ')	8	è semplice	è	semplice	essere	semplice	AUX	ADJ	
+('a_a_ADP', 'sufficienza_sufficienza_NOUN')	8	ai avuto a sufficienza	a	sufficienza	a	sufficienza	ADP	NOUN	
+('baciato_baciare_VERB', 'la_il_DET')	8	baciato la	baciato	la	baciare	il	VERB	DET	
+('ci_ci_PRON', 'può_potere_AUX')	8	ci può	ci	può	ci	potere	PRON	AUX	
+('scordato_scordare_VERB', 'la_il_DET')	8	scordato la	scordato	la	scordare	il	VERB	DET	
+('ogni_ogni_DET', 'lunedì_lunedì_NOUN')	8	ogni lunedì	ogni	lunedì	ogni	lunedì	DET	NOUN	
+('non_non_ADV', 'dare_dare_VERB')	8	non dare	non	dare	non	dare	ADV	VERB	
+('prende_prendere_VERB', 'il_il_DET')	8	prende il	prende	il	prendere	il	VERB	DET	
+('ti_ti_PRON', 'sono_essere_AUX')	8	ti sono	ti	sono	ti	essere	PRON	AUX	
+('stare_stare_VERB', 'con_con_ADP')	8	stare con	stare	con	stare	con	VERB	ADP	
+('chiave_chiave_NOUN', 'della_di_ADP')	8	chiave della	chiave	della	chiave	di	NOUN	ADP	
+('questo_questo_DET', 'vestito_vestito_NOUN')	8	questo vestito	questo	vestito	questo	vestito	DET	NOUN	
+('polizia_polizia_NOUN', 'non_non_ADV')	8	polizia non	polizia	non	polizia	non	NOUN	ADV	
+('di_di_ADP', 'ciò_ciò_PRON')	8	di ciò	di	ciò	di	ciò	ADP	PRON	
+('te_te_PRON', 'la_la_PRON')	8	te la	te	la	te	la	PRON	PRON	
+('farò_fare_VERB', 'del_di_ADP')	8	farò del	farò	del	fare	di	VERB	ADP	
+('ancora_ancora_ADV', 'nella_in_ADP')	8	ancora nella	ancora	nella	ancora	in	ADV	ADP	
+('iniziarono_iniziare_VERB', 'a_a_ADP')	8		iniziarono	a	iniziare	a	VERB	ADP	
+('di_di_ADP', 'osteoporosi_osteoporosi_NOUN')	8	di osteoporosi	di	osteoporosi	di	osteoporosi	ADP	NOUN	
+('alla_a_ADP', 'spiaggia_spiaggia_NOUN')	8	alla spiaggia	alla	spiaggia	a	spiaggia	ADP	NOUN	
+('comprato_comprare_VERB', 'i_il_DET')	8	comprato i	comprato	i	comprare	il	VERB	DET	
+('una_uno_DET', 'dottoressa_dottoressa_NOUN')	8	una dottoressa	una	dottoressa	uno	dottoressa	DET	NOUN	
+('suo_suo_DET', 'moroso_moroso_NOUN')	8	suo moroso	suo	moroso	suo	moroso	DET	NOUN	
+('molto_molto_ADV', 'costoso_costoso_ADJ')	8	molto costoso	molto	costoso	molto	costoso	ADV	ADJ	
+('farle_fare_VERB', 'del_di_ADP')	8	farle del	farle	del	fare	di	VERB	ADP	
+('si_si_PRON', 'chiamano_chiamare_VERB')	8	si chiamano	si	chiamano	si	chiamare	PRON	VERB	
+('amica_amico_NOUN', 'che_che_PRON')	8	amica che	amica	che	amico	che	NOUN	PRON	
+('in_in_ADP', 'giapponese_giapponese_NOUN')	8	in giapponese	in	giapponese	in	giapponese	ADP	NOUN	
+('ti_ti_PRON', 'puoi_potere_AUX')	8	ti puoi	ti	puoi	ti	potere	PRON	AUX	
+('denaro_denaro_NOUN', 'per_per_ADP')	8	denaro per	denaro	per	denaro	per	NOUN	ADP	
+('si_si_PRON', 'nascose_nascondere_VERB')	8	si nascose	si	nascose	si	nascondere	PRON	VERB	
+('hanno_avere_AUX', 'ancora_ancora_ADV')	8	hanno ancora	hanno	ancora	avere	ancora	AUX	ADV	
+('andando_andare_VERB', 'con_con_ADP')	8	andando con	andando	con	andare	con	VERB	ADP	
+('che_che_SCONJ', 'sarebbero_essere_AUX')	8	che sarebbero	che	sarebbero	che	essere	SCONJ	AUX	
+('il_il_DET', 'vento_vento_NOUN')	8	il vento	il	vento	il	vento	DET	NOUN	
+('la_il_DET', 'morosa_moroso_NOUN')	8	la morosa	la	morosa	il	moroso	DET	NOUN	
+('vorrei_volere_AUX', 'fare_fare_VERB')	8	vorrei fare	vorrei	fare	volere	fare	AUX	VERB	
+('giocavo_giocare_VERB', 'a_a_ADP')	8	gioca	giocavo	a	giocare	a	VERB	ADP	
+('alto_alto_ADJ', 'di_di_ADP')	8	alto di	alto	di	alto	di	ADJ	ADP	
+('tagliare_tagliare_VERB', 'i_il_DET')	8		tagliare	i	tagliare	il	VERB	DET	
+('mio_mio_DET', 'vicino_vicino_NOUN')	8	mio vicino	mio	vicino	mio	vicino	DET	NOUN	
+('andata_andare_VERB', 'lì_lì_ADV')	8	andata lì	andata	lì	andare	lì	VERB	ADV	
+('è_essere_AUX', 'ferita_ferire_VERB')	8	è ferita	è	ferita	essere	ferire	AUX	VERB	
+('è_essere_AUX', 'messo_mettere_VERB')	8	è messo	è	messo	essere	mettere	AUX	VERB	
+('portato_portare_VERB', 'la_il_DET')	8	portato la	portato	la	portare	il	VERB	DET	
+('bel_bello_ADJ', 'regalo_regalo_NOUN')	8	bel regalo	bel	regalo	bello	regalo	ADJ	NOUN	
+('la_la_PRON', 'può_potere_AUX')	8	la può	la	può	la	potere	PRON	AUX	
+('dica_dire_VERB', 'cosa_cosa_PRON')	8	dica cosa	dica	cosa	dire	cosa	VERB	PRON	
+('zoo_zoo_NOUN', 'con_con_ADP')	8	zoo con	zoo	con	zoo	con	NOUN	ADP	
+('nelle_in_ADP', 'loro_loro_DET')	8	nelle loro	nelle	loro	in	loro	ADP	DET	
+('fa_fare_VERB', 'schifo_schifo_NOUN')	8	fa schifo	fa	schifo	fare	schifo	VERB	NOUN	

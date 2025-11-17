@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('è_essere_AUX', 'terribile_terribile_ADJ')	12	è terribile	è	terribile	essere	terribile	AUX	ADJ	
+('cerchi_cerchiare_VERB', 'di_di_ADP')	12	cerchi di	cerchi	di	cerchiare	di	VERB	ADP	
+('piaccio_piacere_VERB', 'a_a_ADP')	12	pia	piaccio	a	piacere	a	VERB	ADP	
+('di_di_ADP', 'nuotare_nuotare_VERB')	12	di nuotare	di	nuotare	di	nuotare	ADP	VERB	
+('successo_succedere_VERB', 'qualcosa_qualcosa_PRON')	12	successo qualcosa	successo	qualcosa	succedere	qualcosa	VERB	PRON	
+('un_uno_DET', 'famoso_famoso_ADJ')	12	un famoso	un	famoso	uno	famoso	DET	ADJ	
+('danzare_danzare_VERB', 'con_con_ADP')	12	danzare con	danzare	con	danzare	con	VERB	ADP	
+('chi_chi_PRON', 'lo_lo_PRON')	12	chi lo	chi	lo	chi	lo	PRON	PRON	
+('è_essere_AUX', 'aperto_aprire_VERB')	12	è aperto	è	aperto	essere	aprire	AUX	VERB	
+('cibo_cibo_NOUN', 'in_in_ADP')	12	cibo in	cibo	in	cibo	in	NOUN	ADP	
+('odio_odiare_VERB', 'quando_quando_SCONJ')	12	odio quando	odio	quando	odiare	quando	VERB	SCONJ	
+('a_a_ADP', 'scappare_scappare_VERB')	12	avete aiutata a scappare	a	scappare	a	scappare	ADP	VERB	
+('polizia_polizia_NOUN', 'ha_avere_AUX')	12	polizia ha	polizia	ha	polizia	avere	NOUN	AUX	
+('insegnare_insegnare_VERB', 'francese_francese_ADJ')	12	insegnare francese	insegnare	francese	insegnare	francese	VERB	ADJ	
+('mi_mi_PRON', 'sarei_essere_AUX')	12	mi sarei	mi	sarei	mi	essere	PRON	AUX	
+('fare_fare_VERB', 'quello_quello_PRON')	12	fare quello	fare	quello	fare	quello	VERB	PRON	
+('tu_tu_PRON', 'ci_ci_PRON')	12	tu ci	tu	ci	tu	ci	PRON	PRON	
+('figlia_figlio_NOUN', 'di_di_ADP')	12	figlia di	figlia	di	figlio	di	NOUN	ADP	
+('ancora_ancora_ADV', 'di_di_ADP')	12	ancora di	ancora	di	ancora	di	ADV	ADP	
+"(""di'_dire_INTJ"", 'a_a_ADP')"	12	di' a	di'	a	dire	a	INTJ	ADP	
+('lei_lei_PRON', 'aveva_avere_VERB')	12	lei aveva	lei	aveva	lei	avere	PRON	VERB	
+('dia_dare_VERB', 'la_il_DET')	12	dia la	dia	la	dare	il	VERB	DET	
+('stare_stare_VERB', 'qui_qui_ADV')	12	stare qui	stare	qui	stare	qui	VERB	ADV	
+('ti_ti_PRON', 'aiuterò_aiutare_VERB')	12	ti aiuterò	ti	aiuterò	ti	aiutare	PRON	VERB	
+('finì_finire_VERB', 'il_il_DET')	12	finì il	finì	il	finire	il	VERB	DET	
+('sto_essere_AUX', 'parlando_parlare_VERB')	12	sto parlando	sto	parlando	essere	parlare	AUX	VERB	
+('ha_avere_AUX', 'suonato_suonare_VERB')	12	ha suonato	ha	suonato	avere	suonare	AUX	VERB	
+('fare_fare_VERB', 'delle_di_ADP')	12	fare delle	fare	delle	fare	di	VERB	ADP	
+('sta_stare_AUX', 'lavando_lavare_VERB')	12	sta lavando	sta	lavando	stare	lavare	AUX	VERB	
+('che_che_PRON', 'aveva_avere_VERB')	12	che aveva	che	aveva	che	avere	PRON	VERB	
+('come_come_ADV', 'sta_stare_VERB')	12	come sta	come	sta	come	stare	ADV	VERB	
+('in_in_ADP', 'giardino_giardino_NOUN')	12	in giardino	in	giardino	in	giardino	ADP	NOUN	
+('mai_mai_ADV', 'da_da_ADP')	12	mai da	mai	da	mai	da	ADV	ADP	
+('invitata_invitare_VERB', 'alla_a_ADP')	12	invitata alla	invitata	alla	invitare	a	VERB	ADP	
+('miei_mio_DET', 'soldi_soldo_NOUN')	12	miei soldi	miei	soldi	mio	soldo	DET	NOUN	
+('mai_mai_ADV', 'pensato_pensare_VERB')	12	mai pensato	mai	pensato	mai	pensare	ADV	VERB	
+('ha_avere_AUX', 'lanciato_lanciare_VERB')	12	ha lanciato	ha	lanciato	avere	lanciare	AUX	VERB	
+('nessuno_nessuno_PRON', 'si_si_PRON')	12	nessuno si	nessuno	si	nessuno	si	PRON	PRON	
+('non_non_ADV', 'tornerà_tornare_VERB')	12	non tornerà	non	tornerà	non	tornare	ADV	VERB	
+('e_e_CCONJ', 'si_si_PRON')	12		e	si	e	si	CCONJ	PRON	
+('alla_a_ADP', 'settimana_settimana_NOUN')	12	alla settimana	alla	settimana	a	settimana	ADP	NOUN	
+('scatola_scatola_NOUN', 'è_essere_AUX')	12	scatola è	scatola	è	scatola	essere	NOUN	AUX	
+('suppongo_supporre_VERB', 'che_che_SCONJ')	12	suppongo che	suppongo	che	supporre	che	VERB	SCONJ	
+('nel_in_ADP', 'tuo_tuo_DET')	12	nel tuo	nel	tuo	in	tuo	ADP	DET	
+('là_là_ADV', 'da_da_ADP')	12		là	da	là	da	ADV	ADP	
+('qui_qui_ADV', 'ora_ora_ADV')	12	qui ora	qui	ora	qui	ora	ADV	ADV	
+('gentile_gentile_ADJ', 'da_da_ADP')	12	gentile da	gentile	da	gentile	da	ADJ	ADP	
+('da_da_ADP', 'quanto_quanto_DET')	12	da quanto	da	quanto	da	quanto	ADP	DET	
+('prendi_prendere_VERB', 'un_uno_DET')	12	prendi un	prendi	un	prendere	uno	VERB	DET	
+('giocare_giocare_VERB', 'con_con_ADP')	12	giocare con	giocare	con	giocare	con	VERB	ADP	
+"(""l'_il_DET"", 'uno_uno_PRON')"	12	l'uno	l'	uno	il	uno	DET	PRON	
+('una_uno_DET', 'banca_banca_NOUN')	12	una banca	una	banca	uno	banca	DET	NOUN	
+('nessuno_nessuno_PRON', 'ci_ci_PRON')	12	nessuno ci	nessuno	ci	nessuno	ci	PRON	PRON	
+('contare_contare_VERB', 'su_su_ADP')	12	contare su	contare	su	contare	su	VERB	ADP	
+('ve_ve_PRON', 'lo_lo_PRON')	12	ve lo	ve	lo	ve	lo	PRON	PRON	
+('dubito_dubire_VERB', 'che_che_SCONJ')	12	dubito che	dubito	che	dubire	che	VERB	SCONJ	
+('lui_lui_PRON', 'parla_parlare_VERB')	12	lui parla	lui	parla	lui	parlare	PRON	VERB	
+('ebbe_avere_VERB', 'un_uno_DET')	12	ebbe un	ebbe	un	avere	uno	VERB	DET	
+('stiamo_stare_AUX', 'facendo_fare_VERB')	12	stiamo facendo	stiamo	facendo	stare	fare	AUX	VERB	
+('soldi_soldo_NOUN', 'a_a_ADP')	12	soldi a	soldi	a	soldo	a	NOUN	ADP	
+('nella_in_ADP', 'biblioteca_biblioteca_NOUN')	12	nella biblioteca	nella	biblioteca	in	biblioteca	ADP	NOUN	
+('sono_essere_AUX', 'impegnato_impegnare_VERB')	12	sono impegnato	sono	impegnato	essere	impegnare	AUX	VERB	
+('rimanere_rimanere_VERB', 'a_a_ADP')	12		rimanere	a	rimanere	a	VERB	ADP	
+('più_più_ADV', 'con_con_ADP')	12	più con	più	con	più	con	ADV	ADP	
+('una_uno_DET', 'medaglia_medaglia_NOUN')	12	una medaglia	una	medaglia	uno	medaglia	DET	NOUN	
+('ricevuto_ricevere_VERB', 'il_il_DET')	12	ricevuto il	ricevuto	il	ricevere	il	VERB	DET	
+('preoccuparsi_preoccupare_VERB', 'per_per_ADP')	12	preoccuparsi per	preoccuparsi	per	preoccupare	per	VERB	ADP	
+('di_di_ADP', 'ridere_ridere_VERB')	12	di ridere	di	ridere	di	ridere	ADP	VERB	
+"('sa_sapere_VERB', ""cos'_cos'_PRON"")"	12	sa cos'	sa	cos'	sapere	cos'	VERB	PRON	
+('la_il_DET', 'natura_natura_NOUN')	12	la natura	la	natura	il	natura	DET	NOUN	
+('noi_noi_PRON', 'piace_piacere_VERB')	12	noi piace	noi	piace	noi	piacere	PRON	VERB	
+('facile_facile_ADJ', 'da_da_ADP')	12	facile da	facile	da	facile	da	ADJ	ADP	
+('essere_essere_AUX', 'pronta_pronto_ADJ')	12	essere pronta	essere	pronta	essere	pronto	AUX	ADJ	
+('il_il_DET', 'camion_camion_NOUN')	12	il camion	il	camion	il	camion	DET	NOUN	
+('sua_suo_DET', 'salute_salute_NOUN')	12	sua salute	sua	salute	suo	salute	DET	NOUN	
+('me_me_PRON', 'la_la_PRON')	12	me la	me	la	me	la	PRON	PRON	
+('e_e_CCONJ', 'ha_avere_AUX')	12		e	ha	e	avere	CCONJ	AUX	
+('che_che_PRON', 'ci_ci_PRON')	12	che ci	che	ci	che	ci	PRON	PRON	
+"(""cos'_cos'_PRON"", 'ho_avere_AUX')"	12	cos'ho	cos'	ho	cos'	avere	PRON	AUX	
+('hai_avere_AUX', 'chiesto_chiedere_VERB')	12	hai chiesto	hai	chiesto	avere	chiedere	AUX	VERB	
+('pensi_pensare_VERB', 'di_di_ADP')	12	pensi di	pensi	di	pensare	di	VERB	ADP	
+('era_essere_AUX', 'impegnata_impegnare_VERB')	12	era impegnata	era	impegnata	essere	impegnare	AUX	VERB	
+('padre_padre_NOUN', 'mi_mi_PRON')	12		padre	mi	padre	mi	NOUN	PRON	
+('andrà_andare_VERB', 'bene_bene_ADV')	12	andrà bene	andrà	bene	andare	bene	VERB	ADV	
+('ha_avere_AUX', 'scoperto_scoprire_VERB')	12	ha scoperto	ha	scoperto	avere	scoprire	AUX	VERB	
+('di_di_ADP', 'dormire_dormire_VERB')	12	di dormire	di	dormire	di	dormire	ADP	VERB	
+('aveva_avere_VERB', 'ragione_ragione_NOUN')	12	aveva ragione	aveva	ragione	avere	ragione	VERB	NOUN	
+('di_di_ADP', 'sbrigarsi_sbrigare_VERB')	12	dica di sbrigarsi	di	sbrigarsi	di	sbrigare	ADP	VERB	
+('più_più_PRON', 'di_di_ADP')	12	più di	più	di	più	di	PRON	ADP	
+('sentimenti_sentimento_NOUN', 'per_per_ADP')	12	sentimenti per	sentimenti	per	sentimento	per	NOUN	ADP	
+('la_il_DET', 'pistola_pistola_NOUN')	12	la pistola	la	pistola	il	pistola	DET	NOUN	
+('una_uno_DET', 'bici_bici_NOUN')	12	una bici	una	bici	uno	bici	DET	NOUN	
+('di_di_ADP', 'lasciarmi_lasciare_VERB')	12	di lasciarmi	di	lasciarmi	di	lasciare	ADP	VERB	
+('un_uno_DET', 'ponte_ponte_NOUN')	12	un ponte	un	ponte	uno	ponte	DET	NOUN	
+('penso_pensare_VERB', 'ancora_ancora_ADV')	12	penso ancora	penso	ancora	pensare	ancora	VERB	ADV	
+('sa_sapere_VERB', 'guidare_guidare_VERB')	12	sa guidare	sa	guidare	sapere	guidare	VERB	VERB	
+('dove_dove_ADV', 'abita_abitare_VERB')	12	dove abita	dove	abita	dove	abitare	ADV	VERB	
+('ti_ti_PRON', 'serve_servire_VERB')	12	ti serve	ti	serve	ti	servire	PRON	VERB	
+('perse_perdere_VERB', 'la_il_DET')	12	perse la	perse	la	perdere	il	VERB	DET	
+('ditegli_ditegliare_VERB', 'di_di_ADP')	12	di	ditegli	di	ditegliare	di	VERB	ADP	

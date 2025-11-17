@@ -1,0 +1,101 @@
+gram3_key	count	substr	term_1	term_2	term_3	lemma_1	lemma_2	lemma_3	pos_1	pos_2	pos_3	translation_en
+('bene_bene_ADV', 'a_a_ADP', 'basket_basket_NOUN')	7	bene a basket	bene	a	basket	bene	a	basket	ADV	ADP	NOUN	
+('pronta_pronto_ADJ', 'a_a_ADP', 'farlo_fare_VERB')	7	pronta a farlo	pronta	a	farlo	pronto	a	fare	ADJ	ADP	VERB	
+('che_che_SCONJ', 'lei_lei_PRON', 'abbia_avere_AUX')	7	che lei abbia	che	lei	abbia	che	lei	avere	SCONJ	PRON	AUX	
+('vi_vi_PRON', 'ho_avere_AUX', 'mai_mai_ADV')	7	vi ho mai	vi	ho	mai	vi	avere	mai	PRON	AUX	ADV	
+('è_essere_AUX', 'più_più_ADV', 'facile_facile_ADJ')	7	è più facile	è	più	facile	essere	più	facile	AUX	ADV	ADJ	
+('di_di_ADP', 'tutti_tutto_DET', 'i_il_DET')	7		di	tutti	i	di	tutto	il	ADP	DET	DET	
+('posso_potere_AUX', 'avere_avere_VERB', 'una_uno_DET')	7	posso avere una	posso	avere	una	potere	avere	uno	AUX	VERB	DET	
+('sapeva_sapere_VERB', 'che_che_SCONJ', 'non_non_ADV')	7	sapeva che non	sapeva	che	non	sapere	che	non	VERB	SCONJ	ADV	
+('a_a_ADP', 'casa_casa_NOUN', 'tardi_tardi_ADV')	7	a casa tardi	a	casa	tardi	a	casa	tardi	ADP	NOUN	ADV	
+('aprire_aprire_VERB', 'la_il_DET', 'porta_porta_NOUN')	7	aprire la porta	aprire	la	porta	aprire	il	porta	VERB	DET	NOUN	
+"('siamo_essere_AUX', ""d'_di_ADP"", 'accordo_accordo_NOUN')"	7	siamo d'accordo	siamo	d'	accordo	essere	di	accordo	AUX	ADP	NOUN	
+('state_essere_AUX', 'cercando_cercare_VERB', 'di_di_ADP')	7	state cercando di	state	cercando	di	essere	cercare	di	AUX	VERB	ADP	
+('si_si_PRON', 'è_essere_AUX', 'nascosto_nascondere_VERB')	7	si è nascosto	si	è	nascosto	si	essere	nascondere	PRON	AUX	VERB	
+('è_essere_AUX', 'un_uno_DET', 'vero_vero_ADJ')	7	è un vero	è	un	vero	essere	uno	vero	AUX	DET	ADJ	
+('non_non_ADV', 'sembra_sembrare_VERB', 'molto_molto_ADV')	7	non sembra molto	non	sembra	molto	non	sembrare	molto	ADV	VERB	ADV	
+('è_essere_AUX', 'andata_andare_VERB', 'in_in_ADP')	7	è andata in	è	andata	in	essere	andare	in	AUX	VERB	ADP	
+('il_il_DET', 'cane_cane_NOUN', 'ha_avere_AUX')	7	il cane ha	il	cane	ha	il	cane	avere	DET	NOUN	AUX	
+('difficile_difficile_ADJ', 'per_per_ADP', 'me_me_PRON')	7	difficile per me	difficile	per	me	difficile	per	me	ADJ	ADP	PRON	
+('che_che_PRON', 'devo_dovere_AUX', 'fare_fare_VERB')	7	che devo fare	che	devo	fare	che	dovere	fare	PRON	AUX	VERB	
+('ti_ti_PRON', 'ho_avere_AUX', 'visto_vedere_VERB')	7	ti ho visto	ti	ho	visto	ti	avere	vedere	PRON	AUX	VERB	
+('che_che_PRON', 'ho_avere_AUX', 'fatto_fare_VERB')	7	che ho fatto	che	ho	fatto	che	avere	fare	PRON	AUX	VERB	
+('arrabbiato_arrabbiare_VERB', 'con_con_ADP', 'te_te_PRON')	7	arrabbiato con te	arrabbiato	con	te	arrabbiare	con	te	VERB	ADP	PRON	
+('la_il_DET', 'sua_suo_DET', 'matita_matita_NOUN')	7	la sua matita	la	sua	matita	il	suo	matita	DET	DET	NOUN	
+('detto_dire_VERB', 'che_che_SCONJ', 'ti_ti_PRON')	7	detto che ti	detto	che	ti	dire	che	ti	VERB	SCONJ	PRON	
+('è_essere_AUX', 'il_il_DET', 'solo_solo_ADJ')	7	è il solo	è	il	solo	essere	il	solo	AUX	DET	ADJ	
+('squadra_squadra_NOUN', 'di_di_ADP', 'calcio_calcio_NOUN')	7	squadra di calcio	squadra	di	calcio	squadra	di	calcio	NOUN	ADP	NOUN	
+('ha_avere_AUX', 'mai_mai_ADV', 'parlato_parlare_VERB')	7	ha mai parlato	ha	mai	parlato	avere	mai	parlare	AUX	ADV	VERB	
+('la_il_DET', 'tua_tuo_DET', 'auto_auto_NOUN')	7	la tua auto	la	tua	auto	il	tuo	auto	DET	DET	NOUN	
+('questo_questo_PRON', 'è_essere_AUX', 'tutto_tutto_PRON')	7	questo è tutto	questo	è	tutto	questo	essere	tutto	PRON	AUX	PRON	
+('quella_quello_PRON', 'che_che_PRON', 'ha_avere_AUX')	7	quella che ha	quella	che	ha	quello	che	avere	PRON	PRON	AUX	
+('ha_avere_AUX', 'pulito_pulito_VERB', 'la_il_DET')	7	ha pulito la	ha	pulito	la	avere	pulito	il	AUX	VERB	DET	
+('me_me_PRON', 'piace_piacere_VERB', 'veramente_veramente_ADV')	7	me piace veramente	me	piace	veramente	me	piacere	veramente	PRON	VERB	ADV	
+('il_il_DET', 'nome_nome_NOUN', 'della_di_ADP')	7	il nome della	il	nome	della	il	nome	di	DET	NOUN	ADP	
+('altra_altro_ADJ', 'tazza_tazza_NOUN', 'di_di_ADP')	7	altra tazza di	altra	tazza	di	altro	tazza	di	ADJ	NOUN	ADP	
+('bicchiere_bicchiere_NOUN', 'di_di_ADP', 'birra_birra_NOUN')	7	bicchiere di birra	bicchiere	di	birra	bicchiere	di	birra	NOUN	ADP	NOUN	
+('sei_essere_AUX', 'la_il_DET', 'mia_mio_DET')	7	sei la mia	sei	la	mia	essere	il	mio	AUX	DET	DET	
+('letto_leggere_VERB', 'un_uno_DET', 'libro_libro_NOUN')	7	letto un libro	letto	un	libro	leggere	uno	libro	VERB	DET	NOUN	
+('mi_mi_PRON', 'ha_avere_AUX', 'reso_rendere_VERB')	7	mi ha reso	mi	ha	reso	mi	avere	rendere	PRON	AUX	VERB	
+('non_non_ADV', 'deve_dovere_AUX', 'essere_essere_AUX')	7	non deve essere	non	deve	essere	non	dovere	essere	ADV	AUX	AUX	
+('lui_lui_PRON', 'piace_piacere_VERB', 'la_il_DET')	7	lui piace la	lui	piace	la	lui	piacere	il	PRON	VERB	DET	
+('potrebbe_potere_AUX', 'non_non_ADV', 'essere_essere_AUX')	7	potrebbe non essere	potrebbe	non	essere	potere	non	essere	AUX	ADV	AUX	
+('che_che_SCONJ', 'sarebbe_essere_AUX', 'venuto_venire_VERB')	7	che sarebbe venuto	che	sarebbe	venuto	che	essere	venire	SCONJ	AUX	VERB	
+('vuoi_volere_VERB', 'che_che_SCONJ', 'lo_lo_PRON')	7	vuoi che lo	vuoi	che	lo	volere	che	lo	VERB	SCONJ	PRON	
+"(""c'_ci_PRON"", 'è_essere_VERB', 'alcuna_alcuno_DET')"	7	c'è alcuna	c'	è	alcuna	ci	essere	alcuno	PRON	VERB	DET	
+('che_che_DET', 'ora_ora_NOUN', 'inizia_iniziare_VERB')	7	che ora inizia	che	ora	inizia	che	ora	iniziare	DET	NOUN	VERB	
+('al_a_ADP', 'centro_centro_NOUN', 'commerciale_commerciale_ADJ')	7	al centro commerciale	al	centro	commerciale	a	centro	commerciale	ADP	NOUN	ADJ	
+('con_con_ADP', 'le_il_DET', 'mie_mio_DET')	7	con le mie	con	le	mie	con	il	mio	ADP	DET	DET	
+('ho_avere_AUX', 'smesso_smettere_VERB', 'di_di_ADP')	7	ho smesso di	ho	smesso	di	avere	smettere	di	AUX	VERB	ADP	
+('fatto_fare_VERB', 'la_il_DET', 'cosa_cosa_NOUN')	7	fatto la cosa	fatto	la	cosa	fare	il	cosa	VERB	DET	NOUN	
+('andare_andare_VERB', 'a_a_ADP', 'cavallo_cavallo_NOUN')	7	andare a cavallo	andare	a	cavallo	andare	a	cavallo	VERB	ADP	NOUN	
+('parlato_parlare_VERB', 'con_con_ADP', 'loro_loro_PRON')	7	parlato con loro	parlato	con	loro	parlare	con	loro	VERB	ADP	PRON	
+('ha_avere_AUX', 'fatto_fare_VERB', 'con_con_ADP')	7	ha fatto con	ha	fatto	con	avere	fare	con	AUX	VERB	ADP	
+('è_essere_AUX', 'andato_andare_VERB', 'ad_a_ADP')	7	è andato ad	è	andato	ad	essere	andare	a	AUX	VERB	ADP	
+('comprò_comprare_VERB', 'un_uno_DET', 'libro_libro_NOUN')	7	comprò un libro	comprò	un	libro	comprare	uno	libro	VERB	DET	NOUN	
+('finito_finire_VERB', 'il_il_DET', 'lavoro_lavoro_NOUN')	7	finito il lavoro	finito	il	lavoro	finire	il	lavoro	VERB	DET	NOUN	
+('la_il_DET', 'scuola_scuola_NOUN', 'è_essere_AUX')	7	la scuola è	la	scuola	è	il	scuola	essere	DET	NOUN	AUX	
+('imparando_imparare_VERB', 'il_il_DET', 'francese_francese_NOUN')	7	imparando il francese	imparando	il	francese	imparare	il	francese	VERB	DET	NOUN	
+('mi_mi_PRON', 'ha_avere_AUX', 'morso_mordere_VERB')	7	mi ha morso	mi	ha	morso	mi	avere	mordere	PRON	AUX	VERB	
+('bottiglie_bottiglia_NOUN', 'di_di_ADP', 'birra_birra_NOUN')	7	bottiglie di birra	bottiglie	di	birra	bottiglia	di	birra	NOUN	ADP	NOUN	
+"(""l'_il_DET"", 'esame_esame_NOUN', 'di_di_ADP')"	7	l'esame di	l'	esame	di	il	esame	di	DET	NOUN	ADP	
+"(""l'_il_DET"", 'uomo_uomo_NOUN', 'è_essere_AUX')"	7	l'uomo è	l'	uomo	è	il	uomo	essere	DET	NOUN	AUX	
+('io_io_PRON', 'ho_avere_VERB', 'il_il_DET')	7	io ho il	io	ho	il	io	avere	il	PRON	VERB	DET	
+('con_con_ADP', 'cui_cui_PRON', 'giocare_giocare_VERB')	7	con cui giocare	con	cui	giocare	con	cui	giocare	ADP	PRON	VERB	
+('tu_tu_PRON', 'non_non_ADV', 'sembri_sembrare_VERB')	7	tu non sembri	tu	non	sembri	tu	non	sembrare	PRON	ADV	VERB	
+"(""l'_il_DET"", 'appartamento_appartamento_NOUN', 'di_di_ADP')"	7	l'appartamento di	l'	appartamento	di	il	appartamento	di	DET	NOUN	ADP	
+('era_essere_AUX', 'preoccupato_preoccupato_ADJ', 'per_per_ADP')	7	era preoccupato per	era	preoccupato	per	essere	preoccupato	per	AUX	ADJ	ADP	
+('stata_essere_AUX', 'in_in_ADP', 'grado_grado_NOUN')	7	stata in grado	stata	in	grado	essere	in	grado	AUX	ADP	NOUN	
+('sei_essere_AUX', 'favorevole_favorevole_ADJ', 'o_o_CCONJ')	7	sei favo	sei	favorevole	o	essere	favorevole	o	AUX	ADJ	CCONJ	
+('è_essere_AUX', 'favorevole_favorevole_ADJ', 'o_o_CCONJ')	7	è favo	è	favorevole	o	essere	favorevole	o	AUX	ADJ	CCONJ	
+('non_non_ADV', 'è_essere_AUX', 'da_da_ADP')	7	non è da	non	è	da	non	essere	da	ADV	AUX	ADP	
+('non_non_ADV', 'avere_avere_VERB', 'paura_paura_NOUN')	7	non avere paura	non	avere	paura	non	avere	paura	ADV	VERB	NOUN	
+('è_essere_AUX', 'molto_molto_ADV', 'gentile_gentile_ADJ')	7	è molto gentile	è	molto	gentile	essere	molto	gentile	AUX	ADV	ADJ	
+('voi_voi_PRON', 'non_non_ADV', 'sembrate_sembrare_VERB')	7	voi non sembrate	voi	non	sembrate	voi	non	sembrare	PRON	ADV	VERB	
+('io_io_PRON', 'sono_essere_AUX', 'di_di_ADP')	7	io sono di	io	sono	di	io	essere	di	PRON	AUX	ADP	
+('dice_dire_VERB', 'che_che_SCONJ', 'a_a_ADP')	7	dice che a	dice	che	a	dire	che	a	VERB	SCONJ	ADP	
+('piace_piacere_VERB', 'il_il_DET', 'basket_basket_NOUN')	7	piace il basket	piace	il	basket	piacere	il	basket	VERB	DET	NOUN	
+('per_per_ADP', 'cui_cui_PRON', 'sono_essere_AUX')	7	per cui sono	per	cui	sono	per	cui	essere	ADP	PRON	AUX	
+('noi_noi_PRON', 'dobbiamo_dovere_AUX', 'fare_fare_VERB')	7	noi dobbiamo fare	noi	dobbiamo	fare	noi	dovere	fare	PRON	AUX	VERB	
+('non_non_ADV', 'siate_essere_AUX', 'troppo_troppo_ADV')	7	non siate troppo	non	siate	troppo	non	essere	troppo	ADV	AUX	ADV	
+('disse_dire_VERB', 'di_di_ADP', 'avere_avere_AUX')	7	disse di avere	disse	di	avere	dire	di	avere	VERB	ADP	AUX	
+('non_non_ADV', 'è_essere_AUX', 'come_come_ADP')	7	non è come	non	è	come	non	essere	come	ADV	AUX	ADP	
+('la_il_DET', 'mia_mio_DET', 'bicicletta_bicicletta_NOUN')	7	la mia bicicletta	la	mia	bicicletta	il	mio	bicicletta	DET	DET	NOUN	
+('venga_venire_VERB', 'a_a_ADP', 'casa_casa_NOUN')	7	venga a casa	venga	a	casa	venire	a	casa	VERB	ADP	NOUN	
+('capire_capire_VERB', 'il_il_DET', 'francese_francese_NOUN')	7	capire il francese	capire	il	francese	capire	il	francese	VERB	DET	NOUN	
+('non_non_ADV', 'ha_avere_VERB', 'la_il_DET')	7	non ha la	non	ha	la	non	avere	il	ADV	VERB	DET	
+('non_non_ADV', 'è_essere_AUX', 'permesso_permettere_VERB')	7	non è permesso	non	è	permesso	non	essere	permettere	ADV	AUX	VERB	
+('chiedere_chiedere_VERB', 'il_il_DET', 'permesso_permesso_NOUN')	7	chiedere il permesso	chiedere	il	permesso	chiedere	il	permesso	VERB	DET	NOUN	
+('allo_a_ADP', 'zoo_zoo_NOUN', 'con_con_ADP')	7	allo zoo con	allo	zoo	con	a	zoo	con	ADP	NOUN	ADP	
+('una_uno_DET', 'lingua_lingua_NOUN', 'straniera_straniero_ADJ')	7	una lingua straniera	una	lingua	straniera	uno	lingua	straniero	DET	NOUN	ADJ	
+('attraversato_attraversare_VERB', 'la_il_DET', 'strada_strada_NOUN')	7	attraversato la strada	attraversato	la	strada	attraversare	il	strada	VERB	DET	NOUN	
+('voglio_volere_VERB', 'nella_in_ADP', 'mia_mio_DET')	7	voglio nella mia	voglio	nella	mia	volere	in	mio	VERB	ADP	DET	
+('noi_noi_PRON', 'abbiamo_avere_VERB', 'una_uno_DET')	7	noi abbiamo una	noi	abbiamo	una	noi	avere	uno	PRON	VERB	DET	
+('riesce_riuscire_VERB', 'a_a_ADP', 'farlo_fare_VERB')	7	riesce a farlo	riesce	a	farlo	riuscire	a	fare	VERB	ADP	VERB	
+('lui_lui_PRON', 'ha_avere_AUX', 'iniziato_iniziare_VERB')	7	lui ha iniziato	lui	ha	iniziato	lui	avere	iniziare	PRON	AUX	VERB	
+('i_il_DET', 'miei_mio_DET', 'sentimenti_sentimento_NOUN')	7	isci i miei sentimenti	i	miei	sentimenti	il	mio	sentimento	DET	DET	NOUN	
+"(""cos'_cos'_PRON"", 'è_essere_AUX', 'un_uno_DET')"	7	cos'è un	cos'	è	un	cos'	essere	uno	PRON	AUX	DET	
+('trovare_trovare_VERB', 'la_il_DET', 'mia_mio_DET')	7	trovare la mia	trovare	la	mia	trovare	il	mio	VERB	DET	DET	
+('trovare_trovare_VERB', 'il_il_DET', 'suo_suo_DET')	7	trovare il suo	trovare	il	suo	trovare	il	suo	VERB	DET	DET	
+('il_il_DET', 'vostro_vostro_DET', 'lavoro_lavoro_NOUN')	7	il vostro lavoro	il	vostro	lavoro	il	vostro	lavoro	DET	DET	NOUN	
+('questi_questo_DET', 'libri_libro_NOUN', 'sono_essere_AUX')	7	questi libri sono	questi	libri	sono	questo	libro	essere	DET	NOUN	AUX	

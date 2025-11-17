@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('chiamerà_chiamare_VERB', 'più_più_ADV')	6	chiamerà più	chiamerà	più	chiamare	più	VERB	ADV	
+('ha_avere_AUX', 'resa_rendere_VERB')	6	ha resa	ha	resa	avere	rendere	AUX	VERB	
+('occupato_occupare_VERB', 'domani_domani_ADV')	6	occupato domani	occupato	domani	occupare	domani	VERB	ADV	
+('solitamente_solitamente_ADV', 'è_essere_AUX')	6	solitamente è	solitamente	è	solitamente	essere	ADV	AUX	
+('siete_essere_AUX', 'sempre_sempre_ADV')	6	siete sempre	siete	sempre	essere	sempre	AUX	ADV	
+"(""l'_il_DET"", 'erba_erba_NOUN')"	6	l'erba	l'	erba	il	erba	DET	NOUN	
+('è_essere_AUX', 'capace_capace_ADJ')	6	è capace	è	capace	essere	capace	AUX	ADJ	
+('le_il_DET', 'scale_scala_NOUN')	6	le scale	le	scale	il	scala	DET	NOUN	
+('ucciso_uccidere_VERB', 'da_da_ADP')	6	ucciso da	ucciso	da	uccidere	da	VERB	ADP	
+('impedito_impedire_VERB', 'di_di_ADP')	6	impedi	impedito	di	impedire	di	VERB	ADP	
+('i_il_DET', 'sogni_sogno_NOUN')	6	i sogni	i	sogni	il	sogno	DET	NOUN	
+"(""l'_il_DET"", 'oro_oro_NOUN')"	6	l'oro	l'	oro	il	oro	DET	NOUN	
+('amo_amare_VERB', 'veramente_veramente_ADV')	6	amo veramente	amo	veramente	amare	veramente	VERB	ADV	
+('questo_questo_DET', 'cappotto_cappotto_NOUN')	6	questo cappotto	questo	cappotto	questo	cappotto	DET	NOUN	
+('di_di_ADP', 'domande_domanda_NOUN')	6	di domande	di	domande	di	domanda	ADP	NOUN	
+('che_che_PRON', 'fai_fare_VERB')	6	che fai	che	fai	che	fare	PRON	VERB	
+('cadde_cadere_VERB', 'dal_da_ADP')	6	cadde dal	cadde	dal	cadere	da	VERB	ADP	
+('sono_essere_AUX', 'semplicemente_semplicemente_ADV')	6	sono semplicemente	sono	semplicemente	essere	semplicemente	AUX	ADV	
+"('se_se_SCONJ', ""n'_ne_PRON"")"	6	se n'	se	n'	se	ne	SCONJ	PRON	
+('mio_mio_DET', 'tempo_tempo_NOUN')	6	mio tempo	mio	tempo	mio	tempo	DET	NOUN	
+('è_essere_AUX', 'costoso_costoso_ADJ')	6	è costoso	è	costoso	essere	costoso	AUX	ADJ	
+('buono_buono_ADJ', 'per_per_ADP')	6	buono per	buono	per	buono	per	ADJ	ADP	
+('piacerebbe_piacere_VERB', 'un_uno_DET')	6	piacerebbe un	piacerebbe	un	piacere	uno	VERB	DET	
+('essere_essere_AUX', 'paziente_paziente_ADJ')	6	essere paziente	essere	paziente	essere	paziente	AUX	ADJ	
+('di_di_ADP', 'oggi_oggi_ADV')	6	di oggi	di	oggi	di	oggi	ADP	ADV	
+('ancora_ancora_ADV', 'vivendo_vivere_VERB')	6	ancora vivendo	ancora	vivendo	ancora	vivere	ADV	VERB	
+('un_uno_DET', 'principiante_principiante_NOUN')	6	un principiante	un	principiante	uno	principiante	DET	NOUN	
+('se_se_SCONJ', 'vuoi_volere_VERB')	6	se vuoi	se	vuoi	se	volere	SCONJ	VERB	
+('è_essere_AUX', 'scoppiata_scoppiare_VERB')	6	è scoppiata	è	scoppiata	essere	scoppiare	AUX	VERB	
+('morì_morire_VERB', 'in_in_ADP')	6	morì in	morì	in	morire	in	VERB	ADP	
+('ho_avere_AUX', 'superato_superare_VERB')	6	ho superato	ho	superato	avere	superare	AUX	VERB	
+"(""all'_a_ADP"", 'aperto_aperto_NOUN')"	6	all'aperto	all'	aperto	a	aperto	ADP	NOUN	
+('sono_essere_AUX', 'sposata_sposare_VERB')	6	sono sposata	sono	sposata	essere	sposare	AUX	VERB	
+('nostro_nostro_DET', 'nuovo_nuovo_ADJ')	6	nostro nuovo	nostro	nuovo	nostro	nuovo	DET	ADJ	
+('puoi_potere_AUX', 'dare_dare_VERB')	6	puoi dare	puoi	dare	potere	dare	AUX	VERB	
+('salute_salute_NOUN', 'di_di_ADP')	6	salute di	salute	di	salute	di	NOUN	ADP	
+('persone_persona_NOUN', 'qui_qui_ADV')	6	persone qui	persone	qui	persona	qui	NOUN	ADV	
+('dovreste_dovere_AUX', 'parlare_parlare_VERB')	6	dovreste parlare	dovreste	parlare	dovere	parlare	AUX	VERB	
+('per_per_ADP', 'avere_avere_AUX')	6	per avere	per	avere	per	avere	ADP	AUX	
+('loro_loro_PRON', 'sanno_sapere_VERB')	6	loro sanno	loro	sanno	loro	sapere	PRON	VERB	
+('stato_essere_AUX', 'così_così_ADV')	6	stato così	stato	così	essere	così	AUX	ADV	
+('una_uno_DET', 'vista_vista_NOUN')	6	una vista	una	vista	uno	vista	DET	NOUN	
+('la_il_DET', 'sensazione_sensazione_NOUN')	6	la sensazione	la	sensazione	il	sensazione	DET	NOUN	
+('fa_fare_VERB', 'tutto_tutto_PRON')	6	fa tutto	fa	tutto	fare	tutto	VERB	PRON	
+('meglio_meglio_NOUN', 'che_che_PRON')	6	meglio che	meglio	che	meglio	che	NOUN	PRON	
+('un_uno_DET', 'apribottiglie_apribottiglia_NOUN')	6	un apribottiglie	un	apribottiglie	uno	apribottiglia	DET	NOUN	
+('degli_di_ADP', 'avanzi_avanzo_NOUN')	6	degli avanzi	degli	avanzi	di	avanzo	ADP	NOUN	
+('mai_mai_ADV', 'del_di_ADP')	6	mai del	mai	del	mai	di	ADV	ADP	
+('sono_essere_AUX', 'seduto_sedere_VERB')	6	sono seduto	sono	seduto	essere	sedere	AUX	VERB	
+('eri_essere_AUX', 'così_così_ADV')	6	eri così	eri	così	essere	così	AUX	ADV	
+('è_essere_AUX', 'vestito_vestire_VERB')	6	è vestito	è	vestito	essere	vestire	AUX	VERB	
+('assomiglia_assomigliare_VERB', 'molto_molto_ADV')	6	assomiglia molto	assomiglia	molto	assomigliare	molto	VERB	ADV	
+('da_da_ADP', 'capire_capire_VERB')	6	da capire	da	capire	da	capire	ADP	VERB	
+('bene_bene_ADV', 'ora_ora_ADV')	6	bene ora	bene	ora	bene	ora	ADV	ADV	
+('parte_parte_NOUN', 'dei_di_ADP')	6	parte dei	parte	dei	parte	di	NOUN	ADP	
+('era_essere_AUX', 'come_come_ADP')	6	era come	era	come	essere	come	AUX	ADP	
+('quale_quale_PRON', 'sia_essere_AUX')	6	quale sia	quale	sia	quale	essere	PRON	AUX	
+('potete_potere_AUX', 'andare_andare_VERB')	6	potete andare	potete	andare	potere	andare	AUX	VERB	
+('essere_essere_AUX', 'vera_vero_ADJ')	6	essere vera	essere	vera	essere	vero	AUX	ADJ	
+"(""sull'_su_ADP"", 'isola_isola_NOUN')"	6	sull'isola	sull'	isola	su	isola	ADP	NOUN	
+('ogni_ogni_DET', 'notte_notte_NOUN')	6	ogni notte	ogni	notte	ogni	notte	DET	NOUN	
+('un_uno_DET', 'prestito_prestito_NOUN')	6	un prestito	un	prestito	uno	prestito	DET	NOUN	
+('cosa_cosa_PRON', 'vuol_volere_AUX')	6	cosa vuol	cosa	vuol	cosa	volere	PRON	AUX	
+('sapevo_sapere_VERB', 'cosa_cosa_PRON')	6	sapevo cosa	sapevo	cosa	sapere	cosa	VERB	PRON	
+('ti_ti_PRON', 'vedo_vedere_VERB')	6	ti vedo	ti	vedo	ti	vedere	PRON	VERB	
+('sua_suo_DET', 'bicicletta_bicicletta_NOUN')	6	sua bicicletta	sua	bicicletta	suo	bicicletta	DET	NOUN	
+('piace_piacere_VERB', 'quando_quando_SCONJ')	6	piace quando	piace	quando	piacere	quando	VERB	SCONJ	
+"(""dell'_di_ADP"", 'umorismo_umorismo_NOUN')"	6	dell'umorismo	dell'	umorismo	di	umorismo	ADP	NOUN	
+('sai_sapere_VERB', 'di_di_ADP')	6	sai di	sai	di	sapere	di	VERB	ADP	
+"('quando_quando_SCONJ', ""l'_lo_PRON"")"	6	quando l'	quando	l'	quando	lo	SCONJ	PRON	
+('questo_questo_DET', 'modo_modo_NOUN')	6	questo modo	questo	modo	questo	modo	DET	NOUN	
+('lo_lo_PRON', 'dico_dire_VERB')	6	lo dico	lo	dico	lo	dire	PRON	VERB	
+('tua_tuo_DET', 'storia_storia_NOUN')	6	tua storia	tua	storia	tuo	storia	DET	NOUN	
+('la_il_DET', 'signora_signore_NOUN')	6	la signora	la	signora	il	signore	DET	NOUN	
+('pensate_pensare_VERB', 'di_di_ADP')	6	pensate di	pensate	di	pensare	di	VERB	ADP	
+('a_a_ADP', 'sentirsi_sentire_VERB')	6	a iniziato a sentirsi	a	sentirsi	a	sentire	ADP	VERB	
+('questo_questo_DET', 'pane_pane_NOUN')	6	questo pane	questo	pane	questo	pane	DET	NOUN	
+('un_uno_DET', 'solo_solo_ADJ')	6	un solo	un	solo	uno	solo	DET	ADJ	
+('di_di_ADP', 'sedersi_sedere_VERB')	6	dinato al cane di sedersi	di	sedersi	di	sedere	ADP	VERB	
+('hai_avere_AUX', 'ordinato_ordinare_VERB')	6	hai ordinato	hai	ordinato	avere	ordinare	AUX	VERB	
+('una_uno_DET', 'forchetta_forchetta_NOUN')	6	una forchetta	una	forchetta	uno	forchetta	DET	NOUN	
+('una_uno_DET', 'spiegazione_spiegazione_NOUN')	6	una spiegazione	una	spiegazione	uno	spiegazione	DET	NOUN	
+('è_essere_AUX', 'ubriaco_ubriaco_ADJ')	6	è ubriaco	è	ubriaco	essere	ubriaco	AUX	ADJ	
+('mantenuto_mantenere_VERB', 'la_il_DET')	6	mantenuto la	mantenuto	la	mantenere	il	VERB	DET	
+('preparare_preparare_VERB', 'la_il_DET')	6	preparare la	preparare	la	preparare	il	VERB	DET	
+('che_che_DET', 'anno_anno_NOUN')	6	che anno	che	anno	che	anno	DET	NOUN	
+('le_le_PRON', 'dobbiamo_dovere_AUX')	6	le dobbiamo	le	dobbiamo	le	dovere	PRON	AUX	
+('riesco_riuscire_VERB', 'ancora_ancora_ADV')	6	riesco ancora	riesco	ancora	riuscire	ancora	VERB	ADV	
+('una_uno_DET', 'gamba_gamba_NOUN')	6	una gamba	una	gamba	uno	gamba	DET	NOUN	
+('di_di_ADP', 'convincere_convincere_VERB')	6	di convincere	di	convincere	di	convincere	ADP	VERB	
+('successo_succedere_VERB', 'al_a_ADP')	6	successo al	successo	al	succedere	a	VERB	ADP	
+('essere_essere_AUX', 'triste_triste_ADJ')	6	essere triste	essere	triste	essere	triste	AUX	ADJ	
+('posso_potere_AUX', 'utilizzare_utilizzare_VERB')	6	posso utilizzare	posso	utilizzare	potere	utilizzare	AUX	VERB	
+('molto_molto_ADV', 'fieri_fiero_ADJ')	6	molto fieri	molto	fieri	molto	fiero	ADV	ADJ	
+('è_essere_AUX', 'vegetariana_vegetariano_ADJ')	6	è vegetariana	è	vegetariana	essere	vegetariano	AUX	ADJ	
+('ha_avere_AUX', 'indicato_indicare_VERB')	6	ha indicato	ha	indicato	avere	indicare	AUX	VERB	
+('il_il_DET', 'lojban_lojban_NOUN')	6	il lojban	il	lojban	il	lojban	DET	NOUN	
+('un_uno_DET', 'argomento_argomento_NOUN')	6	un argomento	un	argomento	uno	argomento	DET	NOUN	
+('mi_mi_PRON', 'sentii_sentire_VERB')	6	mi sentii	mi	sentii	mi	sentire	PRON	VERB	
+"('parlo_parlare_VERB', ""l'_il_DET"")"	6	parlo l'	parlo	l'	parlare	il	VERB	DET	

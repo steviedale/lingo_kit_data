@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('non_non_ADV', 'piangere_piangere_VERB')	10	non piangere	non	piangere	non	piangere	ADV	VERB	
+('troppo_troppo_ADV', 'in_in_ADP')	10	troppo in	troppo	in	troppo	in	ADV	ADP	
+('dimenticherò_dimenticare_VERB', 'mai_mai_ADV')	10	dimenticherò mai	dimenticherò	mai	dimenticare	mai	VERB	ADV	
+('andando_andare_VERB', 'alla_a_ADP')	10	andando alla	andando	alla	andare	a	VERB	ADP	
+('molto_molto_ADV', 'triste_triste_ADJ')	10	molto triste	molto	triste	molto	triste	ADV	ADJ	
+('io_io_PRON', 'gioco_gioco_VERB')	10	io gioco	io	gioco	io	gioco	PRON	VERB	
+('prendete_prendere_VERB', 'un_uno_DET')	10	prendete un	prendete	un	prendere	uno	VERB	DET	
+('una_uno_DET', 'vacanza_vacanza_NOUN')	10	una vacanza	una	vacanza	uno	vacanza	DET	NOUN	
+"('è_essere_VERB', ""un'_uno_DET"")"	10	è un'	è	un'	essere	uno	VERB	DET	
+('nella_in_ADP', 'folla_folla_NOUN')	10	nella folla	nella	folla	in	folla	ADP	NOUN	
+('che_che_SCONJ', 'può_potere_AUX')	10	che può	che	può	che	potere	SCONJ	AUX	
+('voi_voi_PRON', 'ci_ci_PRON')	10	voi ci	voi	ci	voi	ci	PRON	PRON	
+('quando_quando_ADV', 'le_le_PRON')	10	quando le	quando	le	quando	le	ADV	PRON	
+('ha_avere_AUX', 'distrutto_distruggere_VERB')	10	ha distrutto	ha	distrutto	avere	distruggere	AUX	VERB	
+('che_che_PRON', 'stava_stare_AUX')	10	che stava	che	stava	che	stare	PRON	AUX	
+"('rubato_rubare_VERB', ""l'_il_DET"")"	10	rubato l'	rubato	l'	rubare	il	VERB	DET	
+('continuate_continuare_VERB', 'a_a_ADP')	10	continua	continuate	a	continuare	a	VERB	ADP	
+('suo_suo_DET', 'avvocato_avvocato_NOUN')	10	suo avvocato	suo	avvocato	suo	avvocato	DET	NOUN	
+"(""l'_il_DET"", 'odore_odore_NOUN')"	10	l'odore	l'	odore	il	odore	DET	NOUN	
+('me_me_PRON', 'dispiace_dispiacere_VERB')	10	me dispiace	me	dispiace	me	dispiacere	PRON	VERB	
+('il_il_DET', 'rispetto_rispetto_NOUN')	10	il rispetto	il	rispetto	il	rispetto	DET	NOUN	
+('deve_dovere_AUX', 'dire_dire_VERB')	10	deve dire	deve	dire	dovere	dire	AUX	VERB	
+('abbia_avere_AUX', 'detto_dire_VERB')	10	abbia detto	abbia	detto	avere	dire	AUX	VERB	
+('a_a_ADP', 'quale_quale_DET')	10	a quale	a	quale	a	quale	ADP	DET	
+('sarà_essere_AUX', 'facile_facile_ADJ')	10	sarà facile	sarà	facile	essere	facile	AUX	ADJ	
+('dia_dare_VERB', 'il_il_DET')	10	dia il	dia	il	dare	il	VERB	DET	
+('prese_prendere_VERB', 'un_uno_DET')	10	prese un	prese	un	prendere	uno	VERB	DET	
+('via_via_NOUN', 'della_di_ADP')	10	via della	via	della	via	di	NOUN	ADP	
+('non_non_ADV', 'dovrei_dovere_AUX')	10	non dovrei	non	dovrei	non	dovere	ADV	AUX	
+('il_il_DET', 'corpo_corpo_NOUN')	10	il corpo	il	corpo	il	corpo	DET	NOUN	
+('mi_mi_PRON', 'stava_stare_AUX')	10	mi stava	mi	stava	mi	stare	PRON	AUX	
+('ed_e_CCONJ', 'è_essere_AUX')	10		ed	è	e	essere	CCONJ	AUX	
+('è_essere_AUX', 'quel_quello_DET')	10	è quel	è	quel	essere	quello	AUX	DET	
+('felice_felice_ADJ', 'con_con_ADP')	10	felice con	felice	con	felice	con	ADJ	ADP	
+('di_di_ADP', 'stomaco_stomaco_NOUN')	10	di stomaco	di	stomaco	di	stomaco	ADP	NOUN	
+('vecchia_vecchio_ADJ', 'di_di_ADP')	10	vecchia di	vecchia	di	vecchio	di	ADJ	ADP	
+"(""l'_il_DET"", 'ananas_ananas_NOUN')"	10	l'ananas	l'	ananas	il	ananas	DET	NOUN	
+('volevo_volere_AUX', 'fare_fare_VERB')	10	volevo fare	volevo	fare	volere	fare	AUX	VERB	
+('passi_passare_VERB', 'il_il_DET')	10	passi il	passi	il	passare	il	VERB	DET	
+('state_essere_AUX', 'parlando_parlare_VERB')	10	state parlando	state	parlando	essere	parlare	AUX	VERB	
+('la_il_DET', 'batteria_batteria_NOUN')	10	la batteria	la	batteria	il	batteria	DET	NOUN	
+('vi_vi_PRON', 'posso_potere_AUX')	10	vi posso	vi	posso	vi	potere	PRON	AUX	
+('chiesto_chiedere_VERB', 'loro_loro_PRON')	10	chiesto loro	chiesto	loro	chiedere	loro	VERB	PRON	
+('dammi_dare_VERB', 'una_uno_DET')	10	dammi una	dammi	una	dare	uno	VERB	DET	
+('non_non_ADV', 'aver_avere_AUX')	10	non aver	non	aver	non	avere	ADV	AUX	
+('ho_avere_VERB', 'abbastanza_abbastanza_ADV')	10	ho abbastanza	ho	abbastanza	avere	abbastanza	VERB	ADV	
+('sta_stare_AUX', 'migliorando_migliorare_VERB')	10	sta migliorando	sta	migliorando	stare	migliorare	AUX	VERB	
+('al_a_ADP', 'nostro_nostro_DET')	10	al nostro	al	nostro	a	nostro	ADP	DET	
+('di_di_ADP', 'capire_capire_VERB')	10	di capire	di	capire	di	capire	ADP	VERB	
+('mia_mio_DET', 'squadra_squadra_NOUN')	10	mia squadra	mia	squadra	mio	squadra	DET	NOUN	
+('sempre_sempre_ADV', 'il_il_DET')	10	sempre il	sempre	il	sempre	il	ADV	DET	
+('odia_odiare_VERB', 'le_il_DET')	10	odia le	odia	le	odiare	il	VERB	DET	
+('già_già_ADV', 'mangiato_mangiare_VERB')	10	già mangiato	già	mangiato	già	mangiare	ADV	VERB	
+('è_essere_AUX', 'triste_triste_ADJ')	10	è triste	è	triste	essere	triste	AUX	ADJ	
+('lei_lei_PRON', 'per_per_ADP')	10	lei per	lei	per	lei	per	PRON	ADP	
+('avete_avere_AUX', 'parlato_parlare_VERB')	10	avete parlato	avete	parlato	avere	parlare	AUX	VERB	
+('occupato_occupare_VERB', 'per_per_ADP')	10	occupato per	occupato	per	occupare	per	VERB	ADP	
+('tuo_tuo_DET', 'cane_cane_NOUN')	10	tuo cane	tuo	cane	tuo	cane	DET	NOUN	
+('suo_suo_DET', 'orologio_orologio_NOUN')	10	suo orologio	suo	orologio	suo	orologio	DET	NOUN	
+"(""nell'_in_ADP"", 'acqua_acqua_NOUN')"	10	nell'acqua	nell'	acqua	in	acqua	ADP	NOUN	
+('il_il_DET', 'sogno_sogno_NOUN')	10	il sogno	il	sogno	il	sogno	DET	NOUN	
+('abituato_abituare_VERB', 'a_a_ADP')	10	a	abituato	a	abituare	a	VERB	ADP	
+('comprato_comprare_VERB', 'qualcosa_qualcosa_PRON')	10	comprato qualcosa	comprato	qualcosa	comprare	qualcosa	VERB	PRON	
+('molto_molto_ADV', 'fiero_fiero_ADJ')	10	molto fiero	molto	fiero	molto	fiero	ADV	ADJ	
+('come_come_ADP', 'suo_suo_DET')	10	come suo	come	suo	come	suo	ADP	DET	
+('una_uno_DET', 'lezione_lezione_NOUN')	10	una lezione	una	lezione	uno	lezione	DET	NOUN	
+('il_il_DET', 'test_test_NOUN')	10	il test	il	test	il	test	DET	NOUN	
+('il_il_DET', 'dito_dito_NOUN')	10	il dito	il	dito	il	dito	DET	NOUN	
+('io_io_PRON', 'capisco_capire_VERB')	10	io capisco	io	capisco	io	capire	PRON	VERB	
+('siamo_essere_AUX', 'arrivate_arrivare_VERB')	10	siamo arrivate	siamo	arrivate	essere	arrivare	AUX	VERB	
+('per_per_ADP', 'chi_chi_PRON')	10	per chi	per	chi	per	chi	ADP	PRON	
+('lui_lui_PRON', 'per_per_ADP')	10	lui per	lui	per	lui	per	PRON	ADP	
+('stava_stare_AUX', 'fissando_fissare_VERB')	10	stava fissando	stava	fissando	stare	fissare	AUX	VERB	
+('ha_avere_AUX', 'colpito_colpire_VERB')	10	ha colpito	ha	colpito	avere	colpire	AUX	VERB	
+"(""un'_uno_DET"", 'ambulanza_ambulanza_NOUN')"	10	un'ambulanza	un'	ambulanza	uno	ambulanza	DET	NOUN	
+('letto_leggere_VERB', 'questo_questo_DET')	10	letto questo	letto	questo	leggere	questo	VERB	DET	
+('buon_buono_ADJ', 'impiego_impiego_NOUN')	10	buon impiego	buon	impiego	buono	impiego	ADJ	NOUN	
+('mia_mio_DET', 'domanda_domanda_NOUN')	10	mia domanda	mia	domanda	mio	domanda	DET	NOUN	
+('a_a_ADP', 'ballare_ballare_VERB')	10	a ballare	a	ballare	a	ballare	ADP	VERB	
+('voglio_volere_AUX', 'soltanto_soltanto_ADV')	10	voglio soltanto	voglio	soltanto	volere	soltanto	AUX	ADV	
+('davvero_davvero_ADV', 'molto_molto_ADV')	10	davvero molto	davvero	molto	davvero	molto	ADV	ADV	
+('sta_stare_AUX', 'sentendo_sentire_VERB')	10	sta sentendo	sta	sentendo	stare	sentire	AUX	VERB	
+('il_il_DET', 'miele_miele_NOUN')	10	il miele	il	miele	il	miele	DET	NOUN	
+('che_che_PRON', 'penso_pensare_VERB')	10	che penso	che	penso	che	pensare	PRON	VERB	
+('dormito_dormire_VERB', 'bene_bene_ADV')	10	dormito bene	dormito	bene	dormire	bene	VERB	ADV	
+('sai_sapere_VERB', 'come_come_ADV')	10	sai come	sai	come	sapere	come	VERB	ADV	
+('è_essere_AUX', 'libero_libero_ADJ')	10	è libero	è	libero	essere	libero	AUX	ADJ	
+('giocate_giocare_VERB', 'a_a_ADP')	10	gioca	giocate	a	giocare	a	VERB	ADP	
+('capace_capace_ADJ', 'di_di_ADP')	10	capace di	capace	di	capace	di	ADJ	ADP	
+('quando_quando_SCONJ', 'mi_mi_PRON')	10	quando mi	quando	mi	quando	mi	SCONJ	PRON	
+('chi_chi_PRON', 'si_si_PRON')	10	chi si	chi	si	chi	si	PRON	PRON	
+('cose_cosa_NOUN', 'in_in_ADP')	10	cose in	cose	in	cosa	in	NOUN	ADP	
+('può_potere_AUX', 'usare_usare_VERB')	10	può usare	può	usare	potere	usare	AUX	VERB	
+('del_di_ADP', 'tutto_tutto_PRON')	10	del tutto	del	tutto	di	tutto	ADP	PRON	
+('stanno_stare_AUX', 'mangiando_mangiare_VERB')	10	stanno mangiando	stanno	mangiando	stare	mangiare	AUX	VERB	
+('sembra_sembrare_VERB', 'una_uno_DET')	10	sembra una	sembra	una	sembrare	uno	VERB	DET	
+('un_uno_DET', 'picnic_picnic_NOUN')	10	un picnic	un	picnic	uno	picnic	DET	NOUN	
+('scusato_scusare_VERB', 'con_con_ADP')	10	scusato con	scusato	con	scusare	con	VERB	ADP	
+('vicino_vicino_ADV', 'al_a_ADP')	10	vicino al	vicino	al	vicino	a	ADV	ADP	
+('sorpreso_sorprendere_VERB', 'di_di_ADP')	10	sorpreso di	sorpreso	di	sorprendere	di	VERB	ADP	

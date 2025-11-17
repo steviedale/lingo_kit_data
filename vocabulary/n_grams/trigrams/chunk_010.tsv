@@ -1,0 +1,101 @@
+gram3_key	count	substr	term_1	term_2	term_3	lemma_1	lemma_2	lemma_3	pos_1	pos_2	pos_3	translation_en
+('sta_stare_AUX', 'indossando_indossare_VERB', 'un_uno_DET')	14	sta indossando un	sta	indossando	un	stare	indossare	uno	AUX	VERB	DET	
+('io_io_PRON', 'voglio_volere_VERB', 'un_uno_DET')	14	io voglio un	io	voglio	un	io	volere	uno	PRON	VERB	DET	
+('tu_tu_PRON', 'hai_avere_VERB', 'un_uno_DET')	14	tu hai un	tu	hai	un	tu	avere	uno	PRON	VERB	DET	
+('riesco_riuscire_VERB', 'a_a_ADP', 'trovare_trovare_VERB')	14	riesco a trovare	riesco	a	trovare	riuscire	a	trovare	VERB	ADP	VERB	
+('avevo_avere_VERB', 'idea_idea_NOUN', 'che_che_SCONJ')	14	avevo idea che	avevo	idea	che	avere	idea	che	VERB	NOUN	SCONJ	
+('quello_quello_PRON', 'che_che_PRON', 'avete_avere_AUX')	14	quello che avete	quello	che	avete	quello	che	avere	PRON	PRON	AUX	
+('il_il_DET', 'padre_padre_NOUN', 'di_di_ADP')	14	il padre di	il	padre	di	il	padre	di	DET	NOUN	ADP	
+('mi_mi_PRON', 'sono_essere_AUX', 'sentito_sentire_VERB')	14	mi sono sentito	mi	sono	sentito	mi	essere	sentire	PRON	AUX	VERB	
+('lei_lei_PRON', 'è_essere_AUX', 'stata_essere_AUX')	14	lei è stata	lei	è	stata	lei	essere	essere	PRON	AUX	AUX	
+('andare_andare_VERB', 'con_con_ADP', 'lei_lei_PRON')	14	andare con lei	andare	con	lei	andare	con	lei	VERB	ADP	PRON	
+('è_essere_AUX', 'morto_morire_VERB', 'di_di_ADP')	14	è morto di	è	morto	di	essere	morire	di	AUX	VERB	ADP	
+('a_a_ADP', 'sua_suo_DET', 'moglie_moglie_NOUN')	14	a sua moglie	a	sua	moglie	a	suo	moglie	ADP	DET	NOUN	
+('lei_lei_PRON', 'ha_avere_AUX', 'fatto_fare_VERB')	14	lei ha fatto	lei	ha	fatto	lei	avere	fare	PRON	AUX	VERB	
+('bisogno_bisogno_NOUN', 'del_di_ADP', 'tuo_tuo_DET')	14	bisogno del tuo	bisogno	del	tuo	bisogno	di	tuo	NOUN	ADP	DET	
+"('detto_dire_VERB', 'che_che_SCONJ', ""l'_lo_PRON"")"	14	detto che l'	detto	che	l'	dire	che	lo	VERB	SCONJ	PRON	
+('detto_dire_VERB', 'che_che_SCONJ', 'vuole_volere_AUX')	14	detto che vuole	detto	che	vuole	dire	che	volere	VERB	SCONJ	AUX	
+('giocare_giocare_VERB', 'a_a_ADP', 'calcio_calcio_NOUN')	14	giocare a calcio	giocare	a	calcio	giocare	a	calcio	VERB	ADP	NOUN	
+('andata_andare_VERB', 'a_a_ADP', 'scuola_scuola_NOUN')	14	andata a scuola	andata	a	scuola	andare	a	scuola	VERB	ADP	NOUN	
+('che_che_SCONJ', 'lo_lo_PRON', 'farà_fare_VERB')	14	che lo farà	che	lo	farà	che	lo	fare	SCONJ	PRON	VERB	
+('sei_essere_AUX', 'mai_mai_ADV', 'stato_essere_AUX')	14	sei mai stato	sei	mai	stato	essere	mai	essere	AUX	ADV	AUX	
+('dove_dove_ADV', 'ha_avere_AUX', 'comprato_comprare_VERB')	14	dove ha comprato	dove	ha	comprato	dove	avere	comprare	ADV	AUX	VERB	
+('ha_avere_AUX', 'dato_dare_VERB', 'a_a_ADP')	14	ha	ha	dato	a	avere	dare	a	AUX	VERB	ADP	
+('finito_finire_VERB', 'il_il_DET', 'suo_suo_DET')	14	finito il suo	finito	il	suo	finire	il	suo	VERB	DET	DET	
+('il_il_DET', 'treno_treno_NOUN', 'è_essere_AUX')	14	il treno è	il	treno	è	il	treno	essere	DET	NOUN	AUX	
+('che_che_SCONJ', 'era_essere_AUX', 'veramente_veramente_ADV')	14	che era veramente	che	era	veramente	che	essere	veramente	SCONJ	AUX	ADV	
+('quanti_quanto_DET', 'anni_anno_NOUN', 'ha_avere_VERB')	14	quanti anni ha	quanti	anni	ha	quanto	anno	avere	DET	NOUN	VERB	
+('mio_mio_DET', 'nome_nome_NOUN', 'è_essere_AUX')	14	mio nome è	mio	nome	è	mio	nome	essere	DET	NOUN	AUX	
+('le_le_PRON', 'ho_avere_AUX', 'viste_vedere_VERB')	14	le ho viste	le	ho	viste	le	avere	vedere	PRON	AUX	VERB	
+('si_si_PRON', 'ricorda_ricordare_VERB', 'di_di_ADP')	14	si ricorda di	si	ricorda	di	si	ricordare	di	PRON	VERB	ADP	
+('ho_avere_VERB', 'idea_idea_NOUN', 'di_di_ADP')	14	ho idea di	ho	idea	di	avere	idea	di	VERB	NOUN	ADP	
+('tutte_tutto_DET', 'le_il_DET', 'mie_mio_DET')	14	tutte le mie	tutte	le	mie	tutto	il	mio	DET	DET	DET	
+('non_non_ADV', 'è_essere_AUX', 'colpa_colpa_NOUN')	14	non è colpa	non	è	colpa	non	essere	colpa	ADV	AUX	NOUN	
+"(""n'_ne_PRON"", 'è_essere_AUX', 'andato_andare_VERB')"	14	n'è andato	n'	è	andato	ne	essere	andare	PRON	AUX	VERB	
+('non_non_ADV', 'andate_andare_VERB', 'a_a_ADP')	14	non a	non	andate	a	non	andare	a	ADV	VERB	ADP	
+('il_il_DET', 'suo_suo_DET', 'cappello_cappello_NOUN')	14	il suo cappello	il	suo	cappello	il	suo	cappello	DET	DET	NOUN	
+('fareste_fare_VERB', 'meglio_meglio_ADV', 'a_a_ADP')	14	fa	fareste	meglio	a	fare	meglio	a	VERB	ADV	ADP	
+('ha_avere_VERB', 'i_il_DET', 'capelli_capello_NOUN')	14	ha i capelli	ha	i	capelli	avere	il	capello	VERB	DET	NOUN	
+('voi_voi_PRON', 'non_non_ADV', 'siete_essere_AUX')	14	voi non siete	voi	non	siete	voi	non	essere	PRON	ADV	AUX	
+('che_che_SCONJ', 'se_se_PRON', 'ne_ne_PRON')	14	che se ne	che	se	ne	che	se	ne	SCONJ	PRON	PRON	
+('al_a_ADP', 'sicuro_sicuro_ADJ', 'qui_qui_ADV')	14	al sicuro qui	al	sicuro	qui	a	sicuro	qui	ADP	ADJ	ADV	
+('gioca_giocare_VERB', 'a_a_ADP', 'tennis_tennis_NOUN')	14	gioca a tennis	gioca	a	tennis	giocare	a	tennis	VERB	ADP	NOUN	
+"(""l'_il_DET"", 'acqua_acqua_NOUN', 'è_essere_AUX')"	14	l'acqua è	l'	acqua	è	il	acqua	essere	DET	NOUN	AUX	
+('bisogno_bisogno_NOUN', 'di_di_ADP', 'andare_andare_VERB')	14	bisogno di andare	bisogno	di	andare	bisogno	di	andare	NOUN	ADP	VERB	
+('io_io_PRON', 'non_non_ADV', 'sto_essere_AUX')	14	io non sto	io	non	sto	io	non	essere	PRON	ADV	AUX	
+('a_a_ADP', 'casa_casa_NOUN', 'ora_ora_NOUN')	14	are a casa ora	a	casa	ora	a	casa	ora	ADP	NOUN	NOUN	
+('del_di_ADP', 'tuo_tuo_DET', 'aiuto_aiuto_NOUN')	14	del tuo aiuto	del	tuo	aiuto	di	tuo	aiuto	ADP	DET	NOUN	
+('posto_posto_NOUN', 'in_in_ADP', 'cui_cui_PRON')	14	posto in cui	posto	in	cui	posto	in	cui	NOUN	ADP	PRON	
+('dove_dove_ADV', 'li_li_PRON', 'avete_avere_AUX')	14	dove li avete	dove	li	avete	dove	li	avere	ADV	PRON	AUX	
+('a_a_ADP', 'trovare_trovare_VERB', 'il_il_DET')	14	a trovare il	a	trovare	il	a	trovare	il	ADP	VERB	DET	
+('del_di_ADP', 'mio_mio_DET', 'meglio_meglio_NOUN')	14	del mio meglio	del	mio	meglio	di	mio	meglio	ADP	DET	NOUN	
+('non_non_ADV', 'ho_avere_VERB', 'niente_niente_PRON')	14	non ho niente	non	ho	niente	non	avere	niente	ADV	VERB	PRON	
+('piace_piacere_VERB', 'molto_molto_ADV', 'il_il_DET')	14	piace molto il	piace	molto	il	piacere	molto	il	VERB	ADV	DET	
+('salario_salario_NOUN', 'minimo_minimo_ADJ', 'in_in_ADP')	14	salario min	salario	minimo	in	salario	minimo	in	NOUN	ADJ	ADP	
+('ci_ci_PRON', 'si_si_PRON', 'vede_vedere_VERB')	13	ci si vede	ci	si	vede	ci	si	vedere	PRON	PRON	VERB	
+('sta_stare_AUX', 'leggendo_leggere_VERB', 'un_uno_DET')	13	sta leggendo un	sta	leggendo	un	stare	leggere	uno	AUX	VERB	DET	
+('il_il_DET', 'tuo_tuo_DET', 'numero_numero_NOUN')	13	il tuo numero	il	tuo	numero	il	tuo	numero	DET	DET	NOUN	
+('per_per_ADP', 'andare_andare_VERB', 'a_a_ADP')	13		per	andare	a	per	andare	a	ADP	VERB	ADP	
+('alla_a_ADP', 'festa_festa_NOUN', 'ieri_ieri_ADV')	13	alla festa ieri	alla	festa	ieri	a	festa	ieri	ADP	NOUN	ADV	
+('sono_essere_AUX', 'quella_quello_PRON', 'che_che_PRON')	13	sono quella che	sono	quella	che	essere	quello	che	AUX	PRON	PRON	
+('non_non_ADV', 'ho_avere_VERB', 'paura_paura_NOUN')	13	non ho paura	non	ho	paura	non	avere	paura	ADV	VERB	NOUN	
+('la_il_DET', 'sua_suo_DET', 'insegnante_insegnante_NOUN')	13	la sua insegnante	la	sua	insegnante	il	suo	insegnante	DET	DET	NOUN	
+('perché_perché_PRON', 'non_non_ADV', 'andate_andare_VERB')	13	perché non andate	perché	non	andate	perché	non	andare	PRON	ADV	VERB	
+('visto_vedere_VERB', 'la_il_DET', 'mia_mio_DET')	13	visto la mia	visto	la	mia	vedere	il	mio	VERB	DET	DET	
+('ho_avere_AUX', 'comprato_comprare_VERB', 'un_uno_DET')	13	ho comprato un	ho	comprato	un	avere	comprare	uno	AUX	VERB	DET	
+('sta_stare_AUX', 'giocando_giocare_VERB', 'a_a_ADP')	13	sta	sta	giocando	a	stare	giocare	a	AUX	VERB	ADP	
+('era_essere_AUX', 'il_il_DET', 'mio_mio_DET')	13	era il mio	era	il	mio	essere	il	mio	AUX	DET	DET	
+('mi_mi_PRON', 'piace_piacere_VERB', 'molto_molto_ADV')	13	mi piace molto	mi	piace	molto	mi	piacere	molto	PRON	VERB	ADV	
+('non_non_ADV', 'so_sapere_VERB', 'perché_perché_SCONJ')	13	non so perché	non	so	perché	non	sapere	perché	ADV	VERB	SCONJ	
+('con_con_ADP', 'i_il_DET', 'loro_loro_DET')	13	con i loro	con	i	loro	con	il	loro	ADP	DET	DET	
+('voglio_volere_VERB', 'che_che_SCONJ', 'mi_mi_PRON')	13	voglio che mi	voglio	che	mi	volere	che	mi	VERB	SCONJ	PRON	
+('gli_gli_PRON', 'ha_avere_AUX', 'detto_dire_VERB')	13	gli ha detto	gli	ha	detto	gli	avere	dire	PRON	AUX	VERB	
+('che_che_PRON', 'ne_ne_PRON', 'dice_dire_VERB')	13	che ne dice	che	ne	dice	che	ne	dire	PRON	PRON	VERB	
+('è_essere_AUX', 'una_uno_DET', 'lingua_lingua_NOUN')	13	è una lingua	è	una	lingua	essere	uno	lingua	AUX	DET	NOUN	
+('sono_essere_AUX', 'mai_mai_ADV', 'stato_essere_AUX')	13	sono mai stato	sono	mai	stato	essere	mai	essere	AUX	ADV	AUX	
+('è_essere_AUX', 'pieno_pieno_ADJ', 'di_di_ADP')	13	è pieno di	è	pieno	di	essere	pieno	di	AUX	ADJ	ADP	
+('piano_piano_NOUN', 'di_di_ADP', 'sopra_sopra_ADV')	13	piano di sopra	piano	di	sopra	piano	di	sopra	NOUN	ADP	ADV	
+('io_io_PRON', 'andrò_andare_VERB', 'a_a_ADP')	13	io a	io	andrò	a	io	andare	a	PRON	VERB	ADP	
+('sta_stare_AUX', 'andando_andare_VERB', 'a_a_ADP')	13	sta	sta	andando	a	stare	andare	a	AUX	VERB	ADP	
+('vuole_volere_VERB', 'che_che_SCONJ', 'lo_lo_PRON')	13	vuole che lo	vuole	che	lo	volere	che	lo	VERB	SCONJ	PRON	
+('un_uno_DET', 'uomo_uomo_NOUN', 'molto_molto_ADV')	13	un uomo molto	un	uomo	molto	uno	uomo	molto	DET	NOUN	ADV	
+('lei_lei_PRON', 'non_non_ADV', 'può_potere_AUX')	13	lei non può	lei	non	può	lei	non	potere	PRON	ADV	AUX	
+('tutto_tutto_DET', 'il_il_DET', 'suo_suo_DET')	13	tutto il suo	tutto	il	suo	tutto	il	suo	DET	DET	DET	
+"('essere_essere_AUX', ""d'_di_ADP"", 'accordo_accordo_NOUN')"	13	essere d'accordo	essere	d'	accordo	essere	di	accordo	AUX	ADP	NOUN	
+('esattamente_esattamente_ADV', 'quello_quello_PRON', 'che_che_PRON')	13	esattamente quello che	esattamente	quello	che	esattamente	quello	che	ADV	PRON	PRON	
+('preso_prendere_VERB', 'in_in_ADP', 'prestito_prestito_NOUN')	13	preso in prestito	preso	in	prestito	prendere	in	prestito	VERB	ADP	NOUN	
+('parlato_parlare_VERB', 'con_con_ADP', 'lei_lei_PRON')	13	parlato con lei	parlato	con	lei	parlare	con	lei	VERB	ADP	PRON	
+('ha_avere_AUX', 'realizzato_realizzare_VERB', 'che_che_SCONJ')	13	ha realizzato che	ha	realizzato	che	avere	realizzare	che	AUX	VERB	SCONJ	
+('ha_avere_AUX', 'lasciato_lasciare_VERB', 'il_il_DET')	13	ha lasciato il	ha	lasciato	il	avere	lasciare	il	AUX	VERB	DET	
+('innamorato_innamorare_VERB', 'di_di_ADP', 'lei_lei_PRON')	13	innamorato di lei	innamorato	di	lei	innamorare	di	lei	VERB	ADP	PRON	
+"('bottiglia_bottiglia_NOUN', ""d'_di_ADP"", 'acqua_acqua_NOUN')"	13	bottiglia d'acqua	bottiglia	d'	acqua	bottiglia	di	acqua	NOUN	ADP	NOUN	
+('della_di_ADP', 'mia_mio_DET', 'vita_vita_NOUN')	13	della mia vita	della	mia	vita	di	mio	vita	ADP	DET	NOUN	
+('sono_essere_AUX', 'i_il_DET', 'suoi_suo_DET')	13	sono i suoi	sono	i	suoi	essere	il	suo	AUX	DET	DET	
+('di_di_ADP', 'che_che_DET', 'colore_colore_NOUN')	13	di che colore	di	che	colore	di	che	colore	ADP	DET	NOUN	
+('non_non_ADV', 'ha_avere_VERB', 'paura_paura_NOUN')	13	non ha paura	non	ha	paura	non	avere	paura	ADV	VERB	NOUN	
+('i_il_DET', 'suoi_suo_DET', 'piani_piano_NOUN')	13	i sono i suoi piani	i	suoi	piani	il	suo	piano	DET	DET	NOUN	
+('io_io_PRON', 'sono_essere_AUX', 'più_più_ADV')	13	io sono più	io	sono	più	io	essere	più	PRON	AUX	ADV	
+('a_a_ADP', 'te_te_PRON', 'piacciono_piacere_VERB')	13	a te piacciono	a	te	piacciono	a	te	piacere	ADP	PRON	VERB	
+('la_il_DET', 'tua_tuo_DET', 'lettera_lettera_NOUN')	13	la tua lettera	la	tua	lettera	il	tuo	lettera	DET	DET	NOUN	
+('più_più_ADV', 'vecchio_vecchio_ADJ', 'di_di_ADP')	13	più vecchio di	più	vecchio	di	più	vecchio	di	ADV	ADJ	ADP	
+('in_in_ADP', 'un_uno_DET', 'incidente_incidente_NOUN')	13	in un incidente	in	un	incidente	in	uno	incidente	ADP	DET	NOUN	

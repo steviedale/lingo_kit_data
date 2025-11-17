@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('perse_perdere_VERB', 'il_il_DET')	13	perse il	perse	il	perdere	il	VERB	DET	
+('andando_andare_VERB', 'al_a_ADP')	13	andando al	andando	al	andare	a	VERB	ADP	
+('era_essere_AUX', 'piuttosto_piuttosto_ADV')	13	era piuttosto	era	piuttosto	essere	piuttosto	AUX	ADV	
+('va_andare_AUX', 'bene_bene_ADV')	13	va bene	va	bene	andare	bene	AUX	ADV	
+('sono_essere_AUX', 'come_come_ADP')	13	sono come	sono	come	essere	come	AUX	ADP	
+('le_il_DET', 'porte_porta_NOUN')	13	le porte	le	porte	il	porta	DET	NOUN	
+('voi_voi_PRON', 'conoscete_conoscere_VERB')	13	voi conoscete	voi	conoscete	voi	conoscere	PRON	VERB	
+('cosa_cosa_PRON', 'fate_fare_VERB')	13	cosa fate	cosa	fate	cosa	fare	PRON	VERB	
+('andrà_andare_VERB', 'in_in_ADP')	13	andrà in	andrà	in	andare	in	VERB	ADP	
+"('ho_avere_VERB', ""l'_il_DET"")"	13	ho l'	ho	l'	avere	il	VERB	DET	
+('felice_felice_ADJ', 'che_che_SCONJ')	13	felice che	felice	che	felice	che	ADJ	SCONJ	
+('venuta_venire_VERB', 'a_a_ADP')	13	venuta	venuta	a	venire	a	VERB	ADP	
+('un_uno_DET', 'gelato_gelato_NOUN')	13	un gelato	un	gelato	uno	gelato	DET	NOUN	
+('letto_leggere_VERB', 'un_uno_DET')	13	letto un	letto	un	leggere	uno	VERB	DET	
+('portare_portare_VERB', 'a_a_ADP')	13		portare	a	portare	a	VERB	ADP	
+('come_come_SCONJ', 'funziona_funzionare_VERB')	13	come funziona	come	funziona	come	funzionare	SCONJ	VERB	
+('parlo_parlare_VERB', 'il_il_DET')	13	parlo il	parlo	il	parlare	il	VERB	DET	
+('lo_lo_PRON', 'devo_dovere_AUX')	13	lo devo	lo	devo	lo	dovere	PRON	AUX	
+('la_il_DET', 'minestra_minestra_NOUN')	13	la minestra	la	minestra	il	minestra	DET	NOUN	
+('un_uno_DET', 'romanzo_romanzo_NOUN')	13	un romanzo	un	romanzo	uno	romanzo	DET	NOUN	
+('io_io_PRON', 'farò_fare_VERB')	13	io farò	io	farò	io	fare	PRON	VERB	
+('in_in_ADP', 'futuro_futuro_NOUN')	13	in futuro	in	futuro	in	futuro	ADP	NOUN	
+('venite_venire_VERB', 'a_a_ADP')	13	venite a	venite	a	venire	a	VERB	ADP	
+('mangiare_mangiare_VERB', 'qualcosa_qualcosa_PRON')	13	mangiare qualcosa	mangiare	qualcosa	mangiare	qualcosa	VERB	PRON	
+('sono_essere_AUX', 'arrivati_arrivare_VERB')	13	sono arrivati	sono	arrivati	essere	arrivare	AUX	VERB	
+('ad_a_ADP', 'aiutarle_aiutare_VERB')	13	ad aiutarle	ad	aiutarle	a	aiutare	ADP	VERB	
+('nella_in_ADP', 'foresta_foresta_NOUN')	13	nella foresta	nella	foresta	in	foresta	ADP	NOUN	
+('ad_a_ADP', 'un_uno_DET')	13	ad un	ad	un	a	uno	ADP	DET	
+('vi_vi_PRON', 'fa_fare_VERB')	13	vi fa	vi	fa	vi	fare	PRON	VERB	
+('a_a_ADP', 'farmi_farmare_VERB')	13	a farmi	a	farmi	a	farmare	ADP	VERB	
+('te_te_PRON', 'piacciono_piacere_VERB')	13	te piacciono	te	piacciono	te	piacere	PRON	VERB	
+('sua_suo_DET', 'morte_morte_NOUN')	13	sua morte	sua	morte	suo	morte	DET	NOUN	
+('dopo_dopo_ADV', 'di_di_ADP')	13	dopo di	dopo	di	dopo	di	ADV	ADP	
+('un_uno_DET', 'odore_odore_NOUN')	13	un odore	un	odore	uno	odore	DET	NOUN	
+('andò_andare_VERB', 'in_in_ADP')	13	andò in	andò	in	andare	in	VERB	ADP	
+('o_o_CCONJ', 'a_a_ADP')	13	oca	o	a	o	a	CCONJ	ADP	
+('insegnante_insegnante_NOUN', 'è_essere_AUX')	13	insegnante è	insegnante	è	insegnante	essere	NOUN	AUX	
+('di_di_ADP', 'legno_legno_NOUN')	13	di legno	di	legno	di	legno	ADP	NOUN	
+('guardando_guardare_VERB', 'la_il_DET')	13	guardando la	guardando	la	guardare	il	VERB	DET	
+('sai_sapere_VERB', 'dove_dove_ADV')	13	sai dove	sai	dove	sapere	dove	VERB	ADV	
+('a_a_ADP', 'trovarmi_trovare_VERB')	13	a a trovarmi	a	trovarmi	a	trovare	ADP	VERB	
+('dei_di_ADP', 'gatti_gatto_NOUN')	13	dei gatti	dei	gatti	di	gatto	ADP	NOUN	
+('avete_avere_VERB', 'intenzione_intenzione_NOUN')	13	avete intenzione	avete	intenzione	avere	intenzione	VERB	NOUN	
+('ho_avere_VERB', 'soldi_soldo_NOUN')	13	ho soldi	ho	soldi	avere	soldo	VERB	NOUN	
+('ha_avere_AUX', 'funzionato_funzionare_VERB')	13	ha funzionato	ha	funzionato	avere	funzionare	AUX	VERB	
+('non_non_ADV', 'parlate_parlare_VERB')	13	non parlate	non	parlate	non	parlare	ADV	VERB	
+('ponte_ponte_NOUN', 'è_essere_AUX')	13	ponte è	ponte	è	ponte	essere	NOUN	AUX	
+('il_il_DET', 'solo_solo_ADJ')	13	il solo	il	solo	il	solo	DET	ADJ	
+('lo_lo_PRON', 'vedo_vedere_VERB')	13	lo vedo	lo	vedo	lo	vedere	PRON	VERB	
+('comprare_comprare_VERB', 'dei_di_ADP')	13	comprare dei	comprare	dei	comprare	di	VERB	ADP	
+('oggi_oggi_ADV', 'non_non_ADV')	13	oggi non	oggi	non	oggi	non	ADV	ADV	
+('nuovo_nuovo_ADJ', 'impiego_impiego_NOUN')	13	nuovo impiego	nuovo	impiego	nuovo	impiego	ADJ	NOUN	
+('non_non_ADV', 'potevo_potere_AUX')	13	non potevo	non	potevo	non	potere	ADV	AUX	
+('più_più_ADV', 'bella_bello_ADJ')	13	più bella	più	bella	più	bello	ADV	ADJ	
+('sempre_sempre_ADV', 'un_uno_DET')	13	sempre un	sempre	un	sempre	uno	ADV	DET	
+('ci_ci_PRON', 'disse_dire_VERB')	13	ci disse	ci	disse	ci	dire	PRON	VERB	
+"(""l'_il_DET"", 'aiuto_aiuto_NOUN')"	13	l'aiuto	l'	aiuto	il	aiuto	DET	NOUN	
+('aereo_aereo_NOUN', 'è_essere_AUX')	13	aereo è	aereo	è	aereo	essere	NOUN	AUX	
+('per_per_ADP', 'tutti_tutto_PRON')	13	per tutti	per	tutti	per	tutto	ADP	PRON	
+('dei_di_ADP', 'bambini_bambino_NOUN')	13	dei bambini	dei	bambini	di	bambino	ADP	NOUN	
+('utilizzare_utilizzare_VERB', 'il_il_DET')	13	util	utilizzare	il	utilizzare	il	VERB	DET	
+('che_che_SCONJ', 'vada_andare_VERB')	13	che vada	che	vada	che	andare	SCONJ	VERB	
+('pronti_pronto_ADJ', 'per_per_ADP')	13	pronti per	pronti	per	pronto	per	ADJ	ADP	
+('siete_essere_AUX', 'pronti_pronto_ADJ')	13	siete pronti	siete	pronti	essere	pronto	AUX	ADJ	
+('o_o_CCONJ', 'la_il_DET')	13	ono la	o	la	o	il	CCONJ	DET	
+('molto_molto_ADV', 'su_su_ADP')	13	molto su	molto	su	molto	su	ADV	ADP	
+('gli_gli_PRON', 'hanno_avere_AUX')	13	gli hanno	gli	hanno	gli	avere	PRON	AUX	
+('la_il_DET', 'speranza_speranza_NOUN')	13	la speranza	la	speranza	il	speranza	DET	NOUN	
+"('fare_fare_VERB', ""l'_il_DET"")"	13	fare l'	fare	l'	fare	il	VERB	DET	
+('lì_lì_ADV', 'per_per_ADP')	13	lì per	lì	per	lì	per	ADV	ADP	
+"(""l'_il_DET"", 'arte_arte_NOUN')"	13	l'arte	l'	arte	il	arte	DET	NOUN	
+('mangiato_mangiare_VERB', 'del_di_ADP')	13	mangiato del	mangiato	del	mangiare	di	VERB	ADP	
+('un_uno_DET', 'telefono_telefono_NOUN')	13	un telefono	un	telefono	uno	telefono	DET	NOUN	
+('il_il_DET', 'violino_violare_NOUN')	13	il violino	il	violino	il	violare	DET	NOUN	
+('suonando_suonare_VERB', 'il_il_DET')	13	suonando il	suonando	il	suonare	il	VERB	DET	
+('dire_dire_VERB', 'qualcosa_qualcosa_PRON')	13	dire qualcosa	dire	qualcosa	dire	qualcosa	VERB	PRON	
+('nostra_nostro_DET', 'casa_casa_NOUN')	13	nostra casa	nostra	casa	nostro	casa	DET	NOUN	
+('visto_vedere_VERB', 'quel_quello_DET')	13	visto quel	visto	quel	vedere	quello	VERB	DET	
+('cattivo_cattivo_ADJ', 'umore_umore_NOUN')	13	cattivo umore	cattivo	umore	cattivo	umore	ADJ	NOUN	
+('vostra_vostro_DET', 'opinione_opinione_NOUN')	13	vostra opinione	vostra	opinione	vostro	opinione	DET	NOUN	
+('in_in_ADP', 'più_più_ADV')	13	in più	in	più	in	più	ADP	ADV	
+"('sai_sapere_VERB', ""cos'_cos'_PRON"")"	13	sai cos'	sai	cos'	sapere	cos'	VERB	PRON	
+('come_come_ADV', 'li_li_PRON')	13	come li	come	li	come	li	ADV	PRON	
+('ha_avere_AUX', 'cantato_cantare_VERB')	13	ha cantato	ha	cantato	avere	cantare	AUX	VERB	
+('cosa_cosa_PRON', 'farà_fare_VERB')	13	cosa farà	cosa	farà	cosa	fare	PRON	VERB	
+('non_non_ADV', 'fu_essere_AUX')	13	non fu	non	fu	non	essere	ADV	AUX	
+('cosa_cosa_PRON', 'dovremmo_dovere_AUX')	13	cosa dovremmo	cosa	dovremmo	cosa	dovere	PRON	AUX	
+('chiave_chiave_NOUN', 'la_il_DET')	13	chiave la	chiave	la	chiave	il	NOUN	DET	
+('felice_felice_ADJ', 'qua_qua_ADV')	13	felice qua	felice	qua	felice	qua	ADJ	ADV	
+('caffè_caffè_NOUN', 'è_essere_AUX')	13	caffè	caffè	è	caffè	essere	NOUN	AUX	
+('questa_questo_DET', 'scuola_scuola_NOUN')	13	questa scuola	questa	scuola	questo	scuola	DET	NOUN	
+('appena_appena_ADV', 'finito_finire_VERB')	13	appena finito	appena	finito	appena	finire	ADV	VERB	
+('vuole_volere_AUX', 'dire_dire_VERB')	13	vuole dire	vuole	dire	volere	dire	AUX	VERB	
+('la_la_PRON', 'voglio_volere_VERB')	13	la voglio	la	voglio	la	volere	PRON	VERB	
+('suo_suo_DET', 'giardino_giardino_NOUN')	13	suo giardino	suo	giardino	suo	giardino	DET	NOUN	
+"('bottiglia_bottiglia_NOUN', ""d'_di_ADP"")"	13	bottiglia d'	bottiglia	d'	bottiglia	di	NOUN	ADP	
+('sta_stare_AUX', 'pensando_pensare_VERB')	13	sta pensando	sta	pensando	stare	pensare	AUX	VERB	
+('questa_questo_DET', 'borsa_borsa_NOUN')	13	questa borsa	questa	borsa	questo	borsa	DET	NOUN	
+('a_a_ADP', 'sciare_sciare_VERB')	13	andare a sciare	a	sciare	a	sciare	ADP	VERB	
+('che_che_SCONJ', 'abbia_avere_AUX')	13	che abbia	che	abbia	che	avere	SCONJ	AUX	

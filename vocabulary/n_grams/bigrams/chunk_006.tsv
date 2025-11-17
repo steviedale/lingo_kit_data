@@ -1,0 +1,101 @@
+gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
+('una_uno_DET', 'bella_bello_ADJ')	62	una bella	una	bella	uno	bello	DET	ADJ	
+('mi_mi_PRON', 'sta_stare_AUX')	62	mi sta	mi	sta	mi	stare	PRON	AUX	
+('lei_lei_PRON', 'si_si_PRON')	62	lei si	lei	si	lei	si	PRON	PRON	
+('io_io_PRON', 'spero_sperare_VERB')	62	io spero	io	spero	io	sperare	PRON	VERB	
+('cominciato_cominciare_VERB', 'a_a_ADP')	62		cominciato	a	cominciare	a	VERB	ADP	
+('ad_a_ADP', 'aiutare_aiutare_VERB')	62	ad aiutare	ad	aiutare	a	aiutare	ADP	VERB	
+('ha_avere_VERB', 'la_il_DET')	62	ha la	ha	la	avere	il	VERB	DET	
+('un_uno_DET', 'amico_amico_NOUN')	61	un amico	un	amico	uno	amico	DET	NOUN	
+('una_uno_DET', 'donna_donna_NOUN')	61	una donna	una	donna	uno	donna	DET	NOUN	
+('vi_vi_PRON', 'ha_avere_AUX')	61	vi ha	vi	ha	vi	avere	PRON	AUX	
+('la_il_DET', 'colazione_colazione_NOUN')	61	la colazione	la	colazione	il	colazione	DET	NOUN	
+('un_uno_DET', 'bravo_bravo_ADJ')	61	un bravo	un	bravo	uno	bravo	DET	ADJ	
+"(""dell'_di_ADP"", 'acqua_acqua_NOUN')"	61	dell'acqua	dell'	acqua	di	acqua	ADP	NOUN	
+('serve_servire_VERB', 'un_uno_DET')	61	serve un	serve	un	servire	uno	VERB	DET	
+('mio_mio_DET', 'zio_zio_NOUN')	61	mio zio	mio	zio	mio	zio	DET	NOUN	
+('il_il_DET', 'nome_nome_NOUN')	60	il nome	il	nome	il	nome	DET	NOUN	
+('meglio_meglio_ADV', 'a_a_ADP')	60		meglio	a	meglio	a	ADV	ADP	
+"(""l'_il_DET"", 'amore_amore_NOUN')"	60	l'amore	l'	amore	il	amore	DET	NOUN	
+('di_di_ADP', 'questo_questo_DET')	60	di questo	di	questo	di	questo	ADP	DET	
+('dei_di_ADP', 'soldi_soldo_NOUN')	60	dei soldi	dei	soldi	di	soldo	ADP	NOUN	
+('nella_in_ADP', 'mia_mio_DET')	60	nella mia	nella	mia	in	mio	ADP	DET	
+('il_il_DET', 'pane_pane_NOUN')	60	il pane	il	pane	il	pane	DET	NOUN	
+('che_che_SCONJ', 'ti_ti_PRON')	60	che ti	che	ti	che	ti	SCONJ	PRON	
+('potrebbe_potere_AUX', 'essere_essere_AUX')	60	potrebbe essere	potrebbe	essere	potere	essere	AUX	AUX	
+('le_il_DET', 'persone_persona_NOUN')	60	le persone	le	persone	il	persona	DET	NOUN	
+('bisogno_bisogno_NOUN', 'del_di_ADP')	60	bisogno del	bisogno	del	bisogno	di	NOUN	ADP	
+('ho_avere_AUX', 'perso_perdere_VERB')	60	ho perso	ho	perso	avere	perdere	AUX	VERB	
+"(""un'_uno_DET"", 'automobile_automobile_NOUN')"	60	un'automobile	un'	automobile	uno	automobile	DET	NOUN	
+('da_da_ADP', 'parte_parte_NOUN')	60	da parte	da	parte	da	parte	ADP	NOUN	
+"(""l'_lo_PRON"", 'avete_avere_AUX')"	60	l'avete	l'	avete	lo	avere	PRON	AUX	
+('si_si_PRON', 'chiama_chiamare_VERB')	60	si chiama	si	chiama	si	chiamare	PRON	VERB	
+('di_di_ADP', 'avere_avere_AUX')	60	di avere	di	avere	di	avere	ADP	AUX	
+('la_il_DET', 'settimana_settimana_NOUN')	59	la settimana	la	settimana	il	settimana	DET	NOUN	
+('hai_avere_AUX', 'fatto_fare_VERB')	59	hai fatto	hai	fatto	avere	fare	AUX	VERB	
+('ha_avere_AUX', 'portato_portare_VERB')	59	ha portato	ha	portato	avere	portare	AUX	VERB	
+('questa_questo_DET', 'mattina_mattina_NOUN')	59	questa mattina	questa	mattina	questo	mattina	DET	NOUN	
+"(""dov'_dove_ADV"", 'è_essere_VERB')"	59	dov'è	dov'	è	dove	essere	ADV	VERB	
+('aveva_avere_VERB', 'bisogno_bisogno_NOUN')	59	aveva bisogno	aveva	bisogno	avere	bisogno	VERB	NOUN	
+('mia_mio_DET', 'vita_vita_NOUN')	59	mia vita	mia	vita	mio	vita	DET	NOUN	
+('voglia_voglia_NOUN', 'di_di_ADP')	59	voglia di	voglia	di	voglia	di	NOUN	ADP	
+('ne_ne_PRON', 'sono_essere_AUX')	59	ne sono	ne	sono	ne	essere	PRON	AUX	
+"(""com'_come_ADV"", 'è_essere_AUX')"	59	com'è	com'	è	come	essere	ADV	AUX	
+('del_di_ADP', 'latte_latte_NOUN')	59	del latte	del	latte	di	latte	ADP	NOUN	
+('perso_perdere_VERB', 'la_il_DET')	59	perso la	perso	la	perdere	il	VERB	DET	
+('la_il_DET', 'macchina_macchina_NOUN')	59	la macchina	la	macchina	il	macchina	DET	NOUN	
+('sono_essere_AUX', 'troppo_troppo_ADV')	59	sono troppo	sono	troppo	essere	troppo	AUX	ADV	
+('ha_avere_AUX', 'sentito_sentire_VERB')	59	ha sentito	ha	sentito	avere	sentire	AUX	VERB	
+('ha_avere_AUX', 'provato_provare_VERB')	59	ha provato	ha	provato	avere	provare	AUX	VERB	
+('la_il_DET', 'cena_cena_NOUN')	59	la cena	la	cena	il	cena	DET	NOUN	
+('la_il_DET', 'chiave_chiave_NOUN')	58	la chiave	la	chiave	il	chiave	DET	NOUN	
+"(""l'_il_DET"", 'auto_auto_NOUN')"	58	l'auto	l'	auto	il	auto	DET	NOUN	
+('che_che_PRON', 'mi_mi_PRON')	58	che mi	che	mi	che	mi	PRON	PRON	
+('mia_mio_DET', 'moglie_moglie_NOUN')	58	mia moglie	mia	moglie	mio	moglie	DET	NOUN	
+('la_il_DET', 'ragazza_ragazzo_NOUN')	58	la ragazza	la	ragazza	il	ragazzo	DET	NOUN	
+('bravo_bravo_ADJ', 'a_a_ADP')	58	bra	bravo	a	bravo	a	ADJ	ADP	
+('essere_essere_AUX', 'in_in_ADP')	58	essere in	essere	in	essere	in	AUX	ADP	
+('dei_di_ADP', 'libri_libro_NOUN')	58	dei libri	dei	libri	di	libro	ADP	NOUN	
+('ad_a_ADP', 'essere_essere_AUX')	58	ad essere	ad	essere	a	essere	ADP	AUX	
+('che_che_DET', 'tipo_tipo_NOUN')	58	che tipo	che	tipo	che	tipo	DET	NOUN	
+('avrei_avere_AUX', 'dovuto_dovere_AUX')	58	avrei dovuto	avrei	dovuto	avere	dovere	AUX	AUX	
+"(""un'_uno_DET"", 'ora_ora_NOUN')"	58	un'ora	un'	ora	uno	ora	DET	NOUN	
+('di_di_ADP', 'tempo_tempo_NOUN')	58	di tempo	di	tempo	di	tempo	ADP	NOUN	
+('che_che_SCONJ', 'sarebbe_essere_AUX')	58	che sarebbe	che	sarebbe	che	essere	SCONJ	AUX	
+('lo_lo_PRON', 'sa_sapere_VERB')	58	lo sa	lo	sa	lo	sapere	PRON	VERB	
+('il_il_DET', 'tè_tè_NOUN')	57	il tè	il	tè	il	tè	DET	NOUN	
+('bicchiere_bicchiere_NOUN', 'di_di_ADP')	57	bicchiere di	bicchiere	di	bicchiere	di	NOUN	ADP	
+('di_di_ADP', 'chi_chi_PRON')	57	di chi	di	chi	di	chi	ADP	PRON	
+('la_il_DET', 'prima_primo_ADJ')	57	la prima	la	prima	il	primo	DET	ADJ	
+('un_uno_DET', 'posto_posto_NOUN')	57	un posto	un	posto	uno	posto	DET	NOUN	
+('me_me_PRON', 'ne_ne_PRON')	57	me ne	me	ne	me	ne	PRON	PRON	
+('ha_avere_AUX', 'avuto_avere_VERB')	57	ha avuto	ha	avuto	avere	avere	AUX	VERB	
+('voglio_volere_AUX', 'andare_andare_VERB')	57	voglio andare	voglio	andare	volere	andare	AUX	VERB	
+('di_di_ADP', 'caffè_caffè_NOUN')	57	di caffè	di	caffè	di	caffè	ADP	NOUN	
+('mi_mi_PRON', 'piacerebbe_piacere_VERB')	57	mi piacerebbe	mi	piacerebbe	mi	piacere	PRON	VERB	
+('le_il_DET', 'scarpe_scarpa_NOUN')	57	le scarpe	le	scarpe	il	scarpa	DET	NOUN	
+('ho_avere_AUX', 'ancora_ancora_ADV')	57	ho ancora	ho	ancora	avere	ancora	AUX	ADV	
+('sono_essere_AUX', 'il_il_DET')	57	sono il	sono	il	essere	il	AUX	DET	
+('scorsa_scorso_ADJ', 'notte_notte_NOUN')	57	scorsa notte	scorsa	notte	scorso	notte	ADJ	NOUN	
+('sua_suo_DET', 'sorella_sorella_NOUN')	57	sua sorella	sua	sorella	suo	sorella	DET	NOUN	
+('una_uno_DET', 'nuova_nuovo_ADJ')	57	una nuova	una	nuova	uno	nuovo	DET	ADJ	
+('mi_mi_PRON', 'fa_fare_VERB')	57	mi fa	mi	fa	mi	fare	PRON	VERB	
+('andrò_andare_VERB', 'a_a_ADP')	56	a	andrò	a	andare	a	VERB	ADP	
+('mi_mi_PRON', 'sto_essere_AUX')	56	mi sto	mi	sto	mi	essere	PRON	AUX	
+('andiamo_andare_VERB', 'a_a_ADP')	56	a	andiamo	a	andare	a	VERB	ADP	
+('è_essere_AUX', 'diventato_diventare_VERB')	56	è diventato	è	diventato	essere	diventare	AUX	VERB	
+('avete_avere_VERB', 'un_uno_DET')	56	avete un	avete	un	avere	uno	VERB	DET	
+('a_a_ADP', 'studiare_studiare_VERB')	56	ato a studiare	a	studiare	a	studiare	ADP	VERB	
+('non_non_ADV', 'sembra_sembrare_VERB')	56	non sembra	non	sembra	non	sembrare	ADV	VERB	
+('avete_avere_AUX', 'fatto_fare_VERB')	56	avete fatto	avete	fatto	avere	fare	AUX	VERB	
+('la_il_DET', 'città_città_NOUN')	56	la città	la	città	il	città	DET	NOUN	
+('lei_lei_PRON', 'piace_piacere_VERB')	56	lei piace	lei	piace	lei	piacere	PRON	VERB	
+('vado_andare_VERB', 'a_a_ADP')	56	va	vado	a	andare	a	VERB	ADP	
+('smettere_smettere_VERB', 'di_di_ADP')	56	smettere di	smettere	di	smettere	di	VERB	ADP	
+('pensa_pensare_VERB', 'di_di_ADP')	56	pensa di	pensa	di	pensare	di	VERB	ADP	
+('che_che_PRON', 'ho_avere_AUX')	56	che ho	che	ho	che	avere	PRON	AUX	
+('dove_dove_ADV', 'sono_essere_AUX')	56	dove sono	dove	sono	dove	essere	ADV	AUX	
+('il_il_DET', 'piano_piano_NOUN')	55	il piano	il	piano	il	piano	DET	NOUN	
+('un_uno_DET', 'bicchiere_bicchiere_NOUN')	55	un bicchiere	un	bicchiere	uno	bicchiere	DET	NOUN	
+('a_a_ADP', 'leggere_leggere_VERB')	55	ato a leggere	a	leggere	a	leggere	ADP	VERB	
+('non_non_ADV', 'hai_avere_VERB')	55	non hai	non	hai	non	avere	ADV	VERB	

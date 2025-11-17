@@ -1,0 +1,101 @@
+gram3_key	count	substr	term_1	term_2	term_3	lemma_1	lemma_2	lemma_3	pos_1	pos_2	pos_3	translation_en
+('hai_avere_AUX', 'mai_mai_ADV', 'mangiato_mangiare_VERB')	9	hai mai mangiato	hai	mai	mangiato	avere	mai	mangiare	AUX	ADV	VERB	
+('quello_quello_PRON', 'che_che_PRON', 'sto_essere_AUX')	9	quello che sto	quello	che	sto	quello	che	essere	PRON	PRON	AUX	
+('sono_essere_AUX', 'innamorata_innamorare_VERB', 'di_di_ADP')	9	sono innamorata di	sono	innamorata	di	essere	innamorare	di	AUX	VERB	ADP	
+('carne_carne_NOUN', 'di_di_ADP', 'maiale_maiale_NOUN')	9	carne di maiale	carne	di	maiale	carne	di	maiale	NOUN	ADP	NOUN	
+"(""l'_il_DET"", 'altro_altro_ADJ', 'giorno_giorno_NOUN')"	9	l'altro giorno	l'	altro	giorno	il	altro	giorno	DET	ADJ	NOUN	
+('gli_gli_PRON', 'ha_avere_AUX', 'dato_dare_VERB')	9	gli ha dato	gli	ha	dato	gli	avere	dare	PRON	AUX	VERB	
+('non_non_ADV', 'si_si_PRON', 'fida_fidare_VERB')	9	non si fida	non	si	fida	non	si	fidare	ADV	PRON	VERB	
+('adesso_adesso_ADV', 'è_essere_AUX', 'in_in_ADP')	9	adesso è in	adesso	è	in	adesso	essere	in	ADV	AUX	ADP	
+('lui_lui_PRON', 'è_essere_AUX', 'molto_molto_ADV')	9	lui è molto	lui	è	molto	lui	essere	molto	PRON	AUX	ADV	
+('chiudere_chiudere_VERB', 'la_il_DET', 'porta_porta_NOUN')	9	chiudere la porta	chiudere	la	porta	chiudere	il	porta	VERB	DET	NOUN	
+('accordo_accordo_NOUN', 'con_con_ADP', 'lui_lui_PRON')	9	accordo con lui	accordo	con	lui	accordo	con	lui	NOUN	ADP	PRON	
+('se_se_PRON', 'ne_ne_PRON', 'vada_andare_VERB')	9	se ne vada	se	ne	vada	se	ne	andare	PRON	PRON	VERB	
+('più_più_ADV', 'forte_forte_ADJ', 'di_di_ADP')	9	più forte di	più	forte	di	più	forte	di	ADV	ADJ	ADP	
+('siete_essere_AUX', 'andate_andare_VERB', 'a_a_ADP')	9	siete a	siete	andate	a	essere	andare	a	AUX	VERB	ADP	
+('che_che_DET', 'colore_colore_NOUN', 'è_essere_AUX')	9	che colore è	che	colore	è	che	colore	essere	DET	NOUN	AUX	
+('dei_di_ADP', 'libri_libro_NOUN', 'in_in_ADP')	9	dei libri in	dei	libri	in	di	libro	in	ADP	NOUN	ADP	
+('mi_mi_PRON', 'sono_essere_AUX', 'mai_mai_ADV')	9	mi sono mai	mi	sono	mai	mi	essere	mai	PRON	AUX	ADV	
+('è_essere_AUX', 'innamorata_innamorare_VERB', 'di_di_ADP')	9	è innamorata di	è	innamorata	di	essere	innamorare	di	AUX	VERB	ADP	
+('che_che_SCONJ', 'lo_lo_PRON', 'faccia_fare_VERB')	9	che lo faccia	che	lo	faccia	che	lo	fare	SCONJ	PRON	VERB	
+('il_il_DET', 'tuo_tuo_DET', 'piano_piano_NOUN')	9	il tuo piano	il	tuo	piano	il	tuo	piano	DET	DET	NOUN	
+('uno_uno_PRON', 'di_di_ADP', 'noi_noi_PRON')	9	uno di noi	uno	di	noi	uno	di	noi	PRON	ADP	PRON	
+('grado_grado_NOUN', 'di_di_ADP', 'aiutare_aiutare_VERB')	9	grado di aiutare	grado	di	aiutare	grado	di	aiutare	NOUN	ADP	VERB	
+('non_non_ADV', 'parlare_parlare_VERB', 'con_con_ADP')	8	non parlare con	non	parlare	con	non	parlare	con	ADV	VERB	ADP	
+"(""l'_lo_PRON"", 'ha_avere_AUX', 'già_già_ADV')"	8	l'ha già	l'	ha	già	lo	avere	già	PRON	AUX	ADV	
+('è_essere_AUX', 'un_uno_DET', 'crimine_crimine_NOUN')	8	è un crimine	è	un	crimine	essere	uno	crimine	AUX	DET	NOUN	
+('non_non_ADV', 'la_la_PRON', 'posso_potere_AUX')	8	non la posso	non	la	posso	non	la	potere	ADV	PRON	AUX	
+('non_non_ADV', 'sa_sapere_VERB', 'nuotare_nuotare_VERB')	8	non sa nuotare	non	sa	nuotare	non	sapere	nuotare	ADV	VERB	VERB	
+('è_essere_AUX', 'molto_molto_ADV', 'divertente_divertente_ADJ')	8	è molto divertente	è	molto	divertente	essere	molto	divertente	AUX	ADV	ADJ	
+('le_le_PRON', 'dissi_dire_VERB', 'di_di_ADP')	8	le di	le	dissi	di	le	dire	di	PRON	VERB	ADP	
+"('è_essere_AUX', ""un'_uno_DET"", 'amica_amico_NOUN')"	8	è un'amica	è	un'	amica	essere	uno	amico	AUX	DET	NOUN	
+('fatto_fare_VERB', 'questo_questo_PRON', 'per_per_ADP')	8	fatto questo per	fatto	questo	per	fare	questo	per	VERB	PRON	ADP	
+"('di_di_ADP', ""un'_uno_DET"", 'ora_ora_NOUN')"	8	di un'ora	di	un'	ora	di	uno	ora	ADP	DET	NOUN	
+('di_di_ADP', 'accettare_accettare_VERB', 'il_il_DET')	8	di accettare il	di	accettare	il	di	accettare	il	ADP	VERB	DET	
+('da_da_ADP', 'che_che_DET', 'parte_parte_NOUN')	8	da che parte	da	che	parte	da	che	parte	ADP	DET	NOUN	
+('orgogliosa_orgoglioso_ADJ', 'di_di_ADP', 'lei_lei_PRON')	8	orgogliosa di lei	orgogliosa	di	lei	orgoglioso	di	lei	ADJ	ADP	PRON	
+('di_di_ADP', 'chiunque_chiunque_PRON', 'altro_altro_PRON')	8	di chiunque altro	di	chiunque	altro	di	chiunque	altro	ADP	PRON	PRON	
+('fidare_fidare_VERB', 'di_di_ADP', 'lui_lui_PRON')	8	fidare di lui	fidare	di	lui	fidare	di	lui	VERB	ADP	PRON	
+('che_che_SCONJ', 'mi_mi_PRON', 'dispiace_dispiacere_VERB')	8	che mi dispiace	che	mi	dispiace	che	mi	dispiacere	SCONJ	PRON	VERB	
+('interessata_interessato_ADJ', 'alla_a_ADP', 'politica_politica_NOUN')	8	interessata alla politica	interessata	alla	politica	interessato	a	politica	ADJ	ADP	NOUN	
+('è_essere_AUX', 'un_uno_DET', 'esperto_esperto_NOUN')	8	è un esperto	è	un	esperto	essere	uno	esperto	AUX	DET	NOUN	
+('letto_leggere_VERB', 'la_il_DET', 'lettera_lettera_NOUN')	8	letto la lettera	letto	la	lettera	leggere	il	lettera	VERB	DET	NOUN	
+('un_uno_DET', 'grande_grande_ADJ', 'problema_problema_NOUN')	8	un grande problema	un	grande	problema	uno	grande	problema	DET	ADJ	NOUN	
+"('non_non_ADV', 'vedo_vedere_VERB', ""l'_il_DET"")"	8	non vedo l'	non	vedo	l'	non	vedere	il	ADV	VERB	DET	
+('il_il_DET', 'mio_mio_DET', 'primo_primo_ADJ')	8	il mio primo	il	mio	primo	il	mio	primo	DET	DET	ADJ	
+('con_con_ADP', 'gli_il_DET', 'altri_altro_PRON')	8	con gli altri	con	gli	altri	con	il	altro	ADP	DET	PRON	
+('mi_mi_PRON', 'aspetto_aspettare_VERB', 'che_che_SCONJ')	8	mi aspetto che	mi	aspetto	che	mi	aspettare	che	PRON	VERB	SCONJ	
+"('sarà_essere_AUX', ""d'_di_ADP"", 'accordo_accordo_NOUN')"	8	sarà d'accordo	sarà	d'	accordo	essere	di	accordo	AUX	ADP	NOUN	
+('è_essere_AUX', 'molto_molto_ADV', 'bravo_bravo_ADJ')	8	è molto bravo	è	molto	bravo	essere	molto	bravo	AUX	ADV	ADJ	
+('ho_avere_VERB', 'ancora_ancora_ADV', 'un_uno_DET')	8	ho ancora un	ho	ancora	un	avere	ancora	uno	VERB	ADV	DET	
+('il_il_DET', 'problema_problema_NOUN', 'con_con_ADP')	8	il problema con	il	problema	con	il	problema	con	DET	NOUN	ADP	
+('vuole_volere_AUX', 'essere_essere_AUX', 'un_uno_DET')	8	vuole essere un	vuole	essere	un	volere	essere	uno	AUX	AUX	DET	
+('se_se_SCONJ', 'non_non_ADV', 'lo_lo_PRON')	8	se non lo	se	non	lo	se	non	lo	SCONJ	ADV	PRON	
+('che_che_SCONJ', 'voi_voi_PRON', 'abbiate_avere_VERB')	8	che voi abbiate	che	voi	abbiate	che	voi	avere	SCONJ	PRON	VERB	
+('mi_mi_PRON', 'ha_avere_AUX', 'lasciato_lasciare_VERB')	8	mi ha lasciato	mi	ha	lasciato	mi	avere	lasciare	PRON	AUX	VERB	
+"('vedo_vedere_VERB', ""l'_il_DET"", 'ora_ora_NOUN')"	8	vedo l'ora	vedo	l'	ora	vedere	il	ora	VERB	DET	NOUN	
+"(""l'_lo_PRON"", 'ho_avere_AUX', 'incontrata_incontrare_VERB')"	8	l'ho incontrata	l'	ho	incontrata	lo	avere	incontrare	PRON	AUX	VERB	
+('per_per_ADP', 'il_il_DET', 'vostro_vostro_DET')	8	per il vostro	per	il	vostro	per	il	vostro	ADP	DET	DET	
+('so_sapere_VERB', 'che_che_SCONJ', 'mi_mi_PRON')	8	so che mi	so	che	mi	sapere	che	mi	VERB	SCONJ	PRON	
+('è_essere_AUX', 'offerto_offrire_VERB', 'di_di_ADP')	8	è offerto di	è	offerto	di	essere	offrire	di	AUX	VERB	ADP	
+('lei_lei_PRON', 'è_essere_AUX', 'troppo_troppo_ADV')	8	lei è troppo	lei	è	troppo	lei	essere	troppo	PRON	AUX	ADV	
+('sarà_essere_AUX', 'in_in_ADP', 'ritardo_ritardo_NOUN')	8	sarà in ritardo	sarà	in	ritardo	essere	in	ritardo	AUX	ADP	NOUN	
+('perché_perché_PRON', 'non_non_ADV', 'possiamo_potere_AUX')	8	perché non possiamo	perché	non	possiamo	perché	non	potere	PRON	ADV	AUX	
+('il_il_DET', 'tuo_tuo_DET', 'lavoro_lavoro_NOUN')	8	il tuo lavoro	il	tuo	lavoro	il	tuo	lavoro	DET	DET	NOUN	
+"(""l'_il_DET"", 'unica_unico_ADJ', 'persona_persona_NOUN')"	8	l'unica persona	l'	unica	persona	il	unico	persona	DET	ADJ	NOUN	
+('ogni_ogni_DET', 'volta_volta_NOUN', 'che_che_SCONJ')	8	ogni volta che	ogni	volta	che	ogni	volta	che	DET	NOUN	SCONJ	
+('disse_dire_VERB', 'di_di_ADP', 'non_non_ADV')	8	disse di non	disse	di	non	dire	di	non	VERB	ADP	ADV	
+('vuole_volere_AUX', 'andare_andare_VERB', 'in_in_ADP')	8	vuole andare in	vuole	andare	in	volere	andare	in	AUX	VERB	ADP	
+('la_il_DET', 'mia_mio_DET', 'chitarra_chitarra_NOUN')	8	la mia chitarra	la	mia	chitarra	il	mio	chitarra	DET	DET	NOUN	
+"('superare_superare_VERB', ""l'_il_DET"", 'esame_esame_NOUN')"	8	superare l'esame	superare	l'	esame	superare	il	esame	VERB	DET	NOUN	
+('la_la_PRON', 'riesco_riuscire_VERB', 'a_a_ADP')	8	la	la	riesco	a	la	riuscire	a	PRON	VERB	ADP	
+('sono_essere_AUX', 'venuto_venire_VERB', 'per_per_ADP')	8	sono venuto per	sono	venuto	per	essere	venire	per	AUX	VERB	ADP	
+('arrivare_arrivare_VERB', 'a_a_ADP', 'casa_casa_NOUN')	8	arrivare a casa	arrivare	a	casa	arrivare	a	casa	VERB	ADP	NOUN	
+('sta_stare_AUX', 'andando_andare_VERB', 'in_in_ADP')	8	sta andando in	sta	andando	in	stare	andare	in	AUX	VERB	ADP	
+('venuto_venire_VERB', 'a_a_ADP', 'casa_casa_NOUN')	8	venuto a casa	venuto	a	casa	venire	a	casa	VERB	ADP	NOUN	
+('punto_punto_NOUN', 'di_di_ADP', 'vista_vista_NOUN')	8	punto di vista	punto	di	vista	punto	di	vista	NOUN	ADP	NOUN	
+('dei_di_ADP', 'piani_piano_NOUN', 'per_per_ADP')	8	dei piani per	dei	piani	per	di	piano	per	ADP	NOUN	ADP	
+('spero_sperare_VERB', 'che_che_SCONJ', 'voi_voi_PRON')	8	spero che voi	spero	che	voi	sperare	che	voi	VERB	SCONJ	PRON	
+('è_essere_AUX', 'il_il_DET', 'prossimo_prossimo_ADJ')	8	è il prossimo	è	il	prossimo	essere	il	prossimo	AUX	DET	ADJ	
+('la_il_DET', 'cena_cena_NOUN', 'per_per_ADP')	8	la cena per	la	cena	per	il	cena	per	DET	NOUN	ADP	
+('non_non_ADV', 'ci_ci_PRON', 'sia_essere_VERB')	8	non ci sia	non	ci	sia	non	ci	essere	ADV	PRON	VERB	
+('un_uno_DET', 'vestito_vestito_NOUN', 'bianco_bianco_ADJ')	8	un vestito bianco	un	vestito	bianco	uno	vestito	bianco	DET	NOUN	ADJ	
+('è_essere_AUX', 'un_uno_DET', 'vecchio_vecchio_ADJ')	8	è un vecchio	è	un	vecchio	essere	uno	vecchio	AUX	DET	ADJ	
+('devo_dovere_AUX', 'comprare_comprare_VERB', 'un_uno_DET')	8	devo comprare un	devo	comprare	un	dovere	comprare	uno	AUX	VERB	DET	
+('di_di_ADP', 'mio_mio_DET', 'padre_padre_NOUN')	8	di mio padre	di	mio	padre	di	mio	padre	ADP	DET	NOUN	
+('ha_avere_AUX', 'mostrato_mostrare_VERB', 'la_il_DET')	8	ha mostrato la	ha	mostrato	la	avere	mostrare	il	AUX	VERB	DET	
+('è_essere_AUX', 'un_uno_DET', 'bugiardo_bugiardo_NOUN')	8	è un bugiardo	è	un	bugiardo	essere	uno	bugiardo	AUX	DET	NOUN	
+('io_io_PRON', 'sto_essere_AUX', 'cercando_cercare_VERB')	8	io sto cercando	io	sto	cercando	io	essere	cercare	PRON	AUX	VERB	
+"('loro_loro_PRON', 'un_uno_DET', ""po'_poco_PRON"")"	8	loro un po'	loro	un	po'	loro	uno	poco	PRON	DET	PRON	
+('non_non_ADV', 'può_potere_AUX', 'venire_venire_VERB')	8	non può venire	non	può	venire	non	potere	venire	ADV	AUX	VERB	
+"('io_io_PRON', 'amo_amare_VERB', ""l'_il_DET"")"	8	io amo l'	io	amo	l'	io	amare	il	PRON	VERB	DET	
+('le_il_DET', 'scarpe_scarpa_NOUN', 'di_di_ADP')	8	le scarpe di	le	scarpe	di	il	scarpa	di	DET	NOUN	ADP	
+('il_il_DET', 'tuo_tuo_DET', 'telefono_telefono_NOUN')	8	il tuo telefono	il	tuo	telefono	il	tuo	telefono	DET	DET	NOUN	
+('quanti_quanto_DET', 'anni_anno_NOUN', 'hanno_avere_VERB')	8	quanti anni hanno	quanti	anni	hanno	quanto	anno	avere	DET	NOUN	VERB	
+('ha_avere_AUX', 'trovato_trovare_VERB', 'un_uno_DET')	8	ha trovato un	ha	trovato	un	avere	trovare	uno	AUX	VERB	DET	
+('cucinato_cucinare_VERB', 'la_il_DET', 'cena_cena_NOUN')	8	cucinato la cena	cucinato	la	cena	cucinare	il	cena	VERB	DET	NOUN	
+('di_di_ADP', 'andare_andare_VERB', 'con_con_ADP')	8	di andare con	di	andare	con	di	andare	con	ADP	VERB	ADP	
+"(""po'_poco_PRON"", 'di_di_ADP', 'birra_birra_NOUN')"	8	po' di birra	po'	di	birra	poco	di	birra	PRON	ADP	NOUN	
+('il_il_DET', 'più_più_ADV', 'alto_alto_ADJ')	8	il più alto	il	più	alto	il	più	alto	DET	ADV	ADJ	
+('che_che_SCONJ', 'stava_stare_VERB', 'per_per_ADP')	8	che stava per	che	stava	per	che	stare	per	SCONJ	VERB	ADP	
+('in_in_ADP', 'quel_quello_DET', 'negozio_negozio_NOUN')	8	in quel negozio	in	quel	negozio	in	quello	negozio	ADP	DET	NOUN	

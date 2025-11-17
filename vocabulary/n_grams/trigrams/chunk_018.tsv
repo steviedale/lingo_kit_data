@@ -1,0 +1,101 @@
+gram3_key	count	substr	term_1	term_2	term_3	lemma_1	lemma_2	lemma_3	pos_1	pos_2	pos_3	translation_en
+('cose_cosa_NOUN', 'da_da_ADP', 'fare_fare_VERB')	10	cose da fare	cose	da	fare	cosa	da	fare	NOUN	ADP	VERB	
+('ha_avere_AUX', 'ammesso_ammettere_VERB', 'di_di_ADP')	10	ha ammesso di	ha	ammesso	di	avere	ammettere	di	AUX	VERB	ADP	
+('non_non_ADV', 'credo_credere_VERB', 'che_che_SCONJ')	10	non credo che	non	credo	che	non	credere	che	ADV	VERB	SCONJ	
+"(""po'_poco_PRON"", 'di_di_ADP', 'sale_sale_NOUN')"	10	po' di sale	po'	di	sale	poco	di	sale	PRON	ADP	NOUN	
+('il_il_DET', 'cibo_cibo_NOUN', 'cinese_cinese_ADJ')	10	il cibo cinese	il	cibo	cinese	il	cibo	cinese	DET	NOUN	ADJ	
+('la_il_DET', 'carne_carne_NOUN', 'di_di_ADP')	10	la carne di	la	carne	di	il	carne	di	DET	NOUN	ADP	
+('del_di_ADP', 'suo_suo_DET', 'lavoro_lavoro_NOUN')	10	del suo lavoro	del	suo	lavoro	di	suo	lavoro	ADP	DET	NOUN	
+('da_da_ADP', 'solo_solo_ADV', 'con_con_ADP')	10	da solo con	da	solo	con	da	solo	con	ADP	ADV	ADP	
+"('è_essere_AUX', 'andato_andare_VERB', ""all'_a_ADP"")"	10	è andato all'	è	andato	all'	essere	andare	a	AUX	VERB	ADP	
+('dei_di_ADP', 'sentimenti_sentimento_NOUN', 'per_per_ADP')	10	dei sentimenti per	dei	sentimenti	per	di	sentimento	per	ADP	NOUN	ADP	
+('ha_avere_AUX', 'messo_mettere_VERB', 'il_il_DET')	10	ha messo il	ha	messo	il	avere	mettere	il	AUX	VERB	DET	
+('è_essere_AUX', 'al_a_ADP', 'sicuro_sicuro_ADJ')	10	è al sicuro	è	al	sicuro	essere	a	sicuro	AUX	ADP	ADJ	
+('andare_andare_VERB', 'a_a_ADP', 'pescare_pescare_VERB')	10	andare a pescare	andare	a	pescare	andare	a	pescare	VERB	ADP	VERB	
+('perso_perdere_VERB', 'il_il_DET', 'mio_mio_DET')	10	perso il mio	perso	il	mio	perdere	il	mio	VERB	DET	DET	
+('penso_pensare_VERB', 'di_di_ADP', 'aver_avere_AUX')	10	penso di aver	penso	di	aver	pensare	di	avere	VERB	ADP	AUX	
+('non_non_ADV', 'ho_avere_VERB', 'nulla_nu_ADV')	10	non ho nulla	non	ho	nulla	non	avere	nu	ADV	VERB	ADV	
+('qual_lo_PRON', 'è_essere_AUX', 'la_il_DET')	10	qual è la	qual	è	la	lo	essere	il	PRON	AUX	DET	
+('il_il_DET', 'tuo_tuo_DET', 'cane_cane_NOUN')	10	il tuo cane	il	tuo	cane	il	tuo	cane	DET	DET	NOUN	
+('più_più_ADV', 'vecchia_vecchio_ADJ', 'di_di_ADP')	10	più vecchia di	più	vecchia	di	più	vecchio	di	ADV	ADJ	ADP	
+('siete_essere_AUX', 'andati_andare_VERB', 'a_a_ADP')	10	siete a	siete	andati	a	essere	andare	a	AUX	VERB	ADP	
+"(""l'_il_DET"", 'esperanto_esperanto_NOUN', 'è_essere_AUX')"	10	l'esperanto è	l'	esperanto	è	il	esperanto	essere	DET	NOUN	AUX	
+('che_che_SCONJ', 'il_il_DET', 'mio_mio_DET')	10	che il mio	che	il	mio	che	il	mio	SCONJ	DET	DET	
+('niente_niente_PRON', 'di_di_ADP', 'sbagliato_sbagliato_ADJ')	10	niente di sbagliato	niente	di	sbagliato	niente	di	sbagliato	PRON	ADP	ADJ	
+"(""cos'_cosa_PRON"", 'è_essere_VERB', 'che_che_SCONJ')"	10	cos'è che	cos'	è	che	cosa	essere	che	PRON	VERB	SCONJ	
+('ha_avere_VERB', 'un_uno_DET', 'fratello_fratello_NOUN')	10	ha un fratello	ha	un	fratello	avere	uno	fratello	VERB	DET	NOUN	
+('gioco_gioco_NOUN', 'a_a_ADP', 'tennis_tennis_NOUN')	10	gioco a tennis	gioco	a	tennis	gioco	a	tennis	NOUN	ADP	NOUN	
+('parlare_parlare_VERB', 'con_con_ADP', 'noi_noi_PRON')	10	parlare con noi	parlare	con	noi	parlare	con	noi	VERB	ADP	PRON	
+"(""cos'_cos'_PRON"", 'hai_avere_AUX', 'fatto_fare_VERB')"	10	cos'hai fatto	cos'	hai	fatto	cos'	avere	fare	PRON	AUX	VERB	
+('che_che_SCONJ', 'era_essere_AUX', 'un_uno_DET')	10	che era un	che	era	un	che	essere	uno	SCONJ	AUX	DET	
+('sia_essere_AUX', 'una_uno_DET', 'buona_buono_ADJ')	10	sia una buona	sia	una	buona	essere	uno	buono	AUX	DET	ADJ	
+('non_non_ADV', 'aveva_avere_VERB', 'bisogno_bisogno_NOUN')	10	non aveva bisogno	non	aveva	bisogno	non	avere	bisogno	ADV	VERB	NOUN	
+('prendere_prendere_VERB', 'qualcosa_qualcosa_PRON', 'da_da_ADP')	10		prendere	qualcosa	da	prendere	qualcosa	da	VERB	PRON	ADP	
+('bisogno_bisogno_NOUN', 'del_di_ADP', 'vostro_vostro_DET')	10	bisogno del vostro	bisogno	del	vostro	bisogno	di	vostro	NOUN	ADP	DET	
+"('sai_sapere_VERB', ""cos'_cos'_PRON"", 'è_essere_AUX')"	10	sai cos'è	sai	cos'	è	sapere	cos'	essere	VERB	PRON	AUX	
+('a_a_ADP', 'capire_capire_VERB', 'il_il_DET')	10	a capire il	a	capire	il	a	capire	il	ADP	VERB	DET	
+('ha_avere_AUX', 'provato_provare_VERB', 'ad_a_ADP')	10	ha provato ad	ha	provato	ad	avere	provare	a	AUX	VERB	ADP	
+('mi_mi_PRON', 'dia_dare_VERB', 'la_il_DET')	10	mi dia la	mi	dia	la	mi	dare	il	PRON	VERB	DET	
+('con_con_ADP', 'il_il_DET', 'loro_loro_DET')	10	con il loro	con	il	loro	con	il	loro	ADP	DET	DET	
+"('perché_perché_ADV', ""l'_lo_PRON"", 'hai_avere_AUX')"	10	perché l'hai	perché	l'	hai	perché	lo	avere	ADV	PRON	AUX	
+('per_per_ADP', 'un_uno_DET', 'minuto_minuto_NOUN')	10	per un minuto	per	un	minuto	per	uno	minuto	ADP	DET	NOUN	
+"('sa_sapere_VERB', ""cos'_cos'_PRON"", 'è_essere_AUX')"	10	sa cos'è	sa	cos'	è	sapere	cos'	essere	VERB	PRON	AUX	
+('a_a_ADP', 'me_me_PRON', 'serve_servire_VERB')	10	a me serve	a	me	serve	a	me	servire	ADP	PRON	VERB	
+('che_che_SCONJ', 'lei_lei_PRON', 'mi_mi_PRON')	10	che lei mi	che	lei	mi	che	lei	mi	SCONJ	PRON	PRON	
+('puoi_potere_AUX', 'usare_usare_VERB', 'la_il_DET')	10	puoi usare la	puoi	usare	la	potere	usare	il	AUX	VERB	DET	
+('è_essere_AUX', 'arrivato_arrivare_VERB', 'a_a_ADP')	10	è a	è	arrivato	a	essere	arrivare	a	AUX	VERB	ADP	
+('di_di_ADP', 'vendere_vendere_VERB', 'la_il_DET')	10	di vendere la	di	vendere	la	di	vendere	il	ADP	VERB	DET	
+('ad_a_ADP', 'andare_andare_VERB', 'con_con_ADP')	10	ad andare con	ad	andare	con	a	andare	con	ADP	VERB	ADP	
+('voi_voi_PRON', 'avete_avere_VERB', 'una_uno_DET')	10	voi avete una	voi	avete	una	voi	avere	uno	PRON	VERB	DET	
+('lasciato_lasciare_VERB', 'il_il_DET', 'suo_suo_DET')	10	lasciato il suo	lasciato	il	suo	lasciare	il	suo	VERB	DET	DET	
+('un_uno_DET', 'sito_sito_NOUN', 'web_web_NOUN')	10	un sito web	un	sito	web	uno	sito	web	DET	NOUN	NOUN	
+('disse_dire_VERB', 'che_che_SCONJ', 'stava_stare_AUX')	10	disse che stava	disse	che	stava	dire	che	stare	VERB	SCONJ	AUX	
+('lo_lo_PRON', 'ha_avere_AUX', 'fatto_fare_VERB')	10	lo ha fatto	lo	ha	fatto	lo	avere	fare	PRON	AUX	VERB	
+('di_di_ADP', 'comprare_comprare_VERB', 'un_uno_DET')	10	di comprare un	di	comprare	un	di	comprare	uno	ADP	VERB	DET	
+('a_a_ADP', 'credere_credere_VERB', 'che_che_SCONJ')	10	a credere che	a	credere	che	a	credere	che	ADP	VERB	SCONJ	
+"('sentiva_sentire_VERB', 'un_uno_DET', ""po'_poco_ADV"")"	10	sentiva un po'	sentiva	un	po'	sentire	uno	poco	VERB	DET	ADV	
+"('voi_voi_PRON', ""l'_lo_PRON"", 'avete_avere_AUX')"	9	voi l'avete	voi	l'	avete	voi	lo	avere	PRON	PRON	AUX	
+('è_essere_AUX', 'ancora_ancora_ADV', 'lì_lì_ADV')	9	è ancora lì	è	ancora	lì	essere	ancora	lì	AUX	ADV	ADV	
+('il_il_DET', 'suo_suo_DET', 'portatile_portatile_NOUN')	9	il suo portatile	il	suo	portatile	il	suo	portatile	DET	DET	NOUN	
+('in_in_ADP', 'quel_quello_DET', 'momento_momento_NOUN')	9	in quel momento	in	quel	momento	in	quello	momento	ADP	DET	NOUN	
+('proprio_proprio_ADV', 'dietro_dietro_ADV', 'di_di_ADP')	9	proprio di	proprio	dietro	di	proprio	dietro	di	ADV	ADV	ADP	
+('piace_piacere_VERB', 'la_il_DET', 'birra_birra_NOUN')	9	piace la birra	piace	la	birra	piacere	il	birra	VERB	DET	NOUN	
+('si_si_PRON', 'è_essere_AUX', 'sposato_sposare_VERB')	9	si è sposato	si	è	sposato	si	essere	sposare	PRON	AUX	VERB	
+('la_il_DET', 'sua_suo_DET', 'parola_parola_NOUN')	9	la sua parola	la	sua	parola	il	suo	parola	DET	DET	NOUN	
+('si_si_PRON', 'stava_stare_AUX', 'sentendo_sentire_VERB')	9	si stava sentendo	si	stava	sentendo	si	stare	sentire	PRON	AUX	VERB	
+('lavorare_lavorare_VERB', 'con_con_ADP', 'lei_lei_PRON')	9	lavorare con lei	lavorare	con	lei	lavorare	con	lei	VERB	ADP	PRON	
+('troppo_troppo_ADV', 'vecchia_vecchio_ADJ', 'per_per_ADP')	9	troppo vecchia per	troppo	vecchia	per	troppo	vecchio	per	ADV	ADJ	ADP	
+('penso_pensare_VERB', 'che_che_SCONJ', 'i_il_DET')	9	penso che i	penso	che	i	pensare	che	il	VERB	SCONJ	DET	
+('nella_in_ADP', 'mia_mio_DET', 'camera_camera_NOUN')	9	nella mia camera	nella	mia	camera	in	mio	camera	ADP	DET	NOUN	
+('ha_avere_AUX', 'chiamato_chiamare_VERB', 'il_il_DET')	9	ha chiamato il	ha	chiamato	il	avere	chiamare	il	AUX	VERB	DET	
+('di_di_ADP', 'prendere_prendere_VERB', 'un_uno_DET')	9	di prendere un	di	prendere	un	di	prendere	uno	ADP	VERB	DET	
+('le_le_PRON', 'dirò_dire_VERB', 'che_che_SCONJ')	9	le dirò che	le	dirò	che	le	dire	che	PRON	VERB	SCONJ	
+('detto_dire_VERB', 'che_che_SCONJ', 'eri_essere_AUX')	9	detto che eri	detto	che	eri	dire	che	essere	VERB	SCONJ	AUX	
+('perché_perché_PRON', 'non_non_ADV', 'andiamo_andare_VERB')	9	perché non andiamo	perché	non	andiamo	perché	non	andare	PRON	ADV	VERB	
+('farlo_fare_VERB', 'da_da_ADP', 'solo_solo_ADJ')	9	farlo da solo	farlo	da	solo	fare	da	solo	VERB	ADP	ADJ	
+('non_non_ADV', 'sa_sapere_VERB', 'che_che_SCONJ')	9	non sa che	non	sa	che	non	sapere	che	ADV	VERB	SCONJ	
+('piace_piacere_VERB', 'il_il_DET', 'tuo_tuo_DET')	9	piace il tuo	piace	il	tuo	piacere	il	tuo	VERB	DET	DET	
+"(""po'_poco_PRON"", 'di_di_ADP', 'privacy_privacy_NOUN')"	9	po' di privacy	po'	di	privacy	poco	di	privacy	PRON	ADP	NOUN	
+('dica_dire_VERB', 'loro_loro_PRON', 'che_che_SCONJ')	9	dica loro che	dica	loro	che	dire	loro	che	VERB	PRON	SCONJ	
+('che_che_PRON', 'avete_avere_AUX', 'detto_dire_VERB')	9	che avete detto	che	avete	detto	che	avere	dire	PRON	AUX	VERB	
+('si_si_PRON', 'è_essere_AUX', 'convertito_convertire_VERB')	9	si è convertito	si	è	convertito	si	essere	convertire	PRON	AUX	VERB	
+('è_essere_AUX', 'sotto_sotto_ADP', 'la_il_DET')	9	è sotto la	è	sotto	la	essere	sotto	il	AUX	ADP	DET	
+('che_che_SCONJ', 'gli_gli_PRON', 'piaceva_piacere_VERB')	9	che gli piaceva	che	gli	piaceva	che	gli	piacere	SCONJ	PRON	VERB	
+('che_che_DET', 'cosa_cosa_PRON', 'stai_stare_AUX')	9	che cosa stai	che	cosa	stai	che	cosa	stare	DET	PRON	AUX	
+('è_essere_AUX', 'una_uno_DET', 'grande_grande_ADJ')	9	è una grande	è	una	grande	essere	uno	grande	AUX	DET	ADJ	
+('la_il_DET', 'sua_suo_DET', 'rabbia_rabbia_NOUN')	9	lare la sua rabbia	la	sua	rabbia	il	suo	rabbia	DET	DET	NOUN	
+('non_non_ADV', 'sa_sapere_VERB', 'come_come_SCONJ')	9	non sa come	non	sa	come	non	sapere	come	ADV	VERB	SCONJ	
+('dirlo_dire_VERB', 'a_a_ADP', 'lei_lei_PRON')	9	dirlo a lei	dirlo	a	lei	dire	a	lei	VERB	ADP	PRON	
+('il_il_DET', 'mio_mio_DET', 'aiuto_aiuto_NOUN')	9	il mio aiuto	il	mio	aiuto	il	mio	aiuto	DET	DET	NOUN	
+('a_a_ADP', 'trovare_trovare_VERB', 'le_il_DET')	9	ata fortunata a trovare le	a	trovare	le	a	trovare	il	ADP	VERB	DET	
+('disse_dire_VERB', 'che_che_SCONJ', 'ci_ci_PRON')	9	disse che ci	disse	che	ci	dire	che	ci	VERB	SCONJ	PRON	
+('vi_vi_PRON', 'piace_piacere_VERB', 'la_il_DET')	9	vi piace la	vi	piace	la	vi	piacere	il	PRON	VERB	DET	
+('io_io_PRON', 'vorrei_volere_AUX', 'essere_essere_AUX')	9	io vorrei essere	io	vorrei	essere	io	volere	essere	PRON	AUX	AUX	
+('il_il_DET', 'mio_mio_DET', 'migliore_migliore_ADJ')	9	il mio migliore	il	mio	migliore	il	mio	migliore	DET	DET	ADJ	
+('pensate_pensare_VERB', 'che_che_SCONJ', 'io_io_PRON')	9	pensate che io	pensate	che	io	pensare	che	io	VERB	SCONJ	PRON	
+"(""c'_ci_PRON"", 'è_essere_VERB', 'la_il_DET')"	9	c'è la	c'	è	la	ci	essere	il	PRON	VERB	DET	
+('il_il_DET', 'cibo_cibo_NOUN', 'è_essere_AUX')	9	il cibo è	il	cibo	è	il	cibo	essere	DET	NOUN	AUX	
+"('avere_avere_VERB', 'un_uno_DET', ""po'_poco_PRON"")"	9	avere un po'	avere	un	po'	avere	uno	poco	VERB	DET	PRON	
+('paio_paio_NOUN', 'di_di_ADP', 'scarpe_scarpa_NOUN')	9	paio di scarpe	paio	di	scarpe	paio	di	scarpa	NOUN	ADP	NOUN	
+('troppo_troppo_ADV', 'in_in_ADP', 'ritardo_ritardo_NOUN')	9	troppo in ritardo	troppo	in	ritardo	troppo	in	ritardo	ADV	ADP	NOUN	
+('sono_essere_AUX', 'orgoglioso_orgoglioso_ADJ', 'di_di_ADP')	9	sono orgoglioso di	sono	orgoglioso	di	essere	orgoglioso	di	AUX	ADJ	ADP	
