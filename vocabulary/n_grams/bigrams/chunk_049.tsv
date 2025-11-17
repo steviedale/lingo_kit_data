@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('disse_dire_VERB', 'mai_mai_ADV')	10	disse mai	disse	mai	dire	mai	VERB	ADV	
-('prendere_prendere_VERB', 'le_il_DET')	10	prendere le	prendere	le	prendere	il	VERB	DET	
-('avrò_avere_VERB', 'bisogno_bisogno_NOUN')	10	avrò bisogno	avrò	bisogno	avere	bisogno	VERB	NOUN	
-('tuo_tuo_DET', 'piano_piano_NOUN')	10	tuo piano	tuo	piano	tuo	piano	DET	NOUN	
-('fu_essere_AUX', 'un_uno_DET')	10	fu un	fu	un	essere	uno	AUX	DET	
-('nave_nave_NOUN', 'è_essere_AUX')	10	nave è	nave	è	nave	essere	NOUN	AUX	
-('è_essere_AUX', 'trasferito_trasferire_VERB')	10	è trasferito	è	trasferito	essere	trasferire	AUX	VERB	
-('come_come_SCONJ', 'ti_ti_PRON')	10	come ti	come	ti	come	ti	SCONJ	PRON	
-('le_il_DET', 'amiche_amico_NOUN')	10	le amiche	le	amiche	il	amico	DET	NOUN	
-('piano_piano_NOUN', 'è_essere_AUX')	10	piano è	piano	è	piano	essere	NOUN	AUX	
-('ammesso_ammettere_VERB', 'di_di_ADP')	10	ammesso di	ammesso	di	ammettere	di	VERB	ADP	
-('può_potere_AUX', 'fidare_fidare_VERB')	10	può fidare	può	fidare	potere	fidare	AUX	VERB	
-('più_più_ADV', 'che_che_ADP')	10	più che	più	che	più	che	ADV	ADP	
-('suoi_suo_DET', 'libri_libro_NOUN')	10	suoi libri	suoi	libri	suo	libro	DET	NOUN	
-('il_il_DET', 'russo_russo_NOUN')	10	il russo	il	russo	il	russo	DET	NOUN	
-"('come_come_ADV', ""l'_lo_PRON"")"	10	come l'	come	l'	come	lo	ADV	PRON	
-('parte_parte_NOUN', 'vostra_vostro_DET')	10	parte vostra	parte	vostra	parte	vostro	NOUN	DET	
-('dovremmo_dovere_AUX', 'parlare_parlare_VERB')	10	dovremmo parlare	dovremmo	parlare	dovere	parlare	AUX	VERB	
-('noi_noi_PRON', 'andiamo_andare_VERB')	10	noi andiamo	noi	andiamo	noi	andare	PRON	VERB	
-('non_non_ADV', 'averlo_avere_AUX')	10	non averlo	non	averlo	non	avere	ADV	AUX	
-('stato_essere_AUX', 'occupato_occupare_VERB')	10	stato occupato	stato	occupato	essere	occupare	AUX	VERB	
-('un_uno_DET', 'amante_amante_NOUN')	10	un amante	un	amante	uno	amante	DET	NOUN	
-('per_per_ADP', 'qualcosa_qualcosa_PRON')	10	per qualcosa	per	qualcosa	per	qualcosa	ADP	PRON	
-('altro_altro_ADJ', 'giorno_giorno_NOUN')	10	altro giorno	altro	giorno	altro	giorno	ADJ	NOUN	
-('impegnata_impegnare_VERB', 'per_per_ADP')	10	impegnata per	impegnata	per	impegnare	per	VERB	ADP	
-"(""cos'_cosa_PRON"", 'è_essere_VERB')"	10	cos'è	cos'	è	cosa	essere	PRON	VERB	
-('dovrebbe_dovere_AUX', 'parlare_parlare_VERB')	10	dovrebbe parlare	dovrebbe	parlare	dovere	parlare	AUX	VERB	
-('ha_avere_AUX', 'tirato_tirare_VERB')	10	ha tirato	ha	tirato	avere	tirare	AUX	VERB	
-('male_male_ADV', 'la_il_DET')	10	male la	male	la	male	il	ADV	DET	
-('dallo_da_ADP', 'zoo_zoo_NOUN')	10	dallo zoo	dallo	zoo	da	zoo	ADP	NOUN	
-('un_uno_DET', 'gioco_gioco_NOUN')	10	un gioco	un	gioco	uno	gioco	DET	NOUN	
-('pensi_pensare_VERB', 'del_di_ADP')	10	pensi del	pensi	del	pensare	di	VERB	ADP	
-('ufficio_ufficio_NOUN', 'di_di_ADP')	10	ufficio di	ufficio	di	ufficio	di	NOUN	ADP	
-('lui_lui_PRON', 'ti_ti_PRON')	10	lui ti	lui	ti	lui	ti	PRON	PRON	
-"(""l'_il_DET"", 'offerta_offerta_NOUN')"	10	l'offerta	l'	offerta	il	offerta	DET	NOUN	
-('nascondendo_nascondere_VERB', 'da_da_ADP')	10	nascondendo da	nascondendo	da	nascondere	da	VERB	ADP	
-('appena_appena_ADV', 'fatto_fare_VERB')	10	appena fatto	appena	fatto	appena	fare	ADV	VERB	
-('sto_essere_AUX', 'dando_dare_VERB')	10	sto dando	sto	dando	essere	dare	AUX	VERB	
-('chi_chi_PRON', 'vuole_volere_AUX')	10	chi vuole	chi	vuole	chi	volere	PRON	AUX	
-('sono_essere_AUX', 'completamente_completamente_ADV')	10	sono completamente	sono	completamente	essere	completamente	AUX	ADV	
-('se_se_SCONJ', 'mi_mi_PRON')	10		se	mi	se	mi	SCONJ	PRON	
-('mai_mai_ADV', 'giocato_giocare_VERB')	10	mai giocato	mai	giocato	mai	giocare	ADV	VERB	
-('sua_suo_DET', 'parola_parola_NOUN')	10	sua parola	sua	parola	suo	parola	DET	NOUN	
-('fare_fare_VERB', 'colazione_colazione_NOUN')	10	fare colazione	fare	colazione	fare	colazione	VERB	NOUN	
-('forse_forse_ADV', 'dovrei_dovere_AUX')	10	forse dovrei	forse	dovrei	forse	dovere	ADV	AUX	
-('ascoltare_ascoltare_VERB', 'la_il_DET')	10	ascoltare la	ascoltare	la	ascoltare	il	VERB	DET	
-('visto_vedere_VERB', 'i_il_DET')	10	vi	visto	i	vedere	il	VERB	DET	
-('gli_gli_PRON', 'chiesi_chiedere_VERB')	10	gli chiesi	gli	chiesi	gli	chiedere	PRON	VERB	
-('pronti_pronto_ADJ', 'ad_a_ADP')	10	pronti ad	pronti	ad	pronto	a	ADJ	ADP	
-('mio_mio_DET', 'compleanno_compleanno_NOUN')	10	mio compleanno	mio	compleanno	mio	compleanno	DET	NOUN	
-('devo_dovere_AUX', 'dire_dire_VERB')	10	devo dire	devo	dire	dovere	dire	AUX	VERB	
-('quella_quello_DET', 'lettera_lettera_NOUN')	10	quella lettera	quella	lettera	quello	lettera	DET	NOUN	
-('ha_avere_AUX', 'guidato_guidare_VERB')	10	ha guidato	ha	guidato	avere	guidare	AUX	VERB	
-('ha_avere_VERB', 'molta_molto_DET')	10	ha molta	ha	molta	avere	molto	VERB	DET	
-('alcune_alcuno_DET', 'cose_cosa_NOUN')	10	alcune cose	alcune	cose	alcuno	cosa	DET	NOUN	
-('insegnando_insegnare_VERB', 'il_il_DET')	10	insegnando il	insegnando	il	insegnare	il	VERB	DET	
-('impegnato_impegnare_VERB', 'oggi_oggi_ADV')	10	impegnato oggi	impegnato	oggi	impegnare	oggi	VERB	ADV	
-('me_me_PRON', 'stessa_stesso_ADJ')	10	me stessa	me	stessa	me	stesso	PRON	ADJ	
-('un_uno_DET', 'peccato_peccato_NOUN')	10	un peccato	un	peccato	uno	peccato	DET	NOUN	
-('sta_stare_AUX', 'piovendo_piovere_VERB')	10	sta piovendo	sta	piovendo	stare	piovere	AUX	VERB	
-('hai_avere_AUX', 'conosciuto_conoscere_VERB')	10	hai conosciuto	hai	conosciuto	avere	conoscere	AUX	VERB	
-('molto_molto_ADV', 'bella_bello_ADJ')	10	molto bella	molto	bella	molto	bello	ADV	ADJ	
-('un_uno_DET', 'pony_pony_NOUN')	10	un pony	un	pony	uno	pony	DET	NOUN	
-('come_come_ADV', 'potete_potere_AUX')	10	come potete	come	potete	come	potere	ADV	AUX	
-('tuo_tuo_DET', 'libro_libro_NOUN')	10	tuo libro	tuo	libro	tuo	libro	DET	NOUN	
-('si_si_PRON', 'stavano_stare_AUX')	10	si stavano	si	stavano	si	stare	PRON	AUX	
-('ancora_ancora_ADV', 'più_più_ADV')	10	ancora più	ancora	più	ancora	più	ADV	ADV	
-('abbia_avere_VERB', 'un_uno_DET')	10	abbia un	abbia	un	avere	uno	VERB	DET	
-('nessuno_nessuno_PRON', 'ti_ti_PRON')	10	nessuno ti	nessuno	ti	nessuno	ti	PRON	PRON	
-('piace_piacere_VERB', 'vivere_vivere_VERB')	10	piace vivere	piace	vivere	piacere	vivere	VERB	VERB	
-('qui_qui_ADV', 'ieri_ieri_ADV')	10	qui ieri	qui	ieri	qui	ieri	ADV	ADV	
-('dovete_dovere_AUX', 'fare_fare_VERB')	10	dovete fare	dovete	fare	dovere	fare	AUX	VERB	
-('in_in_ADP', 'aereo_aereo_NOUN')	10	in aereo	in	aereo	in	aereo	ADP	NOUN	
-"(""all'_a_ADP"", 'età_età_NOUN')"	10	all'età	all'	età	a	età	ADP	NOUN	
-('io_io_PRON', 'vidi_vedere_VERB')	10	io vidi	io	vidi	io	vedere	PRON	VERB	
-('leggendo_leggere_VERB', 'il_il_DET')	10	leggendo il	leggendo	il	leggere	il	VERB	DET	
-('sapere_sapere_VERB', 'chi_chi_PRON')	10	sapere chi	sapere	chi	sapere	chi	VERB	PRON	
-('lo_lo_PRON', 'hanno_avere_AUX')	10	lo hanno	lo	hanno	lo	avere	PRON	AUX	
-('ha_avere_AUX', 'lavato_lavare_VERB')	10	ha lavato	ha	lavato	avere	lavare	AUX	VERB	
-('promise_promettere_VERB', 'di_di_ADP')	10	promise di	promise	di	promettere	di	VERB	ADP	
-('gli_il_DET', 'amici_amico_NOUN')	10	gli amici	gli	amici	il	amico	DET	NOUN	
-('ci_ci_PRON', 'dia_dare_VERB')	10	ci dia	ci	dia	ci	dare	PRON	VERB	
-('suo_suo_DET', 'cavallo_cavallo_NOUN')	10	suo cavallo	suo	cavallo	suo	cavallo	DET	NOUN	
-('scorsa_scorso_ADJ', 'estate_estate_NOUN')	10	scorsa estate	scorsa	estate	scorso	estate	ADJ	NOUN	
-('giù_giù_ADV', 'il_il_DET')	10	giù il	giù	il	giù	il	ADV	DET	
-('erano_essere_AUX', 'davvero_davvero_ADV')	10	erano davvero	erano	davvero	essere	davvero	AUX	ADV	
-('lo_lo_PRON', 'ama_amare_VERB')	10	lo ama	lo	ama	lo	amare	PRON	VERB	
-('ricordi_ricordare_VERB', 'di_di_ADP')	10	ricordi	ricordi	di	ricordare	di	VERB	ADP	
-('quanti_quanto_DET', 'soldi_soldo_NOUN')	10	quanti soldi	quanti	soldi	quanto	soldo	DET	NOUN	
-('loro_loro_PRON', 'il_il_DET')	10	loro il	loro	il	loro	il	PRON	DET	
-('mettere_mettere_VERB', 'in_in_ADP')	10	mettere in	mettere	in	mettere	in	VERB	ADP	
-"(""l'_il_DET"", 'azienda_azienda_NOUN')"	10	l'azienda	l'	azienda	il	azienda	DET	NOUN	
-('venuto_venire_VERB', 'in_in_ADP')	10	venuto in	venuto	in	venire	in	VERB	ADP	
-('è_essere_AUX', 'canadese_canadese_ADJ')	10	è canadese	è	canadese	essere	canadese	AUX	ADJ	
-('ho_avere_VERB', 'le_il_DET')	10	ho le	ho	le	avere	il	VERB	DET	
-('da_da_ADP', 'sua_suo_DET')	10	da sua	da	sua	da	suo	ADP	DET	
-('era_essere_AUX', 'mai_mai_ADV')	10	era mai	era	mai	essere	mai	AUX	ADV	
-"(""l'_il_DET"", 'errore_errore_NOUN')"	10	l'errore	l'	errore	il	errore	DET	NOUN	
-('solo_solo_ADV', 'per_per_ADP')	10	solo per	solo	per	solo	per	ADV	ADP	
-('offerto_offrire_VERB', 'di_di_ADP')	10	offerto di	offerto	di	offrire	di	VERB	ADP	
+('disse_dire_VERB', 'mai_mai_ADV')	10	disse mai	disse	mai	dire	mai	VERB	ADV	ever said
+('prendere_prendere_VERB', 'le_il_DET')	10	prendere le	prendere	le	prendere	il	VERB	DET	to take them
+('avrò_avere_VERB', 'bisogno_bisogno_NOUN')	10	avrò bisogno	avrò	bisogno	avere	bisogno	VERB	NOUN	I will need
+('tuo_tuo_DET', 'piano_piano_NOUN')	10	tuo piano	tuo	piano	tuo	piano	DET	NOUN	your plan
+('fu_essere_AUX', 'un_uno_DET')	10	fu un	fu	un	essere	uno	AUX	DET	was a
+('nave_nave_NOUN', 'è_essere_AUX')	10	nave è	nave	è	nave	essere	NOUN	AUX	ship is
+('è_essere_AUX', 'trasferito_trasferire_VERB')	10	è trasferito	è	trasferito	essere	trasferire	AUX	VERB	is transferred
+('come_come_SCONJ', 'ti_ti_PRON')	10	come ti	come	ti	come	ti	SCONJ	PRON	how you
+('le_il_DET', 'amiche_amico_NOUN')	10	le amiche	le	amiche	il	amico	DET	NOUN	the friends (feminine)
+('piano_piano_NOUN', 'è_essere_AUX')	10	piano è	piano	è	piano	essere	NOUN	AUX	plan is
+('ammesso_ammettere_VERB', 'di_di_ADP')	10	ammesso di	ammesso	di	ammettere	di	VERB	ADP	admitted to
+('può_potere_AUX', 'fidare_fidare_VERB')	10	può fidare	può	fidare	potere	fidare	AUX	VERB	can trust
+('più_più_ADV', 'che_che_ADP')	10	più che	più	che	più	che	ADV	ADP	more than
+('suoi_suo_DET', 'libri_libro_NOUN')	10	suoi libri	suoi	libri	suo	libro	DET	NOUN	his books; her books
+('il_il_DET', 'russo_russo_NOUN')	10	il russo	il	russo	il	russo	DET	NOUN	the Russian
+"('come_come_ADV', ""l'_lo_PRON"")"	10	come l'	come	l'	come	lo	ADV	PRON	like him (before a vowel); like it (before a vowel)
+('parte_parte_NOUN', 'vostra_vostro_DET')	10	parte vostra	parte	vostra	parte	vostro	NOUN	DET	your part (you (plural))
+('dovremmo_dovere_AUX', 'parlare_parlare_VERB')	10	dovremmo parlare	dovremmo	parlare	dovere	parlare	AUX	VERB	we should talk
+('noi_noi_PRON', 'andiamo_andare_VERB')	10	noi andiamo	noi	andiamo	noi	andare	PRON	VERB	we are going
+('non_non_ADV', 'averlo_avere_AUX')	10	non averlo	non	averlo	non	avere	ADV	AUX	not have it
+('stato_essere_AUX', 'occupato_occupare_VERB')	10	stato occupato	stato	occupato	essere	occupare	AUX	VERB	been busy
+('un_uno_DET', 'amante_amante_NOUN')	10	un amante	un	amante	uno	amante	DET	NOUN	a lover
+('per_per_ADP', 'qualcosa_qualcosa_PRON')	10	per qualcosa	per	qualcosa	per	qualcosa	ADP	PRON	for something
+('altro_altro_ADJ', 'giorno_giorno_NOUN')	10	altro giorno	altro	giorno	altro	giorno	ADJ	NOUN	another day
+('impegnata_impegnare_VERB', 'per_per_ADP')	10	impegnata per	impegnata	per	impegnare	per	VERB	ADP	busy for
+"(""cos'_cosa_PRON"", 'è_essere_VERB')"	10	cos'è	cos'	è	cosa	essere	PRON	VERB	what is it
+('dovrebbe_dovere_AUX', 'parlare_parlare_VERB')	10	dovrebbe parlare	dovrebbe	parlare	dovere	parlare	AUX	VERB	should talk
+('ha_avere_AUX', 'tirato_tirare_VERB')	10	ha tirato	ha	tirato	avere	tirare	AUX	VERB	has pulled
+('male_male_ADV', 'la_il_DET')	10	male la	male	la	male	il	ADV	DET	hurts the
+('dallo_da_ADP', 'zoo_zoo_NOUN')	10	dallo zoo	dallo	zoo	da	zoo	ADP	NOUN	from the zoo
+('un_uno_DET', 'gioco_gioco_NOUN')	10	un gioco	un	gioco	uno	gioco	DET	NOUN	a game
+('pensi_pensare_VERB', 'del_di_ADP')	10	pensi del	pensi	del	pensare	di	VERB	ADP	think of the
+('ufficio_ufficio_NOUN', 'di_di_ADP')	10	ufficio di	ufficio	di	ufficio	di	NOUN	ADP	office of
+('lui_lui_PRON', 'ti_ti_PRON')	10	lui ti	lui	ti	lui	ti	PRON	PRON	he you
+"(""l'_il_DET"", 'offerta_offerta_NOUN')"	10	l'offerta	l'	offerta	il	offerta	DET	NOUN	the offer (before a vowel)
+('nascondendo_nascondere_VERB', 'da_da_ADP')	10	nascondendo da	nascondendo	da	nascondere	da	VERB	ADP	hiding from
+('appena_appena_ADV', 'fatto_fare_VERB')	10	appena fatto	appena	fatto	appena	fare	ADV	VERB	just done
+('sto_essere_AUX', 'dando_dare_VERB')	10	sto dando	sto	dando	essere	dare	AUX	VERB	I am giving
+('chi_chi_PRON', 'vuole_volere_AUX')	10	chi vuole	chi	vuole	chi	volere	PRON	AUX	who wants
+('sono_essere_AUX', 'completamente_completamente_ADV')	10	sono completamente	sono	completamente	essere	completamente	AUX	ADV	I am completely
+('se_se_SCONJ', 'mi_mi_PRON')	10		se	mi	se	mi	SCONJ	PRON	if me
+('mai_mai_ADV', 'giocato_giocare_VERB')	10	mai giocato	mai	giocato	mai	giocare	ADV	VERB	ever played
+('sua_suo_DET', 'parola_parola_NOUN')	10	sua parola	sua	parola	suo	parola	DET	NOUN	his word; her word
+('fare_fare_VERB', 'colazione_colazione_NOUN')	10	fare colazione	fare	colazione	fare	colazione	VERB	NOUN	to eat breakfast
+('forse_forse_ADV', 'dovrei_dovere_AUX')	10	forse dovrei	forse	dovrei	forse	dovere	ADV	AUX	maybe I should
+('ascoltare_ascoltare_VERB', 'la_il_DET')	10	ascoltare la	ascoltare	la	ascoltare	il	VERB	DET	listen to the
+('visto_vedere_VERB', 'i_il_DET')	10	vi	visto	i	vedere	il	VERB	DET	you (plural)
+('gli_gli_PRON', 'chiesi_chiedere_VERB')	10	gli chiesi	gli	chiesi	gli	chiedere	PRON	VERB	I asked him
+('pronti_pronto_ADJ', 'ad_a_ADP')	10	pronti ad	pronti	ad	pronto	a	ADJ	ADP	ready to
+('mio_mio_DET', 'compleanno_compleanno_NOUN')	10	mio compleanno	mio	compleanno	mio	compleanno	DET	NOUN	my birthday
+('devo_dovere_AUX', 'dire_dire_VERB')	10	devo dire	devo	dire	dovere	dire	AUX	VERB	I must say
+('quella_quello_DET', 'lettera_lettera_NOUN')	10	quella lettera	quella	lettera	quello	lettera	DET	NOUN	that letter
+('ha_avere_AUX', 'guidato_guidare_VERB')	10	ha guidato	ha	guidato	avere	guidare	AUX	VERB	has driven
+('ha_avere_VERB', 'molta_molto_DET')	10	ha molta	ha	molta	avere	molto	VERB	DET	has a lot
+('alcune_alcuno_DET', 'cose_cosa_NOUN')	10	alcune cose	alcune	cose	alcuno	cosa	DET	NOUN	some things
+('insegnando_insegnare_VERB', 'il_il_DET')	10	insegnando il	insegnando	il	insegnare	il	VERB	DET	teaching the
+('impegnato_impegnare_VERB', 'oggi_oggi_ADV')	10	impegnato oggi	impegnato	oggi	impegnare	oggi	VERB	ADV	busy today
+('me_me_PRON', 'stessa_stesso_ADJ')	10	me stessa	me	stessa	me	stesso	PRON	ADJ	myself (feminine)
+('un_uno_DET', 'peccato_peccato_NOUN')	10	un peccato	un	peccato	uno	peccato	DET	NOUN	a shame
+('sta_stare_AUX', 'piovendo_piovere_VERB')	10	sta piovendo	sta	piovendo	stare	piovere	AUX	VERB	it is raining
+('hai_avere_AUX', 'conosciuto_conoscere_VERB')	10	hai conosciuto	hai	conosciuto	avere	conoscere	AUX	VERB	you have met
+('molto_molto_ADV', 'bella_bello_ADJ')	10	molto bella	molto	bella	molto	bello	ADV	ADJ	very beautiful
+('un_uno_DET', 'pony_pony_NOUN')	10	un pony	un	pony	uno	pony	DET	NOUN	a pony
+('come_come_ADV', 'potete_potere_AUX')	10	come potete	come	potete	come	potere	ADV	AUX	how you (plural) can
+('tuo_tuo_DET', 'libro_libro_NOUN')	10	tuo libro	tuo	libro	tuo	libro	DET	NOUN	your book
+('si_si_PRON', 'stavano_stare_AUX')	10	si stavano	si	stavano	si	stare	PRON	AUX	they were
+('ancora_ancora_ADV', 'più_più_ADV')	10	ancora più	ancora	più	ancora	più	ADV	ADV	even more
+('abbia_avere_VERB', 'un_uno_DET')	10	abbia un	abbia	un	avere	uno	VERB	DET	have a
+('nessuno_nessuno_PRON', 'ti_ti_PRON')	10	nessuno ti	nessuno	ti	nessuno	ti	PRON	PRON	no one you
+('piace_piacere_VERB', 'vivere_vivere_VERB')	10	piace vivere	piace	vivere	piacere	vivere	VERB	VERB	likes to live
+('qui_qui_ADV', 'ieri_ieri_ADV')	10	qui ieri	qui	ieri	qui	ieri	ADV	ADV	here yesterday
+('dovete_dovere_AUX', 'fare_fare_VERB')	10	dovete fare	dovete	fare	dovere	fare	AUX	VERB	you (plural) must do
+('in_in_ADP', 'aereo_aereo_NOUN')	10	in aereo	in	aereo	in	aereo	ADP	NOUN	by plane
+"(""all'_a_ADP"", 'età_età_NOUN')"	10	all'età	all'	età	a	età	ADP	NOUN	at the age (before a vowel)
+('io_io_PRON', 'vidi_vedere_VERB')	10	io vidi	io	vidi	io	vedere	PRON	VERB	I saw
+('leggendo_leggere_VERB', 'il_il_DET')	10	leggendo il	leggendo	il	leggere	il	VERB	DET	reading the
+('sapere_sapere_VERB', 'chi_chi_PRON')	10	sapere chi	sapere	chi	sapere	chi	VERB	PRON	to know who
+('lo_lo_PRON', 'hanno_avere_AUX')	10	lo hanno	lo	hanno	lo	avere	PRON	AUX	they have it; they have him
+('ha_avere_AUX', 'lavato_lavare_VERB')	10	ha lavato	ha	lavato	avere	lavare	AUX	VERB	has washed
+('promise_promettere_VERB', 'di_di_ADP')	10	promise di	promise	di	promettere	di	VERB	ADP	promised to
+('gli_il_DET', 'amici_amico_NOUN')	10	gli amici	gli	amici	il	amico	DET	NOUN	the friends (masculine)
+('ci_ci_PRON', 'dia_dare_VERB')	10	ci dia	ci	dia	ci	dare	PRON	VERB	give us
+('suo_suo_DET', 'cavallo_cavallo_NOUN')	10	suo cavallo	suo	cavallo	suo	cavallo	DET	NOUN	his horse; her horse
+('scorsa_scorso_ADJ', 'estate_estate_NOUN')	10	scorsa estate	scorsa	estate	scorso	estate	ADJ	NOUN	last summer
+('giù_giù_ADV', 'il_il_DET')	10	giù il	giù	il	giù	il	ADV	DET	down the
+('erano_essere_AUX', 'davvero_davvero_ADV')	10	erano davvero	erano	davvero	essere	davvero	AUX	ADV	they were really
+('lo_lo_PRON', 'ama_amare_VERB')	10	lo ama	lo	ama	lo	amare	PRON	VERB	loves him; loves it
+('ricordi_ricordare_VERB', 'di_di_ADP')	10	ricordi	ricordi	di	ricordare	di	VERB	ADP	you remember
+('quanti_quanto_DET', 'soldi_soldo_NOUN')	10	quanti soldi	quanti	soldi	quanto	soldo	DET	NOUN	how much money
+('loro_loro_PRON', 'il_il_DET')	10	loro il	loro	il	loro	il	PRON	DET	they the
+('mettere_mettere_VERB', 'in_in_ADP')	10	mettere in	mettere	in	mettere	in	VERB	ADP	to put in
+"(""l'_il_DET"", 'azienda_azienda_NOUN')"	10	l'azienda	l'	azienda	il	azienda	DET	NOUN	the company (before a vowel)
+('venuto_venire_VERB', 'in_in_ADP')	10	venuto in	venuto	in	venire	in	VERB	ADP	come into
+('è_essere_AUX', 'canadese_canadese_ADJ')	10	è canadese	è	canadese	essere	canadese	AUX	ADJ	is Canadian
+('ho_avere_VERB', 'le_il_DET')	10	ho le	ho	le	avere	il	VERB	DET	I have the
+('da_da_ADP', 'sua_suo_DET')	10	da sua	da	sua	da	suo	ADP	DET	from his (feminine); from her (feminine)
+('era_essere_AUX', 'mai_mai_ADV')	10	era mai	era	mai	essere	mai	AUX	ADV	was ever
+"(""l'_il_DET"", 'errore_errore_NOUN')"	10	l'errore	l'	errore	il	errore	DET	NOUN	the mistake (before a vowel)
+('solo_solo_ADV', 'per_per_ADP')	10	solo per	solo	per	solo	per	ADV	ADP	only for
+('offerto_offrire_VERB', 'di_di_ADP')	10	offerto di	offerto	di	offrire	di	VERB	ADP	offered to
