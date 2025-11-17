@@ -1,41 +1,41 @@
 gram3_key	count	substr	term_1	term_2	term_3	lemma_1	lemma_2	lemma_3	pos_1	pos_2	pos_3	translation_en
-('che_che_DET', 'cosa_cosa_PRON', 'mi_mi_PRON')	5	che cosa mi	che	cosa	mi	che	cosa	mi	DET	PRON	PRON	
-('perché_perché_ADV', 'ci_ci_PRON', 'state_essere_AUX')	5	perché ci state	perché	ci	state	perché	ci	essere	ADV	PRON	AUX	
-('penso_pensare_VERB', 'che_che_SCONJ', 'dobbiamo_dovere_AUX')	5	penso che dobbiamo	penso	che	dobbiamo	pensare	che	dovere	VERB	SCONJ	AUX	
-('che_che_SCONJ', 'ero_essere_AUX', 'sposato_sposare_VERB')	5	che ero sposato	che	ero	sposato	che	essere	sposare	SCONJ	AUX	VERB	
-('hanno_avere_AUX', 'cercato_cercare_VERB', 'di_di_ADP')	5	hanno cercato di	hanno	cercato	di	avere	cercare	di	AUX	VERB	ADP	
-('di_di_ADP', 'me_me_PRON', 'stesso_stesso_ADJ')	5	di me stesso	di	me	stesso	di	me	stesso	ADP	PRON	ADJ	
-('di_di_ADP', 'queste_questo_DET', 'parti_parte_NOUN')	5	di queste parti	di	queste	parti	di	questo	parte	ADP	DET	NOUN	
-('un_uno_DET', 'bravo_bravo_ADJ', 'avvocato_avvocato_NOUN')	5	un bravo avvocato	un	bravo	avvocato	uno	bravo	avvocato	DET	ADJ	NOUN	
-('lo_il_DET', 'scorso_scorso_ADJ', 'mese_mese_NOUN')	5	lo scorso mese	lo	scorso	mese	il	scorso	mese	DET	ADJ	NOUN	
-('che_che_SCONJ', 'non_non_ADV', 'li_li_PRON')	5	che non li	che	non	li	che	non	li	SCONJ	ADV	PRON	
-('viene_venire_VERB', 'alla_a_ADP', 'festa_festa_NOUN')	5	viene alla festa	viene	alla	festa	venire	a	festa	VERB	ADP	NOUN	
-('sono_essere_AUX', 'andato_andare_VERB', 'lì_lì_ADV')	5	sono andato lì	sono	andato	lì	essere	andare	lì	AUX	VERB	ADV	
-('un_uno_DET', 'uomo_uomo_NOUN', 'di_di_ADP')	5	un uomo di	un	uomo	di	uno	uomo	di	DET	NOUN	ADP	
-('suonando_suonare_VERB', 'con_con_ADP', 'il_il_DET')	5	suonando con il	suonando	con	il	suonare	con	il	VERB	ADP	DET	
-('in_in_ADP', 'un_uno_DET', 'certo_certo_ADJ')	5	in un certo	in	un	certo	in	uno	certo	ADP	DET	ADJ	
-('non_non_ADV', 'conosco_conoscere_VERB', 'nessuno_nessuno_PRON')	5	non conosco nessuno	non	conosco	nessuno	non	conoscere	nessuno	ADV	VERB	PRON	
-('intenzione_intenzione_NOUN', 'di_di_ADP', 'restare_restare_VERB')	5	intenzione di restare	intenzione	di	restare	intenzione	di	restare	NOUN	ADP	VERB	
-('lascia_lascia_VERB', 'che_che_SCONJ', 'ti_ti_PRON')	5	lascia che ti	lascia	che	ti	lascia	che	ti	VERB	SCONJ	PRON	
-('detto_dire_VERB', 'che_che_SCONJ', 'stava_stare_VERB')	5	detto che stava	detto	che	stava	dire	che	stare	VERB	SCONJ	VERB	
-('questo_questo_PRON', 'è_essere_AUX', 'estremamente_estremamente_ADV')	5	questo è estremamente	questo	è	estremamente	questo	essere	estremamente	PRON	AUX	ADV	
-('la_il_DET', 'riunione_riunione_NOUN', 'è_essere_AUX')	5	la riunione è	la	riunione	è	il	riunione	essere	DET	NOUN	AUX	
-('il_il_DET', 'mio_mio_DET', 'regalo_regalo_NOUN')	5	il mio regalo	il	mio	regalo	il	mio	regalo	DET	DET	NOUN	
-"('piace_piacere_VERB', ""l'_il_DET"", 'inglese_inglese_NOUN')"	5	piace l'inglese	piace	l'	inglese	piacere	il	inglese	VERB	DET	NOUN	
-('loro_loro_PRON', 'che_che_SCONJ', 'siamo_essere_AUX')	5	loro che siamo	loro	che	siamo	loro	che	essere	PRON	SCONJ	AUX	
-('è_essere_AUX', 'uno_uno_PRON', 'di_di_ADP')	5	è uno di	è	uno	di	essere	uno	di	AUX	PRON	ADP	
-('non_non_ADV', 'importa_importare_VERB', 'cosa_cosa_PRON')	5	non importa cosa	non	importa	cosa	non	importare	cosa	ADV	VERB	PRON	
-('gli_il_DET', 'occhiali_occhiale_NOUN', 'da_da_ADP')	5	gli occhiali da	gli	occhiali	da	il	occhiale	da	DET	NOUN	ADP	
-('è_essere_AUX', 'un_uno_DET', 'medico_medico_NOUN')	5	è un medico	è	un	medico	essere	uno	medico	AUX	DET	NOUN	
-('un_uno_DET', 'certo_certo_ADJ', 'senso_senso_NOUN')	5	un certo senso	un	certo	senso	uno	certo	senso	DET	ADJ	NOUN	
-('è_essere_AUX', 'una_uno_DET', 'cuoca_cuoco_NOUN')	5	è una cuoca	è	una	cuoca	essere	uno	cuoco	AUX	DET	NOUN	
-('non_non_ADV', 'sembrate_sembrare_VERB', 'molto_molto_ADV')	5	non sembrate molto	non	sembrate	molto	non	sembrare	molto	ADV	VERB	ADV	
-('aveva_avere_VERB', 'molta_molto_DET', 'fame_fame_NOUN')	5	aveva molta fame	aveva	molta	fame	avere	molto	fame	VERB	DET	NOUN	
-('perché_perché_ADV', 'ha_avere_VERB', 'bisogno_bisogno_NOUN')	5	perché ha bisogno	perché	ha	bisogno	perché	avere	bisogno	ADV	VERB	NOUN	
-('sono_essere_AUX', 'stato_essere_AUX', 'il_il_DET')	5	sono stato il	sono	stato	il	essere	essere	il	AUX	AUX	DET	
-('ha_avere_AUX', 'dato_dare_VERB', 'le_il_DET')	5	ha dato le	ha	dato	le	avere	dare	il	AUX	VERB	DET	
-('non_non_ADV', 'so_sapere_VERB', 'quando_quando_SCONJ')	5	non so quando	non	so	quando	non	sapere	quando	ADV	VERB	SCONJ	
-('non_non_ADV', 'sia_essere_AUX', 'un_uno_DET')	5	non sia un	non	sia	un	non	essere	uno	ADV	AUX	DET	
-('mi_mi_PRON', 'ha_avere_AUX', 'resa_rendere_VERB')	5	mi ha resa	mi	ha	resa	mi	avere	rendere	PRON	AUX	VERB	
-('mi_mi_PRON', 'piace_piacere_VERB', 'mangiare_mangiare_VERB')	5	mi piace mangiare	mi	piace	mangiare	mi	piacere	mangiare	PRON	VERB	VERB	
-('sa_sapere_VERB', 'di_di_ADP', 'non_non_ADV')	5	sa di non	sa	di	non	sapere	di	non	VERB	ADP	ADV	
+('che_che_DET', 'cosa_cosa_PRON', 'mi_mi_PRON')	5	che cosa mi	che	cosa	mi	che	cosa	mi	DET	PRON	PRON	what does to me
+('perché_perché_ADV', 'ci_ci_PRON', 'state_essere_AUX')	5	perché ci state	perché	ci	state	perché	ci	essere	ADV	PRON	AUX	why are you (plural) staying
+('penso_pensare_VERB', 'che_che_SCONJ', 'dobbiamo_dovere_AUX')	5	penso che dobbiamo	penso	che	dobbiamo	pensare	che	dovere	VERB	SCONJ	AUX	i think we must
+('che_che_SCONJ', 'ero_essere_AUX', 'sposato_sposare_VERB')	5	che ero sposato	che	ero	sposato	che	essere	sposare	SCONJ	AUX	VERB	that i was married
+('hanno_avere_AUX', 'cercato_cercare_VERB', 'di_di_ADP')	5	hanno cercato di	hanno	cercato	di	avere	cercare	di	AUX	VERB	ADP	they tried to
+('di_di_ADP', 'me_me_PRON', 'stesso_stesso_ADJ')	5	di me stesso	di	me	stesso	di	me	stesso	ADP	PRON	ADJ	of myself
+('di_di_ADP', 'queste_questo_DET', 'parti_parte_NOUN')	5	di queste parti	di	queste	parti	di	questo	parte	ADP	DET	NOUN	of these parts
+('un_uno_DET', 'bravo_bravo_ADJ', 'avvocato_avvocato_NOUN')	5	un bravo avvocato	un	bravo	avvocato	uno	bravo	avvocato	DET	ADJ	NOUN	a good lawyer
+('lo_il_DET', 'scorso_scorso_ADJ', 'mese_mese_NOUN')	5	lo scorso mese	lo	scorso	mese	il	scorso	mese	DET	ADJ	NOUN	last month
+('che_che_SCONJ', 'non_non_ADV', 'li_li_PRON')	5	che non li	che	non	li	che	non	li	SCONJ	ADV	PRON	that not them
+('viene_venire_VERB', 'alla_a_ADP', 'festa_festa_NOUN')	5	viene alla festa	viene	alla	festa	venire	a	festa	VERB	ADP	NOUN	comes to the party
+('sono_essere_AUX', 'andato_andare_VERB', 'lì_lì_ADV')	5	sono andato lì	sono	andato	lì	essere	andare	lì	AUX	VERB	ADV	i went there
+('un_uno_DET', 'uomo_uomo_NOUN', 'di_di_ADP')	5	un uomo di	un	uomo	di	uno	uomo	di	DET	NOUN	ADP	a man of
+('suonando_suonare_VERB', 'con_con_ADP', 'il_il_DET')	5	suonando con il	suonando	con	il	suonare	con	il	VERB	ADP	DET	playing with the (masculine)
+('in_in_ADP', 'un_uno_DET', 'certo_certo_ADJ')	5	in un certo	in	un	certo	in	uno	certo	ADP	DET	ADJ	in a certain
+('non_non_ADV', 'conosco_conoscere_VERB', 'nessuno_nessuno_PRON')	5	non conosco nessuno	non	conosco	nessuno	non	conoscere	nessuno	ADV	VERB	PRON	i do not know anyone
+('intenzione_intenzione_NOUN', 'di_di_ADP', 'restare_restare_VERB')	5	intenzione di restare	intenzione	di	restare	intenzione	di	restare	NOUN	ADP	VERB	intention to stay
+('lascia_lascia_VERB', 'che_che_SCONJ', 'ti_ti_PRON')	5	lascia che ti	lascia	che	ti	lascia	che	ti	VERB	SCONJ	PRON	let that you
+('detto_dire_VERB', 'che_che_SCONJ', 'stava_stare_VERB')	5	detto che stava	detto	che	stava	dire	che	stare	VERB	SCONJ	VERB	said that he/she was
+('questo_questo_PRON', 'è_essere_AUX', 'estremamente_estremamente_ADV')	5	questo è estremamente	questo	è	estremamente	questo	essere	estremamente	PRON	AUX	ADV	this is extremely
+('la_il_DET', 'riunione_riunione_NOUN', 'è_essere_AUX')	5	la riunione è	la	riunione	è	il	riunione	essere	DET	NOUN	AUX	the meeting is
+('il_il_DET', 'mio_mio_DET', 'regalo_regalo_NOUN')	5	il mio regalo	il	mio	regalo	il	mio	regalo	DET	DET	NOUN	my gift
+"('piace_piacere_VERB', ""l'_il_DET"", 'inglese_inglese_NOUN')"	5	piace l'inglese	piace	l'	inglese	piacere	il	inglese	VERB	DET	NOUN	likes english
+('loro_loro_PRON', 'che_che_SCONJ', 'siamo_essere_AUX')	5	loro che siamo	loro	che	siamo	loro	che	essere	PRON	SCONJ	AUX	them that we are
+('è_essere_AUX', 'uno_uno_PRON', 'di_di_ADP')	5	è uno di	è	uno	di	essere	uno	di	AUX	PRON	ADP	is one of
+('non_non_ADV', 'importa_importare_VERB', 'cosa_cosa_PRON')	5	non importa cosa	non	importa	cosa	non	importare	cosa	ADV	VERB	PRON	it doesn't matter what
+('gli_il_DET', 'occhiali_occhiale_NOUN', 'da_da_ADP')	5	gli occhiali da	gli	occhiali	da	il	occhiale	da	DET	NOUN	ADP	the glasses for
+('è_essere_AUX', 'un_uno_DET', 'medico_medico_NOUN')	5	è un medico	è	un	medico	essere	uno	medico	AUX	DET	NOUN	he is a doctor
+('un_uno_DET', 'certo_certo_ADJ', 'senso_senso_NOUN')	5	un certo senso	un	certo	senso	uno	certo	senso	DET	ADJ	NOUN	a certain sense
+('è_essere_AUX', 'una_uno_DET', 'cuoca_cuoco_NOUN')	5	è una cuoca	è	una	cuoca	essere	uno	cuoco	AUX	DET	NOUN	she is a cook
+('non_non_ADV', 'sembrate_sembrare_VERB', 'molto_molto_ADV')	5	non sembrate molto	non	sembrate	molto	non	sembrare	molto	ADV	VERB	ADV	you (plural) do not seem very
+('aveva_avere_VERB', 'molta_molto_DET', 'fame_fame_NOUN')	5	aveva molta fame	aveva	molta	fame	avere	molto	fame	VERB	DET	NOUN	he/she was very hungry
+('perché_perché_ADV', 'ha_avere_VERB', 'bisogno_bisogno_NOUN')	5	perché ha bisogno	perché	ha	bisogno	perché	avere	bisogno	ADV	VERB	NOUN	because he/she needs
+('sono_essere_AUX', 'stato_essere_AUX', 'il_il_DET')	5	sono stato il	sono	stato	il	essere	essere	il	AUX	AUX	DET	i have been the (masculine)
+('ha_avere_AUX', 'dato_dare_VERB', 'le_il_DET')	5	ha dato le	ha	dato	le	avere	dare	il	AUX	VERB	DET	he/she gave the (feminine plural)
+('non_non_ADV', 'so_sapere_VERB', 'quando_quando_SCONJ')	5	non so quando	non	so	quando	non	sapere	quando	ADV	VERB	SCONJ	i do not know when
+('non_non_ADV', 'sia_essere_AUX', 'un_uno_DET')	5	non sia un	non	sia	un	non	essere	uno	ADV	AUX	DET	it is not a (masculine)
+('mi_mi_PRON', 'ha_avere_AUX', 'resa_rendere_VERB')	5	mi ha resa	mi	ha	resa	mi	avere	rendere	PRON	AUX	VERB	he/she made me (feminine)
+('mi_mi_PRON', 'piace_piacere_VERB', 'mangiare_mangiare_VERB')	5	mi piace mangiare	mi	piace	mangiare	mi	piacere	mangiare	PRON	VERB	VERB	i like to eat
+('sa_sapere_VERB', 'di_di_ADP', 'non_non_ADV')	5	sa di non	sa	di	non	sapere	di	non	VERB	ADP	ADV	he/she knows not to
