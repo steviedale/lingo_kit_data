@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('quale_quale_DET', 'treno_treno_NOUN')	7	quale treno	quale	treno	quale	treno	DET	NOUN	
-('quel_quello_DET', 'suono_suono_NOUN')	7	quel suono	quel	suono	quello	suono	DET	NOUN	
-('vuole_volere_AUX', 'visitare_visitare_VERB')	7	vuole visitare	vuole	visitare	volere	visitare	AUX	VERB	
-('siete_essere_AUX', 'arrivati_arrivare_VERB')	7	siete arrivati	siete	arrivati	essere	arrivare	AUX	VERB	
-('molto_molto_ADV', 'strano_strano_ADJ')	7	molto strano	molto	strano	molto	strano	ADV	ADJ	
-('sono_essere_AUX', 'uno_uno_DET')	7	sono uno	sono	uno	essere	uno	AUX	DET	
-('lavora_lavorare_VERB', 'come_come_ADP')	7	lavora come	lavora	come	lavorare	come	VERB	ADP	
-('acceso_accendere_VERB', 'la_il_DET')	7	acceso la	acceso	la	accendere	il	VERB	DET	
-('mise_mettere_VERB', 'giù_giù_ADV')	7	mise giù	mise	giù	mettere	giù	VERB	ADV	
-('lavoro_lavoro_NOUN', 'non_non_ADV')	7	lavoro non	lavoro	non	lavoro	non	NOUN	ADV	
-('vi_vi_PRON', 'fidate_fidare_VERB')	7	vi fidate	vi	fidate	vi	fidare	PRON	VERB	
-('essere_essere_AUX', 'pronti_pronto_ADJ')	7	essere pronti	essere	pronti	essere	pronto	AUX	ADJ	
-('abitano_abitare_VERB', 'in_in_ADP')	7	abitano in	abitano	in	abitare	in	VERB	ADP	
-('dire_dire_VERB', 'loro_loro_PRON')	7	dire loro	dire	loro	dire	loro	VERB	PRON	
-('lì_lì_ADV', 'con_con_ADP')	7	lì con	lì	con	lì	con	ADV	ADP	
-('molto_molto_DET', 'peso_peso_NOUN')	7	molto peso	molto	peso	molto	peso	DET	NOUN	
-('fatta_fare_VERB', 'di_di_ADP')	7	fatta di	fatta	di	fare	di	VERB	ADP	
-('di_di_ADP', 'cancro_cancro_NOUN')	7	di cancro	di	cancro	di	cancro	ADP	NOUN	
-('noi_noi_PRON', 'riusciamo_riuscire_VERB')	7	noi riusciamo	noi	riusciamo	noi	riuscire	PRON	VERB	
-('è_essere_AUX', 'costata_costare_VERB')	7	è costata	è	costata	essere	costare	AUX	VERB	
-"(""l'_il_DET"", 'articolo_articolo_NOUN')"	7	l'articolo	l'	articolo	il	articolo	DET	NOUN	
-('tè_tè_NOUN', 'verde_verde_ADJ')	7	tè verde	tè	verde	tè	verde	NOUN	ADJ	
-('sta_stare_AUX', 'contando_contare_VERB')	7	sta contando	sta	contando	stare	contare	AUX	VERB	
-('del_di_ADP', 'paese_paese_NOUN')	7	del paese	del	paese	di	paese	ADP	NOUN	
-('partecipare_partecipare_VERB', 'alla_a_ADP')	7	partecipare alla	partecipare	alla	partecipare	a	VERB	ADP	
-('qui_qui_ADV', 'quando_quando_SCONJ')	7	qui quando	qui	quando	qui	quando	ADV	SCONJ	
-('e_e_CCONJ', 'di_di_ADP')	7		e	di	e	di	CCONJ	ADP	
-('giorni_giorno_NOUN', 'dopo_dopo_ADV')	7	giorni dopo	giorni	dopo	giorno	dopo	NOUN	ADV	
-('un_uno_DET', 'terribile_terribile_ADJ')	7	un terribile	un	terribile	uno	terribile	DET	ADJ	
-('si_si_PRON', 'svegliò_svegliare_VERB')	7	si svegliò	si	svegliò	si	svegliare	PRON	VERB	
-('mio_mio_DET', 'caffè_caffè_NOUN')	7	mio caffè	mio	caffè	mio	caffè	DET	NOUN	
-('come_come_ADV', 'ci_ci_PRON')	7	come ci	come	ci	come	ci	ADV	PRON	
-('neanche_neanche_ADV', 'a_a_ADP')	7	nea	neanche	a	neanche	a	ADV	ADP	
-('sole_sole_NOUN', 'è_essere_AUX')	7	sole è	sole	è	sole	essere	NOUN	AUX	
-('ha_avere_AUX', 'votato_votare_VERB')	7	ha votato	ha	votato	avere	votare	AUX	VERB	
-('quali_quale_DET', 'libri_libro_NOUN')	7	quali libri	quali	libri	quale	libro	DET	NOUN	
-('era_essere_AUX', 'quasi_quasi_ADV')	7	era quasi	era	quasi	essere	quasi	AUX	ADV	
-('un_uno_DET', 'hotel_hotel_NOUN')	7	un hotel	un	hotel	uno	hotel	DET	NOUN	
-('vanno_andare_VERB', 'a_a_ADP')	7	va	vanno	a	andare	a	VERB	ADP	
-('a_a_ADP', 'memoria_memoria_NOUN')	7	arare questa poesia a memoria	a	memoria	a	memoria	ADP	NOUN	
-('io_io_PRON', 'ammiro_ammirare_VERB')	7	io ammiro	io	ammiro	io	ammirare	PRON	VERB	
-('è_essere_AUX', 'sufficientemente_sufficientemente_ADV')	7	è sufficientemente	è	sufficientemente	essere	sufficientemente	AUX	ADV	
-('ha_avere_AUX', 'disegnato_disegnare_VERB')	7	ha disegnato	ha	disegnato	avere	disegnare	AUX	VERB	
-('è_essere_AUX', 'entrata_entrare_VERB')	7	è entrata	è	entrata	essere	entrare	AUX	VERB	
-('ti_ti_PRON', 'piacerà_piacere_VERB')	7	ti piacerà	ti	piacerà	ti	piacere	PRON	VERB	
-('noi_noi_PRON', 'le_le_PRON')	7	noi le	noi	le	noi	le	PRON	PRON	
-('tua_tuo_DET', 'gentilezza_gentilezza_NOUN')	7	tua gentilezza	tua	gentilezza	tuo	gentilezza	DET	NOUN	
-('dimenticate_dimenticare_VERB', 'di_di_ADP')	7	di	dimenticate	di	dimenticare	di	VERB	ADP	
-('mani_mano_NOUN', 'sono_essere_AUX')	7	mani sono	mani	sono	mano	essere	NOUN	AUX	
-('discutere_discutere_VERB', 'con_con_ADP')	7	discutere con	discutere	con	discutere	con	VERB	ADP	
-('odio_odiare_VERB', 'gli_il_DET')	7	odio gli	odio	gli	odiare	il	VERB	DET	
-('la_il_DET', 'pazienza_pazienza_NOUN')	7	la pazienza	la	pazienza	il	pazienza	DET	NOUN	
-('niente_niente_PRON', 'su_su_ADP')	7	niente su	niente	su	niente	su	PRON	ADP	
-('davvero_davvero_ADV', 'bisogno_bisogno_NOUN')	7	davvero bisogno	davvero	bisogno	davvero	bisogno	ADV	NOUN	
-('occupata_occupare_VERB', 'a_a_ADP')	7	occupa	occupata	a	occupare	a	VERB	ADP	
-('a_a_ADP', 'proposito_proposito_NOUN')	7	a proposito	a	proposito	a	proposito	ADP	NOUN	
-('tuo_tuo_DET', 'marito_marito_NOUN')	7	tuo marito	tuo	marito	tuo	marito	DET	NOUN	
-('il_il_DET', 'pianeta_pianeta_NOUN')	7	il pianeta	il	pianeta	il	pianeta	DET	NOUN	
-('vi_vi_PRON', 'voglio_volere_VERB')	7	vi voglio	vi	voglio	vi	volere	PRON	VERB	
-('per_per_ADP', 'sé_sé_PRON')	7	per sé	per	sé	per	sé	ADP	PRON	
-('tu_tu_PRON', 'sembri_sembrare_VERB')	7	tu sembri	tu	sembri	tu	sembrare	PRON	VERB	
-('ero_essere_AUX', 'qui_qui_ADV')	7	ero qui	ero	qui	essere	qui	AUX	ADV	
-('è_essere_AUX', 'noiosa_noioso_ADJ')	7	è noiosa	è	noiosa	essere	noioso	AUX	ADJ	
-('alzarsi_alzare_VERB', 'presto_presto_ADV')	7	alzarsi presto	alzarsi	presto	alzare	presto	VERB	ADV	
-"(""dell'_di_ADP"", 'orrore_orrore_NOUN')"	7	dell'orrore	dell'	orrore	di	orrore	ADP	NOUN	
-('non_non_ADV', 'sembrano_sembrare_VERB')	7	non sembrano	non	sembrano	non	sembrare	ADV	VERB	
-('disposto_disposto_ADJ', 'ad_a_ADP')	7	disposto ad	disposto	ad	disposto	a	ADJ	ADP	
-('ancora_ancora_ADV', 'le_il_DET')	7	ancora le	ancora	le	ancora	il	ADV	DET	
-('del_di_ADP', 'film_film_NOUN')	7	del film	del	film	di	film	ADP	NOUN	
-('perdere_perdere_VERB', 'la_il_DET')	7	perdere la	perdere	la	perdere	il	VERB	DET	
-('il_il_DET', 'male_male_NOUN')	7	il male	il	male	il	male	DET	NOUN	
-('lei_in_ADP', 'vuole_volere_VERB')	7	lei vuole	lei	vuole	in	volere	ADP	VERB	
-('una_uno_DET', 'finestra_finestra_NOUN')	7	una finestra	una	finestra	uno	finestra	DET	NOUN	
-('è_essere_AUX', 'ovvio_ovvio_ADJ')	7	è ovvio	è	ovvio	essere	ovvio	AUX	ADJ	
-('dovuto_dovere_AUX', 'farlo_fare_VERB')	7	dovuto farlo	dovuto	farlo	dovere	fare	AUX	VERB	
-('sarà_essere_AUX', 'ancora_ancora_ADV')	7	sarà ancora	sarà	ancora	essere	ancora	AUX	ADV	
-('parla_parlare_VERB', 'molto_molto_ADV')	7	parla molto	parla	molto	parlare	molto	VERB	ADV	
-('felice_felice_ADJ', 'quando_quando_SCONJ')	7	felice quando	felice	quando	felice	quando	ADJ	SCONJ	
-('essere_essere_AUX', 'impegnato_impegnare_VERB')	7	essere impegnato	essere	impegnato	essere	impegnare	AUX	VERB	
-('i_il_DET', 'cocktail_cocktail_NOUN')	7	i piacciono i cocktail	i	cocktail	il	cocktail	DET	NOUN	
-('successo_succedere_VERB', 'davvero_davvero_ADV')	7	successo davvero	successo	davvero	succedere	davvero	VERB	ADV	
-('state_essere_AUX', 'indossando_indossare_VERB')	7	state indossando	state	indossando	essere	indossare	AUX	VERB	
-('in_in_ADP', 'acqua_acqua_NOUN')	7	in acqua	in	acqua	in	acqua	ADP	NOUN	
-('hanno_avere_AUX', 'sparato_sparare_VERB')	7	hanno sparato	hanno	sparato	avere	sparare	AUX	VERB	
-('si_si_PRON', 'fermò_fermare_VERB')	7	si fermò	si	fermò	si	fermare	PRON	VERB	
-('già_già_ADV', 'iniziato_iniziare_VERB')	7	già iniziato	già	iniziato	già	iniziare	ADV	VERB	
-('una_uno_DET', 'fortuna_fortuna_NOUN')	7	una fortuna	una	fortuna	uno	fortuna	DET	NOUN	
-('tra_tra_ADP', 'noi_noi_PRON')	7	tra noi	tra	noi	tra	noi	ADP	PRON	
-('è_essere_AUX', 'semplicemente_semplicemente_ADV')	7	è semplicemente	è	semplicemente	essere	semplicemente	AUX	ADV	
-('posso_potere_AUX', 'permettere_permettere_VERB')	7	posso permettere	posso	permettere	potere	permettere	AUX	VERB	
-('mangiò_mangiare_VERB', 'un_uno_DET')	7	mangiò un	mangiò	un	mangiare	uno	VERB	DET	
-('suo_suo_DET', 'matrimonio_matrimonio_NOUN')	7	suo matrimonio	suo	matrimonio	suo	matrimonio	DET	NOUN	
-('in_in_ADP', 'hotel_hotel_NOUN')	7	in hotel	in	hotel	in	hotel	ADP	NOUN	
-('vostra_vostro_DET', 'auto_auto_NOUN')	7	vostra auto	vostra	auto	vostro	auto	DET	NOUN	
-('interessata_interessare_VERB', 'a_a_ADP')	7	interessa	interessata	a	interessare	a	VERB	ADP	
-('erano_essere_AUX', 'presenti_presente_ADJ')	7	erano presenti	erano	presenti	essere	presente	AUX	ADJ	
-('un_uno_DET', 'albergo_albergo_NOUN')	7	un albergo	un	albergo	uno	albergo	DET	NOUN	
-('al_a_ADP', 'solito_solito_NOUN')	7	al solito	al	solito	a	solito	ADP	NOUN	
-('eravate_eravare_VERB', 'a_a_ADP')	7	era	eravate	a	eravare	a	VERB	ADP	
-('aiuterà_aiutare_VERB', 'a_a_ADP')	7	a	aiuterà	a	aiutare	a	VERB	ADP	
+('quale_quale_DET', 'treno_treno_NOUN')	7	quale treno	quale	treno	quale	treno	DET	NOUN	which train
+('quel_quello_DET', 'suono_suono_NOUN')	7	quel suono	quel	suono	quello	suono	DET	NOUN	that sound
+('vuole_volere_AUX', 'visitare_visitare_VERB')	7	vuole visitare	vuole	visitare	volere	visitare	AUX	VERB	wants to visit
+('siete_essere_AUX', 'arrivati_arrivare_VERB')	7	siete arrivati	siete	arrivati	essere	arrivare	AUX	VERB	you (plural) arrived
+('molto_molto_ADV', 'strano_strano_ADJ')	7	molto strano	molto	strano	molto	strano	ADV	ADJ	very strange
+('sono_essere_AUX', 'uno_uno_DET')	7	sono uno	sono	uno	essere	uno	AUX	DET	I am one
+('lavora_lavorare_VERB', 'come_come_ADP')	7	lavora come	lavora	come	lavorare	come	VERB	ADP	works as
+('acceso_accendere_VERB', 'la_il_DET')	7	acceso la	acceso	la	accendere	il	VERB	DET	turned on the (feminine)
+('mise_mettere_VERB', 'giù_giù_ADV')	7	mise giù	mise	giù	mettere	giù	VERB	ADV	put down
+('lavoro_lavoro_NOUN', 'non_non_ADV')	7	lavoro non	lavoro	non	lavoro	non	NOUN	ADV	work does not
+('vi_vi_PRON', 'fidate_fidare_VERB')	7	vi fidate	vi	fidate	vi	fidare	PRON	VERB	you (plural) trust
+('essere_essere_AUX', 'pronti_pronto_ADJ')	7	essere pronti	essere	pronti	essere	pronto	AUX	ADJ	to be ready
+('abitano_abitare_VERB', 'in_in_ADP')	7	abitano in	abitano	in	abitare	in	VERB	ADP	live in
+('dire_dire_VERB', 'loro_loro_PRON')	7	dire loro	dire	loro	dire	loro	VERB	PRON	to tell them
+('lì_lì_ADV', 'con_con_ADP')	7	lì con	lì	con	lì	con	ADV	ADP	there with
+('molto_molto_DET', 'peso_peso_NOUN')	7	molto peso	molto	peso	molto	peso	DET	NOUN	a lot of weight
+('fatta_fare_VERB', 'di_di_ADP')	7	fatta di	fatta	di	fare	di	VERB	ADP	made of
+('di_di_ADP', 'cancro_cancro_NOUN')	7	di cancro	di	cancro	di	cancro	ADP	NOUN	of cancer
+('noi_noi_PRON', 'riusciamo_riuscire_VERB')	7	noi riusciamo	noi	riusciamo	noi	riuscire	PRON	VERB	we manage
+('è_essere_AUX', 'costata_costare_VERB')	7	è costata	è	costata	essere	costare	AUX	VERB	cost (feminine)
+"(""l'_il_DET"", 'articolo_articolo_NOUN')"	7	l'articolo	l'	articolo	il	articolo	DET	NOUN	the article
+('tè_tè_NOUN', 'verde_verde_ADJ')	7	tè verde	tè	verde	tè	verde	NOUN	ADJ	green tea
+('sta_stare_AUX', 'contando_contare_VERB')	7	sta contando	sta	contando	stare	contare	AUX	VERB	is counting
+('del_di_ADP', 'paese_paese_NOUN')	7	del paese	del	paese	di	paese	ADP	NOUN	of the country
+('partecipare_partecipare_VERB', 'alla_a_ADP')	7	partecipare alla	partecipare	alla	partecipare	a	VERB	ADP	to participate in the (feminine)
+('qui_qui_ADV', 'quando_quando_SCONJ')	7	qui quando	qui	quando	qui	quando	ADV	SCONJ	here when
+('e_e_CCONJ', 'di_di_ADP')	7		e	di	e	di	CCONJ	ADP	and of
+('giorni_giorno_NOUN', 'dopo_dopo_ADV')	7	giorni dopo	giorni	dopo	giorno	dopo	NOUN	ADV	days later
+('un_uno_DET', 'terribile_terribile_ADJ')	7	un terribile	un	terribile	uno	terribile	DET	ADJ	a terrible
+('si_si_PRON', 'svegliò_svegliare_VERB')	7	si svegliò	si	svegliò	si	svegliare	PRON	VERB	woke up
+('mio_mio_DET', 'caffè_caffè_NOUN')	7	mio caffè	mio	caffè	mio	caffè	DET	NOUN	my coffee
+('come_come_ADV', 'ci_ci_PRON')	7	come ci	come	ci	come	ci	ADV	PRON	how us
+('neanche_neanche_ADV', 'a_a_ADP')	7	nea	neanche	a	neanche	a	ADV	ADP	not even to
+('sole_sole_NOUN', 'è_essere_AUX')	7	sole è	sole	è	sole	essere	NOUN	AUX	sun is
+('ha_avere_AUX', 'votato_votare_VERB')	7	ha votato	ha	votato	avere	votare	AUX	VERB	has voted
+('quali_quale_DET', 'libri_libro_NOUN')	7	quali libri	quali	libri	quale	libro	DET	NOUN	which books
+('era_essere_AUX', 'quasi_quasi_ADV')	7	era quasi	era	quasi	essere	quasi	AUX	ADV	was almost
+('un_uno_DET', 'hotel_hotel_NOUN')	7	un hotel	un	hotel	uno	hotel	DET	NOUN	a hotel
+('vanno_andare_VERB', 'a_a_ADP')	7	va	vanno	a	andare	a	VERB	ADP	goes
+('a_a_ADP', 'memoria_memoria_NOUN')	7	arare questa poesia a memoria	a	memoria	a	memoria	ADP	NOUN	learn this poem by heart
+('io_io_PRON', 'ammiro_ammirare_VERB')	7	io ammiro	io	ammiro	io	ammirare	PRON	VERB	I admire
+('è_essere_AUX', 'sufficientemente_sufficientemente_ADV')	7	è sufficientemente	è	sufficientemente	essere	sufficientemente	AUX	ADV	is sufficiently
+('ha_avere_AUX', 'disegnato_disegnare_VERB')	7	ha disegnato	ha	disegnato	avere	disegnare	AUX	VERB	drew
+('è_essere_AUX', 'entrata_entrare_VERB')	7	è entrata	è	entrata	essere	entrare	AUX	VERB	she entered
+('ti_ti_PRON', 'piacerà_piacere_VERB')	7	ti piacerà	ti	piacerà	ti	piacere	PRON	VERB	you will like it
+('noi_noi_PRON', 'le_le_PRON')	7	noi le	noi	le	noi	le	PRON	PRON	we them (feminine)
+('tua_tuo_DET', 'gentilezza_gentilezza_NOUN')	7	tua gentilezza	tua	gentilezza	tuo	gentilezza	DET	NOUN	your kindness (feminine)
+('dimenticate_dimenticare_VERB', 'di_di_ADP')	7	di	dimenticate	di	dimenticare	di	VERB	ADP	of
+('mani_mano_NOUN', 'sono_essere_AUX')	7	mani sono	mani	sono	mano	essere	NOUN	AUX	hands are
+('discutere_discutere_VERB', 'con_con_ADP')	7	discutere con	discutere	con	discutere	con	VERB	ADP	to discuss with
+('odio_odiare_VERB', 'gli_il_DET')	7	odio gli	odio	gli	odiare	il	VERB	DET	I hate the (masculine plural)
+('la_il_DET', 'pazienza_pazienza_NOUN')	7	la pazienza	la	pazienza	il	pazienza	DET	NOUN	patience
+('niente_niente_PRON', 'su_su_ADP')	7	niente su	niente	su	niente	su	PRON	ADP	nothing about
+('davvero_davvero_ADV', 'bisogno_bisogno_NOUN')	7	davvero bisogno	davvero	bisogno	davvero	bisogno	ADV	NOUN	really need
+('occupata_occupare_VERB', 'a_a_ADP')	7	occupa	occupata	a	occupare	a	VERB	ADP	occupies
+('a_a_ADP', 'proposito_proposito_NOUN')	7	a proposito	a	proposito	a	proposito	ADP	NOUN	by the way
+('tuo_tuo_DET', 'marito_marito_NOUN')	7	tuo marito	tuo	marito	tuo	marito	DET	NOUN	your husband
+('il_il_DET', 'pianeta_pianeta_NOUN')	7	il pianeta	il	pianeta	il	pianeta	DET	NOUN	the planet
+('vi_vi_PRON', 'voglio_volere_VERB')	7	vi voglio	vi	voglio	vi	volere	PRON	VERB	I want you (plural)
+('per_per_ADP', 'sé_sé_PRON')	7	per sé	per	sé	per	sé	ADP	PRON	for oneself
+('tu_tu_PRON', 'sembri_sembrare_VERB')	7	tu sembri	tu	sembri	tu	sembrare	PRON	VERB	you seem
+('ero_essere_AUX', 'qui_qui_ADV')	7	ero qui	ero	qui	essere	qui	AUX	ADV	I was here
+('è_essere_AUX', 'noiosa_noioso_ADJ')	7	è noiosa	è	noiosa	essere	noioso	AUX	ADJ	is boring
+('alzarsi_alzare_VERB', 'presto_presto_ADV')	7	alzarsi presto	alzarsi	presto	alzare	presto	VERB	ADV	to get up early
+"(""dell'_di_ADP"", 'orrore_orrore_NOUN')"	7	dell'orrore	dell'	orrore	di	orrore	ADP	NOUN	of the horror
+('non_non_ADV', 'sembrano_sembrare_VERB')	7	non sembrano	non	sembrano	non	sembrare	ADV	VERB	do not seem
+('disposto_disposto_ADJ', 'ad_a_ADP')	7	disposto ad	disposto	ad	disposto	a	ADJ	ADP	willing to
+('ancora_ancora_ADV', 'le_il_DET')	7	ancora le	ancora	le	ancora	il	ADV	DET	still the (feminine)
+('del_di_ADP', 'film_film_NOUN')	7	del film	del	film	di	film	ADP	NOUN	of the film
+('perdere_perdere_VERB', 'la_il_DET')	7	perdere la	perdere	la	perdere	il	VERB	DET	to lose the (feminine)
+('il_il_DET', 'male_male_NOUN')	7	il male	il	male	il	male	DET	NOUN	the evil
+('lei_in_ADP', 'vuole_volere_VERB')	7	lei vuole	lei	vuole	in	volere	ADP	VERB	she wants
+('una_uno_DET', 'finestra_finestra_NOUN')	7	una finestra	una	finestra	uno	finestra	DET	NOUN	a window
+('è_essere_AUX', 'ovvio_ovvio_ADJ')	7	è ovvio	è	ovvio	essere	ovvio	AUX	ADJ	it's obvious
+('dovuto_dovere_AUX', 'farlo_fare_VERB')	7	dovuto farlo	dovuto	farlo	dovere	fare	AUX	VERB	had to do it
+('sarà_essere_AUX', 'ancora_ancora_ADV')	7	sarà ancora	sarà	ancora	essere	ancora	AUX	ADV	will still be
+('parla_parlare_VERB', 'molto_molto_ADV')	7	parla molto	parla	molto	parlare	molto	VERB	ADV	talks a lot
+('felice_felice_ADJ', 'quando_quando_SCONJ')	7	felice quando	felice	quando	felice	quando	ADJ	SCONJ	happy when
+('essere_essere_AUX', 'impegnato_impegnare_VERB')	7	essere impegnato	essere	impegnato	essere	impegnare	AUX	VERB	to be busy
+('i_il_DET', 'cocktail_cocktail_NOUN')	7	i piacciono i cocktail	i	cocktail	il	cocktail	DET	NOUN	you like cocktails
+('successo_succedere_VERB', 'davvero_davvero_ADV')	7	successo davvero	successo	davvero	succedere	davvero	VERB	ADV	really happened
+('state_essere_AUX', 'indossando_indossare_VERB')	7	state indossando	state	indossando	essere	indossare	AUX	VERB	you (plural) are wearing
+('in_in_ADP', 'acqua_acqua_NOUN')	7	in acqua	in	acqua	in	acqua	ADP	NOUN	in the water
+('hanno_avere_AUX', 'sparato_sparare_VERB')	7	hanno sparato	hanno	sparato	avere	sparare	AUX	VERB	they shot
+('si_si_PRON', 'fermò_fermare_VERB')	7	si fermò	si	fermò	si	fermare	PRON	VERB	stopped
+('già_già_ADV', 'iniziato_iniziare_VERB')	7	già iniziato	già	iniziato	già	iniziare	ADV	VERB	already started
+('una_uno_DET', 'fortuna_fortuna_NOUN')	7	una fortuna	una	fortuna	uno	fortuna	DET	NOUN	a fortune
+('tra_tra_ADP', 'noi_noi_PRON')	7	tra noi	tra	noi	tra	noi	ADP	PRON	between us
+('è_essere_AUX', 'semplicemente_semplicemente_ADV')	7	è semplicemente	è	semplicemente	essere	semplicemente	AUX	ADV	is simply
+('posso_potere_AUX', 'permettere_permettere_VERB')	7	posso permettere	posso	permettere	potere	permettere	AUX	VERB	I can allow
+('mangiò_mangiare_VERB', 'un_uno_DET')	7	mangiò un	mangiò	un	mangiare	uno	VERB	DET	ate a
+('suo_suo_DET', 'matrimonio_matrimonio_NOUN')	7	suo matrimonio	suo	matrimonio	suo	matrimonio	DET	NOUN	his wedding
+('in_in_ADP', 'hotel_hotel_NOUN')	7	in hotel	in	hotel	in	hotel	ADP	NOUN	in a hotel
+('vostra_vostro_DET', 'auto_auto_NOUN')	7	vostra auto	vostra	auto	vostro	auto	DET	NOUN	your car (you (plural); feminine)
+('interessata_interessare_VERB', 'a_a_ADP')	7	interessa	interessata	a	interessare	a	VERB	ADP	interests
+('erano_essere_AUX', 'presenti_presente_ADJ')	7	erano presenti	erano	presenti	essere	presente	AUX	ADJ	were present
+('un_uno_DET', 'albergo_albergo_NOUN')	7	un albergo	un	albergo	uno	albergo	DET	NOUN	a hotel
+('al_a_ADP', 'solito_solito_NOUN')	7	al solito	al	solito	a	solito	ADP	NOUN	as usual
+('eravate_eravare_VERB', 'a_a_ADP')	7	era	eravate	a	eravare	a	VERB	ADP	was
+('aiuterà_aiutare_VERB', 'a_a_ADP')	7	a	aiuterà	a	aiutare	a	VERB	ADP	to
