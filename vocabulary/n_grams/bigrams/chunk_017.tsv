@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('avresti_avere_AUX', 'dovuto_dovere_AUX')	27	avresti dovuto	avresti	dovuto	avere	dovere	AUX	AUX	
-('un_uno_DET', 'fratello_fratello_NOUN')	27	un fratello	un	fratello	uno	fratello	DET	NOUN	
-"(""un'_uno_DET"", 'idea_idea_NOUN')"	27	un'idea	un'	idea	uno	idea	DET	NOUN	
-('sei_essere_AUX', 'il_il_DET')	27	sei il	sei	il	essere	il	AUX	DET	
-('squadra_squadra_NOUN', 'di_di_ADP')	27	squadra di	squadra	di	squadra	di	NOUN	ADP	
-('tempo_tempo_NOUN', 'di_di_ADP')	27	tempo di	tempo	di	tempo	di	NOUN	ADP	
-('più_più_ADV', 'forte_forte_ADJ')	27	più forte	più	forte	più	forte	ADV	ADJ	
-"(""n'_ne_PRON"", 'è_essere_AUX')"	27	n'è	n'	è	ne	essere	PRON	AUX	
-('piace_piacere_VERB', 'parlare_parlare_VERB')	27	piace parlare	piace	parlare	piacere	parlare	VERB	VERB	
-('la_il_DET', 'barba_barba_NOUN')	27	la barba	la	barba	il	barba	DET	NOUN	
-('di_di_ADP', 'francese_francese_NOUN')	27	di francese	di	francese	di	francese	ADP	NOUN	
-('ha_avere_AUX', 'vissuto_vivere_VERB')	27	ha vissuto	ha	vissuto	avere	vivere	AUX	VERB	
-('che_che_PRON', 'sta_stare_AUX')	27	che sta	che	sta	che	stare	PRON	AUX	
-('una_uno_DET', 'matita_matita_NOUN')	27	una matita	una	matita	uno	matita	DET	NOUN	
-('settimana_settimana_NOUN', 'scorsa_scorso_ADJ')	27	settimana scorsa	settimana	scorsa	settimana	scorso	NOUN	ADJ	
-('so_sapere_VERB', 'perché_perché_SCONJ')	27	so perché	so	perché	sapere	perché	VERB	SCONJ	
-('per_per_ADP', 'andare_andare_VERB')	27	per andare	per	andare	per	andare	ADP	VERB	
-('una_uno_DET', 'foto_foto_NOUN')	27	una foto	una	foto	uno	foto	DET	NOUN	
-('io_io_PRON', 'stavo_essere_AUX')	27	io stavo	io	stavo	io	essere	PRON	AUX	
-('per_per_ADP', 'sempre_sempre_ADV')	27	per sempre	per	sempre	per	sempre	ADP	ADV	
-('sono_essere_AUX', 'state_essere_AUX')	27	sono state	sono	state	essere	essere	AUX	AUX	
-('va_andare_VERB', 'in_in_ADP')	27	va in	va	in	andare	in	VERB	ADP	
-('suonare_suonare_VERB', 'la_il_DET')	26	suonare la	suonare	la	suonare	il	VERB	DET	
-('che_che_SCONJ', 'stava_stare_AUX')	26	che stava	che	stava	che	stare	SCONJ	AUX	
-('del_di_ADP', 'tempo_tempo_NOUN')	26	del tempo	del	tempo	di	tempo	ADP	NOUN	
-('sono_essere_AUX', 'pronta_pronto_ADJ')	26	sono pronta	sono	pronta	essere	pronto	AUX	ADJ	
-"('se_se_PRON', ""n'_ne_PRON"")"	26	se n'	se	n'	se	ne	PRON	PRON	
-('sono_essere_AUX', 'pronto_pronto_ADJ')	26	sono pronto	sono	pronto	essere	pronto	AUX	ADJ	
-('sito_sito_NOUN', 'web_web_NOUN')	26	sito web	sito	web	sito	web	NOUN	NOUN	
-('molto_molto_ADV', 'difficile_difficile_ADJ')	26	molto difficile	molto	difficile	molto	difficile	ADV	ADJ	
-('è_essere_AUX', 'ora_ora_NOUN')	26	è ora	è	ora	essere	ora	AUX	NOUN	
-('mai_mai_ADV', 'a_a_ADP')	26		mai	a	mai	a	ADV	ADP	
-('non_non_ADV', 'pensavo_pensare_VERB')	26	non pensavo	non	pensavo	non	pensare	ADV	VERB	
-('tutti_tutto_PRON', 'sono_essere_AUX')	26	tutti sono	tutti	sono	tutto	essere	PRON	AUX	
-('è_essere_AUX', 'tutto_tutto_DET')	26	è tutto	è	tutto	essere	tutto	AUX	DET	
-('avete_avere_AUX', 'preso_prendere_VERB')	26	avete preso	avete	preso	avere	prendere	AUX	VERB	
-('a_a_ADP', 'capire_capire_VERB')	26	a capire	a	capire	a	capire	ADP	VERB	
-('viene_venire_VERB', 'da_da_ADP')	26	viene da	viene	da	venire	da	VERB	ADP	
-('ha_avere_VERB', 'delle_di_ADP')	26	ha delle	ha	delle	avere	di	VERB	ADP	
-('vive_vivere_VERB', 'a_a_ADP')	26	vive a	vive	a	vivere	a	VERB	ADP	
-('macchina_macchina_NOUN', 'è_essere_AUX')	26	macchina è	macchina	è	macchina	essere	NOUN	AUX	
-('per_per_ADP', 'studiare_studiare_VERB')	26	per studiare	per	studiare	per	studiare	ADP	VERB	
-('cosa_cosa_PRON', 'stava_stare_AUX')	26	cosa stava	cosa	stava	cosa	stare	PRON	AUX	
-('sta_stare_AUX', 'guardando_guardare_VERB')	26	sta guardando	sta	guardando	stare	guardare	AUX	VERB	
-('mi_mi_PRON', 'chiami_chiamare_VERB')	26	mi chiami	mi	chiami	mi	chiamare	PRON	VERB	
-('non_non_ADV', 'se_se_PRON')	26	non se	non	se	non	se	ADV	PRON	
-('che_che_SCONJ', 'dovremmo_dovere_AUX')	26	che dovremmo	che	dovremmo	che	dovere	SCONJ	AUX	
-('molto_molto_ADV', 'di_di_ADP')	26	molto di	molto	di	molto	di	ADV	ADP	
-('computer_computer_NOUN', 'portatile_portatile_ADJ')	26	computer portatile	computer	portatile	computer	portatile	NOUN	ADJ	
-('sono_essere_AUX', 'qua_qua_ADV')	26	sono qua	sono	qua	essere	qua	AUX	ADV	
-('di_di_ADP', 'lavorare_lavorare_VERB')	26	di lavorare	di	lavorare	di	lavorare	ADP	VERB	
-('il_il_DET', 'nuovo_nuovo_ADJ')	26	il nuovo	il	nuovo	il	nuovo	DET	ADJ	
-"('dove_dove_ADV', ""l'_lo_PRON"")"	26	dove l'	dove	l'	dove	lo	ADV	PRON	
-('della_di_ADP', 'birra_birra_NOUN')	26	della birra	della	birra	di	birra	ADP	NOUN	
-('lontano_lontano_ADV', 'da_da_ADP')	26	lontano da	lontano	da	lontano	da	ADV	ADP	
-('vivere_vivere_VERB', 'a_a_ADP')	26		vivere	a	vivere	a	VERB	ADP	
-('la_il_DET', 'capitale_capitale_NOUN')	26	la capitale	la	capitale	il	capitale	DET	NOUN	
-('piaciuta_piacere_VERB', 'la_il_DET')	26	piaciuta la	piaciuta	la	piacere	il	VERB	DET	
-('molto_molto_ADV', 'spesso_spesso_ADV')	26	molto spesso	molto	spesso	molto	spesso	ADV	ADV	
-('comprò_comprare_VERB', 'una_uno_DET')	26	comprò una	comprò	una	comprare	uno	VERB	DET	
-('mio_mio_DET', 'ufficio_ufficio_NOUN')	26	mio ufficio	mio	ufficio	mio	ufficio	DET	NOUN	
-('quando_quando_SCONJ', 'sono_essere_AUX')	26	quando sono	quando	sono	quando	essere	SCONJ	AUX	
-('di_di_ADP', 'sì_sì_INTJ')	26	di sì	di	sì	di	sì	ADP	INTJ	
-('ha_avere_AUX', 'imparato_imparare_VERB')	26	ha imparato	ha	imparato	avere	imparare	AUX	VERB	
-('aveva_avere_VERB', 'una_uno_DET')	26	aveva una	aveva	una	avere	uno	VERB	DET	
-('a_a_ADP', 'pallavolo_pallavolo_NOUN')	26	are a pallavolo	a	pallavolo	a	pallavolo	ADP	NOUN	
-('voglio_volere_AUX', 'solo_solo_ADV')	26	voglio solo	voglio	solo	volere	solo	AUX	ADV	
-('sto_essere_AUX', 'facendo_fare_VERB')	26	sto facendo	sto	facendo	essere	fare	AUX	VERB	
-('sue_suo_DET', 'chiavi_chiave_NOUN')	26	sue chiavi	sue	chiavi	suo	chiave	DET	NOUN	
-('sono_essere_AUX', 'stanco_stanco_ADJ')	26	sono stanco	sono	stanco	essere	stanco	AUX	ADJ	
-('non_non_ADV', 'avrebbe_avere_AUX')	26	non avrebbe	non	avrebbe	non	avere	ADV	AUX	
-('il_il_DET', 'padre_padre_NOUN')	26	il padre	il	padre	il	padre	DET	NOUN	
-('avere_avere_VERB', 'una_uno_DET')	26	avere una	avere	una	avere	uno	VERB	DET	
-('gli_gli_PRON', 'piaceva_piacere_VERB')	26	gli piaceva	gli	piaceva	gli	piacere	PRON	VERB	
-('di_di_ADP', 'cibo_cibo_NOUN')	26	di cibo	di	cibo	di	cibo	ADP	NOUN	
-('vicino_vicino_ADV', 'alla_a_ADP')	26	vicino alla	vicino	alla	vicino	a	ADV	ADP	
-('che_che_PRON', 'era_essere_AUX')	26	che era	che	era	che	essere	PRON	AUX	
-('sono_essere_AUX', 'per_per_ADP')	26	sono per	sono	per	essere	per	AUX	ADP	
-('sa_sapere_VERB', 'parlare_parlare_VERB')	26	sa parlare	sa	parlare	sapere	parlare	VERB	VERB	
-('è_essere_AUX', 'bello_bello_ADJ')	26	è bello	è	bello	essere	bello	AUX	ADJ	
-('ha_avere_AUX', 'rotto_rompere_VERB')	26	ha rotto	ha	rotto	avere	rompere	AUX	VERB	
-('perché_perché_ADV', 'le_le_PRON')	26	perché le	perché	le	perché	le	ADV	PRON	
-('avete_avere_VERB', 'bisogno_bisogno_NOUN')	26	avete bisogno	avete	bisogno	avere	bisogno	VERB	NOUN	
-('alla_a_ADP', 'tua_tuo_DET')	26	alla tua	alla	tua	a	tuo	ADP	DET	
-('non_non_ADV', 'piacciono_piacere_VERB')	26	non piacciono	non	piacciono	non	piacere	ADV	VERB	
-('ha_avere_AUX', 'continuato_continuare_VERB')	26	ha continuato	ha	continuato	avere	continuare	AUX	VERB	
-('auto_auto_NOUN', 'è_essere_AUX')	26	auto è	auto	è	auto	essere	NOUN	AUX	
-('diede_dare_VERB', 'un_uno_DET')	26	diede un	diede	un	dare	uno	VERB	DET	
-('di_di_ADP', 'mia_mio_DET')	26	di mia	di	mia	di	mio	ADP	DET	
-('dato_dare_VERB', 'una_uno_DET')	26	dato una	dato	una	dare	uno	VERB	DET	
-('la_il_DET', 'gamba_gamba_NOUN')	26	la gamba	la	gamba	il	gamba	DET	NOUN	
-('stava_stare_AUX', 'cercando_cercare_VERB')	26	stava cercando	stava	cercando	stare	cercare	AUX	VERB	
-('questa_questo_DET', 'scatola_scatola_NOUN')	26	questa scatola	questa	scatola	questo	scatola	DET	NOUN	
-('imparato_imparare_VERB', 'a_a_ADP')	26		imparato	a	imparare	a	VERB	ADP	
-('di_di_ADP', 'musica_musica_NOUN')	26	di musica	di	musica	di	musica	ADP	NOUN	
-('è_essere_AUX', 'da_da_ADP')	26	è da	è	da	essere	da	AUX	ADP	
-('volevo_volere_VERB', 'che_che_SCONJ')	25	volevo che	volevo	che	volere	che	VERB	SCONJ	
-('è_essere_AUX', 'solamente_solamente_ADV')	25	è solamente	è	solamente	essere	solamente	AUX	ADV	
-('di_di_ADP', 'fretta_fretta_NOUN')	25	di fretta	di	fretta	di	fretta	ADP	NOUN	
-('fa_fare_VERB', 'piacere_piacere_NOUN')	25	fa piacere	fa	piacere	fare	piacere	VERB	NOUN	
+('avresti_avere_AUX', 'dovuto_dovere_AUX')	27	avresti dovuto	avresti	dovuto	avere	dovere	AUX	AUX	you should have
+('un_uno_DET', 'fratello_fratello_NOUN')	27	un fratello	un	fratello	uno	fratello	DET	NOUN	a brother
+"(""un'_uno_DET"", 'idea_idea_NOUN')"	27	un'idea	un'	idea	uno	idea	DET	NOUN	an idea
+('sei_essere_AUX', 'il_il_DET')	27	sei il	sei	il	essere	il	AUX	DET	you are the
+('squadra_squadra_NOUN', 'di_di_ADP')	27	squadra di	squadra	di	squadra	di	NOUN	ADP	team of
+('tempo_tempo_NOUN', 'di_di_ADP')	27	tempo di	tempo	di	tempo	di	NOUN	ADP	time to
+('più_più_ADV', 'forte_forte_ADJ')	27	più forte	più	forte	più	forte	ADV	ADJ	stronger
+"(""n'_ne_PRON"", 'è_essere_AUX')"	27	n'è	n'	è	ne	essere	PRON	AUX	there is
+('piace_piacere_VERB', 'parlare_parlare_VERB')	27	piace parlare	piace	parlare	piacere	parlare	VERB	VERB	likes to talk
+('la_il_DET', 'barba_barba_NOUN')	27	la barba	la	barba	il	barba	DET	NOUN	the beard
+('di_di_ADP', 'francese_francese_NOUN')	27	di francese	di	francese	di	francese	ADP	NOUN	of french
+('ha_avere_AUX', 'vissuto_vivere_VERB')	27	ha vissuto	ha	vissuto	avere	vivere	AUX	VERB	lived
+('che_che_PRON', 'sta_stare_AUX')	27	che sta	che	sta	che	stare	PRON	AUX	that is
+('una_uno_DET', 'matita_matita_NOUN')	27	una matita	una	matita	uno	matita	DET	NOUN	a pencil
+('settimana_settimana_NOUN', 'scorsa_scorso_ADJ')	27	settimana scorsa	settimana	scorsa	settimana	scorso	NOUN	ADJ	last week
+('so_sapere_VERB', 'perché_perché_SCONJ')	27	so perché	so	perché	sapere	perché	VERB	SCONJ	I know why
+('per_per_ADP', 'andare_andare_VERB')	27	per andare	per	andare	per	andare	ADP	VERB	to go
+('una_uno_DET', 'foto_foto_NOUN')	27	una foto	una	foto	uno	foto	DET	NOUN	a photo
+('io_io_PRON', 'stavo_essere_AUX')	27	io stavo	io	stavo	io	essere	PRON	AUX	I was
+('per_per_ADP', 'sempre_sempre_ADV')	27	per sempre	per	sempre	per	sempre	ADP	ADV	forever
+('sono_essere_AUX', 'state_essere_AUX')	27	sono state	sono	state	essere	essere	AUX	AUX	they have been
+('va_andare_VERB', 'in_in_ADP')	27	va in	va	in	andare	in	VERB	ADP	goes into
+('suonare_suonare_VERB', 'la_il_DET')	26	suonare la	suonare	la	suonare	il	VERB	DET	play the
+('che_che_SCONJ', 'stava_stare_AUX')	26	che stava	che	stava	che	stare	SCONJ	AUX	that was
+('del_di_ADP', 'tempo_tempo_NOUN')	26	del tempo	del	tempo	di	tempo	ADP	NOUN	of time
+('sono_essere_AUX', 'pronta_pronto_ADJ')	26	sono pronta	sono	pronta	essere	pronto	AUX	ADJ	I am ready (feminine)
+"('se_se_PRON', ""n'_ne_PRON"")"	26	se n'	se	n'	se	ne	PRON	PRON	if some (of it)
+('sono_essere_AUX', 'pronto_pronto_ADJ')	26	sono pronto	sono	pronto	essere	pronto	AUX	ADJ	I am ready (masculine)
+('sito_sito_NOUN', 'web_web_NOUN')	26	sito web	sito	web	sito	web	NOUN	NOUN	website
+('molto_molto_ADV', 'difficile_difficile_ADJ')	26	molto difficile	molto	difficile	molto	difficile	ADV	ADJ	very difficult
+('è_essere_AUX', 'ora_ora_NOUN')	26	è ora	è	ora	essere	ora	AUX	NOUN	it is time
+('mai_mai_ADV', 'a_a_ADP')	26		mai	a	mai	a	ADV	ADP	never to
+('non_non_ADV', 'pensavo_pensare_VERB')	26	non pensavo	non	pensavo	non	pensare	ADV	VERB	I did not think
+('tutti_tutto_PRON', 'sono_essere_AUX')	26	tutti sono	tutti	sono	tutto	essere	PRON	AUX	everyone is
+('è_essere_AUX', 'tutto_tutto_DET')	26	è tutto	è	tutto	essere	tutto	AUX	DET	that's all
+('avete_avere_AUX', 'preso_prendere_VERB')	26	avete preso	avete	preso	avere	prendere	AUX	VERB	you (plural) took
+('a_a_ADP', 'capire_capire_VERB')	26	a capire	a	capire	a	capire	ADP	VERB	to understand
+('viene_venire_VERB', 'da_da_ADP')	26	viene da	viene	da	venire	da	VERB	ADP	comes from
+('ha_avere_VERB', 'delle_di_ADP')	26	ha delle	ha	delle	avere	di	VERB	ADP	has some (feminine)
+('vive_vivere_VERB', 'a_a_ADP')	26	vive a	vive	a	vivere	a	VERB	ADP	lives in
+('macchina_macchina_NOUN', 'è_essere_AUX')	26	macchina è	macchina	è	macchina	essere	NOUN	AUX	car is
+('per_per_ADP', 'studiare_studiare_VERB')	26	per studiare	per	studiare	per	studiare	ADP	VERB	to study
+('cosa_cosa_PRON', 'stava_stare_AUX')	26	cosa stava	cosa	stava	cosa	stare	PRON	AUX	what was
+('sta_stare_AUX', 'guardando_guardare_VERB')	26	sta guardando	sta	guardando	stare	guardare	AUX	VERB	is watching
+('mi_mi_PRON', 'chiami_chiamare_VERB')	26	mi chiami	mi	chiami	mi	chiamare	PRON	VERB	you call me
+('non_non_ADV', 'se_se_PRON')	26	non se	non	se	non	se	ADV	PRON	not if
+('che_che_SCONJ', 'dovremmo_dovere_AUX')	26	che dovremmo	che	dovremmo	che	dovere	SCONJ	AUX	that we should
+('molto_molto_ADV', 'di_di_ADP')	26	molto di	molto	di	molto	di	ADV	ADP	a lot of
+('computer_computer_NOUN', 'portatile_portatile_ADJ')	26	computer portatile	computer	portatile	computer	portatile	NOUN	ADJ	laptop computer
+('sono_essere_AUX', 'qua_qua_ADV')	26	sono qua	sono	qua	essere	qua	AUX	ADV	I am here
+('di_di_ADP', 'lavorare_lavorare_VERB')	26	di lavorare	di	lavorare	di	lavorare	ADP	VERB	to work
+('il_il_DET', 'nuovo_nuovo_ADJ')	26	il nuovo	il	nuovo	il	nuovo	DET	ADJ	the new one
+"('dove_dove_ADV', ""l'_lo_PRON"")"	26	dove l'	dove	l'	dove	lo	ADV	PRON	where it (before a vowel)
+('della_di_ADP', 'birra_birra_NOUN')	26	della birra	della	birra	di	birra	ADP	NOUN	some beer
+('lontano_lontano_ADV', 'da_da_ADP')	26	lontano da	lontano	da	lontano	da	ADV	ADP	far from
+('vivere_vivere_VERB', 'a_a_ADP')	26		vivere	a	vivere	a	VERB	ADP	live in
+('la_il_DET', 'capitale_capitale_NOUN')	26	la capitale	la	capitale	il	capitale	DET	NOUN	the capital
+('piaciuta_piacere_VERB', 'la_il_DET')	26	piaciuta la	piaciuta	la	piacere	il	VERB	DET	liked the
+('molto_molto_ADV', 'spesso_spesso_ADV')	26	molto spesso	molto	spesso	molto	spesso	ADV	ADV	very often
+('comprò_comprare_VERB', 'una_uno_DET')	26	comprò una	comprò	una	comprare	uno	VERB	DET	bought a
+('mio_mio_DET', 'ufficio_ufficio_NOUN')	26	mio ufficio	mio	ufficio	mio	ufficio	DET	NOUN	my office
+('quando_quando_SCONJ', 'sono_essere_AUX')	26	quando sono	quando	sono	quando	essere	SCONJ	AUX	when I am
+('di_di_ADP', 'sì_sì_INTJ')	26	di sì	di	sì	di	sì	ADP	INTJ	to say yes
+('ha_avere_AUX', 'imparato_imparare_VERB')	26	ha imparato	ha	imparato	avere	imparare	AUX	VERB	learned
+('aveva_avere_VERB', 'una_uno_DET')	26	aveva una	aveva	una	avere	uno	VERB	DET	had a
+('a_a_ADP', 'pallavolo_pallavolo_NOUN')	26	are a pallavolo	a	pallavolo	a	pallavolo	ADP	NOUN	volleyball
+('voglio_volere_AUX', 'solo_solo_ADV')	26	voglio solo	voglio	solo	volere	solo	AUX	ADV	I just want
+('sto_essere_AUX', 'facendo_fare_VERB')	26	sto facendo	sto	facendo	essere	fare	AUX	VERB	I am doing
+('sue_suo_DET', 'chiavi_chiave_NOUN')	26	sue chiavi	sue	chiavi	suo	chiave	DET	NOUN	his keys; her keys
+('sono_essere_AUX', 'stanco_stanco_ADJ')	26	sono stanco	sono	stanco	essere	stanco	AUX	ADJ	I am tired
+('non_non_ADV', 'avrebbe_avere_AUX')	26	non avrebbe	non	avrebbe	non	avere	ADV	AUX	would not have
+('il_il_DET', 'padre_padre_NOUN')	26	il padre	il	padre	il	padre	DET	NOUN	the father
+('avere_avere_VERB', 'una_uno_DET')	26	avere una	avere	una	avere	uno	VERB	DET	to have a
+('gli_gli_PRON', 'piaceva_piacere_VERB')	26	gli piaceva	gli	piaceva	gli	piacere	PRON	VERB	he liked it
+('di_di_ADP', 'cibo_cibo_NOUN')	26	di cibo	di	cibo	di	cibo	ADP	NOUN	of food
+('vicino_vicino_ADV', 'alla_a_ADP')	26	vicino alla	vicino	alla	vicino	a	ADV	ADP	near the (feminine)
+('che_che_PRON', 'era_essere_AUX')	26	che era	che	era	che	essere	PRON	AUX	that was
+('sono_essere_AUX', 'per_per_ADP')	26	sono per	sono	per	essere	per	AUX	ADP	I am for
+('sa_sapere_VERB', 'parlare_parlare_VERB')	26	sa parlare	sa	parlare	sapere	parlare	VERB	VERB	knows how to speak
+('è_essere_AUX', 'bello_bello_ADJ')	26	è bello	è	bello	essere	bello	AUX	ADJ	is beautiful
+('ha_avere_AUX', 'rotto_rompere_VERB')	26	ha rotto	ha	rotto	avere	rompere	AUX	VERB	broke
+('perché_perché_ADV', 'le_le_PRON')	26	perché le	perché	le	perché	le	ADV	PRON	because her
+('avete_avere_VERB', 'bisogno_bisogno_NOUN')	26	avete bisogno	avete	bisogno	avere	bisogno	VERB	NOUN	you (plural) need
+('alla_a_ADP', 'tua_tuo_DET')	26	alla tua	alla	tua	a	tuo	ADP	DET	to your (feminine)
+('non_non_ADV', 'piacciono_piacere_VERB')	26	non piacciono	non	piacciono	non	piacere	ADV	VERB	do not like them
+('ha_avere_AUX', 'continuato_continuare_VERB')	26	ha continuato	ha	continuato	avere	continuare	AUX	VERB	kept going
+('auto_auto_NOUN', 'è_essere_AUX')	26	auto è	auto	è	auto	essere	NOUN	AUX	car is
+('diede_dare_VERB', 'un_uno_DET')	26	diede un	diede	un	dare	uno	VERB	DET	gave a
+('di_di_ADP', 'mia_mio_DET')	26	di mia	di	mia	di	mio	ADP	DET	of my (feminine)
+('dato_dare_VERB', 'una_uno_DET')	26	dato una	dato	una	dare	uno	VERB	DET	gave a
+('la_il_DET', 'gamba_gamba_NOUN')	26	la gamba	la	gamba	il	gamba	DET	NOUN	the leg
+('stava_stare_AUX', 'cercando_cercare_VERB')	26	stava cercando	stava	cercando	stare	cercare	AUX	VERB	was looking for
+('questa_questo_DET', 'scatola_scatola_NOUN')	26	questa scatola	questa	scatola	questo	scatola	DET	NOUN	this box
+('imparato_imparare_VERB', 'a_a_ADP')	26		imparato	a	imparare	a	VERB	ADP	learned to
+('di_di_ADP', 'musica_musica_NOUN')	26	di musica	di	musica	di	musica	ADP	NOUN	of music
+('è_essere_AUX', 'da_da_ADP')	26	è da	è	da	essere	da	AUX	ADP	has been for
+('volevo_volere_VERB', 'che_che_SCONJ')	25	volevo che	volevo	che	volere	che	VERB	SCONJ	I wanted
+('è_essere_AUX', 'solamente_solamente_ADV')	25	è solamente	è	solamente	essere	solamente	AUX	ADV	is only
+('di_di_ADP', 'fretta_fretta_NOUN')	25	di fretta	di	fretta	di	fretta	ADP	NOUN	in a hurry
+('fa_fare_VERB', 'piacere_piacere_NOUN')	25	fa piacere	fa	piacere	fare	piacere	VERB	NOUN	it feels good
