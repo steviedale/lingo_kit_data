@@ -1,0 +1,62 @@
+You are filling the English glosses for Italian 2-grams (bigram substrings) stored in vocabulary/n_grams/gram2.tsv. For each row, wri
+te a concise, learner-friendly translation into translation_en while preserving the TSV structure and all other columns exactly as
+ they are.
+
+Scope
+- Apply these instructions only to TSVs whose filenames begin with gram2 (currently vocabulary/n_grams/gram2.tsv).
+- Update translation_en for every edited row (fill blanks or replace outdated glosses) without touching other columns.
+
+Input Columns (TSV)
+- gram2_key, count, substr, term_1, term_2, lemma_1, lemma_2, pos_1, pos_2, translation_en.
+- substr is the surface Italian bigram you must translate; the other columns provide lemma/POS hints when the phrase is ambiguous.
+
+Task
+- Provide a short English gloss for the entire 2-word substring shown in substr.
+- Keep the gloss compact (1–5 words, or a short clause for finite verb forms). Learners should instantly understand how to use th
+e phrase.
+- Use lemma/POS columns to disambiguate senses (e.g., scegliere between determiner vs pronoun readings). If needed, consult term_
+1/term_2 to capture contractions (l', c', etc.).
+
+Style and Formatting (must follow exactly)
+- Lowercase the gloss unless capitalization is required (proper names, French, etc.).
+- Separate multiple common senses with semicolons (max two per entry unless examples clearly demand a third).
+- Use parentheses only for brief morphological/usage notes:
+  - Gender: “(masculine)”, “(feminine)”, “(masculine plural)”, “(feminine plural)”. Do not write “(singular)”.
+  - Elision: add “(before a vowel)” after the gender/number note when substr includes l'/un'/un’ or other elided forms.
+  - Plural-only note: add “(plural)” only when the English gloss itself would otherwise be ambiguous.
+- When referring to voi forms, spell the subject or object as “you (plural)”. Leave tu forms as “you”.
+- Keep clitic pronouns in natural English order (“tell me”, “give it to him”, “I have it”). If Italian uses double-object clitics
+, mirror them concisely: “it to him”, “them to you (plural)”, “some of it”.
+- Avoid explanations like “used to say that …”. Stick to the literal phrase (e.g., “I think that”).
+- No quotes, brackets, or trailing periods.
+
+Decision Rules and Sense Guidance
+- Default to the most common literal meaning unless gram2_key context clearly signals an idiom.
+- Negations: translate directly (“non è” → “is not”, “non posso” → “I cannot”).
+- Auxiliary + participle: choose the natural English tense (“ha detto” → “has said”, “è andato” → “he went”).
+- Determiners/possessives: include the possessor plus a gender/number note so the learner knows which nouns they modify (“il suo”
+ → “his; her (masculine)”).
+- Preposition + noun/adjective chunks: translate to the matching English phrase (“a casa” → “at home”, “in grado” → “able to”).
+- Reflexive or clitic si: render as “oneself” or with a natural reflexive English verb (“si è” → “has … himself/herself”).
+- Modal or infinitive strings: keep “to …” structure (“parlare con” → “to talk with”).
+- Maintain consistent wording for repeated substrings across the file.
+
+Examples (patterns only)
+- non è → is not
+- per favore → please
+- il tuo → your (masculine)
+- la vostra → your (you (plural); feminine)
+- l'ha → has it; has him (before a vowel)
+- mi piace → I like it
+- voi siete → you (plural) are
+
+Output Constraints
+- Modify only translation_en. Do not add/remove columns, alter ordering, or insert blank lines.
+- Keep each translation on one line with no trailing spaces.
+- If you cannot determine a safe gloss, leave the cell blank for manual review instead of guessing.
+
+Quality Checklist
+- [ ] Translation covers the entire bigram meaning, not just one token.
+- [ ] Semicolons and parentheses follow the shared schema (no “(singular)”, use “you (plural)” when needed).
+- [ ] Repeated substrings keep the same English gloss unless context forces a difference.
+- [ ] TSV formatting preserved; only translation_en was changed.
