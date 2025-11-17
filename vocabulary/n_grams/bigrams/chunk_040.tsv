@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('ho_avere_VERB', 'i_il_DET')	13		ho	i	avere	il	VERB	DET	
-('di_di_ADP', 'vendere_vendere_VERB')	13	di vendere	di	vendere	di	vendere	ADP	VERB	
-('andiamo_andare_VERB', 'in_in_ADP')	13	andiamo in	andiamo	in	andare	in	VERB	ADP	
-('mi_mi_PRON', 'ricordo_ricordare_VERB')	13	mi ricordo	mi	ricordo	mi	ricordare	PRON	VERB	
-"('essere_essere_AUX', ""un'_uno_DET"")"	13	essere un'	essere	un'	essere	uno	AUX	DET	
-('odia_odiare_VERB', 'i_il_DET')	13	odi	odia	i	odiare	il	VERB	DET	
-('molte_molto_DET', 'volte_volta_NOUN')	13	molte volte	molte	volte	molto	volta	DET	NOUN	
-('di_di_ADP', 'cattivo_cattivo_ADJ')	13	di cattivo	di	cattivo	di	cattivo	ADP	ADJ	
-('piacerebbe_piacere_VERB', 'andare_andare_VERB')	12	piacerebbe andare	piacerebbe	andare	piacere	andare	VERB	VERB	
-('il_il_DET', 'vecchio_vecchio_ADJ')	12	il vecchio	il	vecchio	il	vecchio	DET	ADJ	
-('sarei_essere_AUX', 'dovuta_dovere_AUX')	12	sarei dovuta	sarei	dovuta	essere	dovere	AUX	AUX	
-('il_il_DET', 'castello_castello_NOUN')	12	il castello	il	castello	il	castello	DET	NOUN	
-('delle_di_ADP', 'persone_persona_NOUN')	12	delle persone	delle	persone	di	persona	ADP	NOUN	
-"(""com'_come_ADV"", 'era_essere_AUX')"	12	com'era	com'	era	come	essere	ADV	AUX	
-('vi_vi_PRON', 'sta_stare_AUX')	12	vi sta	vi	sta	vi	stare	PRON	AUX	
-('sarei_essere_AUX', 'dovuto_dovere_AUX')	12	sarei dovuto	sarei	dovuto	essere	dovere	AUX	AUX	
-('devi_dovere_AUX', 'fare_fare_VERB')	12	devi fare	devi	fare	dovere	fare	AUX	VERB	
-('soffre_soffrire_VERB', 'di_di_ADP')	12	soffre di	soffre	di	soffrire	di	VERB	ADP	
-('una_uno_DET', 'perdita_perdita_NOUN')	12	una perdita	una	perdita	uno	perdita	DET	NOUN	
-('lei_lei_PRON', 'la_la_PRON')	12	lei la	lei	la	lei	la	PRON	PRON	
-('è_essere_AUX', 'corretta_correggere_VERB')	12	è corretta	è	corretta	essere	correggere	AUX	VERB	
-('dietro_dietro_ADP', 'la_il_DET')	12	dietro la	dietro	la	dietro	il	ADP	DET	
-('che_che_SCONJ', 'sarei_essere_AUX')	12	che sarei	che	sarei	che	essere	SCONJ	AUX	
-('facendo_fare_VERB', 'questo_questo_PRON')	12	facendo questo	facendo	questo	fare	questo	VERB	PRON	
-('è_essere_AUX', 'alla_a_ADP')	12	è alla	è	alla	essere	a	AUX	ADP	
-('il_il_DET', 'pomeriggio_pomeriggio_NOUN')	12	il pomeriggio	il	pomeriggio	il	pomeriggio	DET	NOUN	
-('mio_mio_DET', 'paese_paese_NOUN')	12	mio paese	mio	paese	mio	paese	DET	NOUN	
-('vi_vi_PRON', 'darò_dare_VERB')	12	vi darò	vi	darò	vi	dare	PRON	VERB	
-('hai_avere_VERB', 'ancora_ancora_ADV')	12	hai ancora	hai	ancora	avere	ancora	VERB	ADV	
-('non_non_ADV', 'fece_fare_VERB')	12	non fece	non	fece	non	fare	ADV	VERB	
-('i_il_DET', 'problemi_problema_NOUN')	12	i problemi	i	problemi	il	problema	DET	NOUN	
-('del_di_ADP', 'problema_problema_NOUN')	12	del problema	del	problema	di	problema	ADP	NOUN	
-('un_uno_DET', 'bacio_bacio_NOUN')	12	un bacio	un	bacio	uno	bacio	DET	NOUN	
-('ti_ti_PRON', 'sei_essere_AUX')	12	ti sei	ti	sei	ti	essere	PRON	AUX	
-('mangiare_mangiare_VERB', 'la_il_DET')	12	mangiare la	mangiare	la	mangiare	il	VERB	DET	
-('che_che_SCONJ', 'dovreste_dovere_AUX')	12	che dovreste	che	dovreste	che	dovere	SCONJ	AUX	
-('non_non_ADV', 'fate_fare_VERB')	12	non fate	non	fate	non	fare	ADV	VERB	
-('siate_essere_AUX', 'troppo_troppo_ADV')	12	siate troppo	siate	troppo	essere	troppo	AUX	ADV	
-('dire_dire_VERB', 'il_il_DET')	12	dire il	dire	il	dire	il	VERB	DET	
-('voglio_volere_AUX', 'vivere_vivere_VERB')	12	voglio vivere	voglio	vivere	volere	vivere	AUX	VERB	
-('si_si_PRON', 'tolse_togliere_VERB')	12	si tolse	si	tolse	si	togliere	PRON	VERB	
-('vuole_volere_AUX', 'farlo_fare_VERB')	12	vuole farlo	vuole	farlo	volere	fare	AUX	VERB	
-('la_il_DET', 'soluzione_soluzione_NOUN')	12	la soluzione	la	soluzione	il	soluzione	DET	NOUN	
-('abbastanza_abbastanza_ADV', 'soldi_soldo_NOUN')	12	abbastanza soldi	abbastanza	soldi	abbastanza	soldo	ADV	NOUN	
-('ho_avere_AUX', 'giocato_giocare_VERB')	12	ho giocato	ho	giocato	avere	giocare	AUX	VERB	
-('vuoi_volere_VERB', 'un_uno_DET')	12	vuoi un	vuoi	un	volere	uno	VERB	DET	
-('di_di_ADP', 'male_male_NOUN')	12	di male	di	male	di	male	ADP	NOUN	
-('non_non_ADV', 'succederà_succedere_VERB')	12	non succederà	non	succederà	non	succedere	ADV	VERB	
-('noi_noi_PRON', 'saremo_essere_AUX')	12	noi saremo	noi	saremo	noi	essere	PRON	AUX	
-('sta_stare_AUX', 'scrivendo_scrivere_VERB')	12	sta scrivendo	sta	scrivendo	stare	scrivere	AUX	VERB	
-('anziano_anziano_ADJ', 'di_di_ADP')	12	anziano di	anziano	di	anziano	di	ADJ	ADP	
-('compagno_compagno_NOUN', 'di_di_ADP')	12	compagno di	compagno	di	compagno	di	NOUN	ADP	
-('hai_avere_VERB', 'la_il_DET')	12	hai la	hai	la	avere	il	VERB	DET	
-('questa_questo_DET', 'roba_roba_NOUN')	12	questa roba	questa	roba	questo	roba	DET	NOUN	
-('sia_essere_AUX', 'divertente_divertente_ADJ')	12	sia divertente	sia	divertente	essere	divertente	AUX	ADJ	
-('più_più_ADV', 'vecchia_vecchio_ADJ')	12	più vecchia	più	vecchia	più	vecchio	ADV	ADJ	
-('nessuno_nessuno_PRON', 'le_le_PRON')	12	nessuno le	nessuno	le	nessuno	le	PRON	PRON	
-('di_di_ADP', 'chiamarmi_chiamare_VERB')	12	di chiamarmi	di	chiamarmi	di	chiamare	ADP	VERB	
-('possiede_possedere_VERB', 'una_uno_DET')	12	possiede una	possiede	una	possedere	uno	VERB	DET	
-('una_uno_DET', 'religione_religione_NOUN')	12	una religione	una	religione	uno	religione	DET	NOUN	
-('non_non_ADV', 'parli_parlare_VERB')	12	non parli	non	parli	non	parlare	ADV	VERB	
-('hanno_avere_AUX', 'mai_mai_ADV')	12	hanno mai	hanno	mai	avere	mai	AUX	ADV	
-('musica_musica_NOUN', 'classica_classico_ADJ')	12	musica classica	musica	classica	musica	classico	NOUN	ADJ	
-('al_a_ADP', 'mese_mese_NOUN')	12	al mese	al	mese	a	mese	ADP	NOUN	
-('tutti_tutto_PRON', 'hanno_avere_VERB')	12	tutti hanno	tutti	hanno	tutto	avere	PRON	VERB	
-('mai_mai_ADV', 'voluto_volere_AUX')	12	mai voluto	mai	voluto	mai	volere	ADV	AUX	
-('tu_tu_PRON', 'cosa_cosa_PRON')	12	tu cosa	tu	cosa	tu	cosa	PRON	PRON	
-('è_essere_AUX', 'tornata_tornare_VERB')	12	è tornata	è	tornata	essere	tornare	AUX	VERB	
-('vuole_volere_AUX', 'mangiare_mangiare_VERB')	12	vuole mangiare	vuole	mangiare	volere	mangiare	AUX	VERB	
-('in_in_ADP', 'quale_quale_DET')	12	in quale	in	quale	in	quale	ADP	DET	
-('sono_essere_AUX', 'proprio_proprio_ADV')	12	sono proprio	sono	proprio	essere	proprio	AUX	ADV	
-('farlo_fare_VERB', 'oggi_oggi_ADV')	12	farlo oggi	farlo	oggi	fare	oggi	VERB	ADV	
-('casa_casa_NOUN', 'la_il_DET')	12	casa la	casa	la	casa	il	NOUN	DET	
-"(""dall'_da_ADP"", 'inizio_inizio_NOUN')"	12	dall'inizio	dall'	inizio	da	inizio	ADP	NOUN	
-('il_il_DET', 'ghiaccio_ghiaccio_NOUN')	12	il ghiaccio	il	ghiaccio	il	ghiaccio	DET	NOUN	
-('avete_avere_AUX', 'portato_portare_VERB')	12	avete portato	avete	portato	avere	portare	AUX	VERB	
-('viene_venire_VERB', 'dalla_da_ADP')	12	viene dalla	viene	dalla	venire	da	VERB	ADP	
-('passato_passare_VERB', 'la_il_DET')	12	passato la	passato	la	passare	il	VERB	DET	
-('a_a_ADP', 'posto_posto_NOUN')	12	a posto	a	posto	a	posto	ADP	NOUN	
-('in_in_ADP', 'servizio_servizio_NOUN')	12	in servizio	in	servizio	in	servizio	ADP	NOUN	
-('è_essere_AUX', 'ritornato_ritornare_VERB')	12	è ritornato	è	ritornato	essere	ritornare	AUX	VERB	
-('il_il_DET', 'tipo_tipo_NOUN')	12	il tipo	il	tipo	il	tipo	DET	NOUN	
-('il_il_DET', 'maiale_maiale_NOUN')	12	il maiale	il	maiale	il	maiale	DET	NOUN	
-('delle_di_ADP', 'amiche_amico_NOUN')	12	delle amiche	delle	amiche	di	amico	ADP	NOUN	
-('sono_essere_AUX', 'fiero_fiero_ADJ')	12	sono fiero	sono	fiero	essere	fiero	AUX	ADJ	
-('è_essere_AUX', 'scusato_scusare_VERB')	12	è scusato	è	scusato	essere	scusare	AUX	VERB	
-('o_o_CCONJ', 'il_il_DET')	12		o	il	o	il	CCONJ	DET	
-('la_il_DET', 'fotografia_fotografia_NOUN')	12	la fotografia	la	fotografia	il	fotografia	DET	NOUN	
-('compleanno_compleanno_NOUN', 'di_di_ADP')	12	compleanno di	compleanno	di	compleanno	di	NOUN	ADP	
-('il_il_DET', 'compleanno_compleanno_NOUN')	12	il compleanno	il	compleanno	il	compleanno	DET	NOUN	
-('quella_quello_DET', 'scatola_scatola_NOUN')	12	quella scatola	quella	scatola	quello	scatola	DET	NOUN	
-('un_uno_DET', 'giocatore_giocatore_NOUN')	12	un giocatore	un	giocatore	uno	giocatore	DET	NOUN	
-('noi_noi_PRON', 'possiamo_potere_AUX')	12	noi possiamo	noi	possiamo	noi	potere	PRON	AUX	
-('mie_mio_DET', 'scarpe_scarpa_NOUN')	12	mie scarpe	mie	scarpe	mio	scarpa	DET	NOUN	
-('sua_suo_DET', 'idea_idea_NOUN')	12	sua idea	sua	idea	suo	idea	DET	NOUN	
-('sono_essere_AUX', 'gli_il_DET')	12	sono gli	sono	gli	essere	il	AUX	DET	
-('onesta_onesto_ADJ', 'con_con_ADP')	12	onesta con	onesta	con	onesto	con	ADJ	ADP	
-('le_il_DET', 'prove_prova_NOUN')	12	le prove	le	prove	il	prova	DET	NOUN	
-('già_già_ADV', 'parlato_parlare_VERB')	12	già parlato	già	parlato	già	parlare	ADV	VERB	
-('farei_fare_VERB', 'mai_mai_ADV')	12	farei mai	farei	mai	fare	mai	VERB	ADV	
+('ho_avere_VERB', 'i_il_DET')	13		ho	i	avere	il	VERB	DET	i have the
+('di_di_ADP', 'vendere_vendere_VERB')	13	di vendere	di	vendere	di	vendere	ADP	VERB	to sell
+('andiamo_andare_VERB', 'in_in_ADP')	13	andiamo in	andiamo	in	andare	in	VERB	ADP	we go to
+('mi_mi_PRON', 'ricordo_ricordare_VERB')	13	mi ricordo	mi	ricordo	mi	ricordare	PRON	VERB	i remember
+"('essere_essere_AUX', ""un'_uno_DET"")"	13	essere un'	essere	un'	essere	uno	AUX	DET	to be a
+('odia_odiare_VERB', 'i_il_DET')	13	odi	odia	i	odiare	il	VERB	DET	you hate
+('molte_molto_DET', 'volte_volta_NOUN')	13	molte volte	molte	volte	molto	volta	DET	NOUN	many times
+('di_di_ADP', 'cattivo_cattivo_ADJ')	13	di cattivo	di	cattivo	di	cattivo	ADP	ADJ	of bad
+('piacerebbe_piacere_VERB', 'andare_andare_VERB')	12	piacerebbe andare	piacerebbe	andare	piacere	andare	VERB	VERB	would like to go
+('il_il_DET', 'vecchio_vecchio_ADJ')	12	il vecchio	il	vecchio	il	vecchio	DET	ADJ	the old man
+('sarei_essere_AUX', 'dovuta_dovere_AUX')	12	sarei dovuta	sarei	dovuta	essere	dovere	AUX	AUX	i should have (feminine)
+('il_il_DET', 'castello_castello_NOUN')	12	il castello	il	castello	il	castello	DET	NOUN	the castle
+('delle_di_ADP', 'persone_persona_NOUN')	12	delle persone	delle	persone	di	persona	ADP	NOUN	of the people
+"(""com'_come_ADV"", 'era_essere_AUX')"	12	com'era	com'	era	come	essere	ADV	AUX	how it was
+('vi_vi_PRON', 'sta_stare_AUX')	12	vi sta	vi	sta	vi	stare	PRON	AUX	it suits you (plural)
+('sarei_essere_AUX', 'dovuto_dovere_AUX')	12	sarei dovuto	sarei	dovuto	essere	dovere	AUX	AUX	i should have (masculine)
+('devi_dovere_AUX', 'fare_fare_VERB')	12	devi fare	devi	fare	dovere	fare	AUX	VERB	you must do
+('soffre_soffrire_VERB', 'di_di_ADP')	12	soffre di	soffre	di	soffrire	di	VERB	ADP	suffers from
+('una_uno_DET', 'perdita_perdita_NOUN')	12	una perdita	una	perdita	uno	perdita	DET	NOUN	a loss
+('lei_lei_PRON', 'la_la_PRON')	12	lei la	lei	la	lei	la	PRON	PRON	she the
+('è_essere_AUX', 'corretta_correggere_VERB')	12	è corretta	è	corretta	essere	correggere	AUX	VERB	is correct (feminine)
+('dietro_dietro_ADP', 'la_il_DET')	12	dietro la	dietro	la	dietro	il	ADP	DET	behind the
+('che_che_SCONJ', 'sarei_essere_AUX')	12	che sarei	che	sarei	che	essere	SCONJ	AUX	that i would
+('facendo_fare_VERB', 'questo_questo_PRON')	12	facendo questo	facendo	questo	fare	questo	VERB	PRON	doing this
+('è_essere_AUX', 'alla_a_ADP')	12	è alla	è	alla	essere	a	AUX	ADP	is at the
+('il_il_DET', 'pomeriggio_pomeriggio_NOUN')	12	il pomeriggio	il	pomeriggio	il	pomeriggio	DET	NOUN	the afternoon
+('mio_mio_DET', 'paese_paese_NOUN')	12	mio paese	mio	paese	mio	paese	DET	NOUN	my country (masculine)
+('vi_vi_PRON', 'darò_dare_VERB')	12	vi darò	vi	darò	vi	dare	PRON	VERB	i will give you (plural)
+('hai_avere_VERB', 'ancora_ancora_ADV')	12	hai ancora	hai	ancora	avere	ancora	VERB	ADV	you still have
+('non_non_ADV', 'fece_fare_VERB')	12	non fece	non	fece	non	fare	ADV	VERB	did not do
+('i_il_DET', 'problemi_problema_NOUN')	12	i problemi	i	problemi	il	problema	DET	NOUN	the problems
+('del_di_ADP', 'problema_problema_NOUN')	12	del problema	del	problema	di	problema	ADP	NOUN	of the problem
+('un_uno_DET', 'bacio_bacio_NOUN')	12	un bacio	un	bacio	uno	bacio	DET	NOUN	a kiss
+('ti_ti_PRON', 'sei_essere_AUX')	12	ti sei	ti	sei	ti	essere	PRON	AUX	you have yourself
+('mangiare_mangiare_VERB', 'la_il_DET')	12	mangiare la	mangiare	la	mangiare	il	VERB	DET	to eat the
+('che_che_SCONJ', 'dovreste_dovere_AUX')	12	che dovreste	che	dovreste	che	dovere	SCONJ	AUX	that you (plural) should
+('non_non_ADV', 'fate_fare_VERB')	12	non fate	non	fate	non	fare	ADV	VERB	do not do
+('siate_essere_AUX', 'troppo_troppo_ADV')	12	siate troppo	siate	troppo	essere	troppo	AUX	ADV	be too
+('dire_dire_VERB', 'il_il_DET')	12	dire il	dire	il	dire	il	VERB	DET	say the
+('voglio_volere_AUX', 'vivere_vivere_VERB')	12	voglio vivere	voglio	vivere	volere	vivere	AUX	VERB	i want to live
+('si_si_PRON', 'tolse_togliere_VERB')	12	si tolse	si	tolse	si	togliere	PRON	VERB	took off
+('vuole_volere_AUX', 'farlo_fare_VERB')	12	vuole farlo	vuole	farlo	volere	fare	AUX	VERB	wants to do it
+('la_il_DET', 'soluzione_soluzione_NOUN')	12	la soluzione	la	soluzione	il	soluzione	DET	NOUN	the solution
+('abbastanza_abbastanza_ADV', 'soldi_soldo_NOUN')	12	abbastanza soldi	abbastanza	soldi	abbastanza	soldo	ADV	NOUN	enough money
+('ho_avere_AUX', 'giocato_giocare_VERB')	12	ho giocato	ho	giocato	avere	giocare	AUX	VERB	i played
+('vuoi_volere_VERB', 'un_uno_DET')	12	vuoi un	vuoi	un	volere	uno	VERB	DET	you want a
+('di_di_ADP', 'male_male_NOUN')	12	di male	di	male	di	male	ADP	NOUN	of harm
+('non_non_ADV', 'succederà_succedere_VERB')	12	non succederà	non	succederà	non	succedere	ADV	VERB	will not happen
+('noi_noi_PRON', 'saremo_essere_AUX')	12	noi saremo	noi	saremo	noi	essere	PRON	AUX	we will be
+('sta_stare_AUX', 'scrivendo_scrivere_VERB')	12	sta scrivendo	sta	scrivendo	stare	scrivere	AUX	VERB	is writing
+('anziano_anziano_ADJ', 'di_di_ADP')	12	anziano di	anziano	di	anziano	di	ADJ	ADP	older than
+('compagno_compagno_NOUN', 'di_di_ADP')	12	compagno di	compagno	di	compagno	di	NOUN	ADP	companion of
+('hai_avere_VERB', 'la_il_DET')	12	hai la	hai	la	avere	il	VERB	DET	you have the
+('questa_questo_DET', 'roba_roba_NOUN')	12	questa roba	questa	roba	questo	roba	DET	NOUN	this stuff
+('sia_essere_AUX', 'divertente_divertente_ADJ')	12	sia divertente	sia	divertente	essere	divertente	AUX	ADJ	be fun
+('più_più_ADV', 'vecchia_vecchio_ADJ')	12	più vecchia	più	vecchia	più	vecchio	ADV	ADJ	older (feminine)
+('nessuno_nessuno_PRON', 'le_le_PRON')	12	nessuno le	nessuno	le	nessuno	le	PRON	PRON	nobody to her
+('di_di_ADP', 'chiamarmi_chiamare_VERB')	12	di chiamarmi	di	chiamarmi	di	chiamare	ADP	VERB	to call me
+('possiede_possedere_VERB', 'una_uno_DET')	12	possiede una	possiede	una	possedere	uno	VERB	DET	owns a
+('una_uno_DET', 'religione_religione_NOUN')	12	una religione	una	religione	uno	religione	DET	NOUN	a religion
+('non_non_ADV', 'parli_parlare_VERB')	12	non parli	non	parli	non	parlare	ADV	VERB	do not speak
+('hanno_avere_AUX', 'mai_mai_ADV')	12	hanno mai	hanno	mai	avere	mai	AUX	ADV	they have ever
+('musica_musica_NOUN', 'classica_classico_ADJ')	12	musica classica	musica	classica	musica	classico	NOUN	ADJ	classical music
+('al_a_ADP', 'mese_mese_NOUN')	12	al mese	al	mese	a	mese	ADP	NOUN	per month
+('tutti_tutto_PRON', 'hanno_avere_VERB')	12	tutti hanno	tutti	hanno	tutto	avere	PRON	VERB	everyone has
+('mai_mai_ADV', 'voluto_volere_AUX')	12	mai voluto	mai	voluto	mai	volere	ADV	AUX	ever wanted
+('tu_tu_PRON', 'cosa_cosa_PRON')	12	tu cosa	tu	cosa	tu	cosa	PRON	PRON	you what
+('è_essere_AUX', 'tornata_tornare_VERB')	12	è tornata	è	tornata	essere	tornare	AUX	VERB	has returned (feminine)
+('vuole_volere_AUX', 'mangiare_mangiare_VERB')	12	vuole mangiare	vuole	mangiare	volere	mangiare	AUX	VERB	wants to eat
+('in_in_ADP', 'quale_quale_DET')	12	in quale	in	quale	in	quale	ADP	DET	in which
+('sono_essere_AUX', 'proprio_proprio_ADV')	12	sono proprio	sono	proprio	essere	proprio	AUX	ADV	are really
+('farlo_fare_VERB', 'oggi_oggi_ADV')	12	farlo oggi	farlo	oggi	fare	oggi	VERB	ADV	do it today
+('casa_casa_NOUN', 'la_il_DET')	12	casa la	casa	la	casa	il	NOUN	DET	house the
+"(""dall'_da_ADP"", 'inizio_inizio_NOUN')"	12	dall'inizio	dall'	inizio	da	inizio	ADP	NOUN	from the beginning
+('il_il_DET', 'ghiaccio_ghiaccio_NOUN')	12	il ghiaccio	il	ghiaccio	il	ghiaccio	DET	NOUN	the ice
+('avete_avere_AUX', 'portato_portare_VERB')	12	avete portato	avete	portato	avere	portare	AUX	VERB	you brought
+('viene_venire_VERB', 'dalla_da_ADP')	12	viene dalla	viene	dalla	venire	da	VERB	ADP	comes from the
+('passato_passare_VERB', 'la_il_DET')	12	passato la	passato	la	passare	il	VERB	DET	spent the
+('a_a_ADP', 'posto_posto_NOUN')	12	a posto	a	posto	a	posto	ADP	NOUN	all set
+('in_in_ADP', 'servizio_servizio_NOUN')	12	in servizio	in	servizio	in	servizio	ADP	NOUN	on duty
+('è_essere_AUX', 'ritornato_ritornare_VERB')	12	è ritornato	è	ritornato	essere	ritornare	AUX	VERB	has returned (masculine)
+('il_il_DET', 'tipo_tipo_NOUN')	12	il tipo	il	tipo	il	tipo	DET	NOUN	the guy
+('il_il_DET', 'maiale_maiale_NOUN')	12	il maiale	il	maiale	il	maiale	DET	NOUN	the pig
+('delle_di_ADP', 'amiche_amico_NOUN')	12	delle amiche	delle	amiche	di	amico	ADP	NOUN	of female friends
+('sono_essere_AUX', 'fiero_fiero_ADJ')	12	sono fiero	sono	fiero	essere	fiero	AUX	ADJ	i am proud
+('è_essere_AUX', 'scusato_scusare_VERB')	12	è scusato	è	scusato	essere	scusare	AUX	VERB	is excused
+('o_o_CCONJ', 'il_il_DET')	12		o	il	o	il	CCONJ	DET	i have the
+('la_il_DET', 'fotografia_fotografia_NOUN')	12	la fotografia	la	fotografia	il	fotografia	DET	NOUN	the photograph
+('compleanno_compleanno_NOUN', 'di_di_ADP')	12	compleanno di	compleanno	di	compleanno	di	NOUN	ADP	birthday of
+('il_il_DET', 'compleanno_compleanno_NOUN')	12	il compleanno	il	compleanno	il	compleanno	DET	NOUN	the birthday
+('quella_quello_DET', 'scatola_scatola_NOUN')	12	quella scatola	quella	scatola	quello	scatola	DET	NOUN	that box
+('un_uno_DET', 'giocatore_giocatore_NOUN')	12	un giocatore	un	giocatore	uno	giocatore	DET	NOUN	a player
+('noi_noi_PRON', 'possiamo_potere_AUX')	12	noi possiamo	noi	possiamo	noi	potere	PRON	AUX	we can
+('mie_mio_DET', 'scarpe_scarpa_NOUN')	12	mie scarpe	mie	scarpe	mio	scarpa	DET	NOUN	my shoes (feminine plural)
+('sua_suo_DET', 'idea_idea_NOUN')	12	sua idea	sua	idea	suo	idea	DET	NOUN	his idea; her idea (feminine)
+('sono_essere_AUX', 'gli_il_DET')	12	sono gli	sono	gli	essere	il	AUX	DET	are the
+('onesta_onesto_ADJ', 'con_con_ADP')	12	onesta con	onesta	con	onesto	con	ADJ	ADP	honest with
+('le_il_DET', 'prove_prova_NOUN')	12	le prove	le	prove	il	prova	DET	NOUN	the evidence
+('già_già_ADV', 'parlato_parlare_VERB')	12	già parlato	già	parlato	già	parlare	ADV	VERB	already spoken
+('farei_fare_VERB', 'mai_mai_ADV')	12	farei mai	farei	mai	fare	mai	VERB	ADV	i would ever do
