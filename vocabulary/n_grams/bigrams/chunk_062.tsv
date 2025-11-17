@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('permesso_permettere_VERB', 'di_di_ADP')	8	permesso di	permesso	di	permettere	di	VERB	ADP	
-('ancora_ancora_ADV', 'andare_andare_VERB')	8	ancora andare	ancora	andare	ancora	andare	ADV	VERB	
-('a_a_ADP', 'dieta_dieta_NOUN')	8	a dieta	a	dieta	a	dieta	ADP	NOUN	
-('la_il_DET', 'pace_pace_NOUN')	8	la pace	la	pace	il	pace	DET	NOUN	
-('abbia_avere_VERB', 'ragione_ragione_NOUN')	8	abbia ragione	abbia	ragione	avere	ragione	VERB	NOUN	
-('lingua_lingua_NOUN', 'straniera_straniero_ADJ')	8	lingua straniera	lingua	straniera	lingua	straniero	NOUN	ADJ	
-('vi_vi_PRON', 'hanno_avere_AUX')	8	vi hanno	vi	hanno	vi	avere	PRON	AUX	
-('me_me_PRON', 'manca_mancare_VERB')	8	me manca	me	manca	me	mancare	PRON	VERB	
-('qui_qui_ADV', 'finché_finché_SCONJ')	8	qui finché	qui	finché	qui	finché	ADV	SCONJ	
-('quella_quello_DET', 'cosa_cosa_NOUN')	8	quella cosa	quella	cosa	quello	cosa	DET	NOUN	
-('casa_casa_NOUN', 'oggi_oggi_ADV')	8	casa oggi	casa	oggi	casa	oggi	NOUN	ADV	
-('nei_in_ADP', 'loro_loro_DET')	8	nei loro	nei	loro	in	loro	ADP	DET	
-"('contro_contro_ADP', ""l'_il_DET"")"	8	contro l'	contro	l'	contro	il	ADP	DET	
-('qui_qui_ADV', 'fino_fino_ADV')	8	qui fino	qui	fino	qui	fino	ADV	ADV	
-('a_a_ADP', 'tornare_tornare_VERB')	8	arei meglio a tornare	a	tornare	a	tornare	ADP	VERB	
-('la_la_PRON', 'vedo_vedere_VERB')	8	la vedo	la	vedo	la	vedere	PRON	VERB	
-('nuovo_nuovo_ADJ', 'libro_libro_NOUN')	8	nuovo libro	nuovo	libro	nuovo	libro	ADJ	NOUN	
-('parla_parlare_VERB', 'bene_bene_ADV')	8	parla bene	parla	bene	parlare	bene	VERB	ADV	
-('è_essere_AUX', 'quella_quello_DET')	8	è quella	è	quella	essere	quello	AUX	DET	
-('unica_unico_ADJ', 'persona_persona_NOUN')	8	unica persona	unica	persona	unico	persona	ADJ	NOUN	
-('perso_perdere_VERB', 'le_il_DET')	8	perso le	perso	le	perdere	il	VERB	DET	
-('niente_niente_PRON', 'in_in_ADP')	8	niente in	niente	in	niente	in	PRON	ADP	
-('in_in_ADP', 'tanto_tanto_ADV')	8		in	tanto	in	tanto	ADP	ADV	
-('viene_venire_VERB', 'dal_da_ADP')	8	viene dal	viene	dal	venire	da	VERB	ADP	
-('un_uno_DET', 'panda_panda_NOUN')	8	un panda	un	panda	uno	panda	DET	NOUN	
-('casa_casa_NOUN', 'ha_avere_VERB')	8	casa ha	casa	ha	casa	avere	NOUN	VERB	
-('lavato_lavare_VERB', 'i_il_DET')	8		lavato	i	lavare	il	VERB	DET	
-('è_essere_AUX', 'verde_verde_ADJ')	8	è verde	è	verde	essere	verde	AUX	ADJ	
-('aveva_avere_AUX', 'mai_mai_ADV')	8	aveva mai	aveva	mai	avere	mai	AUX	ADV	
-('dei_di_ADP', 'francobolli_francobollo_NOUN')	8	dei francobolli	dei	francobolli	di	francobollo	ADP	NOUN	
-('provare_provare_VERB', 'ad_a_ADP')	8	provare ad	provare	ad	provare	a	VERB	ADP	
-('mio_mio_DET', 'cugino_cugino_NOUN')	8	mio cugino	mio	cugino	mio	cugino	DET	NOUN	
-('lo_lo_PRON', 'state_essere_AUX')	8	lo state	lo	state	lo	essere	PRON	AUX	
-"(""all'_a_ADP"", 'istante_istante_NOUN')"	8	all'istante	all'	istante	a	istante	ADP	NOUN	
-"('insegna_insegnare_VERB', ""l'_il_DET"")"	8	insegna l'	insegna	l'	insegnare	il	VERB	DET	
-('dopo_dopo_ADP', 'le_il_DET')	8	dopo le	dopo	le	dopo	il	ADP	DET	
-('ero_essere_AUX', 'veramente_veramente_ADV')	8	ero veramente	ero	veramente	essere	veramente	AUX	ADV	
-('del_di_ADP', 'ketchup_ketchup_NOUN')	8	del ketchup	del	ketchup	di	ketchup	ADP	NOUN	
-('è_essere_AUX', 'durato_durare_VERB')	8	è durato	è	durato	essere	durare	AUX	VERB	
-('compagni_compagno_NOUN', 'di_di_ADP')	8	compagni di	compagni	di	compagno	di	NOUN	ADP	
-('di_di_ADP', 'classe_classe_NOUN')	8	di classe	di	classe	di	classe	ADP	NOUN	
-('ha_avere_AUX', 'raggiunto_raggiungere_VERB')	8	ha raggiunto	ha	raggiunto	avere	raggiungere	AUX	VERB	
-('tutto_tutto_PRON', 'con_con_ADP')	8	tutto con	tutto	con	tutto	con	PRON	ADP	
-('libro_libro_NOUN', 'interessante_interessante_ADJ')	8	libro interessante	libro	interessante	libro	interessante	NOUN	ADJ	
-('peccato_peccato_NOUN', 'che_che_SCONJ')	8	peccato che	peccato	che	peccato	che	NOUN	SCONJ	
-('delle_di_ADP', 'tue_tuo_DET')	8	delle tue	delle	tue	di	tuo	ADP	DET	
-('avete_avere_AUX', 'provato_provare_VERB')	8	avete provato	avete	provato	avere	provare	AUX	VERB	
-('sua_suo_DET', 'birra_birra_NOUN')	8	sua birra	sua	birra	suo	birra	DET	NOUN	
-('di_di_ADP', 'portare_portare_VERB')	8	di portare	di	portare	di	portare	ADP	VERB	
-('ieri_ieri_ADV', 'notte_notte_NOUN')	8	ieri notte	ieri	notte	ieri	notte	ADV	NOUN	
-('un_uno_DET', 'linguaggio_linguaggio_NOUN')	8	un linguaggio	un	linguaggio	uno	linguaggio	DET	NOUN	
-('dalla_da_ADP', 'casa_casa_NOUN')	8	dalla casa	dalla	casa	da	casa	ADP	NOUN	
-('di_di_ADP', 'averla_avere_AUX')	8	di averla	di	averla	di	avere	ADP	AUX	
-('lasciare_lasciare_VERB', 'il_il_DET')	8	lasciare il	lasciare	il	lasciare	il	VERB	DET	
-('andato_andare_VERB', 'ad_a_ADP')	8	andato ad	andato	ad	andare	a	VERB	ADP	
-('vuoi_volere_AUX', 'essere_essere_AUX')	8	vuoi essere	vuoi	essere	volere	essere	AUX	AUX	
-('può_potere_AUX', 'fermare_fermare_VERB')	8	può fermare	può	fermare	potere	fermare	AUX	VERB	
-('fammi_fare_AUX', 'sapere_sapere_VERB')	8	fammi sapere	fammi	sapere	fare	sapere	AUX	VERB	
-"(""l'_il_DET"", 'imam_imam_NOUN')"	8	l'imam	l'	imam	il	imam	DET	NOUN	
-('tutti_tutto_PRON', 'a_a_ADP')	8		tutti	a	tutto	a	PRON	ADP	
-('perché_perché_ADV', 'lui_lui_PRON')	8	perché lui	perché	lui	perché	lui	ADV	PRON	
-"('tra_tra_ADP', ""un'_uno_DET"")"	8	tra un'	tra	un'	tra	uno	ADP	DET	
-('in_in_ADP', 'tasca_tasca_NOUN')	8	in tasca	in	tasca	in	tasca	ADP	NOUN	
-('le_il_DET', 'strade_strada_NOUN')	8	le strade	le	strade	il	strada	DET	NOUN	
-('andato_andare_VERB', 'il_il_DET')	8	andato il	andato	il	andare	il	VERB	DET	
-('la_la_PRON', 'vuole_volere_VERB')	8	la vuole	la	vuole	la	volere	PRON	VERB	
-('la_il_DET', 'spugna_spugna_NOUN')	8	la spugna	la	spugna	il	spugna	DET	NOUN	
-('fuori_fuori_ADV', 'a_a_ADP')	8		fuori	a	fuori	a	ADV	ADP	
-('a_a_ADP', 'quella_quello_DET')	8	a quella	a	quella	a	quello	ADP	DET	
-('è_essere_AUX', 'piccolo_piccolo_ADJ')	8	è piccolo	è	piccolo	essere	piccolo	AUX	ADJ	
-('le_le_PRON', 'conosco_conoscere_VERB')	8	le conosco	le	conosco	le	conoscere	PRON	VERB	
-('molti_molto_DET', 'anni_anno_NOUN')	8	molti anni	molti	anni	molto	anno	DET	NOUN	
-('tutti_tutto_PRON', 'la_la_PRON')	8	tutti la	tutti	la	tutto	la	PRON	PRON	
-"(""po'_poco_ADV"", 'giovane_giovane_ADJ')"	8	po' giovane	po'	giovane	poco	giovane	ADV	ADJ	
-('la_il_DET', 'traduzione_traduzione_NOUN')	8	la traduzione	la	traduzione	il	traduzione	DET	NOUN	
-('che_che_SCONJ', 'abbia_avere_VERB')	8	che abbia	che	abbia	che	avere	SCONJ	VERB	
-('ha_avere_AUX', 'rovesciato_rovesciare_VERB')	8	ha rovesciato	ha	rovesciato	avere	rovesciare	AUX	VERB	
-"(""all'_a_ADP"", 'interno_interno_NOUN')"	8	all'interno	all'	interno	a	interno	ADP	NOUN	
-('avete_avere_VERB', 'del_di_ADP')	8	avete del	avete	del	avere	di	VERB	ADP	
-('avrei_avere_AUX', 'mai_mai_ADV')	8	avrei mai	avrei	mai	avere	mai	AUX	ADV	
-('erano_essere_VERB', 'dei_di_ADP')	8	erano dei	erano	dei	essere	di	VERB	ADP	
-('leggere_leggere_VERB', 'un_uno_DET')	8	leggere un	leggere	un	leggere	uno	VERB	DET	
-('di_di_ADP', 'cose_cosa_NOUN')	8	di cose	di	cose	di	cosa	ADP	NOUN	
-('se_se_SCONJ', 'il_il_DET')	8	se il	se	il	se	il	SCONJ	DET	
-('è_essere_AUX', 'freddo_freddo_ADJ')	8	è freddo	è	freddo	essere	freddo	AUX	ADJ	
-('alla_a_ADP', 'casa_casa_NOUN')	8	alla casa	alla	casa	a	casa	ADP	NOUN	
-('della_di_ADP', 'pioggia_pioggia_NOUN')	8	della pioggia	della	pioggia	di	pioggia	ADP	NOUN	
-('suo_suo_DET', 'discorso_discorso_NOUN')	8	suo discorso	suo	discorso	suo	discorso	DET	NOUN	
-('mela_mela_NOUN', 'è_essere_AUX')	8	mela è	mela	è	mela	essere	NOUN	AUX	
-('è_essere_AUX', 'disponibile_disponibile_ADJ')	8	è disponibile	è	disponibile	essere	disponibile	AUX	ADJ	
-('di_di_ADP', 'squadra_squadra_NOUN')	8	di squadra	di	squadra	di	squadra	ADP	NOUN	
-('hanno_avere_VERB', 'una_uno_DET')	8	hanno una	hanno	una	avere	uno	VERB	DET	
-('avete_avere_AUX', 'finito_finire_VERB')	8	avete finito	avete	finito	avere	finire	AUX	VERB	
-('aveva_avere_VERB', 'dei_di_ADP')	8	aveva dei	aveva	dei	avere	di	VERB	ADP	
-('il_il_DET', 'paziente_paziente_NOUN')	8	il paziente	il	paziente	il	paziente	DET	NOUN	
-('che_che_SCONJ', 'andassi_andare_VERB')	8	che andassi	che	andassi	che	andare	SCONJ	VERB	
-('grande_grande_ADJ', 'problema_problema_NOUN')	8	grande problema	grande	problema	grande	problema	ADJ	NOUN	
-('siete_essere_AUX', 'una_uno_DET')	8	siete una	siete	una	essere	uno	AUX	DET	
-('detto_dire_VERB', 'nulla_nu_ADV')	8	detto nulla	detto	nulla	dire	nu	VERB	ADV	
-('messo_mettere_VERB', 'giù_giù_ADV')	8	messo giù	messo	giù	mettere	giù	VERB	ADV	
+('permesso_permettere_VERB', 'di_di_ADP')	8	permesso di	permesso	di	permettere	di	VERB	ADP	permission to
+('ancora_ancora_ADV', 'andare_andare_VERB')	8	ancora andare	ancora	andare	ancora	andare	ADV	VERB	still go
+('a_a_ADP', 'dieta_dieta_NOUN')	8	a dieta	a	dieta	a	dieta	ADP	NOUN	on a diet
+('la_il_DET', 'pace_pace_NOUN')	8	la pace	la	pace	il	pace	DET	NOUN	peace
+('abbia_avere_VERB', 'ragione_ragione_NOUN')	8	abbia ragione	abbia	ragione	avere	ragione	VERB	NOUN	may be right
+('lingua_lingua_NOUN', 'straniera_straniero_ADJ')	8	lingua straniera	lingua	straniera	lingua	straniero	NOUN	ADJ	foreign language
+('vi_vi_PRON', 'hanno_avere_AUX')	8	vi hanno	vi	hanno	vi	avere	PRON	AUX	they have you (plural)
+('me_me_PRON', 'manca_mancare_VERB')	8	me manca	me	manca	me	mancare	PRON	VERB	I miss it
+('qui_qui_ADV', 'finché_finché_SCONJ')	8	qui finché	qui	finché	qui	finché	ADV	SCONJ	here as long as
+('quella_quello_DET', 'cosa_cosa_NOUN')	8	quella cosa	quella	cosa	quello	cosa	DET	NOUN	that thing
+('casa_casa_NOUN', 'oggi_oggi_ADV')	8	casa oggi	casa	oggi	casa	oggi	NOUN	ADV	home today
+('nei_in_ADP', 'loro_loro_DET')	8	nei loro	nei	loro	in	loro	ADP	DET	in their (masculine plural)
+"('contro_contro_ADP', ""l'_il_DET"")"	8	contro l'	contro	l'	contro	il	ADP	DET	against the (before a vowel)
+('qui_qui_ADV', 'fino_fino_ADV')	8	qui fino	qui	fino	qui	fino	ADV	ADV	here until
+('a_a_ADP', 'tornare_tornare_VERB')	8	arei meglio a tornare	a	tornare	a	tornare	ADP	VERB	I'd better go back
+('la_la_PRON', 'vedo_vedere_VERB')	8	la vedo	la	vedo	la	vedere	PRON	VERB	I see her; I see it (feminine)
+('nuovo_nuovo_ADJ', 'libro_libro_NOUN')	8	nuovo libro	nuovo	libro	nuovo	libro	ADJ	NOUN	new book
+('parla_parlare_VERB', 'bene_bene_ADV')	8	parla bene	parla	bene	parlare	bene	VERB	ADV	speaks well
+('è_essere_AUX', 'quella_quello_DET')	8	è quella	è	quella	essere	quello	AUX	DET	it is that (feminine)
+('unica_unico_ADJ', 'persona_persona_NOUN')	8	unica persona	unica	persona	unico	persona	ADJ	NOUN	only person
+('perso_perdere_VERB', 'le_il_DET')	8	perso le	perso	le	perdere	il	VERB	DET	lost the (feminine plural)
+('niente_niente_PRON', 'in_in_ADP')	8	niente in	niente	in	niente	in	PRON	ADP	nothing in
+('in_in_ADP', 'tanto_tanto_ADV')	8		in	tanto	in	tanto	ADP	ADV	in the meantime
+('viene_venire_VERB', 'dal_da_ADP')	8	viene dal	viene	dal	venire	da	VERB	ADP	comes from the (masculine)
+('un_uno_DET', 'panda_panda_NOUN')	8	un panda	un	panda	uno	panda	DET	NOUN	a panda
+('casa_casa_NOUN', 'ha_avere_VERB')	8	casa ha	casa	ha	casa	avere	NOUN	VERB	the house has
+('lavato_lavare_VERB', 'i_il_DET')	8		lavato	i	lavare	il	VERB	DET	washed the (masculine plural)
+('è_essere_AUX', 'verde_verde_ADJ')	8	è verde	è	verde	essere	verde	AUX	ADJ	it is green
+('aveva_avere_AUX', 'mai_mai_ADV')	8	aveva mai	aveva	mai	avere	mai	AUX	ADV	had ever
+('dei_di_ADP', 'francobolli_francobollo_NOUN')	8	dei francobolli	dei	francobolli	di	francobollo	ADP	NOUN	some stamps
+('provare_provare_VERB', 'ad_a_ADP')	8	provare ad	provare	ad	provare	a	VERB	ADP	to try to
+('mio_mio_DET', 'cugino_cugino_NOUN')	8	mio cugino	mio	cugino	mio	cugino	DET	NOUN	my cousin
+('lo_lo_PRON', 'state_essere_AUX')	8	lo state	lo	state	lo	essere	PRON	AUX	you (plural) are doing it
+"(""all'_a_ADP"", 'istante_istante_NOUN')"	8	all'istante	all'	istante	a	istante	ADP	NOUN	instantly
+"('insegna_insegnare_VERB', ""l'_il_DET"")"	8	insegna l'	insegna	l'	insegnare	il	VERB	DET	teaches the (before a vowel)
+('dopo_dopo_ADP', 'le_il_DET')	8	dopo le	dopo	le	dopo	il	ADP	DET	after the (feminine plural)
+('ero_essere_AUX', 'veramente_veramente_ADV')	8	ero veramente	ero	veramente	essere	veramente	AUX	ADV	I was really
+('del_di_ADP', 'ketchup_ketchup_NOUN')	8	del ketchup	del	ketchup	di	ketchup	ADP	NOUN	some ketchup
+('è_essere_AUX', 'durato_durare_VERB')	8	è durato	è	durato	essere	durare	AUX	VERB	it lasted
+('compagni_compagno_NOUN', 'di_di_ADP')	8	compagni di	compagni	di	compagno	di	NOUN	ADP	mates of
+('di_di_ADP', 'classe_classe_NOUN')	8	di classe	di	classe	di	classe	ADP	NOUN	of class
+('ha_avere_AUX', 'raggiunto_raggiungere_VERB')	8	ha raggiunto	ha	raggiunto	avere	raggiungere	AUX	VERB	has reached
+('tutto_tutto_PRON', 'con_con_ADP')	8	tutto con	tutto	con	tutto	con	PRON	ADP	everything with
+('libro_libro_NOUN', 'interessante_interessante_ADJ')	8	libro interessante	libro	interessante	libro	interessante	NOUN	ADJ	interesting book
+('peccato_peccato_NOUN', 'che_che_SCONJ')	8	peccato che	peccato	che	peccato	che	NOUN	SCONJ	it's a pity that
+('delle_di_ADP', 'tue_tuo_DET')	8	delle tue	delle	tue	di	tuo	ADP	DET	some of your (feminine plural)
+('avete_avere_AUX', 'provato_provare_VERB')	8	avete provato	avete	provato	avere	provare	AUX	VERB	you (plural) tried
+('sua_suo_DET', 'birra_birra_NOUN')	8	sua birra	sua	birra	suo	birra	DET	NOUN	his beer; her beer
+('di_di_ADP', 'portare_portare_VERB')	8	di portare	di	portare	di	portare	ADP	VERB	to bring
+('ieri_ieri_ADV', 'notte_notte_NOUN')	8	ieri notte	ieri	notte	ieri	notte	ADV	NOUN	last night
+('un_uno_DET', 'linguaggio_linguaggio_NOUN')	8	un linguaggio	un	linguaggio	uno	linguaggio	DET	NOUN	a language
+('dalla_da_ADP', 'casa_casa_NOUN')	8	dalla casa	dalla	casa	da	casa	ADP	NOUN	from the house
+('di_di_ADP', 'averla_avere_AUX')	8	di averla	di	averla	di	avere	ADP	AUX	to have her; to have it (feminine)
+('lasciare_lasciare_VERB', 'il_il_DET')	8	lasciare il	lasciare	il	lasciare	il	VERB	DET	to leave the (masculine)
+('andato_andare_VERB', 'ad_a_ADP')	8	andato ad	andato	ad	andare	a	VERB	ADP	gone to
+('vuoi_volere_AUX', 'essere_essere_AUX')	8	vuoi essere	vuoi	essere	volere	essere	AUX	AUX	you want to be
+('può_potere_AUX', 'fermare_fermare_VERB')	8	può fermare	può	fermare	potere	fermare	AUX	VERB	can stop
+('fammi_fare_AUX', 'sapere_sapere_VERB')	8	fammi sapere	fammi	sapere	fare	sapere	AUX	VERB	let me know
+"(""l'_il_DET"", 'imam_imam_NOUN')"	8	l'imam	l'	imam	il	imam	DET	NOUN	the imam (before a vowel)
+('tutti_tutto_PRON', 'a_a_ADP')	8		tutti	a	tutto	a	PRON	ADP	everyone to
+('perché_perché_ADV', 'lui_lui_PRON')	8	perché lui	perché	lui	perché	lui	ADV	PRON	because he
+"('tra_tra_ADP', ""un'_uno_DET"")"	8	tra un'	tra	un'	tra	uno	ADP	DET	between a (before a vowel)
+('in_in_ADP', 'tasca_tasca_NOUN')	8	in tasca	in	tasca	in	tasca	ADP	NOUN	in the pocket
+('le_il_DET', 'strade_strada_NOUN')	8	le strade	le	strade	il	strada	DET	NOUN	the streets
+('andato_andare_VERB', 'il_il_DET')	8	andato il	andato	il	andare	il	VERB	DET	gone the (masculine)
+('la_la_PRON', 'vuole_volere_VERB')	8	la vuole	la	vuole	la	volere	PRON	VERB	he wants it (feminine)
+('la_il_DET', 'spugna_spugna_NOUN')	8	la spugna	la	spugna	il	spugna	DET	NOUN	the sponge
+('fuori_fuori_ADV', 'a_a_ADP')	8		fuori	a	fuori	a	ADV	ADP	outside to
+('a_a_ADP', 'quella_quello_DET')	8	a quella	a	quella	a	quello	ADP	DET	to that (feminine)
+('è_essere_AUX', 'piccolo_piccolo_ADJ')	8	è piccolo	è	piccolo	essere	piccolo	AUX	ADJ	it is small
+('le_le_PRON', 'conosco_conoscere_VERB')	8	le conosco	le	conosco	le	conoscere	PRON	VERB	I know them (feminine)
+('molti_molto_DET', 'anni_anno_NOUN')	8	molti anni	molti	anni	molto	anno	DET	NOUN	many years
+('tutti_tutto_PRON', 'la_la_PRON')	8	tutti la	tutti	la	tutto	la	PRON	PRON	everyone her
+"(""po'_poco_ADV"", 'giovane_giovane_ADJ')"	8	po' giovane	po'	giovane	poco	giovane	ADV	ADJ	a bit young
+('la_il_DET', 'traduzione_traduzione_NOUN')	8	la traduzione	la	traduzione	il	traduzione	DET	NOUN	the translation
+('che_che_SCONJ', 'abbia_avere_VERB')	8	che abbia	che	abbia	che	avere	SCONJ	VERB	that he have; that she have
+('ha_avere_AUX', 'rovesciato_rovesciare_VERB')	8	ha rovesciato	ha	rovesciato	avere	rovesciare	AUX	VERB	has spilled
+"(""all'_a_ADP"", 'interno_interno_NOUN')"	8	all'interno	all'	interno	a	interno	ADP	NOUN	inside
+('avete_avere_VERB', 'del_di_ADP')	8	avete del	avete	del	avere	di	VERB	ADP	you (plural) have some (masculine)
+('avrei_avere_AUX', 'mai_mai_ADV')	8	avrei mai	avrei	mai	avere	mai	AUX	ADV	I would ever
+('erano_essere_VERB', 'dei_di_ADP')	8	erano dei	erano	dei	essere	di	VERB	ADP	they were some (masculine)
+('leggere_leggere_VERB', 'un_uno_DET')	8	leggere un	leggere	un	leggere	uno	VERB	DET	to read a (masculine)
+('di_di_ADP', 'cose_cosa_NOUN')	8	di cose	di	cose	di	cosa	ADP	NOUN	of things
+('se_se_SCONJ', 'il_il_DET')	8	se il	se	il	se	il	SCONJ	DET	if the (masculine)
+('è_essere_AUX', 'freddo_freddo_ADJ')	8	è freddo	è	freddo	essere	freddo	AUX	ADJ	it is cold
+('alla_a_ADP', 'casa_casa_NOUN')	8	alla casa	alla	casa	a	casa	ADP	NOUN	to the house
+('della_di_ADP', 'pioggia_pioggia_NOUN')	8	della pioggia	della	pioggia	di	pioggia	ADP	NOUN	of the rain
+('suo_suo_DET', 'discorso_discorso_NOUN')	8	suo discorso	suo	discorso	suo	discorso	DET	NOUN	his speech; her speech
+('mela_mela_NOUN', 'è_essere_AUX')	8	mela è	mela	è	mela	essere	NOUN	AUX	apple is
+('è_essere_AUX', 'disponibile_disponibile_ADJ')	8	è disponibile	è	disponibile	essere	disponibile	AUX	ADJ	it is available
+('di_di_ADP', 'squadra_squadra_NOUN')	8	di squadra	di	squadra	di	squadra	ADP	NOUN	of the team
+('hanno_avere_VERB', 'una_uno_DET')	8	hanno una	hanno	una	avere	uno	VERB	DET	they have a (feminine)
+('avete_avere_AUX', 'finito_finire_VERB')	8	avete finito	avete	finito	avere	finire	AUX	VERB	you (plural) finished
+('aveva_avere_VERB', 'dei_di_ADP')	8	aveva dei	aveva	dei	avere	di	VERB	ADP	he had some (masculine); she had some (masculine)
+('il_il_DET', 'paziente_paziente_NOUN')	8	il paziente	il	paziente	il	paziente	DET	NOUN	the patient
+('che_che_SCONJ', 'andassi_andare_VERB')	8	che andassi	che	andassi	che	andare	SCONJ	VERB	that I go
+('grande_grande_ADJ', 'problema_problema_NOUN')	8	grande problema	grande	problema	grande	problema	ADJ	NOUN	big problem
+('siete_essere_AUX', 'una_uno_DET')	8	siete una	siete	una	essere	uno	AUX	DET	you (plural) are a (feminine)
+('detto_dire_VERB', 'nulla_nu_ADV')	8	detto nulla	detto	nulla	dire	nu	VERB	ADV	said nothing
+('messo_mettere_VERB', 'giù_giù_ADV')	8	messo giù	messo	giù	mettere	giù	VERB	ADV	put down
