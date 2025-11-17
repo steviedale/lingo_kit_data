@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('con_con_ADP', 'cui_cui_PRON')	38	con cui	con	cui	con	cui	ADP	PRON	
-('riuscite_riuscire_VERB', 'a_a_ADP')	38	riuscite a	riuscite	a	riuscire	a	VERB	ADP	
-('sono_essere_AUX', 'appena_appena_ADV')	38	sono appena	sono	appena	essere	appena	AUX	ADV	
-('lasciato_lasciare_VERB', 'la_il_DET')	38	la	lasciato	la	lasciare	il	VERB	DET	
-('problema_problema_NOUN', 'con_con_ADP')	38	problema con	problema	con	problema	con	NOUN	ADP	
-('ragione_ragione_NOUN', 'per_per_ADP')	38	ragione per	ragione	per	ragione	per	NOUN	ADP	
-('lui_lui_PRON', 'era_essere_AUX')	38	lui era	lui	era	lui	essere	PRON	AUX	
-('è_essere_AUX', 'nel_in_ADP')	38	è nel	è	nel	essere	in	AUX	ADP	
-('di_di_ADP', 'telefono_telefono_NOUN')	38	di telefono	di	telefono	di	telefono	ADP	NOUN	
-('sta_stare_AUX', 'indossando_indossare_VERB')	38	sta indossando	sta	indossando	stare	indossare	AUX	VERB	
-('amo_amare_VERB', 'la_il_DET')	38	amo la	amo	la	amare	il	VERB	DET	
-('in_in_ADP', 'macchina_macchina_NOUN')	38	in macchina	in	macchina	in	macchina	ADP	NOUN	
-('dove_dove_PRON', 'li_li_PRON')	38	dove li	dove	li	dove	li	PRON	PRON	
-('loro_loro_PRON', 'hanno_avere_AUX')	38	loro hanno	loro	hanno	loro	avere	PRON	AUX	
-('fatto_fare_VERB', 'questo_questo_PRON')	38	fatto questo	fatto	questo	fare	questo	VERB	PRON	
-('è_essere_AUX', 'soltanto_soltanto_ADV')	38	è soltanto	è	soltanto	essere	soltanto	AUX	ADV	
-('al_a_ADP', 'mercato_mercato_NOUN')	38	al mercato	al	mercato	a	mercato	ADP	NOUN	
-('avuto_avere_VERB', 'un_uno_DET')	38	avuto un	avuto	un	avere	uno	VERB	DET	
-('può_potere_AUX', 'fare_fare_VERB')	38	può fare	può	fare	potere	fare	AUX	VERB	
-('mia_mio_DET', 'casa_casa_NOUN')	38	mia casa	mia	casa	mio	casa	DET	NOUN	
-('fa_fare_VERB', 'male_male_ADV')	38	fa male	fa	male	fare	male	VERB	ADV	
-('va_andare_VERB', 'bene_bene_ADV')	37	va bene	va	bene	andare	bene	VERB	ADV	
-('di_di_ADP', 'denaro_denaro_NOUN')	37	di denaro	di	denaro	di	denaro	ADP	NOUN	
-('la_il_DET', 'situazione_situazione_NOUN')	37	la situazione	la	situazione	il	situazione	DET	NOUN	
-('la_il_DET', 'stanza_stanza_NOUN')	37	la stanza	la	stanza	il	stanza	DET	NOUN	
-('una_uno_DET', 'tazza_tazza_NOUN')	37	una tazza	una	tazza	uno	tazza	DET	NOUN	
-('sue_suo_DET', 'amiche_amico_NOUN')	37	sue amiche	sue	amiche	suo	amico	DET	NOUN	
-('non_non_ADV', 'capisco_capire_VERB')	37	non capisco	non	capisco	non	capire	ADV	VERB	
-('cane_cane_NOUN', 'è_essere_AUX')	37	cane è	cane	è	cane	essere	NOUN	AUX	
-('un_uno_DET', 'paio_paio_NOUN')	37	un paio	un	paio	uno	paio	DET	NOUN	
-('se_se_SCONJ', 'fossi_essere_AUX')	37	se fossi	se	fossi	se	essere	SCONJ	AUX	
-('piace_piacere_VERB', 'davvero_davvero_ADV')	37	piace davvero	piace	davvero	piacere	davvero	VERB	ADV	
-('casa_casa_NOUN', 'con_con_ADP')	37	casa con	casa	con	casa	con	NOUN	ADP	
-('ha_avere_AUX', 'letto_leggere_VERB')	37	ha letto	ha	letto	avere	leggere	AUX	VERB	
-('anni_anno_NOUN', 'fa_fa_ADV')	37	anni fa	anni	fa	anno	fa	NOUN	ADV	
-('di_di_ADP', 'mio_mio_DET')	37	di mio	di	mio	di	mio	ADP	DET	
-('della_di_ADP', 'pizza_pizza_NOUN')	37	della pizza	della	pizza	di	pizza	ADP	NOUN	
-('piace_piacere_VERB', 'giocare_giocare_VERB')	37	piace giocare	piace	giocare	piacere	giocare	VERB	VERB	
-('alla_a_ADP', 'moschea_moschea_NOUN')	37	alla moschea	alla	moschea	a	moschea	ADP	NOUN	
-('di_di_ADP', 'che_che_DET')	37	di che	di	che	di	che	ADP	DET	
-('che_che_SCONJ', 'questo_questo_PRON')	37	che questo	che	questo	che	questo	SCONJ	PRON	
-('al_a_ADP', 'mio_mio_DET')	37	al mio	al	mio	a	mio	ADP	DET	
-('in_in_ADP', 'cucina_cucina_NOUN')	37	in cucina	in	cucina	in	cucina	ADP	NOUN	
-('non_non_ADV', 'andare_andare_VERB')	37	non andare	non	andare	non	andare	ADV	VERB	
-('vuole_volere_AUX', 'essere_essere_AUX')	37	vuole essere	vuole	essere	volere	essere	AUX	AUX	
-('stata_essere_AUX', 'a_a_ADP')	37	sta	stata	a	essere	a	AUX	ADP	
-('di_di_ADP', 'averlo_avere_AUX')	37	di averlo	di	averlo	di	avere	ADP	AUX	
-('che_che_DET', 'altro_altro_PRON')	37	che altro	che	altro	che	altro	DET	PRON	
-('in_in_ADP', 'città_città_NOUN')	37	in città	in	città	in	città	ADP	NOUN	
-('è_essere_AUX', 'grande_grande_ADJ')	37	è grande	è	grande	essere	grande	AUX	ADJ	
-('che_che_SCONJ', 'vuole_volere_AUX')	37	che vuole	che	vuole	che	volere	SCONJ	AUX	
-('letto_leggere_VERB', 'il_il_DET')	37	letto il	letto	il	leggere	il	VERB	DET	
-('questo_questo_PRON', 'per_per_ADP')	37	questo per	questo	per	questo	per	PRON	ADP	
-('è_essere_AUX', 'sposato_sposare_VERB')	37	è sposato	è	sposato	essere	sposare	AUX	VERB	
-('cosa_cosa_PRON', 'ti_ti_PRON')	37	cosa ti	cosa	ti	cosa	ti	PRON	PRON	
-('suo_suo_DET', 'aiuto_aiuto_NOUN')	36	suo aiuto	suo	aiuto	suo	aiuto	DET	NOUN	
-('fare_fare_VERB', 'un_uno_DET')	36	fare un	fare	un	fare	uno	VERB	DET	
-('devi_dovere_AUX', 'essere_essere_AUX')	36	devi essere	devi	essere	dovere	essere	AUX	AUX	
-('dal_da_ADP', 'suo_suo_DET')	36	dal suo	dal	suo	da	suo	ADP	DET	
-('tu_tu_PRON', 'sai_sapere_VERB')	36	tu sai	tu	sai	tu	sapere	PRON	VERB	
-('le_le_PRON', 'dica_dire_VERB')	36	le dica	le	dica	le	dire	PRON	VERB	
-('a_a_ADP', 'baseball_baseball_NOUN')	36	are a baseball	a	baseball	a	baseball	ADP	NOUN	
-('di_di_ADP', 'fumare_fumare_VERB')	36	di fumare	di	fumare	di	fumare	ADP	VERB	
-('come_come_ADP', 'una_uno_DET')	36	come una	come	una	come	uno	ADP	DET	
-('suo_suo_DET', 'nuovo_nuovo_ADJ')	36	suo nuovo	suo	nuovo	suo	nuovo	DET	ADJ	
-('mio_mio_DET', 'cane_cane_NOUN')	36	mio cane	mio	cane	mio	cane	DET	NOUN	
-('un_uno_DET', 'piccolo_piccolo_ADJ')	36	un piccolo	un	piccolo	uno	piccolo	DET	ADJ	
-('la_il_DET', 'testa_testa_NOUN')	36	la testa	la	testa	il	testa	DET	NOUN	
-('prendere_prendere_VERB', 'in_in_ADP')	36	prendere in	prendere	in	prendere	in	VERB	ADP	
-('le_il_DET', 'regole_regola_NOUN')	36	le regole	le	regole	il	regola	DET	NOUN	
-('perché_perché_PRON', 'stai_stare_AUX')	36	perché stai	perché	stai	perché	stare	PRON	AUX	
-('la_il_DET', 'prossima_prossimo_ADJ')	36	la prossima	la	prossima	il	prossimo	DET	ADJ	
-('detto_dire_VERB', 'loro_loro_PRON')	36	detto loro	detto	loro	dire	loro	VERB	PRON	
-('dei_di_ADP', 'miei_mio_DET')	36	dei miei	dei	miei	di	mio	ADP	DET	
-('meglio_meglio_ADV', 'di_di_ADP')	36	meglio di	meglio	di	meglio	di	ADV	ADP	
-('suoi_suo_DET', 'amici_amico_NOUN')	36	suoi amici	suoi	amici	suo	amico	DET	NOUN	
-('è_essere_AUX', 'abbastanza_abbastanza_ADV')	36	è abbastanza	è	abbastanza	essere	abbastanza	AUX	ADV	
-('essere_essere_AUX', 'così_così_ADV')	36	essere così	essere	così	essere	così	AUX	ADV	
-('un_uno_DET', 'sacco_sacco_NOUN')	36	un sacco	un	sacco	uno	sacco	DET	NOUN	
-('lei_lei_PRON', 'sta_stare_AUX')	36	lei sta	lei	sta	lei	stare	PRON	AUX	
-('che_che_SCONJ', 'avrebbe_avere_AUX')	36	che avrebbe	che	avrebbe	che	avere	SCONJ	AUX	
-('non_non_ADV', 'dovrebbe_dovere_AUX')	36	non dovrebbe	non	dovrebbe	non	dovere	ADV	AUX	
-('una_uno_DET', 'brava_bravo_ADJ')	36	una brava	una	brava	uno	bravo	DET	ADJ	
-('ogni_ogni_DET', 'mattina_mattina_NOUN')	36	ogni mattina	ogni	mattina	ogni	mattina	DET	NOUN	
-('ha_avere_VERB', 'molti_molto_DET')	36	ha molti	ha	molti	avere	molto	VERB	DET	
-('leggere_leggere_VERB', 'il_il_DET')	36	leggere il	leggere	il	leggere	il	VERB	DET	
-('di_di_ADP', 'latte_latte_NOUN')	36	di latte	di	latte	di	latte	ADP	NOUN	
-('ha_avere_AUX', 'passato_passare_VERB')	36	ha passato	ha	passato	avere	passare	AUX	VERB	
-('i_il_DET', 'piatti_piatto_NOUN')	36	i piatti	i	piatti	il	piatto	DET	NOUN	
-('di_di_ADP', 'studiare_studiare_VERB')	36	di studiare	di	studiare	di	studiare	ADP	VERB	
-('andati_andare_VERB', 'a_a_ADP')	36		andati	a	andare	a	VERB	ADP	
-('qui_qui_ADV', 'con_con_ADP')	36	qui con	qui	con	qui	con	ADV	ADP	
-('questo_questo_DET', 'pomeriggio_pomeriggio_NOUN')	36	questo pomeriggio	questo	pomeriggio	questo	pomeriggio	DET	NOUN	
-('in_in_ADP', 'anticipo_anticipo_NOUN')	36	in anticipo	in	anticipo	in	anticipo	ADP	NOUN	
-('lo_lo_PRON', 'faccia_fare_VERB')	36	lo faccia	lo	faccia	lo	fare	PRON	VERB	
-('ho_avere_AUX', 'provato_provare_VERB')	36	ho provato	ho	provato	avere	provare	AUX	VERB	
-('lei_in_ADP', 'pensa_pensare_VERB')	36	lei pensa	lei	pensa	in	pensare	ADP	VERB	
-('aveva_avere_VERB', 'paura_paura_NOUN')	36	aveva paura	aveva	paura	avere	paura	VERB	NOUN	
-('una_uno_DET', 'storia_storia_NOUN')	35	una storia	una	storia	uno	storia	DET	NOUN	
-('una_uno_DET', 'doccia_doccia_NOUN')	35	una doccia	una	doccia	uno	doccia	DET	NOUN	
+('con_con_ADP', 'cui_cui_PRON')	38	con cui	con	cui	con	cui	ADP	PRON	with which
+('riuscite_riuscire_VERB', 'a_a_ADP')	38	riuscite a	riuscite	a	riuscire	a	VERB	ADP	you (plural) manage to
+('sono_essere_AUX', 'appena_appena_ADV')	38	sono appena	sono	appena	essere	appena	AUX	ADV	have just
+('lasciato_lasciare_VERB', 'la_il_DET')	38	la	lasciato	la	lasciare	il	VERB	DET	left the (feminine)
+('problema_problema_NOUN', 'con_con_ADP')	38	problema con	problema	con	problema	con	NOUN	ADP	problem with
+('ragione_ragione_NOUN', 'per_per_ADP')	38	ragione per	ragione	per	ragione	per	NOUN	ADP	reason to
+('lui_lui_PRON', 'era_essere_AUX')	38	lui era	lui	era	lui	essere	PRON	AUX	he was
+('è_essere_AUX', 'nel_in_ADP')	38	è nel	è	nel	essere	in	AUX	ADP	is in the
+('di_di_ADP', 'telefono_telefono_NOUN')	38	di telefono	di	telefono	di	telefono	ADP	NOUN	of the phone
+('sta_stare_AUX', 'indossando_indossare_VERB')	38	sta indossando	sta	indossando	stare	indossare	AUX	VERB	is wearing
+('amo_amare_VERB', 'la_il_DET')	38	amo la	amo	la	amare	il	VERB	DET	I love the (feminine)
+('in_in_ADP', 'macchina_macchina_NOUN')	38	in macchina	in	macchina	in	macchina	ADP	NOUN	in the car
+('dove_dove_PRON', 'li_li_PRON')	38	dove li	dove	li	dove	li	PRON	PRON	where them
+('loro_loro_PRON', 'hanno_avere_AUX')	38	loro hanno	loro	hanno	loro	avere	PRON	AUX	they have
+('fatto_fare_VERB', 'questo_questo_PRON')	38	fatto questo	fatto	questo	fare	questo	VERB	PRON	done this
+('è_essere_AUX', 'soltanto_soltanto_ADV')	38	è soltanto	è	soltanto	essere	soltanto	AUX	ADV	is only
+('al_a_ADP', 'mercato_mercato_NOUN')	38	al mercato	al	mercato	a	mercato	ADP	NOUN	at the market
+('avuto_avere_VERB', 'un_uno_DET')	38	avuto un	avuto	un	avere	uno	VERB	DET	had a
+('può_potere_AUX', 'fare_fare_VERB')	38	può fare	può	fare	potere	fare	AUX	VERB	can do
+('mia_mio_DET', 'casa_casa_NOUN')	38	mia casa	mia	casa	mio	casa	DET	NOUN	my house
+('fa_fare_VERB', 'male_male_ADV')	38	fa male	fa	male	fare	male	VERB	ADV	it hurts
+('va_andare_VERB', 'bene_bene_ADV')	37	va bene	va	bene	andare	bene	VERB	ADV	is fine
+('di_di_ADP', 'denaro_denaro_NOUN')	37	di denaro	di	denaro	di	denaro	ADP	NOUN	of money
+('la_il_DET', 'situazione_situazione_NOUN')	37	la situazione	la	situazione	il	situazione	DET	NOUN	the situation
+('la_il_DET', 'stanza_stanza_NOUN')	37	la stanza	la	stanza	il	stanza	DET	NOUN	the room
+('una_uno_DET', 'tazza_tazza_NOUN')	37	una tazza	una	tazza	uno	tazza	DET	NOUN	a cup
+('sue_suo_DET', 'amiche_amico_NOUN')	37	sue amiche	sue	amiche	suo	amico	DET	NOUN	her; his friends (feminine plural)
+('non_non_ADV', 'capisco_capire_VERB')	37	non capisco	non	capisco	non	capire	ADV	VERB	I don't understand
+('cane_cane_NOUN', 'è_essere_AUX')	37	cane è	cane	è	cane	essere	NOUN	AUX	dog is
+('un_uno_DET', 'paio_paio_NOUN')	37	un paio	un	paio	uno	paio	DET	NOUN	a pair
+('se_se_SCONJ', 'fossi_essere_AUX')	37	se fossi	se	fossi	se	essere	SCONJ	AUX	if I were
+('piace_piacere_VERB', 'davvero_davvero_ADV')	37	piace davvero	piace	davvero	piacere	davvero	VERB	ADV	really likes it
+('casa_casa_NOUN', 'con_con_ADP')	37	casa con	casa	con	casa	con	NOUN	ADP	house with
+('ha_avere_AUX', 'letto_leggere_VERB')	37	ha letto	ha	letto	avere	leggere	AUX	VERB	has read
+('anni_anno_NOUN', 'fa_fa_ADV')	37	anni fa	anni	fa	anno	fa	NOUN	ADV	years ago
+('di_di_ADP', 'mio_mio_DET')	37	di mio	di	mio	di	mio	ADP	DET	of mine
+('della_di_ADP', 'pizza_pizza_NOUN')	37	della pizza	della	pizza	di	pizza	ADP	NOUN	of the pizza
+('piace_piacere_VERB', 'giocare_giocare_VERB')	37	piace giocare	piace	giocare	piacere	giocare	VERB	VERB	likes to play
+('alla_a_ADP', 'moschea_moschea_NOUN')	37	alla moschea	alla	moschea	a	moschea	ADP	NOUN	to the mosque
+('di_di_ADP', 'che_che_DET')	37	di che	di	che	di	che	ADP	DET	of what
+('che_che_SCONJ', 'questo_questo_PRON')	37	che questo	che	questo	che	questo	SCONJ	PRON	that this
+('al_a_ADP', 'mio_mio_DET')	37	al mio	al	mio	a	mio	ADP	DET	to my (masculine)
+('in_in_ADP', 'cucina_cucina_NOUN')	37	in cucina	in	cucina	in	cucina	ADP	NOUN	in the kitchen
+('non_non_ADV', 'andare_andare_VERB')	37	non andare	non	andare	non	andare	ADV	VERB	don't go
+('vuole_volere_AUX', 'essere_essere_AUX')	37	vuole essere	vuole	essere	volere	essere	AUX	AUX	wants to be
+('stata_essere_AUX', 'a_a_ADP')	37	sta	stata	a	essere	a	AUX	ADP	been to
+('di_di_ADP', 'averlo_avere_AUX')	37	di averlo	di	averlo	di	avere	ADP	AUX	to have it
+('che_che_DET', 'altro_altro_PRON')	37	che altro	che	altro	che	altro	DET	PRON	what else
+('in_in_ADP', 'città_città_NOUN')	37	in città	in	città	in	città	ADP	NOUN	in town
+('è_essere_AUX', 'grande_grande_ADJ')	37	è grande	è	grande	essere	grande	AUX	ADJ	is big
+('che_che_SCONJ', 'vuole_volere_AUX')	37	che vuole	che	vuole	che	volere	SCONJ	AUX	that wants
+('letto_leggere_VERB', 'il_il_DET')	37	letto il	letto	il	leggere	il	VERB	DET	read the
+('questo_questo_PRON', 'per_per_ADP')	37	questo per	questo	per	questo	per	PRON	ADP	this for
+('è_essere_AUX', 'sposato_sposare_VERB')	37	è sposato	è	sposato	essere	sposare	AUX	VERB	is married
+('cosa_cosa_PRON', 'ti_ti_PRON')	37	cosa ti	cosa	ti	cosa	ti	PRON	PRON	what you
+('suo_suo_DET', 'aiuto_aiuto_NOUN')	36	suo aiuto	suo	aiuto	suo	aiuto	DET	NOUN	his; her help (masculine)
+('fare_fare_VERB', 'un_uno_DET')	36	fare un	fare	un	fare	uno	VERB	DET	to make a
+('devi_dovere_AUX', 'essere_essere_AUX')	36	devi essere	devi	essere	dovere	essere	AUX	AUX	you must be
+('dal_da_ADP', 'suo_suo_DET')	36	dal suo	dal	suo	da	suo	ADP	DET	from his; from her (masculine)
+('tu_tu_PRON', 'sai_sapere_VERB')	36	tu sai	tu	sai	tu	sapere	PRON	VERB	you know
+('le_le_PRON', 'dica_dire_VERB')	36	le dica	le	dica	le	dire	PRON	VERB	tell her
+('a_a_ADP', 'baseball_baseball_NOUN')	36	are a baseball	a	baseball	a	baseball	ADP	NOUN	baseball
+('di_di_ADP', 'fumare_fumare_VERB')	36	di fumare	di	fumare	di	fumare	ADP	VERB	to smoke
+('come_come_ADP', 'una_uno_DET')	36	come una	come	una	come	uno	ADP	DET	like a
+('suo_suo_DET', 'nuovo_nuovo_ADJ')	36	suo nuovo	suo	nuovo	suo	nuovo	DET	ADJ	his; her new (masculine)
+('mio_mio_DET', 'cane_cane_NOUN')	36	mio cane	mio	cane	mio	cane	DET	NOUN	my dog
+('un_uno_DET', 'piccolo_piccolo_ADJ')	36	un piccolo	un	piccolo	uno	piccolo	DET	ADJ	a small (masculine)
+('la_il_DET', 'testa_testa_NOUN')	36	la testa	la	testa	il	testa	DET	NOUN	the head
+('prendere_prendere_VERB', 'in_in_ADP')	36	prendere in	prendere	in	prendere	in	VERB	ADP	take in
+('le_il_DET', 'regole_regola_NOUN')	36	le regole	le	regole	il	regola	DET	NOUN	the rules
+('perché_perché_PRON', 'stai_stare_AUX')	36	perché stai	perché	stai	perché	stare	PRON	AUX	why are you
+('la_il_DET', 'prossima_prossimo_ADJ')	36	la prossima	la	prossima	il	prossimo	DET	ADJ	the next (feminine)
+('detto_dire_VERB', 'loro_loro_PRON')	36	detto loro	detto	loro	dire	loro	VERB	PRON	told them
+('dei_di_ADP', 'miei_mio_DET')	36	dei miei	dei	miei	di	mio	ADP	DET	of my (masculine plural)
+('meglio_meglio_ADV', 'di_di_ADP')	36	meglio di	meglio	di	meglio	di	ADV	ADP	better than
+('suoi_suo_DET', 'amici_amico_NOUN')	36	suoi amici	suoi	amici	suo	amico	DET	NOUN	his; her friends (masculine)
+('è_essere_AUX', 'abbastanza_abbastanza_ADV')	36	è abbastanza	è	abbastanza	essere	abbastanza	AUX	ADV	is quite
+('essere_essere_AUX', 'così_così_ADV')	36	essere così	essere	così	essere	così	AUX	ADV	to be so
+('un_uno_DET', 'sacco_sacco_NOUN')	36	un sacco	un	sacco	uno	sacco	DET	NOUN	a lot
+('lei_lei_PRON', 'sta_stare_AUX')	36	lei sta	lei	sta	lei	stare	PRON	AUX	she is
+('che_che_SCONJ', 'avrebbe_avere_AUX')	36	che avrebbe	che	avrebbe	che	avere	SCONJ	AUX	that would have
+('non_non_ADV', 'dovrebbe_dovere_AUX')	36	non dovrebbe	non	dovrebbe	non	dovere	ADV	AUX	should not
+('una_uno_DET', 'brava_bravo_ADJ')	36	una brava	una	brava	uno	bravo	DET	ADJ	a good (feminine)
+('ogni_ogni_DET', 'mattina_mattina_NOUN')	36	ogni mattina	ogni	mattina	ogni	mattina	DET	NOUN	every morning
+('ha_avere_VERB', 'molti_molto_DET')	36	ha molti	ha	molti	avere	molto	VERB	DET	has many
+('leggere_leggere_VERB', 'il_il_DET')	36	leggere il	leggere	il	leggere	il	VERB	DET	to read the
+('di_di_ADP', 'latte_latte_NOUN')	36	di latte	di	latte	di	latte	ADP	NOUN	of milk
+('ha_avere_AUX', 'passato_passare_VERB')	36	ha passato	ha	passato	avere	passare	AUX	VERB	has spent
+('i_il_DET', 'piatti_piatto_NOUN')	36	i piatti	i	piatti	il	piatto	DET	NOUN	the dishes
+('di_di_ADP', 'studiare_studiare_VERB')	36	di studiare	di	studiare	di	studiare	ADP	VERB	to study
+('andati_andare_VERB', 'a_a_ADP')	36		andati	a	andare	a	VERB	ADP	gone to
+('qui_qui_ADV', 'con_con_ADP')	36	qui con	qui	con	qui	con	ADV	ADP	here with
+('questo_questo_DET', 'pomeriggio_pomeriggio_NOUN')	36	questo pomeriggio	questo	pomeriggio	questo	pomeriggio	DET	NOUN	this afternoon
+('in_in_ADP', 'anticipo_anticipo_NOUN')	36	in anticipo	in	anticipo	in	anticipo	ADP	NOUN	early
+('lo_lo_PRON', 'faccia_fare_VERB')	36	lo faccia	lo	faccia	lo	fare	PRON	VERB	do it
+('ho_avere_AUX', 'provato_provare_VERB')	36	ho provato	ho	provato	avere	provare	AUX	VERB	I tried
+('lei_in_ADP', 'pensa_pensare_VERB')	36	lei pensa	lei	pensa	in	pensare	ADP	VERB	she thinks
+('aveva_avere_VERB', 'paura_paura_NOUN')	36	aveva paura	aveva	paura	avere	paura	VERB	NOUN	was afraid
+('una_uno_DET', 'storia_storia_NOUN')	35	una storia	una	storia	uno	storia	DET	NOUN	a story
+('una_uno_DET', 'doccia_doccia_NOUN')	35	una doccia	una	doccia	uno	doccia	DET	NOUN	a shower

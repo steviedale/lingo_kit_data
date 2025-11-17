@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('la_il_DET', 'cosa_cosa_NOUN')	33	la cosa	la	cosa	il	cosa	DET	NOUN	
-('nei_in_ADP', 'guai_guaio_NOUN')	33	nei guai	nei	guai	in	guaio	ADP	NOUN	
-('per_per_ADP', 'cena_cena_NOUN')	33	per cena	per	cena	per	cena	ADP	NOUN	
-('imparare_imparare_VERB', 'a_a_ADP')	33	impa	imparare	a	imparare	a	VERB	ADP	
-('è_essere_AUX', 'meglio_meglio_ADV')	33	è meglio	è	meglio	essere	meglio	AUX	ADV	
-('nulla_nu_ADV', 'da_da_ADP')	33	nulla da	nulla	da	nu	da	ADV	ADP	
-('amo_amare_VERB', 'le_il_DET')	33	amo le	amo	le	amare	il	VERB	DET	
-('vuole_volere_AUX', 'fare_fare_VERB')	33	vuole fare	vuole	fare	volere	fare	AUX	VERB	
-('casa_casa_NOUN', 'per_per_ADP')	33	casa per	casa	per	casa	per	NOUN	ADP	
-('le_il_DET', 'donne_donna_NOUN')	33	le donne	le	donne	il	donna	DET	NOUN	
-('siete_essere_AUX', 'molto_molto_ADV')	33	siete molto	siete	molto	essere	molto	AUX	ADV	
-('me_me_PRON', 'piacerebbe_piacere_VERB')	33	me piacerebbe	me	piacerebbe	me	piacere	PRON	VERB	
-('alla_a_ADP', 'riunione_riunione_NOUN')	33	alla riunione	alla	riunione	a	riunione	ADP	NOUN	
-('la_il_DET', 'torta_torta_NOUN')	33	la torta	la	torta	il	torta	DET	NOUN	
-('io_io_PRON', 'ti_ti_PRON')	33	io ti	io	ti	io	ti	PRON	PRON	
-('mai_mai_ADV', 'mangiato_mangiare_VERB')	33	mai mangiato	mai	mangiato	mai	mangiare	ADV	VERB	
-('fece_fare_VERB', 'un_uno_DET')	33	fece un	fece	un	fare	uno	VERB	DET	
-('a_a_ADP', 'cucinare_cucinare_VERB')	33	avo a cucinare	a	cucinare	a	cucinare	ADP	VERB	
-"(""cos'_cosa_PRON"", 'ha_avere_AUX')"	33	cos'ha	cos'	ha	cosa	avere	PRON	AUX	
-('stata_essere_AUX', 'una_uno_DET')	33	stata una	stata	una	essere	uno	AUX	DET	
-('a_a_ADP', 'che_che_SCONJ')	33	a niente a che	a	che	a	che	ADP	SCONJ	
-('più_più_ADV', 'giovane_giovane_ADJ')	33	più giovane	più	giovane	più	giovane	ADV	ADJ	
-('da_da_ADP', 'una_uno_DET')	33	da una	da	una	da	uno	ADP	DET	
-"('che_che_SCONJ', ""l'_lo_PRON"")"	32	che l'	che	l'	che	lo	SCONJ	PRON	
-('a_a_ADP', 'suo_suo_DET')	32	a suo	a	suo	a	suo	ADP	DET	
-('miei_mio_DET', 'amici_amico_NOUN')	32	miei amici	miei	amici	mio	amico	DET	NOUN	
-('perché_perché_ADV', 'ha_avere_AUX')	32	perché ha	perché	ha	perché	avere	ADV	AUX	
-('ho_avere_VERB', 'il_il_DET')	32	ho il	ho	il	avere	il	VERB	DET	
-('ho_avere_AUX', 'scritto_scrivere_VERB')	32	ho scritto	ho	scritto	avere	scrivere	AUX	VERB	
-('ti_ti_PRON', 'è_essere_AUX')	32	ti è	ti	è	ti	essere	PRON	AUX	
-"(""cos'_cos'_PRON"", 'ha_avere_AUX')"	32	cos'ha	cos'	ha	cos'	avere	PRON	AUX	
-('la_la_PRON', 'sta_stare_AUX')	32	la sta	la	sta	la	stare	PRON	AUX	
-('la_la_PRON', 'smetta_smettere_VERB')	32	la smetta	la	smetta	la	smettere	PRON	VERB	
-('che_che_PRON', 'dice_dire_VERB')	32	che dice	che	dice	che	dire	PRON	VERB	
-('smettetela_smettere_VERB', 'di_di_ADP')	32	smettetela di	smettetela	di	smettere	di	VERB	ADP	
-('il_il_DET', 'numero_numero_NOUN')	32	il numero	il	numero	il	numero	DET	NOUN	
-('ho_avere_AUX', 'sempre_sempre_ADV')	32	ho sempre	ho	sempre	avere	sempre	AUX	ADV	
-('suo_suo_DET', 'ufficio_ufficio_NOUN')	32	suo ufficio	suo	ufficio	suo	ufficio	DET	NOUN	
-('sono_essere_AUX', 'tutti_tutto_PRON')	32	sono tutti	sono	tutti	essere	tutto	AUX	PRON	
-"(""all'_a_ADP"", 'ospedale_ospedale_NOUN')"	32	all'ospedale	all'	ospedale	a	ospedale	ADP	NOUN	
-('io_io_PRON', 'le_le_PRON')	32	io le	io	le	io	le	PRON	PRON	
-('perché_perché_PRON', 'avete_avere_AUX')	32	perché avete	perché	avete	perché	avere	PRON	AUX	
-('ha_avere_AUX', 'ucciso_uccidere_VERB')	32	ha ucciso	ha	ucciso	avere	uccidere	AUX	VERB	
-('piano_piano_NOUN', 'di_di_ADP')	32	piano di	piano	di	piano	di	NOUN	ADP	
-('è_essere_AUX', 'rimasto_rimanere_VERB')	32	è rimasto	è	rimasto	essere	rimanere	AUX	VERB	
-('farlo_fare_VERB', 'da_da_ADP')	32	farlo da	farlo	da	fare	da	VERB	ADP	
-('ci_ci_PRON', 'si_si_PRON')	32	ci si	ci	si	ci	si	PRON	PRON	
-('di_di_ADP', 'suo_suo_DET')	32	di suo	di	suo	di	suo	ADP	DET	
-('quanti_quanto_DET', 'anni_anno_NOUN')	32	quanti anni	quanti	anni	quanto	anno	DET	NOUN	
-('una_uno_DET', 'risposta_risposta_NOUN')	32	una risposta	una	risposta	uno	risposta	DET	NOUN	
-('in_in_ADP', 'esperanto_esperanto_NOUN')	32	in esperanto	in	esperanto	in	esperanto	ADP	NOUN	
-('mai_mai_ADV', 'più_più_ADV')	32	mai più	mai	più	mai	più	ADV	ADV	
-('una_uno_DET', 'famiglia_famiglia_NOUN')	32	una famiglia	una	famiglia	uno	famiglia	DET	NOUN	
-('una_uno_DET', 'chiave_chiave_NOUN')	32	una chiave	una	chiave	uno	chiave	DET	NOUN	
-"(""l'_il_DET"", 'ultimo_ultimo_ADJ')"	32	l'ultimo	l'	ultimo	il	ultimo	DET	ADJ	
-('pronta_pronto_ADJ', 'a_a_ADP')	32	pronta	pronta	a	pronto	a	ADJ	ADP	
-('i_il_DET', 'vestiti_vestito_NOUN')	32	i vestiti	i	vestiti	il	vestito	DET	NOUN	
-('per_per_ADP', 'pranzo_pranzo_NOUN')	32	per pranzo	per	pranzo	per	pranzo	ADP	NOUN	
-('il_il_DET', 'telefono_telefono_NOUN')	32	il telefono	il	telefono	il	telefono	DET	NOUN	
-"(""l'_il_DET"", 'idea_idea_NOUN')"	32	l'idea	l'	idea	il	idea	DET	NOUN	
-('innamorato_innamorare_VERB', 'di_di_ADP')	32	innamorato di	innamorato	di	innamorare	di	VERB	ADP	
-('vuole_volere_VERB', 'un_uno_DET')	32	vuole un	vuole	un	volere	uno	VERB	DET	
-('da_da_ADP', 'me_me_PRON')	32	da me	da	me	da	me	ADP	PRON	
-"('imparare_imparare_VERB', ""l'_il_DET"")"	32	imparare l'	imparare	l'	imparare	il	VERB	DET	
-('al_a_ADP', 'telefono_telefono_NOUN')	32	al telefono	al	telefono	a	telefono	ADP	NOUN	
-('scritto_scrivere_VERB', 'una_uno_DET')	32	scritto una	scritto	una	scrivere	uno	VERB	DET	
-('sta_stare_AUX', 'mangiando_mangiare_VERB')	32	sta mangiando	sta	mangiando	stare	mangiare	AUX	VERB	
-('dovete_dovere_AUX', 'essere_essere_AUX')	32	dovete essere	dovete	essere	dovere	essere	AUX	AUX	
-('io_io_PRON', 'volevo_volere_AUX')	32	io volevo	io	volevo	io	volere	PRON	AUX	
-('al_a_ADP', 'piano_piano_NOUN')	32	al piano	al	piano	a	piano	ADP	NOUN	
-('soltanto_soltanto_ADV', 'un_uno_DET')	32	soltanto un	soltanto	un	soltanto	uno	ADV	DET	
-('con_con_ADP', 'mio_mio_DET')	32	con mio	con	mio	con	mio	ADP	DET	
-('i_il_DET', 'denti_dente_NOUN')	32	i denti	i	denti	il	dente	DET	NOUN	
-('la_il_DET', 'bocca_bocca_NOUN')	32	la bocca	la	bocca	il	bocca	DET	NOUN	
-('il_il_DET', 'prossimo_prossimo_ADJ')	32	il prossimo	il	prossimo	il	prossimo	DET	ADJ	
-('me_me_PRON', 'piacciono_piacere_VERB')	32	me piacciono	me	piacciono	me	piacere	PRON	VERB	
-('la_il_DET', 'parola_parola_NOUN')	32	la parola	la	parola	il	parola	DET	NOUN	
-('di_di_ADP', 'questa_questo_DET')	32	di questa	di	questa	di	questo	ADP	DET	
-('è_essere_AUX', 'estremamente_estremamente_ADV')	31	è estremamente	è	estremamente	essere	estremamente	AUX	ADV	
-('erano_essere_AUX', 'molto_molto_ADV')	31	erano molto	erano	molto	essere	molto	AUX	ADV	
-('ha_avere_VERB', 'i_il_DET')	31	ha i	ha	i	avere	il	VERB	DET	
-('cura_cura_NOUN', 'di_di_ADP')	31	cura di	cura	di	cura	di	NOUN	ADP	
-('al_a_ADP', 'giorno_giorno_NOUN')	31	al giorno	al	giorno	a	giorno	ADP	NOUN	
-('qualunque_qualunque_DET', 'cosa_cosa_NOUN')	31	qualunque cosa	qualunque	cosa	qualunque	cosa	DET	NOUN	
-('ammise_ammettere_VERB', 'che_che_SCONJ')	31	ammise che	ammise	che	ammettere	che	VERB	SCONJ	
-('per_per_ADP', 'colazione_colazione_NOUN')	31	per colazione	per	colazione	per	colazione	ADP	NOUN	
-('amico_amico_NOUN', 'di_di_ADP')	31	amico di	amico	di	amico	di	NOUN	ADP	
-('è_essere_AUX', 'piaciuta_piacere_VERB')	31	è piaciuta	è	piaciuta	essere	piacere	AUX	VERB	
-('volta_volta_NOUN', 'che_che_SCONJ')	31	volta che	volta	che	volta	che	NOUN	SCONJ	
-('per_per_ADP', 'tutta_tutto_DET')	31	per tutta	per	tutta	per	tutto	ADP	DET	
-('la_il_DET', 'moglie_moglie_NOUN')	31	la moglie	la	moglie	il	moglie	DET	NOUN	
-('sta_stare_AUX', 'leggendo_leggere_VERB')	31	sta leggendo	sta	leggendo	stare	leggere	AUX	VERB	
-('il_il_DET', 'calcio_calcio_NOUN')	31	il calcio	il	calcio	il	calcio	DET	NOUN	
-('di_di_ADP', 'vedere_vedere_VERB')	31	di vedere	di	vedere	di	vedere	ADP	VERB	
-"('visto_vedere_VERB', ""l'_il_DET"")"	31	visto l'	visto	l'	vedere	il	VERB	DET	
-('cosa_cosa_PRON', 'gli_gli_PRON')	31	cosa gli	cosa	gli	cosa	gli	PRON	PRON	
-('loro_loro_PRON', 'si_si_PRON')	31	loro si	loro	si	loro	si	PRON	PRON	
-('un_uno_DET', 'anno_anno_NOUN')	31	un anno	un	anno	uno	anno	DET	NOUN	
-('sta_stare_VERB', 'per_per_ADP')	31	sta per	sta	per	stare	per	VERB	ADP	
-('sei_essere_AUX', 'mai_mai_ADV')	31	sei mai	sei	mai	essere	mai	AUX	ADV	
+('la_il_DET', 'cosa_cosa_NOUN')	33	la cosa	la	cosa	il	cosa	DET	NOUN	the thing
+('nei_in_ADP', 'guai_guaio_NOUN')	33	nei guai	nei	guai	in	guaio	ADP	NOUN	in trouble
+('per_per_ADP', 'cena_cena_NOUN')	33	per cena	per	cena	per	cena	ADP	NOUN	for dinner
+('imparare_imparare_VERB', 'a_a_ADP')	33	impa	imparare	a	imparare	a	VERB	ADP	learn to
+('è_essere_AUX', 'meglio_meglio_ADV')	33	è meglio	è	meglio	essere	meglio	AUX	ADV	it's better
+('nulla_nu_ADV', 'da_da_ADP')	33	nulla da	nulla	da	nu	da	ADV	ADP	nothing to
+('amo_amare_VERB', 'le_il_DET')	33	amo le	amo	le	amare	il	VERB	DET	I love the (feminine plural)
+('vuole_volere_AUX', 'fare_fare_VERB')	33	vuole fare	vuole	fare	volere	fare	AUX	VERB	wants to do
+('casa_casa_NOUN', 'per_per_ADP')	33	casa per	casa	per	casa	per	NOUN	ADP	house for
+('le_il_DET', 'donne_donna_NOUN')	33	le donne	le	donne	il	donna	DET	NOUN	the women
+('siete_essere_AUX', 'molto_molto_ADV')	33	siete molto	siete	molto	essere	molto	AUX	ADV	you (plural) are very
+('me_me_PRON', 'piacerebbe_piacere_VERB')	33	me piacerebbe	me	piacerebbe	me	piacere	PRON	VERB	I would like
+('alla_a_ADP', 'riunione_riunione_NOUN')	33	alla riunione	alla	riunione	a	riunione	ADP	NOUN	at the meeting
+('la_il_DET', 'torta_torta_NOUN')	33	la torta	la	torta	il	torta	DET	NOUN	the cake
+('io_io_PRON', 'ti_ti_PRON')	33	io ti	io	ti	io	ti	PRON	PRON	I you
+('mai_mai_ADV', 'mangiato_mangiare_VERB')	33	mai mangiato	mai	mangiato	mai	mangiare	ADV	VERB	ever eaten
+('fece_fare_VERB', 'un_uno_DET')	33	fece un	fece	un	fare	uno	VERB	DET	made a
+('a_a_ADP', 'cucinare_cucinare_VERB')	33	avo a cucinare	a	cucinare	a	cucinare	ADP	VERB	to cook
+"(""cos'_cosa_PRON"", 'ha_avere_AUX')"	33	cos'ha	cos'	ha	cosa	avere	PRON	AUX	what does he/she have
+('stata_essere_AUX', 'una_uno_DET')	33	stata una	stata	una	essere	uno	AUX	DET	has been a
+('a_a_ADP', 'che_che_SCONJ')	33	a niente a che	a	che	a	che	ADP	SCONJ	to nothing that
+('più_più_ADV', 'giovane_giovane_ADJ')	33	più giovane	più	giovane	più	giovane	ADV	ADJ	younger
+('da_da_ADP', 'una_uno_DET')	33	da una	da	una	da	uno	ADP	DET	from a
+"('che_che_SCONJ', ""l'_lo_PRON"")"	32	che l'	che	l'	che	lo	SCONJ	PRON	that the
+('a_a_ADP', 'suo_suo_DET')	32	a suo	a	suo	a	suo	ADP	DET	to his; to her (masculine)
+('miei_mio_DET', 'amici_amico_NOUN')	32	miei amici	miei	amici	mio	amico	DET	NOUN	my friends (masculine)
+('perché_perché_ADV', 'ha_avere_AUX')	32	perché ha	perché	ha	perché	avere	ADV	AUX	because he/she has
+('ho_avere_VERB', 'il_il_DET')	32	ho il	ho	il	avere	il	VERB	DET	I have the (masculine)
+('ho_avere_AUX', 'scritto_scrivere_VERB')	32	ho scritto	ho	scritto	avere	scrivere	AUX	VERB	I wrote
+('ti_ti_PRON', 'è_essere_AUX')	32	ti è	ti	è	ti	essere	PRON	AUX	you have been
+"(""cos'_cos'_PRON"", 'ha_avere_AUX')"	32	cos'ha	cos'	ha	cos'	avere	PRON	AUX	what does he/she have
+('la_la_PRON', 'sta_stare_AUX')	32	la sta	la	sta	la	stare	PRON	AUX	it is
+('la_la_PRON', 'smetta_smettere_VERB')	32	la smetta	la	smetta	la	smettere	PRON	VERB	stop it (formal)
+('che_che_PRON', 'dice_dire_VERB')	32	che dice	che	dice	che	dire	PRON	VERB	that says
+('smettetela_smettere_VERB', 'di_di_ADP')	32	smettetela di	smettetela	di	smettere	di	VERB	ADP	you (plural) stop doing
+('il_il_DET', 'numero_numero_NOUN')	32	il numero	il	numero	il	numero	DET	NOUN	the number
+('ho_avere_AUX', 'sempre_sempre_ADV')	32	ho sempre	ho	sempre	avere	sempre	AUX	ADV	I have always
+('suo_suo_DET', 'ufficio_ufficio_NOUN')	32	suo ufficio	suo	ufficio	suo	ufficio	DET	NOUN	his; her office (masculine)
+('sono_essere_AUX', 'tutti_tutto_PRON')	32	sono tutti	sono	tutti	essere	tutto	AUX	PRON	they are all
+"(""all'_a_ADP"", 'ospedale_ospedale_NOUN')"	32	all'ospedale	all'	ospedale	a	ospedale	ADP	NOUN	at the hospital
+('io_io_PRON', 'le_le_PRON')	32	io le	io	le	io	le	PRON	PRON	I to her
+('perché_perché_PRON', 'avete_avere_AUX')	32	perché avete	perché	avete	perché	avere	PRON	AUX	why have you (plural)
+('ha_avere_AUX', 'ucciso_uccidere_VERB')	32	ha ucciso	ha	ucciso	avere	uccidere	AUX	VERB	killed
+('piano_piano_NOUN', 'di_di_ADP')	32	piano di	piano	di	piano	di	NOUN	ADP	plan to
+('è_essere_AUX', 'rimasto_rimanere_VERB')	32	è rimasto	è	rimasto	essere	rimanere	AUX	VERB	has remained
+('farlo_fare_VERB', 'da_da_ADP')	32	farlo da	farlo	da	fare	da	VERB	ADP	do it by
+('ci_ci_PRON', 'si_si_PRON')	32	ci si	ci	si	ci	si	PRON	PRON	one ... themselves
+('di_di_ADP', 'suo_suo_DET')	32	di suo	di	suo	di	suo	ADP	DET	of his; of hers
+('quanti_quanto_DET', 'anni_anno_NOUN')	32	quanti anni	quanti	anni	quanto	anno	DET	NOUN	how many years
+('una_uno_DET', 'risposta_risposta_NOUN')	32	una risposta	una	risposta	uno	risposta	DET	NOUN	an answer
+('in_in_ADP', 'esperanto_esperanto_NOUN')	32	in esperanto	in	esperanto	in	esperanto	ADP	NOUN	in esperanto
+('mai_mai_ADV', 'più_più_ADV')	32	mai più	mai	più	mai	più	ADV	ADV	never again
+('una_uno_DET', 'famiglia_famiglia_NOUN')	32	una famiglia	una	famiglia	uno	famiglia	DET	NOUN	a family
+('una_uno_DET', 'chiave_chiave_NOUN')	32	una chiave	una	chiave	uno	chiave	DET	NOUN	a key
+"(""l'_il_DET"", 'ultimo_ultimo_ADJ')"	32	l'ultimo	l'	ultimo	il	ultimo	DET	ADJ	the last
+('pronta_pronto_ADJ', 'a_a_ADP')	32	pronta	pronta	a	pronto	a	ADJ	ADP	ready to
+('i_il_DET', 'vestiti_vestito_NOUN')	32	i vestiti	i	vestiti	il	vestito	DET	NOUN	the clothes
+('per_per_ADP', 'pranzo_pranzo_NOUN')	32	per pranzo	per	pranzo	per	pranzo	ADP	NOUN	for lunch
+('il_il_DET', 'telefono_telefono_NOUN')	32	il telefono	il	telefono	il	telefono	DET	NOUN	the phone
+"(""l'_il_DET"", 'idea_idea_NOUN')"	32	l'idea	l'	idea	il	idea	DET	NOUN	the idea
+('innamorato_innamorare_VERB', 'di_di_ADP')	32	innamorato di	innamorato	di	innamorare	di	VERB	ADP	in love with
+('vuole_volere_VERB', 'un_uno_DET')	32	vuole un	vuole	un	volere	uno	VERB	DET	wants a
+('da_da_ADP', 'me_me_PRON')	32	da me	da	me	da	me	ADP	PRON	from me
+"('imparare_imparare_VERB', ""l'_il_DET"")"	32	imparare l'	imparare	l'	imparare	il	VERB	DET	learn the
+('al_a_ADP', 'telefono_telefono_NOUN')	32	al telefono	al	telefono	a	telefono	ADP	NOUN	on the phone
+('scritto_scrivere_VERB', 'una_uno_DET')	32	scritto una	scritto	una	scrivere	uno	VERB	DET	written a
+('sta_stare_AUX', 'mangiando_mangiare_VERB')	32	sta mangiando	sta	mangiando	stare	mangiare	AUX	VERB	is eating
+('dovete_dovere_AUX', 'essere_essere_AUX')	32	dovete essere	dovete	essere	dovere	essere	AUX	AUX	you (plural) must be
+('io_io_PRON', 'volevo_volere_AUX')	32	io volevo	io	volevo	io	volere	PRON	AUX	I wanted
+('al_a_ADP', 'piano_piano_NOUN')	32	al piano	al	piano	a	piano	ADP	NOUN	to the floor
+('soltanto_soltanto_ADV', 'un_uno_DET')	32	soltanto un	soltanto	un	soltanto	uno	ADV	DET	only one
+('con_con_ADP', 'mio_mio_DET')	32	con mio	con	mio	con	mio	ADP	DET	with my (masculine)
+('i_il_DET', 'denti_dente_NOUN')	32	i denti	i	denti	il	dente	DET	NOUN	the teeth
+('la_il_DET', 'bocca_bocca_NOUN')	32	la bocca	la	bocca	il	bocca	DET	NOUN	the mouth
+('il_il_DET', 'prossimo_prossimo_ADJ')	32	il prossimo	il	prossimo	il	prossimo	DET	ADJ	the next (masculine)
+('me_me_PRON', 'piacciono_piacere_VERB')	32	me piacciono	me	piacciono	me	piacere	PRON	VERB	I like them
+('la_il_DET', 'parola_parola_NOUN')	32	la parola	la	parola	il	parola	DET	NOUN	the word
+('di_di_ADP', 'questa_questo_DET')	32	di questa	di	questa	di	questo	ADP	DET	of this (feminine)
+('è_essere_AUX', 'estremamente_estremamente_ADV')	31	è estremamente	è	estremamente	essere	estremamente	AUX	ADV	is extremely
+('erano_essere_AUX', 'molto_molto_ADV')	31	erano molto	erano	molto	essere	molto	AUX	ADV	were very
+('ha_avere_VERB', 'i_il_DET')	31	ha i	ha	i	avere	il	VERB	DET	has the (masculine plural)
+('cura_cura_NOUN', 'di_di_ADP')	31	cura di	cura	di	cura	di	NOUN	ADP	takes care of
+('al_a_ADP', 'giorno_giorno_NOUN')	31	al giorno	al	giorno	a	giorno	ADP	NOUN	per day
+('qualunque_qualunque_DET', 'cosa_cosa_NOUN')	31	qualunque cosa	qualunque	cosa	qualunque	cosa	DET	NOUN	whatever
+('ammise_ammettere_VERB', 'che_che_SCONJ')	31	ammise che	ammise	che	ammettere	che	VERB	SCONJ	admitted that
+('per_per_ADP', 'colazione_colazione_NOUN')	31	per colazione	per	colazione	per	colazione	ADP	NOUN	for breakfast
+('amico_amico_NOUN', 'di_di_ADP')	31	amico di	amico	di	amico	di	NOUN	ADP	friend of
+('è_essere_AUX', 'piaciuta_piacere_VERB')	31	è piaciuta	è	piaciuta	essere	piacere	AUX	VERB	was liked
+('volta_volta_NOUN', 'che_che_SCONJ')	31	volta che	volta	che	volta	che	NOUN	SCONJ	time that
+('per_per_ADP', 'tutta_tutto_DET')	31	per tutta	per	tutta	per	tutto	ADP	DET	for all (feminine)
+('la_il_DET', 'moglie_moglie_NOUN')	31	la moglie	la	moglie	il	moglie	DET	NOUN	the wife
+('sta_stare_AUX', 'leggendo_leggere_VERB')	31	sta leggendo	sta	leggendo	stare	leggere	AUX	VERB	is reading
+('il_il_DET', 'calcio_calcio_NOUN')	31	il calcio	il	calcio	il	calcio	DET	NOUN	soccer
+('di_di_ADP', 'vedere_vedere_VERB')	31	di vedere	di	vedere	di	vedere	ADP	VERB	to see
+"('visto_vedere_VERB', ""l'_il_DET"")"	31	visto l'	visto	l'	vedere	il	VERB	DET	seen the
+('cosa_cosa_PRON', 'gli_gli_PRON')	31	cosa gli	cosa	gli	cosa	gli	PRON	PRON	what to him
+('loro_loro_PRON', 'si_si_PRON')	31	loro si	loro	si	loro	si	PRON	PRON	they themselves
+('un_uno_DET', 'anno_anno_NOUN')	31	un anno	un	anno	uno	anno	DET	NOUN	one year
+('sta_stare_VERB', 'per_per_ADP')	31	sta per	sta	per	stare	per	VERB	ADP	is about to
+('sei_essere_AUX', 'mai_mai_ADV')	31	sei mai	sei	mai	essere	mai	AUX	ADV	have you ever
