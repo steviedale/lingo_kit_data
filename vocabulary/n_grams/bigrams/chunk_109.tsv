@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('vorrei_volere_AUX', 'mangiare_mangiare_VERB')	5	vorrei mangiare	vorrei	mangiare	volere	mangiare	AUX	VERB	
-('in_in_ADP', 'soffitta_soffitta_NOUN')	5	in soffitta	in	soffitta	in	soffitta	ADP	NOUN	
-('invidio_invidere_VERB', 'la_il_DET')	5	invidio la	invidio	la	invidere	il	VERB	DET	
-('studia_studiare_VERB', 'francese_francese_ADJ')	5	studia francese	studia	francese	studiare	francese	VERB	ADJ	
-('felice_felice_ADJ', 'compleanno_compleanno_NOUN')	5	felice compleanno	felice	compleanno	felice	compleanno	ADJ	NOUN	
-('rapidamente_rapidamente_ADV', 'la_il_DET')	5	rapidamente la	rapidamente	la	rapidamente	il	ADV	DET	
-('troppo_troppo_ADV', 'rapidamente_rapidamente_ADV')	5	troppo rapidamente	troppo	rapidamente	troppo	rapidamente	ADV	ADV	
-('quale_quale_DET', 'cappello_cappello_NOUN')	5	quale cappello	quale	cappello	quale	cappello	DET	NOUN	
-('nel_in_ADP', 'villaggio_villaggio_NOUN')	5	nel villaggio	nel	villaggio	in	villaggio	ADP	NOUN	
-('importa_importare_VERB', 'quello_quello_PRON')	5	importa quello	importa	quello	importare	quello	VERB	PRON	
-('sempre_sempre_ADV', 'una_uno_DET')	5	sempre una	sempre	una	sempre	uno	ADV	DET	
-('devi_dovere_AUX', 'parlare_parlare_VERB')	5	devi parlare	devi	parlare	dovere	parlare	AUX	VERB	
-('i_il_DET', 'costi_costo_NOUN')	5	i costi	i	costi	il	costo	DET	NOUN	
-('ancora_ancora_ADV', 'piuttosto_piuttosto_ADV')	5	ancora piuttosto	ancora	piuttosto	ancora	piuttosto	ADV	ADV	
-('suo_suo_DET', 'turno_turno_NOUN')	5	suo turno	suo	turno	suo	turno	DET	NOUN	
-"('bevendo_bere_VERB', ""dell'_di_ADP"")"	5	bevendo dell'	bevendo	dell'	bere	di	VERB	ADP	
-('sarei_essere_AUX', 'stato_essere_AUX')	5	sarei stato	sarei	stato	essere	essere	AUX	AUX	
-('il_il_DET', 'pacco_pacco_NOUN')	5	il pacco	il	pacco	il	pacco	DET	NOUN	
-('sprecando_sprecare_VERB', 'il_il_DET')	5	sprecando il	sprecando	il	sprecare	il	VERB	DET	
-('divorziato_divorziare_VERB', 'da_da_ADP')	5	divorziato da	divorziato	da	divorziare	da	VERB	ADP	
-('anni_anno_NOUN', 'di_di_ADP')	5	anni di	anni	di	anno	di	NOUN	ADP	
-('unica_unico_ADJ', 'speranza_speranza_NOUN')	5	unica speranza	unica	speranza	unico	speranza	ADJ	NOUN	
-('promettimi_promettimare_VERB', 'che_che_SCONJ')	5	promettimi che	promettimi	che	promettimare	che	VERB	SCONJ	
-('davvero_davvero_ADV', 'aiutare_aiutare_VERB')	5	davvero aiutare	davvero	aiutare	davvero	aiutare	ADV	VERB	
-('voglio_volere_AUX', 'stare_stare_VERB')	5	voglio stare	voglio	stare	volere	stare	AUX	VERB	
-('ci_ci_PRON', 'aiuterebbe_aiutare_VERB')	5	ci aiuterebbe	ci	aiuterebbe	ci	aiutare	PRON	VERB	
-"(""un'_uno_DET"", 'esperienza_esperienza_NOUN')"	5	un'esperienza	un'	esperienza	uno	esperienza	DET	NOUN	
-('chi_chi_PRON', 'vuole_volere_VERB')	5	chi vuole	chi	vuole	chi	volere	PRON	VERB	
-"('dichiarando_dichiarare_VERB', ""l'_il_DET"")"	5	dichiarando l'	dichiarando	l'	dichiarare	il	VERB	DET	
-('sua_suo_DET', 'carta_carta_NOUN')	5	sua carta	sua	carta	suo	carta	DET	NOUN	
-('impegnato_impegnare_VERB', 'con_con_ADP')	5	impegnato con	impegnato	con	impegnare	con	VERB	ADP	
-('da_da_ADP', 'chi_chi_PRON')	5	da chi	da	chi	da	chi	ADP	PRON	
-('più_più_ADV', 'ricco_ricco_ADJ')	5	più ricco	più	ricco	più	ricco	ADV	ADJ	
-('di_di_ADP', 'vetro_vetro_NOUN')	5	di vetro	di	vetro	di	vetro	ADP	NOUN	
-('sono_essere_AUX', 'queste_questo_DET')	5	sono queste	sono	queste	essere	questo	AUX	DET	
-('pronte_pronto_ADJ', 'ad_a_ADP')	5	pronte ad	pronte	ad	pronto	a	ADJ	ADP	
-('quanto_quanto_PRON', 'vi_vi_PRON')	5	quanto vi	quanto	vi	quanto	vi	PRON	PRON	
-('auguro_augurare_VERB', 'il_il_DET')	5	auguro il	auguro	il	augurare	il	VERB	DET	
-('laggiù_laggiù_ADV', 'è_essere_AUX')	5	laggiù è	laggiù	è	laggiù	essere	ADV	AUX	
-('posso_potere_AUX', 'non_non_ADV')	5	posso non	posso	non	potere	non	AUX	ADV	
-('stato_essere_AUX', 'preso_prendere_VERB')	5	stato preso	stato	preso	essere	prendere	AUX	VERB	
-('stai_stare_AUX', 'imparando_imparare_VERB')	5	stai imparando	stai	imparando	stare	imparare	AUX	VERB	
-('voi_voi_PRON', 'è_essere_AUX')	5	voi è	voi	è	voi	essere	PRON	AUX	
-('raramente_raramente_ADV', 'in_in_ADP')	5	raramente in	raramente	in	raramente	in	ADV	ADP	
-('ho_avere_AUX', 'riparato_riparare_VERB')	5	ho riparato	ho	riparato	avere	riparare	AUX	VERB	
-('cantare_cantare_VERB', 'con_con_ADP')	5	cantare con	cantare	con	cantare	con	VERB	ADP	
-('estremamente_estremamente_ADV', 'bene_bene_ADV')	5	estremamente bene	estremamente	bene	estremamente	bene	ADV	ADV	
-('colpevole_colpevole_ADJ', 'di_di_ADP')	5	colpevole di	colpevole	di	colpevole	di	ADJ	ADP	
-('vive_vivere_VERB', 'ancora_ancora_ADV')	5	vive ancora	vive	ancora	vivere	ancora	VERB	ADV	
-('cane_cane_NOUN', 'si_si_PRON')	5	cane si	cane	si	cane	si	NOUN	PRON	
-('ho_avere_AUX', 'amato_amare_VERB')	5	ho amato	ho	amato	avere	amare	AUX	VERB	
-('dovrebbe_dovere_AUX', 'andarsene_andare_VERB')	5	dovrebbe andarsene	dovrebbe	andarsene	dovere	andare	AUX	VERB	
-('dei_di_ADP', 'pancake_pancake_NOUN')	5	dei pancake	dei	pancake	di	pancake	ADP	NOUN	
-('ha_avere_AUX', 'afferrato_afferrare_VERB')	5	ha afferrato	ha	afferrato	avere	afferrare	AUX	VERB	
-('vi_vi_PRON', 'sono_essere_AUX')	5	vi sono	vi	sono	vi	essere	PRON	AUX	
-('il_il_DET', 'microfono_microfono_NOUN')	5	il microfono	il	microfono	il	microfono	DET	NOUN	
-('cuore_cuore_NOUN', 'infranto_infranto_ADJ')	5	cuore infranto	cuore	infranto	cuore	infranto	NOUN	ADJ	
-('noi_noi_PRON', 'è_essere_AUX')	5	noi è	noi	è	noi	essere	PRON	AUX	
-('si_si_PRON', 'farà_fare_VERB')	5	si farà	si	farà	si	fare	PRON	VERB	
-('a_a_ADP', 'contare_contare_VERB')	5	a contare	a	contare	a	contare	ADP	VERB	
-('siete_essere_AUX', 'tutti_tutto_PRON')	5	siete tutti	siete	tutti	essere	tutto	AUX	PRON	
-('sono_essere_AUX', 'ricche_ricco_ADJ')	5	sono ricche	sono	ricche	essere	ricco	AUX	ADJ	
-('sono_essere_AUX', 'mie_mio_DET')	5	sono mie	sono	mie	essere	mio	AUX	DET	
-('sono_essere_AUX', 'diretta_dirigere_VERB')	5	sono diretta	sono	diretta	essere	dirigere	AUX	VERB	
-('dovuto_dovere_AUX', 'aiutare_aiutare_VERB')	5	dovuto aiutare	dovuto	aiutare	dovere	aiutare	AUX	VERB	
-('chiede_chiedere_VERB', 'a_a_ADP')	5	chiede a	chiede	a	chiedere	a	VERB	ADP	
-('sa_sapere_VERB', 'quando_quando_SCONJ')	5	sa quando	sa	quando	sapere	quando	VERB	SCONJ	
-('per_per_ADP', 'gli_il_DET')	5	per gli	per	gli	per	il	ADP	DET	
-('gelato_gelato_NOUN', 'alla_a_ADP')	5	gelato alla	gelato	alla	gelato	a	NOUN	ADP	
-('loro_loro_DET', 'automobile_automobile_NOUN')	5	loro automobile	loro	automobile	loro	automobile	DET	NOUN	
-('dica_dire_VERB', 'come_come_SCONJ')	5	dica come	dica	come	dire	come	VERB	SCONJ	
-('pochi_poco_DET', 'anni_anno_NOUN')	5	pochi anni	pochi	anni	poco	anno	DET	NOUN	
-('chiamatemi_chiamatemere_VERB', 'se_se_SCONJ')	5	chiamatemi se	chiamatemi	se	chiamatemere	se	VERB	SCONJ	
-('dirti_dire_VERB', 'qualcosa_qualcosa_PRON')	5	dirti qualcosa	dirti	qualcosa	dire	qualcosa	VERB	PRON	
-('scuola_scuola_NOUN', 'ha_avere_VERB')	5	scuola ha	scuola	ha	scuola	avere	NOUN	VERB	
-('poker_poker_NOUN', 'con_con_ADP')	5	poker con	poker	con	poker	con	NOUN	ADP	
-('diede_dare_VERB', 'questo_questo_DET')	5	diede questo	diede	questo	dare	questo	VERB	DET	
-('molto_molto_ADV', 'orgogliosi_orgoglioso_ADJ')	5	molto orgogliosi	molto	orgogliosi	molto	orgoglioso	ADV	ADJ	
-('cominciò_cominciare_VERB', 'ad_a_ADP')	5	cominciò ad	cominciò	ad	cominciare	a	VERB	ADP	
-('fuori_fuori_ADP', 'pericolo_pericolo_NOUN')	5	fuori pericolo	fuori	pericolo	fuori	pericolo	ADP	NOUN	
-('sulla_su_ADP', 'vostra_vostro_DET')	5	sulla vostra	sulla	vostra	su	vostro	ADP	DET	
-('stare_stare_VERB', 'da_da_ADP')	5	stare da	stare	da	stare	da	VERB	ADP	
-('già_già_ADV', 'sposata_sposare_VERB')	5	già sposata	già	sposata	già	sposare	ADV	VERB	
-('vuole_volere_VERB', 'qui_qui_ADV')	5	vuole qui	vuole	qui	volere	qui	VERB	ADV	
-('molto_molto_ADV', 'del_di_ADP')	5	molto del	molto	del	molto	di	ADV	ADP	
-('abbiamo_avere_VERB', 'riso_riso_NOUN')	5	abbiamo riso	abbiamo	riso	avere	riso	VERB	NOUN	
-('ragazza_ragazzo_NOUN', 'che_che_PRON')	5	ragazza che	ragazza	che	ragazzo	che	NOUN	PRON	
-('giorni_giorno_NOUN', 'di_di_ADP')	5	giorni di	giorni	di	giorno	di	NOUN	ADP	
-('cosa_cosa_PRON', 'stavate_stare_AUX')	5	cosa stavate	cosa	stavate	cosa	stare	PRON	AUX	
-('dei_di_ADP', 'parenti_parente_NOUN')	5	dei parenti	dei	parenti	di	parente	ADP	NOUN	
-('in_in_ADP', 'dettaglio_dettaglio_NOUN')	5	in dettaglio	in	dettaglio	in	dettaglio	ADP	NOUN	
-('porta_porta_NOUN', 'del_di_ADP')	5	porta del	porta	del	porta	di	NOUN	ADP	
-('cinema_cinema_NOUN', 'con_con_ADP')	5	cinema con	cinema	con	cinema	con	NOUN	ADP	
-('le_le_PRON', 'chiesi_chiedere_VERB')	5	le chiesi	le	chiesi	le	chiedere	PRON	VERB	
-('stanca_stanco_ADJ', 'di_di_ADP')	5	stanca di	stanca	di	stanco	di	ADJ	ADP	
-('voleva_volere_AUX', 'vendere_vendere_VERB')	5	voleva vendere	voleva	vendere	volere	vendere	AUX	VERB	
-('può_potere_AUX', 'utilizzare_utilizzare_VERB')	5	può utilizzare	può	utilizzare	potere	utilizzare	AUX	VERB	
-('un_uno_DET', 'futuro_futuro_NOUN')	5	un futuro	un	futuro	uno	futuro	DET	NOUN	
-('dove_dove_ADV', 'stava_stare_AUX')	5	dove stava	dove	stava	dove	stare	ADV	AUX	
-('la_il_DET', 'tua_tuo_PRON')	5	la tua	la	tua	il	tuo	DET	PRON	
+('vorrei_volere_AUX', 'mangiare_mangiare_VERB')	5	vorrei mangiare	vorrei	mangiare	volere	mangiare	AUX	VERB	I would like to eat
+('in_in_ADP', 'soffitta_soffitta_NOUN')	5	in soffitta	in	soffitta	in	soffitta	ADP	NOUN	in the attic
+('invidio_invidere_VERB', 'la_il_DET')	5	invidio la	invidio	la	invidere	il	VERB	DET	I envy her
+('studia_studiare_VERB', 'francese_francese_ADJ')	5	studia francese	studia	francese	studiare	francese	VERB	ADJ	studies French
+('felice_felice_ADJ', 'compleanno_compleanno_NOUN')	5	felice compleanno	felice	compleanno	felice	compleanno	ADJ	NOUN	happy birthday
+('rapidamente_rapidamente_ADV', 'la_il_DET')	5	rapidamente la	rapidamente	la	rapidamente	il	ADV	DET	quickly her
+('troppo_troppo_ADV', 'rapidamente_rapidamente_ADV')	5	troppo rapidamente	troppo	rapidamente	troppo	rapidamente	ADV	ADV	too quickly
+('quale_quale_DET', 'cappello_cappello_NOUN')	5	quale cappello	quale	cappello	quale	cappello	DET	NOUN	which hat
+('nel_in_ADP', 'villaggio_villaggio_NOUN')	5	nel villaggio	nel	villaggio	in	villaggio	ADP	NOUN	in the village
+('importa_importare_VERB', 'quello_quello_PRON')	5	importa quello	importa	quello	importare	quello	VERB	PRON	that matters
+('sempre_sempre_ADV', 'una_uno_DET')	5	sempre una	sempre	una	sempre	uno	ADV	DET	always a
+('devi_dovere_AUX', 'parlare_parlare_VERB')	5	devi parlare	devi	parlare	dovere	parlare	AUX	VERB	you must speak
+('i_il_DET', 'costi_costo_NOUN')	5	i costi	i	costi	il	costo	DET	NOUN	the costs
+('ancora_ancora_ADV', 'piuttosto_piuttosto_ADV')	5	ancora piuttosto	ancora	piuttosto	ancora	piuttosto	ADV	ADV	still rather
+('suo_suo_DET', 'turno_turno_NOUN')	5	suo turno	suo	turno	suo	turno	DET	NOUN	his turn; her (masculine) turn
+"('bevendo_bere_VERB', ""dell'_di_ADP"")"	5	bevendo dell'	bevendo	dell'	bere	di	VERB	ADP	drinking some (before a vowel)
+('sarei_essere_AUX', 'stato_essere_AUX')	5	sarei stato	sarei	stato	essere	essere	AUX	AUX	I would have been
+('il_il_DET', 'pacco_pacco_NOUN')	5	il pacco	il	pacco	il	pacco	DET	NOUN	the package
+('sprecando_sprecare_VERB', 'il_il_DET')	5	sprecando il	sprecando	il	sprecare	il	VERB	DET	wasting the
+('divorziato_divorziare_VERB', 'da_da_ADP')	5	divorziato da	divorziato	da	divorziare	da	VERB	ADP	divorced from
+('anni_anno_NOUN', 'di_di_ADP')	5	anni di	anni	di	anno	di	NOUN	ADP	years of
+('unica_unico_ADJ', 'speranza_speranza_NOUN')	5	unica speranza	unica	speranza	unico	speranza	ADJ	NOUN	only hope
+('promettimi_promettimare_VERB', 'che_che_SCONJ')	5	promettimi che	promettimi	che	promettimare	che	VERB	SCONJ	promise me that
+('davvero_davvero_ADV', 'aiutare_aiutare_VERB')	5	davvero aiutare	davvero	aiutare	davvero	aiutare	ADV	VERB	really help
+('voglio_volere_AUX', 'stare_stare_VERB')	5	voglio stare	voglio	stare	volere	stare	AUX	VERB	I want to stay
+('ci_ci_PRON', 'aiuterebbe_aiutare_VERB')	5	ci aiuterebbe	ci	aiuterebbe	ci	aiutare	PRON	VERB	would help us
+"(""un'_uno_DET"", 'esperienza_esperienza_NOUN')"	5	un'esperienza	un'	esperienza	uno	esperienza	DET	NOUN	an experience
+('chi_chi_PRON', 'vuole_volere_VERB')	5	chi vuole	chi	vuole	chi	volere	PRON	VERB	who wants
+"('dichiarando_dichiarare_VERB', ""l'_il_DET"")"	5	dichiarando l'	dichiarando	l'	dichiarare	il	VERB	DET	declaring the (before a vowel)
+('sua_suo_DET', 'carta_carta_NOUN')	5	sua carta	sua	carta	suo	carta	DET	NOUN	his (feminine) card; her card
+('impegnato_impegnare_VERB', 'con_con_ADP')	5	impegnato con	impegnato	con	impegnare	con	VERB	ADP	involved with
+('da_da_ADP', 'chi_chi_PRON')	5	da chi	da	chi	da	chi	ADP	PRON	by whom
+('più_più_ADV', 'ricco_ricco_ADJ')	5	più ricco	più	ricco	più	ricco	ADV	ADJ	richer
+('di_di_ADP', 'vetro_vetro_NOUN')	5	di vetro	di	vetro	di	vetro	ADP	NOUN	of glass
+('sono_essere_AUX', 'queste_questo_DET')	5	sono queste	sono	queste	essere	questo	AUX	DET	these are
+('pronte_pronto_ADJ', 'ad_a_ADP')	5	pronte ad	pronte	ad	pronto	a	ADJ	ADP	ready to
+('quanto_quanto_PRON', 'vi_vi_PRON')	5	quanto vi	quanto	vi	quanto	vi	PRON	PRON	how much you (plural)
+('auguro_augurare_VERB', 'il_il_DET')	5	auguro il	auguro	il	augurare	il	VERB	DET	I wish the (masculine)
+('laggiù_laggiù_ADV', 'è_essere_AUX')	5	laggiù è	laggiù	è	laggiù	essere	ADV	AUX	down there is
+('posso_potere_AUX', 'non_non_ADV')	5	posso non	posso	non	potere	non	AUX	ADV	I cannot
+('stato_essere_AUX', 'preso_prendere_VERB')	5	stato preso	stato	preso	essere	prendere	AUX	VERB	been taken
+('stai_stare_AUX', 'imparando_imparare_VERB')	5	stai imparando	stai	imparando	stare	imparare	AUX	VERB	you are learning
+('voi_voi_PRON', 'è_essere_AUX')	5	voi è	voi	è	voi	essere	PRON	AUX	you (plural) are
+('raramente_raramente_ADV', 'in_in_ADP')	5	raramente in	raramente	in	raramente	in	ADV	ADP	rarely in
+('ho_avere_AUX', 'riparato_riparare_VERB')	5	ho riparato	ho	riparato	avere	riparare	AUX	VERB	I repaired
+('cantare_cantare_VERB', 'con_con_ADP')	5	cantare con	cantare	con	cantare	con	VERB	ADP	to sing with
+('estremamente_estremamente_ADV', 'bene_bene_ADV')	5	estremamente bene	estremamente	bene	estremamente	bene	ADV	ADV	extremely well
+('colpevole_colpevole_ADJ', 'di_di_ADP')	5	colpevole di	colpevole	di	colpevole	di	ADJ	ADP	guilty of
+('vive_vivere_VERB', 'ancora_ancora_ADV')	5	vive ancora	vive	ancora	vivere	ancora	VERB	ADV	still lives
+('cane_cane_NOUN', 'si_si_PRON')	5	cane si	cane	si	cane	si	NOUN	PRON	dog itself
+('ho_avere_AUX', 'amato_amare_VERB')	5	ho amato	ho	amato	avere	amare	AUX	VERB	I loved
+('dovrebbe_dovere_AUX', 'andarsene_andare_VERB')	5	dovrebbe andarsene	dovrebbe	andarsene	dovere	andare	AUX	VERB	should leave
+('dei_di_ADP', 'pancake_pancake_NOUN')	5	dei pancake	dei	pancake	di	pancake	ADP	NOUN	some pancakes
+('ha_avere_AUX', 'afferrato_afferrare_VERB')	5	ha afferrato	ha	afferrato	avere	afferrare	AUX	VERB	grabbed
+('vi_vi_PRON', 'sono_essere_AUX')	5	vi sono	vi	sono	vi	essere	PRON	AUX	there are
+('il_il_DET', 'microfono_microfono_NOUN')	5	il microfono	il	microfono	il	microfono	DET	NOUN	the microphone
+('cuore_cuore_NOUN', 'infranto_infranto_ADJ')	5	cuore infranto	cuore	infranto	cuore	infranto	NOUN	ADJ	broken heart
+('noi_noi_PRON', 'è_essere_AUX')	5	noi è	noi	è	noi	essere	PRON	AUX	we are
+('si_si_PRON', 'farà_fare_VERB')	5	si farà	si	farà	si	fare	PRON	VERB	will be done
+('a_a_ADP', 'contare_contare_VERB')	5	a contare	a	contare	a	contare	ADP	VERB	to count
+('siete_essere_AUX', 'tutti_tutto_PRON')	5	siete tutti	siete	tutti	essere	tutto	AUX	PRON	you (plural) are all
+('sono_essere_AUX', 'ricche_ricco_ADJ')	5	sono ricche	sono	ricche	essere	ricco	AUX	ADJ	they are rich (feminine)
+('sono_essere_AUX', 'mie_mio_DET')	5	sono mie	sono	mie	essere	mio	AUX	DET	they are mine (feminine)
+('sono_essere_AUX', 'diretta_dirigere_VERB')	5	sono diretta	sono	diretta	essere	dirigere	AUX	VERB	I am headed (feminine)
+('dovuto_dovere_AUX', 'aiutare_aiutare_VERB')	5	dovuto aiutare	dovuto	aiutare	dovere	aiutare	AUX	VERB	had to help
+('chiede_chiedere_VERB', 'a_a_ADP')	5	chiede a	chiede	a	chiedere	a	VERB	ADP	asks
+('sa_sapere_VERB', 'quando_quando_SCONJ')	5	sa quando	sa	quando	sapere	quando	VERB	SCONJ	knows when
+('per_per_ADP', 'gli_il_DET')	5	per gli	per	gli	per	il	ADP	DET	for the (masculine plural)
+('gelato_gelato_NOUN', 'alla_a_ADP')	5	gelato alla	gelato	alla	gelato	a	NOUN	ADP	ice cream with (feminine)
+('loro_loro_DET', 'automobile_automobile_NOUN')	5	loro automobile	loro	automobile	loro	automobile	DET	NOUN	their car (feminine)
+('dica_dire_VERB', 'come_come_SCONJ')	5	dica come	dica	come	dire	come	VERB	SCONJ	say how
+('pochi_poco_DET', 'anni_anno_NOUN')	5	pochi anni	pochi	anni	poco	anno	DET	NOUN	few years
+('chiamatemi_chiamatemere_VERB', 'se_se_SCONJ')	5	chiamatemi se	chiamatemi	se	chiamatemere	se	VERB	SCONJ	call me if
+('dirti_dire_VERB', 'qualcosa_qualcosa_PRON')	5	dirti qualcosa	dirti	qualcosa	dire	qualcosa	VERB	PRON	tell you something
+('scuola_scuola_NOUN', 'ha_avere_VERB')	5	scuola ha	scuola	ha	scuola	avere	NOUN	VERB	school has
+('poker_poker_NOUN', 'con_con_ADP')	5	poker con	poker	con	poker	con	NOUN	ADP	poker with
+('diede_dare_VERB', 'questo_questo_DET')	5	diede questo	diede	questo	dare	questo	VERB	DET	gave this
+('molto_molto_ADV', 'orgogliosi_orgoglioso_ADJ')	5	molto orgogliosi	molto	orgogliosi	molto	orgoglioso	ADV	ADJ	very proud
+('cominciò_cominciare_VERB', 'ad_a_ADP')	5	cominciò ad	cominciò	ad	cominciare	a	VERB	ADP	began to
+('fuori_fuori_ADP', 'pericolo_pericolo_NOUN')	5	fuori pericolo	fuori	pericolo	fuori	pericolo	ADP	NOUN	out of danger
+('sulla_su_ADP', 'vostra_vostro_DET')	5	sulla vostra	sulla	vostra	su	vostro	ADP	DET	on your (you (plural); feminine)
+('stare_stare_VERB', 'da_da_ADP')	5	stare da	stare	da	stare	da	VERB	ADP	stay with
+('già_già_ADV', 'sposata_sposare_VERB')	5	già sposata	già	sposata	già	sposare	ADV	VERB	already married (feminine)
+('vuole_volere_VERB', 'qui_qui_ADV')	5	vuole qui	vuole	qui	volere	qui	VERB	ADV	wants here
+('molto_molto_ADV', 'del_di_ADP')	5	molto del	molto	del	molto	di	ADV	ADP	much of the
+('abbiamo_avere_VERB', 'riso_riso_NOUN')	5	abbiamo riso	abbiamo	riso	avere	riso	VERB	NOUN	we laughed
+('ragazza_ragazzo_NOUN', 'che_che_PRON')	5	ragazza che	ragazza	che	ragazzo	che	NOUN	PRON	girl who
+('giorni_giorno_NOUN', 'di_di_ADP')	5	giorni di	giorni	di	giorno	di	NOUN	ADP	days of
+('cosa_cosa_PRON', 'stavate_stare_AUX')	5	cosa stavate	cosa	stavate	cosa	stare	PRON	AUX	what were you (plural)
+('dei_di_ADP', 'parenti_parente_NOUN')	5	dei parenti	dei	parenti	di	parente	ADP	NOUN	some relatives
+('in_in_ADP', 'dettaglio_dettaglio_NOUN')	5	in dettaglio	in	dettaglio	in	dettaglio	ADP	NOUN	in detail
+('porta_porta_NOUN', 'del_di_ADP')	5	porta del	porta	del	porta	di	NOUN	ADP	door of the
+('cinema_cinema_NOUN', 'con_con_ADP')	5	cinema con	cinema	con	cinema	con	NOUN	ADP	cinema with
+('le_le_PRON', 'chiesi_chiedere_VERB')	5	le chiesi	le	chiesi	le	chiedere	PRON	VERB	I asked her
+('stanca_stanco_ADJ', 'di_di_ADP')	5	stanca di	stanca	di	stanco	di	ADJ	ADP	tired of
+('voleva_volere_AUX', 'vendere_vendere_VERB')	5	voleva vendere	voleva	vendere	volere	vendere	AUX	VERB	wanted to sell
+('può_potere_AUX', 'utilizzare_utilizzare_VERB')	5	può utilizzare	può	utilizzare	potere	utilizzare	AUX	VERB	can use
+('un_uno_DET', 'futuro_futuro_NOUN')	5	un futuro	un	futuro	uno	futuro	DET	NOUN	a future
+('dove_dove_ADV', 'stava_stare_AUX')	5	dove stava	dove	stava	dove	stare	ADV	AUX	where he was
+('la_il_DET', 'tua_tuo_PRON')	5	la tua	la	tua	il	tuo	DET	PRON	your (feminine)
