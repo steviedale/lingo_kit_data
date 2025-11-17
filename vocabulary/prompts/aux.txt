@@ -90,3 +90,5 @@ Quality Checklist (for each edited row)
 - [ ] Gender/number markers added when required (gender only if contrasting gender exists in file; add “(plural)” for Number=Plur; never add “(singular)”) 
 - [ ] No grammatical metadata or unnecessary parentheses
 - [ ] TSV structure preserved; only translation_en modified
+
+Please go through the tsv files in vocabulary/dataframes/AUX and assign both the translation_en and pronunciation columns if they are not already filled in. Some of the .tsv files are already completed. Please skip these ones and only edit the files with missing translation/pronunciation values. Note, please keep the pronunciations consistent and accurate with existing pronunciations formats. Please make sure that translations are consistent and clear so that the user can learn when to use each Italian term

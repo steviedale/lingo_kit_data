@@ -96,3 +96,6 @@ Quality Checklist (for each edited row)
 - [ ] Parenthetical note present when helpful and correct
 - [ ] No trailing period; no quotes; lowercase
 - [ ] TSV structure preserved; only translation_en edited
+
+
+Please go through the tsv files in vocabulary/dataframes/ADJ and assign both the translation_en and pronunciation columns if they are not already filled in. Some of the .tsv files are already completed. Please skip these ones and only edit the files with missing translation/pronunciation values. Note, please keep the pronunciations consistent and accurate with existing pronunciations formats. Please make sure that translations are consistent and clear so that the user can learn when to use each Italian term
