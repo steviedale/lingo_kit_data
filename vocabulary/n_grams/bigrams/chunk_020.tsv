@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('vive_vivere_VERB', 'in_in_ADP')	23	vive in	vive	in	vivere	in	VERB	ADP	
-('regalo_regalo_NOUN', 'per_per_ADP')	23	regalo per	regalo	per	regalo	per	NOUN	ADP	
-('essere_essere_AUX', 'con_con_ADP')	23	essere con	essere	con	essere	con	AUX	ADP	
-('gatti_gatto_NOUN', 'sono_essere_AUX')	23	gatti sono	gatti	sono	gatto	essere	NOUN	AUX	
-('cosa_cosa_PRON', 'vi_vi_PRON')	23	cosa vi	cosa	vi	cosa	vi	PRON	PRON	
-('lo_lo_PRON', 'fanno_fare_VERB')	23	lo fanno	lo	fanno	lo	fare	PRON	VERB	
-"('di_di_ADP', ""un'_uno_DET"")"	23	di un'	di	un'	di	uno	ADP	DET	
-('siamo_essere_AUX', 'molto_molto_ADV')	23	siamo molto	siamo	molto	essere	molto	AUX	ADV	
-('di_di_ADP', 'mele_mela_NOUN')	23	di mele	di	mele	di	mela	ADP	NOUN	
-('siamo_essere_AUX', 'ancora_ancora_ADV')	23	siamo ancora	siamo	ancora	essere	ancora	AUX	ADV	
-('smise_smettere_VERB', 'di_di_ADP')	23	smise di	smise	di	smettere	di	VERB	ADP	
-('così_così_ADV', 'presto_presto_ADV')	23	così presto	così	presto	così	presto	ADV	ADV	
-('ha_avere_VERB', 'le_il_DET')	23	ha le	ha	le	avere	il	VERB	DET	
-('suo_suo_DET', 'denaro_denaro_NOUN')	23	suo denaro	suo	denaro	suo	denaro	DET	NOUN	
-('suona_suonare_VERB', 'il_il_DET')	23	suona il	suona	il	suonare	il	VERB	DET	
-('le_il_DET', 'lingue_lingua_NOUN')	23	le lingue	le	lingue	il	lingua	DET	NOUN	
-('speriamo_sperare_VERB', 'che_che_SCONJ')	23	speriamo che	speriamo	che	sperare	che	VERB	SCONJ	
-('ad_a_ADP', 'aiutarlo_aiutare_VERB')	23	ad aiutarlo	ad	aiutarlo	a	aiutare	ADP	VERB	
-('ciò_ciò_PRON', 'è_essere_AUX')	23	ciò è	ciò	è	ciò	essere	PRON	AUX	
-('lì_lì_ADV', 'dentro_dentro_ADV')	23	lì dentro	lì	dentro	lì	dentro	ADV	ADV	
-('sua_suo_DET', 'chiave_chiave_NOUN')	23	sua chiave	sua	chiave	suo	chiave	DET	NOUN	
-('nel_in_ADP', 'fiume_fiume_NOUN')	23	nel fiume	nel	fiume	in	fiume	ADP	NOUN	
-('odio_odiare_VERB', 'i_il_DET')	23	odi	odio	i	odiare	il	VERB	DET	
-('il_il_DET', 'dolore_dolore_NOUN')	23	il dolore	il	dolore	il	dolore	DET	NOUN	
-('volete_volere_VERB', 'che_che_SCONJ')	23	volete che	volete	che	volere	che	VERB	SCONJ	
-('la_il_DET', 'cucina_cucina_NOUN')	23	la cucina	la	cucina	il	cucina	DET	NOUN	
-('modo_modo_NOUN', 'in_in_ADP')	23	modo in	modo	in	modo	in	NOUN	ADP	
-('come_come_ADP', 'te_te_PRON')	23	come te	come	te	come	te	ADP	PRON	
-('qualcosa_qualcosa_PRON', 'a_a_ADP')	23		qualcosa	a	qualcosa	a	PRON	ADP	
-('di_di_ADP', 'prendere_prendere_VERB')	23	di prendere	di	prendere	di	prendere	ADP	VERB	
-('sta_stare_AUX', 'dormendo_dormire_VERB')	23	sta dormendo	sta	dormendo	stare	dormire	AUX	VERB	
-('a_a_ADP', 'venire_venire_VERB')	23	a venire	a	venire	a	venire	ADP	VERB	
-('non_non_ADV', 'sembri_sembrare_VERB')	23	non sembri	non	sembri	non	sembrare	ADV	VERB	
-('mi_mi_PRON', 'stai_stare_AUX')	23	mi stai	mi	stai	mi	stare	PRON	AUX	
-('non_non_ADV', 'verrà_venire_VERB')	23	non verrà	non	verrà	non	venire	ADV	VERB	
-('in_in_ADP', 'comune_comune_NOUN')	23	in comune	in	comune	in	comune	ADP	NOUN	
-('contatto_contatto_NOUN', 'con_con_ADP')	23	con	contatto	con	contatto	con	NOUN	ADP	
-('abbiamo_avere_AUX', 'visto_vedere_VERB')	23	abbiamo visto	abbiamo	visto	avere	vedere	AUX	VERB	
-('piani_piano_NOUN', 'per_per_ADP')	23	piani per	piani	per	piano	per	NOUN	ADP	
-('sarà_essere_AUX', 'qui_qui_ADV')	23	sarà qui	sarà	qui	essere	qui	AUX	ADV	
-('ho_avere_AUX', 'deciso_decidere_VERB')	23	ho deciso	ho	deciso	avere	decidere	AUX	VERB	
-('sei_essere_AUX', 'molto_molto_ADV')	23	sei molto	sei	molto	essere	molto	AUX	ADV	
-('perché_perché_PRON', 'state_essere_AUX')	23	perché state	perché	state	perché	essere	PRON	AUX	
-('un_uno_DET', 'tipo_tipo_NOUN')	23	un tipo	un	tipo	uno	tipo	DET	NOUN	
-('sono_essere_AUX', 'solo_solo_ADV')	23	sono solo	sono	solo	essere	solo	AUX	ADV	
-('decise_decidere_VERB', 'di_di_ADP')	23	decise di	decise	di	decidere	di	VERB	ADP	
-('avete_avere_AUX', 'mangiato_mangiare_VERB')	23	avete mangiato	avete	mangiato	avere	mangiare	AUX	VERB	
-('lasci_lasciare_VERB', 'che_che_SCONJ')	23	lasci che	lasci	che	lasciare	che	VERB	SCONJ	
-('non_non_ADV', 'vado_andare_VERB')	23	non vado	non	vado	non	andare	ADV	VERB	
-('il_il_DET', 'viaggio_viaggio_NOUN')	23	il viaggio	il	viaggio	il	viaggio	DET	NOUN	
-('stanno_stare_AUX', 'facendo_fare_VERB')	23	stanno facendo	stanno	facendo	stare	fare	AUX	VERB	
-('da_da_ADP', 'letto_letto_NOUN')	23	da letto	da	letto	da	letto	ADP	NOUN	
-('è_essere_AUX', 'qualcosa_qualcosa_PRON')	23	è qualcosa	è	qualcosa	essere	qualcosa	AUX	PRON	
-('è_essere_AUX', 'giovane_giovane_ADJ')	23	è giovane	è	giovane	essere	giovane	AUX	ADJ	
-('dove_dove_PRON', 'hai_avere_AUX')	23	dove hai	dove	hai	dove	avere	PRON	AUX	
-('la_la_PRON', 'posso_potere_AUX')	23	la posso	la	posso	la	potere	PRON	AUX	
-('tutti_tutto_DET', 'gli_il_DET')	23	tutti gli	tutti	gli	tutto	il	DET	DET	
-('ha_avere_VERB', 'più_più_ADV')	23	ha più	ha	più	avere	più	VERB	ADV	
-('mia_mio_DET', 'auto_auto_NOUN')	23	mia auto	mia	auto	mio	auto	DET	NOUN	
-('non_non_ADV', 'piaceva_piacere_VERB')	23	non piaceva	non	piaceva	non	piacere	ADV	VERB	
-('la_il_DET', 'foto_foto_NOUN')	23	la foto	la	foto	il	foto	DET	NOUN	
-('a_a_ADP', 'quello_quello_PRON')	23	a quello	a	quello	a	quello	ADP	PRON	
-('il_il_DET', 'fratello_fratello_NOUN')	23	il fratello	il	fratello	il	fratello	DET	NOUN	
-('mangiare_mangiare_VERB', 'al_a_ADP')	23	mangiare al	mangiare	al	mangiare	a	VERB	ADP	
-('piaceva_piacere_VERB', 'il_il_DET')	23	piaceva il	piaceva	il	piacere	il	VERB	DET	
-('leggere_leggere_VERB', 'questo_questo_DET')	23	leggere questo	leggere	questo	leggere	questo	VERB	DET	
-('suo_suo_DET', 'impiego_impiego_NOUN')	23	suo impiego	suo	impiego	suo	impiego	DET	NOUN	
-('piace_piacere_VERB', 'guardare_guardare_VERB')	23	piace guardare	piace	guardare	piacere	guardare	VERB	VERB	
-('fino_fino_ADV', 'alle_a_ADP')	22	fino alle	fino	alle	fino	a	ADV	ADP	
-('io_io_PRON', 'avevo_avere_VERB')	22	io avevo	io	avevo	io	avere	PRON	VERB	
-('suoi_suo_DET', 'cani_cane_NOUN')	22	suoi cani	suoi	cani	suo	cane	DET	NOUN	
-"('perché_perché_ADV', ""l'_lo_PRON"")"	22	perché l'	perché	l'	perché	lo	ADV	PRON	
-('il_il_DET', 'tennis_tennis_NOUN')	22	il tennis	il	tennis	il	tennis	DET	NOUN	
-('le_il_DET', 'luci_luce_NOUN')	22	le luci	le	luci	il	luce	DET	NOUN	
-('sulla_su_ADP', 'scrivania_scrivania_NOUN')	22	sulla scrivania	sulla	scrivania	su	scrivania	ADP	NOUN	
-('siete_essere_AUX', 'state_essere_AUX')	22	siete state	siete	state	essere	essere	AUX	AUX	
-('lo_lo_PRON', 'può_potere_AUX')	22	lo può	lo	può	lo	potere	PRON	AUX	
-('sa_sapere_VERB', 'come_come_SCONJ')	22	sa come	sa	come	sapere	come	VERB	SCONJ	
-('parla_parlare_VERB', 'con_con_ADP')	22	parla con	parla	con	parlare	con	VERB	ADP	
-('messo_mettere_VERB', 'il_il_DET')	22	messo il	messo	il	mettere	il	VERB	DET	
-('mi_mi_PRON', 'posso_potere_AUX')	22	mi posso	mi	posso	mi	potere	PRON	AUX	
-('per_per_ADP', 'caso_caso_NOUN')	22	per caso	per	caso	per	caso	ADP	NOUN	
-('andai_andare_VERB', 'a_a_ADP')	22	a	andai	a	andare	a	VERB	ADP	
-('delle_di_ADP', 'sue_suo_DET')	22	delle sue	delle	sue	di	suo	ADP	DET	
-('sta_stare_AUX', 'parlando_parlare_VERB')	22	sta parlando	sta	parlando	stare	parlare	AUX	VERB	
-('sua_suo_DET', 'amica_amico_NOUN')	22	sua amica	sua	amica	suo	amico	DET	NOUN	
-('molto_molto_DET', 'denaro_denaro_NOUN')	22	molto denaro	molto	denaro	molto	denaro	DET	NOUN	
-('gentile_gentile_ADJ', 'con_con_ADP')	22	gentile con	gentile	con	gentile	con	ADJ	ADP	
-('è_essere_VERB', 'qualcuno_qualcuno_PRON')	22	è qualcuno	è	qualcuno	essere	qualcuno	VERB	PRON	
-('ne_ne_PRON', 'pensi_pensare_VERB')	22	ne pensi	ne	pensi	ne	pensare	PRON	VERB	
-('dato_dare_VERB', 'la_il_DET')	22	dato la	dato	la	dare	il	VERB	DET	
-('ho_avere_VERB', 'più_più_ADV')	22	ho più	ho	più	avere	più	VERB	ADV	
-('stessa_stesso_ADJ', 'cosa_cosa_NOUN')	22	stessa cosa	stessa	cosa	stesso	cosa	ADJ	NOUN	
-('che_che_SCONJ', 'eri_essere_AUX')	22	che eri	che	eri	che	essere	SCONJ	AUX	
-('ho_avere_AUX', 'parlato_parlare_VERB')	22	ho parlato	ho	parlato	avere	parlare	AUX	VERB	
-('fossi_essere_AUX', 'in_in_ADP')	22	fossi in	fossi	in	essere	in	AUX	ADP	
-('andando_andare_VERB', 'in_in_ADP')	22	andando in	andando	in	andare	in	VERB	ADP	
-('perché_perché_PRON', 'dovrei_dovere_AUX')	22	perché dovrei	perché	dovrei	perché	dovere	PRON	AUX	
-('non_non_ADV', 'dovresti_dovere_AUX')	22	non dovresti	non	dovresti	non	dovere	ADV	AUX	
-('riuscire_riuscire_VERB', 'a_a_ADP')	22		riuscire	a	riuscire	a	VERB	ADP	
+('vive_vivere_VERB', 'in_in_ADP')	23	vive in	vive	in	vivere	in	VERB	ADP	lives in
+('regalo_regalo_NOUN', 'per_per_ADP')	23	regalo per	regalo	per	regalo	per	NOUN	ADP	gift for
+('essere_essere_AUX', 'con_con_ADP')	23	essere con	essere	con	essere	con	AUX	ADP	to be with
+('gatti_gatto_NOUN', 'sono_essere_AUX')	23	gatti sono	gatti	sono	gatto	essere	NOUN	AUX	cats are
+('cosa_cosa_PRON', 'vi_vi_PRON')	23	cosa vi	cosa	vi	cosa	vi	PRON	PRON	what you (plural)
+('lo_lo_PRON', 'fanno_fare_VERB')	23	lo fanno	lo	fanno	lo	fare	PRON	VERB	they do it
+"('di_di_ADP', ""un'_uno_DET"")"	23	di un'	di	un'	di	uno	ADP	DET	of a (feminine; before a vowel)
+('siamo_essere_AUX', 'molto_molto_ADV')	23	siamo molto	siamo	molto	essere	molto	AUX	ADV	we are very
+('di_di_ADP', 'mele_mela_NOUN')	23	di mele	di	mele	di	mela	ADP	NOUN	of apples
+('siamo_essere_AUX', 'ancora_ancora_ADV')	23	siamo ancora	siamo	ancora	essere	ancora	AUX	ADV	we are still
+('smise_smettere_VERB', 'di_di_ADP')	23	smise di	smise	di	smettere	di	VERB	ADP	stopped
+('così_così_ADV', 'presto_presto_ADV')	23	così presto	così	presto	così	presto	ADV	ADV	so early
+('ha_avere_VERB', 'le_il_DET')	23	ha le	ha	le	avere	il	VERB	DET	has the (feminine plural)
+('suo_suo_DET', 'denaro_denaro_NOUN')	23	suo denaro	suo	denaro	suo	denaro	DET	NOUN	his; her money (masculine)
+('suona_suonare_VERB', 'il_il_DET')	23	suona il	suona	il	suonare	il	VERB	DET	plays the
+('le_il_DET', 'lingue_lingua_NOUN')	23	le lingue	le	lingue	il	lingua	DET	NOUN	the languages
+('speriamo_sperare_VERB', 'che_che_SCONJ')	23	speriamo che	speriamo	che	sperare	che	VERB	SCONJ	we hope that
+('ad_a_ADP', 'aiutarlo_aiutare_VERB')	23	ad aiutarlo	ad	aiutarlo	a	aiutare	ADP	VERB	to help him
+('ciò_ciò_PRON', 'è_essere_AUX')	23	ciò è	ciò	è	ciò	essere	PRON	AUX	that is
+('lì_lì_ADV', 'dentro_dentro_ADV')	23	lì dentro	lì	dentro	lì	dentro	ADV	ADV	in there
+('sua_suo_DET', 'chiave_chiave_NOUN')	23	sua chiave	sua	chiave	suo	chiave	DET	NOUN	his; her key (feminine)
+('nel_in_ADP', 'fiume_fiume_NOUN')	23	nel fiume	nel	fiume	in	fiume	ADP	NOUN	in the river
+('odio_odiare_VERB', 'i_il_DET')	23	odi	odio	i	odiare	il	VERB	DET	I hate the (masculine plural)
+('il_il_DET', 'dolore_dolore_NOUN')	23	il dolore	il	dolore	il	dolore	DET	NOUN	the pain
+('volete_volere_VERB', 'che_che_SCONJ')	23	volete che	volete	che	volere	che	VERB	SCONJ	you (plural) want that
+('la_il_DET', 'cucina_cucina_NOUN')	23	la cucina	la	cucina	il	cucina	DET	NOUN	the kitchen
+('modo_modo_NOUN', 'in_in_ADP')	23	modo in	modo	in	modo	in	NOUN	ADP	way in
+('come_come_ADP', 'te_te_PRON')	23	come te	come	te	come	te	ADP	PRON	like you
+('qualcosa_qualcosa_PRON', 'a_a_ADP')	23		qualcosa	a	qualcosa	a	PRON	ADP	something to
+('di_di_ADP', 'prendere_prendere_VERB')	23	di prendere	di	prendere	di	prendere	ADP	VERB	to take
+('sta_stare_AUX', 'dormendo_dormire_VERB')	23	sta dormendo	sta	dormendo	stare	dormire	AUX	VERB	is sleeping
+('a_a_ADP', 'venire_venire_VERB')	23	a venire	a	venire	a	venire	ADP	VERB	to come
+('non_non_ADV', 'sembri_sembrare_VERB')	23	non sembri	non	sembri	non	sembrare	ADV	VERB	you do not seem
+('mi_mi_PRON', 'stai_stare_AUX')	23	mi stai	mi	stai	mi	stare	PRON	AUX	you are (to) me
+('non_non_ADV', 'verrà_venire_VERB')	23	non verrà	non	verrà	non	venire	ADV	VERB	will not come
+('in_in_ADP', 'comune_comune_NOUN')	23	in comune	in	comune	in	comune	ADP	NOUN	in common
+('contatto_contatto_NOUN', 'con_con_ADP')	23	con	contatto	con	contatto	con	NOUN	ADP	contact with
+('abbiamo_avere_AUX', 'visto_vedere_VERB')	23	abbiamo visto	abbiamo	visto	avere	vedere	AUX	VERB	we saw
+('piani_piano_NOUN', 'per_per_ADP')	23	piani per	piani	per	piano	per	NOUN	ADP	plans for
+('sarà_essere_AUX', 'qui_qui_ADV')	23	sarà qui	sarà	qui	essere	qui	AUX	ADV	will be here
+('ho_avere_AUX', 'deciso_decidere_VERB')	23	ho deciso	ho	deciso	avere	decidere	AUX	VERB	I decided
+('sei_essere_AUX', 'molto_molto_ADV')	23	sei molto	sei	molto	essere	molto	AUX	ADV	you are very
+('perché_perché_PRON', 'state_essere_AUX')	23	perché state	perché	state	perché	essere	PRON	AUX	why are you (plural)
+('un_uno_DET', 'tipo_tipo_NOUN')	23	un tipo	un	tipo	uno	tipo	DET	NOUN	a guy
+('sono_essere_AUX', 'solo_solo_ADV')	23	sono solo	sono	solo	essere	solo	AUX	ADV	I am alone
+('decise_decidere_VERB', 'di_di_ADP')	23	decise di	decise	di	decidere	di	VERB	ADP	decided to
+('avete_avere_AUX', 'mangiato_mangiare_VERB')	23	avete mangiato	avete	mangiato	avere	mangiare	AUX	VERB	you (plural) ate
+('lasci_lasciare_VERB', 'che_che_SCONJ')	23	lasci che	lasci	che	lasciare	che	VERB	SCONJ	let
+('non_non_ADV', 'vado_andare_VERB')	23	non vado	non	vado	non	andare	ADV	VERB	I do not go
+('il_il_DET', 'viaggio_viaggio_NOUN')	23	il viaggio	il	viaggio	il	viaggio	DET	NOUN	the trip
+('stanno_stare_AUX', 'facendo_fare_VERB')	23	stanno facendo	stanno	facendo	stare	fare	AUX	VERB	they are doing
+('da_da_ADP', 'letto_letto_NOUN')	23	da letto	da	letto	da	letto	ADP	NOUN	from bed
+('è_essere_AUX', 'qualcosa_qualcosa_PRON')	23	è qualcosa	è	qualcosa	essere	qualcosa	AUX	PRON	is something
+('è_essere_AUX', 'giovane_giovane_ADJ')	23	è giovane	è	giovane	essere	giovane	AUX	ADJ	is young
+('dove_dove_PRON', 'hai_avere_AUX')	23	dove hai	dove	hai	dove	avere	PRON	AUX	where did you
+('la_la_PRON', 'posso_potere_AUX')	23	la posso	la	posso	la	potere	PRON	AUX	I can it (feminine)
+('tutti_tutto_DET', 'gli_il_DET')	23	tutti gli	tutti	gli	tutto	il	DET	DET	all the (masculine plural)
+('ha_avere_VERB', 'più_più_ADV')	23	ha più	ha	più	avere	più	VERB	ADV	has more
+('mia_mio_DET', 'auto_auto_NOUN')	23	mia auto	mia	auto	mio	auto	DET	NOUN	my car
+('non_non_ADV', 'piaceva_piacere_VERB')	23	non piaceva	non	piaceva	non	piacere	ADV	VERB	did not like
+('la_il_DET', 'foto_foto_NOUN')	23	la foto	la	foto	il	foto	DET	NOUN	the photo
+('a_a_ADP', 'quello_quello_PRON')	23	a quello	a	quello	a	quello	ADP	PRON	to that
+('il_il_DET', 'fratello_fratello_NOUN')	23	il fratello	il	fratello	il	fratello	DET	NOUN	the brother
+('mangiare_mangiare_VERB', 'al_a_ADP')	23	mangiare al	mangiare	al	mangiare	a	VERB	ADP	to eat at the
+('piaceva_piacere_VERB', 'il_il_DET')	23	piaceva il	piaceva	il	piacere	il	VERB	DET	liked the
+('leggere_leggere_VERB', 'questo_questo_DET')	23	leggere questo	leggere	questo	leggere	questo	VERB	DET	to read this
+('suo_suo_DET', 'impiego_impiego_NOUN')	23	suo impiego	suo	impiego	suo	impiego	DET	NOUN	his; her job (masculine)
+('piace_piacere_VERB', 'guardare_guardare_VERB')	23	piace guardare	piace	guardare	piacere	guardare	VERB	VERB	likes watching
+('fino_fino_ADV', 'alle_a_ADP')	22	fino alle	fino	alle	fino	a	ADV	ADP	until the (feminine plural)
+('io_io_PRON', 'avevo_avere_VERB')	22	io avevo	io	avevo	io	avere	PRON	VERB	I had
+('suoi_suo_DET', 'cani_cane_NOUN')	22	suoi cani	suoi	cani	suo	cane	DET	NOUN	his; her dogs (masculine plural)
+"('perché_perché_ADV', ""l'_lo_PRON"")"	22	perché l'	perché	l'	perché	lo	ADV	PRON	because it (before a vowel)
+('il_il_DET', 'tennis_tennis_NOUN')	22	il tennis	il	tennis	il	tennis	DET	NOUN	the tennis
+('le_il_DET', 'luci_luce_NOUN')	22	le luci	le	luci	il	luce	DET	NOUN	the lights
+('sulla_su_ADP', 'scrivania_scrivania_NOUN')	22	sulla scrivania	sulla	scrivania	su	scrivania	ADP	NOUN	on the desk
+('siete_essere_AUX', 'state_essere_AUX')	22	siete state	siete	state	essere	essere	AUX	AUX	you (plural; feminine) were
+('lo_lo_PRON', 'può_potere_AUX')	22	lo può	lo	può	lo	potere	PRON	AUX	he can it
+('sa_sapere_VERB', 'come_come_SCONJ')	22	sa come	sa	come	sapere	come	VERB	SCONJ	knows how
+('parla_parlare_VERB', 'con_con_ADP')	22	parla con	parla	con	parlare	con	VERB	ADP	speaks with
+('messo_mettere_VERB', 'il_il_DET')	22	messo il	messo	il	mettere	il	VERB	DET	put the
+('mi_mi_PRON', 'posso_potere_AUX')	22	mi posso	mi	posso	mi	potere	PRON	AUX	I can myself
+('per_per_ADP', 'caso_caso_NOUN')	22	per caso	per	caso	per	caso	ADP	NOUN	by chance
+('andai_andare_VERB', 'a_a_ADP')	22	a	andai	a	andare	a	VERB	ADP	I went to
+('delle_di_ADP', 'sue_suo_DET')	22	delle sue	delle	sue	di	suo	ADP	DET	of his; of her (feminine plural)
+('sta_stare_AUX', 'parlando_parlare_VERB')	22	sta parlando	sta	parlando	stare	parlare	AUX	VERB	is talking
+('sua_suo_DET', 'amica_amico_NOUN')	22	sua amica	sua	amica	suo	amico	DET	NOUN	his; her friend (feminine)
+('molto_molto_DET', 'denaro_denaro_NOUN')	22	molto denaro	molto	denaro	molto	denaro	DET	NOUN	a lot of money
+('gentile_gentile_ADJ', 'con_con_ADP')	22	gentile con	gentile	con	gentile	con	ADJ	ADP	kind to
+('è_essere_VERB', 'qualcuno_qualcuno_PRON')	22	è qualcuno	è	qualcuno	essere	qualcuno	VERB	PRON	is someone
+('ne_ne_PRON', 'pensi_pensare_VERB')	22	ne pensi	ne	pensi	ne	pensare	PRON	VERB	you think of it
+('dato_dare_VERB', 'la_il_DET')	22	dato la	dato	la	dare	il	VERB	DET	gave the (feminine)
+('ho_avere_VERB', 'più_più_ADV')	22	ho più	ho	più	avere	più	VERB	ADV	I have more
+('stessa_stesso_ADJ', 'cosa_cosa_NOUN')	22	stessa cosa	stessa	cosa	stesso	cosa	ADJ	NOUN	same thing
+('che_che_SCONJ', 'eri_essere_AUX')	22	che eri	che	eri	che	essere	SCONJ	AUX	that you were
+('ho_avere_AUX', 'parlato_parlare_VERB')	22	ho parlato	ho	parlato	avere	parlare	AUX	VERB	I spoke
+('fossi_essere_AUX', 'in_in_ADP')	22	fossi in	fossi	in	essere	in	AUX	ADP	if I were in
+('andando_andare_VERB', 'in_in_ADP')	22	andando in	andando	in	andare	in	VERB	ADP	going into
+('perché_perché_PRON', 'dovrei_dovere_AUX')	22	perché dovrei	perché	dovrei	perché	dovere	PRON	AUX	why should I
+('non_non_ADV', 'dovresti_dovere_AUX')	22	non dovresti	non	dovresti	non	dovere	ADV	AUX	you should not
+('riuscire_riuscire_VERB', 'a_a_ADP')	22		riuscire	a	riuscire	a	VERB	ADP	to manage to
