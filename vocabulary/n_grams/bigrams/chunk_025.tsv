@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('già_già_ADV', 'finito_finire_VERB')	19	già finito	già	finito	già	finire	ADV	VERB	
-('promise_promettere_VERB', 'che_che_SCONJ')	19	promise che	promise	che	promettere	che	VERB	SCONJ	
-('suo_suo_DET', 'numero_numero_NOUN')	19	suo numero	suo	numero	suo	numero	DET	NOUN	
-('è_essere_AUX', 'arrivata_arrivare_VERB')	19	è arrivata	è	arrivata	essere	arrivare	AUX	VERB	
-('sta_stare_AUX', 'preparando_preparare_VERB')	19	sta preparando	sta	preparando	stare	preparare	AUX	VERB	
-('in_in_ADP', 'ospedale_ospedale_NOUN')	19	in ospedale	in	ospedale	in	ospedale	ADP	NOUN	
-('avere_avere_VERB', 'paura_paura_NOUN')	19	avere paura	avere	paura	avere	paura	VERB	NOUN	
-('un_uno_DET', 'angelo_angelo_NOUN')	19	un angelo	un	angelo	uno	angelo	DET	NOUN	
-('il_il_DET', 'benvenuto_benvenuto_NOUN')	19	il benvenuto	il	benvenuto	il	benvenuto	DET	NOUN	
-('auto_auto_NOUN', 'di_di_ADP')	19	auto di	auto	di	auto	di	NOUN	ADP	
-('a_a_ADP', 'tutti_tutto_DET')	19	a tutti	a	tutti	a	tutto	ADP	DET	
-('chiamato_chiamare_VERB', 'il_il_DET')	19	chiamato il	chiamato	il	chiamare	il	VERB	DET	
-('dica_dire_VERB', 'loro_loro_PRON')	19	dica loro	dica	loro	dire	loro	VERB	PRON	
-('i_il_DET', 'prezzi_prezzo_NOUN')	19	i prezzi	i	prezzi	il	prezzo	DET	NOUN	
-('madre_madre_NOUN', 'di_di_ADP')	19	madre di	madre	di	madre	di	NOUN	ADP	
-('cosa_cosa_PRON', 'mi_mi_PRON')	19	cosa mi	cosa	mi	cosa	mi	PRON	PRON	
-('siamo_essere_AUX', 'qui_qui_ADV')	19	siamo qui	siamo	qui	essere	qui	AUX	ADV	
-('hanno_avere_VERB', 'un_uno_DET')	19	hanno un	hanno	un	avere	uno	VERB	DET	
-('voi_voi_PRON', 'siate_essere_AUX')	19	voi siate	voi	siate	voi	essere	PRON	AUX	
-('sta_stare_AUX', 'nascondendo_nascondere_VERB')	19	sta nascondendo	sta	nascondendo	stare	nascondere	AUX	VERB	
-('nascondendo_nascondere_VERB', 'qualcosa_qualcosa_PRON')	19	nascondendo qualcosa	nascondendo	qualcosa	nascondere	qualcosa	VERB	PRON	
-('rispondere_rispondere_VERB', 'alla_a_ADP')	19	rispondere alla	rispondere	alla	rispondere	a	VERB	ADP	
-('un_uno_DET', 'aumento_aumento_NOUN')	19	un aumento	un	aumento	uno	aumento	DET	NOUN	
-('modo_modo_NOUN', 'di_di_ADP')	19	modo di	modo	di	modo	di	NOUN	ADP	
-('nella_in_ADP', 'stessa_stesso_ADJ')	19	nella stessa	nella	stessa	in	stesso	ADP	ADJ	
-('a_a_ADP', 'trovarla_trovare_VERB')	19	a a trovarla	a	trovarla	a	trovare	ADP	VERB	
-('era_essere_AUX', 'al_a_ADP')	19	era al	era	al	essere	a	AUX	ADP	
-('ce_ce_PRON', 'la_la_PRON')	19	ce la	ce	la	ce	la	PRON	PRON	
-('le_il_DET', 'candele_candela_NOUN')	19	le candele	le	candele	il	candela	DET	NOUN	
-('di_di_ADP', 'riuscire_riuscire_VERB')	19	di riuscire	di	riuscire	di	riuscire	ADP	VERB	
-('ad_a_ADP', 'aspettare_aspettare_VERB')	19	ad aspettare	ad	aspettare	a	aspettare	ADP	VERB	
-('volevo_volere_AUX', 'essere_essere_AUX')	19	volevo essere	volevo	essere	volere	essere	AUX	AUX	
-('fare_fare_VERB', 'oggi_oggi_ADV')	19	fare oggi	fare	oggi	fare	oggi	VERB	ADV	
-('cosa_cosa_PRON', 'ci_ci_PRON')	19	cosa ci	cosa	ci	cosa	ci	PRON	PRON	
-('essere_essere_AUX', 'felice_felice_ADJ')	19	essere felice	essere	felice	essere	felice	AUX	ADJ	
-('è_essere_AUX', 'ricco_ricco_ADJ')	19	è ricco	è	ricco	essere	ricco	AUX	ADJ	
-('tuo_tuo_DET', 'fratello_fratello_NOUN')	19	tuo fratello	tuo	fratello	tuo	fratello	DET	NOUN	
-('abita_abitare_VERB', 'in_in_ADP')	19	abita in	abita	in	abitare	in	VERB	ADP	
-('favorevole_favorevole_ADJ', 'o_o_CCONJ')	19	favo	favorevole	o	favorevole	o	ADJ	CCONJ	
-('mio_mio_DET', 'aiuto_aiuto_NOUN')	19	mio aiuto	mio	aiuto	mio	aiuto	DET	NOUN	
-('non_non_ADV', 'preoccuparti_preoccupare_VERB')	19	non preoccuparti	non	preoccuparti	non	preoccupare	ADV	VERB	
-('tutto_tutto_PRON', 'è_essere_AUX')	19	tutto è	tutto	è	tutto	essere	PRON	AUX	
-('come_come_ADV', 'ha_avere_AUX')	19	come ha	come	ha	come	avere	ADV	AUX	
-('andare_andare_VERB', 'là_là_ADV')	19	andare là	andare	là	andare	là	VERB	ADV	
-('sarò_essere_AUX', 'di_di_ADP')	19	sarò di	sarò	di	essere	di	AUX	ADP	
-('è_essere_AUX', 'forte_forte_ADJ')	19	è forte	è	forte	essere	forte	AUX	ADJ	
-('chiamato_chiamare_VERB', 'la_il_DET')	19	chiamato la	chiamato	la	chiamare	il	VERB	DET	
-('una_uno_DET', 'figlia_figlio_NOUN')	19	una figlia	una	figlia	uno	figlio	DET	NOUN	
-('riesca_riuscire_VERB', 'a_a_ADP')	19		riesca	a	riuscire	a	VERB	ADP	
-('dovremmo_dovere_AUX', 'andare_andare_VERB')	19	dovremmo andare	dovremmo	andare	dovere	andare	AUX	VERB	
-('nella_in_ADP', 'scatola_scatola_NOUN')	19	nella scatola	nella	scatola	in	scatola	ADP	NOUN	
-('visto_vedere_VERB', 'qualcosa_qualcosa_PRON')	19	visto qualcosa	visto	qualcosa	vedere	qualcosa	VERB	PRON	
-('il_il_DET', 'contratto_contratto_NOUN')	19	il contratto	il	contratto	il	contratto	DET	NOUN	
-('ha_avere_AUX', 'pagato_pagare_VERB')	19	ha pagato	ha	pagato	avere	pagare	AUX	VERB	
-('piacere_piacere_NOUN', 'che_che_SCONJ')	19	piacere che	piacere	che	piacere	che	NOUN	SCONJ	
-('delle_di_ADP', 'uova_uovo_NOUN')	19	delle uova	delle	uova	di	uovo	ADP	NOUN	
-('chiedo_chiedere_VERB', 'perché_perché_SCONJ')	19	chiedo perché	chiedo	perché	chiedere	perché	VERB	SCONJ	
-('come_come_ADP', 'voi_voi_PRON')	19	come voi	come	voi	come	voi	ADP	PRON	
-('pulito_pulito_VERB', 'la_il_DET')	19	pulito la	pulito	la	pulito	il	VERB	DET	
-('vuoi_volere_AUX', 'andare_andare_VERB')	19	vuoi andare	vuoi	andare	volere	andare	AUX	VERB	
-('da_da_ADP', 'qua_qua_ADV')	19	da qua	da	qua	da	qua	ADP	ADV	
-('dove_dove_ADV', 'si_si_PRON')	19	dove si	dove	si	dove	si	ADV	PRON	
-('problemi_problema_NOUN', 'a_a_ADP')	19		problemi	a	problema	a	NOUN	ADP	
-('qualcosa_qualcosa_PRON', 'del_di_ADP')	19	qualcosa del	qualcosa	del	qualcosa	di	PRON	ADP	
-('i_il_DET', 'film_film_NOUN')	19	i piacciono i film	i	film	il	film	DET	NOUN	
-('di_di_ADP', 'calcio_calcio_NOUN')	19	di calcio	di	calcio	di	calcio	ADP	NOUN	
-('ci_ci_PRON', 'sia_essere_VERB')	19	ci sia	ci	sia	ci	essere	PRON	VERB	
-('come_come_ADP', 'il_il_DET')	19	come il	come	il	come	il	ADP	DET	
-('una_uno_DET', 'brutta_brutto_ADJ')	19	una brutta	una	brutta	uno	brutto	DET	ADJ	
-('lunedì_lunedì_NOUN', 'prossimo_prossimo_ADJ')	19	lunedì prossimo	lunedì	prossimo	lunedì	prossimo	NOUN	ADJ	
-('felice_felice_ADJ', 'per_per_ADP')	19	felice per	felice	per	felice	per	ADJ	ADP	
-('sto_stare_AUX', 'aspettando_aspettare_VERB')	19	sto aspettando	sto	aspettando	stare	aspettare	AUX	VERB	
-('sono_essere_AUX', 'bravo_bravo_ADJ')	19	sono bravo	sono	bravo	essere	bravo	AUX	ADJ	
-('un_uno_DET', 'alibi_alibo_NOUN')	19	un alibi	un	alibi	uno	alibo	DET	NOUN	
-('è_essere_AUX', 'rotto_rompere_VERB')	19	è rotto	è	rotto	essere	rompere	AUX	VERB	
-('nessuno_nessuno_PRON', 'ha_avere_AUX')	19	nessuno ha	nessuno	ha	nessuno	avere	PRON	AUX	
-('è_essere_AUX', 'vera_vero_ADJ')	19	è vera	è	vera	essere	vero	AUX	ADJ	
-('pronto_pronto_ADJ', 'ad_a_ADP')	19	pronto ad	pronto	ad	pronto	a	ADJ	ADP	
-('pagare_pagare_VERB', 'il_il_DET')	19	pagare il	pagare	il	pagare	il	VERB	DET	
-('preso_prendere_VERB', 'la_il_DET')	19	preso la	preso	la	prendere	il	VERB	DET	
-('a_a_ADP', 'chiamare_chiamare_VERB')	19	a chiamare	a	chiamare	a	chiamare	ADP	VERB	
-"(""l'_il_DET"", 'indirizzo_indirizzo_NOUN')"	19	l'indirizzo	l'	indirizzo	il	indirizzo	DET	NOUN	
-('io_io_PRON', 'riesco_riuscire_VERB')	19	io riesco	io	riesco	io	riuscire	PRON	VERB	
-('parte_parte_NOUN', 'di_di_ADP')	19	parte di	parte	di	parte	di	NOUN	ADP	
-('è_essere_AUX', 'stupido_stupido_ADJ')	19	è stupido	è	stupido	essere	stupido	AUX	ADJ	
-('una_uno_DET', 'soluzione_soluzione_NOUN')	19	una soluzione	una	soluzione	uno	soluzione	DET	NOUN	
-('è_essere_AUX', 'finito_finire_VERB')	19	è finito	è	finito	essere	finire	AUX	VERB	
-('è_essere_AUX', 'proprio_proprio_ADV')	19	è proprio	è	proprio	essere	proprio	AUX	ADV	
-('trovare_trovare_VERB', 'il_il_DET')	19	trovare il	trovare	il	trovare	il	VERB	DET	
-('tempo_tempo_NOUN', 'libero_libero_ADJ')	19	tempo libero	tempo	libero	tempo	libero	NOUN	ADJ	
-('detto_dire_VERB', 'qualcosa_qualcosa_PRON')	19	detto qualcosa	detto	qualcosa	dire	qualcosa	VERB	PRON	
-('un_uno_DET', 'paese_paese_NOUN')	19	un paese	un	paese	uno	paese	DET	NOUN	
-('lo_il_DET', 'stesso_stesso_PRON')	19	lo stesso	lo	stesso	il	stesso	DET	PRON	
-('anche_anche_ADV', 'a_a_ADP')	19	a	anche	a	anche	a	ADV	ADP	
-('stai_stare_AUX', 'cercando_cercare_VERB')	18	stai cercando	stai	cercando	stare	cercare	AUX	VERB	
-('a_a_ADP', 'modo_modo_NOUN')	18	ary non ottiene sempre le cose a modo	a	modo	a	modo	ADP	NOUN	
-('come_come_ADP', 'se_se_SCONJ')	18	come se	come	se	come	se	ADP	SCONJ	
-('a_a_ADP', 'correre_correre_VERB')	18	a correre	a	correre	a	correre	ADP	VERB	
-"('per_per_ADP', ""un'_uno_DET"")"	18	per un'	per	un'	per	uno	ADP	DET	
-('troppo_troppo_ADV', 'presto_presto_ADV')	18	troppo presto	troppo	presto	troppo	presto	ADV	ADV	
+('già_già_ADV', 'finito_finire_VERB')	19	già finito	già	finito	già	finire	ADV	VERB	already finished
+('promise_promettere_VERB', 'che_che_SCONJ')	19	promise che	promise	che	promettere	che	VERB	SCONJ	promised that
+('suo_suo_DET', 'numero_numero_NOUN')	19	suo numero	suo	numero	suo	numero	DET	NOUN	his number; her number
+('è_essere_AUX', 'arrivata_arrivare_VERB')	19	è arrivata	è	arrivata	essere	arrivare	AUX	VERB	she arrived
+('sta_stare_AUX', 'preparando_preparare_VERB')	19	sta preparando	sta	preparando	stare	preparare	AUX	VERB	is preparing
+('in_in_ADP', 'ospedale_ospedale_NOUN')	19	in ospedale	in	ospedale	in	ospedale	ADP	NOUN	in the hospital
+('avere_avere_VERB', 'paura_paura_NOUN')	19	avere paura	avere	paura	avere	paura	VERB	NOUN	to be afraid
+('un_uno_DET', 'angelo_angelo_NOUN')	19	un angelo	un	angelo	uno	angelo	DET	NOUN	an angel
+('il_il_DET', 'benvenuto_benvenuto_NOUN')	19	il benvenuto	il	benvenuto	il	benvenuto	DET	NOUN	the welcome
+('auto_auto_NOUN', 'di_di_ADP')	19	auto di	auto	di	auto	di	NOUN	ADP	car of
+('a_a_ADP', 'tutti_tutto_DET')	19	a tutti	a	tutti	a	tutto	ADP	DET	to everyone
+('chiamato_chiamare_VERB', 'il_il_DET')	19	chiamato il	chiamato	il	chiamare	il	VERB	DET	called the
+('dica_dire_VERB', 'loro_loro_PRON')	19	dica loro	dica	loro	dire	loro	VERB	PRON	tell them
+('i_il_DET', 'prezzi_prezzo_NOUN')	19	i prezzi	i	prezzi	il	prezzo	DET	NOUN	the prices
+('madre_madre_NOUN', 'di_di_ADP')	19	madre di	madre	di	madre	di	NOUN	ADP	mother of
+('cosa_cosa_PRON', 'mi_mi_PRON')	19	cosa mi	cosa	mi	cosa	mi	PRON	PRON	what to me
+('siamo_essere_AUX', 'qui_qui_ADV')	19	siamo qui	siamo	qui	essere	qui	AUX	ADV	we are here
+('hanno_avere_VERB', 'un_uno_DET')	19	hanno un	hanno	un	avere	uno	VERB	DET	they have a
+('voi_voi_PRON', 'siate_essere_AUX')	19	voi siate	voi	siate	voi	essere	PRON	AUX	you (plural) are
+('sta_stare_AUX', 'nascondendo_nascondere_VERB')	19	sta nascondendo	sta	nascondendo	stare	nascondere	AUX	VERB	is hiding
+('nascondendo_nascondere_VERB', 'qualcosa_qualcosa_PRON')	19	nascondendo qualcosa	nascondendo	qualcosa	nascondere	qualcosa	VERB	PRON	hiding something
+('rispondere_rispondere_VERB', 'alla_a_ADP')	19	rispondere alla	rispondere	alla	rispondere	a	VERB	ADP	to answer the
+('un_uno_DET', 'aumento_aumento_NOUN')	19	un aumento	un	aumento	uno	aumento	DET	NOUN	a raise
+('modo_modo_NOUN', 'di_di_ADP')	19	modo di	modo	di	modo	di	NOUN	ADP	way to
+('nella_in_ADP', 'stessa_stesso_ADJ')	19	nella stessa	nella	stessa	in	stesso	ADP	ADJ	in the same (feminine)
+('a_a_ADP', 'trovarla_trovare_VERB')	19	a a trovarla	a	trovarla	a	trovare	ADP	VERB	to find her
+('era_essere_AUX', 'al_a_ADP')	19	era al	era	al	essere	a	AUX	ADP	he was at the
+('ce_ce_PRON', 'la_la_PRON')	19	ce la	ce	la	ce	la	PRON	PRON	it to us
+('le_il_DET', 'candele_candela_NOUN')	19	le candele	le	candele	il	candela	DET	NOUN	the candles
+('di_di_ADP', 'riuscire_riuscire_VERB')	19	di riuscire	di	riuscire	di	riuscire	ADP	VERB	to manage
+('ad_a_ADP', 'aspettare_aspettare_VERB')	19	ad aspettare	ad	aspettare	a	aspettare	ADP	VERB	to wait
+('volevo_volere_AUX', 'essere_essere_AUX')	19	volevo essere	volevo	essere	volere	essere	AUX	AUX	I wanted to be
+('fare_fare_VERB', 'oggi_oggi_ADV')	19	fare oggi	fare	oggi	fare	oggi	VERB	ADV	to do today
+('cosa_cosa_PRON', 'ci_ci_PRON')	19	cosa ci	cosa	ci	cosa	ci	PRON	PRON	what to us
+('essere_essere_AUX', 'felice_felice_ADJ')	19	essere felice	essere	felice	essere	felice	AUX	ADJ	to be happy
+('è_essere_AUX', 'ricco_ricco_ADJ')	19	è ricco	è	ricco	essere	ricco	AUX	ADJ	he is rich
+('tuo_tuo_DET', 'fratello_fratello_NOUN')	19	tuo fratello	tuo	fratello	tuo	fratello	DET	NOUN	your brother
+('abita_abitare_VERB', 'in_in_ADP')	19	abita in	abita	in	abitare	in	VERB	ADP	lives in
+('favorevole_favorevole_ADJ', 'o_o_CCONJ')	19	favo	favorevole	o	favorevole	o	ADJ	CCONJ	favorable or
+('mio_mio_DET', 'aiuto_aiuto_NOUN')	19	mio aiuto	mio	aiuto	mio	aiuto	DET	NOUN	my help
+('non_non_ADV', 'preoccuparti_preoccupare_VERB')	19	non preoccuparti	non	preoccuparti	non	preoccupare	ADV	VERB	do not worry
+('tutto_tutto_PRON', 'è_essere_AUX')	19	tutto è	tutto	è	tutto	essere	PRON	AUX	everything is
+('come_come_ADV', 'ha_avere_AUX')	19	come ha	come	ha	come	avere	ADV	AUX	how he has
+('andare_andare_VERB', 'là_là_ADV')	19	andare là	andare	là	andare	là	VERB	ADV	to go there
+('sarò_essere_AUX', 'di_di_ADP')	19	sarò di	sarò	di	essere	di	AUX	ADP	I will be of
+('è_essere_AUX', 'forte_forte_ADJ')	19	è forte	è	forte	essere	forte	AUX	ADJ	it is strong
+('chiamato_chiamare_VERB', 'la_il_DET')	19	chiamato la	chiamato	la	chiamare	il	VERB	DET	called the (feminine)
+('una_uno_DET', 'figlia_figlio_NOUN')	19	una figlia	una	figlia	uno	figlio	DET	NOUN	a daughter
+('riesca_riuscire_VERB', 'a_a_ADP')	19		riesca	a	riuscire	a	VERB	ADP	manage to
+('dovremmo_dovere_AUX', 'andare_andare_VERB')	19	dovremmo andare	dovremmo	andare	dovere	andare	AUX	VERB	we should go
+('nella_in_ADP', 'scatola_scatola_NOUN')	19	nella scatola	nella	scatola	in	scatola	ADP	NOUN	in the box
+('visto_vedere_VERB', 'qualcosa_qualcosa_PRON')	19	visto qualcosa	visto	qualcosa	vedere	qualcosa	VERB	PRON	seen something
+('il_il_DET', 'contratto_contratto_NOUN')	19	il contratto	il	contratto	il	contratto	DET	NOUN	the contract
+('ha_avere_AUX', 'pagato_pagare_VERB')	19	ha pagato	ha	pagato	avere	pagare	AUX	VERB	has paid
+('piacere_piacere_NOUN', 'che_che_SCONJ')	19	piacere che	piacere	che	piacere	che	NOUN	SCONJ	pleased that
+('delle_di_ADP', 'uova_uovo_NOUN')	19	delle uova	delle	uova	di	uovo	ADP	NOUN	some eggs
+('chiedo_chiedere_VERB', 'perché_perché_SCONJ')	19	chiedo perché	chiedo	perché	chiedere	perché	VERB	SCONJ	I ask why
+('come_come_ADP', 'voi_voi_PRON')	19	come voi	come	voi	come	voi	ADP	PRON	like you (plural)
+('pulito_pulito_VERB', 'la_il_DET')	19	pulito la	pulito	la	pulito	il	VERB	DET	cleaned the
+('vuoi_volere_AUX', 'andare_andare_VERB')	19	vuoi andare	vuoi	andare	volere	andare	AUX	VERB	you want to go
+('da_da_ADP', 'qua_qua_ADV')	19	da qua	da	qua	da	qua	ADP	ADV	from here
+('dove_dove_ADV', 'si_si_PRON')	19	dove si	dove	si	dove	si	ADV	PRON	where one
+('problemi_problema_NOUN', 'a_a_ADP')	19		problemi	a	problema	a	NOUN	ADP	problems to
+('qualcosa_qualcosa_PRON', 'del_di_ADP')	19	qualcosa del	qualcosa	del	qualcosa	di	PRON	ADP	something of the
+('i_il_DET', 'film_film_NOUN')	19	i piacciono i film	i	film	il	film	DET	NOUN	the movies
+('di_di_ADP', 'calcio_calcio_NOUN')	19	di calcio	di	calcio	di	calcio	ADP	NOUN	of soccer
+('ci_ci_PRON', 'sia_essere_VERB')	19	ci sia	ci	sia	ci	essere	PRON	VERB	there is
+('come_come_ADP', 'il_il_DET')	19	come il	come	il	come	il	ADP	DET	like the
+('una_uno_DET', 'brutta_brutto_ADJ')	19	una brutta	una	brutta	uno	brutto	DET	ADJ	an ugly (feminine)
+('lunedì_lunedì_NOUN', 'prossimo_prossimo_ADJ')	19	lunedì prossimo	lunedì	prossimo	lunedì	prossimo	NOUN	ADJ	next Monday
+('felice_felice_ADJ', 'per_per_ADP')	19	felice per	felice	per	felice	per	ADJ	ADP	happy for
+('sto_stare_AUX', 'aspettando_aspettare_VERB')	19	sto aspettando	sto	aspettando	stare	aspettare	AUX	VERB	I am waiting
+('sono_essere_AUX', 'bravo_bravo_ADJ')	19	sono bravo	sono	bravo	essere	bravo	AUX	ADJ	I am good
+('un_uno_DET', 'alibi_alibo_NOUN')	19	un alibi	un	alibi	uno	alibo	DET	NOUN	an alibi
+('è_essere_AUX', 'rotto_rompere_VERB')	19	è rotto	è	rotto	essere	rompere	AUX	VERB	it is broken
+('nessuno_nessuno_PRON', 'ha_avere_AUX')	19	nessuno ha	nessuno	ha	nessuno	avere	PRON	AUX	no one has
+('è_essere_AUX', 'vera_vero_ADJ')	19	è vera	è	vera	essere	vero	AUX	ADJ	it is true
+('pronto_pronto_ADJ', 'ad_a_ADP')	19	pronto ad	pronto	ad	pronto	a	ADJ	ADP	ready to
+('pagare_pagare_VERB', 'il_il_DET')	19	pagare il	pagare	il	pagare	il	VERB	DET	to pay the
+('preso_prendere_VERB', 'la_il_DET')	19	preso la	preso	la	prendere	il	VERB	DET	took the
+('a_a_ADP', 'chiamare_chiamare_VERB')	19	a chiamare	a	chiamare	a	chiamare	ADP	VERB	to call
+"(""l'_il_DET"", 'indirizzo_indirizzo_NOUN')"	19	l'indirizzo	l'	indirizzo	il	indirizzo	DET	NOUN	the address (before a vowel)
+('io_io_PRON', 'riesco_riuscire_VERB')	19	io riesco	io	riesco	io	riuscire	PRON	VERB	I manage
+('parte_parte_NOUN', 'di_di_ADP')	19	parte di	parte	di	parte	di	NOUN	ADP	part of
+('è_essere_AUX', 'stupido_stupido_ADJ')	19	è stupido	è	stupido	essere	stupido	AUX	ADJ	he is stupid
+('una_uno_DET', 'soluzione_soluzione_NOUN')	19	una soluzione	una	soluzione	uno	soluzione	DET	NOUN	a solution
+('è_essere_AUX', 'finito_finire_VERB')	19	è finito	è	finito	essere	finire	AUX	VERB	it is finished
+('è_essere_AUX', 'proprio_proprio_ADV')	19	è proprio	è	proprio	essere	proprio	AUX	ADV	it is really
+('trovare_trovare_VERB', 'il_il_DET')	19	trovare il	trovare	il	trovare	il	VERB	DET	to find the
+('tempo_tempo_NOUN', 'libero_libero_ADJ')	19	tempo libero	tempo	libero	tempo	libero	NOUN	ADJ	free time
+('detto_dire_VERB', 'qualcosa_qualcosa_PRON')	19	detto qualcosa	detto	qualcosa	dire	qualcosa	VERB	PRON	said something
+('un_uno_DET', 'paese_paese_NOUN')	19	un paese	un	paese	uno	paese	DET	NOUN	a country
+('lo_il_DET', 'stesso_stesso_PRON')	19	lo stesso	lo	stesso	il	stesso	DET	PRON	the same
+('anche_anche_ADV', 'a_a_ADP')	19	a	anche	a	anche	a	ADV	ADP	also to
+('stai_stare_AUX', 'cercando_cercare_VERB')	18	stai cercando	stai	cercando	stare	cercare	AUX	VERB	you are looking
+('a_a_ADP', 'modo_modo_NOUN')	18	ary non ottiene sempre le cose a modo	a	modo	a	modo	ADP	NOUN	properly
+('come_come_ADP', 'se_se_SCONJ')	18	come se	come	se	come	se	ADP	SCONJ	as if
+('a_a_ADP', 'correre_correre_VERB')	18	a correre	a	correre	a	correre	ADP	VERB	to run
+"('per_per_ADP', ""un'_uno_DET"")"	18	per un'	per	un'	per	uno	ADP	DET	for a (before a vowel)
+('troppo_troppo_ADV', 'presto_presto_ADV')	18	troppo presto	troppo	presto	troppo	presto	ADV	ADV	too early

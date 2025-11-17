@@ -1,101 +1,101 @@
 gram2_key	count	substr	term_1	term_2	lemma_1	lemma_2	pos_1	pos_2	translation_en
-('preoccupata_preoccupato_ADJ', 'per_per_ADP')	20	preoccupata per	preoccupata	per	preoccupato	per	ADJ	ADP	
-('padre_padre_NOUN', 'di_di_ADP')	20	padre di	padre	di	padre	di	NOUN	ADP	
-('il_il_DET', 'video_video_NOUN')	20	il video	il	video	il	video	DET	NOUN	
-('pezzo_pezzo_NOUN', 'di_di_ADP')	20	pezzo di	pezzo	di	pezzo	di	NOUN	ADP	
-('voglio_volere_VERB', 'una_uno_DET')	20	voglio una	voglio	una	volere	uno	VERB	DET	
-('a_a_ADP', 'metà_metà_NOUN')	20	a metà	a	metà	a	metà	ADP	NOUN	
-('mi_mi_PRON', 'fido_fidare_VERB')	20	mi fido	mi	fido	mi	fidare	PRON	VERB	
-('continuare_continuare_VERB', 'a_a_ADP')	20	continua	continuare	a	continuare	a	VERB	ADP	
-('li_li_PRON', 'abbiamo_avere_AUX')	20	li abbiamo	li	abbiamo	li	avere	PRON	AUX	
-('sto_stare_AUX', 'ancora_ancora_ADV')	20	sto ancora	sto	ancora	stare	ancora	AUX	ADV	
-('fatto_fare_VERB', 'la_il_DET')	20	fatto la	fatto	la	fare	il	VERB	DET	
-('vissuto_vivere_VERB', 'a_a_ADP')	20		vissuto	a	vivere	a	VERB	ADP	
-"('studiare_studiare_VERB', ""l'_il_DET"")"	20	studiare l'	studiare	l'	studiare	il	VERB	DET	
-('lasciò_lasciare_VERB', 'il_il_DET')	20	lasciò il	lasciò	il	lasciare	il	VERB	DET	
-('provare_provare_VERB', 'a_a_ADP')	20	prova	provare	a	provare	a	VERB	ADP	
-('un_uno_DET', 'hamburger_hamburger_NOUN')	20	un hamburger	un	hamburger	uno	hamburger	DET	NOUN	
-('sto_essere_AUX', 'cercando_cercare_VERB')	20	sto cercando	sto	cercando	essere	cercare	AUX	VERB	
-('non_non_ADV', 'stai_stare_AUX')	20	non stai	non	stai	non	stare	ADV	AUX	
-('mai_mai_ADV', 'di_di_ADP')	20	mai di	mai	di	mai	di	ADV	ADP	
-"('sono_essere_AUX', ""un'_uno_DET"")"	20	sono un'	sono	un'	essere	uno	AUX	DET	
-('tu_tu_PRON', 'dovresti_dovere_AUX')	20	tu dovresti	tu	dovresti	tu	dovere	PRON	AUX	
-('dica_dire_VERB', 'di_di_ADP')	20	di	dica	di	dire	di	VERB	ADP	
-('e_e_CCONJ', 'le_il_DET')	20	e le	e	le	e	il	CCONJ	DET	
-('che_che_PRON', 'gli_gli_PRON')	20	che gli	che	gli	che	gli	PRON	PRON	
-('chi_chi_PRON', 'vi_vi_PRON')	20	chi vi	chi	vi	chi	vi	PRON	PRON	
-('voi_voi_PRON', 'lo_lo_PRON')	20	voi lo	voi	lo	voi	lo	PRON	PRON	
-('fareste_fare_VERB', 'meglio_meglio_ADV')	20	fareste meglio	fareste	meglio	fare	meglio	VERB	ADV	
-('uomo_uomo_NOUN', 'che_che_PRON')	20	uomo che	uomo	che	uomo	che	NOUN	PRON	
-('sono_essere_AUX', 'con_con_ADP')	20	sono con	sono	con	essere	con	AUX	ADP	
-('prima_prima_ADV', 'delle_di_ADP')	20	prima delle	prima	delle	prima	di	ADV	ADP	
-('sul_su_ADP', 'divano_divano_NOUN')	20	sul divano	sul	divano	su	divano	ADP	NOUN	
-('il_il_DET', 'coltello_coltello_NOUN')	20	il coltello	il	coltello	il	coltello	DET	NOUN	
-('ti_ti_PRON', 'stai_stare_AUX')	20	ti stai	ti	stai	ti	stare	PRON	AUX	
-('tu_tu_PRON', 'lo_lo_PRON')	20	tu lo	tu	lo	tu	lo	PRON	PRON	
-('te_te_PRON', 'lo_lo_PRON')	20	te lo	te	lo	te	lo	PRON	PRON	
-('parlare_parlare_VERB', 'il_il_DET')	20	parlare il	parlare	il	parlare	il	VERB	DET	
-('di_di_ADP', 'diventare_diventare_VERB')	20	di diventare	di	diventare	di	diventare	ADP	VERB	
-('voi_voi_PRON', 'eravate_essere_AUX')	20	voi eravate	voi	eravate	voi	essere	PRON	AUX	
-('la_il_DET', 'nuova_nuovo_ADJ')	20	la nuova	la	nuova	il	nuovo	DET	ADJ	
-('a_a_ADP', 'causa_causa_NOUN')	20	a causa	a	causa	a	causa	ADP	NOUN	
-('voglio_volere_AUX', 'parlare_parlare_VERB')	20	voglio parlare	voglio	parlare	volere	parlare	AUX	VERB	
-('ci_ci_PRON', 'hanno_avere_AUX')	20	ci hanno	ci	hanno	ci	avere	PRON	AUX	
-('sono_essere_AUX', 'al_a_ADP')	20	sono al	sono	al	essere	a	AUX	ADP	
-('ha_avere_AUX', 'ascoltato_ascoltare_VERB')	20	ha ascoltato	ha	ascoltato	avere	ascoltare	AUX	VERB	
-('è_essere_AUX', 'finita_finire_VERB')	20	è finita	è	finita	essere	finire	AUX	VERB	
-('lo_lo_PRON', 'sapeva_sapere_VERB')	19	lo sapeva	lo	sapeva	lo	sapere	PRON	VERB	
-"('andare_andare_VERB', ""all'_a_ADP"")"	19	andare all'	andare	all'	andare	a	VERB	ADP	
-('qui_qui_ADV', 'da_da_ADP')	19	qui da	qui	da	qui	da	ADV	ADP	
-('prendere_prendere_VERB', 'il_il_DET')	19	prendere il	prendere	il	prendere	il	VERB	DET	
-('un_uno_DET', 'caffè_caffè_NOUN')	19	un caffè	un	caffè	uno	caffè	DET	NOUN	
-('con_con_ADP', 'attenzione_attenzione_NOUN')	19	con attenzione	con	attenzione	con	attenzione	ADP	NOUN	
-('maggior_maggiore_ADJ', 'parte_parte_NOUN')	19	maggior parte	maggior	parte	maggiore	parte	ADJ	NOUN	
-('per_per_ADP', 'via_via_NOUN')	19	per via	per	via	per	via	ADP	NOUN	
-('ho_avere_AUX', 'viste_vedere_VERB')	19	ho viste	ho	viste	avere	vedere	AUX	VERB	
-('non_non_ADV', 'sai_sapere_VERB')	19	non sai	non	sai	non	sapere	ADV	VERB	
-('tutto_tutto_PRON', 'da_da_ADP')	19	tutto da	tutto	da	tutto	da	PRON	ADP	
-('voglio_volere_AUX', 'sentire_sentire_VERB')	19	voglio sentire	voglio	sentire	volere	sentire	AUX	VERB	
-('non_non_ADV', 'fa_fare_VERB')	19	non fa	non	fa	non	fare	ADV	VERB	
-('ha_avere_AUX', 'aiutata_aiutare_VERB')	19	ha aiutata	ha	aiutata	avere	aiutare	AUX	VERB	
-('di_di_ADP', 'uscire_uscire_VERB')	19	di uscire	di	uscire	di	uscire	ADP	VERB	
-('un_uno_DET', 'mio_mio_DET')	19	un mio	un	mio	uno	mio	DET	DET	
-('sia_essere_AUX', 'così_così_ADV')	19	sia così	sia	così	essere	così	AUX	ADV	
-('suo_suo_DET', 'insegnante_insegnante_NOUN')	19	suo insegnante	suo	insegnante	suo	insegnante	DET	NOUN	
-('computer_computer_NOUN', 'è_essere_AUX')	19	computer è	computer	è	computer	essere	NOUN	AUX	
-('hai_avere_AUX', 'preso_prendere_VERB')	19	hai preso	hai	preso	avere	prendere	AUX	VERB	
-('città_città_NOUN', 'è_essere_AUX')	19	città è	città	è	città	essere	NOUN	AUX	
-('mio_mio_DET', 'telefono_telefono_NOUN')	19	mio telefono	mio	telefono	mio	telefono	DET	NOUN	
-('esame_esame_NOUN', 'di_di_ADP')	19	esame di	esame	di	esame	di	NOUN	ADP	
-('a_a_ADP', 'tardi_tardi_ADV')	19	avorare fino a tardi	a	tardi	a	tardi	ADP	ADV	
-('guardato_guardare_VERB', 'la_il_DET')	19	guardato la	guardato	la	guardare	il	VERB	DET	
-('amore_amore_NOUN', 'è_essere_AUX')	19	amore è	amore	è	amore	essere	NOUN	AUX	
-('qualcuno_qualcuno_PRON', 'mi_mi_PRON')	19	qualcuno mi	qualcuno	mi	qualcuno	mi	PRON	PRON	
-('sarebbe_essere_AUX', 'stata_essere_AUX')	19	sarebbe stata	sarebbe	stata	essere	essere	AUX	AUX	
-('un_uno_DET', 'leone_leone_NOUN')	19	un leone	un	leone	uno	leone	DET	NOUN	
-('entrambe_entrambi_DET', 'le_il_DET')	19	entrambe le	entrambe	le	entrambi	il	DET	DET	
-('ha_avere_AUX', 'venduto_vendere_VERB')	19	ha venduto	ha	venduto	avere	vendere	AUX	VERB	
-('venduto_vendere_VERB', 'la_il_DET')	19	venduto la	venduto	la	vendere	il	VERB	DET	
-('non_non_ADV', 'volevo_volere_VERB')	19	non volevo	non	volevo	non	volere	ADV	VERB	
-('a_a_ADP', 'vivere_vivere_VERB')	19	a vivere	a	vivere	a	vivere	ADP	VERB	
-('giovane_giovane_ADJ', 'di_di_ADP')	19	giovane di	giovane	di	giovane	di	ADJ	ADP	
-('non_non_ADV', 'dovreste_dovere_AUX')	19	non dovreste	non	dovreste	non	dovere	ADV	AUX	
-('ci_ci_PRON', 'avete_avere_AUX')	19	ci avete	ci	avete	ci	avere	PRON	AUX	
-('ha_avere_AUX', 'accettato_accettare_VERB')	19	ha accettato	ha	accettato	avere	accettare	AUX	VERB	
-('abbiamo_avere_AUX', 'parlato_parlare_VERB')	19	abbiamo parlato	abbiamo	parlato	avere	parlare	AUX	VERB	
-('questo_questo_DET', 'gioco_gioco_NOUN')	19	questo gioco	questo	gioco	questo	gioco	DET	NOUN	
-('il_il_DET', 'sangue_sangue_NOUN')	19	il sangue	il	sangue	il	sangue	DET	NOUN	
-('i_il_DET', 'dettagli_dettaglio_NOUN')	19	i ha detto tutti i dettagli	i	dettagli	il	dettaglio	DET	NOUN	
-('il_il_DET', 'raffreddore_raffreddore_NOUN')	19	il raffreddore	il	raffreddore	il	raffreddore	DET	NOUN	
-('preso_prendere_VERB', 'qualcosa_qualcosa_PRON')	19	preso qualcosa	preso	qualcosa	prendere	qualcosa	VERB	PRON	
-('ha_avere_AUX', 'negato_negare_VERB')	19	ha negato	ha	negato	avere	negare	AUX	VERB	
-('un_uno_DET', 'autobus_autobus_NOUN')	19	un autobus	un	autobus	uno	autobus	DET	NOUN	
-('è_essere_AUX', 'colpa_colpa_NOUN')	19	è colpa	è	colpa	essere	colpa	AUX	NOUN	
-('come_come_ADV', 'se_se_SCONJ')	19	come se	come	se	come	se	ADV	SCONJ	
-('la_il_DET', 'carta_carta_NOUN')	19	la carta	la	carta	il	carta	DET	NOUN	
-('ci_ci_PRON', 'avrebbe_avere_AUX')	19	ci avrebbe	ci	avrebbe	ci	avere	PRON	AUX	
-('io_io_PRON', 'preferisco_preferire_VERB')	19	io preferisco	io	preferisco	io	preferire	PRON	VERB	
-('mi_mi_PRON', 'puoi_potere_AUX')	19	mi puoi	mi	puoi	mi	potere	PRON	AUX	
-('sai_sapere_VERB', 'che_che_SCONJ')	19	sai che	sai	che	sapere	che	VERB	SCONJ	
-('ne_ne_PRON', 'ha_avere_AUX')	19	ne ha	ne	ha	ne	avere	PRON	AUX	
-('voglio_volere_AUX', 'mangiare_mangiare_VERB')	19	voglio mangiare	voglio	mangiare	volere	mangiare	AUX	VERB	
+('preoccupata_preoccupato_ADJ', 'per_per_ADP')	20	preoccupata per	preoccupata	per	preoccupato	per	ADJ	ADP	worried about
+('padre_padre_NOUN', 'di_di_ADP')	20	padre di	padre	di	padre	di	NOUN	ADP	father of
+('il_il_DET', 'video_video_NOUN')	20	il video	il	video	il	video	DET	NOUN	the video
+('pezzo_pezzo_NOUN', 'di_di_ADP')	20	pezzo di	pezzo	di	pezzo	di	NOUN	ADP	piece of
+('voglio_volere_VERB', 'una_uno_DET')	20	voglio una	voglio	una	volere	uno	VERB	DET	I want a
+('a_a_ADP', 'metà_metà_NOUN')	20	a metà	a	metà	a	metà	ADP	NOUN	in half
+('mi_mi_PRON', 'fido_fidare_VERB')	20	mi fido	mi	fido	mi	fidare	PRON	VERB	I trust
+('continuare_continuare_VERB', 'a_a_ADP')	20	continua	continuare	a	continuare	a	VERB	ADP	to continue to
+('li_li_PRON', 'abbiamo_avere_AUX')	20	li abbiamo	li	abbiamo	li	avere	PRON	AUX	we have them
+('sto_stare_AUX', 'ancora_ancora_ADV')	20	sto ancora	sto	ancora	stare	ancora	AUX	ADV	I am still
+('fatto_fare_VERB', 'la_il_DET')	20	fatto la	fatto	la	fare	il	VERB	DET	made the
+('vissuto_vivere_VERB', 'a_a_ADP')	20		vissuto	a	vivere	a	VERB	ADP	lived in
+"('studiare_studiare_VERB', ""l'_il_DET"")"	20	studiare l'	studiare	l'	studiare	il	VERB	DET	to study the
+('lasciò_lasciare_VERB', 'il_il_DET')	20	lasciò il	lasciò	il	lasciare	il	VERB	DET	left the
+('provare_provare_VERB', 'a_a_ADP')	20	prova	provare	a	provare	a	VERB	ADP	to try to
+('un_uno_DET', 'hamburger_hamburger_NOUN')	20	un hamburger	un	hamburger	uno	hamburger	DET	NOUN	a hamburger
+('sto_essere_AUX', 'cercando_cercare_VERB')	20	sto cercando	sto	cercando	essere	cercare	AUX	VERB	I am looking
+('non_non_ADV', 'stai_stare_AUX')	20	non stai	non	stai	non	stare	ADV	AUX	you are not
+('mai_mai_ADV', 'di_di_ADP')	20	mai di	mai	di	mai	di	ADV	ADP	ever to
+"('sono_essere_AUX', ""un'_uno_DET"")"	20	sono un'	sono	un'	essere	uno	AUX	DET	I am a
+('tu_tu_PRON', 'dovresti_dovere_AUX')	20	tu dovresti	tu	dovresti	tu	dovere	PRON	AUX	you should
+('dica_dire_VERB', 'di_di_ADP')	20	di	dica	di	dire	di	VERB	ADP	tell to
+('e_e_CCONJ', 'le_il_DET')	20	e le	e	le	e	il	CCONJ	DET	and the (feminine plural)
+('che_che_PRON', 'gli_gli_PRON')	20	che gli	che	gli	che	gli	PRON	PRON	that to him
+('chi_chi_PRON', 'vi_vi_PRON')	20	chi vi	chi	vi	chi	vi	PRON	PRON	who you (plural)
+('voi_voi_PRON', 'lo_lo_PRON')	20	voi lo	voi	lo	voi	lo	PRON	PRON	"you (plural) him; you (plural)	it"
+('fareste_fare_VERB', 'meglio_meglio_ADV')	20	fareste meglio	fareste	meglio	fare	meglio	VERB	ADV	"you (plural)	had better"
+('uomo_uomo_NOUN', 'che_che_PRON')	20	uomo che	uomo	che	uomo	che	NOUN	PRON	man who
+('sono_essere_AUX', 'con_con_ADP')	20	sono con	sono	con	essere	con	AUX	ADP	I am with
+('prima_prima_ADV', 'delle_di_ADP')	20	prima delle	prima	delle	prima	di	ADV	ADP	before the (feminine plural)
+('sul_su_ADP', 'divano_divano_NOUN')	20	sul divano	sul	divano	su	divano	ADP	NOUN	on the couch
+('il_il_DET', 'coltello_coltello_NOUN')	20	il coltello	il	coltello	il	coltello	DET	NOUN	the knife
+('ti_ti_PRON', 'stai_stare_AUX')	20	ti stai	ti	stai	ti	stare	PRON	AUX	you are
+('tu_tu_PRON', 'lo_lo_PRON')	20	tu lo	tu	lo	tu	lo	PRON	PRON	you him; you it
+('te_te_PRON', 'lo_lo_PRON')	20	te lo	te	lo	te	lo	PRON	PRON	it to you
+('parlare_parlare_VERB', 'il_il_DET')	20	parlare il	parlare	il	parlare	il	VERB	DET	to speak the
+('di_di_ADP', 'diventare_diventare_VERB')	20	di diventare	di	diventare	di	diventare	ADP	VERB	to become
+('voi_voi_PRON', 'eravate_essere_AUX')	20	voi eravate	voi	eravate	voi	essere	PRON	AUX	"you (plural)	were"
+('la_il_DET', 'nuova_nuovo_ADJ')	20	la nuova	la	nuova	il	nuovo	DET	ADJ	the new (feminine)
+('a_a_ADP', 'causa_causa_NOUN')	20	a causa	a	causa	a	causa	ADP	NOUN	because of
+('voglio_volere_AUX', 'parlare_parlare_VERB')	20	voglio parlare	voglio	parlare	volere	parlare	AUX	VERB	I want to talk
+('ci_ci_PRON', 'hanno_avere_AUX')	20	ci hanno	ci	hanno	ci	avere	PRON	AUX	they have us
+('sono_essere_AUX', 'al_a_ADP')	20	sono al	sono	al	essere	a	AUX	ADP	I am at the
+('ha_avere_AUX', 'ascoltato_ascoltare_VERB')	20	ha ascoltato	ha	ascoltato	avere	ascoltare	AUX	VERB	has listened
+('è_essere_AUX', 'finita_finire_VERB')	20	è finita	è	finita	essere	finire	AUX	VERB	it is over
+('lo_lo_PRON', 'sapeva_sapere_VERB')	19	lo sapeva	lo	sapeva	lo	sapere	PRON	VERB	he knew it; he knew him
+"('andare_andare_VERB', ""all'_a_ADP"")"	19	andare all'	andare	all'	andare	a	VERB	ADP	to go to the (before a vowel)
+('qui_qui_ADV', 'da_da_ADP')	19	qui da	qui	da	qui	da	ADV	ADP	here for
+('prendere_prendere_VERB', 'il_il_DET')	19	prendere il	prendere	il	prendere	il	VERB	DET	to take the
+('un_uno_DET', 'caffè_caffè_NOUN')	19	un caffè	un	caffè	uno	caffè	DET	NOUN	a coffee
+('con_con_ADP', 'attenzione_attenzione_NOUN')	19	con attenzione	con	attenzione	con	attenzione	ADP	NOUN	with care
+('maggior_maggiore_ADJ', 'parte_parte_NOUN')	19	maggior parte	maggior	parte	maggiore	parte	ADJ	NOUN	the majority
+('per_per_ADP', 'via_via_NOUN')	19	per via	per	via	per	via	ADP	NOUN	because of
+('ho_avere_AUX', 'viste_vedere_VERB')	19	ho viste	ho	viste	avere	vedere	AUX	VERB	I have seen them
+('non_non_ADV', 'sai_sapere_VERB')	19	non sai	non	sai	non	sapere	ADV	VERB	you do not know
+('tutto_tutto_PRON', 'da_da_ADP')	19	tutto da	tutto	da	tutto	da	PRON	ADP	all from
+('voglio_volere_AUX', 'sentire_sentire_VERB')	19	voglio sentire	voglio	sentire	volere	sentire	AUX	VERB	I want to hear
+('non_non_ADV', 'fa_fare_VERB')	19	non fa	non	fa	non	fare	ADV	VERB	does not do
+('ha_avere_AUX', 'aiutata_aiutare_VERB')	19	ha aiutata	ha	aiutata	avere	aiutare	AUX	VERB	has helped her
+('di_di_ADP', 'uscire_uscire_VERB')	19	di uscire	di	uscire	di	uscire	ADP	VERB	to go out
+('un_uno_DET', 'mio_mio_DET')	19	un mio	un	mio	uno	mio	DET	DET	one of my
+('sia_essere_AUX', 'così_così_ADV')	19	sia così	sia	così	essere	così	AUX	ADV	be so
+('suo_suo_DET', 'insegnante_insegnante_NOUN')	19	suo insegnante	suo	insegnante	suo	insegnante	DET	NOUN	his teacher; her teacher
+('computer_computer_NOUN', 'è_essere_AUX')	19	computer è	computer	è	computer	essere	NOUN	AUX	computer is
+('hai_avere_AUX', 'preso_prendere_VERB')	19	hai preso	hai	preso	avere	prendere	AUX	VERB	you took
+('città_città_NOUN', 'è_essere_AUX')	19	città è	città	è	città	essere	NOUN	AUX	city is
+('mio_mio_DET', 'telefono_telefono_NOUN')	19	mio telefono	mio	telefono	mio	telefono	DET	NOUN	my phone
+('esame_esame_NOUN', 'di_di_ADP')	19	esame di	esame	di	esame	di	NOUN	ADP	exam of
+('a_a_ADP', 'tardi_tardi_ADV')	19	avorare fino a tardi	a	tardi	a	tardi	ADP	ADV	until late
+('guardato_guardare_VERB', 'la_il_DET')	19	guardato la	guardato	la	guardare	il	VERB	DET	watched the
+('amore_amore_NOUN', 'è_essere_AUX')	19	amore è	amore	è	amore	essere	NOUN	AUX	love is
+('qualcuno_qualcuno_PRON', 'mi_mi_PRON')	19	qualcuno mi	qualcuno	mi	qualcuno	mi	PRON	PRON	someone to me
+('sarebbe_essere_AUX', 'stata_essere_AUX')	19	sarebbe stata	sarebbe	stata	essere	essere	AUX	AUX	would have been
+('un_uno_DET', 'leone_leone_NOUN')	19	un leone	un	leone	uno	leone	DET	NOUN	a lion
+('entrambe_entrambi_DET', 'le_il_DET')	19	entrambe le	entrambe	le	entrambi	il	DET	DET	both the (feminine plural)
+('ha_avere_AUX', 'venduto_vendere_VERB')	19	ha venduto	ha	venduto	avere	vendere	AUX	VERB	has sold
+('venduto_vendere_VERB', 'la_il_DET')	19	venduto la	venduto	la	vendere	il	VERB	DET	sold the
+('non_non_ADV', 'volevo_volere_VERB')	19	non volevo	non	volevo	non	volere	ADV	VERB	I did not want
+('a_a_ADP', 'vivere_vivere_VERB')	19	a vivere	a	vivere	a	vivere	ADP	VERB	to live
+('giovane_giovane_ADJ', 'di_di_ADP')	19	giovane di	giovane	di	giovane	di	ADJ	ADP	young of
+('non_non_ADV', 'dovreste_dovere_AUX')	19	non dovreste	non	dovreste	non	dovere	ADV	AUX	"you (plural)	should not"
+('ci_ci_PRON', 'avete_avere_AUX')	19	ci avete	ci	avete	ci	avere	PRON	AUX	"you (plural)	have us"
+('ha_avere_AUX', 'accettato_accettare_VERB')	19	ha accettato	ha	accettato	avere	accettare	AUX	VERB	has accepted
+('abbiamo_avere_AUX', 'parlato_parlare_VERB')	19	abbiamo parlato	abbiamo	parlato	avere	parlare	AUX	VERB	we talked
+('questo_questo_DET', 'gioco_gioco_NOUN')	19	questo gioco	questo	gioco	questo	gioco	DET	NOUN	this game
+('il_il_DET', 'sangue_sangue_NOUN')	19	il sangue	il	sangue	il	sangue	DET	NOUN	the blood
+('i_il_DET', 'dettagli_dettaglio_NOUN')	19	i ha detto tutti i dettagli	i	dettagli	il	dettaglio	DET	NOUN	the details
+('il_il_DET', 'raffreddore_raffreddore_NOUN')	19	il raffreddore	il	raffreddore	il	raffreddore	DET	NOUN	the cold
+('preso_prendere_VERB', 'qualcosa_qualcosa_PRON')	19	preso qualcosa	preso	qualcosa	prendere	qualcosa	VERB	PRON	took something
+('ha_avere_AUX', 'negato_negare_VERB')	19	ha negato	ha	negato	avere	negare	AUX	VERB	has denied
+('un_uno_DET', 'autobus_autobus_NOUN')	19	un autobus	un	autobus	uno	autobus	DET	NOUN	a bus
+('è_essere_AUX', 'colpa_colpa_NOUN')	19	è colpa	è	colpa	essere	colpa	AUX	NOUN	is fault
+('come_come_ADV', 'se_se_SCONJ')	19	come se	come	se	come	se	ADV	SCONJ	as if
+('la_il_DET', 'carta_carta_NOUN')	19	la carta	la	carta	il	carta	DET	NOUN	the paper
+('ci_ci_PRON', 'avrebbe_avere_AUX')	19	ci avrebbe	ci	avrebbe	ci	avere	PRON	AUX	he would have us
+('io_io_PRON', 'preferisco_preferire_VERB')	19	io preferisco	io	preferisco	io	preferire	PRON	VERB	I prefer
+('mi_mi_PRON', 'puoi_potere_AUX')	19	mi puoi	mi	puoi	mi	potere	PRON	AUX	can you me
+('sai_sapere_VERB', 'che_che_SCONJ')	19	sai che	sai	che	sapere	che	VERB	SCONJ	you know that
+('ne_ne_PRON', 'ha_avere_AUX')	19	ne ha	ne	ha	ne	avere	PRON	AUX	has some
+('voglio_volere_AUX', 'mangiare_mangiare_VERB')	19	voglio mangiare	voglio	mangiare	volere	mangiare	AUX	VERB	I want to eat
