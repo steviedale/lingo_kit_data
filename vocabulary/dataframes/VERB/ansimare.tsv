@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ansimando		ansimare	VERB		1	1e-06	1	1e-06	ansimare	VERB	V	root	VerbForm=Ger	531d9ed1-e95a-5ed1-b90b-8207ed472c65	0923792c-0560-5835-a7d5-94e10dfabfe7	Tom stava ansimando.	Tom was panting.				
+ansimando	ahn-see-MAHN-doh	ansimare	VERB	panting	1	1e-06	1	1e-06	ansimare	VERB	V	root	VerbForm=Ger	531d9ed1-e95a-5ed1-b90b-8207ed472c65	0923792c-0560-5835-a7d5-94e10dfabfe7	Tom stava ansimando.	Tom was panting.				

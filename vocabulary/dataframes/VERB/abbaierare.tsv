@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-abbaierò		abbaierare	VERB		1	1e-06	1	1e-06	abbaierare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ca172c78-ff99-5a2f-89f3-62c42e876ad4	e7f67a9f-99cf-5710-aaa3-7b820c33a5d5	Io abbaierò come un cane.	I am going to bark like a dog.				
+abbaierò	ahb-beyeeh-ROH	abbaierare	VERB	I bark	1	1e-06	1	1e-06	abbaierare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ca172c78-ff99-5a2f-89f3-62c42e876ad4	e7f67a9f-99cf-5710-aaa3-7b820c33a5d5	Io abbaierò come un cane.	I am going to bark like a dog.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-allagate		allagare	VERB		1	1e-06	1	1e-06	allagare	VERB	V	root	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9ec5ae25-a921-5777-8fda-7416e0883a9e	9421fee0-98c5-514b-9cd6-9d7ab411c07c	Le strade sono allagate.	The streets are flooded.				
+allagate	ahl-lah-GAH-teh	allagare	VERB	flooded (feminine) (plural)	1	1e-06	1	1e-06	allagare	VERB	V	root	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9ec5ae25-a921-5777-8fda-7416e0883a9e	9421fee0-98c5-514b-9cd6-9d7ab411c07c	Le strade sono allagate.	The streets are flooded.				

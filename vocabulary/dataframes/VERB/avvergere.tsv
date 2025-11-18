@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-avverso		avvergere	VERB		1	1e-06	1	1e-06	avvergere	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6a389278-68ed-5e54-aa56-9dfc34d1b9de	c2107f6b-dab0-5098-a814-c7c8fc962ae2	Il fato ci è avverso.	Fate is not on our side.				
+avverso	ahv-VEHR-soh	avvergere	VERB	opposed; gone against	1	1e-06	1	1e-06	avvergere	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6a389278-68ed-5e54-aa56-9dfc34d1b9de	c2107f6b-dab0-5098-a814-c7c8fc962ae2	Il fato ci è avverso.	Fate is not on our side.				

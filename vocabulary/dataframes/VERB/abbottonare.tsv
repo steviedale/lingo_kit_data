@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-abbottonati		abbottonare	VERB		1	1e-06	1	1e-06	abbottonare	VERB	V	root	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	03896f70-d81b-5a4f-b14a-90c0dd277d32	46a5b49e-4e80-5e2f-b86d-b56c49fbd57c	Abbottonati il cappotto.	Button up your overcoat.				
+abbottonati	ahb-boht-toh-NAH-tee	abbottonare	VERB	buttoned up (plural)	1	1e-06	1	1e-06	abbottonare	VERB	V	root	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	03896f70-d81b-5a4f-b14a-90c0dd277d32	46a5b49e-4e80-5e2f-b86d-b56c49fbd57c	Abbottonati il cappotto.	Button up your overcoat.				

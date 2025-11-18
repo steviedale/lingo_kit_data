@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-arenato		arenare	VERB		1	1e-06	1	1e-06	arenare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	df932238-ab62-5f71-89eb-cc0c950d2258	27fc6d5f-ebdb-5eeb-b2ba-6710d7b81440	Tom è arenato.	Tom's stranded.				
+arenato	ah-reh-NAH-toh	arenare	VERB	run aground; stranded	1	1e-06	1	1e-06	arenare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	df932238-ab62-5f71-89eb-cc0c950d2258	27fc6d5f-ebdb-5eeb-b2ba-6710d7b81440	Tom è arenato.	Tom's stranded.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-affitammo		affitare	VERB		1	1e-06	1	1e-06	affitare	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	a6fc45e8-c0a6-5745-91f7-e9597d4da26a	b12e0573-1082-569f-85c2-e647c490ed2f	Affitammo l'appartamento.	We rented the flat.				
+affitammo	ahf-fee-TAHM-moh	affitare	VERB	we rent; we lease (plural)	1	1e-06	1	1e-06	affitare	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	a6fc45e8-c0a6-5745-91f7-e9597d4da26a	b12e0573-1082-569f-85c2-e647c490ed2f	Affitammo l'appartamento.	We rented the flat.				
