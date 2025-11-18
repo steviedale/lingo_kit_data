@@ -40,9 +40,9 @@ def get_token_key(token_dict):
 
 # %%
 gram2_dict = {}
-#iter_df = df.sample(frac=1, random_state=42).reset_index(drop=True)
+iter_df = df.sample(frac=1, random_state=42).reset_index(drop=True)
 #iter_df = df.sample(n=10, random_state=42).reset_index(drop=True)
-iter_df = df.sample(n=100000, random_state=42).reset_index(drop=True)
+#iter_df = df.sample(n=100000, random_state=42).reset_index(drop=True)
 errors = 0
 for sentence in tqdm(iter_df['text_it'], total=len(iter_df)):
     try:
@@ -124,7 +124,7 @@ errors = 0
 for gram_key, gram_list in tqdm(gram2_dict.items(), total=len(gram2_dict.keys())):
 
     substr_votes = {}
-    if len(gram_list) < 5:
+    if len(gram_list) < 20:
         continue
     try:
         for entry in gram_list:
