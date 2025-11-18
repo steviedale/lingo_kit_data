@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-movimentato		movimentato	VERB		1	1e-06	1	1e-06	movimentato	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6f5080d5-256f-53b3-a69c-5958b33cee35	b11d425e-58eb-59f5-b6d6-f5c633758581	Oggi è movimentato.	Today is hectic.				
+movimentato	moh-vee-men-TAH-toh	movimentato	VERB	hectic (masculine)	1	1e-06	1	1e-06	movimentato	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6f5080d5-256f-53b3-a69c-5958b33cee35	b11d425e-58eb-59f5-b6d6-f5c633758581	Oggi è movimentato.	Today is hectic.				

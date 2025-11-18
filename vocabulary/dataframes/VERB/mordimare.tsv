@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-mordimi		mordimare	VERB		1	1e-06	1	1e-06	mordimare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	469c8b17-2505-5e7c-b5f5-ff5d64a7e92f	74eb250e-c3f3-595b-a9c5-f74472f4407f	Per favore, mordimi sul collo.	Please, bite me on my neck.				
+mordimi	MOR-dee-mee	mordimare	VERB	bite me	1	1e-06	1	1e-06	mordimare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	469c8b17-2505-5e7c-b5f5-ff5d64a7e92f	74eb250e-c3f3-595b-a9c5-f74472f4407f	Per favore, mordimi sul collo.	Please, bite me on my neck.				

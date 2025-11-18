@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-munse		mundere	VERB		1	1e-06	1	1e-06	mundere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	ddc154ae-e4c0-5f8c-b3dc-c791cb540fef	e227118d-45d7-50ec-8563-e99740665530	Lui munse la vacca.	He milked the cow.				
+munse	MOON-seh	mundere	VERB	he/she/it milked	1	1e-06	1	1e-06	mundere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	ddc154ae-e4c0-5f8c-b3dc-c791cb540fef	e227118d-45d7-50ec-8563-e99740665530	Lui munse la vacca.	He milked the cow.				
