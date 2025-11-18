@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-levatemi		levatema	NOUN		1	1e-06	1	1e-06	levatema	NOUN	S	root	Gender=Masc|Number=Plur	8c365036-4b3a-576b-9453-c29c248fff4b	ca28e654-4296-53e4-8494-5c8c48dcde19	Levatemi di dosso quella cosa.	Get that thing off of me.				
+levatemi	leh-vah-TEH-mee	levatema	NOUN	get that off me (plural)	1	1e-06	1	1e-06	levatema	NOUN	S	root	Gender=Masc|Number=Plur	8c365036-4b3a-576b-9453-c29c248fff4b	ca28e654-4296-53e4-8494-5c8c48dcde19	Levatemi di dosso quella cosa.	Get that thing off of me.				

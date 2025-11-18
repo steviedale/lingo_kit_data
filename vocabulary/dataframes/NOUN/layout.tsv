@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-layout		layout	NOUN		1	1e-06	1	1e-06	layout	NOUN	S	obj	Gender=Masc	7e56369c-8886-5bd6-a7c6-62baa1f70a33	94ec01ae-9463-5d68-9c26-2d28cd71a115	Ho cambiato il layout del mio sito.	I've changed my website's layout.				
+layout	LAH-yohoot	layout	NOUN	layout	1	1e-06	1	1e-06	layout	NOUN	S	obj	Gender=Masc	7e56369c-8886-5bd6-a7c6-62baa1f70a33	94ec01ae-9463-5d68-9c26-2d28cd71a115	Ho cambiato il layout del mio sito.	I've changed my website's layout.				
