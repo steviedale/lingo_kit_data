@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fammela		fammelare	VERB		1	1e-06	1	1e-06	fammelare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	403b5dff-22d9-56bd-b829-9738338c5285	77a56a24-2b32-5d2c-8e79-1649828312c8	Fammela vedere.	Let me see it.				
+fammela	FAH-meh-lah	fammelare	VERB	do it for me	1	1e-06	1	1e-06	fammelare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	403b5dff-22d9-56bd-b829-9738338c5285	77a56a24-2b32-5d2c-8e79-1649828312c8	Fammela vedere.	Let me see it.				
