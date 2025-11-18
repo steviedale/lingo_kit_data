@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-morditi		mordire	VERB		1	1e-06	1	1e-06	mordire	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0733ef11-57e7-5d8f-9d2d-cfc9e8f77712	f9548d9b-9908-5478-9e81-7c7254cb9c64	Morditi la lingua!	Bite your tongue.				
+morditi	MOR-dee-tee	mordire	VERB	bite your tongue	1	1e-06	1	1e-06	mordire	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0733ef11-57e7-5d8f-9d2d-cfc9e8f77712	f9548d9b-9908-5478-9e81-7c7254cb9c64	Morditi la lingua!	Bite your tongue.				

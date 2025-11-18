@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-moriate		moriare	VERB		1	1e-06	1	1e-06	moriare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	67b7ff98-f54b-5b7b-abda-67643334a352	df416a92-a53d-55cf-8058-0b381ecca00f	Non voglio che moriate.	I don't want you to die.				
+moriate	moh-ree-AH-teh	moriare	VERB	that you (plural) die	1	1e-06	1	1e-06	moriare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	67b7ff98-f54b-5b7b-abda-67643334a352	df416a92-a53d-55cf-8058-0b381ecca00f	Non voglio che moriate.	I don't want you to die.				
