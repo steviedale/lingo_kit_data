@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-zoppicando		zoppicare	VERB		1	1e-06	1	1e-06	zoppicare	VERB	V	root	VerbForm=Ger	331d9ab8-0558-58a4-b099-38a9f500aa48	6d2f8863-5f7d-537c-b382-e24e57b28324	Tom sta zoppicando.	Tom's limping.				
+zoppicando	tsohp-pee-KAHN-doh	zoppicare	VERB	limping	1	1e-06	1	1e-06	zoppicare	VERB	V	root	VerbForm=Ger	331d9ab8-0558-58a4-b099-38a9f500aa48	6d2f8863-5f7d-537c-b382-e24e57b28324	Tom sta zoppicando.	Tom's limping.				
