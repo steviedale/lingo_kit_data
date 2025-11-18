@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-calmi		calmo	VERB		2	2e-06	2	2e-06	calmo	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18fa6f6c-7075-56df-a9e2-7a40bd93bb7c	c0ffb192-5a2c-5c7c-9195-1d413c5d2aaf	Si calmi.	Calm down.	Si calmi!	Settle down!		
+calmi	KAHL-mee	calmo	VERB	(you) calm down!	2	2e-06	2	2e-06	calmo	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18fa6f6c-7075-56df-a9e2-7a40bd93bb7c	c0ffb192-5a2c-5c7c-9195-1d413c5d2aaf	Si calmi.	Calm down.	Si calmi!	Settle down!		

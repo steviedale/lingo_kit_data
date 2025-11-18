@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-casca		cascare	VERB		1	1e-06	1	1e-06	cascare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	db519b68-0de9-5908-8f21-dd200fe01828	d819bc88-6e04-542f-8eae-63d1bfdcec98	Qui casca l'asino.	That's the snag.				
+casca	KAH-skah	cascare	VERB	he/she/it falls	1	1e-06	1	1e-06	cascare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	db519b68-0de9-5908-8f21-dd200fe01828	d819bc88-6e04-542f-8eae-63d1bfdcec98	Qui casca l'asino.	That's the snag.				

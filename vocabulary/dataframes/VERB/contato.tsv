@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-contati		contato	VERB		1	1e-06	1	1e-06	contato	VERB	V	root	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	855b122b-1d6f-5027-8a8a-fb195724514e	a0986b56-ec11-5cfe-899a-f5562a0c8199	I suoi giorni sono contati.	Her days are numbered.				
+contati	kohn-TAH-tee	contato	VERB	counted (masculine) (plural)	1	1e-06	1	1e-06	contato	VERB	V	root	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	855b122b-1d6f-5027-8a8a-fb195724514e	a0986b56-ec11-5cfe-899a-f5562a0c8199	I suoi giorni sono contati.	Her days are numbered.				
