@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-uccidimi		uccidimare	VERB		1	1e-06	1	1e-06	uccidimare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	dd772375-b767-55cd-b809-8243d1b06e84	771232c6-b962-53eb-b1b4-8cbd22b14a72	Uccidimi con le parole!	Kill me with words!				
+uccidimi	oo-CHEE-dee-mee	uccidimare	VERB	kill me!	1	1e-06	1	1e-06	uccidimare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	dd772375-b767-55cd-b809-8243d1b06e84	771232c6-b962-53eb-b1b4-8cbd22b14a72	Uccidimi con le parole!	Kill me with words!				

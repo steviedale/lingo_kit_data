@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ubbidì		ubbidere	VERB		1	1e-06	1	1e-06	ubbidere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	73843df6-6b63-5af3-9557-06a0dc8a6d23	39aaff37-17e7-5092-8f2f-9676ba927b31	Tom ubbidì con riluttanza.	Tom reluctantly obeyed.				
+ubbidì	oob-bee-DEE	ubbidere	VERB	he/she/it obeyed	1	1e-06	1	1e-06	ubbidere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	73843df6-6b63-5af3-9557-06a0dc8a6d23	39aaff37-17e7-5092-8f2f-9676ba927b31	Tom ubbidì con riluttanza.	Tom reluctantly obeyed.				
