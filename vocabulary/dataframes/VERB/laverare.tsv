@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-laverò		laverare	VERB		1	1e-06	1	1e-06	laverare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3feaf3aa-b61f-54c7-97df-c522d304533e	14ba37fd-00b8-5ffc-901d-25c6ea6df23f	Laverò la mia macchina.	I will wash my car.				
+laverò	lah-veh-ROH	laverare	VERB	I will wash	1	1e-06	1	1e-06	laverare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3feaf3aa-b61f-54c7-97df-c522d304533e	14ba37fd-00b8-5ffc-901d-25c6ea6df23f	Laverò la mia macchina.	I will wash my car.				

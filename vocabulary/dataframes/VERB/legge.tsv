@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-legge		legge	VERB		1	1e-06	1	1e-06	legge	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	b69edc77-04d4-5743-8d95-7a1e805d59b6	02609801-8162-5c86-a71d-b4fbda8b7d02	Legge il giornale tutte le mattine.	She reads the newspaper every morning.				
+legge	LEHG-jeh	legge	VERB	he/she reads	1	1e-06	1	1e-06	legge	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	b69edc77-04d4-5743-8d95-7a1e805d59b6	02609801-8162-5c86-a71d-b4fbda8b7d02	Legge il giornale tutte le mattine.	She reads the newspaper every morning.				
