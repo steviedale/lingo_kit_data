@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-proteggimi		proteggimare	VERB		1	1e-06	1	1e-06	proteggimare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	e4bade8c-49f9-519c-becb-e939b3adb5d1	50d594fd-a80c-5737-b208-e8339d71aa71	Proteggimi!	Protect me!				
+proteggimi	proh-tehg-JEE-mee	proteggimare	VERB	(you) protect me	1	1e-06	1	1e-06	proteggimare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	e4bade8c-49f9-519c-becb-e939b3adb5d1	50d594fd-a80c-5737-b208-e8339d71aa71	Proteggimi!	Protect me!				

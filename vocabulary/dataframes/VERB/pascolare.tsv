@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pascolando		pascolare	VERB		1	1e-06	1	1e-06	pascolare	VERB	V	root	VerbForm=Ger	734f0387-9d16-57e4-b6dc-34dacc91202b	a5c61f71-07d9-5caf-b886-d3c2eda15909	Il bestiame stava pascolando nel campo.	Cattle were grazing in the field.				
+pascolando	pah-skoh-LAHN-doh	pascolare	VERB	grazing	1	1e-06	1	1e-06	pascolare	VERB	V	root	VerbForm=Ger	734f0387-9d16-57e4-b6dc-34dacc91202b	a5c61f71-07d9-5caf-b886-d3c2eda15909	Il bestiame stava pascolando nel campo.	Cattle were grazing in the field.				

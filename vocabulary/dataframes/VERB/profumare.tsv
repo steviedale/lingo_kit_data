@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-profumano		profumare	VERB		1	1e-06	1	1e-06	profumare	VERB	V	root	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6baad918-3684-5cab-bf75-35bce685801e	2d51cd89-0626-52f5-bea0-d02aca34ac9f	Le rose profumano.	Roses smell good.				
+profumano	proh-foo-MAH-noh	profumare	VERB	they smell good	1	1e-06	1	1e-06	profumare	VERB	V	root	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6baad918-3684-5cab-bf75-35bce685801e	2d51cd89-0626-52f5-bea0-d02aca34ac9f	Le rose profumano.	Roses smell good.				

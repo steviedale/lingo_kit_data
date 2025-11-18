@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-perdonaci		perdonacere	VERB		1	1e-06	1	1e-06	perdonacere	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8f62eb23-cdd8-557c-8ebe-9d1f3704bb73	c0a58a0b-30fa-54f6-a0b1-0b9002797d18	Perdonaci.	Forgive us.				
+perdonaci	pehr-doh-NAH-chee	perdonacere	VERB	(you) forgive us	1	1e-06	1	1e-06	perdonacere	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8f62eb23-cdd8-557c-8ebe-9d1f3704bb73	c0a58a0b-30fa-54f6-a0b1-0b9002797d18	Perdonaci.	Forgive us.				

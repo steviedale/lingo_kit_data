@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-perdila		perdilare	VERB		1	1e-06	1	1e-06	perdilare	VERB	V	conj	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0ae189c8-d989-51fe-9358-e316fc9072bf	8d9c9763-5174-57c2-a7b6-2b99ee44292f	Usala o perdila.	Use it or lose it.				
+perdila	pehr-DEE-lah	perdilare	VERB	(you) lose it	1	1e-06	1	1e-06	perdilare	VERB	V	conj	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0ae189c8-d989-51fe-9358-e316fc9072bf	8d9c9763-5174-57c2-a7b6-2b99ee44292f	Usala o perdila.	Use it or lose it.				
