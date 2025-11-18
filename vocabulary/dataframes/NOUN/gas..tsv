@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+gas.		gas.	NOUN		11	1.1e-05	11	1.1e-05	gas.	NOUN	S	nmod	Gender=Masc|Number=Sing	2254d30b-fd49-561e-966b-c47294f14701	5f2e493c-c37c-5304-bdb4-8cc3e647175c	Il fluido è più pesante del gas.	Liquids are heavier than gases.	L'aria è una miscela di diversi gas.	Air is a mixture of several gases.	Abbiamo il riscaldamento a gas.	We have gas heating.

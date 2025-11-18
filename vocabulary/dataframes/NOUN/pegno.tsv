@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pegno		pegno	NOUN		4	4e-06	4	4e-06	pegno	NOUN	S	obl	Gender=Masc|Number=Sing	a91b79c4-7356-52bc-8edf-0abb3e4604f3	982f4f31-fe8b-550b-8a9d-cf5b771ab5f2	Ha dato in pegno il suo oro.	She pawned her gold.	Diede in pegno il suo oro.	She pawned her gold.	Lei ha dato in pegno il suo oro.	She pawned her gold.

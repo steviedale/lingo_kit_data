@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rene		rena	NOUN		1	1e-06	1	1e-06	rena	NOUN	S	obj	Gender=Masc|Number=Sing	1f8809b9-3332-5eef-9677-ebee5acbe735	228e9dea-5e4f-5693-a225-b1512ff58f08	Vendo un rene a chi me la trova.	I'll sell a kidney to the one who finds it.				

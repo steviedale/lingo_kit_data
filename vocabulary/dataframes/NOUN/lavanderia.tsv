@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+lavanderia		lavanderia	NOUN		3	3e-06	3	3e-06	lavanderia	NOUN	S	nsubj	Gender=Fem|Number=Sing	9a832dc0-11b5-57b7-8b78-b8ecf1d15a52	00be09a7-fe4d-52bc-86c1-1ca5fab9673e	Domani è il giorno della lavanderia.	Tomorrow's laundry day.	Domani è la giornata della lavanderia.	Tomorrow's laundry day.	Dov'è la lavanderia?	Where is the laundry?

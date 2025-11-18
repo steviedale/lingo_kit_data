@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+volteggiava		volteggiare	VERB		1	1e-06	2	2e-06	volteggiare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	aaed2963-1866-5bb9-b3ac-ad35a945e023	c6e5a389-5b80-5070-b532-7073d65ccfb3	Un elicottero volteggiava sopra di noi.	A helicopter circled over us.				
+volteggia		volteggiare	VERB		1	1e-06	2	2e-06	volteggiare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	fcee8426-57ca-5ab4-a3b7-d59816bf229d	c6e5a389-5b80-5070-b532-7073d65ccfb3	La farfalla volteggia.	The butterfly flutters.				

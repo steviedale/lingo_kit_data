@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+interezza		interezza	NOUN		3	3e-06	3	3e-06	interezza	NOUN	S	obl	Gender=Fem|Number=Sing	602e22ce-53fc-5226-beb6-b05d8385d7e5	99e03e87-e2a2-556b-bcf3-5f9bc6b85349	Leggo il libro nella sua interezza.	I read the entire book.	Ho letto il libro nella sua interezza.	I read the entire book.	Lessi il libro nella sua interezza.	I read the entire book.

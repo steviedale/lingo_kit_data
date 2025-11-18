@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+script		script	NOUN		1	1e-06	1	1e-06	script	NOUN	S	obj	Gender=Masc	db381e02-c2b8-53ff-b5ca-c6aba37f47cb	75898a14-a401-5d4b-b83e-4d84cd9188f5	Oggi Nicolas mi ha dedicato uno script.	Nicolas dedicated a script to me today.				

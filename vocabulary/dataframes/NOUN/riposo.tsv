@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+riposo		riposo	NOUN		6	6e-06	6	6e-06	riposo	NOUN	S	nmod	Gender=Masc|Number=Sing	01bdeb5f-e89b-5154-a34b-de40fa613017	0254486d-c515-55ef-99ce-ee39f1bcc0ec	Sì, domani è il mio giorno di riposo.	Yes, tomorrow is my day off.	Hai semplicemente bisogno di un buon riposo.	You just need a good rest.	Tom ha bisogno di riposo.	Tom needs rest.

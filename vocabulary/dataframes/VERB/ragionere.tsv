@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ragionevole		ragionere	VERB		1	1e-06	1	1e-06	ragionere+le	VERB+PRON	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Imp|Verbform=Fin|Clitic=Yes|Person=3|PronType=Prs	4c0ca6c1-b84e-533d-9824-bb88f58d9280	dc894f7f-2056-5dea-ab30-814d381ab3f0	È ragionevole.	That's reasonable.				

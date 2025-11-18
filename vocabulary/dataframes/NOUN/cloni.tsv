@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cloni		cloni	NOUN		1	1e-06	1	1e-06	cloni	NOUN	S	root	Gender=Masc|Number=Plur	437b1d19-4e2a-5ea1-9fc1-5cc9045181a0	a4933f6f-3d0f-5f7a-91ea-2924c958e453	I gemelli sono cloni.	Twins are clones.				

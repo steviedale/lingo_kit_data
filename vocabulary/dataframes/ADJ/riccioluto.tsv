@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+riccioluta		riccioluto	ADJ		1	1e-06	1	1e-06	riccioluto	ADJ	A	root	Gender=Fem|Number=Sing	330bfc90-c605-51e1-8f2d-a7040d9672d2	76680b78-0f07-51ca-ac8b-0d8968961c90	La coda del maiale è riccioluta.	The pig's tail is curly.				

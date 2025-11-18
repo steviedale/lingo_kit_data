@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+avvelenamento		avvelenamento	NOUN		1	1e-06	1	1e-06	avvelenamento	NOUN	S	nsubj	Gender=Masc|Number=Sing	ccd58cff-dffc-5bc1-8224-3e675bc7f652	2f233de2-98c1-5eb9-854d-33741e57b617	L'avvelenamento da cadmio è una causa molto comune di morte nel sud.	Cadmium poisoning is a very common cause of death in the south.				

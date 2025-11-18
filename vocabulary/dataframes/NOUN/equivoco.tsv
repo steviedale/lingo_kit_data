@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+equivoco		equivoco	NOUN		2	2e-06	2	2e-06	equivoco	NOUN	S	root	Gender=Masc|Number=Sing	db56ff94-d015-59a1-84a6-371cb29e2da1	8a69199d-6d0c-5054-8070-e4ce9fdc560a	C'è chiaramente stato un equivoco qui.	There's clearly been a misunderstanding here.	È un equivoco.	It's a misunderstanding.		

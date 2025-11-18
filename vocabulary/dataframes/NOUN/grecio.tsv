@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+greci		grecio	NOUN		1	1e-06	1	1e-06	grecio	NOUN	S	nsubj	Gender=Masc|Number=Plur	428d53e1-f9e4-5d7e-93e1-79b7847cf5b3	c46d8606-c660-5536-b8eb-6394d9974e11	I Greci assediarono Troia per dieci anni.	The Greeks besieged Troy for ten years.				

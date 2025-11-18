@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+vongole		vongola	NOUN		2	2e-06	2	2e-06	vongola	NOUN	S	nmod	Gender=Fem|Number=Plur	58ffe0da-b9c9-5a1d-802f-dae590e2e291	f84b5660-0e45-5daf-bf01-e1d6da797a1c	Tom mangiò una tazza di zuppa di vongole.	Tom ate a bowl of clam chowder.	Tom ha mangiato una tazza di zuppa di vongole.	Tom ate a bowl of clam chowder.		

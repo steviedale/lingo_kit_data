@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+schiacci		schiaccare	VERB		1	1e-06	1	1e-06	schiaccare	VERB	V	advcl	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	cd0c54b4-57e3-5e22-8646-848f06b109c6	941240d2-1724-5128-b370-b484de33ed6f	Se schiacci questo pulsante, la porta si apre.	If you push this button, the door will open.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pedale		pedale	NOUN		1	1e-06	1	1e-06	pedale	NOUN	S	obj	Gender=Masc|Number=Sing	2ff68436-0a2e-5e10-8821-ba11a32fdbc6	ddb3df72-a806-5ba2-82b4-3208a7479d4e	Lui schiacciò il pedale del freno.	He pressed the brake pedal.				

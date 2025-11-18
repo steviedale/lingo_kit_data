@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+business		business	NOUN		1	1e-06	1	1e-06	business	NOUN	S	obj	Gender=Masc	e85df04b-6dee-591b-8499-92b81024f4a2	6dd6bebe-31e2-5465-b87d-51ff038baa7a	Il sig. Morita ha iniziato un business usando come capitale del denaro preso a prestito .	Mr. Morita started a business by using borrowed money as capital.				

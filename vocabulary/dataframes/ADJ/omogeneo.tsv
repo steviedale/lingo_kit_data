@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+omogeneo		omogeneo	ADJ		1	1e-06	1	1e-06	omogeneo	ADJ	A	amod	Gender=Masc|Number=Sing	a54ea184-0fa6-59d3-b32a-7167a9ce7fa1	6a4b8ef7-6cf6-50fa-ad19-f11e97644bde	Qualsiasi ciclo omogeneo ha un periodo e una frequenza.	Any homogeneous cycle has a period and a frequency.				

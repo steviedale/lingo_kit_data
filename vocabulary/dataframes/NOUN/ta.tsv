@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tal		ta	NOUN		1	1e-06	1	1e-06	ta+il	NOUN+DET	S	obj	Gender=Fem|Number=Sing|Definite=Def|Gender=Masc|PronType=Art	690a2ecd-3901-50d0-a72c-ba4e67d41e17	1e88ba47-b2e0-56bb-87bc-dbae904f970e	Dammi una ragione per fare una tal cosa.	Give me a reason for doing such a thing.				

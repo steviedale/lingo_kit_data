@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+boccioli		bocciolo	NOUN		1	1e-06	1	1e-06	bocciolo	NOUN	S	nsubj	Gender=Masc|Number=Plur	21b6687c-033e-5d80-afd7-520597d77861	2d5ccc38-cdbf-5c79-a6be-f5854eba9916	I boccioli cominciarono a schiudersi.	The buds began to open.				

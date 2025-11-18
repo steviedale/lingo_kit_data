@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+drosofile		drosofile	NOUN		1	1e-06	1	1e-06	drosofile	NOUN	S	obl	Gender=Fem|Number=Plur	da893f82-3070-5075-8938-d0cd04b00d85	117925ef-4b4b-57c7-b83f-13dc4a434c54	Il tempo vola come una freccia; alle drosofile piace una banana.	Time flies like an arrow; fruit flies like a banana.				

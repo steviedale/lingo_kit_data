@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+contraffatta		contraffatto	ADJ		2	2e-06	2	2e-06	contraffatto	ADJ	A	amod	Gender=Fem|Number=Sing	e3982cbc-c34a-57c0-b4d9-a5ef3d166679	c2700321-a69b-5166-a3bf-23ef653f7f03	Mary comprò una borsetta Gucci contraffatta.	Mary bought a fake Gucci handbag.	Mary ha comprato una borsetta Gucci contraffatta.	Mary bought a fake Gucci handbag.		

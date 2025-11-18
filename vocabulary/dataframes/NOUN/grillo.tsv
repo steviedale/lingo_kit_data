@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+grillo		grillo	NOUN		1	1e-06	1	1e-06	grillo	NOUN	S	obj	Gender=Masc|Number=Sing	2be0daa3-0958-56b8-a9f6-5cac16b2a0fd	95161871-f1a5-573c-b85c-c6545e2f2123	Pinocchio si voltò e vide un grosso grillo che saliva lentamente su per il muro.	Pinocchio turned and saw a large cricket crawling slowly up the wall.				

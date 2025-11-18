@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+anglofoni		anglofone	NOUN		1	1e-06	1	1e-06	anglofone	NOUN	S	nmod	Gender=Masc|Number=Plur	03d0aa0e-46b6-59e5-8d03-2327e9bb9133	ff7905e1-ce8d-5e6f-88cb-25a8d072f88b	La maggior parte delle parole inglesi sono sconosciute alla maggior parte degli anglofoni.	Most English words are unknown to most English speakers.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ameba		ameba	NOUN		1	1e-06	1	1e-06	ameba	NOUN	S	nsubj	Gender=Fem|Number=Sing	84f96ec8-86bd-5e51-b530-de7ac876b0eb	3c7858a4-da27-5820-9881-c018c80cf0e3	Mi sento un'ameba.	I feel like an amoeba.				

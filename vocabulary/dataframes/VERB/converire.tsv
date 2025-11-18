@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+conversa		converire	VERB		1	1e-06	1	1e-06	converire	VERB	V	acl:relcl	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	d00743ba-a64f-56b4-90d7-9cb2a8cd6a3e	adfc14b2-c718-568f-b81d-ce35110263d8	La donna che conversa con quel ragazzo è la sua insegnante.	The lady that is speaking to that boy is his teacher.				

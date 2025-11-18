@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pachinko		pachinko	NOUN		1	1e-06	1	1e-06	pachinko	NOUN	S	obl	Gender=Masc|Number=Sing	11e79cd9-bd08-5290-8863-e3319153a6ee	de224edc-2fc4-564d-95cf-a44d56a1afa2	Non ho fortuna, per questo non gioco a pachinko o non compro biglietti della lotteria.	I don't have good luck, so I don't play pachinko or buy lottery tickets.				

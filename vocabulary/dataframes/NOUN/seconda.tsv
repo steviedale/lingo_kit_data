@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+seconda		seconda	NOUN		1	1e-06	1	1e-06	seconda	NOUN	S	obl	Gender=Fem|Number=Sing	a34edb87-aadf-503a-9a0b-688ff858a3fc	76d494ba-5cf4-557f-bef2-6134b1f6c7c4	Paghiamo una imposta sul reddito di entità variabile a seconda della dimensione del reddito.	We pay an income tax at varying rates according to the size of income.				

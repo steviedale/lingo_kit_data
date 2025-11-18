@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+clacson		clacson	NOUN		3	3e-06	3	3e-06	clacson	NOUN	S	obj	Gender=Masc	01cdec6b-518c-5791-a20f-0cf44ef2c7b3	27cb5039-e2c7-5f0e-b408-d0bb183ee2a9	Tom continuava a suonare il clacson.	Tom continued to honk the horn.	Tom suonò il clacson.	Tom beeped the horn.	Tom ha suonato il clacson.	Tom beeped the horn.

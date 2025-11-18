@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+laser		laser	NOUN		1	1e-06	1	1e-06	laser	NOUN	S	compound	Gender=Masc	5c08801f-7a19-5a29-8e3e-69d01f0ba881	d44492b6-1d70-5052-a585-14923e863892	Il portiere russo è stato coplito da un puntatore laser.	The Russian goalkeeper was struck by a laser pointer.				

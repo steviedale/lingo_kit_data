@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+corrida		corrida	NOUN		1	1e-06	1	1e-06	corrida	NOUN	S	obj	Gender=Fem|Number=Sing	1062c921-f262-5278-bb1d-81d9534957b3	205c15fe-02d3-58ea-a085-864ef0e14a57	Ad Arles ho visto una corrida.	In Arles I saw a bullfight.				

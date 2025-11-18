@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+grandine		grandine	NOUN		1	1e-06	1	1e-06	grandine	NOUN	S	nmod	Gender=Fem|Number=Sing	cfb72dc7-8940-57e6-9779-7d9b762f5b44	261d0c0c-dfe0-5b99-b0c9-31ff6a4a33d8	I chicchi di grandine erano grandi come palle da tennis.	The hailstones were as big as tennis balls.				

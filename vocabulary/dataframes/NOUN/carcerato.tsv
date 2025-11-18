@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+carcerati		carcerato	NOUN		1	1e-06	1	1e-06	carcerato	NOUN	S	xcomp	Gender=Masc|Number=Plur	1eac4fc6-4d81-5f7f-8f2a-234b7e779a01	232b0793-f825-5011-9b20-6c2b4e74b077	Le persone che stanno in carcere sono chiamate carcerati.	The people who stay in prison are called prisoners.				

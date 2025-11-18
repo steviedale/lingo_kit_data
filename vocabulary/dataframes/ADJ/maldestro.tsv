@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+maldestra		maldestro	ADJ		2	2e-06	3	3e-06	maldestro	ADJ	A	root	Gender=Fem|Number=Sing	d948dbf0-5198-5494-a874-0be1f743314b	19a78366-99f1-54fe-863b-5f3876cc5d9b	Lei è maldestra.	She is awkward.	È maldestra.	She is awkward.		
+maldestro		maldestro	ADJ		1	1e-06	3	3e-06	maldestro	ADJ	A	amod	Gender=Masc|Number=Sing	b5e829c1-d6c4-515b-b8d3-45482a831492	19a78366-99f1-54fe-863b-5f3876cc5d9b	L'uomo maldestro invidiava il suo straordinario talento.	The clumsy man envied her extraordinary talent.				

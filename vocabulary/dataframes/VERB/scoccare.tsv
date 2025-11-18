@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scoccherà		scoccare	VERB		1	1e-06	1	1e-06	scoccare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9dd1d830-f0fc-5614-baa1-cd33543e2770	be43e5ae-f9fc-5239-88bf-fca84e86ad3b	Tra tre secondi scoccherà la mezzanotte.	In three seconds midnight will strike.				

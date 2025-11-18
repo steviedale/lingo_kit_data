@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+squash		squash	NOUN		2	2e-06	2	2e-06	squash	NOUN	S	nmod	Gender=Masc	dfb94946-49cb-55a0-a03c-b9764650e59f	0b75ba71-23b2-5fca-a1b3-d834e7ec9979	Gioco a squash.	I play squash.	Io gioco a squash.	I play squash.		

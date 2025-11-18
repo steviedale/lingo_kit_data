@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pretzel		pretzel	NOUN		3	3e-06	3	3e-06	pretzel	NOUN	S	nsubj	Gender=Masc	bbda3a57-e8cf-5ab7-a5ec-a053fdae7efc	d9956c09-b3f2-5355-bed2-3af79ce76203	Le piacciono i pretzel?	Do you like pretzels?	Ti piacciono i pretzel?	Do you like pretzels?	Vi piacciono i pretzel?	Do you like pretzels?

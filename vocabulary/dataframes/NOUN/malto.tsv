@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+malto		malto	NOUN		1	1e-06	1	1e-06	malto	NOUN	S	obl	Gender=Masc|Number=Sing	c548bd4e-5976-5e8a-ab4f-b0a21a057a47	127e97f0-e4e4-5f68-8891-9c3267b1e83c	La birra è prodotta a partire dal malto.	Beer is brewed from malt.				

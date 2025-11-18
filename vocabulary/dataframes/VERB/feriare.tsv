@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+feriate		feriare	VERB		2	2e-06	2	2e-06	feriare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0d25f9b8-4742-599a-a7b7-b302711aa7e3	651452ee-0f4b-5d05-916d-26a73bd679f1	Io non voglio che voi vi feriate.	I don't want you to be hurt.	Non voglio che voi vi feriate.	I don't want you to be hurt.		

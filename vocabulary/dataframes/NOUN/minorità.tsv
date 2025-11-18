@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+minorità		minorità	NOUN		1	1e-06	1	1e-06	minorità	NOUN	S	nmod	Gender=Fem	74ef1f77-8349-57de-9b73-dfb233ccbf44	1fbfef37-2daa-5a97-8e61-254dd2befa0b	L'illuminismo è l'uscita dell'uomo dallo stato di minorità che egli deve imputare a sé stesso.	Enlightenment is man's leaving his self-imposed immaturity.				

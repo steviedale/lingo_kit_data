@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+predisposto		predisporre	VERB		2	2e-06	2	2e-06	predisporre	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	e6bacb02-6c83-5886-8900-1035bb988d58	13591061-baea-58ab-a795-a4aaf8bca0d0	Lui è predisposto alle risate.	He is disposed to laughter.	È predisposto alle risate.	He is disposed to laughter.		

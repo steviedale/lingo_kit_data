@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+smeraldo		smeraldo	NOUN		1	1e-06	1	1e-06	smeraldo	NOUN	S	conj	Gender=Masc|Number=Sing	03397eb5-67bb-5e93-b320-1ce4da048812	8f8c620a-3aa9-52a8-9e7f-b0fd6686191f	Tom non sa la differenza tra un diamante e uno smeraldo.	Tom does not know the difference between a diamond and an emerald.				

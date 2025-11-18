@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+assassina		assassina	NOUN		7	7e-06	7	7e-06	assassina	NOUN	S	acl	Gender=Fem|Number=Sing	e5179085-9152-573e-9677-a8c2dcc8a00a	91924f0a-e6ca-52b6-88da-659821a57103	Lei è un'assassina seriale.	You're a serial killer.	Tu sei un'assassina.	You're a murderer.	Sei un'assassina.	You're a murderer.

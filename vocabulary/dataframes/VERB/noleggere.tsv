@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+noleggi		noleggere	VERB		1	1e-06	1	1e-06	noleggere	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	727ef79a-4b2b-5bd5-a11e-9b137f1b1ea8	bab05a77-3bfe-56e1-84dc-a78bce32a3fa	Noleggi un furgoncino a tempo.	Hire a minivan by the hour.				

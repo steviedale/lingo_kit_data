@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+anagramma		anagramma	NOUN		2	2e-06	2	2e-06	anagramma	NOUN	S	root	Gender=Masc|Number=Sing	29260d9a-ad88-55c6-8b66-ee3d7f1eebc5	ea0c2eb6-ccf3-5bd3-bd5a-fb864df1a347	Roma è un anagramma di amor.	Roma is an anagram of amor.	Kyoto è un anagramma di Tokyo.	Kyoto is an anagram of Tokyo.		

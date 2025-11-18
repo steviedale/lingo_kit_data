@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+condivisa		condiviso	ADJ		1	1e-06	1	1e-06	condiviso	ADJ	A	amod	Gender=Fem|Number=Sing	ccdf8129-7d8b-51eb-bded-b0421453a56f	571f4f16-ee33-5831-9e13-a008ee62b142	C'è una lingua condivisa.	There is a shared knowledge.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+quotidiano		quotidiano	NOUN		2	2e-06	2	2e-06	quotidiano	NOUN	S	root	Gender=Masc|Number=Sing	f12fd3c7-5cb1-56b7-9a2b-d83ad0bd747f	83daf196-0825-5720-ab73-56727846f115	Questo è un quotidiano.	This is a daily newspaper.	Questo giornale è un quotidiano.	This is a daily newspaper.		

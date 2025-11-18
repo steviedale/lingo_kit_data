@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+parrocchia		parrocchia	NOUN		1	1e-06	1	1e-06	parrocchia	NOUN	S	nmod	Gender=Fem|Number=Sing	ab932e45-02fd-5ed9-b72c-aeab64def2cd	ee2b8663-6562-57d8-a5bb-7e2eb43c2fc4	Loro sono i ragazzi della parrocchia.	They are the boys of the parish.				

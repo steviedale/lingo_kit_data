@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+illuminismo		illuminismo	NOUN		1	1e-06	1	1e-06	illuminismo	NOUN	S	nsubj	Gender=Masc|Number=Sing	c41500d9-4f52-5d52-8338-4c37335bd583	ac67ed73-36cf-5df6-b6c2-e02bf25c9ba1	L'illuminismo è l'uscita dell'uomo dallo stato di minorità che egli deve imputare a sé stesso.	Enlightenment is man's leaving his self-imposed immaturity.				

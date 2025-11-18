@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+leggiate		leggiare	VERB		1	1e-06	1	1e-06	leggiare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9fe32471-e87a-5d01-921b-ac9933dcb1f5	3912e633-b87a-503e-8cae-ec1c1184d2ab	Voglio che voi leggiate questo libro.	I want you to read this book.				

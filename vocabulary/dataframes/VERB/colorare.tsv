@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+colorato		colorare	VERB		1	1e-06	1	1e-06	colorare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5d6fb994-99e7-56cf-8c82-9e7fb676fef8	ea95b700-ff40-5d9f-a28f-4b2af046340a	Il cielo era intensamente colorato dai fuochi d'artificio.	The sky was ablaze with fireworks.				

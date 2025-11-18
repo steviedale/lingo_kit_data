@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+indomani		indomani	NOUN		1	1e-06	1	1e-06	indomani	NOUN	S	nsubj	Gender=Masc|Number=Sing	9b6e800a-9f8f-569b-84db-9c74e6882f21	023a10e1-9fbe-5647-8db8-b47433011bfc	Paolo mi disse che l'indomani saremmo andati a caccia.	Paolo told me we'd go hunting the following day.				

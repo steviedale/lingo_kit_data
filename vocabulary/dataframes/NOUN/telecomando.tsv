@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+telecomando		telecomando	NOUN		7	7e-06	7	7e-06	telecomando	NOUN	S	obj	Gender=Masc|Number=Sing	3ac284a9-ca88-54b1-91b8-508b937b02bc	e259b0d4-767a-584c-bea1-08900f36e6e1	Dov'è il telecomando?	Where's the remote?	Ridammi il telecomando.	Give me back the TV remote.	Ridatemi il telecomando.	Give me back the TV remote.

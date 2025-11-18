@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+gerbillo		gerbillo	NOUN		1	1e-06	1	1e-06	gerbillo	NOUN	S	nsubj	Gender=Masc|Number=Sing	1e945702-b48a-5a69-bfb1-e62ea222afe5	7d4c1310-cb03-5952-8b6b-1699a0ef92a7	Il mio gerbillo è sparito.	My gerbil has gone missing.				

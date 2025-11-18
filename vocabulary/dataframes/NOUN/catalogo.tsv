@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+catalogo		catalogo	NOUN		6	6e-06	6	6e-06	catalogo	NOUN	S	obj	Gender=Masc|Number=Sing	4de77640-cc36-535e-b4b1-ca1b43f6f401	e2f283cd-e846-559a-ae22-2a5e127c77f0	Mandami un nuovo catalogo.	Send me a new catalog.	Mi mandi un nuovo catalogo.	Send me a new catalog.	Mandatemi un nuovo catalogo.	Send me a new catalog.

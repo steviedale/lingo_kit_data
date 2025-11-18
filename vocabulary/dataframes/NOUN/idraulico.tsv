@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+idraulico		idraulico	NOUN		2	2e-06	2	2e-06	idraulico	NOUN	S	root	Gender=Masc|Number=Sing	006824f2-10cd-5eb1-aa72-b05dcd1830bf	800eb531-7884-5f45-88fa-857fbbed1ed4	L'idraulico ha usato molti attrezzi per riparare il nostro lavandino.	The plumber used many tools to fix our sink.	Tom è un idraulico.	Tom is a plumber.		

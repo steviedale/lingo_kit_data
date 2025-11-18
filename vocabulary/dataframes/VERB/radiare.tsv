@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+radiava		radiare	VERB		1	1e-06	1	1e-06	radiare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	df6448ee-b4ed-50e2-a863-1d2aaf42a0ef	56327e59-c960-5311-8bf3-c09b22b35527	Il suo volto radiava di felicità.	Her face was radiant with happiness.				

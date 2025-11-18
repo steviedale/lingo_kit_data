@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+omidicio		omidicio	NOUN		1	1e-06	1	1e-06	omidicio	NOUN	S	obl	Gender=Masc|Number=Sing	704e4bf0-a99c-5e54-ab8e-b78c322bffbc	93be623d-6012-5deb-9b0d-352f0eac6bee	Fu impiccato per omidicio.	He was hanged for murder.				

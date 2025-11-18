@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+occupatissima		occupatissimare	VERB		1	1e-06	1	1e-06	occupatissimare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	141f5f10-9f24-58ff-91bf-4b9d9787c48d	34bc4598-c743-5bf2-81d4-50c1f99c68bd	Mia madre è occupatissima ogni giorno.	My mother is busy as a bee every day.				

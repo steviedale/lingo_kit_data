@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+eritema		eritema	NOUN		1	1e-06	1	1e-06	eritema	NOUN	S	obj	Gender=Masc|Number=Sing	ca08379c-6121-5fa5-b664-5ef2bd1ad284	5d4eccf1-7c45-5de5-b2bd-5f0e3c988867	Il mio gatto ha un eritema solare.	My tomcat has a sunburn.				

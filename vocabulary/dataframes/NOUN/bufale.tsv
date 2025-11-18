@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+bufali		bufale	NOUN		1	1e-06	1	1e-06	bufale	NOUN	S	appos	Gender=Masc|Number=Plur	f550029a-ed14-5c37-a122-764ca7265050	99656780-6d60-5f88-8039-a1fc4cbac25d	Quando Colombo scoprì l'America, i bisonti (bufali americani) occupavano vasti territori.	When Columbus discovered America, bison (American buffalo) inhabited a wide-ranging area.				

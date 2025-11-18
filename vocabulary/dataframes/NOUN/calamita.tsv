@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+calamita		calamita	NOUN		1	1e-06	2	2e-06	calamita	NOUN	S	nmod	Gender=Fem|Number=Sing	639f75d4-dc56-5736-aca2-bce669f08532	8a946c1c-1ea0-5eae-8c9f-0cc34244b3c3	La Terra è come una palla con dentro una grande calamita.	The earth is like a ball with a big magnet in it.				
+calamite		calamita	NOUN		1	1e-06	2	2e-06	calamita	NOUN	S	nsubj	Gender=Fem|Number=Plur	d97fad1a-7a90-54fd-8e5f-b6fa556542b8	8a946c1c-1ea0-5eae-8c9f-0cc34244b3c3	Come funzionano le calamite?	How do magnets work?				

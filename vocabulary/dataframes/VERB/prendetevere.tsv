@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+prendetevelo		prendetevere	VERB		1	1e-06	1	1e-06	prendetevere	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	54e3a94e-4bc7-5bc1-b0c7-392befd9510c	acb47638-aa88-536b-8de4-1ef38fcd4c10	Non prendetevelo a cuore.	Don't take it to heart.				

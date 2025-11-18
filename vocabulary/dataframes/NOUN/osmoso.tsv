@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+osmosi		osmoso	NOUN		1	1e-06	1	1e-06	osmoso	NOUN	S	obj	Gender=Fem|Number=Sing	2b01f19b-fad7-5856-ba2a-38b09cb085ad	e2f66149-cac5-5196-92e6-9e89af97f8b9	Nell'esperimento di scienze di oggi abbiamo osservato l'osmosi.	We observed osmosis in today's science experiment.				

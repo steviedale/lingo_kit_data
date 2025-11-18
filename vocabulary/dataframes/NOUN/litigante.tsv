@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+litiganti		litigante	NOUN		2	2e-06	2	2e-06	litigante	NOUN	S	obl	Gender=Masc|Number=Plur	27a8915a-4f61-5e52-8777-954e93e13386	4b3e8b9c-eb85-5f9d-972b-ceedde41752e	Fra i due litiganti il terzo gode.	Two argue, and a third benefits.	Tra i due litiganti il terzo gode.	Two argue, and a third benefits.		

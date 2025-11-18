@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+arredò		arredare	VERB		1	1e-06	1	1e-06	arredare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	e9396999-cd24-5ef5-9058-f92065ecf668	d2d0842a-49e9-50ef-8e73-fc46a68acc57	Arredò la stanza con bellissimi mobili.	She furnished the room with beautiful furniture.				

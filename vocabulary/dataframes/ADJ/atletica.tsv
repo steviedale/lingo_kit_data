@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+atletica		atletica	ADJ		1	1e-06	1	1e-06	atletica	ADJ	A	root	Gender=Fem|Number=Sing	688e9ef9-b34b-579d-833f-d2d6c6fb2064	519956fa-9bde-5cca-92b5-847a3acedc6b	Io sono atletica.	I'm athletic.				

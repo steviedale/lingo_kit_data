@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+menti		menti	NOUN		2	2e-06	3	3e-06	menti	NOUN	S	parataxis	Gender=Fem|Number=Plur	7e07f4af-1797-51de-b621-4d840e15e8f6	2c4d3f7b-a618-57a5-9c32-1f90bbc7d421	Menti, non è così?	You're lying, aren't you?	Menti.	You lie.		
+mentii		menti	NOUN		1	1e-06	3	3e-06	menti	NOUN	S	root	Gender=Masc|Number=Plur	bcf17ad6-f491-5adf-9033-bd2fc1b187f4	2c4d3f7b-a618-57a5-9c32-1f90bbc7d421	Mentii contro la mia volontà.	I lied unwillingly.				

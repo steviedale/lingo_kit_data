@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+imbottigliata		imbottigliato	ADJ		1	1e-06	1	1e-06	imbottigliato	ADJ	A	amod	Gender=Fem|Number=Sing	b4e21bca-c62d-52af-9fd5-bf912508cdb3	2ff822c3-1f8e-5d54-bfbd-7eba00b89c5e	Il vino è poesia imbottigliata.	Wine is bottled poetry.				

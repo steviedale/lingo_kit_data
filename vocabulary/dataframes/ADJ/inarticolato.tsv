@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+inarticolato		inarticolato	ADJ		1	1e-06	1	1e-06	inarticolato	ADJ	A	root	Gender=Masc|Number=Sing	261f60da-03a9-52dd-ad0c-558616b2bc36	7a887997-b23b-54d7-b172-e05e6a91985c	Tom è inarticolato.	Tom is inarticulate.				

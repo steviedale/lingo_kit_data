@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+romana		romano	NOUN		3	3e-06	3	3e-06	romano	NOUN	S	obl	Gender=Fem|Number=Sing	b4b119e8-0308-5ac1-962f-89e42360939f	a9484496-2e9c-5ae8-adc2-3f8a1a05b7a2	Facciamo alla romana oggi.	Let's go Dutch today.	Facciamo alla romana.	Let's split the bill.	Va bene, possiamo fare alla romana stasera.	That's OK, we can go Dutch tonight.

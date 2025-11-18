@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+collegio		collegio	NOUN		2	2e-06	2	2e-06	collegio	NOUN	S	obl	Gender=Masc|Number=Sing	f95b3ac0-c4f7-5804-a3b0-fc35211d1ab7	099d5165-1b84-5041-ab4a-9e6bfdd8b4dd	Per i particolari, rivolgersi al collegio.	For particulars, apply to the college.	Tom è andato a un collegio di Boston.	Tom went to a boarding school in Boston.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+incaricato		incaricare	VERB		1	1e-06	1	1e-06	incaricare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	e03db9ad-3819-542c-b272-66e7bfccb827	6d33e647-f03b-5456-9de5-b74b994745c8	Sono stato incaricato di aiutarti.	I've been appointed to help you.				

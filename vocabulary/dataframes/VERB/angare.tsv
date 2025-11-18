@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+vagava		angare	VERB		2	2e-06	2	2e-06	angare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9c698b73-43a2-5d1d-8d38-85c7ae1500d1	51ce81b9-b85c-573c-9bce-7b6ce97a1c21	Lei vagava per la campagna.	She wandered about the country.	Lui vagava per la campagna.	He wandered about the country.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+qualunque		qualunque	ADJ		10	1e-05	10	1e-05	qualunque	ADJ	A	amod	Number=Sing	0890dd72-7ae2-5670-8227-2bcfd9186d41	20b77473-d32f-52a0-b07a-336a228708e6	Un posto qualunque con un letto andrà bene.	Anywhere with a bed will do.	Sono soltanto una ragazza qualunque.	I'm just an average girl.	Sono solo una ragazza qualunque.	I'm just an average girl.

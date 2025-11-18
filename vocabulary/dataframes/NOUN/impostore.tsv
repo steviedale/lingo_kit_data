@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+impostore		impostore	NOUN		9	9e-06	9	9e-06	impostore	NOUN	S	nsubj:pass	Gender=Masc|Number=Sing	03f8d41c-2120-5258-b4fe-a39bb782a4c4	55bfc6fc-2502-55c6-a5aa-cf310a9ceae7	L'impostore è stato catturato.	The imposter was caught.	L'impostore venne catturato.	The imposter was caught.	Tom è un impostore.	Tom is an imposter.

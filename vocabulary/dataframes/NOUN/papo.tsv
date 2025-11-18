@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+papi		papo	NOUN		1	1e-06	1	1e-06	papo	NOUN	S	vocative	Gender=Masc|Number=Plur	7ee63c2e-a563-5fe3-b9b0-ebb6b5884aba	f85c9e7d-3ed6-59ba-9a3c-5b3f13dc286a	Papi, comprami una vuvuzela!	Daddy, buy me a vuvuzela!				

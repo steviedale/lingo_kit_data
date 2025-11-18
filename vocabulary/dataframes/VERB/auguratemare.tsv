@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+auguratemi		auguratemare	VERB		1	1e-06	1	1e-06	auguratemare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5fa56052-785f-5cab-b716-246fb6fa9bd1	bd0da557-0ace-5c73-9997-9b34fb2978d6	Auguratemi buona fortuna.	Wish me luck.				

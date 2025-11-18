@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+risparmierete		risparmiere	VERB		1	1e-06	1	1e-06	risparmiere	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	dd2193be-15be-54f1-820c-361cad48d329	1accc5b2-dc44-5c43-bca2-88159f04ba84	Risparmierete tempo se adottate questa nuova procedura.	You will save time if you adopt this new procedure.				

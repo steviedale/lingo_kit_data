@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ragazzone		ragazzone	NOUN		2	2e-06	2	2e-06	ragazzone	NOUN	S	root	Gender=Masc|Number=Sing	ff260b12-b0cc-5023-b494-08e0eb7b2475	c8cb237d-1ae1-5bce-b7d8-74eb5a7f8d2b	Lui è un ragazzone.	He's a big boy.	È un ragazzone.	He's a big boy.		

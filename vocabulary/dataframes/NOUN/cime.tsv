@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cime		cime	NOUN		1	1e-06	1	1e-06	cime	NOUN	S	nmod	Gender=Fem|Number=Plur	7f6262b4-be06-5440-be26-0591db7ef035	2bc83f7b-ed1b-5769-b181-e05bde73406f	Mike è una delle nostre cime.	Mike is one of our brains.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+gravidanza		gravidanza	NOUN		5	5e-06	5	5e-06	gravidanza	NOUN	S	nmod	Gender=Fem|Number=Sing	4d8f814f-0570-5cf2-8a85-74aeb1b38664	b7f9f43a-4dd1-5b33-b6d5-f217c54aab8f	Io feci un test di gravidanza.	I got a pregnancy test.	Feci un test di gravidanza.	I got a pregnancy test.	Io ho fatto un test di gravidanza.	I got a pregnancy test.

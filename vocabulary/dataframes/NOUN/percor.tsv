@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+percorsi		percor	NOUN		1	1e-06	1	1e-06	percor+si	NOUN+PRON	S	nsubj	Gender=Masc|Number=Plur|Clitic=Yes|Person=3|PronType=Prs	085065fe-3a60-538b-a250-dd8785bc3638	c32e1a40-063a-5d35-aaea-4b348be3d7d2	Molti percorsi portano a Roma.	Many ways lead to Rome.				

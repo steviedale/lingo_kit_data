@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+concluderò		concluderare	VERB		1	1e-06	1	1e-06	concluderare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	f5402d66-7724-59c7-bb39-b6f762ebcfd0	88dcff41-48b2-5f8a-8cb5-8bc9248b4913	Concluderò questo lavoro per le cinque in punto.	I will finish this work by 5 o'clock.				

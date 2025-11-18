@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+antitesi		antitesi	NOUN		1	1e-06	1	1e-06	antitesi	NOUN	S	root	Gender=Fem|Number=Sing	7effa753-8b8d-5b35-8709-6f03dd92e1eb	13281caa-0d98-5751-9617-9d91449bfce0	La morte è l'antitesi della vita.	Death is the antithesis of life.				

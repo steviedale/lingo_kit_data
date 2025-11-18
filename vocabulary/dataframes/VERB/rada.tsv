@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rada		rada	VERB		2	2e-06	2	2e-06	rada	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6242408b-5f48-5a84-9365-4c2335d158f9	8fc76d37-a521-5bae-ab75-b6d671ac589a	Per piacere, mi rada la barba.	Please shave my beard.	Per favore, mi rada la barba.	Please shave my beard.		

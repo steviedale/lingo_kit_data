@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+stenografia		stenografia	NOUN		2	2e-06	2	2e-06	stenografia	NOUN	S	obj	Gender=Fem|Number=Sing	bd11484f-7f1a-5e59-bf9e-7e51faab95b1	85979ded-d341-5434-b39d-231c3b4d87d2	Ho deciso di studiare la stenografia.	I decided to study stenography.	Io ho deciso di studiare la stenografia.	I decided to study stenography.		

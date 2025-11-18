@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+esiti		esitere	VERB		4	4e-06	4	4e-06	esitere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18b6b09b-59cc-578b-afb8-a36992cb94b5	75aca572-4e49-5e36-8887-5f8a0e31991f	Allora non esiti.	So don't hesitate.	Non esiti. Parli.	Don't hesitate. Speak out.	Non esiti a chiedere informazioni.	Don't hesitate to ask for information.

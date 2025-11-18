@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sporadicamente		sporadicamente	ADV		1	1e-06	1	1e-06	sporadicamente	ADV	B	conj		9a27a33a-5774-57d5-8256-30ada5ccce48	f3631789-aded-5c10-bea7-80689cb21201	L'errore si verifica regolarmente o sporadicamente? L'errore è riproducibile?	Does the error occur regularly or sporadically? Is the error reproducible?				

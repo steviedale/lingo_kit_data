@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+venuta		venuta	NOUN		7	7e-06	7	7e-06	venuta	NOUN	S	nmod	Gender=Fem|Number=Sing	02dd5c9c-5e91-560b-82a3-2f35c9ce792e	a1a1ba8f-c710-5b04-96e4-fe7f2f26c521	Io conosco l'uomo con cui sei venuta.	I know the man you came with.	Perché non sei venuta?	Why didn't you come?	Perché sei venuta a Boston?	Why did you come to Boston?

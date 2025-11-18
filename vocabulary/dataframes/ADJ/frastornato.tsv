@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+frastornato		frastornato	ADJ		2	2e-06	3	3e-06	frastornato	ADJ	A	xcomp	Gender=Masc|Number=Sing	f7c9517c-4662-5927-a057-5d97855fc102	59ac18b7-058b-5a67-8f06-ab3cdcfb1b15	Mi sento ancora frastornato.	My head still feels woozy.	Tom si sentiva un po' frastornato.	Tom felt a bit woozy.		
+frastornata		frastornato	ADJ		1	1e-06	3	3e-06	frastornato	ADJ	A	xcomp	Gender=Fem|Number=Sing	80908ed7-2b02-5e43-a177-1e1af053a0db	59ac18b7-058b-5a67-8f06-ab3cdcfb1b15	Mi sento ancora frastornata.	My head still feels woozy.				

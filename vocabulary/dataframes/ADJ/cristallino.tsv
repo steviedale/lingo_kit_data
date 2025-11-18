@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cristallina		cristallino	ADJ		1	1e-06	1	1e-06	cristallino	ADJ	A	amod	Gender=Fem|Number=Sing	91a87c38-56ed-5432-a2b6-56fca8bb1a9e	56c53a7d-7a4d-5fcc-9632-7ccb60274a49	Questa molecola ha una struttura cristallina.	This molecule has a crystalline structure.				

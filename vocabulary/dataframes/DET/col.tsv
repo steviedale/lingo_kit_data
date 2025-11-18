@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+col		col	DET		1	1e-06	1	1e-06	col	DET	RD	det	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51c401e4-45e0-5d3f-ac78-d4a9af02ce35	997f1deb-f650-5795-b8d3-dba2cc377e7a	Col mio stupore, disapparve in un istante.	To my amazement, it disappeared in an instant.				

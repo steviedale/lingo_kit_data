@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+uniforma		uniforma	NOUN		1	1e-06	1	1e-06	uniforma	NOUN	S	obj	Gender=Fem|Number=Sing	f6eb277b-9965-56ca-9a9f-c124283153d7	861459bd-8bf7-54fb-897d-4ce192048a63	Dobbiamo indossare l'uniforma scolastica a scuola.	We have to wear school uniforms at school.				

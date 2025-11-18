@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+banner		banner	NOUN		1	1e-06	1	1e-06	banner	NOUN	S	obj	Gender=Masc	6e58a41f-a339-57ef-a5d2-7001940ac29b	ce3dd024-fada-53cd-bfe7-555ab971eafc	Se vuoi mettere il tuo banner sul mio sito, basta che mi mandi il codice.	If you want to put your banner on my site, just send me the code.				

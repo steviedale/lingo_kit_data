@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+filiale		filiale	NOUN		1	1e-06	1	1e-06	filiale	NOUN	S	nsubj:pass	Gender=Fem|Number=Sing	e9d89522-3369-5602-be8f-c7a02db151a2	ca624d8e-3621-5bb1-bad1-8590dd638a18	Una nuova filiale sarà aperta a Chicago il prossimo mese.	A new branch will be opened in Chicago next month.				

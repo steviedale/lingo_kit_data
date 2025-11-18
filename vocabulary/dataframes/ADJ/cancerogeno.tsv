@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cancerogeno		cancerogeno	ADJ		1	1e-06	1	1e-06	cancerogeno	ADJ	A	root	Gender=Masc|Number=Sing	492904ed-3059-5fdc-a22d-60e7e19cd38f	f28bd773-1281-5ed1-ac1b-5e60101f77ac	Questo è cancerogeno.	This is carcinogenic.				

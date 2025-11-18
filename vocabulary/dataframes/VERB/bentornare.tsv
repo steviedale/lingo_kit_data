@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+bentornate		bentornare	VERB		1	1e-06	1	1e-06	bentornare	VERB	V	root	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	d80a5a71-4f66-5deb-b743-ddaee7d36162	b449c539-3ada-59ad-a2f4-a52668d28aa1	Bentornate. Ci siete mancate!	Welcome back. We missed you!				

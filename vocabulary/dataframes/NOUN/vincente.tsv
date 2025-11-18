@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+vincenti		vincente	NOUN		1	1e-06	1	1e-06	vincente	NOUN	S	nsubj	Gender=Masc|Number=Plur	23c93c67-a715-5945-936f-5dc8285725f3	fbe678d6-2be4-5bb3-86fd-a71fd2d26c76	I vincenti non usano droghe.	Winners don't use drugs.				

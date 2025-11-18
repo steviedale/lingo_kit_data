@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scommessa		scommessa	NOUN		15	1.4e-05	16	1.5e-05	scommessa	NOUN	S	obj	Gender=Fem|Number=Sing	c81e7388-3d2e-5100-9160-d07be0938ef2	cd36fdd7-668f-5add-ac93-cd02ade3c2d9	Persi una scommessa.	I lost a bet.	Ho perso una scommessa.	I lost a bet.	Persi la scommessa.	I lost the bet.
+scommesse		scommessa	NOUN		1	1e-06	16	1.5e-05	scommessa	NOUN	S	nmod	Gender=Fem|Number=Plur	0f609d1e-5b3b-5ab9-902e-c293fc597981	cd36fdd7-668f-5add-ac93-cd02ade3c2d9	Tom scommesse 300$ sulla corsa.	Tom bet $300 on the race.				

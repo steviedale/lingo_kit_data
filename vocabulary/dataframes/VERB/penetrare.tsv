@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+penetrano		penetrare	VERB		1	1e-06	1	1e-06	penetrare	VERB	V	root	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3ab8b7ea-0a96-5f4a-b82e-d68dbee993bd	106be8f8-38b9-5d4d-8c17-b9809efc66c8	Le microonde penetrano il cibo nel forno.	Microwaves penetrate the food in the oven.				

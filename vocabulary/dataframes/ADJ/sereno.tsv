@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+serena		sereno	ADJ		1	1e-06	1	1e-06	sereno	ADJ	A	amod	Gender=Fem|Number=Sing	148ef05a-363d-51ec-a386-f192ace3ef1e	e2b4dd19-2132-517a-a21c-68a88e7e874e	Ricordati di mantenere la mente serena.	Remember to keep your mind calm.				

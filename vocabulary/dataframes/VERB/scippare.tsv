@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scippato		scippare	VERB		1	1e-06	1	1e-06	scippare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	51794f08-3a60-559f-97ec-ec36fcc82f44	03c9fa2a-d6e5-59c6-92f5-cc57c72c725f	Mi ha scippato la borsa.	He robbed me of my bag.				

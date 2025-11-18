@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+estremisti		estremista	NOUN		1	1e-06	1	1e-06	estremista	NOUN	S	nsubj	Gender=Masc|Number=Plur	c1d58778-61b9-5398-90d1-c8daee8ea7bf	90a65ada-5fc1-5bfa-9073-fcbc9e943225	Gli estremisti hanno rapito la moglie del presidente.	Extremists kidnapped the president's wife.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+danzerò		danzerare	VERB		4	4e-06	4	4e-06	danzerare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	7f12c285-dbf9-5f9e-bc87-4509c018597a	59fac172-7450-5642-ac78-33132aa51e68	Io danzerò con Tom.	I'll dance with Tom.	Danzerò con Tom.	I'll dance with Tom.	Non danzerò.	I won't dance.

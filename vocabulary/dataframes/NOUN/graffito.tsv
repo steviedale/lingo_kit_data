@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+graffito		graffito	NOUN		1	1e-06	1	1e-06	graffito	NOUN	S	root	Gender=Masc|Number=Sing	31fac8dd-9d62-50d3-92ca-6739d3efaf68	348a13f9-614e-55f0-8535-f396aa6fa860	Non è un graffito, è Banksy!	It's not graffiti; it's Banksy!				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+riposatevi		riposatevere	VERB		1	1e-06	1	1e-06	riposatevere	VERB	V	root	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	22c88a6f-7a34-5e0d-95a3-2a3d2136b45b	5c387e4e-6d48-5f55-929e-0405ea1a7085	Andate a casa. Riposatevi un po'.	Go home. Get some rest.				

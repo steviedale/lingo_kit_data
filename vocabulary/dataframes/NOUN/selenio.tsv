@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+selenio		selenio	NOUN		1	1e-06	1	1e-06	selenio	NOUN	S	conj	Gender=Masc|Number=Sing	612f76f4-8ee5-5d97-bcc7-abba343f0d76	0cc583c6-2e50-55cf-9f9c-be8a2b3f2f8b	L'idrogeno, il carbonio, l'azoto, il fosforo, l'ossigeno, lo zolfo e il selenio sono dei non metalli.	Hydrogen, carbon, nitrogen, phosphorus, oxygen, sulfur and selenium are nonmetals.				

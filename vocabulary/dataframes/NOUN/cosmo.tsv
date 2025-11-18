@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cosmo		cosmo	NOUN		1	1e-06	1	1e-06	cosmo	NOUN	S	nmod	Gender=Masc|Number=Sing	1cf7f2df-1181-5d1e-8610-62837d9c27d4	b8f03394-197a-55b8-8add-3ae6dafa1227	Osservare le onde gravitazionali aprirà una nuova fase nello studio del cosmo.	The observation of gravitational waves will start a new phase in the study of the universe.				

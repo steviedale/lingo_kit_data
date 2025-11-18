@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+timpano		timpano	NOUN		1	1e-06	1	1e-06	timpano	NOUN	S	obl	Gender=Masc|Number=Sing	7de8ac50-f70c-59d0-b930-d493a714053f	d5004fa3-9b6b-5e9c-9691-f06711a51b0a	Il condotto uditivo invia le onde sonore al timpano.	The ear canal sends sound waves to the eardrum.				

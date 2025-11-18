@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sposalo		sposalo	VERB		1	1e-06	1	1e-06	sposalo	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	44bf4cb1-55d7-5642-8454-55f2e1ad3476	6a2a7aa3-f52a-5d40-8384-ea415aad163c	Se ami Tatoeba, allora sposalo!	If you love Tatoeba, then marry it!				

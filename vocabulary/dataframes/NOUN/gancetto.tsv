@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+gancetto		gancetto	NOUN		1	1e-06	1	1e-06	gancetto	NOUN	S	nsubj	Gender=Masc|Number=Sing	7afc1b48-c579-5bc8-b557-60df0509c124	751620f7-3e9a-5a12-9339-8c28dcceac23	Il gancetto non si vuol chiudere.	This clasp won't fasten.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pulpito		pulpito	NOUN		3	3e-06	3	3e-06	pulpito	NOUN	S	obl	Gender=Masc|Number=Sing	eae9cc28-94fe-5966-83ad-3811347e49dd	bc019d8e-cec7-5467-9057-2b0eb517dcef	Da che pulpito viene la predica!	The pot calls the kettle black!	Da che pulpito!	The pot calls the kettle black!	Senti da che pulpito viene la predica!	The pot calls the kettle black!

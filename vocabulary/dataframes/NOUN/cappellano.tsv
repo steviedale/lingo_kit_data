@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cappellano		cappellano	NOUN		1	1e-06	1	1e-06	cappellano	NOUN	S	nsubj	Gender=Masc|Number=Sing	a95671b2-11fd-5aa6-93de-ceabdc623e3b	05714272-4fec-5763-b093-87db09b6841f	Il cappellano ascoltò con comprensione il suo parrocchiano.	The chaplain listened sympathetically to his parishioner.				

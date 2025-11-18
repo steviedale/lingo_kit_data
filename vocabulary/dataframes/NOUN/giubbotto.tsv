@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+giubbotto		giubbotto	NOUN		1	1e-06	1	1e-06	giubbotto	NOUN	S	nmod	Gender=Masc|Number=Sing	aa26390f-3bfb-5fce-b735-446539463ddb	c2167316-f2d3-5b7a-bf8c-d46bc1005a94	In inverno indosso un cappotto sulla parte superiore del mio giubbotto.	In the winter I wear a coat on top of my vest.				

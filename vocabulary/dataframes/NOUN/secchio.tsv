@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+secchio		secchio	NOUN		13	1.2e-05	13	1.2e-05	secchio	NOUN	S	obl	Gender=Masc|Number=Sing	a5b38fa0-8f35-5f26-8139-312336d1cdd0	8c2ee44f-7ced-5727-a3bd-2ddfaf14f3dc	Portatemi un secchio d'acqua.	Bring me a bucket of water.	Mi porti un secchio d'acqua.	Bring me a bucket of water.	Ho riempito il secchio d'acqua.	I filled the bucket with water.

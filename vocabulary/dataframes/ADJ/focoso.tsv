@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+focoso		focoso	ADJ		1	1e-06	1	1e-06	focoso	ADJ	A	root	Gender=Masc|Number=Sing	03f19e3c-adf7-5f61-be8d-79d2daadc2ce	1aa22f1f-0f20-56b8-87bc-303b16a1d75d	Tom è focoso.	Tom is hot.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+lungi		lungi	ADJ		1	1e-06	1	1e-06	lungi	ADJ	A	root	Gender=Masc|Number=Plur	db28a43d-d055-5e2f-8ff7-48e7bafa0278	22e9b6f1-6738-5779-9d09-82cb2d8c90a9	La sua idea è ben lungi dall'essere soddisfacente per noi.	His idea is far from satisfactory to us.				

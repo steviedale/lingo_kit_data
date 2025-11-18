@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+penti		pentare	VERB		1	1e-06	1	1e-06	pentare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	060a933a-3936-5e4f-ba30-7b0c172dcfa9	67e186df-4e65-54dc-aa84-5718e157a362	E se poi te ne penti?	What if you regret it?				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+aristocrazia		aristocrazia	NOUN		1	1e-06	1	1e-06	aristocrazia	NOUN	S	xcomp	Gender=Fem|Number=Sing	357cf33d-e6b8-592d-9ac0-e18866e55833	f8911f0c-5748-5acc-9d57-2fdb61db3b1a	Nancy viene da quella che chiamiamo aristocrazia.	Nancy comes from what we call the aristocracy.				

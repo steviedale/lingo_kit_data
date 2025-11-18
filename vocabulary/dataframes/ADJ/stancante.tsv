@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+stancante		stancante	ADJ		4	4e-06	4	4e-06	stancante	ADJ	A	root	Number=Sing	e18a2db8-86fd-5f34-af77-4a38d5e54944	4a5f60cc-e8f5-51ad-a9fa-fda1c4c9337c	Il viaggio fu stancante.	The trip was exhausting.	La giornata è stata stancante.	The day was exhausting.	La giornata fu stancante.	The day was exhausting.

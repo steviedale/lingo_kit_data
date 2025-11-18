@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scoperto		scoperto	NOUN		1	1e-06	1	1e-06	scoperto	NOUN	S	obl	Gender=Masc|Number=Sing	78a8c37e-0bcf-5754-b432-4144f1c007b5	36e3ed4d-7e94-5a3e-9349-f6a0181c901c	Prima o poi la verità verrà allo scoperto.	Sooner or later the truth will come out.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+virgolette		virgoletta	NOUN		2	2e-06	2	2e-06	virgoletta	NOUN	S	obl	Gender=Fem|Number=Plur	0faf83b3-b75d-5618-8805-d78468b262b7	0c0dcba0-ab46-577a-92c9-5143da2a53e3	Mi sembra migliore senza le virgolette.	It seems to me better without the quotation marks.	Le virgolette sono superflue.	The quotation marks are superfluous.		

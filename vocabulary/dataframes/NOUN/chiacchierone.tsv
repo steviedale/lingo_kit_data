@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+chiacchierone		chiacchierone	NOUN		2	2e-06	2	2e-06	chiacchierone	NOUN	S	root	Gender=Masc|Number=Sing	bf8eaa07-f952-5d9e-99a9-99dc8f346255	b9204b41-b958-59eb-ba89-0abe3b9c6757	Sono un tale chiacchierone.	I'm such a blabbermouth.	Io sono un tale chiacchierone.	I'm such a blabbermouth.		

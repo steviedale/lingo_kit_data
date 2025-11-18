@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fermiamoci		fermiamoci	VERB		3	3e-06	3	3e-06	fermiamoci	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	b2e6d384-77fa-549d-aac3-887b3ccd7994	1d360a3b-56a1-5298-a102-dbbd4c4f4f8e	Fermiamoci qua.	Let's stop here.	Fermiamoci qui.	Let's stop here.	Fermiamoci e facciamo una pausa.	Let's stop and take a rest.

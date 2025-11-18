@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sceglierò		sceglierare	VERB		1	1e-06	1	1e-06	sceglierare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	05b1df22-ea54-535a-9c43-45a91813481b	b160c5d4-93c5-554b-af1f-e0478736f471	Chi sceglierò?	Who shall I choose?				

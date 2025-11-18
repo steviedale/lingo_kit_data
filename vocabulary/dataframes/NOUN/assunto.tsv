@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+assunto		assunto	NOUN		1	1e-06	1	1e-06	assunto	NOUN	S	obj	Gender=Masc|Number=Sing	fa46230e-d497-5873-b347-d716fff7bcc5	f866088a-f320-508d-b01c-26bb94ab424a	Ho un assunto urgente di cui occuparmi.	I have an urgent matter to attend to.				

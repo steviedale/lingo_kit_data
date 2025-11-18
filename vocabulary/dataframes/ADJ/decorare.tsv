@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+decorato		decorare	ADJ		1	1e-06	1	1e-06	decorare	ADJ	A	amod	Gender=Masc|Number=Sing	0b2de73f-f64f-5d78-994d-0b0393b2d8bb	9f28affc-cdbf-5464-8330-25baf9861731	Tom è un eroe di guerra decorato.	Tom is a decorated war hero.				

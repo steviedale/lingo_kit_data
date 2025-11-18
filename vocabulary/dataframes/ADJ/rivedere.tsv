@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+riveduto		rivedere	ADJ		1	1e-06	1	1e-06	rivedere	ADJ	A	amod	Gender=Masc|Number=Sing	a4d24c86-0b13-558c-a20e-c2bebb2549c6	cee59fb1-4deb-5880-9d56-595260c7ff29	Il mio supervisore guardò il calendario riveduto e annuì.	My supervisor looked at the revised schedule and nodded his agreement.				

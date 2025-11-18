@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+stressati		stressati	ADJ		2	2e-06	2	2e-06	stressati	ADJ	A	xcomp	Gender=Masc|Number=Plur	8b807f25-1684-502f-987e-caa79f0412c2	a5368e00-d5b7-522a-bcff-02aa42ac74c5	Sembravate stressati.	You seemed stressed.	Sembrate stressati.	You seem stressed.		

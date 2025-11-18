@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ottoni		ottone	NOUN		2	2e-06	3	3e-06	ottone	NOUN	S	nmod	Gender=Masc|Number=Plur	1606d738-4a10-57ee-bad6-dac624bcfb6a	72bfa9df-5b6e-52fd-9189-56610bf3c75d	Appartiene alla banda degli ottoni.	He belongs to the brass band.	Lui appartiene alla banda degli ottoni.	He belongs to the brass band.		
+ottone		ottone	NOUN		1	1e-06	3	3e-06	ottone	NOUN	S	nsubj	Gender=Masc|Number=Sing	1858be38-05dc-5a18-837c-01b8a3cf549a	72bfa9df-5b6e-52fd-9189-56610bf3c75d	L'ottone è una lega di rame e zinco.	Brass is an alloy of copper and zinc.				

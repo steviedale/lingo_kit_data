@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+abolì		abolare	VERB		1	1e-06	2	2e-06	abolare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	456474ca-dd45-5b45-a9b6-213a360fbf3a	f529871d-dda4-5519-a5d0-0f1e2882ce9d	Il presidente abolì la schiavitù.	The president abolished slavery.				
+aboliamo		abolare	VERB		1	1e-06	2	2e-06	abolare	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12aee9d9-bfff-5bb7-bf25-17e665107646	f529871d-dda4-5519-a5d0-0f1e2882ce9d	Aboliamo il calcio!	Let's abolish football!				

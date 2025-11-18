@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sci		sci	NOUN		19	1.8e-05	19	1.8e-05	sci	NOUN	S	nmod	Gender=Masc	a40b030a-0c16-5cf0-b206-b53f3faf360b	5e836a56-1513-5111-985c-606bd2c6c2b9	Io sono appassionata di sci.	I am fond of skiing.	Sono appassionata di sci.	I am fond of skiing.	Sono stata un'istruttrice di sci per tre anni.	I've been a ski instructor for three years.

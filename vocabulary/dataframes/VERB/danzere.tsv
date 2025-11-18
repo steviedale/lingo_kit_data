@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+danzerete		danzere	VERB		1	1e-06	1	1e-06	danzere	VERB	V	root	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	a48a5b6c-04cf-5b7c-8e27-4daca526e9fd	dc45364e-d69f-5da0-a694-dd11cc4687f2	Danzerete con me?	Are you going to dance with me?				

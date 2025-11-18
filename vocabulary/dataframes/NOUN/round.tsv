@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+round		round	NOUN		1	1e-06	1	1e-06	round	NOUN	S	obl	Gender=Masc	e104c05b-6cf5-5c42-bcc1-a8962c500ce6	10628c92-82f6-5268-b06d-ac29f49351ff	Tom è andato al tappeto al decimo round.	Tom was knocked out in the tenth round.				

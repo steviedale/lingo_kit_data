@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+recitazione		recitazione	NOUN		2	2e-06	2	2e-06	recitazione	NOUN	S	nsubj	Gender=Fem|Number=Sing	701fbf80-fff1-5607-8be5-48b08fcd874b	f830d871-8e24-5f41-a796-6525f3107373	La recitazione di Kenichi Matsuyama è molto buona.	Kenichi Matsuyama's acting is very good.	La recitazione è molto buona.	The acting is very good.		

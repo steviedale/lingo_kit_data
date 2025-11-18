@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+accompagnamento		accompagnamento	NOUN		1	1e-06	1	1e-06	accompagnamento	NOUN	S	root	Gender=Masc|Number=Sing	2052177b-b8f3-5a5a-aed9-2c1310757b19	65d8fed1-db26-59de-abd6-c4d5a8d8799b	Il tofu è un buon accompagnamento per il sake.	Tofu is a good accompaniment for sake.				

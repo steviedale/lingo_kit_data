@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+boschivi		boschivo	ADJ		1	1e-06	1	1e-06	boschivo	ADJ	A	amod	Gender=Masc|Number=Plur	351ec935-79e3-5fb4-9549-07a7f6085629	4915cdaf-336c-5dee-b1a7-5480e47a097c	Ci sono molti incendi boschivi in America.	There are a great many forest fires in America.				

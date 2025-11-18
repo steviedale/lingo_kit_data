@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+vinili		vinile	NOUN		1	1e-06	1	1e-06	vinile	NOUN	S	nmod	Gender=Masc|Number=Plur	c5d61efc-c577-5ff2-bbc6-0c310e69c051	15728cc4-bf86-5cfc-83e7-0ce824fbbe74	I CD hanno preso il posto dei vinili.	CDs have taken the place of records.				

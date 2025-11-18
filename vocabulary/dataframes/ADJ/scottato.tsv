@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scottato		scottato	ADJ		1	1e-06	2	2e-06	scottato	ADJ	A	amod	Gender=Masc|Number=Sing	3377c04d-8aec-5c0d-8e8d-1590906e9ac1	023615c7-052e-586e-b615-4c5e0b235307	Il gatto scottato teme l'acqua fredda.	A burnt child dreads the fire.				
+scottata		scottato	ADJ		1	1e-06	2	2e-06	scottato	ADJ	A	amod	Gender=Fem|Number=Sing	32afed4d-a106-5504-80f8-045790d391ab	023615c7-052e-586e-b615-4c5e0b235307	Una volta scottata, la seconda volta fai più attenzione.	A burnt child dreads the fire.				

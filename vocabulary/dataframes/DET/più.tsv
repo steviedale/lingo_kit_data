@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+più		più	DET		4	4e-06	4	4e-06	più	DET	DI	det	PronType=Ind	765b7e11-a23a-540c-9056-7c093496d6b0	1b563e18-8b17-5b3d-81cb-8b7206ef49c7	Deve mangiare più fibre.	You need to eat more fiber.	Dobbiamo aspettare finché non abbiamo più informazioni.	We have to wait until we have more information.	Ha più libri.	She's got more books.

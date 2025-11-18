@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+famigerata		famigerato	ADJ		1	1e-06	2	2e-06	famigerato	ADJ	A	amod	Gender=Fem|Number=Sing	d3ae8f61-6561-5b69-ae48-d05dc5f4c0b9	25ec17c6-1658-5d11-ac2e-7c9eef34f266	L'espressione del 2011 più famigerata è Omicidi del kebab.	Year 2011's most notorious expression is Kebab murders.				
+famigerato		famigerato	ADJ		1	1e-06	2	2e-06	famigerato	ADJ	A	amod	Gender=Masc|Number=Sing	827ef266-a422-5ada-b25b-da3022c4f1b2	25ec17c6-1658-5d11-ac2e-7c9eef34f266	Barbanera era un famigerato pirata inglese.	Blackbeard was a notorious English pirate.				

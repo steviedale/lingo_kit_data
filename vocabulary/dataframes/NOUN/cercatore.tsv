@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cercatrice		cercatore	NOUN		1	1e-06	1	1e-06	cercatore	NOUN	S	root	Gender=Fem|Number=Sing	af57a429-6409-5154-9b0b-f2a47c993774	b207216c-1b1a-5db6-8467-61bc737e9a4c	Mary è una cercatrice d'oro.	Mary is a gold digger.				

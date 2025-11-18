@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tirchio		tirchio	ADJ		3	3e-06	3	3e-06	tirchio	ADJ	A	root	Gender=Masc|Number=Sing	2acc2154-0a66-5981-bfd2-bfbc708fef19	306ffcaa-a9a8-5dd9-83fe-f2a04c3289cd	Io penso che Tom sia tirchio.	I think Tom is greedy.	Penso che Tom sia tirchio.	I think Tom is greedy.	Tom è tirchio.	Tom is stingy.

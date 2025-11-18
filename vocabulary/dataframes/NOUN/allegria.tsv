@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+allegria		allegria	NOUN		2	2e-06	2	2e-06	allegria	NOUN	S	obl	Gender=Fem|Number=Sing	7e1be73e-0a52-55c3-bd7f-ec12b142f744	9080c0aa-cd02-54cf-b3ed-2a5fadb0b559	Sita ha sorriso con allegria.	Sita smiled pleasantly.	Sita sorrise con allegria.	Sita smiled pleasantly.		

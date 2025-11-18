@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+chiamiate		chiamiare	VERB		1	1e-06	1	1e-06	chiamiare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	f84cd4f9-8c1b-5738-a4b4-eaa9fea6df3c	45b777d3-0335-5afe-8fc0-c783c9104e97	Voglio che chiamiate la polizia.	I want you to call the police.				

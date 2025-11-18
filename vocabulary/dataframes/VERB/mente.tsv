@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+mente		mente	VERB		3	3e-06	3	3e-06	mente	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	a3b43e5a-5613-5774-86c6-0c3bf6673990	e61247ae-1c0a-50a7-a005-81d364997a4f	Lei non mente mai.	She never lies.	Tom non mente quasi mai a Mary.	Tom almost never lies to Mary.	Lui non mente mai.	He never lies.

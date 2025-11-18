@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+alchimia		alchimia	NOUN		1	1e-06	1	1e-06	alchimia	NOUN	S	obj	Gender=Fem|Number=Sing	1289d699-923d-5752-9572-4d280805eae1	1244da7c-b32c-516c-94ad-0aad5e32461e	Il dottor Faust conosceva molto bene l'alchimia.	Dr. Faust was well versed in alchemy.				

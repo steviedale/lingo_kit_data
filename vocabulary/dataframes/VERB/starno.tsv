@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+starnutì		starno	VERB		1	1e-06	1	1e-06	starno	VERB	V	advcl	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	ca647909-d985-59e8-9ce4-8b2895e4ccd7	53e88187-ea09-5fb6-bec0-196f258151ba	Tom si coprì la bocca quando starnutì.	Tom covered his mouth when he sneezed.				

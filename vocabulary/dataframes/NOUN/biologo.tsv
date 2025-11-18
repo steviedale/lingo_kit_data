@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+biologo		biologo	NOUN		4	4e-06	4	4e-06	biologo	NOUN	S	root	Gender=Masc|Number=Sing	35bc3cb1-7d72-56be-8d5e-46a95fa2a8ff	58947f12-5484-5db1-9744-bef905648b9b	È un biologo.	He is a biologist.	È biologo.	He is a biologist.	Lui è un biologo marino.	He's a marine biologist.

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+misantropo		misantropo	NOUN		2	2e-06	2	2e-06	misantropo	NOUN	S	root	Gender=Masc|Number=Sing	da4eb7f5-5d00-5a14-ae47-c6333cf3ab37	6b5de5fb-93e0-59fa-9845-102b8738e694	Tu sei un misantropo convinto.	You're a complete misanthrope.	Sei un misantropo convinto.	You're a complete misanthrope.		

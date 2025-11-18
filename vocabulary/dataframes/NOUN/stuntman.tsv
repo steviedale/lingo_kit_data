@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+stuntman		stuntman	NOUN		2	2e-06	2	2e-06	stuntman	NOUN	S	root	Gender=Masc	9c8d6db3-bb8a-525e-a085-2341cc499367	632181bb-5cf7-5ed6-b818-28bf8d516695	Sono uno stuntman.	I'm a stuntman.	Io sono uno stuntman.	I'm a stuntman.		

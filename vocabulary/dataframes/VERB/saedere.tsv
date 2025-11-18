@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+siedi		saedere	VERB		1	1e-06	1	1e-06	saedere	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	eed4bf6e-5610-50a1-9cd0-f5fd4d301c4e	2a3504d4-d5b8-5cc3-ace2-9d2d1448f4de	Perché non ti siedi qui un momento?	Why don't you sit here a moment?				

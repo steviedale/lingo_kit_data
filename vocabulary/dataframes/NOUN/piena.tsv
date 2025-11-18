@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+piena		piena	NOUN		2	2e-06	2	2e-06	piena	NOUN	S	obl:agent	Gender=Fem|Number=Sing	a46360a5-065a-5200-8a8c-c177617ea79b	779b027d-8260-5757-a442-1ab35fac889a	La casa fu portata via dalla piena.	The house was carried away by the flood.	La casa è stata portata via dalla piena.	The house was carried away by the flood.		

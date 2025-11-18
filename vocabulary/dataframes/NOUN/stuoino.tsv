@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+stuoino		stuoino	NOUN		2	2e-06	2	2e-06	stuoino	NOUN	S	obl	Gender=Masc|Number=Sing	42071ab1-fb40-5760-98ee-a08a9d410a90	f78b9deb-60d0-59ab-9ab7-283ce9b72a3a	Ho trovato le chiavi sotto lo stuoino.	I found the keys underneath the mat.	Ho trovato la chiave sotto lo stuoino.	I found the key underneath the mat.		

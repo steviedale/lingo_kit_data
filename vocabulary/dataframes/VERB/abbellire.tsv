@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+abbellirsi		abbellire	VERB		1	1e-06	1	1e-06	abbellire+si	VERB+PRON	V	xcomp	VerbForm=Inf|Clitic=Yes|Person=3|PronType=Prs	d1e50790-021b-5bfb-893b-151304259260	3c3dc267-723a-5f66-95f5-38eff27cf167	Ha iniziato ad abbellirsi.	She began to prettify herself.				

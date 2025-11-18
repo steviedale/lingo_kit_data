@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sovraccopertina		sovraccopertina	NOUN		1	1e-06	1	1e-06	sovraccopertina	NOUN	S	nmod	Gender=Fem|Number=Sing	925ed8f5-d44f-554a-86dc-dd6ddd652910	d9a6b458-4698-5fd2-9209-9c0cbb16f459	C'erano alcune macchie di inchiostro sulla sovraccopertina del libro.	There were some ink spots on the book jacket.				

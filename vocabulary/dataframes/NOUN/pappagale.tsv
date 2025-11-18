@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pappagali		pappagale	NOUN		1	1e-06	1	1e-06	pappagale	NOUN	S	nsubj	Gender=Masc|Number=Plur	d350e5a2-a014-5ad3-b409-4777bdcae35d	e66ca06f-7478-5864-ae89-125bb6a7f72d	I pappagali imitano il discorso umano.	Parrots imitate human speech.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pesticidi		pesticida	NOUN		1	1e-06	1	1e-06	pesticida	NOUN	S	obj	Gender=Masc|Number=Plur	b74f692b-b7d9-5ab2-843d-62520ff0f40d	9710e24c-503a-513f-a7a0-73876bdc4c7f	Attraverso l'ingegneria genetica, il granturco può produrre i propri stessi pesticidi.	Through genetic engineering, corn can produce its own pesticides.				

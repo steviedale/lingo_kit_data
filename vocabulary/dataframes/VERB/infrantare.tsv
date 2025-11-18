@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+infranto		infrantare	VERB		13	1.2e-05	13	1.2e-05	infrantare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	b5d3911e-16e8-575e-a40e-d531236772c7	0ba26b9e-080c-5059-96a3-3e5c0ab7cd29	Avete infranto delle leggi?	Did you break any laws?	Hai infranto la legge.	You broke the law.	Ha infranto la sua promessa.	He broke his promise.

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+matta		matto	VERB		1	1e-06	1	1e-06	matto	VERB	V	xcomp	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	e74ec732-3ede-5b85-a0dd-f597702006f0	a24b4119-d247-53dc-b224-05fc65469a7e	Vado matta per il football.	I'm crazy about football.				

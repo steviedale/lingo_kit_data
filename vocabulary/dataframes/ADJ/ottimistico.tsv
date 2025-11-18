@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ottimistico		ottimistico	ADJ		4	4e-06	4	4e-06	ottimistico	ADJ	A	root	Gender=Masc|Number=Sing	57373e45-8a32-506a-9b8b-f1ce1dc0e7aa	9b071525-c857-56ba-8a15-102003a5a786	Ciò è enormemente ottimistico.	This is wildly optimistic.	Ciò è estremamente ottimistico.	This is wildly optimistic.	Questo è enormemente ottimistico.	This is wildly optimistic.

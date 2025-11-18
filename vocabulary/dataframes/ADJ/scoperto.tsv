@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scoperto		scoperto	ADJ		1	1e-06	1	1e-06	scoperto	ADJ	A	amod	Gender=Masc|Number=Sing	c3bf4ae6-509c-5ca7-a0a8-b28503781f61	fd5cf09b-02be-5f6f-8e44-5be0c939cdb1	Penso di aver toccato un nervo scoperto.	I think I touched a nerve.				

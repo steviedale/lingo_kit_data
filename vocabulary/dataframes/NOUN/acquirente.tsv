@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+acquirenti		acquirente	NOUN		1	1e-06	1	1e-06	acquirente	NOUN	S	nsubj	Number=Plur	5ec11af8-caf6-58d9-b88b-7d10f1782caa	f1ed80dd-af7a-5379-8f30-d7b5256bc561	I potenziali acquirenti non potevano fare testa o croce riguardo al contratto.	Prospective buyers couldn't make heads or tails out of the contract.				

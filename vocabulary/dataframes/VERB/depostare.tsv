@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+deposta		depostare	VERB		1	1e-06	1	1e-06	depostare	VERB	V	conj	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4486bc92-341f-5097-a6b4-cfa141ae188a	01088676-cf8b-52f0-9ace-802cb07a9626	La monarchia francese sembrava invincibile, però è stata deposta.	The French monarchy seemed invincible; however, it was overthrown.				

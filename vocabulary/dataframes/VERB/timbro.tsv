@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+timbro		timbro	VERB		1	1e-06	1	1e-06	timbro	VERB	V	ccomp	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	54c4a58e-d370-5058-8678-1a0c0d1c9d18	724025c6-bd6c-597f-9fc3-3d35af176a40	È la prima volta che timbro un documento.	This is the first time I've ever stamped a document.				

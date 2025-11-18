@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pedante		pedante	NOUN		1	1e-06	1	1e-06	pedante	NOUN	S	root	Gender=Masc|Number=Sing	b5317ca1-9623-56b6-9dfb-0d87857b9dbc	1ca079f1-6a0f-5f27-8939-da75bf383b33	Sei un pedante.	You are pedantic.				

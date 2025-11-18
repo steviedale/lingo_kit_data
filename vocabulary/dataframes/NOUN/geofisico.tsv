@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+geofisico		geofisico	NOUN		1	1e-06	1	1e-06	geofisico	NOUN	S	nsubj	Gender=Masc|Number=Sing	6752b58f-106d-5704-9af5-7e94a46b42f3	4ca6759a-4ebe-5b95-b45b-3a100406467f	Il geofisico insegna nella scuola.	The geophysicist teaches in the school.				

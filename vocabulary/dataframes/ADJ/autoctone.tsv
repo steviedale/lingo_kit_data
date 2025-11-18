@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+autoctona		autoctone	ADJ		1	1e-06	1	1e-06	autoctone	ADJ	A	root	Gender=Fem|Number=Sing	cd67ce22-0b26-50be-8853-5d28b19ed647	5c0d7d38-6f11-5b21-86f4-e13d87c22f7b	Questa pianta è autoctona in Canada.	This plant is indigenous to Canada.				

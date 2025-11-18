@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+riccio		riccio	ADJ		1	1e-06	1	1e-06	riccio	ADJ	A	amod	Gender=Masc|Number=Sing	d590b1db-44b3-58d4-9617-a5ef1ed3e10c	3e2d581f-01de-5ef1-af2f-deac4971955e	Le patatine di cavolo riccio danno dipendenza.	Kale chips are addictive.				

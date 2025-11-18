@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+biscottino		biscottino	NOUN		6	6e-06	6	6e-06	biscottino	NOUN	S	obj	Gender=Masc|Number=Sing	7f9c8823-245c-59a6-a16f-61a869667586	b923fe8c-2627-5e67-8e02-e1a78cbeb6d0	Vuoi un biscottino?	Do you want a cookie?	Volevi un biscottino?	Did you want a cookie?	Vuole un biscottino?	Do you want a cookie?

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ingordo		ingordo	ADJ		5	5e-06	5	5e-06	ingordo	ADJ	A	root	Gender=Masc|Number=Sing	7f1921d4-d322-5205-b883-e6f21edcb66a	31b063d9-191a-50a6-8674-50c4b20dbe1c	Io penso che Tom sia ingordo.	I think Tom is greedy.	Tom è ingordo.	Tom's greedy.	Lui è ingordo e spietato.	He's greedy and ruthless.

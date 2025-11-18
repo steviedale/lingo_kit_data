@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rettangolo		rettangolo	NOUN		2	2e-06	2	2e-06	rettangolo	NOUN	S	nmod	Gender=Masc|Number=Sing	c79b809b-ad30-5d23-88a7-5ce86769e5cc	4d74685e-547d-55f9-b970-ebee67f84a39	Il quadrato è un tipo di rettangolo, e il rettangolo è un tipo di parallelogramma.	A square is one type of rectangle, and a rectangle is one type of parallelogram.				

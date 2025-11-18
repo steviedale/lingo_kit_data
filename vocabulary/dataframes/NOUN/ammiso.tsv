@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ammisi		ammiso	NOUN		3	3e-06	3	3e-06	ammiso	NOUN	S	root	Gender=Masc|Number=Sing	146f6d41-1113-5396-8451-bf23cb154703	31cfd1be-b331-551e-a538-18efb01c02a1	Ammisi che lei aveva ragione.	I admitted that she was right.	Ammisi che aveva ragione.	I admitted that she was right.	Ammisi che lui aveva ragione.	I admitted that he was right.

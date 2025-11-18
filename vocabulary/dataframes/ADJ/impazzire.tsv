@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+impazzito		impazzire	ADJ		3	3e-06	3	3e-06	impazzire	ADJ	A	root	Gender=Masc|Number=Sing	c7d84f04-6fae-5871-aae3-9772e9567b78	eaf2fe32-de6e-560d-9748-1990b0ea4749	È impazzito?	Has he become crazy?	Tom è impazzito?	Has Tom become crazy?	Tom è impazzito.	Tom went bonkers.

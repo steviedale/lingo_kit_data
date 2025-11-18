@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+preoccupiate		preoccupiare	VERB		2	2e-06	2	2e-06	preoccupiare	VERB	V	ccomp	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5ccf3283-be72-5838-bad0-d5c699503cdd	1c039b8e-82b2-56a8-aebb-6a8909838627	Penso che vi preoccupiate troppo.	I think you worry too much.	Penso che voi vi preoccupiate troppo.	I think you worry too much.		

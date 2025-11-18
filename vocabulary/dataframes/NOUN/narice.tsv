@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+narice		narice	NOUN		1	1e-06	1	1e-06	narice	NOUN	S	obl	Gender=Fem|Number=Sing	f93c4fed-bbea-5b7e-9925-9ab155f3cd08	52638af6-d496-5f7b-b2a2-5f1f087ccbd0	C'è un pisello nella mia narice destra.	There's a pea in my right nostril.				

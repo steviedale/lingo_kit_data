@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+parapendista		parapendista	NOUN		2	2e-06	2	2e-06	parapendista	NOUN	S	nsubj	Gender=Masc|Number=Sing	2bc2c460-e7e9-5642-8f0e-39c7821dd6c1	471339c3-cd13-58c5-b8d3-8a867cbce7f9	Il parapendista è atterrato nell'albero.	The paraglider landed in the tree.	Il parapendista atterrò nell'albero.	The paraglider landed in the tree.		

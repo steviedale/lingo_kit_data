@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+secchi		secco	NOUN		2	2e-06	2	2e-06	secco	NOUN	S	obj	Gender=Masc|Number=Plur	d12ddc1d-beb2-51e8-92af-d4c02ceaf729	ae0f1219-e993-5a19-b4c4-78be240f3245	Tom riempì entrambi i secchi d'acqua.	Tom filled both buckets with water.	Tom ha riempito entrambi i secchi d'acqua.	Tom filled both buckets with water.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+organico		organico	ADJ		1	1e-06	1	1e-06	organico	ADJ	A	amod	Gender=Masc|Number=Sing	3c34d2e3-a869-5eb7-a8c4-4df2ef7f1458	23b3caa2-9a39-5bfa-b970-6b27c2f97a5c	Il carbonato di ammonio è un composto organico.	Ammonium carbonate is an organic compound.				

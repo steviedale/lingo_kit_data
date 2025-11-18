@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sottovalutato		sottovalutare	ADJ		1	1e-06	1	1e-06	sottovalutare	ADJ	A	amod	Gender=Masc|Number=Sing	51cab1e6-d55f-5139-bfd3-bde909c4642f	3ffb5c01-d982-5110-aa09-15c0b6c37650	In Germania la mafia italiana è un problema sottovalutato.	In Germany, the Italian mafia is an underestimated problem.				

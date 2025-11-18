@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+storico		storico	NOUN		3	3e-06	3	3e-06	storico	NOUN	S	nmod	Gender=Masc|Number=Sing	e160aa3b-88e1-515f-b1a0-c88a151152c3	22b8d0eb-8138-585d-b70f-65744bf9ddcc	Lui è uno storico.	He's a historian.	È uno storico.	He's a historian.	Qual è il compito dello storico?	What's the historian's duty?

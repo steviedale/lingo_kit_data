@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+echeggia		echeggiare	VERB		1	1e-06	2	2e-06	echeggiare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	d2433f03-7e17-5576-897d-b5fabbae9cc9	ea757fe9-6456-5cb5-90c3-2ea11b47d484	La stanza echeggia con la sua voce.	The room echoes with his voice.				
+echeggiano		echeggiare	VERB		1	1e-06	2	2e-06	echeggiare	VERB	V	root	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6aa0412f-2959-584e-8ef3-32c09c0cd551	ea757fe9-6456-5cb5-90c3-2ea11b47d484	Le grida echeggiano forte.	The shouting echoes loudly.				

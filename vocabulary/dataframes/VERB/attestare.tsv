@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+attestano		attestare	VERB		1	1e-06	1	1e-06	attestare	VERB	V	root	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2064f9ad-c349-5ec1-b614-ad6a86f05929	93d16cd1-c4a5-5d84-87cd-3aed26ffd689	Le impronte digitali sul coltello attestano la sua colpevolezza.	The fingerprints on the knife attest to her guilt.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+soda		soda	NOUN		3	3e-06	3	3e-06	soda	NOUN	S	nmod	Gender=Fem|Number=Sing	bcb254f5-89f0-511d-b54f-3e3e6942608e	917ceb22-4111-5548-b9f8-fb9ffc144e83	Vuoi un bicchiere di soda?	Do you want a glass of soda?	Vuole un bicchiere di soda?	Do you want a glass of soda?	Volete un bicchiere di soda?	Do you want a glass of soda?

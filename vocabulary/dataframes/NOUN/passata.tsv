@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+passate		passata	NOUN		1	1e-06	1	1e-06	passata	NOUN	S	ccomp	Gender=Fem|Number=Plur	f5a278f9-d251-5fc7-9b40-ad8392803628	34cc5101-4610-5eca-91bc-46746532c1b8	Ho guardato il mio orologio e ho notato che erano le cinque passate.	I looked at my watch and noted that it was past five.				

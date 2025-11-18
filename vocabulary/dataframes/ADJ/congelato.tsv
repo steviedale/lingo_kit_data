@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+congelata		congelato	ADJ		1	1e-06	1	1e-06	congelato	ADJ	A	amod	Gender=Fem|Number=Sing	7d715b3f-d63b-5356-92fc-16b4966c03be	cedb15ab-6a7c-547d-a715-7b6155130cb5	Chiamo l'architettura musica congelata.	I call architecture frozen music.				

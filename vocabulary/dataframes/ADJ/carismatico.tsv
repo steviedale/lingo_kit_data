@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+carismatico		carismatico	ADJ		2	2e-06	2	2e-06	carismatico	ADJ	A	amod	Gender=Masc|Number=Sing	3da25768-4286-59c5-a858-462433d9aa9d	2e29d196-b305-5f21-b31e-ab297ecbd375	Tom è bello e carismatico.	Tom is handsome and charismatic.	Lui non è un leader carismatico.	He's not a charismatic leader.		

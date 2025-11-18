@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+flessioni		flessione	NOUN		4	4e-06	4	4e-06	flessione	NOUN	S	obj	Gender=Fem|Number=Plur	8e2210d3-c370-503b-90cb-9f3d064024aa	ff0c6c44-b774-5819-9c05-11e085f62e7c	Tom ha fatto venti flessioni.	Tom did twenty pushups.	Fa venti flessioni ogni mattina.	He does twenty push-ups every morning.	Tom fece venti flessioni.	Tom did twenty pushups.

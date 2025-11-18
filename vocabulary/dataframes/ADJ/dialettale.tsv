@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+dialettale		dialettale	ADJ		1	1e-06	1	1e-06	dialettale	ADJ	A	amod	Number=Sing	d87f4718-511d-5a6b-aa31-d7aa81acb5b2	96e45aa3-c3db-5fb8-8633-1bac5de421e6	Questo è un termine dialettale.	This is a dialectal word.				

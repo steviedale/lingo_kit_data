@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rischi		rischio	VERB		1	1e-06	1	1e-06	rischio	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	a77cb5d1-cef8-523c-818b-7a952ce45f6a	d793fd2a-79e6-5997-8641-19e8c78d5d7f	Non rischi insultando il suo capo.	Don't risk insulting your boss.				

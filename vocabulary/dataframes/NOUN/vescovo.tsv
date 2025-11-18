@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+vescovi		vescovo	NOUN		1	1e-06	1	1e-06	vescovo	NOUN	S	nsubj	Gender=Masc|Number=Plur	66bba6ef-09df-54dd-8f56-44c45123623d	53e991b5-ed90-5ff6-93a8-8f18867c9214	I vescovi erano favorevoli alla proposta.	The bishops were in favor of the proposition.				

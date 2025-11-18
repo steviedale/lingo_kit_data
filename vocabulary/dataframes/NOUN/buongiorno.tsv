@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+buongiorno		buongiorno	NOUN		2	2e-06	2	2e-06	buongiorno	NOUN	S	obj	Gender=Masc|Number=Sing	bf79b6f9-69df-5350-a9a3-98107ed0ef07	328a6f76-4511-5769-a8dd-64fd85fb4c7c	Tom mi ha dato il buongiorno.	Tom said good morning to me.	Tom mi diede il buongiorno.	Tom said good morning to me.		

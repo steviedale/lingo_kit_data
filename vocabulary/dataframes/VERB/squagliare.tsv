@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+squagliarmela		squagliare	VERB		1	1e-06	1	1e-06	squagliare+me+la	VERB+PRON+PRON	V	root	VerbForm=Inf|Clitic=Yes|Number=Sing|Person=1|PronType=Prs|Gender=Fem|Person=3	5b0c2b7d-b2ed-5231-9663-119a0ebd3518	d664a440-c2ea-5714-9a0d-5eb0bc79409c	Devo squagliarmela o arriverò tardi.	I've got to skedaddle or I'll be late.				

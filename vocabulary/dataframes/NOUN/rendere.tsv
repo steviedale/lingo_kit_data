@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rese		rendere	NOUN		1	1e-06	1	1e-06	rendere	NOUN	S	nmod	Gender=Fem|Number=Sing	2fe4d4dc-f6e3-5098-a813-d4611377a31a	3fc5be84-9ef2-5642-ae9b-2031b9df3850	Una malattia infantile la rese cieca.	A childhood illness left her blind.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+chiacchere		chiacchera	NOUN		1	1e-06	1	1e-06	chiacchera	NOUN	S	nmod	Gender=Fem|Number=Plur	be359c0b-3565-56f8-895b-d105f101a513	b8a54592-5fea-5310-876f-4be35fb38597	Abbiamo bisogno di meno chiacchere e di più fatti.	We need less talk and more action.				

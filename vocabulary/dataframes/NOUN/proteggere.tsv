@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+protetto		proteggere	NOUN		1	1e-06	1	1e-06	proteggere	NOUN	S	root	Gender=Masc|Number=Sing	a40884d0-5eea-5171-81ce-15ca6b669663	dc1d58a3-9311-5578-a0dc-8fc590804006	Tom è il protetto di Mary.	Tom is Mary's protege.				

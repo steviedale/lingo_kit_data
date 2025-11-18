@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tuba		tuba	NOUN		1	1e-06	1	1e-06	tuba	NOUN	S	obj	Gender=Fem|Number=Sing	c648b113-8863-52ba-b3ad-ac25fd2973b6	5a58dbcf-2d68-527f-8b7f-284ce232fe96	Tom suona la tuba nella banda scolastica.	Tom plays tuba in the school band.				

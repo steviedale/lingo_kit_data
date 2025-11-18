@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+hobby		hobby	NOUN		53	5.1e-05	53	5.1e-05	hobby	NOUN	S	nsubj	Gender=Masc	cef69285-224f-555f-b8c5-18faa92dba83	6ee9c9f4-3b98-55a8-8433-536a16189df9	Ha molti hobby.	He has a lot of hobbies.	Ha un hobby?	Do you have a hobby?	Ognuno di noi ha il proprio hobby.	Each of us has his own hobby.

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+lusinga		lusinga	VERB		1	1e-06	1	1e-06	lusinga	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6cd2a886-c266-52f8-9e54-dd8533e5695e	f8f96bf0-798a-5ef6-81d5-319fbf9f43eb	Si lusinga che lui è il miglior oratore della lingua inglese.	He flatters himself that he is the best speaker of English.				

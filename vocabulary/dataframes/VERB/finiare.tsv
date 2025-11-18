@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+finiate		finiare	VERB		2	2e-06	2	2e-06	finiare	VERB	V	ccomp	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	ce620d3a-0140-5e42-a8fd-c79d191dfb37	9c18a940-9eab-5bc0-8e30-d541933309fb	Aspetterò che finiate.	I'll wait for you to finish.	Aspetterò che voi finiate.	I'll wait for you to finish.		

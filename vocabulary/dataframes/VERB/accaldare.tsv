@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+accaldando		accaldare	VERB		2	2e-06	2	2e-06	accaldare	VERB	V	root	VerbForm=Ger	ecab4908-18d9-5d2f-8cf3-1b00272758c1	a4e2a462-7b7f-54f0-aa25-a63d86f99a88	Io mi sto accaldando.	I'm getting hot.	Mi sto accaldando.	I'm getting hot.		

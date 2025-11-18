@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+collare		collare	NOUN		1	1e-06	1	1e-06	collare	NOUN	S	nsubj	Gender=Masc|Number=Sing	694aeb15-b87a-5fd0-aa3e-a33257b0f336	23d065ca-6f9a-5cba-9b2f-6f88a4928476	Il collare del cane è rosso.	The dog's collar is red.				

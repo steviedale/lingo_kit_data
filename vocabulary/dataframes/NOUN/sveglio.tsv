@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sveglio		sveglio	NOUN		2	2e-06	2	2e-06	sveglio	NOUN	S	obj	Gender=Masc|Number=Sing	adc5fb12-7465-544e-8259-7c88620274e7	7d46b99e-dae1-58d5-9b6b-3011dc0b4022	Tom giaceva sveglio a letto.	Tom lay awake in bed.	Ho bevuto una tazza di tè per tenermi sveglio.	I had a cup of tea to keep myself awake.		

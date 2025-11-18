@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+carreggiata		carreggiata	NOUN		1	1e-06	1	1e-06	carreggiata	NOUN	S	nsubj:pass	Gender=Fem|Number=Sing	83e83c99-46b2-5f7c-8837-4187cc2d4ca7	9b23850f-5f2c-5295-987f-5c284d52ab0c	La carreggiata è stata ridotta a una corsia.	The carriageway was reduced to one lane.				

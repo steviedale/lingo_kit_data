@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+segata		segare	VERB		2	2e-06	4	4e-06	segare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	02608dbc-3756-526a-b042-4f34788837d9	fd6dbf0a-7e03-5f39-9421-8e6b54dcd04b	Non sono stata segata.	I didn't flunk.	Io non sono stata segata.	I didn't flunk.		
+segato		segare	VERB		2	2e-06	4	4e-06	segare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6197fba2-7b09-5367-b420-61be62db82fb	fd6dbf0a-7e03-5f39-9421-8e6b54dcd04b	Io non sono stato segato.	I didn't flunk.	Non sono stato segato.	I didn't flunk.		

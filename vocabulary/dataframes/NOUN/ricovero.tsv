@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ricovero		ricovero	NOUN		1	1e-06	1	1e-06	ricovero	NOUN	S	obj	Gender=Masc|Number=Sing	494c4368-de69-56d8-b5aa-62c44700787f	2b3f21a8-17da-5b76-b643-37da5619392a	Ho organizzato il suo ricovero in un buon ospedale.	I arranged that he be admitted to a good hospital.				

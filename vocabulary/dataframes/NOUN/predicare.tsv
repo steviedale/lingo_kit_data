@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+predicato		predicare	NOUN		1	1e-06	1	1e-06	predicare	NOUN	S	obj	Gender=Masc|Number=Sing	7fcd26f8-3962-5018-85f3-0dd9d821b0ac	eb2cea7b-e544-5e39-86f7-0d2b113a0371	Questa frase ha un predicato ma non un soggetto.	This sentence has a predicate but no subject.				

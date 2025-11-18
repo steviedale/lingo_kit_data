@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+inventiva		inventiva	NOUN		1	1e-06	1	1e-06	inventiva	NOUN	S	nmod	Gender=Fem|Number=Sing	66e20a07-647c-5058-bda2-ea1efe5b8338	47cb120a-0448-57ed-a347-f7e6c3a330ad	La necessità è madre dell'inventiva.	Necessity is the mother of invention.				

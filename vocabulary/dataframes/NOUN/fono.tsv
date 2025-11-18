@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+foni		fono	NOUN		1	1e-06	1	1e-06	fono	NOUN	S	obl	Gender=Masc|Number=Plur	c8861dae-92bd-572f-a9e8-68f7d8e08ec6	050aca50-7014-50d7-92e7-9d75152f08b9	I suoni vengono definiti come foni.	Speech sounds are defined as phones.				

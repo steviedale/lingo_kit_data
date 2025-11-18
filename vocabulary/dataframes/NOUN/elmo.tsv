@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+elmi		elmo	NOUN		1	1e-06	1	1e-06	elmo	NOUN	S	nsubj	Gender=Masc|Number=Plur	883049f8-1584-5600-aab9-5be6e20183ee	731bd86e-1dd2-5292-ba8c-4b301c8f5822	Quegli elmi sono disgustosi.	Those helmets are disgusting.				

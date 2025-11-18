@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rinoceronte		rinoceronte	NOUN		1	1e-06	1	1e-06	rinoceronte	NOUN	S	nsubj	Gender=Masc|Number=Sing	0c081172-b5be-5ee9-801e-aaab79e9c854	dbb2fed8-1621-5aaa-91ed-c2824a24aa1a	Il rinoceronte non è un dinosauro.	Rhinoceros is not a dinosaur.				

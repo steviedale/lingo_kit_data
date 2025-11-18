@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+eguagliarlo		eguagliare	VERB		1	1e-06	1	1e-06	eguagliare+lo	VERB+PRON	V	xcomp	VerbForm=Inf|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6a9abdc4-4108-5bed-a5a6-6a1e108e211c	ddea897b-4e4b-5357-a5a9-97d8b2c89a65	Nessuno riesce a eguagliarlo a tennis.	No one can match him at tennis.				

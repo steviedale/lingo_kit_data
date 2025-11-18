@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+speciale		speciare	VERB		1	1e-06	1	1e-06	speciare+le	VERB+PRON	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Imp|Verbform=Fin|Clitic=Yes|Person=3|PronType=Prs	55f73f94-6929-5ba9-92f1-7cabbb06acf1	d52ce298-f3d7-5d76-8b59-401630dbc265	È speciale.	You're special.				

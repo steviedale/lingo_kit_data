@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+perdonerai		perdonerare	VERB		2	2e-06	2	2e-06	perdonerare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	fa62de1f-c34b-5c9e-8213-170febddb87b	ccb3b623-1fde-5e8d-bc15-88835273ab6b	Mi perdonerai mai?	Will you ever forgive me?	Lo so che mi perdonerai.	I know that you will forgive me.		

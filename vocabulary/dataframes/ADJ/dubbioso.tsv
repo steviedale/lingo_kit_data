@@ -1,0 +1,5 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+dubbioso		dubbioso	ADJ		3	3e-06	7	7e-06	dubbioso	ADJ	A	xcomp	Gender=Masc|Number=Sing	328edccf-e554-5db7-9120-ce4862530906	cbb9eebe-b2c6-59d8-ac5c-f7b4949d3d4a	Sembri dubbioso.	You look doubtful.	Sembra dubbioso.	You look doubtful.	Tom è dubbioso.	Tom is uncertain.
+dubbiosa		dubbioso	ADJ		2	2e-06	7	7e-06	dubbioso	ADJ	A	xcomp	Gender=Fem|Number=Sing	99821681-a854-5df2-b793-73f85622cec3	cbb9eebe-b2c6-59d8-ac5c-f7b4949d3d4a	Sembra dubbiosa.	You look doubtful.	Sembri dubbiosa.	You look doubtful.		
+dubbiosi		dubbioso	ADJ		1	1e-06	7	7e-06	dubbioso	ADJ	A	xcomp	Gender=Masc|Number=Plur	b2cd5969-26df-5159-bce9-4a3c06dc2d0e	cbb9eebe-b2c6-59d8-ac5c-f7b4949d3d4a	Sembrate dubbiosi.	You look doubtful.				
+dubbiose		dubbioso	ADJ		1	1e-06	7	7e-06	dubbioso	ADJ	A	xcomp	Gender=Fem|Number=Plur	2d81f9b0-768c-5127-ad8f-de3c9ab2522d	cbb9eebe-b2c6-59d8-ac5c-f7b4949d3d4a	Sembrate dubbiose.	You look doubtful.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+canterete		cantire	VERB		1	1e-06	1	1e-06	cantire	VERB	V	root	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	436802ab-88e9-5734-b217-8327b0996d0a	b11ed2e0-f6f2-514a-8fc8-897d70a6836e	Quali canzoni canterete stasera?	What songs are you going to sing tonight?				

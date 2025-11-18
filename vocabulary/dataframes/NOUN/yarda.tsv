@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+yarda		yarda	NOUN		1	1e-06	1	1e-06	yarda	NOUN	S	obl	Gender=Fem|Number=Sing	91fcde7c-30e7-5f9b-aa74-be3a62a3d3b2	2dba8600-ebfe-594b-b1ed-17ff62a5a60c	Un metro non equivale a una yarda.	A meter is not quite equivalent to a yard.				

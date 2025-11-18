@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+steste		stestere	AUX		1	1e-06	1	1e-06	stestere	AUX	VA	advmod	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	38a9382e-a789-5171-a14b-8de7b10d3e53	438abc9f-e3d9-5d68-8804-62e24db20f30	Pensavo steste andando a Boston.	I thought you were going to Boston.				

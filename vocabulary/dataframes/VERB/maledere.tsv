@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+maledì		maledere	VERB		1	1e-06	1	1e-06	maledere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6e2bddd9-792b-52d8-8039-6ab7c939909a	1a4f791a-135a-58a9-9820-140ceb9a29a2	La strega maledì la povera piccola bambina.	The witch cursed the poor little girl.				

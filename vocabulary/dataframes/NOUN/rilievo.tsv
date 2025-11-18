@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rilievo		rilievo	NOUN		1	1e-06	1	1e-06	rilievo	NOUN	S	nmod	Gender=Masc|Number=Sing	ad2201dc-7fa1-5e88-95e4-d0cdfc856af6	f9768a30-f7bd-5ce5-bd53-1912846e451d	I ciechi leggono con il tatto, usando un sistema di punti in rilievo chiamato braille.	Blind people read by touching, using a system of raised dots called Braille.				

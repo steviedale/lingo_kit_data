@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+riflessiva		riflessivo	ADJ		1	1e-06	1	1e-06	riflessivo	ADJ	A	root	Gender=Fem|Number=Sing	68c20d96-d3d4-56dc-a242-62a5304d84b8	66588e0d-3ba0-5d24-92a5-9ca79014d0c5	La relazione A ama B non è riflessiva, transitiva né simmetrica.	The relationship A loves B is not reflexive, transitive, or symmetric.				

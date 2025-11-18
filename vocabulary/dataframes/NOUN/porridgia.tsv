@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+porridge		porridgia	NOUN		2	2e-06	2	2e-06	porridgia	NOUN	S	obl	Gender=Masc	d5e4eaaa-0c3a-54a7-9b55-431a154e2ea5	93db71ec-eb72-54fe-a233-187c937e3850	Mangio del porridge di riso ogni mattina.	I have congee every morning.	Io mangio del porridge di riso ogni mattina.	I have congee every morning.		

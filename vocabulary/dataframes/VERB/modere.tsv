@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+modera		modere	VERB		1	1e-06	1	1e-06	modere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8e407517-6e07-5646-a7a6-78d4e58a4d0b	d0ab4021-b953-5820-b3bd-2c5b5c3e32f2	Tom non modera i toni.	Tom does not mince words.				

@@ -1,0 +1,4 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+vittorioso		vittorioso	ADJ		2	2e-06	6	6e-06	vittorioso	ADJ	A	root	Gender=Masc|Number=Sing	3436c554-c0be-5fc8-898c-25a149d8fe49	0245f95e-8284-5fc9-b044-b6797fa8f59e	Tom era vittorioso.	Tom was victorious.	Tom è stato vittorioso.	Tom was victorious.		
+vittoriosi		vittorioso	ADJ		2	2e-06	6	6e-06	vittorioso	ADJ	A	root	Gender=Masc|Number=Plur	2a33868e-617c-5ff1-b7c6-684857a9a905	0245f95e-8284-5fc9-b044-b6797fa8f59e	Siamo vittoriosi.	We are victorious.	Noi siamo vittoriosi.	We are victorious.		
+vittoriose		vittorioso	ADJ		2	2e-06	6	6e-06	vittorioso	ADJ	A	root	Gender=Fem|Number=Plur	a28a4a5e-4c2d-5ae4-af50-9a31c04663d0	0245f95e-8284-5fc9-b044-b6797fa8f59e	Siamo vittoriose.	We are victorious.	Noi siamo vittoriose.	We are victorious.		

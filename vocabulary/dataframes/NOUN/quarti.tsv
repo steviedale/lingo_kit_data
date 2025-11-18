@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+quarti		quarti	NOUN		1	1e-06	1	1e-06	quarti	NOUN	S	nsubj:pass	Gender=Masc|Number=Plur	43fca9b9-ef8f-5e34-bd02-3ab72dc7d620	5ffbb917-f0dc-5a71-8e2a-7a8ae98b3629	Tre quarti della superficie terrestre sono composti d'acqua.	Three-fourths of the earth's surface is water.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fuor		fuore	ADJ		1	1e-06	1	1e-06	fuore	ADJ	A	amod	Gender=Masc|Number=Sing	8349bdc0-d37a-5d2d-bd41-347634f548c3	c4305af2-6c72-51d1-9d0f-e3fee65c6a94	Tom si sentiva come un pesce fuor d'acqua.	Tom felt like a fish out of water.				

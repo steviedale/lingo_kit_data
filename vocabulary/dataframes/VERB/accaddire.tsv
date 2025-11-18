@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+accadde		accaddire	VERB		2	2e-06	2	2e-06	accaddire	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7bf80d23-a6da-550b-8b6c-f6ee06ef9df3	8c426976-ecb5-5378-9d35-b49348ff2bad	L'incidente accadde due anni fa.	The accident happened two years ago.	Accadde un anno fa.	It happened one year ago.		

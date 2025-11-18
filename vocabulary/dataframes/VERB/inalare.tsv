@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+inalato		inalare	VERB		1	1e-06	1	1e-06	inalare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	141882e1-2693-567a-9855-1546174dae33	e171452d-4706-5a39-aede-46ea16f6024e	Tom ha inalato.	Tom inhaled.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+state		state	VERB		31	3e-05	31	3e-05	state	VERB	V	root	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1f7eff03-f309-50ed-9140-3a223e9fb927	60401fde-bed9-50fe-843d-754dfe9176b8	State giù!	Stay down!	State qui con me.	Stay here with me.	State da una parte, mortali.	Stand aside, mortals.

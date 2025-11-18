@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+aborrava		avore	AUX		1	1e-06	1	1e-06	avore	AUX	VM	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	d475fdca-45bc-5a60-9a09-218b935d430a	44e0acf1-40c9-5265-9f1b-c34b03e65638	Aborrava mentire.	He abhorred lying.				

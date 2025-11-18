@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+lobotomia		lobotomia	NOUN		1	1e-06	1	1e-06	lobotomia	NOUN	S	obj	Gender=Fem|Number=Sing	65cb4ebb-d18a-5ff5-a240-177dde428b43	162b5bc8-f596-5148-949c-c5b49a0aac71	Preferirei avere una bottiglia di fronte a me che una lobotomia frontale.	I'd rather have a bottle in front of me than a frontal lobotomy.				

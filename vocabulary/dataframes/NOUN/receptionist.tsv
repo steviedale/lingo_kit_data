@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+receptionist		receptionist	NOUN		1	1e-06	1	1e-06	receptionist	NOUN	S	root	Gender=Fem	a324caa8-be59-57fd-aa9d-fc35fa7a31d1	ddfc56e8-f102-505a-b55c-d0de6ac505b2	Mia sorella è una receptionist.	My sister is a receptionist.				

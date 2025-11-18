@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+buonasera		buonasera	INTJ		4	4e-06	4	4e-06	buonasera	INTJ	I	discourse		9315f40c-72da-5c87-9182-5aea7b2be1d4	1f870d6f-6856-594d-b5c6-118149538f65	Buonasera. Vorrei un bicchiere di latte.	Good evening. I'd like a glass of milk.	Buonasera, come state?	Good evening, how are you?	Buonasera!	Good evening.

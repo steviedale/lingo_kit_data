@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+aumento		aumento	NOUN		26	2.5e-05	26	2.5e-05	aumento	NOUN	S	obj	Gender=Masc|Number=Sing	5d15ee1c-e610-57fd-9ca8-3b0d4c13d0bb	ad898c7f-f2d8-584b-ba93-cf6d6b402bb4	Io ho appena ottenuto un aumento.	I just got a raise.	Ho appena ottenuto un aumento.	I just got a raise.	Mi serve un aumento.	I need a raise.

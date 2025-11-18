@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+champignon		champignon	NOUN		1	1e-06	1	1e-06	champignon	NOUN	S	nsubj	Gender=Masc	18fcf217-eb75-5c06-a1df-1eb2b001223e	a856c8b4-9728-54fa-81ad-a1686b2b9c69	Lo champignon contiene una quantità non indifferente di minerali.	Mushrooms contain significant amounts of minerals.				

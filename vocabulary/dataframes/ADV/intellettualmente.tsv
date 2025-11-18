@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+intellettualmente		intellettualmente	ADV		1	1e-06	1	1e-06	intellettualmente	ADV	B	advmod		890f4865-6c67-5a34-9d37-a66fe08ed984	cfe7eb23-e6d8-5c4d-a8cf-1aaba385328c	Tom è intellettualmente pigro.	Tom is intellectually lazy.				

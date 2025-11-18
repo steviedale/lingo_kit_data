@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+canticchia		canticchiare	VERB		1	1e-06	1	1e-06	canticchiare	VERB	V	acl:relcl	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	63c5e1f8-ade1-57d8-a257-94f541fbe3f9	f688aba6-4332-5301-90ea-61f665b06fc9	Conosci qualcuno che canticchia mentre lavora?	Do you know anyone who hums while they work?				

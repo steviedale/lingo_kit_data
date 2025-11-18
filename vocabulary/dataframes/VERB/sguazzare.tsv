@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sguazza		sguazzare	VERB		2	2e-06	2	2e-06	sguazzare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	fce4c09a-adc1-5451-9193-5d55e720ce87	2ae1c199-39a7-598f-b11e-3921eabb8203	Tom sguazza nel denaro.	Tom has piles of money.	Tom sguazza nei soldi.	Tom has piles of money.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+facocero		facocero	NOUN		1	1e-06	1	1e-06	facocero	NOUN	S	nmod	Gender=Masc|Number=Sing	e0e573e8-a8bc-51b9-a871-51ba4cf5cb2a	fc475e24-a48b-59b0-8e01-8ed48fc8b237	Tom è il nome del mio facocero nero.	Tom is the name of my swart warthog.				

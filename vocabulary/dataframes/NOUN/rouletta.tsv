@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+roulette		rouletta	NOUN		1	1e-06	1	1e-06	rouletta	NOUN	S	nsubj	Gender=Fem	96ab58ee-be03-5f74-b34b-19e4c5874804	cf7e3e89-a772-5822-bd2f-bc3a221b9b37	La roulette è un gioco di fortuna.	Roulette is a game of chance.				

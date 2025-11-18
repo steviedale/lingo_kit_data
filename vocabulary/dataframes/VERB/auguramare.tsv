@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+augurami		auguramare	VERB		1	1e-06	1	1e-06	auguramare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	96fd421e-b971-5653-bce1-c2910d8d5932	f09405d9-66af-592a-9977-b8d660bd4155	Augurami buona fortuna.	Wish me luck.				

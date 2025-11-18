@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+malvagi		malvago	NOUN		1	1e-06	1	1e-06	malvago	NOUN	S	nsubj	Gender=Masc|Number=Plur	ec822f35-ac71-57ad-83cc-4a4c688c1e2f	3171ed68-3717-5d4f-ae36-f0870ab38b46	Non si nasce malvagi, ma si impara ad esserlo.	You're not born evil; you learn how to be evil.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+camuffato		camuffare	VERB		1	1e-06	1	1e-06	camuffare	VERB	V	amod	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0e3de310-5209-5ac7-9983-5fb14710c0de	7ef2285d-3774-5c23-880f-2d474bdf942a	Lui entrò nella banca camuffato da guardia.	He entered the bank disguised as a guard.				

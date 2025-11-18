@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+interruttore		interruttore	NOUN		6	6e-06	6	6e-06	interruttore	NOUN	S	nsubj	Gender=Masc|Number=Sing	f172f1df-2840-559a-a3da-d8a92e21452d	ae27a587-14a7-5e29-bf98-2c3c0297bcb5	Premette l'interruttore.	She pressed the switch.	Lei ha premuto l'interruttore.	She pressed the switch.	Lei premette l'interruttore.	She pressed the switch.

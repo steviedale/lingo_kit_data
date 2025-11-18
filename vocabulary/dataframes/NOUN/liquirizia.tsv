@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+liquirizia		liquirizia	NOUN		1	1e-06	1	1e-06	liquirizia	NOUN	S	nmod	Gender=Fem|Number=Sing	b70f3c3f-fed0-58fe-afc4-08755e9ddd97	d477009f-71fd-5e23-b2f4-b8e6d441c4c1	Ai miei figli piacciono i bastoncini di liquirizia.	My children like licorice sticks.				

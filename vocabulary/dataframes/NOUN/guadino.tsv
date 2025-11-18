@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+guadino		guadino	NOUN		1	1e-06	1	1e-06	guadino	NOUN	S	obj	Gender=Masc|Number=Sing	292bdb42-a034-5ecf-83ec-22fce4822071	98d9691c-d30c-50ac-a82a-95d63813ff44	Non posso trovare il guadino.	I can't find the hand net.				

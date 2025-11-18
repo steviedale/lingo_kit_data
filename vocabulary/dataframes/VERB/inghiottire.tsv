@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+inghiottito		inghiottire	VERB		1	1e-06	1	1e-06	inghiottire	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	d4008aec-3729-5451-b7fd-c3fe88d726a3	679b4e74-1fab-5b91-8981-1856c32c1c10	L'aeroplano venne inghiottito dalle enormi nuvole.	The airplane was swallowed up in the large clouds.				

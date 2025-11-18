@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+musa		musa	NOUN		1	1e-06	1	1e-06	musa	NOUN	S	vocative	Gender=Fem|Number=Sing	bba3d3fd-adc9-5a69-8440-46c5867476e3	dc5db901-7410-55ac-a4fc-6cf6144a6b69	Romanzi? Io odio i romanzi. Oh musa, perdona la sua blasfemia.	Novels? I hate novels. Oh muse, forgive her blasphemy.				

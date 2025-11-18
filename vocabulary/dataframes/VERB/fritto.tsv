@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fritta		fritto	VERB		1	1e-06	1	1e-06	fritto	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	c50e6a1f-9ea9-5151-abd2-3456e92df6db	dcd7e9c7-a81c-59ef-93e3-45da156f55e9	Ne ho fritta una.	I fried one.				

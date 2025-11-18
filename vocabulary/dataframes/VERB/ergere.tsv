@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+erge		ergere	VERB		1	1e-06	1	1e-06	ergere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	c7ee2e5f-75a4-5bf1-8682-d7d58e775d76	78bef782-4977-5a66-b13c-3b26c1e46a2e	Il vecchio castello si erge sulla collina.	The old castle stands on the hill.				

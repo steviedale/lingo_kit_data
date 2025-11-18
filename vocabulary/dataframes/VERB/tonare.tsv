@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tonato		tonare	VERB		1	1e-06	1	1e-06	tonare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8a94235a-e2a5-5b26-a2d6-45d127772bd7	37ad1443-08c6-59e4-991a-32be5c6c4146	È tonato al negozio.	He went back to the store.				

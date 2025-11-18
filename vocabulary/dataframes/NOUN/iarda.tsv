@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+iarda		iarda	NOUN		4	4e-06	4	4e-06	iarda	NOUN	S	obj	Gender=Fem|Number=Sing	f485cb76-1dd3-508a-a8c1-afd12bc71884	11121a3c-d268-51e7-98a4-d7f406b95d66	Ha comprato una iarda di tessuto.	She bought a yard of cloth.	Comprò una iarda di tessuto.	She bought a yard of cloth.	Lei ha comprato una iarda di tessuto.	She bought a yard of cloth.

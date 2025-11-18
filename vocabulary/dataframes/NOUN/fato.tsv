@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fato		fato	NOUN		3	3e-06	3	3e-06	fato	NOUN	S	nsubj	Gender=Masc|Number=Sing	320f39ac-50aa-5d41-8be4-07cf2ca7c009	0954447a-1c56-5d78-ad55-bfb0a7dad09f	Noi stiamo tentando il fato.	We're tempting fate.	Il fato ci è avverso.	Fate is not on our side.	Stiamo tentando il fato.	We're tempting fate.

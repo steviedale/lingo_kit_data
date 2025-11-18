@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tosse		tosse	NOUN		17	1.6e-05	17	1.6e-05	tosse	NOUN	S	conj	Gender=Fem|Number=Sing	e8cf896d-e75a-5e88-a8c2-d35af956a55f	2d6ff64f-7fe4-5cb2-96a5-5b1f0ced706f	La vostra tosse mi preoccupa.	Your cough worries me.	Tom ha la tosse.	Tom has a cough.	La mia tosse sta peggiorando.	My cough is getting worse.

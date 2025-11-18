@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ruga		ruga	NOUN		1	1e-06	2	2e-06	ruga	NOUN	S	obj	Gender=Fem|Number=Sing	f2f29cae-8606-58b2-9672-4f218328a8d5	a000d2af-5e46-5bc7-bfc8-c9c120d680ea	Tom ha iniziato ad avere qualche ruga sulla fronte.	Tom has started to get a few wrinkles on his forehead.				
+rughe		ruga	NOUN		1	1e-06	2	2e-06	ruga	NOUN	S	obj	Gender=Fem|Number=Plur	9f6e6ff9-0487-5798-aa7a-289a4f506f05	a000d2af-5e46-5bc7-bfc8-c9c120d680ea	Stavo cercando di coprirmi le rughe.	I was trying to hide my wrinkles.				

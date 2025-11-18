@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+graffio		graffio	NOUN		1	1e-06	1	1e-06	graffio	NOUN	S	root	Gender=Masc|Number=Sing	68968a65-7805-57bc-b9bc-ab4274c3b6b3	8b90b773-c83d-52b6-8d23-6bbff1c7c1d9	È solo un graffio.	It's only a scratch.				

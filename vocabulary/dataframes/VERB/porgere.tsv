@@ -1,0 +1,4 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+porgi		porgere	VERB		1	1e-06	3	3e-06	porgere	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	184d0352-80c4-5863-bf5c-adb53c9bb4e8	aae1cdee-596a-532e-9edc-3bc2923df4f3	Porgi l'altra guancia.	Turn the other cheek.				
+porgete		porgere	VERB		1	1e-06	3	3e-06	porgere	VERB	V	root	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	ed345849-789e-5279-88ed-edb56283dbe0	aae1cdee-596a-532e-9edc-3bc2923df4f3	Porgete l'altra guancia.	Turn the other cheek.				
+porga		porgere	VERB		1	1e-06	3	3e-06	porgere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8c54ca8e-2886-5dd9-8b31-a14da03d76b9	aae1cdee-596a-532e-9edc-3bc2923df4f3	Porga l'altra guancia.	Turn the other cheek.				

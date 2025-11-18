@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+inganni		inganno	VERB		1	1e-06	1	1e-06	inganno	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31f75838-ca2f-5945-8890-e36aae42efd8	08921868-e17c-58a2-8353-1b9165c0afd4	Non mi inganni.	Don't deceive me.				

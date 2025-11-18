@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+attraversi		attraverire	VERB		1	1e-06	1	1e-06	attraverire+si	VERB+PRON	V	acl	VerbForm=Inf|Clitic=Yes|Person=3|PronType=Prs	af2d226f-d7f3-52a9-92df-325ddfba0004	5031329e-1251-58bb-8a1f-59ea423f27d4	Occhio alle macchine quando attraversi la strada.	Watch out for cars when you cross the street.				

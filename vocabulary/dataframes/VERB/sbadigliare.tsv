@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sbadigliamo		sbadigliare	VERB		1	1e-06	1	1e-06	sbadigliare	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	35221282-8607-571a-b1ea-d0768144a6ff	3efa6b06-4391-52f2-94cf-38fc691618f1	Sbadigliamo quando siamo a corto di ossigeno.	We yawn when we are short of oxygen.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rinomata		rinomare	VERB		1	1e-06	1	1e-06	rinomare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	d7c90a6c-19bc-57b2-ba88-59a5774a5971	42ba0a9d-95d7-5896-a64e-0d9550a71e27	La Scozia è rinomata per i suoi tessuti in lana.	Scotland is famous for its woollen textiles.				

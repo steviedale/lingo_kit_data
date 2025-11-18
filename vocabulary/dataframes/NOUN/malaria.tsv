@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+malaria		malaria	NOUN		2	2e-06	2	2e-06	malaria	NOUN	S	nsubj	Gender=Fem|Number=Sing	243a5afa-7ccb-59ab-b8ff-3ad39494ddbf	97d98da7-8109-5a41-b529-f084db6cc318	La malaria è causata dalle zanzare.	Malaria is carried by mosquitoes.	La malaria è una malattia portata dalle zanzare.	Malaria is a disease that mosquitoes carry.		

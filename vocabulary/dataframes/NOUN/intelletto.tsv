@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+intelletto		intelletto	NOUN		1	1e-06	1	1e-06	intelletto	NOUN	S	nsubj	Gender=Masc|Number=Sing	12637ab3-81f5-5b07-8152-21d7d968e800	9ea3ceb0-a26d-59c5-a19a-442ef60b9c80	L'intelletto è invisibile all'uomo che non ne ha.	Intellect is invisible to the man who has none.				

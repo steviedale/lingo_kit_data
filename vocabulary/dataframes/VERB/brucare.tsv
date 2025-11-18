@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+brucerà		brucare	VERB		1	1e-06	2	2e-06	brucare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	a0ee26c4-192d-5dd9-a558-0569320876ab	5d3ad2c0-09a2-5223-8acb-c9b5d96ab1b9	Questa legna non brucerà.	This wood won't burn.				
+bruceranno		brucare	VERB		1	1e-06	2	2e-06	brucare	VERB	V	conj	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	ee30bbc9-f4bb-50dc-a0e0-c306221bb5e7	5d3ad2c0-09a2-5223-8acb-c9b5d96ab1b9	Dove bruciano libri, bruceranno anche le persone.	Where they burn books, they will eventually burn people.				

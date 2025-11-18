@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+guida		guida	VERB		3	3e-06	3	3e-06	guida	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	ccf37823-c253-5102-a78d-7183b833443e	a0ebe04a-2249-5bac-9a91-7548be0d97ae	Guida una macchina, vero?	He drives a car, doesn't he?	Guida una vecchia Yugo.	He drives an old Yugo.	Guida una Cadillac rosa.	He drives a pink Cadillac.

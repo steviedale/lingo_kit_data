@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sacrosante		sacrosante	ADJ		1	1e-06	1	1e-06	sacrosante	ADJ	A	root	Gender=Fem|Number=Plur	023dfc7f-1666-53c4-a2e9-9bd55e20d001	6e46f2b9-5873-570d-b8e2-db38c9deb081	Le mie frasi non sono sacrosante.	My sentences are not sacrosanct.				

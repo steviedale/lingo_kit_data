@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+disapparve		disappare	VERB		1	1e-06	1	1e-06	disappare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	f7c0519c-a94f-5fc9-9560-600682ae1fcc	a05f88e2-e2ba-5b50-a898-78b9beea9f43	Col mio stupore, disapparve in un istante.	To my amazement, it disappeared in an instant.				

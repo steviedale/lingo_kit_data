@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+composto		comporre	NOUN		1	1e-06	1	1e-06	comporre	NOUN	S	root	Gender=Masc|Number=Sing	7f029cb8-bf73-5d1e-8920-f3fea25f648b	aaeae150-7f6e-5e76-8156-21d0996ec314	Il carbonato di ammonio è un composto organico.	Ammonium carbonate is an organic compound.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+congiura		congiura	NOUN		1	1e-06	1	1e-06	congiura	NOUN	S	nmod	Gender=Fem|Number=Sing	330de2d7-70ef-5fa2-95df-e22a6b165a4e	2b49de2d-e5dc-56cc-b43d-42ac57962c12	Lui era la mente dietro la congiura.	He was the brains behind the plot.				

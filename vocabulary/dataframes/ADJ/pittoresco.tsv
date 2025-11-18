@@ -1,0 +1,4 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pittoresco		pittoresco	ADJ		1	1e-06	3	3e-06	pittoresco	ADJ	A	amod	Gender=Masc|Number=Sing	a550b4c9-0175-5c62-9c60-cce21e00f157	c39614dd-cf7a-528b-8d20-58e13edddcb2	È un pittoresco antico villaggio.	It's a quaint old village.				
+pittoresca		pittoresco	ADJ		1	1e-06	3	3e-06	pittoresco	ADJ	A	amod	Gender=Fem|Number=Sing	60f20100-f4fa-5b07-92db-6c8de2080f79	c39614dd-cf7a-528b-8d20-58e13edddcb2	Napoli è una città pittoresca.	Naples is a picturesque city.				
+pittoreschi		pittoresco	ADJ		1	1e-06	3	3e-06	pittoresco	ADJ	A	root	Gender=Masc|Number=Plur	5bad68f0-9bcc-5d7a-b454-5f5884a4661d	c39614dd-cf7a-528b-8d20-58e13edddcb2	I villaggi nelle Alpi sono molto pittoreschi.	The villages in the Alps are very picturesque.				

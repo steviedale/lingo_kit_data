@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+stezzo		stezzo	NOUN		1	1e-06	1	1e-06	stezzo	NOUN	S	root	Gender=Masc|Number=Sing	1fc90fa5-3eda-53b2-bfb6-4f4495523882	0158b04a-4577-516d-bdea-aef0881c520c	Questo è lo stezzo dizionario che ho io.	This is the same dictionary as I have.				

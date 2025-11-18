@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ballerete		ballire	VERB		1	1e-06	1	1e-06	ballire	VERB	V	root	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	fa6df9f9-6b77-5b48-8f83-b7c07af7b3dd	107550d3-ce2f-5bbe-872c-13d333e14044	Ballerete con me?	Are you going to dance with me?				

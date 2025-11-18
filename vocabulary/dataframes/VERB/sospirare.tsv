@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sospirò		sospirare	VERB		2	2e-06	2	2e-06	sospirare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9b0d739c-1db5-5e79-979f-363e6471bc79	1587fadf-a904-58d1-a686-f89e10cbad2d	Aah!, sospirò.	Aah! she sighed.	Aah!, sospirò lei.	Aah! she sighed.		

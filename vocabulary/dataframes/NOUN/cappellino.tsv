@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cappellino		cappellino	NOUN		1	1e-06	1	1e-06	cappellino	NOUN	S	obj	Gender=Masc|Number=Sing	6f115c43-e0d5-51f5-8e11-5dada0e8029d	d9d89161-6131-5582-978d-8752c274ec8c	La cosa migliore è portare un cappellino in testa durante i freddi inverni di Mosca.	It's best to wear a cap on your head during the cold Moscow winters.				

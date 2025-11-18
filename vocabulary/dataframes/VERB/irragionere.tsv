@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+irragionevole		irragionere	VERB		1	1e-06	1	1e-06	irragionere+le	VERB+PRON	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Part|Clitic=Yes|Person=3|PronType=Prs	e04bc227-ea6c-576b-bc5d-824e62c4cc38	ebd69bd6-5588-56ac-b332-0d3b26709784	È irragionevole.	That's preposterous.				

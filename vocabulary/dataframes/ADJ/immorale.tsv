@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+immorale		immorale	ADJ		6	6e-06	7	7e-06	immorale	ADJ	A	root	Number=Sing	3b194046-7994-569f-89a5-cd990349ff16	f2a680a3-d9ef-5e49-9617-e35439d281df	Sei immorale.	You're immoral.	Io penso che Tom sia immorale.	I think Tom is immoral.	Penso che Tom sia immorale.	I think Tom is immoral.
+immorali		immorale	ADJ		1	1e-06	7	7e-06	immorale	ADJ	A	root	Number=Plur	11b00b60-4858-5d25-ab8b-5feec0ef9f4e	f2a680a3-d9ef-5e49-9617-e35439d281df	Siete immorali.	You're immoral.				

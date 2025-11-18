@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+serale		serale	ADJ		5	5e-06	5	5e-06	serale	ADJ	A	amod	Number=Sing	fa9ffbc6-4d68-5885-b2f0-546801fac41f	7550f95c-491d-53a0-9042-c5f69756b667	Va alla scuola serale.	She goes to night school.	Tom va alla scuola serale.	Tom goes to night school.	Lei va alla scuola serale.	She goes to night school.

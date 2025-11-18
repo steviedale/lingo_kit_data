@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+adottata		adottato	ADJ		1	1e-06	1	1e-06	adottato	ADJ	A	amod	Gender=Fem|Number=Sing	59a25844-649c-5dd3-bf5b-d1c42d115b4b	fc9151d7-0b8d-5230-8e30-e308b63e7be3	La ragazza adottata viene da Panama.	The adopted girl is from Panama.				

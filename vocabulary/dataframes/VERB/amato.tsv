@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+amata		amato	VERB		13	1.2e-05	13	1.2e-05	amato	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	51ebc2d5-b959-5b03-bff4-2368d734e53a	8de5776f-4856-556a-b92e-11e9f16d6a8b	L'arte è amata da tutti.	Art is loved by everybody.	Sono amata da mia madre.	I am loved by my mother.	Sono stata amata.	I have been loved.

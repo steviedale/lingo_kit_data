@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ritroso		ritroso	ADJ		2	2e-06	3	3e-06	ritroso	ADJ	A	root	Gender=Masc|Number=Sing	0e473dbc-7132-5ca2-84d0-14e2bbece4f3	16160732-db99-587b-b222-0dcf299715a5	Non essere ritroso.	Don't be coy.	Tom sembra ritroso.	Tom looks bashful.		
+ritrosa		ritroso	ADJ		1	1e-06	3	3e-06	ritroso	ADJ	A	root	Gender=Fem|Number=Sing	9c40cd36-adb2-5ef9-9484-9803982946c4	16160732-db99-587b-b222-0dcf299715a5	Non essere ritrosa.	Don't be coy.				

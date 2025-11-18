@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+temperato		temperare	ADJ		1	1e-06	1	1e-06	temperare	ADJ	A	amod	Gender=Masc|Number=Sing	cb500a97-29f0-5bea-83fc-134266990025	d6fba8ae-6e02-5454-a745-be3dbb8ef5c7	Il Giappone ha un clima temperato.	Japan has a mild climate.				

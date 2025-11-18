@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cognizione		cognizione	NOUN		4	4e-06	4	4e-06	cognizione	NOUN	S	obj	Gender=Fem|Number=Sing	38a03133-ad4c-5650-9568-da26ac9ea9a8	c6b894bc-63bc-5e3d-925b-db5351d209be	Io persi la cognizione del tempo.	I lost track of time.	Io ho perso la cognizione del tempo.	I lost track of time.	Persi la cognizione del tempo.	I lost track of time.

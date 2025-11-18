@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+genero		genero	NOUN		4	4e-06	4	4e-06	genero	NOUN	S	root	Gender=Masc|Number=Sing	676a7c5a-661f-52bc-b8b4-dece570aa9d5	cf0a6bb9-9747-5c36-8dfe-68616ae5d82d	Sarai mio genero.	You'll be my son-in-law.	Lei sarà mio genero.	You'll be my son-in-law.	Sarà mio genero.	You'll be my son-in-law.

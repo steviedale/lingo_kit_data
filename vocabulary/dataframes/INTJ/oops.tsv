@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+oops		oops	INTJ		4	4e-06	4	4e-06	oops	INTJ	I	discourse		96b6aad9-99c9-55df-b775-3d6fd9e78a13	b9fd0806-6939-58b5-bbc9-666b93aa3254	Oops, penso che ci siamo dimenticati di Tom.	Oops, I think we forgot Tom.	Oops, penso che ci siamo scordate di Tom.	Oops, I think we forgot Tom.	Oops, penso che ci siamo scordati di Tom.	Oops, I think we forgot Tom.

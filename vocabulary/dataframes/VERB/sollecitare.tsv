@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sollecitati		sollecitare	VERB		1	1e-06	1	1e-06	sollecitare	VERB	V	root	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5ce3e7f9-5063-5073-84a1-5cbbb323ac21	e04427af-9fcf-5865-bd51-d9b1c156a46a	Gli artisti famosi sono sollecitati dai giornalisti.	Famous artists are pressed by journalists.				

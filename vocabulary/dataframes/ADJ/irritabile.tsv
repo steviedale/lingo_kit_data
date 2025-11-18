@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+irritabili		irritabile	ADJ		5	5e-06	7	7e-06	irritabile	ADJ	A	root	Number=Plur	397326fb-25f2-50d9-93e7-0da229d5cb82	d3d56703-ff12-5d2e-bfb2-1f108a7ad80b	Sono tutti irritabili.	They are all irritable.	Sono tutte irritabili.	They are all irritable.	Loro sono tutte irritabili.	They are all irritable.
+irritabile		irritabile	ADJ		2	2e-06	7	7e-06	irritabile	ADJ	A	root	Number=Sing	61e73e92-6636-54d0-8ade-3d0df81e7fc9	d3d56703-ff12-5d2e-bfb2-1f108a7ad80b	Io non sono irritabile.	I'm not cranky.	Non sono irritabile.	I'm not cranky.		

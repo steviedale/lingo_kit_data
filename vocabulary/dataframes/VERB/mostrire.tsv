@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+mostrerete		mostrire	VERB		1	1e-06	1	1e-06	mostrire	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	afc37f48-c275-5fda-9ace-d08a0bfa15d5	95285cf1-4b5e-5b87-9812-88e0e4b0abe7	Mi mostrerete il libro?	Will you show me the book?				

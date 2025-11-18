@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+balia		balia	NOUN		1	1e-06	1	1e-06	balia	NOUN	S	root	Gender=Fem|Number=Sing	f8d15a43-e7f7-55e2-9806-052229925afa	c330890b-6a18-52b2-9879-33856819d541	La nave era in balia della tormenta.	The ship was at the mercy of the storm.				

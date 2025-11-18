@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+replicare		replicare	VERB		1	1e-06	1	1e-06	replicare	VERB	V	ccomp	VerbForm=Inf	2604ed3a-ba63-5b4a-96ef-79d69aebf971	ab5d59fe-bc67-56a2-83cf-fef53c1ae461	Tom non sa come replicare.	Tom doesn't know how to reply.				

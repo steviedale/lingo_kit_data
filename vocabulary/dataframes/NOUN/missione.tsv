@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+missione		missione	NOUN		15	1.4e-05	15	1.4e-05	missione	NOUN	S	nmod	Gender=Fem|Number=Sing	43281de7-2c24-54f1-9679-089a386e5bd6	62c87a22-80d2-56db-9ec4-b8a88a53ea35	Capisci la missione?	Do you understand the mission?	Capite la missione?	Do you understand the mission?	Tu capisci la missione?	Do you understand the mission?

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+innumerevole		innumerevole	ADJ		1	1e-06	1	1e-06	innumerevole	ADJ	A	amod	Gender=Fem|Number=Sing	60e7107e-be81-5619-af49-b16583fe52ad	caab9dd8-4045-589b-a991-f31b8e14121a	La scoperta dell'elettricità diede vita ad un'innumerevole quantità di invenzioni.	The discovery of electricity gave birth to an innumerable number of inventions.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pescivendolo		pescivere	VERB		1	1e-06	1	1e-06	pescivere+lo	VERB+PRON	V	acl	VerbForm=Ger|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6879d64b-9b10-5429-a852-68c7ac72f2c9	38b61578-7275-554a-aefb-f02f21e78a17	Sam possiede un'attività di pescivendolo.	Sam owns a fishmonger's business.				

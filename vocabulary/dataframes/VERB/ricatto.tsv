@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ricatti		ricatto	VERB		1	1e-06	1	1e-06	ricatto	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	b7980a62-7b58-5659-8e13-15152221ded2	24f76671-b91c-5c57-867e-8cc427345310	Non mi ricatti.	Do not blackmail me.				

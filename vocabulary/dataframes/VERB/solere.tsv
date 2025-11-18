@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+soleva		solere	VERB		1	1e-06	1	1e-06	solere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28affa5c-e0fc-5204-bea2-269e11368d87	1ff20467-3f69-58fe-9d36-f73b0b6736e1	Mio padre soleva dire che il denaro non è tutto.	My father used to say that money is not everything.				

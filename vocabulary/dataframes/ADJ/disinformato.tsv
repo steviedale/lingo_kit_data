@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+disinformata		disinformato	ADJ		2	2e-06	4	4e-06	disinformato	ADJ	A	root	Gender=Fem|Number=Sing	7769e97b-7891-54d4-ac45-4118c1ba7e7f	e773e7ca-f835-571f-b348-3381dc87fd2e	Io ero disinformata.	I was misinformed.	Ero disinformata.	I was misinformed.		
+disinformato		disinformato	ADJ		2	2e-06	4	4e-06	disinformato	ADJ	A	root	Gender=Masc|Number=Sing	03bf5ff1-281e-51c6-838c-151d931fbaed	e773e7ca-f835-571f-b348-3381dc87fd2e	Io ero disinformato.	I was misinformed.	Ero disinformato.	I was misinformed.		

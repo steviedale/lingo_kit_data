@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cannibale		cannibale	NOUN		2	2e-06	2	2e-06	cannibale	NOUN	S	nsubj	Gender=Masc|Number=Sing	30dc73d2-703c-5b43-84c6-e5d6ddb8ea49	d1dcd394-a8d0-5e64-8eb0-21bfa658131b	Salva un essere umano. Mangia un cannibale.	Save a human. Eat a cannibal.	Salva un umano. Mangia un cannibale.	Save a human. Eat a cannibal.		

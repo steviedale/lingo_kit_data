@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+chioccia		chioccia	NOUN		1	1e-06	1	1e-06	chioccia	NOUN	S	nsubj	Gender=Fem|Number=Sing	73783381-c5ae-5b59-b2f8-d958d5dcffe1	b71ec56a-6db2-52f5-a1eb-1cdb549a7363	Una chioccia ha deposto un uovo nel mio armadio.	A hen laid an egg in my closet.				

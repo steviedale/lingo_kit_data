@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+librettino		librettino	NOUN		1	1e-06	1	1e-06	librettino	NOUN	S	obj	Gender=Masc|Number=Sing	edefaec5-4093-5f08-8704-d06a1d8f3f54	576e2ca5-58b3-56bc-bc49-f1ab30afd923	Ha scritto un librettino sulla porcellana.	He wrote a small book on china.				

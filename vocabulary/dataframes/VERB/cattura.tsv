@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cattura		cattura	VERB		1	1e-06	1	1e-06	cattura	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3808ddd6-7e4c-5f2b-be11-b501df590b4e	9c5c100c-ddad-50d9-9708-a6ef6eace2fa	L'aquila non cattura le mosche.	The eagle does not catch flies.				

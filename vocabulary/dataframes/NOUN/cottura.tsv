@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cottura		cottura	NOUN		2	2e-06	2	2e-06	cottura	NOUN	S	nmod	Gender=Fem|Number=Sing	20cd96cb-83f4-5891-a9e7-ef3a10986997	2e436de6-a7f2-587c-af0f-5f443258ece0	Mi piacciono le bistecche a media cottura.	I like my steak medium.	A me piacciono le bistecche a media cottura.	I like my steak medium.		

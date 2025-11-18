@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+reporter		reporter	NOUN		5	5e-06	5	5e-06	reporter	NOUN	S	root	Gender=Masc	81b131c3-f9c3-5a8c-b665-aa8ae37ad10b	02307547-bba2-5711-b9ec-1425dc4f932f	Io sono una reporter.	I am a reporter.	Sono un reporter.	I am a journalist.	Io sono un reporter.	I am a reporter.

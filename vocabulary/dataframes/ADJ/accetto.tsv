@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+accetto		accetto	ADJ		1	1e-06	1	1e-06	accetto	ADJ	A	amod	Gender=Masc|Number=Sing	5d22e0d1-27cf-5301-9a38-85c9d98469dd	e86bc052-a92d-5444-b8ec-c21c2865fbb6	Questo è un regalo ben accetto da tutti.	This is an acceptable gift to everyone.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+furgoncino		furgoncino	NOUN		3	3e-06	3	3e-06	furgoncino	NOUN	S	obj	Gender=Masc|Number=Sing	0bb528a8-5ff5-5791-8edb-4d39f7968e16	f86cce65-ceb4-5382-8bec-bba06c209228	Noleggiate un furgoncino a tempo.	Hire a minivan by the hour.	Noleggi un furgoncino a tempo.	Hire a minivan by the hour.	Noleggia un furgoncino a tempo.	Hire a minivan by the hour.

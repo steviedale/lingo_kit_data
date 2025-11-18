@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+interromperti		interromperto	NOUN		1	1e-06	1	1e-06	interromperto	NOUN	S	nmod	Gender=Masc|Number=Plur	ef0afb23-d897-5570-b4bf-8dc8be64a4d1	a895d1fb-0b3e-59cd-855f-52b6cff6e485	Scusa, non avevo intenzione di interromperti.	Sorry, I didn't mean to interrupt you.				

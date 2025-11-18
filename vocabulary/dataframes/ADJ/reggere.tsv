@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+retto		reggere	ADJ		1	1e-06	1	1e-06	reggere	ADJ	A	amod	Gender=Masc|Number=Sing	9ca04404-23a3-584b-83e3-81c53830f9fc	6fe51917-43b7-5eb5-9b17-4755a595e7db	Un angolo di 90 gradi è chiamato angolo retto.	An angle of 90 degrees is called a right angle.				

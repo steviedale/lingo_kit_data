@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+berrete		berreé	VERB		1	1e-06	1	1e-06	berreé	VERB	V	root	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7c5ec879-6c10-5d42-a647-9aec5ea526db	95ca6ca3-832c-5360-8fc7-42f269690cb9	Berrete un po' di tè?	Will you drink some tea?				

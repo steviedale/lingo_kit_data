@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tablet		tablet	NOUN		1	1e-06	1	1e-06	tablet	NOUN	S	nsubj	Gender=Masc	652b46bd-2f45-53e8-a48e-95ea5417841e	dc1d78a3-c642-5c73-a725-d5908866a8ec	Il nuovo tablet costa un occhio della testa.	The new tablet costs an arm and a leg.				

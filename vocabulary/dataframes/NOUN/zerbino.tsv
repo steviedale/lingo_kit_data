@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+zerbino		zerbino	NOUN		2	2e-06	2	2e-06	zerbino	NOUN	S	obl	Gender=Masc|Number=Sing	fdbd43d2-f840-59b8-ad7b-4e3b9fc0c171	9d1657d9-4a39-5796-9f98-0d3d7b521741	Il gatto era seduto sullo zerbino.	The cat sat on the mat.	Il gatto sedeva sullo zerbino.	The cat sat on the mat.		

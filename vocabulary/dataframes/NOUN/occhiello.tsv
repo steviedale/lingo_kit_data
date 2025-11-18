@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+occhiello		occhiello	NOUN		1	1e-06	1	1e-06	occhiello	NOUN	S	nmod	Gender=Masc|Number=Sing	b393e5e5-ffd1-537e-a239-04c010596e18	357e7249-a7fe-58c9-ab8a-f5e255aacfe0	Questa ragazza è il fiore all'occhiello della scuola.	This girl is the flower of the school.				

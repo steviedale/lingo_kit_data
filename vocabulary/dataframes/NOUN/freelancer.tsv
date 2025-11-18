@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+freelancer		freelancer	NOUN		2	2e-06	2	2e-06	freelancer	NOUN	S	obl	Gender=Masc	6395f914-0b90-540e-8922-e97a7d26fbab	e9f0f438-f235-5537-8b20-4627d2e589ad	Lui lavorava principalmente come freelancer.	He worked mainly as a freelancer.	Lavorava principalmente come freelancer.	He worked mainly as a freelancer.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ricamò		ricamare	VERB		1	1e-06	1	1e-06	ricamare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	b471d4cd-e23d-5bec-9c20-16c4ba9ed4ad	1594c9be-e7ca-5d63-b5c0-f38903e15e1a	Ricamò le sue iniziali su un fazzolettino bianco.	She embroidered her initials on a white handkerchief.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+diagnostico		diagnostico	ADJ		1	1e-06	1	1e-06	diagnostico	ADJ	A	amod	Gender=Masc|Number=Sing	1c4d1fd1-33b1-539c-8341-6b43605b7cfb	3d6801b4-26a6-5144-9c49-ce4017d1d4df	Lo sfigmomanometro è un importante strumento diagnostico.	The sphygmomanometer is an important diagnostic instrument.				

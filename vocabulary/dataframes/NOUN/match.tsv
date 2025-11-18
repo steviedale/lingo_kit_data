@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+match		match	NOUN		1	1e-06	1	1e-06	match	NOUN	S	obj	Gender=Masc	2a480036-52b4-5c13-bd2f-b76da1005dee	adc5e575-b315-5420-8589-707db37357da	Vincemmo il match per 10 a 4.	We won the match by 10 to 4.				

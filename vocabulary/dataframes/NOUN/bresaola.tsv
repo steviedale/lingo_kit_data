@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+bresaola		bresaola	NOUN		10	1e-05	10	1e-05	bresaola	NOUN	S	obl	Gender=Fem|Number=Sing	90a8b14a-32bd-5428-ae99-eb36ca5fe9ea	061a2e2d-4d90-5dfb-a6a4-9c0b74ce424b	Voi avete della bresaola?	Do you have dried salted beef?	Io ho trovato della bresaola.	I found some dried salted beef.	Io trovai della bresaola.	I found some dried salted beef.

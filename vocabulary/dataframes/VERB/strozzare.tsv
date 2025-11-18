@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+strozzata		strozzare	VERB		1	1e-06	1	1e-06	strozzare	VERB	V	acl	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	b3cea2c1-1da7-52ed-9cf9-8bb90d909b71	020ef77d-84af-5deb-a0e7-6ef9ce898370	Era stesa al suolo, strozzata con la corda di un'arpa.	She was lying on the floor, strangled by a harp string.				

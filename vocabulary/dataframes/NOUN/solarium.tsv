@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+solarium		solarium	NOUN		1	1e-06	1	1e-06	solarium	NOUN	S	obl	Gender=Masc	2c832cb7-006c-5e55-bd90-a05c04b1e44e	ce446da8-1bc4-5bac-ace3-87cd4561d314	Mary è andata al solarium.	Mary went to the tanning salon.				

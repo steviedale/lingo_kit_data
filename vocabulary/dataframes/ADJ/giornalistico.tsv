@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+giornalistico		giornalistico	ADJ		1	1e-06	1	1e-06	giornalistico	ADJ	A	amod	Gender=Masc|Number=Sing	00a3e3be-dfc6-57d2-8fe1-cd2cb7ceb4f7	e362a54b-ded2-55ef-938d-812b29976cbb	Il testo giornalistico non è un'opera letteraria.	Journalistic text is not a literary work.				

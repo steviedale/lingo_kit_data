@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ciclista		ciclista	NOUN		1	1e-06	1	1e-06	ciclista	NOUN	S	nsubj	Number=Sing	1d51f093-ab1c-5e7a-b2b8-87002aebd019	060e2c84-022c-5876-8238-4a0ac00ab916	Il ciclista non è prudente.	The rider is not careful.				

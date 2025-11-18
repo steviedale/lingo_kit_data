@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fogna		fogna	NOUN		3	3e-06	3	3e-06	fogna	NOUN	S	obj	Gender=Fem|Number=Sing	ab6a2771-e797-5f5d-9f29-e58d23a4e830	29331e86-ca0f-5e1f-836f-ddf0ff40528b	Tappati la fogna.	Put a sock in it.	Si tappi la fogna.	Put a sock in it.	Tappatevi la fogna.	Put a sock in it.

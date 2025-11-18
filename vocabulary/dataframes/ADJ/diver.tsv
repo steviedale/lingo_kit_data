@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+diversi		diver	ADJ		1	1e-06	1	1e-06	diver+si	ADJ+PRON	A	amod	Number=Sing|Clitic=Yes|Person=3|PronType=Prs	914b46fb-0716-5f4e-bd90-ae39359a189f	67df76ac-878d-5a57-8974-7acbc80223f8	Ci sono molti tipi diversi di bellezza.	There are many different kinds of beauty.				

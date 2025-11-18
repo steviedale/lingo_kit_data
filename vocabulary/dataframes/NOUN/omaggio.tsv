@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+omaggio		omaggio	NOUN		1	1e-06	1	1e-06	omaggio	NOUN	S	root	Gender=Masc|Number=Sing	cbbb050a-2ae7-5129-b15e-2a845d29c2a1	559d62cf-f705-54eb-98aa-674641e71272	Questo è un piccolo omaggio a tutti i miei insegnanti.	This is a small tribute to all my teachers.				

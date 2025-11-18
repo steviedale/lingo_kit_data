@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pasticcini		pasticcine	NOUN		1	1e-06	1	1e-06	pasticcine	NOUN	S	obj	Gender=Masc|Number=Plur	86f4b763-5d9f-5bb1-a930-bd2fc8895fb8	c495f324-073f-5c4a-bbe6-f9d6f79e7084	Qualcuno ha mangiato tutti i miei pasticcini.	Someone ate all my cupcakes.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+dottor		dottor	NOUN		1	1e-06	1	1e-06	dottor	NOUN	S	vocative	Gender=Masc|Number=Sing	c294ff54-f5e5-5f10-aa29-782756ec5ba0	db6cc476-82e3-5d5a-b7dc-5200bd3780ce	Dottor Clark, posso chiederle un favore?	Dr. Clark, may I ask a favor of you?				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+schifoso		schifoso	ADJ		1	1e-06	1	1e-06	schifoso	ADJ	A	amod	Gender=Masc|Number=Sing	ae523c01-94a5-562c-9f2c-24cfd27c6c6a	1f2ba075-d49a-5edc-ac08-ebff65ea62aa	C'è un odore schifoso in cucina.	There's a foul smell in the kitchen.				

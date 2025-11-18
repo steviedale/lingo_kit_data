@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ottavino		ottavino	NOUN		5	5e-06	5	5e-06	ottavino	NOUN	S	obj	Gender=Masc|Number=Sing	102a0d09-e3a6-57ba-8b8a-02d0bcec9cb3	e81d4a00-d9d6-5189-9c03-b225a2b90da5	Tom non può suonare l'ottavino.	Tom can't play the piccolo.	Tom non riesce a suonare l'ottavino.	Tom can't play the piccolo.	Tom non sa suonare l'ottavino.	Tom can't play the piccolo.

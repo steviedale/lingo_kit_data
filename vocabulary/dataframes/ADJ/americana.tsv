@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+americana		americana	ADJ		1	1e-06	1	1e-06	americana	ADJ	A	amod	Gender=Fem|Number=Sing	e0ef30c8-f5d5-5658-8e8d-a0e71df2194c	4091a76a-7081-5db0-82f8-f1e53e3d9292	La guerra del Vietnam è conosciuta in Vietnam, e piuttosto opportunamente, come la Guerra Americana.	The Vietnam War is known in Vietnam, and quite appropriately, as the American War.				

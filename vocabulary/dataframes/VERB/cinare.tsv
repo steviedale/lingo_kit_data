@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ceno		cinare	VERB		4	4e-06	4	4e-06	cinare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0d2e86aa-17a2-5609-bd2c-55d14706360f	bbcc3cb7-430d-5c3c-a2f0-c2b5d5e40b62	Io ceno adesso.	I have dinner now.	Io ceno ora.	I have dinner now.	Io ceno alle sette e un quarto.	I have my supper at a quarter past seven.

@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+imbattibili		imbattibile	ADJ		2	2e-06	3	3e-06	imbattibile	ADJ	A	root	Number=Plur	053f0d92-dd27-5751-8d60-324d1bc8bfa8	c62b3681-0672-5a9a-8dbd-93fb3ee0f07a	Loro saranno imbattibili.	They'll be unbeatable.	Saranno imbattibili.	They'll be unbeatable.		
+imbattibile		imbattibile	ADJ		1	1e-06	3	3e-06	imbattibile	ADJ	A	amod	Number=Sing	66c4ff36-b7b4-5c38-b19a-797a4541ef8e	c62b3681-0672-5a9a-8dbd-93fb3ee0f07a	Liu Bei e Zhuge Liang sono una squadra imbattibile.	Liu Bei and Zhuge Liang are an unbeatable team.				

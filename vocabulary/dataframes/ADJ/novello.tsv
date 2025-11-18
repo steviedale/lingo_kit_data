@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+novelli		novello	ADJ		4	4e-06	4	4e-06	novello	ADJ	A	amod	Gender=Masc|Number=Plur	c2da386a-510e-5ce4-aace-e241a0214e8a	61b01c1e-5915-5755-b7bf-fd1c72e63da2	Siamo novelli sposi.	We're newlyweds.	Eravamo sposi novelli.	We were newlyweds.	Noi eravamo sposi novelli.	We were newlyweds.

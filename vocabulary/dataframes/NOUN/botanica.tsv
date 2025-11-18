@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+botanica		botanica	NOUN		1	1e-06	1	1e-06	botanica	NOUN	S	nsubj	Gender=Fem|Number=Sing	8e2301c0-edbf-56ed-8f00-b6667309fb75	2b6cea4a-c96d-50a0-8e72-78271667a8e0	La botanica tratta lo studio delle piante.	Botany deals with the study of plants.				

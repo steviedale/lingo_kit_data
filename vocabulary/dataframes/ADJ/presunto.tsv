@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+presunto		presunto	ADJ		2	2e-06	2	2e-06	presunto	ADJ	A	amod	Gender=Masc|Number=Sing	4af50fa8-9490-5635-9319-c5b25e22f15c	5dbc6573-700c-5143-85a3-81aa0a6d5233	Lui è il presunto assassino.	He is allegedly the murderer.	È il presunto assassino.	He is allegedly the murderer.		

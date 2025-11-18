@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rimpianto		rimpianto	NOUN		1	1e-06	1	1e-06	rimpianto	NOUN	S	obj	Gender=Masc|Number=Sing	c8ef6014-fb35-541f-ae18-017e861c258d	501be2a6-6a09-5511-8952-b699ea07f394	Tom non ha alcun rimpianto.	Tom has no regrets.				

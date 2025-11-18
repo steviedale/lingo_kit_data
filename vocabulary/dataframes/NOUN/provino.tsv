@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+provino		provino	NOUN		2	2e-06	2	2e-06	provino	NOUN	S	obj	Gender=Masc|Number=Sing	70393f25-3593-59af-b6de-5424e1721b10	33d42d24-ef41-50aa-9b53-6edbf34de99b	Mary fece un provino per la parte.	Mary auditioned for the part.	Mary ha fatto un provino per la parte.	Mary auditioned for the part.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+goal		goal	NOUN		3	3e-06	3	3e-06	goal	NOUN	S	obl	Gender=Masc	3bbb00fe-bbc4-594d-810d-1594b757d195	0e723244-dffe-504e-bcfc-d90ec6af6a00	La partita è terminata senza goal.	The match ended with no goal.	Tom ha segnato un goal!	Tom scored a goal!	La folla gridò quando fece un goal.	The crowd yelled when he scored a goal.

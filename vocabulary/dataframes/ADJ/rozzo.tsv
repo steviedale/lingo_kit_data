@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rozza		rozzo	ADJ		1	1e-06	2	2e-06	rozzo	ADJ	A	amod	Gender=Fem|Number=Sing	8ecf4626-7b88-569d-9d46-1a8d5c256021	294e816d-5169-52aa-b6b7-53591e838bf1	Tom è una persona rozza, ignorante e reazionaria appartenente ai ceti bassi del Sud degli Stati Uniti.	Tom is a redneck.				
+rozzo		rozzo	ADJ		1	1e-06	2	2e-06	rozzo	ADJ	A	root	Gender=Masc|Number=Sing	020b10d4-dc95-5c34-9293-094dcdf4bb46	294e816d-5169-52aa-b6b7-53591e838bf1	Questo è veramente rozzo.	This is really gross.				

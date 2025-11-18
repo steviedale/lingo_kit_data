@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+autenticità		autenticità	NOUN		1	1e-06	1	1e-06	autenticità	NOUN	S	nsubj:pass	Gender=Fem	c570587f-5200-59e0-9a97-05fe95b5458c	9ae1deed-8794-557a-89aa-4080439be4c6	Veniva controllata l'autenticità dei documenti prima di pubblicarli.	The authenticity of the documents was checked before publishing them.				

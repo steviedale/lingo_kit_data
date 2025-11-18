@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ciccione		ciccione	NOUN		2	2e-06	2	2e-06	ciccione	NOUN	S	ccomp	Gender=Masc|Number=Sing	778e5afc-5205-5ffc-859b-0cbf270731ff	f47b6b48-1d11-517a-89f2-1354508c3990	Io penso che Tom sia ciccione.	I think Tom is flabby.	Penso che Tom sia ciccione.	I think Tom is flabby.		

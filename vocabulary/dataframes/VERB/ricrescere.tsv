@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ricrescere		ricrescere	VERB		2	2e-06	3	3e-06	ricrescere	VERB	V	ccomp	VerbForm=Inf	86f534f1-c3ef-599a-adb4-9ad6aebb91b8	2bb21b54-2fd2-5234-a1c1-91febbacf369	Tom si è fatto ricrescere i baffi.	Tom grew back his mustache.	Tom si fece ricrescere i baffi.	Tom grew back his mustache.		
+ricresciuti		ricrescere	VERB		1	1e-06	3	3e-06	ricrescere	VERB	V	root	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	f4c72679-ce8d-5fcc-9d52-3925b123cf83	2bb21b54-2fd2-5234-a1c1-91febbacf369	I suoi capelli sono ricresciuti.	Her hair grew back.				

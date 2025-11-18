@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+piacevate		piacevare	VERB		1	1e-06	1	1e-06	piacevare	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	a7633440-1b62-5228-8bb6-7ae19df13ed6	5d0bac57-b6ae-58c5-96be-0f36df14d925	Piacevate a Tom.	Tom liked you.				

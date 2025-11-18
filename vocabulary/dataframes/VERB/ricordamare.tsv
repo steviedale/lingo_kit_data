@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ricordami		ricordamare	VERB		1	1e-06	1	1e-06	ricordamare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8e23fd00-cfc8-510e-baa9-00a9548da6e8	324b59a8-9159-591a-b902-53536f5a1791	Ricordami ai tuoi genitori.	Remember me to your parents.				

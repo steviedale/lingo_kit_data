@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+criptato		criptare	VERB		1	1e-06	1	1e-06	criptare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	27844d62-ffb0-5e64-b162-e60aeeb918a5	13c0315a-ae84-5d51-8380-2e0f2516ac57	Questo file è criptato.	This file is encrypted.				

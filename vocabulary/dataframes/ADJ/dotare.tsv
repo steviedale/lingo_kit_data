@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+dotata		dotare	ADJ		2	2e-06	2	2e-06	dotare	ADJ	A	amod	Gender=Fem|Number=Sing	d6c24d5f-0920-5561-af89-57c93393f9dd	67363131-875f-5810-a2fc-e9402318a45f	Lei è un'artista dotata.	She is a gifted artist.	È un'artista dotata.	She is a gifted artist.		

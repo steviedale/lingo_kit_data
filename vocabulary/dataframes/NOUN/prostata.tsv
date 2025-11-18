@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+prostata		prostata	NOUN		2	2e-06	2	2e-06	prostata	NOUN	S	obj	Gender=Fem|Number=Sing	886d03bd-68c6-57d7-be92-dbdff64367a9	0c172fa6-e22b-5b91-aaa0-fd67e4f4e050	Tom ha un tumore alla prostata.	Tom has prostate cancer.	Avevo la prostata ingrossata.	I had an enlarged prostate.		

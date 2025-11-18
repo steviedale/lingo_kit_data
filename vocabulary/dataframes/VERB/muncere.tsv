@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+munto		muncere	VERB		3	3e-06	3	3e-06	muncere	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	bb691786-3678-5b3c-adef-153559cc7f67	e11accd4-d7a3-55bd-9cd5-482d67b6d2c0	Ha munto la vacca.	She milked the cow.	Lui ha munto la vacca.	He milked the cow.	Lei ha munto la vacca.	She milked the cow.

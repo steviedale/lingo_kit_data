@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+stressata		stressato	ADJ		6	6e-06	8	8e-06	stressato	ADJ	A	xcomp	Gender=Fem|Number=Sing	8b05797f-3c3b-5c82-ba56-706329406362	9988f805-e691-590d-a93f-ebef3f30c519	Sembri stressata.	You seem stressed.	Sembrava stressata.	You seemed stressed.	Sembravi stressata.	You seemed stressed.
+stressate		stressato	ADJ		2	2e-06	8	8e-06	stressato	ADJ	A	xcomp	Gender=Fem|Number=Plur	22c97f91-a273-58a8-801e-3a35c5b7fa8f	9988f805-e691-590d-a93f-ebef3f30c519	Sembrate stressate.	You seem stressed.	Sembravate stressate.	You seemed stressed.		

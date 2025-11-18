@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+metereologo		metereologo	NOUN		1	1e-06	1	1e-06	metereologo	NOUN	S	nsubj	Gender=Masc|Number=Sing	c2539e58-5e9e-5e56-9bda-2d50aa6e4d0e	fc557af4-e302-557c-b881-9e9f19e631e0	Il metereologo dice che sta arrivando una tempesta.	The weatherman says there is a storm on the way.				

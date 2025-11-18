@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+digli		diglio	NOUN		1	1e-06	1	1e-06	diglio	NOUN	S	appos	Gender=Masc|Number=Plur	68d96a71-061e-5977-bb26-e6b27eb886cf	f1fbe052-f9a7-500e-a7c8-33d81056ae1b	Se viene Bin Laden, digli che sono nel negozio.	If Bin Laden comes, tell him I'm in the store.				

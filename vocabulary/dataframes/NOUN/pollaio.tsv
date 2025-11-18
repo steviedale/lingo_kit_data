@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pollaio		pollaio	NOUN		1	1e-06	1	1e-06	pollaio	NOUN	S	obj	Gender=Masc|Number=Sing	8729cc79-5eda-5deb-9832-c65e2b653681	85199dda-2441-5ab4-b1e2-1e6d40031f6c	Sto pensando di bruciartelo il pollaio.	I'm thinking of burning your roost.				

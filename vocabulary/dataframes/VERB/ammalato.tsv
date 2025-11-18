@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ammalati		ammalato	VERB		1	1e-06	2	2e-06	ammalato	VERB	V	advcl	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8286fec4-703b-5d73-bb1b-7b404416157e	c694b6e4-9306-554e-a079-00166f72e739	Quando si è ammalati, i visitatori possono essere abbastanza fastidiosi.	When one is sick, visitors can be rather annoying.				
+ammalate		ammalato	VERB		1	1e-06	2	2e-06	ammalato	VERB	V	root	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	06fbbbe3-a1a9-5ea6-b58c-fd4fb3e4ba94	c694b6e4-9306-554e-a079-00166f72e739	Noi siamo ammalate.	We're sick.				

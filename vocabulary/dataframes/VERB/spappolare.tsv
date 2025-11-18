@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+spappolando		spappolare	VERB		1	1e-06	2	2e-06	spappolare	VERB	V	root	VerbForm=Ger	dc432e24-97d0-52e3-8b43-276e6613056d	9b7d1dbe-2499-5a2f-80fd-96cc228a5470	Il cervello mi si sta spappolando.	My brain is being crushed.				
+spappolato		spappolare	VERB		1	1e-06	2	2e-06	spappolare	VERB	V	xcomp	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1ae6526a-e5a9-59d6-8a76-d86260b293c3	9b7d1dbe-2499-5a2f-80fd-96cc228a5470	Tom sembra spappolato.	Tom looks crushed.				

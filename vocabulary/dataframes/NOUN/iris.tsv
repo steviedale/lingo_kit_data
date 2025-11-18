@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+iris		iris	NOUN		1	1e-06	1	1e-06	iris	NOUN	S	obl	Gender=Masc	8a85bad7-1d73-543b-9331-d667f578ab16	9f362018-2491-5d4d-8ec5-a498b02a8821	Il giardino è famoso per i suoi iris.	The garden is famous for its irises.				

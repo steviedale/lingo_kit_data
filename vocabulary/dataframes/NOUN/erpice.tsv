@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+erpice		erpice	NOUN		1	1e-06	1	1e-06	erpice	NOUN	S	obj	Gender=Masc|Number=Sing	8e313902-71fd-5ffc-a119-0302ae5de6e9	11b0cba3-7a63-51d9-87ae-cdb1ebc2db97	I cavalli stanno trainando l'erpice.	The horses are pulling the harrow.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+gestita		gestire	ADJ		1	1e-06	1	1e-06	gestire	ADJ	A	amod	Gender=Fem|Number=Sing	b84f6f0e-8006-5e97-8d5d-b5a6666e8ad0	43a17dda-da56-5475-8529-84a4d617fa2d	Quella è un'azienda ben gestita.	That is a well-managed company.				

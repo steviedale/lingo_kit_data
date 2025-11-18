@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+oliata		oliare	VERB		1	1e-06	1	1e-06	oliare	VERB	V	acl	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	e43fbc98-7f74-5689-94e7-9aaafb3f0a22	d4efc6dd-5f5c-52f2-a1c8-8167923ad4e5	La macchina ha bisogno di essere oliata.	The machine needs oiling.				

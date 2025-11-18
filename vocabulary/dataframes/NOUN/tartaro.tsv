@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tartaro		tartaro	NOUN		1	1e-06	1	1e-06	tartaro	NOUN	S	nsubj:pass	Gender=Masc|Number=Sing	c166bd09-1c60-5bec-b6b0-7be41b163401	41617e16-51c0-5692-bff7-f1e6f5024898	Il tartaro dev'essere rimosso.	The tartar has to be removed.				

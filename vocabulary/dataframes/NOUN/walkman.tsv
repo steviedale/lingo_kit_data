@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+walkman		walkman	NOUN		2	2e-06	2	2e-06	walkman	NOUN	S	obj	Gender=Masc	5f73635f-9217-5a39-abb0-ada4a54d816e	a49b7a50-23d5-5713-b5f1-5d0aa424eca1	Io avrei fatto meglio a prendere il mio walkman.	I had better take my Walkman.	Avrei fatto meglio a prendere il mio walkman.	I had better take my Walkman.		

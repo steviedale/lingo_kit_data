@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+frastornato		frastornare	VERB		1	1e-06	1	1e-06	frastornare	VERB	V	xcomp	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	ca8ab73f-7a18-5eae-acb7-d9db802771a5	3596c249-a0d6-5d30-932a-d0bfa7135f79	Tom si sta sentendo frastornato.	Tom is feeling dizzy.				

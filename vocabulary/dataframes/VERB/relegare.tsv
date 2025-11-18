@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+relegato		relegare	VERB		3	3e-06	3	3e-06	relegare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4ef4ef7d-ba29-53c2-86bf-82973a1f2021	6ad1d417-c5de-5e23-8bad-3761a26c8f1c	Tom è stato relegato.	Tom was sent to Coventry.	Tom fu relegato.	Tom was sent to Coventry.	Tom venne relegato.	Tom was sent to Coventry.

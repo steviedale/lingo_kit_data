@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+spiegatemi		spiegatemare	VERB		1	1e-06	1	1e-06	spiegatemare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	951a3648-1fb8-5bd7-b810-89e11bf32386	26cbdcb0-d602-5d2f-9f95-f910dfa08334	Spiegatemi il messaggio.	Explain the message to me.				

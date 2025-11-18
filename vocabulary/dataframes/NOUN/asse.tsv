@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+asse		asse	NOUN		5	5e-06	5	5e-06	asse	NOUN	S	obl	Gender=Masc|Number=Sing	f2aeaa22-575e-5e16-8625-eb90809ac6d6	875ac9d3-5bb4-505a-9051-7cb5fa351b67	Piantò dei chiodi nell'asse.	He hammered nails into the plank.	Ha piantato dei chiodi nell'asse.	He hammered nails into the plank.	Lui piantò dei chiodi nell'asse.	He hammered nails into the plank.

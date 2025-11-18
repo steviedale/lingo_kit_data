@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+localizzare		localizzare	VERB		2	2e-06	2	2e-06	localizzare	VERB	V	xcomp	VerbForm=Inf	d926a87c-21a9-5696-85e8-1f824c9aa268	713b1ee1-ac93-5d59-934c-464c6f20123f	Io non riesco a localizzare il problema.	I can't pinpoint the problem.	Non riesco a localizzare il problema.	I can't pinpoint the problem.		

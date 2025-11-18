@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+anca		anca	NOUN		1	1e-06	1	1e-06	anca	NOUN	S	nsubj	Gender=Fem|Number=Sing	5e4d7e27-b4fa-5fb8-abf6-3dfbb88757f7	0d2abbf5-6470-5538-9f90-b370fa27a748	Sono consapevole che mi fa male l'anca quando piove.	I am aware that my hip aches when it rains.				

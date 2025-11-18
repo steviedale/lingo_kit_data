@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+incoraggiamento		incoraggiamento	NOUN		1	1e-06	1	1e-06	incoraggiamento	NOUN	S	nmod	Gender=Masc|Number=Sing	74d25201-56c6-5278-b3a0-81cbef42024a	b529de63-08f8-59ca-b69a-2fe218937661	Tom ha bisogno di incoraggiamento.	Tom needs encouragement.				

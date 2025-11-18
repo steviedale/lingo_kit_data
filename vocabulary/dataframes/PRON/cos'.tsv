@@ -1,2 +1,0 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cos'	KOHZ	cos'	PRON	what	365	0.000349	365	0.000349	cos'	PRON	PQ	root	Number=Sing|PronType=Int	2be98e0b-acb0-5a1c-9427-6f391a176e97	dafd7fec-616c-5190-96b3-b87a1be585ff	Che cos'è una cartella aperta?	What is an open folder?	Io so cos'ha ucciso Tom.	I know what killed Tom.	Lo sapete di cos'ha bisogno Tom?	Do you know what Tom needs?

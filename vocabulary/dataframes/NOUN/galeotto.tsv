@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+galeotto		galeotto	NOUN		1	1e-06	1	1e-06	galeotto	NOUN	S	root	Gender=Masc|Number=Sing	9e77c401-de27-5ca4-806b-2df1b633c713	739b547e-bca3-5324-877f-c0e8e4ec213e	Quell'uomo è un galeotto.	That man is a convict.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+massime		massima	NOUN		1	1e-06	1	1e-06	massima	NOUN	S	nsubj	Gender=Fem|Number=Plur	93bb6051-e8a9-5a56-8c9f-fe07984537dd	8f974a74-6f26-57be-ab71-63caf4216daa	Le massime di Confucio sono famose.	The sayings of Confucius are famous.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pende		pendere	VERB		1	1e-06	1	1e-06	pendere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	b50f9b01-90f3-5d65-ad0e-945ae0e7421d	49655bc2-f1c4-5f75-8256-abc5b8fdc68f	Una porta che cigola pende a lungo sui cardini.	A creaking door hangs long on its hinges.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+defenestro		defenire	VERB		5	5e-06	5	5e-06	defenire	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	a69c8b29-1156-5efe-8bfe-18e5c5540877	aaca51ec-5d31-56b6-a331-285288f7e7cf	Io vi defenestro!	I defenestrate you!	Vi defenestro!	I defenestrate you!	Io ti defenestro!	I defenestrate you!

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+motociclista		motociclista	NOUN		1	1e-06	1	1e-06	motociclista	NOUN	S	root	Number=Sing	c42dda3b-7c30-5e33-8fef-ce815678bf98	aa5f1af3-3e8a-565e-b40b-ed59d7415160	Tom è un grande motociclista.	Tom is a great motocross rider.				

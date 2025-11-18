@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+arroventi		arroventare	VERB		1	1e-06	1	1e-06	arroventare	VERB	V	advcl	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3a3d1237-5806-509c-a438-e070a14d06ec	570bd93d-7a0f-54a7-81d3-f105286ea7f6	Usciamo prima che si arroventi.	Let's go out before it gets hot.				

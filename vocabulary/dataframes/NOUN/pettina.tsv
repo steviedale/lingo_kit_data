@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pettine		pettina	NOUN		3	3e-06	3	3e-06	pettina	NOUN	S	root	Gender=Masc|Number=Sing	93de65eb-c50d-5583-a272-5dd2cb9ec5a2	78d34c2f-a290-5f34-844f-3d5fc2f72290	Questo è un pettine di legno.	This is a wooden comb.	Io ho un pettine di legno.	I have a wooden comb.	Ho un pettine di legno.	I have a wooden comb.

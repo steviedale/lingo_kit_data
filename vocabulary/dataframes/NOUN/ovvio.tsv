@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ovvio		ovvio	NOUN		16	1.5e-05	16	1.5e-05	ovvio	NOUN	S	obj	Gender=Masc|Number=Sing	f79fac43-8e1b-50b6-8ca8-4f82f7a672be	7029d4f1-1972-502b-935f-ef06a0a60244	Sta solo affermando l'ovvio.	You are just stating the obvious.	Sto solamente dichiarando l'ovvio.	I'm just stating the obvious.	Sto soltanto dichiarando l'ovvio.	I'm just stating the obvious.

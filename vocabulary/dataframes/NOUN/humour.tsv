@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+humour		humour	NOUN		1	1e-06	1	1e-06	humour	NOUN	S	nmod	Gender=Masc	c74f3b1a-ae4d-5e99-9ea6-5e8660148b3f	c857da96-0e52-50c1-b10c-22871fdb8c2d	Lui sembra essere a corto di humour.	He seems to be bankrupt of humor.				

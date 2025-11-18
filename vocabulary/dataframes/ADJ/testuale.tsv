@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+testuale		testuale	ADJ		1	1e-06	1	1e-06	testuale	ADJ	A	amod	Number=Sing	62915f09-9af3-5eca-ac70-1f387def6a00	baec1da5-a037-5ef7-9ae4-e8ce37e9a346	Ogni immagine del blog include una descrizione testuale a beneficio dei lettori non vedenti.	Each picture in the blog includes textual descriptions for blind readers.				

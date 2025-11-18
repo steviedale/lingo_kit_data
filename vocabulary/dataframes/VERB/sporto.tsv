@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sporto		sporto	VERB		1	1e-06	1	1e-06	sporto	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	99351e11-af31-5033-ba25-924d7a008054	47b4786f-1d44-5987-8536-afdf7c88c123	Tom si è sporto e ha aperto la portiera dal lato del passeggero.	Tom leaned over and opened the passenger-side door.				

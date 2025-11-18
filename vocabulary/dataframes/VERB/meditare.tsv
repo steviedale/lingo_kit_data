@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+meditando		meditare	VERB		6	6e-06	7	7e-06	meditare	VERB	V	root	VerbForm=Ger	49b3b35a-9451-5587-a7cb-b171dc543cee	1a2b42a2-a772-55ce-972c-bc32e8565ac6	Noi stiamo meditando.	We're meditating.	Tom sta meditando.	Tom is meditating.	Stiamo meditando.	We're meditating.
+meditato		meditare	VERB		1	1e-06	7	7e-06	meditare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	64c0c9c5-277a-5e2b-a94e-64db9de40dda	1a2b42a2-a772-55ce-972c-bc32e8565ac6	È meditato.	That's thoughtful.				

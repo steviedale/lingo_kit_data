@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+poltrona		poltrona	NOUN		1	1e-06	1	1e-06	poltrona	NOUN	S	nsubj	Gender=Fem|Number=Sing	4ffb2e3a-8170-51d2-9eb5-15afae67483b	7125318b-7ebd-5305-8fc9-00f0b8d8b94c	La poltrona dove sono seduto è molto comoda.	The armchair I'm sitting in is very comfy.				

@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cretino		cretino	ADJ		2	2e-06	4	4e-06	cretino	ADJ	A	root	Gender=Masc|Number=Sing	efbc854d-6b73-5a2e-aea4-02e70378d7fd	a3ed3bc7-36a8-5839-ae6f-134b0bcbab16	Non sia cretino!	Don't be a douchebag!	Non essere cretino!	Don't be a douchebag!		
+cretina		cretino	ADJ		2	2e-06	4	4e-06	cretino	ADJ	A	root	Gender=Fem|Number=Sing	1101b728-59a7-54c6-8082-ab9a63399d7a	a3ed3bc7-36a8-5839-ae6f-134b0bcbab16	Non essere cretina!	Don't be a douchebag!	Non sia cretina!	Don't be a douchebag!		

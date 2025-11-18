@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+persiste		persistere	VERB		2	2e-06	2	2e-06	persistere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38924a77-8a78-596d-8bd1-b253bf007c32	9f1f2cf8-4dd5-56df-908b-cea0af64081b	Persiste nella sua opinione.	He persists in his opinion.	Lui persiste nella sua opinione.	He persists in his opinion.		

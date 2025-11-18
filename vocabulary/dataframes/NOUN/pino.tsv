@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pino		pino	NOUN		1	1e-06	1	1e-06	pino	NOUN	S	nsubj	Gender=Masc|Number=Sing	51641644-5ad4-542f-82b9-852328f31de3	dac3decc-7d31-53f6-b0e2-a8b21c7caeef	C'era un grande pino di fronte alla mia casa.	There used to be a big pine tree in front of my house.				

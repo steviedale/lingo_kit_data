@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+poetica		poetico	ADJ		1	1e-06	1	1e-06	poetico	ADJ	A	amod	Gender=Fem|Number=Sing	0cca51d0-8f4d-59e3-9ea9-43bccdd766d6	ae2cf877-f90c-5f3a-aec8-aa101bceb9ca	L'haiku è una forma poetica originaria del Giappone.	Haiku is a poetic form originating in Japan.				

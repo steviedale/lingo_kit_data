@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+incertezza		incertezza	NOUN		1	1e-06	1	1e-06	incertezza	NOUN	S	nmod	Gender=Fem|Number=Sing	f823d6eb-8c2e-5b70-8669-b22a85398555	4ed77fec-3861-57c7-b83c-84fe3de82d71	L'anno scorso era un periodo di incertezza economica.	Last year was a period of economic uncertainty.				

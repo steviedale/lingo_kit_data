@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+favelas		favelas	NOUN		1	1e-06	1	1e-06	favelas	NOUN	S	obl	Gender=Fem|Number=Plur	51f7a491-c198-54bc-89e0-45747056db34	d974a6dd-63e9-56bd-b428-64b214fb34a3	A Rio de Janeiro il 20% della popolazione vive nelle favelas.	In Rio de Janeiro, 20% of the population lives in slums.				

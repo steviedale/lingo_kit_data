@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cormorano		cormorano	NOUN		1	1e-06	1	1e-06	cormorano	NOUN	S	nsubj	Gender=Masc|Number=Sing	e98d5375-5d3b-5b8e-b09f-8a2e51d33a20	f805d954-802d-534a-b636-44c9db9ce52c	Quel cormorano ha perso la capacità di volare.	That cormorant lost the ability to fly.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+consigliabile		consigliabile	ADJ		2	2e-06	2	2e-06	consigliabile	ADJ	A	root	Number=Sing	b54a3b5a-1c71-53e1-9b06-375763ee74b4	fc9cace4-26d6-5253-a67a-fe741eb3e84b	È consigliabile andare in treno.	It is advisable to go by train.	È consigliabile per lui andare.	It is advisable for him to go.		

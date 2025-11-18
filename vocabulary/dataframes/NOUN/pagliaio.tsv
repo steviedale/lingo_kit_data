@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pagliaio		pagliaio	NOUN		1	1e-06	1	1e-06	pagliaio	NOUN	S	obl	Gender=Masc|Number=Sing	96f8753e-85ae-52b5-bd20-231453430958	792ceb05-5caf-5b9b-9df3-ebe618e86ea6	È come cercare un ago in un pagliaio.	It is like looking for a needle in a haystack.				

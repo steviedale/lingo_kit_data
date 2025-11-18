@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+circadiano		circadiano	ADJ		1	1e-06	1	1e-06	circadiano	ADJ	A	amod	Gender=Masc|Number=Sing	b6e516d6-8d44-5383-b105-873ced724064	51afee3d-78b7-5b30-9f00-1a968ee21884	La degradazione dell'amido è collegata a un orologio circadiano.	Starch degradation is linked to a circadian clock.				

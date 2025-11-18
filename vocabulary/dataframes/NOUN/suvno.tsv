@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+suv.		suvno	NOUN		4	4e-06	4	4e-06	suvno	NOUN	S	nsubj	Gender=Masc|Number=Sing	4c8580fc-b76f-5d65-97d5-d5f1fbec8b0d	c3513b3a-911e-57d4-b697-d755fdcf8f33	Io non ho bisogno di un SUV.	I don't need an SUV.	Non mi serve un SUV.	I don't need an SUV.	Non ho bisogno di un SUV.	I don't need an SUV.

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+medaglia		medaglia	NOUN		39	3.7e-05	39	3.7e-05	medaglia	NOUN	S	obj	Gender=Fem|Number=Sing	29aeb70b-e4ba-5dc8-ad06-deb249008f65	d300ba18-b380-5497-b0d6-65fdef426f6d	Questo tizio si merita una medaglia.	This guy deserves a medal.	Vinsero la medaglia d'argento.	They won the silver medal.	Lui ha vinto una medaglia d'argento.	He won a silver medal.

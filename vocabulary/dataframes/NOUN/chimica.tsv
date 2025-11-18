@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+chimica		chimica	NOUN		19	1.8e-05	19	1.8e-05	chimica	NOUN	S	obj	Gender=Fem|Number=Sing	3aef3362-0376-5a75-a429-5210a81bb495	9d78c522-d245-5c4f-b0ed-685bf5872888	Lei studia chimica?	Do you study chemistry?	L'ho trovato un genio nella chimica.	I found him a genius at chemistry.	Studiate chimica?	Do you study chemistry?

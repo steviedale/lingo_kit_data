@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+belga		belga	ADJ		1	1e-06	1	1e-06	belga	ADJ	A	amod	Number=Sing	9fce150c-e9fc-562a-bf68-235b5fcfb1df	12d80291-040b-50c4-b11c-f4331d14d50e	Jacques è un nome belga.	Jacques is a Belgian name.				

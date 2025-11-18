@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+nord		nord	NOUN		23	2.2e-05	23	2.2e-05	nord	NOUN	S	obl	Gender=Masc|Number=Sing	97da4cc0-03a4-55f5-b07a-b46b3dcd52f7	8250a633-4577-53e7-8e20-aa7cec6e35ff	Il fiume scorre lungo il nord dell'isola.	The river flows along the north of island.	Siamo dirette verso nord.	We're heading north.	Vivo nel nord dello stato.	I live upstate.

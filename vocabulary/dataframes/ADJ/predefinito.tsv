@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+predefinita		predefinito	ADJ		1	1e-06	1	1e-06	predefinito	ADJ	A	amod	Gender=Fem|Number=Sing	e2bc7386-e03b-5e54-b043-45e570549c91	d598353a-3dac-5a26-aa5c-452c24575955	Tutti gli elementi di una struttura dati sono pubblici per impostazione predefinita.	All the elements of a data structure are public by default.				

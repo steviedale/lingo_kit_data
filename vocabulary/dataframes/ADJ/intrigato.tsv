@@ -1,0 +1,5 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+intrigate		intrigato	ADJ		2	2e-06	8	8e-06	intrigato	ADJ	A	root	Gender=Fem|Number=Plur	cb128034-9e3e-51a7-bdab-28dfbca53e55	0be12ea9-019d-5758-9bbc-041e6b34147b	Noi siamo intrigate.	We're intrigued.	Siamo intrigate.	We're intrigued.		
+intrigati		intrigato	ADJ		2	2e-06	8	8e-06	intrigato	ADJ	A	root	Gender=Masc|Number=Plur	56376783-6e04-5619-b907-4f327002dba6	0be12ea9-019d-5758-9bbc-041e6b34147b	Noi siamo intrigati.	We're intrigued.	Siamo intrigati.	We're intrigued.		
+intrigata		intrigato	ADJ		2	2e-06	8	8e-06	intrigato	ADJ	A	root	Gender=Fem|Number=Sing	56f18e4f-5a5e-5889-83e4-d334a4f522b3	0be12ea9-019d-5758-9bbc-041e6b34147b	Io sono intrigata.	I'm intrigued.	Sono intrigata.	I'm intrigued.		
+intrigato		intrigato	ADJ		2	2e-06	8	8e-06	intrigato	ADJ	A	root	Gender=Masc|Number=Sing	8b2caeee-9ba2-5fff-988d-384d61854e33	0be12ea9-019d-5758-9bbc-041e6b34147b	Io sono intrigato.	I'm intrigued.	Tom sembra intrigato.	Tom looks intrigued.		

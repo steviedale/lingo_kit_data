@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+carbonato		carbonato	NOUN		1	1e-06	1	1e-06	carbonato	NOUN	S	nsubj	Gender=Masc|Number=Sing	3ef79e8e-17ca-558a-9db6-5e871acda7a4	c21a28f0-fdab-5148-837f-d6b8a638c8c3	Il carbonato di ammonio è un composto organico.	Ammonium carbonate is an organic compound.				

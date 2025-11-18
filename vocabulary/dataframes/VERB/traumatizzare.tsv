@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+traumatizzato		traumatizzare	VERB		1	1e-06	1	1e-06	traumatizzare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	744357d9-ea09-5b49-a45b-cd4dcd471fbf	96f2655c-d28c-5623-aa33-61fe0edc269c	Questo incidente lo ha psicologicamente traumatizzato.	This accident has psychologically traumatized him.				

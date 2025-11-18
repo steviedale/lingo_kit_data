@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+palato		palato	NOUN		2	2e-06	2	2e-06	palato	NOUN	S	obj	Gender=Masc|Number=Sing	3e4355f3-3164-5610-bda1-49d864caf42e	34e30175-c6ec-581b-ab12-e780733390b5	Lui ha un buon palato per il vino.	He has a good palate for wine.	Ha un buon palato per il vino.	He has a good palate for wine.		

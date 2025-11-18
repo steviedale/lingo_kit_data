@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sconce		sconcino	ADJ		4	4e-06	4	4e-06	sconcino	ADJ	A	amod	Gender=Fem|Number=Plur	e32e41d6-b9bf-5589-af00-fd5956fa2e4b	1af5f778-c63c-567f-ab1c-db8565d0c74e	Non mi piacciono le barzellette sconce.	I don't like dirty jokes.	Non mi piacciono le battute sconce.	I don't like dirty jokes.	A me non piacciono le battute sconce.	I don't like dirty jokes.

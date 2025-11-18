@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+arsenale		arsenale	NOUN		1	1e-06	1	1e-06	arsenale	NOUN	S	nsubj	Gender=Masc|Number=Sing	9a7c136e-5bf5-5726-a17c-8075fa4713dd	dcf35a8e-3ea2-5959-8199-8ba7b924debf	Il loro arsenale militare è potente.	They have a powerful military arsenal.				

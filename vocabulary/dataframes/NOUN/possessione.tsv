@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+possessione		possessione	NOUN		1	1e-06	1	1e-06	possessione	NOUN	S	root	Gender=Fem|Number=Sing	94dbdccf-3f3e-5a22-9756-6c37811ae899	f1785877-455d-54ad-b441-e5a2034281b9	La palla è la possessione più importante di questo ragazzo.	The ball is that boy's prized possession.				

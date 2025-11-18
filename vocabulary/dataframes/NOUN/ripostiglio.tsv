@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ripostiglio		ripostiglio	NOUN		1	1e-06	1	1e-06	ripostiglio	NOUN	S	root	Gender=Masc|Number=Sing	cc5253aa-6bca-5d24-a147-f77fc465e0c7	80c55a56-bc3b-58e0-83bb-2cdf857c0eb0	Questo è il ripostiglio di Tom.	This is Tom's locker.				

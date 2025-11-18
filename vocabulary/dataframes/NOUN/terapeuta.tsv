@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+terapeuta		terapeuta	NOUN		5	5e-06	5	5e-06	terapeuta	NOUN	S	nsubj	Number=Sing	2b9299fb-6331-5d2f-8afd-da6702cb4add	ddf3f610-fd76-58b2-9064-073b99db50d0	Sto vedendo un terapeuta.	I'm seeing a therapist.	Io sto vedendo un terapeuta.	I'm seeing a therapist.	Io sto vedendo una terapeuta.	I'm seeing a therapist.

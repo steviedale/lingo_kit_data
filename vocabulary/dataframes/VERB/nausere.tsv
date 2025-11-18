@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+nauseato		nausere	VERB		2	2e-06	2	2e-06	nausere	VERB	V	xcomp	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	b970ce57-db83-5a58-adec-483bc6ab1a4a	8e3fdcc5-3440-5ec5-8b25-943e90df5efd	Tom si sente nauseato.	Tom feels nauseous.	Tom si sta sentendo nauseato.	Tom is feeling nauseous.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+arancio		arancio	NOUN		1	1e-06	1	1e-06	arancio	NOUN	S	nsubj	Gender=Masc|Number=Sing	c502eede-1770-52bf-8003-e579a1bb26a0	d3a82539-f270-587f-a9b7-aaa4ba8d010e	Un arancio produce un'arancia.	An orange tree provides an orange.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+inosservata		inosservato	ADJ		1	1e-06	1	1e-06	inosservato	ADJ	A	xcomp	Gender=Fem|Number=Sing	5bba4b96-7b90-562d-b6f6-0b68d0882896	6ba508a0-19fe-5a15-beb4-7b197874ebc6	La mia lettera passò inosservata.	My letter went unheeded.				

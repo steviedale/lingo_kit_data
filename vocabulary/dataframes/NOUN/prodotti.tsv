@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+prodotti		prodotti	NOUN		1	1e-06	1	1e-06	prodotti	NOUN	S	nsubj	Gender=Masc|Number=Plur	c8f9c081-bc9a-5301-a39d-e00894e46cc6	61de7375-9490-503d-a2fe-82854f890da2	Prodotti stranieri arrivarono sul mercato in grandi quantità.	Foreign products arrived on the market in large quantities.				

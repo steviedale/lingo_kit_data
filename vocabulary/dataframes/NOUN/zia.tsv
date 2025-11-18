@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+zia		zia	NOUN		83	7.9e-05	83	7.9e-05	zia	NOUN	S	nsubj	Gender=Fem|Number=Sing	7015b966-4db6-58e0-9d8e-8ce2e472f34e	4dbc71bc-4181-5e44-bce1-e163ee6f8565	Sua zia ha tre gatti.	His aunt has three cats.	Mia zia è morta due anni fa.	My aunt has been dead for two years.	Io starò con mia zia a Kyoto.	I am going to stay with my aunt in Kyoto.

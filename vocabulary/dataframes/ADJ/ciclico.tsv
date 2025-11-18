@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ciclico		ciclico	ADJ		1	1e-06	2	2e-06	ciclico	ADJ	A	amod	Gender=Masc|Number=Sing	c1547e7b-20e7-50c9-b316-741300247b88	04520886-3275-584c-84d4-f7bc6e254337	Questo è un argomento ciclico.	This is a cyclic topic.				
+ciclica		ciclico	ADJ		1	1e-06	2	2e-06	ciclico	ADJ	A	root	Gender=Fem|Number=Sing	a4a5b75d-4f89-592c-a4c9-7a959e46251f	04520886-3275-584c-84d4-f7bc6e254337	La natura della vita è ciclica.	Life's nature is cyclic.				

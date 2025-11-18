@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sbandò		sbandare	VERB		1	1e-06	1	1e-06	sbandare	VERB	V	advcl	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	51c06963-caa0-59a1-8cdf-cfe5134bef01	16098bc0-75bf-55d3-82ae-4c6fcc11db0f	Quando il bus sbandò per evitare un gatto, l'autista disse, C'è mancato poco!	When the bus swerved to miss a cat, the driver said, That was a close one!				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ricaricate		ricaricare	VERB		1	1e-06	1	1e-06	ricaricare	VERB	V	root	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	eb1f1453-9ae4-5a51-b6bc-313a5c728dc0	5ecfccfd-1487-59cf-b5ff-4cb9455346ca	Le auto elettriche possono essere ricaricate a casa.	Electric cars can be recharged at home.				

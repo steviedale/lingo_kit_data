@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+farsa		farsa	NOUN		2	2e-06	2	2e-06	farsa	NOUN	S	root	Gender=Fem|Number=Sing	0cb5db42-bd4d-507e-87d2-67df8aa9e844	b3295a93-08e1-5311-80eb-12e2a3b1ea8e	Questa è una farsa.	This is a farce.	È una farsa.	That's a farce.		

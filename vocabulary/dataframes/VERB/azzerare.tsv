@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+azzerare		azzerare	VERB		1	1e-06	1	1e-06	azzerare	VERB	V	root	VerbForm=Inf	0f960c4a-e6ee-570c-8470-44d5cf8f4195	b9adebdf-6fbf-5e11-b931-5c540dc13d4a	Devi azzerare il contatore dei chilometri.	You have to reset the odometer.				

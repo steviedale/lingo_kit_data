@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+equino		equino	NOUN		1	1e-06	1	1e-06	equino	NOUN	S	root	Gender=Masc|Number=Sing	22ba1f53-7395-5787-a412-4eb9d1ef40dc	8e5eb022-3529-52ec-894e-11dd679cf2e1	Il cavallo è un equino.	A horse is an equine.				

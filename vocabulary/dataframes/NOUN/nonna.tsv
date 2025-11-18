@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+nonna		nonna	NOUN		1	1e-06	1	1e-06	nonna	NOUN	S	nsubj	Gender=Fem|Number=Sing	1dde10c8-064f-5220-9d3a-ddfec20417b2	c55ecf52-c3c3-5c5c-8c88-24c4fdf7d9be	Nonna ha tre volte e mezzo i tuoi anni.	Grandma is three and a half times your age.				

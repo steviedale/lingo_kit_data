@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pietrificato		pietrificato	ADJ		2	2e-06	3	3e-06	pietrificato	ADJ	A	root	Gender=Masc|Number=Sing	29b69b1b-5b37-53fb-adb0-f945e987e8a8	144c3117-5d16-5552-89d5-96a72eb5cc6a	Ero pietrificato.	I was petrified.	Tom sembrava pietrificato.	Tom looked petrified.		
+pietrificata		pietrificato	ADJ		1	1e-06	3	3e-06	pietrificato	ADJ	A	root	Gender=Fem|Number=Sing	ca7bd8d2-102b-52f2-a0a8-3db376976542	144c3117-5d16-5552-89d5-96a72eb5cc6a	Ero pietrificata.	I was petrified.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+antiquariato		antiquariato	NOUN		2	2e-06	2	2e-06	antiquariato	NOUN	S	nsubj	Gender=Masc|Number=Sing	debc7dd5-86aa-5e31-bb8f-d761b8e1844e	30006a2a-b9bb-5f82-b428-bcc2840f9adc	Mi è sempre piaciuto l'antiquariato.	I've always liked antiques.	A me è sempre piaciuto l'antiquariato.	I've always liked antiques.		

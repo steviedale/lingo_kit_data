@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+madrina		madrina	NOUN		4	4e-06	4	4e-06	madrina	NOUN	S	root	Gender=Fem|Number=Sing	aac4ab25-b950-5940-9052-0714b1cb059c	92a97a89-1256-5634-8096-91a34dc996d3	È la mia madrina.	She's my godmother.	La madrina ha fatto una deliziosa torta.	The godmother baked a delicious cake.	La madrina fece una deliziosa torta.	The godmother baked a delicious cake.

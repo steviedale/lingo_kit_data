@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+meeting		meeting	NOUN		1	1e-06	1	1e-06	meeting	NOUN	S	nsubj	Gender=Masc	30808cea-6dc2-5560-a47e-8fce4a0e9f1b	d4a536eb-1ed7-506a-ba69-e7eccf496c76	Il meeting è cominciato alle cinque di pomeriggio.	The meeting began at five in the afternoon.				

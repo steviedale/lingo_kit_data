@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+socievole		sociere	VERB		1	1e-06	1	1e-06	sociere+le	VERB+PRON	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	124e0a28-c144-520b-a772-9cb7b53cb848	5fa63a90-0b35-56fb-880b-49608ffa6d0e	Tom è socievole.	Tom is friendly.				

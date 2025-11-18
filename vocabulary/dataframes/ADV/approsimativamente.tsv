@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+approsimativamente		approsimativamente	ADV		1	1e-06	1	1e-06	approsimativamente	ADV	B	advmod		5adcb64f-044a-56b3-8e36-7ad707784cf9	b4ce53cc-8f8e-5b9f-9e6f-42c37a07e94b	L'euro vale approsimativamente un dollaro oggi.	The Euro is worth approximately one dollar today.				

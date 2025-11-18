@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+agenda		agenda	NOUN		4	4e-06	4	4e-06	agenda	NOUN	S	obj	Gender=Fem|Number=Sing	a853d76b-4c1b-5f87-86c8-3c6df5820909	f3909783-3ccc-5ad8-8695-b271779c3a3b	Fammi controllare l'agenda.	Let me check my schedule.	Ho comprato un'agenda rossa.	I bought a red diary.	Mi faccia controllare l'agenda.	Let me check my schedule.

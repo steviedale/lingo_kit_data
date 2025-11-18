@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+squamato		squamare	VERB		2	2e-06	3	3e-06	squamare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6c6dfcc7-b193-5c5c-a7cf-4226412b0161	e7422ddf-abd0-501a-9d3a-04b5e042de8d	Ha squamato un pesce.	She scaled a fish.	Lei ha squamato un pesce.	She scaled a fish.		
+squamò		squamare	VERB		1	1e-06	3	3e-06	squamare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	d4e5e643-e9f4-54a6-b3f6-547fed68ffb5	e7422ddf-abd0-501a-9d3a-04b5e042de8d	Squamò un pesce.	She scaled a fish.				

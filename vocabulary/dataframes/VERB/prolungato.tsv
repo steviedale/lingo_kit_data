@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+prolungata		prolungato	VERB		1	1e-06	1	1e-06	prolungato	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	a607e8a0-793b-5529-b829-f296f374dd66	70584952-e5d6-5091-9731-b2ce27ebf960	La riunione si è prolungata oltre il necessario.	The meeting dragged on.				

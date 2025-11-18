@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sedicesimo		sedicesimo	ADJ		1	1e-06	1	1e-06	sedicesimo	ADJ	NO	amod	Gender=Masc|NumType=Ord|Number=Sing	d62ed3e3-a1a4-507c-9b8c-9b55726cf8d0	dda0c924-4cc9-5632-9bd1-976cc2b46459	Oggi è il mio sedicesimo compleanno.	Today is my sixteenth birthday.				

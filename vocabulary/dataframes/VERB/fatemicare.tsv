@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fatemici		fatemicare	VERB		2	2e-06	2	2e-06	fatemicare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	328f9f1e-1845-55e8-8691-7a47fcce785f	09beb319-80f7-5e19-86a5-9a207973e596	Fatemici pensare un minuto.	Let me think a minute.	Fatemici pensare un attimo.	Let me think for a while.		

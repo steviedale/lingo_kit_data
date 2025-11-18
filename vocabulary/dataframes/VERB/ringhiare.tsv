@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ringhiava		ringhiare	VERB		2	2e-06	2	2e-06	ringhiare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7a191760-5d13-53fb-9c07-c4e1acbce51e	b6875919-b243-5b3b-85d2-109d4ac3d917	Il cane ringhiava allo strano uomo.	The dog growled at the strange man.	Il cane ringhiava a un ragazzino.	The dog growled at a little boy.		

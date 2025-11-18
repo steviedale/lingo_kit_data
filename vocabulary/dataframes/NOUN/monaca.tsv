@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+monaca		monaca	NOUN		1	1e-06	1	1e-06	monaca	NOUN	S	root	Gender=Fem|Number=Sing	bc3465bf-0093-5814-890e-97f47e12dcd1	98f381da-6802-53bd-87ea-699b99a8bbe8	Madre Teresa era una monaca cattolica che viveva e lavorava a Calcutta, in India.	Mother Teresa was a Catholic nun who lived and worked in Calcutta, India.				

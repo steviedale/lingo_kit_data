@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sintetizza		sintetizzare	VERB		1	1e-06	1	1e-06	sintetizzare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	a3f28ad9-c0eb-54da-b12a-28a9a4b20793	faf0d7e3-ddfb-5e98-bd6f-b350e1134241	Come si sintetizza l'aspirina?	How do you synthesize aspirin?				

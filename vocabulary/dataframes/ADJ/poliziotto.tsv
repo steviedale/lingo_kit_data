@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+poliziotte		poliziotto	ADJ		2	2e-06	2	2e-06	poliziotto	ADJ	A	root	Gender=Fem|Number=Plur	82f6e738-8303-5b33-aa15-ea660554ac42	99b6d377-e8cf-58a7-9639-78f4291b7f32	Non siamo poliziotte.	We're not cops.	Noi non siamo poliziotte.	We're not cops.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+patibolo		patibolo	NOUN		2	2e-06	2	2e-06	patibolo	NOUN	S	obl	Gender=Masc|Number=Sing	6b2eb377-defc-5662-aafa-c756455d2844	fac05dd2-992f-5b68-ba92-2a57e693f873	Il criminale è stato mandato al patibolo.	The criminal was sent to the gallows.	Il criminale venne mandato al patibolo.	The criminal was sent to the gallows.		

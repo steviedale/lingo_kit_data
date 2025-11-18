@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+destrimano		destrimare	VERB		2	2e-06	2	2e-06	destrimare	VERB	V	root	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5a6d4eee-d901-5c3d-b2eb-41fe5f9a4840	07533de5-5392-595a-9eab-faaf68a288e5	Io sono destrimano.	I am right-handed.	Sono destrimano.	I am right-handed.		

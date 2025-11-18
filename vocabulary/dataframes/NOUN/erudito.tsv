@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+erudito		erudito	NOUN		1	1e-06	1	1e-06	erudito	NOUN	S	nmod	Gender=Masc|Number=Sing	6ad98002-f6f7-5b44-9730-666d66c381b8	fed6127f-30e2-5ca1-8ee9-e1ff2e00763c	Ha qualcosa dell'erudito.	He is something of a scholar.				

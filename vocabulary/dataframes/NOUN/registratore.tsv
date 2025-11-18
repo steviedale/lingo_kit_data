@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+registratore		registratore	NOUN		1	1e-06	1	1e-06	registratore	NOUN	S	nsubj	Gender=Masc|Number=Sing	dccc4325-cbf0-5dce-bf80-993010d8bfa9	91d279a8-c44b-56b4-809d-d45c6f5f8e0e	Il registratore ha registrato la sua voce.	The tape recorder has recorded his voice.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+commesso		commesso	NOUN		1	1e-06	1	1e-06	commesso	NOUN	S	obl	Gender=Masc|Number=Sing	5dc443a4-4727-54bf-a7b2-b659a7e0ee54	fda8c6d7-8cdc-5e94-aa6c-de001159b315	Ho compilato un assegno da 25 dollari e l'ho dato al commesso.	I made out a check for $25 and handed it to the salesperson.				

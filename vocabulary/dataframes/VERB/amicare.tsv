@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+amichevole		amicare	VERB		1	1e-06	1	1e-06	amicare+le	VERB+PRON	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Imp|Verbform=Fin|Clitic=Yes|Person=3|PronType=Prs	87221393-6cfc-5cd7-9cff-a3dec19aafdd	3553a1e6-993c-5414-9546-eacc1ff7bd2b	È amichevole.	He's friendly.				

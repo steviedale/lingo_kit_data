@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sovrattasse		sovrattassa	NOUN		1	1e-06	1	1e-06	sovrattassa	NOUN	S	nsubj:pass	Gender=Fem|Number=Plur	90a2bcb4-207f-5489-b2bd-15d11c639e00	3446834a-939f-55d1-8822-a02185802ef4	Le sovrattasse non sono incluse.	Surcharges are not included.				

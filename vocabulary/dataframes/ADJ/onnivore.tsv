@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+onnivora		onnivore	ADJ		2	2e-06	2	2e-06	onnivore	ADJ	A	root	Gender=Fem|Number=Sing	75e8640b-80fe-5fc1-9b31-83c3a174ea83	95a2a68d-2cb0-56f8-b37a-087c6bbdeaab	Sono onnivora.	I am an omnivore.	Io sono onnivora.	I am an omnivore.		

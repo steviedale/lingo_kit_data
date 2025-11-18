@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+colando		colare	VERB		5	5e-06	5	5e-06	colare	VERB	V	root	VerbForm=Ger	2b5c18ca-4117-54bb-a449-bf44224d8f83	93b1649f-463f-5c5c-95f2-e8b1c1122141	Ti sta colando il naso.	Your nose is running.	Mi sta colando il naso.	My nose is running.	Ti sta colando il naso. Soffiatelo.	Your nose is running. Blow it.

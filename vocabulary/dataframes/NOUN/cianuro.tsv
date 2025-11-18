@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cianuro		cianuro	NOUN		1	1e-06	1	1e-06	cianuro	NOUN	S	root	Gender=Masc|Number=Sing	99c1720f-c5be-5d3c-a9b9-9cc0b86b654a	32079d02-e57b-5f90-a938-8ab25f1773b0	È cianuro.	That's cyanide.				

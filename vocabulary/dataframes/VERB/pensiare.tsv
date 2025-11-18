@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pensiate		pensiare	VERB		1	1e-06	1	1e-06	pensiare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	c1d6a81b-ffc8-50b7-be8f-fde84fb92bc9	24566a33-0924-5954-bf2a-03e1f0d788cc	Non voglio che ci pensiate ancora.	I don't want you to think about it anymore.				

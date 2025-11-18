@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tran-tran		tran-tran	NOUN		1	1e-06	1	1e-06	tran-tran	NOUN	S	obl	Gender=Masc	ae502b23-67b9-51c8-a7d4-7052fbc31873	acf12959-f981-56d7-afb4-15ed335f7aa3	Sono stanco del solito tran-tran.	I am tired of the day-to-day routine of life.				

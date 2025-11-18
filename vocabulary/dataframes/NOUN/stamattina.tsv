@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+stamattina		stamattina	NOUN		2	2e-06	2	2e-06	stamattina	NOUN	S	obl	Gender=Masc|Number=Sing	07297234-211d-5c99-b988-61cfc8e96c35	57adf822-54e4-5357-a771-fbe1a7346933	Gioca a tennis da stamattina.	He has been playing tennis since this morning.	Lui scrive poesie da stamattina.	He has been writing poems since this morning.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+intressato		intressato	ADJ		1	1e-06	1	1e-06	intressato	ADJ	A	acl:relcl	Gender=Masc|Number=Sing	606722e4-1ab0-5a0e-a11f-fff364fe22f2	65778b6f-7660-55ca-b44c-ce2f6b024a7d	Ciò a cui sono più intressato è tradurre frasi in inglese.	What I am most interested in is translating English sentences.				

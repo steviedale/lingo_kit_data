@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+capostazione		capostazione	NOUN		1	1e-06	1	1e-06	capostazione	NOUN	S	nsubj	Gender=Masc|Number=Sing	4dde7512-df99-5a46-aca1-a650fee385c3	1b67c27c-7580-5747-bc47-8cb5e10f6693	C'è una stazione ferroviaria in Giappone dove il capostazione è un gatto.	There's a train station in Japan where the station master is a cat.				

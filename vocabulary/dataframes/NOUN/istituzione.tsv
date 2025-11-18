@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+istituzione		istituzione	NOUN		1	1e-06	1	1e-06	istituzione	NOUN	S	nsubj:pass	Gender=Fem|Number=Sing	666d49bc-f7ef-58ee-ba44-eba4198bd401	fd4480fc-9a32-5625-90a8-77e9970db1b5	L'istituzione è stata fondata alla fine degli anni '60.	The institution was established in the late 1960s.				

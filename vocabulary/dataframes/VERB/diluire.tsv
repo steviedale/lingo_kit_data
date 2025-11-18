@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+diluì		diluire	VERB		1	1e-06	1	1e-06	diluire	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27af43f8-caf0-58cb-95d2-a3467cb2d084	fc9a0f49-327e-583c-8d2b-14be60edabe7	Il ghiaccio diluì il succo.	The ice watered down the juice.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+avambraccio		avambraccio	NOUN		1	1e-06	1	1e-06	avambraccio	NOUN	S	conj	Gender=Masc|Number=Sing	617bc883-8d1d-515b-a92a-f0170dfa779e	6dd14fce-f577-5a78-8340-8333293695da	Il gomito è la giuntura tra il braccio e l'avambraccio.	The elbow is the joint between the arm and forearm.				

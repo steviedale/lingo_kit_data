@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+aiutiate		aiutiare	VERB		2	2e-06	2	2e-06	aiutiare	VERB	V	ccomp	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	aa07b6c1-9b4f-5f9d-aaba-e2562f6d9a92	b9149619-59f7-5b2a-8fa2-069b1b7e3801	Voglio che voi mi aiutiate a morire.	I want you to help me die.	Voglio che mi aiutiate a morire.	I want you to help me die.		

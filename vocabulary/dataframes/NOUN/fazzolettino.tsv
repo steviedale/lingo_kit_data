@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fazzolettino		fazzolettino	NOUN		1	1e-06	1	1e-06	fazzolettino	NOUN	S	obl	Gender=Masc|Number=Sing	343eebf5-5f51-5414-9f26-b62db6c71996	24d5c5c5-d4b0-5181-b04d-bfb5ca436c15	Ricamò le sue iniziali su un fazzolettino bianco.	She embroidered her initials on a white handkerchief.				

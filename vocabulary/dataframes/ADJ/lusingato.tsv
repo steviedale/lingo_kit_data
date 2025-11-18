@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+lusingato		lusingato	ADJ		2	2e-06	4	4e-06	lusingato	ADJ	A	root	Gender=Masc|Number=Sing	c4ac1511-b99d-5575-be5a-dcb39ac8a193	749d3300-d875-5c79-ac8f-93e0d01782f0	Io sono lusingato.	I'm flattered.	Sono lusingato.	I'm flattered.		
+lusingata		lusingato	ADJ		2	2e-06	4	4e-06	lusingato	ADJ	A	root	Gender=Fem|Number=Sing	218bfe87-a12c-56b8-a3e6-a14eaaef4b7b	749d3300-d875-5c79-ac8f-93e0d01782f0	Sono lusingata.	I'm flattered.	Io sono lusingata.	I'm flattered.		

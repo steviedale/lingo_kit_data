@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+hot		hot	NOUN		2	2e-06	2	2e-06	hot	NOUN	S	nsubj	Gender=Masc	fd1645c3-cc78-540e-b47f-e151ac07b4d7	0771264e-fc1a-5309-9b9c-a775e77723c1	Le piace il suo hot dog?	Do you like your hot dog?	Ti piace il tuo hot dog?	Do you like your hot dog?		

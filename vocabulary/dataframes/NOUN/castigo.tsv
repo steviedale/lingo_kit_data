@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+castigo		castigo	NOUN		1	1e-06	1	1e-06	castigo	NOUN	S	obl	Gender=Masc|Number=Sing	ac70aab1-6381-5173-aa90-ec8baf8674b6	0c30346d-7cb8-5a79-847f-8a0a514fb9cc	Tom è stato tenuto in castigo.	Tom has been grounded.				

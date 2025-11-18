@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+perseguitano		perseguitare	VERB		1	1e-06	1	1e-06	perseguitare	VERB	V	root	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	931adad8-6cab-5331-9518-18d4e2bca8db	9f41b109-68b0-5f9d-b4c9-e99ca6f31f38	Tristi memorie perseguitano sempre il bambino.	Sad memories always haunt the child.				

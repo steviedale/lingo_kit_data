@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scavi		scavo	NOUN		2	2e-06	2	2e-06	scavo	NOUN	S	obl	Gender=Masc|Number=Plur	202ede47-bc15-56c2-8a29-f59ae666ed48	f986c6e6-1743-595e-8fa5-34fca554c222	Scavi un buco profondo.	Dig a deep hole.	Durante gli scavi sono stati trovati resti umani.	Human remains were found during the excavation.		

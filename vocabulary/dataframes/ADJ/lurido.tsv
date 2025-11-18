@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+lurido		lurido	ADJ		2	2e-06	2	2e-06	lurido	ADJ	A	amod	Gender=Masc|Number=Sing	98b10f68-51a8-5023-aa7a-05c1bfc508de	15286cdc-9e33-56fd-a036-e5b8920f1dca	Sei un lurido porco.	You're an awful hog.	Tu sei un lurido porco.	You're an awful hog.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+iraniana		iraniano	ADJ		1	1e-06	1	1e-06	iraniano	ADJ	A	amod	Gender=Fem|Number=Sing	19d9b6e6-4bbb-5b22-bce4-5f3ea662de82	e65950fe-de1b-58b4-ab92-89d4f56a615f	Teheran è una città iraniana.	Tehran is an Iranian town.				

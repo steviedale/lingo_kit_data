@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+assassinio		assassinio	NOUN		1	1e-06	1	1e-06	assassinio	NOUN	S	obl	Gender=Masc|Number=Sing	366b8745-2821-5beb-b8a8-cb67b66ce5d2	c64b5f7b-59e3-5ad7-9e34-d29dfa625690	Dopo l'assassinio, ebbero una conversazione intima.	After the murder, they had an intimate conversation.				

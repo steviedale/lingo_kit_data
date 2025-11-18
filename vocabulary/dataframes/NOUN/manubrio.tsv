@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+manubrio		manubrio	NOUN		2	2e-06	2	2e-06	manubrio	NOUN	S	nmod	Gender=Masc|Number=Sing	f95c8ad2-2b47-5804-864b-979f0df80148	a4053c57-c261-593c-89a5-34fafbbd6d2a	Lui ha dei grandi baffi a manubrio.	He has a huge handlebar mustache.	Ha dei grandi baffi a manubrio.	He has a huge handlebar mustache.		

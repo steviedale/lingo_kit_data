@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+mongolo		mongolo	NOUN		1	1e-06	1	1e-06	mongolo	NOUN	S	nmod	Gender=Masc|Number=Sing	fc38562d-95b9-5af7-832b-1d325bed79da	61d002e0-350b-5efd-aa17-30b9a2849fbf	Per ora su Tatoeba ci sono sei frasi in mongolo.	There are six sentences in Mongolian in Tatoeba as of now.				

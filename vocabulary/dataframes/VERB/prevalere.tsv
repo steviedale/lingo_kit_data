@@ -1,0 +1,4 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+prevale		prevalere	VERB		1	1e-06	3	3e-06	prevalere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	c4722939-a0ee-5e0e-9c1e-f3dd48b0ae3e	93d2ea67-93c2-5fa2-b964-0f015b8044d3	La verità prevale.	Truth prevails.				
+prevalso		prevalere	VERB		1	1e-06	3	3e-06	prevalere	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	41120e3f-d52f-57ee-a59e-a291ed7e48ec	93d2ea67-93c2-5fa2-b964-0f015b8044d3	Loro hanno prevalso sul nemico.	They overcame the enemy.				
+prevarrà		prevalere	VERB		1	1e-06	3	3e-06	prevalere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	84030c34-d8e5-5cac-b0c2-b6fdee6ed558	93d2ea67-93c2-5fa2-b964-0f015b8044d3	L'amore prevarrà.	Love will prevail.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+disorientato		disorientare	VERB		2	2e-06	2	2e-06	disorientare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18c606ac-6d38-536e-9f00-96801661a2a3	169c1e43-c128-5797-bcad-765b95b364fb	Tom è disorientato.	Tom's groggy.	Tom appare disorientato.	Tom appears disoriented.		

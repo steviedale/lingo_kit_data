@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+molla		molla	NOUN		1	1e-06	1	1e-06	molla	NOUN	S	nsubj	Gender=Fem|Number=Sing	f959cb45-d20b-5854-8a20-a9a35153fc74	67b98e99-125f-5e6b-a8ec-39abafe10c11	La molla nel mio orologio è rotta.	The spring in my watch is broken.				

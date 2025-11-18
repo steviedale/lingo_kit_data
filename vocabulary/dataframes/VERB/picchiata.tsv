@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+picchiata		picchiata	VERB		3	3e-06	3	3e-06	picchiata	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	fdc7e825-02fd-5020-abca-46e29dcc30ee	9c6a8b8b-9872-5b0e-84aa-4d2707c790dd	Tom mi ha picchiata.	Tom hit me.	Tom mi ha picchiata per primo.	Tom hit me first.	Papà, Mary mi ha picchiata!	Dad, Mary hit me!

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+inginocchiata		inginocchiato	ADJ		1	1e-06	1	1e-06	inginocchiato	ADJ	A	root	Gender=Fem|Number=Sing	4ca4caee-ccc5-5577-b1ba-b40a9a09037b	39e50852-3647-53f5-91fa-b0ba9a5cc9bb	Mary è inginocchiata.	Mary is kneeling.				

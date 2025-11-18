@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+soldatini		soldatino	NOUN		1	1e-06	1	1e-06	soldatino	NOUN	S	obl	Gender=Masc|Number=Plur	727a75eb-390e-568b-8b7f-d84764a5074c	d982451a-ff49-5828-a5e4-ee92740bcf0e	Il ragazzo sta giocando con i suoi soldatini.	The boy is playing with his toy soldiers.				

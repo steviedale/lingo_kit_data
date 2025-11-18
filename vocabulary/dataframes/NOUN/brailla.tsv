@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+braille		brailla	NOUN		1	1e-06	1	1e-06	brailla	NOUN	S	xcomp	Gender=Masc	9c763f53-c317-5e9a-a6fd-df7dee7f8918	e957da0e-4bbb-5cbf-b016-e6627a54ffdb	I ciechi leggono con il tatto, usando un sistema di punti in rilievo chiamato braille.	Blind people read by touching, using a system of raised dots called Braille.				

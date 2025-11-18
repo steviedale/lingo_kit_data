@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+molluschi		mollusco	NOUN		1	1e-06	1	1e-06	mollusco	NOUN	S	obl	Gender=Masc|Number=Plur	1def840e-bfb3-5675-b099-fb94b74ad1c3	b00c0d7b-f38c-5e1c-84e5-a70762cd3013	Tom è allergico ai molluschi.	Tom is allergic to shellfish.				

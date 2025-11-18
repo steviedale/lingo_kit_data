@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+esplicitati		esplicitare	VERB		1	1e-06	1	1e-06	esplicitare	VERB	V	root	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	853c52af-dec6-5eb8-8f53-96378d360893	d7cac549-2ad9-52d4-bd53-3eeea648a0fc	Alcuni elementi impliciti possono essere esplicitati.	Some implicit elements can be made explicit.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+specifiche		specifica	NOUN		6	6e-06	6	6e-06	specifica	NOUN	S	obj	Gender=Fem|Number=Plur	444c3d5b-35be-5ab6-988f-01ab86d0e447	98bacf13-3de0-5f6f-89c4-d246a6b97c2d	Dammi alcune specifiche.	Give me some specifics.	Puoi darmi alcune specifiche?	Can you give me some specifics?	Mi dia alcune specifiche.	Give me some specifics.

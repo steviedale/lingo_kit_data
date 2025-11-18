@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+riluttanza		riluttanza	NOUN		13	1.2e-05	13	1.2e-05	riluttanza	NOUN	S	obl	Gender=Fem|Number=Sing	40ab1fc6-3891-5223-8d3a-77877baa702a	ebc0a567-4e87-5daf-8184-676171a3e320	Tom andò con riluttanza.	Tom reluctantly went.	Tom è andato con riluttanza a casa.	Tom reluctantly went home.	Tom ha obbedito con riluttanza.	Tom reluctantly obeyed.

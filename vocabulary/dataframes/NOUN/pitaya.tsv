@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pitaya		pitaya	NOUN		5	5e-06	5	5e-06	pitaya	NOUN	S	nsubj	Gender=Fem|Number=Sing	826cd29c-4e9a-55d3-ade0-80edf2526ab9	6f082528-c04a-5eb8-a497-edd9380d02db	Mi piace la pitaya.	I like dragon fruit.	Vorrebbe una fetta di pitaya?	Would you like a slice of pitaya?	A me piace la pitaya.	I like dragon fruit.

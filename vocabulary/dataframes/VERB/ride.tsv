@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ride		ride	VERB		1	1e-06	1	1e-06	ride	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	e4e547f1-7115-57d4-be97-9691269fed71	2a14e62e-72a1-52e2-b671-63ff704a8229	Ride bene chi ride ultimo.	He laughs best who laughs last.				

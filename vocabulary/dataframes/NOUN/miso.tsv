@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+miso		miso	NOUN		1	1e-06	1	1e-06	miso	NOUN	S	nmod	Gender=Masc|Number=Sing	6f38490b-9523-585e-8394-f1722822c80f	aecd99fd-b4e1-582e-a858-c289382b5af0	Il riso è buono con la zuppa di miso.	Rice is good with miso soup.				

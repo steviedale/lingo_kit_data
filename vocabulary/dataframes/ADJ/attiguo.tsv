@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+attiguo		attiguo	ADJ		1	1e-06	1	1e-06	attiguo	ADJ	A	root	Gender=Masc|Number=Sing	c5788e35-e6aa-5c0f-a1c3-6c0ff75912fc	63f7218c-62cc-5930-9978-fb0279f00d1f	Il lago era attiguo alla sua casa.	The lake was adjacent to his house.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+interlocutore		interlocutore	NOUN		1	1e-06	1	1e-06	interlocutore	NOUN	S	obl	Gender=Masc|Number=Sing	e73bfb41-04a9-54a0-bcd4-4766325bf957	9251193a-0613-5d7e-a7d0-6fbed9ac9f08	Non si può avere una conversazione senza un interlocutore.	You can't have a conversation without an interlocutor.				

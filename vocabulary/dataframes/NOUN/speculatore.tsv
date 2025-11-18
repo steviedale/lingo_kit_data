@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+speculatori		speculatore	NOUN		1	1e-06	1	1e-06	speculatore	NOUN	S	nsubj	Gender=Masc|Number=Plur	855ca512-1cb5-5fdf-82d0-59aa17ffb3ca	7e68624c-aef3-5441-a2d9-8ebd46451e80	Alcuni speculatori sfruttano l'ignoranza e l'impotenza degli anziani.	Some speculators take advantage of the ignorance and helplessness of old people.				

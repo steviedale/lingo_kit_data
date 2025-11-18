@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+impigliato		impigliare	VERB		2	2e-06	2	2e-06	impigliare	VERB	V	xcomp	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	85ad752f-ce5b-5c28-b172-4d585ab5d424	90e47cd6-23e1-538c-954b-68b7a4ffef5f	L'aquilone rimase impigliato nell'albero.	The kite got caught in the tree.	L'aquilone è rimasto impigliato nell'albero.	The kite got caught in the tree.		

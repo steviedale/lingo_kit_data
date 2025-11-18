@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pseudo		pseudo	ADJ		1	1e-06	1	1e-06	pseudo	ADJ	A	amod	Number=Sing	1f673a20-d113-5c97-8463-05811841633d	68ca4d4a-a0c7-5162-9f4a-329ebd56e0b6	Il creazionismo è una pseudo-scienza.	Creationism is a pseudo-science.				

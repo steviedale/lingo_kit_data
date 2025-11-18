@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+samurai		samuro	ADJ		1	1e-06	1	1e-06	samuro	ADJ	A	amod	Gender=Masc|Number=Plur	5429f51b-f539-509e-9fd8-4a6818a4ebc7	df87ab52-40b8-5d6d-a4f9-d0dc51c2119d	Il kendo è un'antica arte marziale giapponese che risale all'epoca dei guerrieri samurai.	Kendo is an ancient Japanese martial art that dates back to the time of the samurai warriors.				

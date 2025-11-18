@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+appiglio		appigliare	VERB		1	1e-06	1	1e-06	appigliare	VERB	V	conj	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	e2dd31f8-9837-53be-adcd-921828336b1a	e44efe38-5805-57ca-8e21-14a264f67b02	Vedo il meglio ed al peggior mi appiglio.	Though the best be in sight, / It's the worst I grip tight.				

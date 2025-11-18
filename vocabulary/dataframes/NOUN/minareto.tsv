@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+minareto		minareto	NOUN		1	1e-06	1	1e-06	minareto	NOUN	S	root	Gender=Masc|Number=Sing	2c4de599-59e2-5460-aca9-6cd7fed6cb36	15636830-f397-5615-af90-db2a1a4cb886	La torre della cattedrale di Siviglia prima era un minareto.	The steeple of the cathedral of Seville used to be a minaret.				

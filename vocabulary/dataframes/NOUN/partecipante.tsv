@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+partecipanti		partecipante	NOUN		2	2e-06	2	2e-06	partecipante	NOUN	S	nsubj	Number=Plur	13dd5662-b394-5874-b6b0-fdc8a27e0f3e	bc9c1763-5dc5-588d-8341-6dccdb22a3b2	I partecipanti lo accusarono di negligenza.	The participants accused him of carelessness.	I partecipanti lo hanno accusato di negligenza.	The participants accused him of carelessness.		

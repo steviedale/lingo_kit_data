@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+controller		controller	NOUN		1	1e-06	1	1e-06	controller	NOUN	S	obj	Gender=Masc	052cccd0-4c70-5a52-b8cb-53057592b80e	5e0cde21-ad59-50c6-8daa-3af1b09acecb	Collega un controller.	Please connect a controller.				

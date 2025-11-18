@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pudding		pudding	NOUN		3	3e-06	3	3e-06	pudding	NOUN	S	root	Gender=Masc	e95121d4-a898-572f-b06b-c97bf28d7e20	9ef8c142-c640-5201-ac04-b7f5ff16c868	Ecco il suo pudding.	Here's your pudding.	Ecco il tuo pudding.	Here's your pudding.	Ecco il vostro pudding.	Here's your pudding.

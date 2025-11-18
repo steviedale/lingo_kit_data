@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scusarsi		scusarso	ADV		1	1e-06	1	1e-06	scusarso	ADV	B	advmod		45224a57-feab-5869-8048-71ce96b1ca0b	3c445b99-49a3-5470-8ed9-b3e62d8468de	Scusarsi non guarirà centinaia di ustioni di secondo grado, signore.	Apologizing isn't going to heal hundreds of second-degree burns, sir.				

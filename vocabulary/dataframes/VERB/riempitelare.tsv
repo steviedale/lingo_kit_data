@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+riempitela		riempitelare	VERB		1	1e-06	1	1e-06	riempitelare	VERB	V	conj	Number=Sing|Tense=Pres|VerbForm=Fin	7aad7645-2562-53a3-9bf6-ee0e769134aa	5891b60e-ebe4-5062-80b7-4ddb8593e65f	Trovate una bottiglia vuota e riempitela d'acqua.	Find an empty bottle and fill it with water.				

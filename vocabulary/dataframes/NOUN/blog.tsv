@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+blog		blog	NOUN		27	2.6e-05	27	2.6e-05	blog	NOUN	S	obl		1414df00-c2f7-5c5a-905b-6fc923659c35	fe37ac5a-83ab-508c-a6e1-e61f51a3818d	Ce l'ha un blog?	Do you have a blog?	Tu ce l'hai un blog?	Do you have a blog?	Ce l'hai un blog?	Do you have a blog?

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cv.		cv.	NOUN		1	1e-06	1	1e-06	cv.	NOUN	S	nmod	Gender=Masc|Number=Sing	ca19982b-f7ef-549f-960c-13c6b888a24a	fe28c2bf-3ad2-5932-804b-2f0f9e6bb8d5	Non me ne frega un accidente del mio CV.	I don't give a damn about my CV.				

@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+capitaliste		capitalista	ADJ		1	1e-06	2	2e-06	capitalista	ADJ	A	xcomp	Gender=Fem|Number=Plur	707bb18e-6e7f-5ee4-972a-335dccda3bac	fa8bd384-75bb-5743-b7bc-58c1022f8534	Tutte le società sono diventate capitaliste.	All societies have become capitalist.				
+capitalista		capitalista	ADJ		1	1e-06	2	2e-06	capitalista	ADJ	A	root	Number=Sing	6e389ef3-ae07-59c8-a722-691d9f31bc43	fa8bd384-75bb-5743-b7bc-58c1022f8534	La Russia non era capitalista.	Russia wasn't capitalist.				

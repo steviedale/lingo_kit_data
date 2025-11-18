@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sintetica		sintetico	ADJ		1	1e-06	1	1e-06	sintetico	ADJ	A	amod	Gender=Fem|Number=Sing	0420ad02-d3b7-539c-8285-986085885de4	4b81fcac-a74e-5724-bf29-301c59bd904b	Il tedesco è una lingua sintetica.	German is a synthetic language.				

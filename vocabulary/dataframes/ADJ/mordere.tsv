@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+morse		mordere	ADJ		2	2e-06	2	2e-06	mordere	ADJ	A	amod	Gender=Masc|Number=Sing	ed64c3bb-e6a1-5424-b2c8-8c19f4aec1ab	73141dcf-3925-5698-9a45-e4b2e766da31	Il mio cane morse Tom.	My dog bit Tom.	Il cane morse l'uomo.	The dog bit the man.		

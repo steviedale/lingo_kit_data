@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+begli		beglio	ADJ		6	6e-06	6	6e-06	beglio	ADJ	A	amod	Gender=Masc|Number=Plur	76ecc496-9d09-5c54-9642-43b63bfc99a7	b6bca636-9558-52de-bd61-cf96a4589dc7	I panda sono dei begli animali.	Pandas are beautiful animals.	Lei ha dei begli occhi.	She has pretty eyes.	Io ho dei begli occhi.	I have got beautiful eyes.

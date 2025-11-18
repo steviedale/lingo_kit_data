@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+supportati		supportato	ADJ		1	1e-06	1	1e-06	supportato	ADJ	A	amod	Gender=Masc|Number=Plur	2cbe4305-f566-5918-b225-0044fe4d5fe3	4f08a699-e99a-5b4b-912c-bb83312c629e	Attenzione: al posto dei caratteri non supportati viene visualizzato il carattere _.	Warning: unsupported characters are displayed using the '_' character.				

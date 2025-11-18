@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+inferocito		inferocito	VERB		2	2e-06	2	2e-06	inferocito	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	c617fcd8-6a5d-5035-a577-96f4d7c663b4	caffa310-8b05-56de-bf7a-274283e2590d	Lui si è inferocito.	He went ballistic.	Si è inferocito.	He went ballistic.		

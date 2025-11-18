@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+mandria		mandria	NOUN		1	1e-06	1	1e-06	mandria	NOUN	S	obj	Gender=Fem|Number=Sing	e0d6d977-cb5a-5b17-8e7c-a18bed2040e4	f51227eb-e90d-59dc-bddc-f3d722883ff9	Una pecora nera rovina tutta la mandria.	One black sheep ruins the whole herd.				

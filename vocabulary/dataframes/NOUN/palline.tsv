@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+palline		palline	NOUN		1	1e-06	1	1e-06	palline	NOUN	S	nmod	Gender=Fem|Number=Plur	9cee581f-294d-51be-ae7d-68536a56a69a	6afaca44-f3c7-5ac6-9d2d-8d5a6fc26119	Alcune delle palline sono gialle.	A few of the balls are yellow.				

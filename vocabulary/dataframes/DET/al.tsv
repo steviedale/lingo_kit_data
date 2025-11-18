@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ai		al	DET		1	1e-06	1	1e-06	al	DET	RD	case	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	01cc1e77-7a7a-58ee-968f-72fb82ff8292	c605da3f-31e8-5ce7-94a0-7c5639ce0fa0	Ai rifugiati furono dati cibo e coperte.	Food and blankets were given to the refugees.				

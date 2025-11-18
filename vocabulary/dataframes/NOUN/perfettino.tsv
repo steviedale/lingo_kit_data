@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+perfettino		perfettino	NOUN		4	4e-06	4	4e-06	perfettino	NOUN	S	root	Gender=Masc|Number=Sing	15e47726-fe8f-5387-bc1e-68b94471dbb7	cdfd2cbe-2a9d-5b4c-921f-088197db8a63	Io penso che Tom sia un perfettino.	I think Tom is finicky.	Io sono un perfettino.	I'm finicky.	Penso che Tom sia un perfettino.	I think Tom is finicky.

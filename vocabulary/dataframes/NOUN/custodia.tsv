@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+custodia		custodia	NOUN		4	4e-06	4	4e-06	custodia	NOUN	S	obj	Gender=Fem|Number=Sing	5077fdb3-eaa9-57eb-98c3-3c4964f46316	85199f79-f6c9-5b72-922e-40b18d8dd8b8	Tom è ancora in custodia.	Tom is still in custody.	La polizia lo tenne in custodia.	The police held him in custody.	Il prezzo non include la custodia.	The price does not include the case.

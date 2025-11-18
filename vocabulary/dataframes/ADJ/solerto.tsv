@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+solerte		solerto	ADJ		2	2e-06	2	2e-06	solerto	ADJ	A	ccomp	Gender=Fem|Number=Sing	29001d59-4286-5f85-bfb7-54c7c1dd178e	1c293dc4-4d2a-508c-a8bd-9c7eaffa826c	Penso che Tom sia solerte.	I think Tom is hard-working.	Io penso che Tom sia solerte.	I think Tom is hard-working.		

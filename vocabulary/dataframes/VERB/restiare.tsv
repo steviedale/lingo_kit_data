@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+restiate		restiare	VERB		2	2e-06	2	2e-06	restiare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	34f212af-3bb9-54e8-b825-018f920f2168	ab172e53-574a-5c33-b288-831318a5e2ac	Voglio che restiate dove siete.	I want you to stay where you are.	Voglio che voi restiate dove siete.	I want you to stay where you are.		

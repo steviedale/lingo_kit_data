@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+notai		notaio	NOUN		1	1e-06	1	1e-06	notaio	NOUN	S	root	Gender=Masc|Number=Plur	7db3c8da-197a-5b27-a7cb-cc3f88d1dc28	bbbbb23d-d3be-5a67-abc0-5b10c94d9f20	Notai che le tremavano le mani.	I noticed her hands shaking.				

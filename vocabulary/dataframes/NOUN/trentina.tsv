@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+trentina		trentina	NOUN		1	1e-06	1	1e-06	trentina	NOUN	S	root	Gender=Fem|Number=Sing	0b0592dc-bf84-5170-9f10-969b09d721a3	4b70a0dd-4d0e-5d51-bb5c-94d679fcd6f9	Tom è sulla trentina.	Tom's thirtyish.				

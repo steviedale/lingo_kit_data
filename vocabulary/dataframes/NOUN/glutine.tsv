@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+glutine		glutine	NOUN		4	4e-06	4	4e-06	glutine	NOUN	S	obl	Gender=Fem|Number=Sing	e687fe5a-1348-55ab-b97d-f57e3311b240	b784808c-52b3-5543-b861-386ce8542c95	Io sono allergica al glutine.	I'm allergic to gluten.	Sono allergica al glutine.	I'm allergic to gluten.	Io sono allergico al glutine.	I'm allergic to gluten.

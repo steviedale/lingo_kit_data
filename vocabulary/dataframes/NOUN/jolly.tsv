@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+jolly		jolly	NOUN		1	1e-06	1	1e-06	jolly	NOUN	S	root	Gender=Masc	b8c63daf-328b-510b-b590-76bdd80b4213	59d8d7b3-079f-5d57-a82a-2fa6a4c14cc0	Il Joker è il jolly, ok?	The Joker is the wild card, OK?				

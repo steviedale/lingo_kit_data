@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+zabaione		zabaione	NOUN		3	3e-06	3	3e-06	zabaione	NOUN	S	obl	Gender=Masc|Number=Sing	bf5e4096-23c7-5fc1-bd4b-361c80e11e4e	c7f11b23-e838-565b-89b7-e18f13ffd684	Prendete un po' di liquore allo zabaione.	Have some eggnog.	Prenda un po' di liquore allo zabaione.	Have some eggnog.	Prendi un po' di liquore allo zabaione.	Have some eggnog.

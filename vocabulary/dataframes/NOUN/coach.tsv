@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+coach		coach	NOUN		2	2e-06	2	2e-06	coach	NOUN	S	nsubj	Gender=Masc	638ad07a-4405-5d54-baca-91700cb538bc	e11cf9c2-d59b-58fc-8fa0-f928ad3303fd	Il coach ha guidato la sua squadra alla vittoria.	The coach steered his team to victory.	Il coach guidò la sua squadra alla vittoria.	The coach steered his team to victory.		

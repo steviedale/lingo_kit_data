@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fina		fina	NOUN		2	2e-06	2	2e-06	fina	NOUN	S	obj	Gender=Fem|Number=Sing	3da69d2d-987f-524c-81ea-258148442edf	ba4cedd6-e117-53f9-8592-1f25de5ce59d	Lui sta spesso alzato fina a tardi di notte.	He often stays up late at night.	Sta spesso alzato fina a tardi di notte.	He often stays up late at night.		

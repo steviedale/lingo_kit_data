@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pulcino		pulcino	NOUN		1	1e-06	1	1e-06	pulcino	NOUN	S	nsubj	Gender=Masc|Number=Sing	d41e90d4-ecb6-59e3-b11e-8840f055c6fb	d5a4d87b-ddb4-5dbe-a552-0042530239be	C'era un pulcino lì.	There was a fledgling bird there.				

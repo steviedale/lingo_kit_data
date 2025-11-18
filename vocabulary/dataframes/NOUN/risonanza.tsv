@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+risonanza		risonanza	NOUN		1	1e-06	1	1e-06	risonanza	NOUN	S	nsubj:pass	Gender=Fem|Number=Sing	62ad4029-ee18-5f1d-9ef1-8fce3f1642e9	b5789af9-8c71-511b-b8a3-9614a63eb8c8	Attraverso l'uso di quattro tipi di metallo, si elimina la risonanza di frequenza specifica.	By using four types of metal, specific frequency resonance is suppressed.				

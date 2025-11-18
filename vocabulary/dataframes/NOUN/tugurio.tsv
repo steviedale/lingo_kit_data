@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tugurio		tugurio	NOUN		3	3e-06	3	3e-06	tugurio	NOUN	S	root	Gender=Masc|Number=Sing	480e694c-ba81-5091-9165-fce8389cb980	0687a69d-d959-55e3-911c-660cc789c645	La mia casa è un tugurio.	My house is a hovel.	Io vivo in un tugurio.	I live in a hovel.	Vivo in un tugurio.	I live in a hovel.

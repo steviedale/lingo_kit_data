@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+magari		magari	ADV		5	5e-06	5	5e-06	magari	ADV	B	advmod		1400ae8a-6c77-5b43-9c36-9557326b51e9	cccc92bf-e274-5c88-9394-b93bdce8f428	Magari!	I wish it were true.	Magari il Diavolo verrà.	The Devil may come.	Magari ci rivediamo stasera.	Perhaps we will see each other again tonight.

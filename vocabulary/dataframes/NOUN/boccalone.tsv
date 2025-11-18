@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+boccalone		boccalone	NOUN		2	2e-06	2	2e-06	boccalone	NOUN	S	ccomp	Gender=Masc|Number=Sing	abb2f347-99c1-5b6b-a29f-708e1f175854	fcbf3ff7-d13f-5098-8434-ec07006bbdcb	Io penso che Tom sia un boccalone.	I think Tom is gullible.	Penso che Tom sia un boccalone.	I think Tom is gullible.		

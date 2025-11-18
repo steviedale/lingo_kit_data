@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+liquida		liquido	ADJ		1	1e-06	1	1e-06	liquido	ADJ	A	root	Gender=Fem|Number=Sing	3230dbeb-3462-54a1-936b-55357bddc499	276724a1-7431-5886-b08b-df0dfcf67477	L'acqua è liquida.	Water is liquid.				

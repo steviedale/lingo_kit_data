@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+varcò		varcare	VERB		1	1e-06	1	1e-06	varcare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9dad5aa5-843d-5f0f-8bf0-b8c67d42936d	50fd6ce6-98ad-5118-bd46-5f209afc6b90	Tom varcò la porta.	Tom walked through the door.				

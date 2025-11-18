@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+palindromo		palindromo	NOUN		1	1e-06	1	1e-06	palindromo	NOUN	S	nmod	Gender=Masc|Number=Sing	e46c4c22-6178-514f-8d00-22314633cc5c	dee2336c-007c-582b-ad66-3eb91320cfa0	Kayak è un esempio di palindromo.	Kayak is an example of a palindrome.				

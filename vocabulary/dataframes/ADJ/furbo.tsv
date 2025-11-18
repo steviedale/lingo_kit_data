@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+furbo		furbo	ADJ		3	3e-06	3	3e-06	furbo	ADJ	A	root	Gender=Masc|Number=Sing	73c64968-658a-5899-a0c8-fdbc38ea4939	7c6f0bc3-356e-5287-a947-5a696b1e12cd	Tom è più furbo che onesto.	Tom is more clever than honest.	Tom è furbo.	Tom's smart.	Tom è abbastanza furbo.	Tom is pretty crafty.

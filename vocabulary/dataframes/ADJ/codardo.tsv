@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+codardo		codardo	ADJ		2	2e-06	2	2e-06	codardo	ADJ	A	root	Gender=Masc|Number=Sing	cdf6d44f-97ee-577e-bfd1-ddfab1758d71	817468f2-35ff-5dcf-8933-16a993e14c91	Lui è troppo codardo per provarci.	He is too much of a coward to attempt it.	È troppo codardo per provarci.	He is too much of a coward to attempt it.		

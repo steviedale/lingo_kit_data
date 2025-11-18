@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+risultato		risultato	VERB		1	1e-06	1	1e-06	risultato	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	05672b0d-3e02-57e9-9f02-33e37291c976	1c8c2e2e-07ec-528d-b6ee-ab883eafb4b8	Tom è risultato positivo all'ebola.	Tom has tested positive for Ebola.				

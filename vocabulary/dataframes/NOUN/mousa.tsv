@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+mouse		mousa	NOUN		2	2e-06	2	2e-06	mousa	NOUN	S	obj	Gender=Masc	1b97c1e9-13c2-5918-9aa5-5f2f52b240c7	1f725815-36e5-52a9-a414-d55a65a54a11	Tom ha visto un mouse.	Tom saw a mouse.	Tom vide un mouse.	Tom saw a mouse.		

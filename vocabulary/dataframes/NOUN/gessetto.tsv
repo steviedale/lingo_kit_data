@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+gessetto		gessetto	NOUN		1	1e-06	1	1e-06	gessetto	NOUN	S	obj	Gender=Masc|Number=Sing	bd45235c-a7bd-5deb-8f1a-8fce9bd7496a	3a6bd879-0fdc-5e17-81b7-558850eec2f4	Non è facile scrivere col gessetto.	It is not easy to write in chalk.				

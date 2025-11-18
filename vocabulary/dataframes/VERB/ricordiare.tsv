@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ricordiate		ricordiare	VERB		2	2e-06	2	2e-06	ricordiare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	34ff51bf-d46b-5a2f-9763-7eef3a67ff5e	f5cb121c-7ffb-57c4-bdb0-086f75c2ce3c	Non mi aspetto che voi ricordiate.	I don't expect you to remember.	Non mi aspetto che ricordiate.	I don't expect you to remember.		

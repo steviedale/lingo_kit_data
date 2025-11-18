@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+esonerato		esonerare	VERB		1	1e-06	1	1e-06	esonerare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	623a4bed-009b-5243-b2b8-7fcb3a0775ce	3edc12b6-be5e-5cd7-8133-db1dc19a5b34	Tom è stato esonerato.	Tom has been exonerated.				

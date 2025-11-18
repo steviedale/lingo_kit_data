@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+mandre		mandre	NOUN		1	1e-06	1	1e-06	mandre	NOUN	S	obj	Gender=Fem|Number=Plur	b429eee6-299b-5898-9b23-85c6184a9808	3fc5083e-bdf1-59a1-93f2-efb17916930d	Il bambino mi ha indicato sua mandre.	The child pointed out her mother to me.				

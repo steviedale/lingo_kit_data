@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+berrai		benere	VERB		1	1e-06	1	1e-06	benere	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	ab7b536c-3ab8-5699-a36b-4f2c9c036b08	b0e9e616-81c2-5ca6-943e-7dc653b6be29	Berrai un po' di tè?	Will you drink some tea?				

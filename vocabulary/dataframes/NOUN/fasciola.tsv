@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fasciola		fasciola	NOUN		1	1e-06	1	1e-06	fasciola	NOUN	S	ccomp	Gender=Fem|Number=Sing	e1119bb4-a239-5091-aa11-45b2b0016759	91df3cdb-525a-5411-81b1-93b433bd334a	Pensavo che fosse una fasciola.	I thought it was a fluke.				

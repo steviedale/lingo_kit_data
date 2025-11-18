@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+chat.		chata	NOUN		1	1e-06	1	1e-06	chata	NOUN	S	root	Gender=Fem|Number=Sing	535d2bb9-26fb-551d-a5db-521c778c85cc	8aed7fb9-f917-550d-aefd-010706b8f6de	No, questa non è una chat.	No, this isn't a chat.				

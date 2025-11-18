@@ -1,0 +1,5 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cauto		cauto	ADJ		6	6e-06	10	1e-05	cauto	ADJ	A	amod	Gender=Masc|Number=Sing	f64b060e-5d06-5ee7-877e-2494d36c75c0	e67670d6-9299-52c2-8553-0af8d3ac5aeb	Tom era cauto.	Tom used to be conservative.	Per quanto cauto, s'è comunque sbagliato.	Careful as he was, he made an unexpected mistake.	Io sono cauto.	I'm careful.
+cauta		cauto	ADJ		2	2e-06	10	1e-05	cauto	ADJ	A	root	Gender=Fem|Number=Sing	515de7eb-2719-5977-a618-dbb1d3225e57	e67670d6-9299-52c2-8553-0af8d3ac5aeb	Sono cauta.	I'm careful.	Io sono cauta.	I'm careful.		
+cauti		cauto	ADJ		1	1e-06	10	1e-05	cauto	ADJ	A	root	Gender=Masc|Number=Plur	be350f76-b8a8-55f3-860b-bbb0169e69bb	e67670d6-9299-52c2-8553-0af8d3ac5aeb	Siamo cauti.	Let's be careful.				
+caute		cauto	ADJ		1	1e-06	10	1e-05	cauto	ADJ	A	root	Gender=Fem|Number=Plur	4eebd8e0-a37a-5b17-9fa5-a962d624720c	e67670d6-9299-52c2-8553-0af8d3ac5aeb	Siamo caute.	Let's be careful.				

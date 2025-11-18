@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+iperemotivo		iperemotivo	ADJ		3	3e-06	3	3e-06	iperemotivo	ADJ	A	root	Gender=Masc|Number=Sing	f0653266-e6cf-524d-80e9-d34584e42c8e	2d481aa3-274c-5b8a-b9e2-7dafa6f361e3	Penso che Tom sia iperemotivo.	I think Tom is overemotional.	Io penso che Tom sia iperemotivo.	I think Tom is overemotional.	Tom è iperemotivo.	Tom is overemotional.

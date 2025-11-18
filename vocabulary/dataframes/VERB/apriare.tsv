@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+apriate		apriare	VERB		2	2e-06	2	2e-06	apriare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	40c6b319-c030-57ff-aae3-97795a3ee552	a143de32-d9e6-5fef-a9bb-e600b6f98c8a	Voglio che voi apriate la finestra.	I want you to open the window.	Io voglio che voi apriate la finestra.	I want you to open the window.		

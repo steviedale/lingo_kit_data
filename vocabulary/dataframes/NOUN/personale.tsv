@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+personale		personale	NOUN		10	1e-05	10	1e-05	personale	NOUN	S	nmod	Gender=Fem|Number=Sing	78244cba-a92f-5d94-86b3-3860725e000e	d8dad144-f74b-54b0-b4e2-685cf1abd9a5	Non la prenda sul personale.	Don't get personal.	Non è nulla di personale.	It's nothing personal.	Non è nulla di personale, Tom.	It's nothing personal, Tom.

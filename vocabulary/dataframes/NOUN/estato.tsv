@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+estati		estato	NOUN		3	3e-06	3	3e-06	estato	NOUN	S	nsubj	Gender=Fem|Number=Plur	dd320f8a-3842-530a-a5b9-d6d4484d750d	03f670b2-ac36-51ab-a698-0776ec36a481	Le estati in Sicilia sono calde.	Sicily's summers are hot.	Le estati siciliane sono calde.	Sicily's summers are hot.	Le estati sono molto calde a Kyoto.	Summers are very hot in Kyoto.

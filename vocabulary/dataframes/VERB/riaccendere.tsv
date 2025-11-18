@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+riaccese		riaccendere	VERB		1	1e-06	1	1e-06	riaccendere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	99f11090-cc44-5a31-841c-82d52e9c3d6e	933a22b8-9134-5bec-baed-155884edf120	Tom riaccese la luce.	Tom turned the light back on.				

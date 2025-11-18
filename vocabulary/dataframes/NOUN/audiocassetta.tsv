@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+audiocassetta		audiocassetta	NOUN		3	3e-06	3	3e-06	audiocassetta	NOUN	S	obj	Gender=Fem|Number=Sing	3cdda790-60a4-5cd8-af1f-133d4b9887f3	61d966de-3557-52df-a4b3-552aa302fd72	Mostratemi l'audiocassetta.	Show me the tape.	Mi mostri l'audiocassetta.	Show me the tape.	Mostrami l'audiocassetta.	Show me the tape.

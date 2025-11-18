@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+serio		serio	NOUN		1	1e-06	1	1e-06	serio	NOUN	S	obl	Gender=Masc|Number=Sing	b1fb40e0-60d6-5c85-a436-24a5df0a7ed0	2d1ed103-bf38-5a3d-bdab-34bf52d5091e	Scherzi o fai sul serio?	Are you joking or are you serious?				

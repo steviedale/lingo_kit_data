@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ombroso		ombroso	ADJ		1	1e-06	1	1e-06	ombroso	ADJ	A	xcomp	Gender=Masc|Number=Sing	bc4e7d45-471e-528b-bcab-632428faf713	512964c5-b2b8-576a-ab98-9c77377df837	Si sta facendo sempre più ombroso, presto sarà il crepuscolo.	It's getting more and more shadowy, soon it will be twilight.				

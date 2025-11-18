@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+collassato		collassare	ADJ		2	2e-06	2	2e-06	collassare	ADJ	A	amod	Gender=Masc|Number=Sing	422b9bf8-9fa4-58bb-a9b5-165a862807da	be0b3175-a527-5d35-bf0c-d0a6e1d416e3	Tom soffrì per un polmone collassato.	Tom suffered from a collapsed lung.	Tom ha sofferto per un polmone collassato.	Tom suffered from a collapsed lung.		

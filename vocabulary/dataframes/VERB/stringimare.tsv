@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+stringimi		stringimare	VERB		1	1e-06	1	1e-06	stringimare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	98815434-b31e-5e4c-b8bd-308f8d9b7964	9005dabf-5efc-58ab-99bc-cdb8a9fdef56	Stringimi la mano.	Shake my hand.				

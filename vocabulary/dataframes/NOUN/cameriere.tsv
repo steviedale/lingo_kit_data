@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cameriere		cameriere	NOUN		27	2.6e-05	27	2.6e-05	cameriere	NOUN	S	obl	Gender=Masc|Number=Sing	d83d22da-3bd0-5883-9c4f-f6ef9566ea2e	b52cdc0d-9be1-559c-b4e7-cf6dcdeb8aa1	È un cameriere e un attore.	He is a waiter and an actor.	Cameriere, ho bisogno di un coltello.	Waiter, I need a knife.	Cameriere, mi serve un tovagliolo.	Waiter, I need a napkin.

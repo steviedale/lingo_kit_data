@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+-lineare		-lineare	ADJ		1	1e-06	1	1e-06	-lineare	ADJ	A	root	Number=Sing	07362f0f-b670-5355-84a3-d8b5f0477ea2	5346966a-ec13-5576-b4d6-c3a7430b9d3a	Una funzione che è sia quasi-convessa che quasi-concava è quasi-lineare.	A function that is both quasiconvex and quasiconcave is quasilinear.				

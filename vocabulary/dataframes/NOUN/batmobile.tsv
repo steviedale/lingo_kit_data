@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+batmobile		batmobile	NOUN		1	1e-06	1	1e-06	batmobile	NOUN	S	obj	Gender=Fem|Number=Sing	46f5a978-0816-5eeb-9e82-cbdec2454125	05105ab4-27b0-5247-b88b-2cc79f090c04	Batman sta guidando la sua batmobile.	Batman is riding his batmobile.				

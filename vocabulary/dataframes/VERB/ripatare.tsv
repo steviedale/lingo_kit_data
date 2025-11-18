@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ripato		ripatare	VERB		1	1e-06	1	1e-06	ripatare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2aa16c16-170e-5cea-ba52-a069e21146d3	d40af2f0-e408-5877-bcb9-65a99f43de51	Avevo ripato il mio orologio.	I had repaired my watch.				

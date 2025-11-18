@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+co-fondatori		co-fondatore	NOUN		1	1e-06	1	1e-06	co-fondatore	NOUN	S	nmod	Gender=Masc|Number=Plur	a171c51f-137e-5986-9244-298d4df63e63	ab918e72-8604-590d-805a-4d2543f09e88	Dustin Moskovitz è un imprenditore ebreo. È uno dei co-fondatori di Facebook.	Dustin Moskovitz is a Jewish entrepreneur. He is one of the co-founders of Facebook.				

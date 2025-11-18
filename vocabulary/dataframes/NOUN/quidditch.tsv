@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+quidditch		quidditch	NOUN		1	1e-06	1	1e-06	quidditch	NOUN	S	obl	Gender=Masc	3029b713-1f21-522a-a004-b41dff2acc7e	895b08b5-b38b-5e0f-8d4c-5a1ac511cd87	Giochiamo a quidditch.	Let's play quidditch.				

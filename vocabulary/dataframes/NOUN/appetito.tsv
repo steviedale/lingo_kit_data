@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+appetito		appetito	NOUN		26	2.5e-05	26	2.5e-05	appetito	NOUN	S	obj	Gender=Masc|Number=Sing	a59155e7-2bbd-5db5-974e-45cc722ff6ab	351fb791-1b8a-5ea0-a97f-9c9da674d667	Non ho appetito.	I have no appetite.	Lei ha un discreto appetito.	You have quite an appetite.	Voi avete un discreto appetito.	You have quite an appetite.

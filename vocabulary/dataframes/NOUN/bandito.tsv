@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+banditi		bandito	NOUN		2	2e-06	2	2e-06	bandito	NOUN	S	nsubj	Gender=Masc|Number=Plur	c1c7a8cc-0a09-5b4f-89e6-42525c53c200	c5c802eb-33bf-5aee-ac95-fc4d2bc9b447	I banditi hanno rubato il Sacro Graal.	The bandits stole the Holy Grail.	I banditi rubarono il Sacro Graal.	The bandits stole the Holy Grail.		

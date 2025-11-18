@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+necessita		necessitare	VERB		1	1e-06	1	1e-06	necessitare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7aee4f98-c352-5fa2-989a-d92c76fab1d1	f2bcb1a8-df57-542c-b7d4-c221fff5e9aa	Questo camion necessita di riparazione.	This truck is in need of repair.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+terpomo		terpomo	NOUN		1	1e-06	1	1e-06	terpomo	NOUN	S	nsubj	Gender=Masc|Number=Sing	dd50b5a2-0e6f-55fc-b362-0c904a00a762	1ff000e8-28fd-50a2-8ce7-7d8e51ea495a	Cos'è un terpomo? Una mela nella terra, o una patata?	What is 'terpomo'? An apple in the ground, or a potato?				

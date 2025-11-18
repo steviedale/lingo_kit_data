@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+intimità		intimità	NOUN		2	2e-06	2	2e-06	intimità	NOUN	S	nsubj	Gender=Fem	327b04ed-0a3e-52b5-a014-9134b7ddaf40	a04a64ff-972e-5986-8321-77605576d058	La loro intimità è cresciuta nel corso degli anni.	Their intimacy grew with the years.	La loro intimità crebbe nel corso degli anni.	Their intimacy grew with the years.		

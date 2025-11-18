@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+generico		generico	ADJ		1	1e-06	1	1e-06	generico	ADJ	A	amod	Gender=Masc|Number=Sing	3bc741ec-e79d-532e-8314-94e66d80c297	a0b88cfa-3178-54f1-9d0b-a9241467ced4	Il signor Suzuki non è un dentista. È un medico generico.	Mr. Suzuki isn't a dentist. He's a physician.				

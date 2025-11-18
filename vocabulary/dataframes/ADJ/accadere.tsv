@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+accaduti		accadere	ADJ		1	1e-06	1	1e-06	accadere	ADJ	A	amod	Gender=Masc|Number=Plur	15f64a48-f1a9-5a0b-aedf-7c115fda062e	fc7c289b-6198-5e93-8646-e6af6a7a2e32	Questa storia è basata su fatti realmente accaduti.	This story is based on actual events.				

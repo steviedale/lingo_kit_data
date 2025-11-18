@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pilota		pilota	ADJ		1	1e-06	1	1e-06	pilota	ADJ	A	amod	Number=Sing	9a6870e7-1b9b-516c-a62d-4e4225d2e33d	ea273b74-8069-56eb-8db7-b0a3ca59318c	Il futuro pilota è addestrato in una cabina di pilotaggio finta.	The future pilot is trained in a mock cockpit.				

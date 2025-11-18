@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+anticipata		anticipare	ADJ		1	1e-06	1	1e-06	anticipare	ADJ	A	amod	Gender=Fem|Number=Sing	e92a224c-fd67-5afa-8792-73b2c7f2e877	249524ef-4907-57da-acf8-325359ebcd63	Tom voleva che Mary venisse per una cena anticipata.	Tom wanted Mary to come over for an early dinner.				

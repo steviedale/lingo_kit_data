@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fallo		fallo	VERB		1	1e-06	1	1e-06	fallo	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ef4ddcad-9f1b-58d3-881f-424dd74b4f7b	b52aa17f-15bd-5b56-bb12-88b8f98856c1	Per favore, fallo fare a qualcun altro.	Please have someone else do it.				

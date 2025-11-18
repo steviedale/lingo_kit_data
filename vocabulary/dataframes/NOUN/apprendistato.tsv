@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+apprendistato		apprendistato	NOUN		1	1e-06	1	1e-06	apprendistato	NOUN	S	obl	Gender=Masc|Number=Sing	2409aafe-51f9-5efb-b800-ec087e1ea253	ddf13822-f8e2-5a47-98fd-e275b87b304a	Lui ha messo suo figlio in apprendistato presso un sarto.	He bound his son to a tailor.				

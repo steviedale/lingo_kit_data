@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tinti		tinto	ADJ		1	1e-06	1	1e-06	tinto	ADJ	A	xcomp	Gender=Masc|Number=Plur	f9717934-6cf6-5dce-b329-bad655744c94	3b32d9b9-71a8-552e-b60f-7749b945e9be	I suoi capelli non sembravano tinti.	Her hair didn't look dyed.				

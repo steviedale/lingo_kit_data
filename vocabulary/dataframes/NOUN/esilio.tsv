@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+esilio		esilio	NOUN		1	1e-06	1	1e-06	esilio	NOUN	S	obl	Gender=Masc|Number=Sing	4524789f-c6c9-5b03-b753-49f661bb22ca	f9df22c0-53fe-5798-9bb3-dedd3ac56742	Napoleone viveva in esilio sull'Isola d'Elba.	Napoleon lived in exile on the island of Elba.				

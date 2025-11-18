@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+burbero		burbero	NOUN		3	3e-06	3	3e-06	burbero	NOUN	S	root	Gender=Masc|Number=Sing	a0aaad29-716f-5968-b456-2eb211e7f35b	5fc554f0-196a-5dae-9501-e13518b39a76	Tom è un anziano burbero.	Tom is a grumpy old man.	È un anziano burbero.	He's a grumpy old man.	Lui è un anziano burbero.	He's a grumpy old man.

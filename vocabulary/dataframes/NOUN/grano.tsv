@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+grano		grano	NOUN		18	1.7e-05	18	1.7e-05	grano	NOUN	S	obl	Gender=Masc|Number=Sing	13eb0bbe-6a9e-5253-bb64-8ec58eb21d6d	5551ce71-44ed-5d42-9cf8-e043450cc41a	Il pane è prodotto a partire dal grano.	Bread is made from wheat.	La farina è fatta a partire dal grano.	Flour is made from wheat.	Il pane è fatto con il grano.	Bread is made from wheat.

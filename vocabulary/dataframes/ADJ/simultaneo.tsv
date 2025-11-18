@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+simultaneo		simultaneo	ADJ		1	1e-06	1	1e-06	simultaneo	ADJ	A	amod	Gender=Masc|Number=Sing	654496f0-23eb-5ea3-be59-b7acea9aebdc	40caffed-30aa-577b-8638-503925aa17d5	A Tom piacerebbe diventare un interprete simultaneo.	Tom would like to become a simultaneous interpreter.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+stanziati		stanziare	VERB		1	1e-06	1	1e-06	stanziare	VERB	V	root	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5796a12a-b54f-5224-91ee-2ea85bf3cc0f	399d40e8-8883-5c85-8510-6ef729446c53	2.200 dollari sono stati stanziati per le spese.	2200 dollars have been allocated for expenses.				

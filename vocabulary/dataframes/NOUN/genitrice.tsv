@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+genitrice		genitrice	NOUN		4	4e-06	4	4e-06	genitrice	NOUN	S	root	Gender=Fem|Number=Sing	1edfd0f8-5c6b-5c9d-9380-0c18f0124e7b	256986b6-0f08-5405-8de3-1770ceea8690	Sei una genitrice?	Are you a parent?	È una genitrice?	Are you a parent?	Tu sei una genitrice?	Are you a parent?

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+profezia		profezia	NOUN		3	3e-06	3	3e-06	profezia	NOUN	S	root	Gender=Fem|Number=Sing	ff5905ab-daf7-56aa-9d5d-be36592b3ee3	7b0818c8-0cd3-571a-9e13-fde378a21d6c	La profezia si è avverata.	The prophecy came true.	La profezia si avverò.	The prophecy came true.	Non è una profezia.	It isn't a prophecy.

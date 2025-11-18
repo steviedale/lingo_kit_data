@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rimbalzata		rimbalzare	VERB		1	1e-06	1	1e-06	rimbalzare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	f201a412-552a-5787-b68f-603db2e02469	32adddb4-8a2a-57b6-9302-df1c65cd5fd3	La palla è rimbalzata alta nell'aria.	The ball bounced high in the air.				

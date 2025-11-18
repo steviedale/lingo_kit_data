@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+convulsioni		convulsione	NOUN		3	3e-06	3	3e-06	convulsione	NOUN	S	obj	Gender=Fem|Number=Plur	c43146bf-8030-59af-86a1-5bec92e3d6d9	d65d4f88-8c64-50b7-a03f-c89c2173a742	Ha le convulsioni.	She has convulsions.	Lei ha le convulsioni.	She has convulsions.	Lui ha le convulsioni.	He has convulsions.

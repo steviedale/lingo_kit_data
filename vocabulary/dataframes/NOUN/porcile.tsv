@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+porcile		porcile	NOUN		2	2e-06	2	2e-06	porcile	NOUN	S	root	Gender=Masc|Number=Sing	c2b202d4-be3e-5581-97a9-74d60c7b51fa	664825b4-acbe-507b-84f5-95cba044a9e6	La mia camera è un porcile.	My room is a pigsty.	La mia stanza è un porcile.	My room is a pigsty.		

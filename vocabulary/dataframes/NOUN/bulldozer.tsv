@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+bulldozer		bulldozer	NOUN		1	1e-06	1	1e-06	bulldozer	NOUN	S	nsubj:pass	Gender=Masc	08e6cdb3-075a-5696-b89f-b8de8f3bee0a	40fbd5c7-5c91-518a-b22a-767e6f99b997	Un bulldozer fu usato per livellare il sentiero.	A bulldozer was used to level the lane.				

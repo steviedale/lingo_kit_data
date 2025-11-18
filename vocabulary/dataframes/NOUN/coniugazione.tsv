@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+coniugazione		coniugazione	NOUN		1	1e-06	1	1e-06	coniugazione	NOUN	S	obj	Gender=Fem|Number=Sing	48c12994-ccec-5f2e-b7f0-62205cc74380	eeb9f082-c4e1-564a-b04c-7d7a3b2e59b9	Il verbo essere ha una coniugazione irregolare in tutte le lingue.	The verb “to be” has an irregular conjugation in all languages.				

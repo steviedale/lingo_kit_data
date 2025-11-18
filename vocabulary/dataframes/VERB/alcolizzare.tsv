@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+alcolizzato		alcolizzare	VERB		4	4e-06	4	4e-06	alcolizzare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7d09dfd8-2936-5e25-a249-52ce8a63a626	8236dd1b-8229-542a-bcdf-78174c205098	Tom non è alcolizzato.	Tom isn't an alcoholic.	Il padre di Tom è alcolizzato.	Tom's father is an alcoholic.	Tom è alcolizzato.	Tom is an alcoholic.

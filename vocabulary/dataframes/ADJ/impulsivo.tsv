@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+impulsivo		impulsivo	ADJ		1	1e-06	1	1e-06	impulsivo	ADJ	A	root	Gender=Masc|Number=Sing	3ccc70c0-7843-5d9b-9b08-ea82a2aed48c	7da3e129-66f6-5c64-987a-178e5deb8dd7	Tom è impulsivo.	Tom is impulsive.				

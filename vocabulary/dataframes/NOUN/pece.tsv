@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pece		pece	NOUN		1	1e-06	1	1e-06	pece	NOUN	S	obj	Gender=Fem|Number=Sing	81027cb1-84f9-5f72-b5cd-e9333a24690b	bb423dd3-e265-5597-b8f3-e034c267e4e1	Chi tocca la pece si imbratta.	He who touches pitch shall be defiled therewith.				

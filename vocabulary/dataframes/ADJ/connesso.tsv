@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+connesso		connesso	ADJ		1	1e-06	2	2e-06	connesso	ADJ	A	root	Gender=Masc|Number=Sing	0ad5d869-c6f9-5a33-8da0-01cec933ce01	d15a80db-4f78-507f-8107-6a69096fd35f	Com'era organizzato l'esperimento? Cosa era connesso e come?	What did the experimental set-up look like? What was connected to what and how?				
+connessi		connesso	ADJ		1	1e-06	2	2e-06	connesso	ADJ	A	root	Gender=Masc|Number=Plur	d15a767b-a22f-5ad9-9aa1-65533f1abe8a	d15a80db-4f78-507f-8107-6a69096fd35f	Tutti loro sono connessi.	All of them are connected.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rottweiler		rottweiler	NOUN		2	2e-06	2	2e-06	rottweiler	NOUN	S	obj	Gender=Masc	d3f014cc-b39c-55ba-b7e1-140cab32bff3	ee1a215e-f521-5bd2-8a21-e67b7ab5a795	Ho un rottweiler.	I have a rottweiler.	Io ho un rottweiler.	I have a rottweiler.		

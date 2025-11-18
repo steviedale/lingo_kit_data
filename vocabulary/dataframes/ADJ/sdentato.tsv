@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sdentato		sdentato	ADJ		2	2e-06	2	2e-06	sdentato	ADJ	A	amod	Gender=Masc|Number=Sing	1f2467de-c800-5217-a7d6-ab0eba590ea4	52e4048c-51e9-556e-8fc8-187ac219876a	Io non sono un cane sdentato che abbaia.	I'm not a toothless barking dog.	Non sono un cane sdentato che abbaia.	I'm not a toothless barking dog.		

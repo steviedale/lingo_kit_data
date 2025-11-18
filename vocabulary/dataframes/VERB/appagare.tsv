@@ -1,0 +1,4 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+appagata		appagare	VERB		2	2e-06	5	5e-06	appagare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	defebafa-0292-5ee0-8713-345f0bfcce1a	ca2ebf31-e12b-5fd5-9a97-0eea05060da3	Io sono appagata.	I'm contented.	Sono appagata.	I'm contented.		
+appagato		appagare	VERB		2	2e-06	5	5e-06	appagare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	d388c3fb-b85d-5ea1-a3ba-90d7696863b8	ca2ebf31-e12b-5fd5-9a97-0eea05060da3	Io sono appagato.	I'm contented.	Sono appagato.	I'm contented.		
+appaga		appagare	VERB		1	1e-06	5	5e-06	appagare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	b33f92a9-8e8a-5b22-81cb-8e2a91eb85ff	ca2ebf31-e12b-5fd5-9a97-0eea05060da3	Una buona vita appaga Dio.	A good life pleases God.				

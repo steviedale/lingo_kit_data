@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scese		scendere	NOUN		1	1e-06	1	1e-06	scendere	NOUN	S	root	Gender=Masc|Number=Plur	9ee248b0-0926-51f8-b7e9-a459d3198cca	86cfebed-a5fe-580e-9e89-f5da906e4a43	Lei scese alla stazione successiva.	She got off at the next station.				

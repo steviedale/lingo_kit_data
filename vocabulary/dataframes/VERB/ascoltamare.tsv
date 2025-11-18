@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ascoltami		ascoltamare	VERB		8	8e-06	8	8e-06	ascoltamare	VERB	V	root	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	bd81abd2-3e54-52f5-9aa6-297e58680577	c573f046-844b-53c8-a24d-536b5eb8ce7c	Ascoltami, per piacere.	Listen to me, please.	Ascoltami, vuoi?	Listen to me, will you?	Ascoltami!	Listen to me!

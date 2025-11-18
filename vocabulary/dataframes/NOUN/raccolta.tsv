@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+raccolta		raccolta	NOUN		1	1e-06	1	1e-06	raccolta	NOUN	S	obl	Gender=Fem|Number=Sing	dfe77f70-8c51-5f7e-9627-317e39dea2dc	b8302139-a04d-5a93-a87f-2d3886d19e18	Questa città eccelle nella raccolta differenziata.	This town excels in waste separation.				

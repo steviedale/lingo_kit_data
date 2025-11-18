@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cucito		cucito	NOUN		1	1e-06	1	1e-06	cucito	NOUN	S	obl	Gender=Masc|Number=Sing	9cce2939-7cac-5ce7-b80b-53c7f4391f2e	48a59bb3-012a-5749-aa7f-fa3b4f7fdec4	Mary non sa nulla di cucito o lavoro a maglia.	Mary knows nothing of sewing or knitting.				

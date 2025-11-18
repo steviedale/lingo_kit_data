@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+assaporare		assaporare	VERB		1	1e-06	2	2e-06	assaporare	VERB	V	advcl	VerbForm=Inf	dfc442b9-d41a-5de2-ab70-21faf9ed08d8	9b23d073-7886-54e6-920e-b8ab7fd824ae	Le papille gustative sono richieste per assaporare il cibo.	Taste buds are needed to taste food.				
+assaporate		assaporare	VERB		1	1e-06	2	2e-06	assaporare	VERB	V	root	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	790e19ec-962a-5e6b-b545-ddf6010b9075	9b23d073-7886-54e6-920e-b8ab7fd824ae	Mangiate lentamente. Assaporate il cibo.	Eat slowly. Savor your food.				

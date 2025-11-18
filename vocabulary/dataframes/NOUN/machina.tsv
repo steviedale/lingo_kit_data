@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+machina		machina	NOUN		2	2e-06	2	2e-06	machina	NOUN	S	obj	Gender=Fem|Number=Sing	54992388-b64c-5a4b-ab02-7e278a0828a3	fa3e714a-f73b-54e9-b047-138b75f99cb8	Shane è un deus ex machina.	Shane is a deus ex machina.	Taro ha comprato una machina usata la settimana scorsa.	Taro bought a used car last week.		

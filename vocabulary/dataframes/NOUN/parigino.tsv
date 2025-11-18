@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+parigino		parigino	NOUN		1	1e-06	1	1e-06	parigino	NOUN	S	root	Gender=Masc|Number=Sing	26a49f3b-f16d-553b-b1e3-2bc5b1d78a5b	f9cbc256-39ce-5b5a-b2a0-f1059eac86f8	È un parigino nato e cresciuto.	He is a Parisian born and bred.				

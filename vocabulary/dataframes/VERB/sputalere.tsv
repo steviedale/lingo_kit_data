@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sputalo		sputalere	VERB		1	1e-06	1	1e-06	sputalere	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	e0c257a2-7c0f-5855-b043-f102d728f4e0	d5bd0bfa-e08a-587a-bf85-c5095f5dd7a3	Sputalo fuori!	Spit it out!				

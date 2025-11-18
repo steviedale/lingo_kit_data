@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ricollega		ricollegare	VERB		1	1e-06	1	1e-06	ricollegare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5575b26d-0946-555e-82c4-84871ee77f00	20d4570f-4d98-5f58-a3b0-a3237df7f05c	Come e perché la fine si ricollega all'inizio?	How and why does the end link up with the beginning?				

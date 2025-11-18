@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+monolitico		monolitico	ADJ		1	1e-06	1	1e-06	monolitico	ADJ	A	root	Gender=Masc|Number=Sing	d647d51a-c684-5a63-8c78-5f69613bf3b0	9e9d72ee-3fc1-5848-a2e8-94a80865549c	Il kernel Linux è monolitico.	The Linux kernel is monolithic.				

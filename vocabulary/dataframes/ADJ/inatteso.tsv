@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+inattesa		inatteso	ADJ		1	1e-06	1	1e-06	inatteso	ADJ	A	xcomp	Gender=Fem|Number=Sing	ae0d7ea1-ff5d-5b0f-a0b2-06f5b81ae611	13e0ec27-c993-59d8-ba02-dd9ccc0bb026	Quando la porta sbatté inattesa, mi sorprese.	When the door slammed unexpectedly, it startled me.				

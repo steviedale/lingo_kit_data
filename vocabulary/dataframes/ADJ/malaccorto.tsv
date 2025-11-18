@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+malaccorto		malaccorto	ADJ		1	1e-06	1	1e-06	malaccorto	ADJ	A	root	Gender=Masc|Number=Sing	d26a0245-fc55-5305-84e6-c9755a2e8896	be10f15c-5763-534a-bf57-8f9c0c2b3b6b	Tom è malaccorto.	Tom is careless.				

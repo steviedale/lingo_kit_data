@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pressati		pressare	VERB		1	1e-06	1	1e-06	pressare	VERB	V	acl	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	993b4e5e-ebbf-5a26-8244-54cd27f6c005	cdd3895c-67a1-5cc1-ae05-aeb319def4d2	Questi pantaloni hanno bisogno di essere pressati.	These trousers need pressing.				

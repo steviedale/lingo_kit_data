@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+complice		complice	NOUN		2	2e-06	3	3e-06	complice	NOUN	S	xcomp	Gender=Masc|Number=Sing	d54556f3-a49d-56ff-a206-a11dea92523f	b9ad21b4-1926-5884-b4e4-d8f038024e54	Era considerato un complice.	He was considered an accomplice.	Lui era considerato un complice.	He was considered an accomplice.		
+complici		complice	NOUN		1	1e-06	3	3e-06	complice	NOUN	S	obj	Gender=Masc|Number=Plur	913bff65-2b7d-5a25-bbce-d98b361d9110	b9ad21b4-1926-5884-b4e4-d8f038024e54	Non aveva complici.	He didn't have any accomplice.				

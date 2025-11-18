@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+trionfante		trionfante	ADJ		1	1e-06	1	1e-06	trionfante	ADJ	A	xcomp	Number=Sing	fc78f2ad-92a9-5e6e-a53b-acc5ec82b332	c7b2ccc8-a47a-55ea-bd2d-cf8e391ddf2e	Camillo ritornò trionfante in città.	Camillus returned to the city triumphant.				

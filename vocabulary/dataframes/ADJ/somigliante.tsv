@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+somigliante		somigliante	ADJ		1	1e-06	1	1e-06	somigliante	ADJ	A	amod	Number=Sing	a1ff4e78-7cd9-5cd6-859a-06acd64b68f8	84bb44cc-0084-5794-8f62-6e80fa246a1a	Mary e sua sorella hanno una pettinatura somigliante.	Mary and her sister have a similar hairstyle.				

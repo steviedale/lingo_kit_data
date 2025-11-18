@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+croquet		croquet	NOUN		1	1e-06	1	1e-06	croquet	NOUN	S	nmod	Gender=Masc	1244355b-3471-5cc3-b284-75e69d959a8d	b1568380-df73-5dd0-98e1-132252949b47	I giocatori di croquet devono indossare degli abiti bianchi durante il gioco.	Croquet players must wear white clothing during play.				

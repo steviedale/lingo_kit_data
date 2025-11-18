@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+espansa		espansare	VERB		1	1e-06	1	1e-06	espansare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	fb6cdc50-1bf1-590b-8c23-68982c257a30	17002f07-2db7-5b44-80a7-3543d8ff3f4e	La città si è espansa rapidamente di recente.	The city has rapidly expanded recently.				

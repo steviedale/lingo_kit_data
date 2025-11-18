@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+saluti		saluti	NOUN		4	4e-06	4	4e-06	saluti	NOUN	S	root	Gender=Masc|Number=Plur	00628b29-b1f2-5931-844c-d41c2e832ef7	72e031a4-16d7-523c-bf44-f3de544d2ceb	Saluti Tom da parte mia.	Say hello to Tom for me.	Saluti suo padre da parte mia.	Say hello to your father for me.	Saluti Jimmy.	Say hello to Jimmy.

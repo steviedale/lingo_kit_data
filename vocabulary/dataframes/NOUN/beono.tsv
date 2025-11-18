@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+beoni		beono	NOUN		1	1e-06	1	1e-06	beono	NOUN	S	nsubj	Gender=Masc|Number=Plur	77d1aac1-c948-50f1-9e1e-9857aba5180c	23e5dc08-0f0f-51d7-9b21-e05ef03b571f	I beoni bevono in continuo.	Drunkards drink non stop.				

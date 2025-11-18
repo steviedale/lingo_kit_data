@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+centrifuga		centrifuga	NOUN		1	1e-06	1	1e-06	centrifuga	NOUN	S	nsubj:pass	Gender=Fem|Number=Sing	0cde4f89-d893-50fb-83b2-42a1509006bc	dc45f496-018d-54e1-94d0-c4f6e464a72e	La centrifuga andava messa a 400.	The spin-dryer was to be set to 400.				

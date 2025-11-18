@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+band		band	NOUN		28	2.7e-05	28	2.7e-05	band	NOUN	S	root	Gender=Fem	bd1feadc-fb41-5921-81c0-484fcaa66291	c4b6673b-bcd7-5e0a-9f84-bb699fbddffe	Entrambe sono grandi band.	Both are great bands.	Siamo la band di spalla.	We're the backing group.	Questa è la migliore band del mondo.	This is the best band in the world.

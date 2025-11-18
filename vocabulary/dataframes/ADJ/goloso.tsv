@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+goloso		goloso	ADJ		3	3e-06	3	3e-06	goloso	ADJ	A	root	Gender=Masc|Number=Sing	a44b4679-428d-58ec-b38f-9ba394a4a2a2	b50da54c-ebbd-596d-a1b3-d904d593788a	Penso che Tom sia goloso.	I think Tom is greedy.	Tom è goloso per i dolciumi.	Tom has a sweet tooth.	Io penso che Tom sia goloso.	I think Tom is greedy.

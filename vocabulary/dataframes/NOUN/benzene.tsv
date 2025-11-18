@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+benzene		benzene	NOUN		1	1e-06	1	1e-06	benzene	NOUN	S	nmod	Gender=Masc|Number=Sing	54643dc3-8c42-52bb-ac69-f12b5c90ca42	75e86d34-6e73-5ed0-b45b-8de7d2aa12b0	Le molecole di benzene sono di forma esagonale.	Benzene molecules are hexagonal in shape.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ammattito		ammattire	VERB		1	1e-06	1	1e-06	ammattire	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	f494b177-e3a5-5e8d-ad01-ee0ca2c00892	3285672b-a8a0-5ee1-9ce7-5bb3523790dc	Tom si è ammattito.	Tom went bonkers.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scampato		scampato	VERB		1	1e-06	1	1e-06	scampato	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7d683f5a-a1db-58e4-be07-b65591b004bf	5b622bbf-ae23-5cba-a5be-94fd2a9ad1a7	Ho scampato di essere investito da una macchina.	I narrowly escaped being run over by a car.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+virali		virale	ADJ		1	1e-06	1	1e-06	virale	ADJ	A	amod	Number=Plur	48f249bc-39ff-5cc6-847a-87fcacfa69e3	7e5c5798-8905-587b-afa5-314ef087bb53	La circoncisione maschile riduce il rischio di infezioni virali che causano l'herpes e il cancro.	Male circumcision decreases the risk of viral infections that cause herpes and cancer.				

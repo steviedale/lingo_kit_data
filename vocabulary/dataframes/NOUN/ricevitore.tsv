@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ricevitore		ricevitore	NOUN		1	1e-06	1	1e-06	ricevitore	NOUN	S	obl	Gender=Masc|Number=Sing	b5470054-6c0b-5286-96cf-ef035f0f2761	20416551-1cad-5ce4-86b4-48d9fd887d7a	Strani rumori continuano ad arrivare dal ricevitore e non smetteranno.	Strange noises keep coming from the receiver and won't stop.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+storno		storno	NOUN		1	1e-06	1	1e-06	storno	NOUN	S	obj	Gender=Masc|Number=Sing	0328d099-b393-5410-845e-6b04fd6f904f	a68128d8-3f6b-59a3-ac77-01d191cc3ffc	Oggi ho visto uno storno.	Today, I saw a starling.				

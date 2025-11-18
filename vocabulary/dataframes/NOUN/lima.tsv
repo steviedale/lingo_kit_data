@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+lima		lima	NOUN		3	3e-06	3	3e-06	lima	NOUN	S	obl	Gender=Fem|Number=Sing	1ac5da1d-4f00-5577-acd7-550d844d9c47	25683361-3fcf-509d-9ce0-040292e3f93c	Ha grattato via la ruggine con una lima.	He rubbed the rust off with a file.	Ecco la lima.	Here's the file.	Grattò via la ruggine con una lima.	He rubbed the rust off with a file.

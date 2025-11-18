@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+beluga		beluga	NOUN		1	1e-06	1	1e-06	beluga	NOUN	S	obl	Gender=Masc|Number=Sing	bd813f01-cdec-5f97-acc2-605bb968b1e1	fe5c2fd0-6c1f-58c6-a7bb-df795057f8d6	Mi sento come un beluga!	I feel like a beluga whale!				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fatemelo		fatemele	VERB		1	1e-06	1	1e-06	fatemele	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2dd830eb-ac8a-5afd-b666-5d7161f1a533	22713a72-3dea-594b-8afb-fcb226a1c795	Se dovesse succedere qualcosa, fatemelo sapere, per piacere.	If anything should happen, please let me know.				

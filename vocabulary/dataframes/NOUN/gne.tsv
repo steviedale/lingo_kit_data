@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+agnello		gne	NOUN		2	2e-06	2	2e-06	a+gne+lo	ADP+NOUN+PRON	S	obl	Gender=Masc|Number=Sing|Clitic=Yes|Person=3|PronType=Prs	5782a421-1339-52c1-ba81-aaa84b47d253	e21b63f9-da72-5b1a-bfc4-775b767eb212	Le piace giocare con questo agnello.	She likes to play with this lamb.	A lei piace giocare con questo agnello.	She likes to play with this lamb.		

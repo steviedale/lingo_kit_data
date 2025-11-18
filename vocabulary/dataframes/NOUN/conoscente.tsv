@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+conoscenti		conoscente	NOUN		1	1e-06	1	1e-06	conoscente	NOUN	S	conj	Number=Plur	95c57df0-6a96-5ccf-b9d0-68f9f4f69227	e059f708-497d-5d64-a621-90a142935495	Io e il signor White non siamo amici, solo conoscenti.	Mr White and I are not friends, only acquaintances.				

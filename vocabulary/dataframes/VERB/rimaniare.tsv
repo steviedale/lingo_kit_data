@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rimaniate		rimaniare	VERB		2	2e-06	2	2e-06	rimaniare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	f28accbd-47bb-57a0-8b53-b9c95e18627b	5a4247b0-60e8-5330-b5d5-30f4b8de8747	Voglio che voi rimaniate dove siete.	I want you to stay where you are.	Voglio che rimaniate dove siete.	I want you to stay where you are.		

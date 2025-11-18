@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+resto		restare	NOUN		2	2e-06	2	2e-06	restare	NOUN	S	root	Gender=Masc|Number=Sing	2e7cd1e2-9928-51af-a1cb-f29298c774e9	74f029ec-105d-5a5e-b211-73195874be3e	Resto.	I'm going to stay.	Resto a Osaka.	I stay in Osaka.		

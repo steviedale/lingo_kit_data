@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+confuse		confundere	VERB		1	1e-06	1	1e-06	confundere	VERB	V	amod	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	befc663e-e863-5e64-b6f4-0caec9693251	e11f0096-6612-50a7-841c-e45c997178f9	Il problema confuse il pubblico.	The problem puzzled the public.				

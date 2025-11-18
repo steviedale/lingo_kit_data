@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+puntatore		puntatore	NOUN		1	1e-06	1	1e-06	puntatore	NOUN	S	obl:agent	Gender=Masc|Number=Sing	d46328ff-db37-5dfd-9422-7897e702fa18	a79cff65-5797-5cd2-997e-b9c910dbfc9a	Il portiere russo è stato coplito da un puntatore laser.	The Russian goalkeeper was struck by a laser pointer.				

@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+gufi		gufo	NOUN		3	3e-06	4	4e-06	gufo	NOUN	S	nmod	Gender=Masc|Number=Plur	363926f2-dd34-516c-aded-6bdeb98a8a1d	993da628-49c3-5c2e-a911-5de9d9bc3115	I gufi hanno gli occhi grandi.	Owls have big eyes.	I gufi riescono a vedere al buio.	Owls can see in the dark.	Ho paura dei gufi.	I'm afraid of owls.
+gufo		gufo	NOUN		1	1e-06	4	4e-06	gufo	NOUN	S	nsubj	Gender=Masc|Number=Sing	f29bf9fb-25a4-52e6-a3dd-f6144204ac3d	993da628-49c3-5c2e-a911-5de9d9bc3115	Il gufo riesce a vedere al buio.	The owl can see in the dark.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+circo		circo	NOUN		8	8e-06	8	8e-06	circo	NOUN	S	obl	Gender=Masc|Number=Sing	ca42bc05-295d-5562-81ed-4e872bb23e43	00a0162a-288e-5686-a4f9-411383cdcb8e	Ti piace il circo bulgaro?	Do you like the Bulgarian circus?	Le piace il circo bulgaro?	Do you like the Bulgarian circus?	La vita è un grande circo.	Life is one big circus.

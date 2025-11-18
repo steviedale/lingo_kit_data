@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+and		and	CCONJ		2	2e-06	2	2e-06	and	CCONJ	CC	cc		25bdbc2c-5433-5402-a7bc-d6dc701671d3	4c5b9734-64e4-5ff7-959f-5bef43509960	Lui è fan di Sex and the City.	He's a fan of Sex and the City.	È fan di Sex and the City.	She's a fan of Sex and the City.		

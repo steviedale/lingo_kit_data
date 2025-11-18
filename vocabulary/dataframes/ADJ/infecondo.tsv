@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+infecondo		infecondo	ADJ		2	2e-06	4	4e-06	infecondo	ADJ	A	root	Gender=Masc|Number=Sing	f9f81df3-14a9-53dd-93e9-3a1833494331	6ee71375-c431-5337-b1e7-cddc7e5dc57c	Sono infecondo.	I'm sterile.	Io sono infecondo.	I'm sterile.		
+infeconda		infecondo	ADJ		2	2e-06	4	4e-06	infecondo	ADJ	A	root	Gender=Fem|Number=Sing	92e5777f-ba1e-5c06-9fd9-5ef07dadc1fa	6ee71375-c431-5337-b1e7-cddc7e5dc57c	Sono infeconda.	I'm sterile.	Io sono infeconda.	I'm sterile.		

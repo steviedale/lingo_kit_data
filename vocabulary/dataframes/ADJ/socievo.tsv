@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+socievole		socievo	ADJ		1	1e-06	1	1e-06	socievo+le	ADJ+PRON	A	root	Gender=Masc|Number=Sing|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	086311a3-0bd0-53ed-a2ef-183dea3bf427	42b33411-2e8a-5390-9a2d-106319ea0c57	È molto socievole.	He is very sociable.				

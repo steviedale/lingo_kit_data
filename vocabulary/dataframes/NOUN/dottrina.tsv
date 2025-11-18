@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+dottrina		dottrina	NOUN		1	1e-06	1	1e-06	dottrina	NOUN	S	obj	Gender=Fem|Number=Sing	801637c0-9bfe-5ab7-bd49-462c35f22cae	da2e8bc5-a22f-5aa0-8ce2-9a9ca6905cb4	Un famoso poeta giapponese non approva alcuna dottrina fissa in haiku.	A famous Japanese poet does not approve of any fixed doctrine in haiku.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+eri		essere	PRON		1	1e-06	1	1e-06	essere	PRON	PE	nsubj	Number=Sing|Person=3|PronType=Prs	a5e01f4a-084e-56bb-a685-80530351b247	57751c95-3d3a-50a2-8543-62c30d72bc1b	Uno dei ragazzi con cui eri è uno dei miei amici.	One of the fellows you were with is a friend of mine.				

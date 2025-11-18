@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+solstizio		solstizio	NOUN		1	1e-06	1	1e-06	solstizio	NOUN	S	obj	Gender=Masc|Number=Sing	130b7398-7eff-52fd-b4aa-882ff021dc2e	ea5fabbb-2e1d-52ba-93b0-8eea5ca8e4d5	Dovremo celebrare il solstizio d'inverno.	We'll have to celebrate the winter solstice.				

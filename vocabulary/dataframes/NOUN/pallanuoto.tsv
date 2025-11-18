@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pallanuoto		pallanuoto	NOUN		1	1e-06	1	1e-06	pallanuoto	NOUN	S	nmod	Gender=Fem|Number=Sing	ec3efc15-2cd9-5eb2-a6e4-37340a95211a	c6b6b7fd-0302-5216-84a9-1977c4331e67	La squadra di pallanuoto si allena alle 5.30 del mattino.	The water polo team practices at 5:30 a.m.				

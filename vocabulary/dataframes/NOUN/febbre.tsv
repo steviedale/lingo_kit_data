@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+febbre		febbre	NOUN		55	5.3e-05	55	5.3e-05	febbre	NOUN	S	obl	Gender=Fem|Number=Sing	55273f38-4366-578a-a20f-1d9010b1c437	a9edcce3-42f1-5a7c-bd09-7fc25d3a5b40	La donna ha la febbre.	The woman has a fever.	Non ho febbre.	I don't have a fever.	Tom ha una leggera febbre.	Tom has a slight fever.

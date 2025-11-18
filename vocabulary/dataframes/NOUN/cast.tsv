@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cast		cast	NOUN		1	1e-06	1	1e-06	cast	NOUN	S	nmod	Gender=Masc	52bbda04-45b0-5370-b2dd-e7560b228ee1	7333212d-6faf-574e-9316-efafbce85fb1	Chi è il tuo membro del cast di CSI preferito?	Who's your favorite CSI cast member?				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+spiritoso		spiritoso	ADJ		3	3e-06	3	3e-06	spiritoso	ADJ	A	root	Gender=Masc|Number=Sing	7925a084-ee4e-56cc-8796-f9504906a538	293348bd-c0e7-5d99-9b03-5a1a8fdfe114	Io penso che Tom sia spiritoso.	I think Tom is witty.	Penso che Tom sia spiritoso.	I think Tom is witty.	Tom è spiritoso, vero?	Tom is witty, isn't he?

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+emendata		emendare	VERB		1	1e-06	1	1e-06	emendare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0ff393aa-7087-5464-b137-fb1f7842b32d	03763c37-22f5-5419-835e-ed907804bc48	La legge deve essere emendata.	The law needs to be amended.				

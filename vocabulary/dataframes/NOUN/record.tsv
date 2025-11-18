@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+record		record	NOUN		15	1.4e-05	15	1.4e-05	record	NOUN	S	nsubj:pass	Gender=Masc	cc64b087-b628-52d8-9bb7-f4a85bc50b98	f4effe52-217b-5f7d-93b6-81815a1ccbec	Il suo record non verrà mai battuto.	His record will never be broken.	Fece un nuovo record mondiale.	She set a new world record.	Lui infranse il record.	He broke the record.

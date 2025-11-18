@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+eletti		eletto	NOUN		1	1e-06	1	1e-06	eletto	NOUN	S	conj	Gender=Masc|Number=Plur	d9c427dd-91d0-5244-88cc-9ed9c0940c03	77250033-144c-5abe-9183-efc938c9acb7	Molti son chiamati, ma pochi eletti.	Many are called, but few are chosen.				

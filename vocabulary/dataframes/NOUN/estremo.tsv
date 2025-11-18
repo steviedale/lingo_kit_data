@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+estremi		estremo	NOUN		1	1e-06	2	2e-06	estremo	NOUN	S	nsubj	Gender=Masc|Number=Plur	b871883b-16b0-509f-b936-6ab5bbd83804	674e2ab5-255e-5779-8252-ffa03526fd0c	Gli estremi si toccano.	Extremes meet.				
+estremo		estremo	NOUN		1	1e-06	2	2e-06	estremo	NOUN	S	obl	Gender=Masc|Number=Sing	ac7116e7-6a73-53ad-b830-ca08b50d3d75	674e2ab5-255e-5779-8252-ffa03526fd0c	Aya tende a portare le cose all'estremo.	Aya tends to carry things to extremes.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tacete		tanere	VERB		1	1e-06	1	1e-06	tanere	VERB	V	root	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9e6478b6-bcc2-5dff-ab21-5c71f05010c1	11c8503c-6e2c-5012-810a-d4cb6450dccf	Ora, tacete e ascoltate.	Now, shut up and listen.				

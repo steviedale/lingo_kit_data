@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+prosecco		prosecco	NOUN		1	1e-06	1	1e-06	prosecco	NOUN	S	nmod	Gender=Masc|Number=Sing	93217d09-6aff-598d-b9cb-adce925f1d0b	1cb5bdff-5fbc-510b-944e-f2955c737c57	Non voglio più vedere una bottiglia di prosecco per un anno!	I don't care to see more than one bottle of prosecco a year.				

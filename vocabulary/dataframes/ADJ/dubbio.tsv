@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+dubbia		dubbio	ADJ		4	4e-06	4	4e-06	dubbio	ADJ	A	amod	Gender=Fem|Number=Sing	473b169a-0cbe-5189-8c73-4f25c803da01	15a440b2-fcc8-5bfc-b0da-0df2ff5253c9	Lei ci diede una risposta dubbia.	She gave us a dubious answer.	Lei ci ha dato una risposta dubbia.	She gave us a dubious answer.	Ci diede una risposta dubbia.	She gave us a dubious answer.

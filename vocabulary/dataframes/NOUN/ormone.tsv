@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ormoni		ormone	NOUN		1	1e-06	1	1e-06	ormone	NOUN	S	nsubj	Gender=Masc|Number=Plur	f70ac634-c344-5559-a7dc-b3d8f175fd31	33d1dbd5-1cb6-543f-8884-bf83a15995c0	Gli ormoni inquinano il giudizio.	Hormones impair one's judgment.				

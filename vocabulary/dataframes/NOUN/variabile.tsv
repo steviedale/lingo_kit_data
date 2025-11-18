@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+variabile		variabile	NOUN		1	1e-06	1	1e-06	variabile	NOUN	S	root	Gender=Fem|Number=Sing	f5d3bee7-ffd1-5ef0-acd4-407b015c1d40	6fbcfa42-d06b-5a48-8fab-745a4aa60506	h è una variabile temporanea.	h is a dummy variable.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+shock		shock	NOUN		20	1.9e-05	20	1.9e-05	shock	NOUN	S	nmod	Gender=Masc	6b972cc0-4e54-536c-a6fc-be89afb4c1d1	613ed913-a886-5f18-8c66-15f424509d71	La notizia dell'incidente fu un grande shock per me.	The news of the accident was a great shock to me.	Fu un enorme shock per me.	It was a great shock to me.	Sono ancora sotto shock.	I'm still in shock.

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+puzza		puzza	NOUN		10	1e-05	10	1e-05	puzza	NOUN	S	compound	Gender=Fem|Number=Sing	878aa700-e63e-5b54-9050-1912ab2deb4d	ca6895d8-cb43-51c2-a242-fd333b24c82e	Questa zuppa puzza di pesce.	This soup smacks of fish.	Questo puzza.	This stinks.	Lei puzza sul serio.	You really stink.

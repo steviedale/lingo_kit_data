@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+leggeste		leggesta	NOUN		1	1e-06	1	1e-06	leggesta	NOUN	S	nsubj	Gender=Fem|Number=Sing	f862dd85-cb2d-52a5-99cf-97b47af7ddad	febaf1bf-4acd-5679-a587-b83a3b44087e	Non volevo che la leggeste.	I didn't want you to read that.				

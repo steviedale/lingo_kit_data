@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+manzo		manzo	NOUN		20	1.9e-05	20	1.9e-05	manzo	NOUN	S	nsubj	Gender=Masc|Number=Sing	01a0b292-7cbc-5c80-916d-8b8eca9d43da	555301a6-506d-52fe-8970-a57da10fccd6	Io preferisco la carne di montone a quella di manzo.	I prefer mutton to beef.	Anch'io voglio della carne di manzo.	I want beef, too.	Del manzo, per piacere.	Beef, please.

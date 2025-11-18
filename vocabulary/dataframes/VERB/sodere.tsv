@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sudo		sodere	VERB		1	1e-06	1	1e-06	sodere	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2440dd6c-2af7-57da-b0f7-9993dcc3bb99	b53b3b4d-25ce-5f96-8982-5b86ff72359a	Sudo molto di notte.	I perspire a lot at night.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+polo		polo	NOUN		1	1e-06	1	1e-06	polo	NOUN	S	obj	Gender=Masc|Number=Sing	f1e17c23-05ba-595d-a0e2-766f69152272	242b6554-c403-58f0-a9f2-c7ea27372e57	Scott è stato il primo uomo a raggiungere il polo.	Scott was the first man to reach the pole.				

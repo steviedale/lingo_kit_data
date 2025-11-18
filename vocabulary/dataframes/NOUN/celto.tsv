@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+celti		celto	NOUN		1	1e-06	1	1e-06	celto	NOUN	S	nsubj	Gender=Masc|Number=Plur	eeeddcdd-e30a-5450-8b1f-619ba55dfb4a	24773d11-f68f-50a3-926c-b4825055710b	I Celti sono venuti per primi nel 600 A.C.	First came the Celts in 600 B.C.				

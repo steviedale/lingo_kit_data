@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+versagli		versagliare	VERB		1	1e-06	1	1e-06	versagliare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0a493444-e6da-58ff-9e2d-72209c8db4e6	7987fd31-06c6-507f-9792-9868f214fb8c	Per piacere, versagli un bicchiere di birra.	Please pour him a glass of beer.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+matrimono		matrimono	NOUN		1	1e-06	1	1e-06	matrimono	NOUN	S	obl	Gender=Masc|Number=Sing	e20ef09a-ef87-5b96-8f79-ab58a7a12255	0c5824e7-f8be-5519-a0d8-4fb85bb6df44	È troppo presto per pensare al matrimono, ci stiamo ancora conoscendo l'uno con l'altro.	It's too soon to think about marriage. We're still getting to know each other.				

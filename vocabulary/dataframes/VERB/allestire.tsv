@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+allestito		allestire	VERB		1	1e-06	2	2e-06	allestire	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	54a07110-8ae1-51ba-bafe-be9310a6f72c	49d8eefa-f44e-5e70-b85b-2ecafd052a7c	Tom ha allestito un sito web per Mary.	Tom set up a website for Mary.				
+allestì		allestire	VERB		1	1e-06	2	2e-06	allestire	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	f37e4b2a-0d6a-5c4e-8755-18b006cc477c	49d8eefa-f44e-5e70-b85b-2ecafd052a7c	Tom allestì un sito web per Mary.	Tom set up a website for Mary.				

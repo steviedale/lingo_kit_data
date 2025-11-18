@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+elimino		elimare	VERB		1	1e-06	1	1e-06	elimare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	49f794b6-81ae-5c1d-bcca-f02bec79a2ed	bfd3717d-695c-5c3d-a06f-fbebf6f8a09c	Come elimino una frase?	How do I delete a sentence?				

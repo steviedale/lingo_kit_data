@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+restituiscilo		restituiscilare	VERB		1	1e-06	1	1e-06	restituiscilare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2e9e26c6-144e-5449-9ac0-a9edcce9e556	b1424fdb-7fe3-503e-836f-297222256fec	Se hai finito di leggere il libro, restituiscilo alla biblioteca.	If you have finished reading the book, return it to the library.				

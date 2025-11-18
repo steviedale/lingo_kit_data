@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+prassi		prassi	NOUN		1	1e-06	1	1e-06	prassi	NOUN	S	obj	Gender=Fem	2b200218-6ec9-57be-92c2-c0dfd9d661ed	52e0c433-fd3d-5da6-bbc9-c11d3eaacfb5	La nonna ha la prassi di non fare le ore piccole.	Grandmother makes a practice of keeping early hours.				

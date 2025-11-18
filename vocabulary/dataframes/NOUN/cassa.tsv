@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cassa		cassa	NOUN		17	1.6e-05	17	1.6e-05	cassa	NOUN	S	obj	Gender=Fem|Number=Sing	84208744-7724-5006-9991-ee036db62716	3ac8dfcb-3d1e-5276-9ba6-d7a61f0cfe27	Per favore, paga alla cassa.	Please pay at the register.	Per piacere, paghi alla cassa.	Please pay at the register.	Per favore, pagate alla cassa.	Please pay at the register.

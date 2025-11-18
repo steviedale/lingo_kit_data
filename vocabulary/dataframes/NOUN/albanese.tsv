@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+albanese		albanese	NOUN		2	2e-06	2	2e-06	albanese	NOUN	S	obl	Number=Sing	e013742e-3dfb-5d85-b85a-96a554f808fb	d9b763f0-dc5a-54e1-a68c-b28f0b12138d	L'Albania è chiamata Shqipëria in albanese.	Albania is called Shqipëria in Albanian.	L'Albania si chiama Shqipëria in albanese.	Albania is called Shqipëria in Albanian.		

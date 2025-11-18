@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sopreso		soprimere	VERB		1	1e-06	1	1e-06	soprimere	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	800e1fee-a9ef-5548-b92b-8265dae6e900	d44ccdcf-c34b-5a6b-8af4-4bf90d8cba3f	Tom non era completamente sopreso di vedere Mary.	Tom wasn't entirely surprised to see Mary.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+carnivori		carnivore	ADJ		1	1e-06	1	1e-06	carnivore	ADJ	A	root	Gender=Masc|Number=Plur	302a49cd-c5ee-513d-86b0-3f5bfca347f4	86ab9512-3862-516e-9b9b-a31ea1180cb0	La maggior parte dei gabbiani sono carnivori.	Most seagulls are carnivorous.				

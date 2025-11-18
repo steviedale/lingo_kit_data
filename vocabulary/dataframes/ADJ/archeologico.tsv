@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+archeologici		archeologico	ADJ		1	1e-06	1	1e-06	archeologico	ADJ	A	amod	Gender=Masc|Number=Plur	3d964c42-bb7a-56fe-8b7e-c980bd2352c4	b968a0e8-d288-5bfe-83be-43ca580f77eb	Degli antichi siti archeologici sono minacciati in Siria.	Ancient archeological sites are under threat in Syria.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rima		rima	NOUN		2	2e-06	2	2e-06	rima	NOUN	S	obj	Gender=Fem|Number=Sing	d4cc190a-6b07-5d6e-8379-7b488f47d491	5e238d2d-c332-5ead-890a-8be791aa917a	Cosa fa rima con Tatoeba?	What rhymes with Tatoeba?	Che cosa fa rima con Tatoeba?	What rhymes with Tatoeba?		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+calice		calice	NOUN		2	2e-06	2	2e-06	calice	NOUN	S	nsubj:pass	Gender=Masc|Number=Sing	a7946d78-717c-5d05-b9a7-56b2e901277b	48f23349-1ba3-5ddc-954a-74203633e434	Questo calice è fatto d'oro.	This goblet is made of gold.	Dov'è il mio calice?	Where's my cup?		

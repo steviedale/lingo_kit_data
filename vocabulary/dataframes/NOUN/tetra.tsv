@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tetra		tetra	NOUN		4	4e-06	4	4e-06	tetra	NOUN	S	xcomp	Gender=Fem|Number=Sing	af6986cb-615f-515d-b628-f836b0b14966	bc23bc5c-5d7d-5114-855a-b5656f84368a	Mi sento sempre tetra.	I always feel gloomy.	Perché è così tetra?	Why are you so glum?	Io mi sento sempre tetra.	I always feel gloomy.

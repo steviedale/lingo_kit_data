@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+stimolante		stimolante	ADJ		2	2e-06	2	2e-06	stimolante	ADJ	A	ccomp	Number=Sing	667abb5b-6a5c-5f9f-a0f4-5c920d13f2e6	8b3ce542-97c3-5184-9d55-7e028e586045	Penso che Tom sia poco stimolante.	I think Tom is uninteresting.	Io penso che Tom sia poco stimolante.	I think Tom is uninteresting.		

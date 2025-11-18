@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+teenager		teenager	NOUN		4	4e-06	4	4e-06	teenager	NOUN	S	obl	Gender=Masc	9f191dd9-db9e-5f10-83af-0a0b059dfb06	cfa8c621-fc0e-5919-b80e-5df81981df89	Quella rivista è rivolta ai teenager.	That magazine is aimed at teenagers.	La rivista è rivolta ai teenager.	The magazine is aimed at teenagers.	Emily è una teenager.	Emily is a teenager.

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+disobbedire		disobbedire	VERB		1	1e-06	1	1e-06	disobbedire	VERB	V	acl	VerbForm=Inf	e82dd80a-3a23-52de-88c6-bd9fdded1c68	276d2136-1f39-552e-aa2f-811d9e6cd275	Tom non aveva il coraggio di disobbedire a Mary.	Tom didn't have the courage to disobey Mary.				

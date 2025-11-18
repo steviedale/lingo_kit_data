@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+chihuahua		chihuahua	NOUN		1	1e-06	1	1e-06	chihuahua	NOUN	S	root	Gender=Masc	680be5c9-41d9-5f1a-8b16-2caaacbede61	52833697-0e40-524d-b054-52f222756a17	Quello è il chihuahua di mia mamma.	That's my mom's chihuahua.				

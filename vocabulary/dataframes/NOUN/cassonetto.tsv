@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cassonetto		cassonetto	NOUN		1	1e-06	1	1e-06	cassonetto	NOUN	S	obl	Gender=Masc|Number=Sing	f10bd7b6-bb08-557d-b362-be6205201cf4	a50c31e0-30c1-52c2-8663-84d751d6b40d	Dormire in un cassonetto, eh?, chiese Al-Sayib. Deve essere stata una esperienza puzzolente.	Sleeping in a dumpster, huh? Al-Sayib asked. That must have been a smelly experience.				

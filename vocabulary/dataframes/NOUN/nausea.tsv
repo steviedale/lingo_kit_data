@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+nausea		nausea	NOUN		8	8e-06	8	8e-06	nausea	NOUN	S	obj	Gender=Fem|Number=Sing	61e89108-5567-58da-ad08-df87b3079466	981c8ee5-0782-5126-b4ce-fa5b34a28366	Ha ancora la nausea?	Are you still nauseous?	Hai ancora la nausea?	Are you still nauseous?	Io ho la nausea.	I feel nauseous.

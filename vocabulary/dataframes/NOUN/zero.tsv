@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+zeri		zero	NOUN		1	1e-06	1	1e-06	zero	NOUN	S	nsubj	Gender=Masc|Number=Plur	932625c8-16a4-54e8-9bd3-cd3273ddf2ff	dde758c3-7941-5cac-9c43-d876a07b6fc4	Ci sono due zeri nel numero 2010.	There are two zeros in the number 2010.				

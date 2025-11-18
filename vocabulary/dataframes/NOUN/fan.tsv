@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fan		fan	NOUN		39	3.7e-05	39	3.7e-05	fan	NOUN	S	obl:agent		393874bf-cc87-5080-a432-b7973303911f	f3ec3201-dfec-592c-b3b6-b0a0880ec8cc	Lei è una fan dell'opera italiana.	She's a fan of Italian opera.	Io sono un grande fan di Getter Jaani.	I'm a big fan of Getter Jaani.	Voglio il fan.	I want the fan.

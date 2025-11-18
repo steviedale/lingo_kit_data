@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+peggio		peggio	ADV		37	3.5e-05	37	3.5e-05	peggio	ADV	B	root		c859f081-71c9-5422-bdb5-984d1fa3fffa	c6dc3dfa-6824-5d88-8007-b3d493070065	Non può diventare peggio.	It can't get worse.	Oggi mi sento peggio di ieri.	I feel worse today than I did yesterday.	Il tempo oggi è peggio di ieri.	The weather today is worse than yesterday.

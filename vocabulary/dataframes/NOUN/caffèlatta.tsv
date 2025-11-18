@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+caffèlatte		caffèlatta	NOUN		1	1e-06	1	1e-06	caffèlatta	NOUN	S	conj	Gender=Masc|Number=Sing	d2dbb87d-2e62-5ad6-b9c0-ff12914f0f85	00299966-a202-57e9-9cce-44cf3ba305a9	Un bicchiere di vino, una birra, un succo d'arancia e un caffèlatte.	A glass of wine, a beer, an orange juice, and a coffee with milk.				

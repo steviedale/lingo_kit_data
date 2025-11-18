@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cammino		cammino	VERB		5	5e-06	5	5e-06	cammino	VERB	V	acl	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	37ccf063-f411-504b-a20e-79a1cb7d89f2	e1c29081-cab0-5337-97ab-67c2755584f6	Io cammino tutti i giorni.	I walk every day.	Io cammino ogni giorno.	I walk every day.	Io non cammino così.	I don't walk like that.

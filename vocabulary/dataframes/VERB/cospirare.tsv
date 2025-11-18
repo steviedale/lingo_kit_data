@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cospirando		cospirare	VERB		1	1e-06	1	1e-06	cospirare	VERB	V	conj	VerbForm=Ger	10b6c9a0-16ec-5fc9-aa6e-27570557b7ac	d73208ad-99ee-5e4b-961d-84a9ae8418a0	O c'è la luna piena o gli animali stanno solo cospirando contro di noi oggi.	Either it's a full moon or animals are just conspiring against us today.				

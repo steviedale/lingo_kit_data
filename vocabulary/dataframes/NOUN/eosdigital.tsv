@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+eosdigital		eosdigital	NOUN		1	1e-06	1	1e-06	eosdigital	NOUN	S	root	Gender=Masc|Number=Sing	bbfdd107-07a0-56f4-a9a0-6bbc3915c89c	9e3a7d42-20e9-5896-81ad-d3e8fd76b10f	La password attuale è eosdigital.	The present password is eosdigital.				

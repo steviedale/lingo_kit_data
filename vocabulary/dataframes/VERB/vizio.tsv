@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+vizi		vizio	VERB		1	1e-06	1	1e-06	vizio	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9921a62d-4aa5-5054-a01c-9b4cab3bcaef	6073dc4e-1178-508b-9b5d-360fe59f65e9	Non vizi suo figlio.	Don't spoil your child.				

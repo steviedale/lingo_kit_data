@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sbadiglio		sbadiglio	NOUN		4	4e-06	4	4e-06	sbadiglio	NOUN	S	obj	Gender=Masc|Number=Sing	617b33fd-81cc-59e5-b871-9c701813ab49	db1af361-2f34-579e-aa39-a9ebeab72598	Lui fece un grande sbadiglio!	He gave a big yawn!	Ha fatto un grande sbadiglio!	He gave a big yawn!	Fece un grande sbadiglio!	He gave a big yawn!

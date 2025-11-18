@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+wrestler		wrestler	NOUN		1	1e-06	1	1e-06	wrestler	NOUN	S	root	Gender=Masc	e8c316dc-9b8c-56dd-9afa-63ae1f623801	a5f4d8a3-08bd-515e-ac78-57fa781b60b1	Tom è un wrestler professionista.	Tom is a professional wrestler.				

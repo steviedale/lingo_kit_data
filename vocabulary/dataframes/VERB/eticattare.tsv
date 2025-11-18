@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+etichettò		eticattare	VERB		1	1e-06	1	1e-06	eticattare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5d5d5306-277b-5729-9dbd-040add0f8ca2	1f1afe02-4eab-5274-b5b0-d8c501f75a0d	L'impiegato etichettò il bagaglio.	The clerk labeled the baggage.				

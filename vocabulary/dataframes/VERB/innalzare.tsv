@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+innalzata		innalzare	VERB		1	1e-06	1	1e-06	innalzare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7ff742a5-001b-5def-874f-a13f69f12adb	0aae74db-2e13-5075-a3ee-75a34e7178a5	La bandiera è innalzata.	The flag is up.				

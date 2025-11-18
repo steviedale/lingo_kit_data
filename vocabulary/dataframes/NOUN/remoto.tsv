@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+remoto		remoto	NOUN		1	1e-06	1	1e-06	remoto	NOUN	S	nmod	Gender=Masc|Number=Sing	7256b7dc-564c-58e5-9876-b0b166ef2a40	4e855bd7-6d93-565a-b66c-774cd12c292d	Uso spesso SSH per accedere ai miei computer in remoto.	I often use SSH to access my computers remotely.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+circola		circolare	VERB		2	2e-06	2	2e-06	circolare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1a894ac6-1201-5dbb-b231-ff7ec8f144e8	b50e53fc-8eee-5300-b90c-e75190537150	Il sangue circola attraverso il corpo.	Blood circulates through the body.	Questo treno circola tra Tokyo e Osaka.	This train runs between Tokyo and Osaka.		

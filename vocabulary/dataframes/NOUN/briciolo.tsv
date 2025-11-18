@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+briciolo		briciolo	NOUN		2	2e-06	2	2e-06	briciolo	NOUN	S	obj	Gender=Masc|Number=Sing	ce8f2e7a-b6f3-5f43-a056-07678280f37c	d747de69-41b9-5d10-a0e6-d77d281c9ec2	Non ha avuto un briciolo di coraggio.	He didn't have a grain of courage.	Non vi era un briciolo di verità nella frase.	There wasn't a scrap of truth in the statement.		

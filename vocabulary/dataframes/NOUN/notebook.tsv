@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+notebook		notebook	NOUN		3	3e-06	3	3e-06	notebook	NOUN	S	root	Gender=Masc	a2252f23-988a-53b3-bf1a-2a4299adfdc2	3ae3b32a-cbb2-5194-bad8-3b599928af41	Io ho perso il mio notebook oggi.	I lost my notebook today.	Ho perso il mio notebook oggi.	I lost my notebook today.	Questo è il mio notebook.	This is my notebook.

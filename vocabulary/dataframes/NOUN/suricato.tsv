@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+suricati		suricato	NOUN		1	1e-06	1	1e-06	suricato	NOUN	S	nsubj	Gender=Masc|Number=Plur	d59dbc81-3481-5e65-b174-e02ce2555759	4ca9b1b5-2c69-5a19-aa05-028d8ca99dfb	I suricati vivono in Africa.	Meerkats live in Africa.				

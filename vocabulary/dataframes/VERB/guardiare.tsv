@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+guardiate		guardiare	VERB		2	2e-06	2	2e-06	guardiare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	48db0a4f-790e-54fb-b320-cb95cb104c6a	11e01d3b-147b-5579-b983-94b9b27cad82	Voglio che guardiate qualcosa.	I want you to look at something for me.	Voglio che voi guardiate qualcosa.	I want you to look at something for me.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sentinella		sentinella	NOUN		1	1e-06	1	1e-06	sentinella	NOUN	S	nsubj	Gender=Fem|Number=Sing	10f2cff4-f41c-5fa6-8855-1558b4e44324	6da7477c-5a76-5985-aada-b1b8942c5fd5	Chi va là? Fermi o sparo!, urlò la sentinella.	Who goes there? Stop or I'll shoot! shouted the guard.				

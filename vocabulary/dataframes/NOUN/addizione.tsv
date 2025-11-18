@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+addizione		addizione	NOUN		1	1e-06	1	1e-06	addizione	NOUN	S	nsubj	Gender=Fem|Number=Sing	01369dd2-c1e1-5f56-8076-b37786a6d17d	aa3a3833-ed84-51ac-a51a-772d2b05f275	L'addizione e la sottrazione sono funzioni matematiche.	Addition and subtraction are functions of mathematics.				

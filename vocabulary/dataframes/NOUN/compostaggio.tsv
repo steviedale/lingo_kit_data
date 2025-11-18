@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+compostaggio		compostaggio	NOUN		1	1e-06	1	1e-06	compostaggio	NOUN	S	nsubj	Gender=Masc|Number=Sing	292b2476-8005-5bb0-ae6a-a1a4663f3f31	c86e4d3f-2e93-5ff4-8222-c221559cda2a	Il compostaggio è importante.	Composting is important.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+presentatore		presentatore	NOUN		1	1e-06	1	1e-06	presentatore	NOUN	S	nmod	Gender=Masc|Number=Sing	b3411ac9-3bd8-5347-bfb3-be2a27506ad7	7307f86a-111d-5094-84fc-fab9ca3427a1	Il suo tipo ideale sembra essere qualcuno come il presentatore Shinichiro Azumi.	Her ideal type seems to be someone like the announcer Shinichiro Azumi.				

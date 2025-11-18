@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rosica		rosicare	VERB		1	1e-06	1	1e-06	rosicare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	db818383-f578-5479-bdd6-3898cbdf8cb3	dd93d1ff-a89c-534a-9aba-8d727e6ad22e	Chi non risica non rosica.	He who risks not gains not.				

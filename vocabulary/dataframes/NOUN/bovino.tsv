@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+bovini		bovino	NOUN		1	1e-06	1	1e-06	bovino	NOUN	S	nsubj	Gender=Masc|Number=Plur	85e5f9b7-5ee1-5362-81d4-ac72afecc4c3	4e9939a2-ad14-5f68-8d5a-f22e4a995f64	I loro bovini sono tutti grassi.	Their cattle are all fat.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+analgesici		analgesico	NOUN		1	1e-06	1	1e-06	analgesico	NOUN	S	nmod	Gender=Masc|Number=Plur	acc7ae2b-aeb8-514a-bdf0-8b2b86cf4174	d762a73c-6615-5d6f-bfc3-0a00154dd442	Ho bisogno di analgesici.	I need pain medication.				

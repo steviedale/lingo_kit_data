@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+torto		torto	ADJ		4	4e-06	4	4e-06	torto	ADJ	A	xcomp	Gender=Masc|Number=Sing	f885419e-9f18-5e20-927e-ba632024988b	cda3b52f-88f4-5af9-b653-4e0b87730d3d	Non avete per niente torto.	You are not at all wrong.	Non hai per niente torto.	You are not at all wrong.	Voi non avete per niente torto.	You are not at all wrong.

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+lasciagliene		lasciagliere	VERB		2	2e-06	2	2e-06	lasciagliere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	958ce1e2-dcfa-5f1d-ad71-ce7d6f81b33e	097c8e47-4359-5b3a-81a7-35248c5b8e68	Lasciagliene vincere uno.	Let them win one.	Lasciagliene vincere una.	Let them win one.		

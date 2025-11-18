@@ -1,0 +1,5 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+andaluso		andaluso	ADJ		2	2e-06	6	6e-06	andaluso	ADJ	A	root	Gender=Masc|Number=Sing	2d57632a-7599-526f-adca-c5bcea8eeb94	96d3e13e-0576-5b75-b355-27e1372db13f	È andaluso?	Are you Andalusian?	Sei andaluso?	Are you Andalusian?		
+andalusa		andaluso	ADJ		2	2e-06	6	6e-06	andaluso	ADJ	A	root	Gender=Fem|Number=Sing	c5b6fef0-94e5-51ca-8b76-7a4fcd16e7a9	96d3e13e-0576-5b75-b355-27e1372db13f	Sei andalusa?	Are you Andalusian?	È andalusa?	Are you Andalusian?		
+andaluse		andaluso	ADJ		1	1e-06	6	6e-06	andaluso	ADJ	A	root	Gender=Fem|Number=Plur	35c0cbf5-374b-5158-b1d0-1ee49eee6f63	96d3e13e-0576-5b75-b355-27e1372db13f	Siete andaluse?	Are you Andalusian?				
+andalusi		andaluso	ADJ		1	1e-06	6	6e-06	andaluso	ADJ	A	root	Gender=Masc|Number=Plur	78001e72-eda1-5b44-9cd9-54794ea6e9b4	96d3e13e-0576-5b75-b355-27e1372db13f	Siete andalusi?	Are you Andalusian?				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+lacrosse		lacrossa	NOUN		1	1e-06	1	1e-06	lacrossa	NOUN	S	obl	Gender=Masc|Number=Plur	7aee1281-d8d7-58e0-a5f4-f3e50a525801	550161ee-28f9-5cd5-9b61-fe17830ef98b	Tom una volta giocava a lacrosse, però non lo fa più.	Tom used to play lacrosse, but he doesn't anymore.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+raggruppa		raggruppare	VERB		1	1e-06	1	1e-06	raggruppare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	d707b007-0adb-5274-987e-400e88767f2a	b564e32a-50b6-5f1e-82c0-6d3daf921f9b	L'autore raggruppa insieme tutte le differenti letterature europee.	The author lumps all the different European literatures together.				

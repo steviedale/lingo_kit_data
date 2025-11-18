@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+-concava		-concavo	ADJ		1	1e-06	1	1e-06	-concavo	ADJ	A	conj	Gender=Fem|Number=Sing	f71b036e-09f1-52aa-9c06-840938960e24	f2b7a124-84f8-5ea0-9d8b-40e2380ecaac	Una funzione che è sia quasi-convessa che quasi-concava è quasi-lineare.	A function that is both quasiconvex and quasiconcave is quasilinear.				

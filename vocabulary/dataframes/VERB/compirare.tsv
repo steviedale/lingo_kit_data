@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+compirò		compirare	VERB		1	1e-06	1	1e-06	compirare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0ca0c35f-eeb2-5a4b-8501-6dadb0926b6e	35a8397b-90f5-5e27-a2a7-d86e02f478d4	Compirò sedici anni il prossimo mese.	I'll be sixteen years old next month.				

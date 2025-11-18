@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+lasagne		lasagna	NOUN		3	3e-06	3	3e-06	lasagna	NOUN	S	nsubj	Gender=Fem|Number=Plur	d8290ab0-5c15-5688-b845-2d5c0ee86334	6e400726-9bad-548e-a0bb-466adbe593d4	Io amo le lasagne.	I love lasagna.	Mi piacciono le lasagne.	I love lasagna.	Amo le lasagne.	I love lasagna.

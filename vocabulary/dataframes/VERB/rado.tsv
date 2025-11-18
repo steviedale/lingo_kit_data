@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rado		rado	VERB		1	1e-06	1	1e-06	rado	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	94ea1d2e-bdfa-556a-b84a-bc84d2171a3f	822e90cb-e592-55cf-a679-227c9008f35a	Mi rado ogni mattina.	I shave every morning.				

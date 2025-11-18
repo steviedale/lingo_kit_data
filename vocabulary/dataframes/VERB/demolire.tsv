@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+demolita		demolire	VERB		2	2e-06	2	2e-06	demolire	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	cee57d35-e5bf-5930-a901-2b00107d09bc	3ddc4e6f-1197-5647-88d8-75d91f4c9d6b	La vecchia casa venne demolita.	The old house was demolished.	La vecchia casa è stata demolita.	The old house was demolished.		

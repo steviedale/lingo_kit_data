@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+prestami		prestamere	VERB		3	3e-06	3	3e-06	prestamere	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	c0da537e-768c-5d6d-8afe-77cb50799687	3a547ee9-33da-59a6-80eb-3cc11db846cf	Prestami il tuo cane.	Lend me your dog.	Prestami la tua bicicletta.	Lend me your bicycle.	Prestami la tua bici.	Lend me your bicycle.

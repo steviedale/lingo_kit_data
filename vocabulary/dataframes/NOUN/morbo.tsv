@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+morbo		morbo	NOUN		8	8e-06	8	8e-06	morbo	NOUN	S	obj	Gender=Masc|Number=Sing	acdcdee5-a056-5444-8fe8-9dd021a0dbdd	9f5beebb-6615-5e1d-833d-30c37e9bccd5	Aveva il morbo di Parkinson.	He had Parkinson's disease.	Lui aveva il morbo di Parkinson?	Did he have Parkinson's disease?	Aveva il morbo di Parkinson?	Did he have Parkinson's disease?

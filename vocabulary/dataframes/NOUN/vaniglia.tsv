@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+vaniglia		vaniglia	NOUN		4	4e-06	4	4e-06	vaniglia	NOUN	S	nmod	Gender=Fem|Number=Sing	416326ec-c700-556c-a8e6-24577817456d	0cb78834-83ec-515c-9010-aebac9dfea8d	Odiava la vaniglia.	She hated vanilla.	Voglio un gelato alla vaniglia.	I want a vanilla ice cream.	Due gelati alla vaniglia, per piacere.	Two vanilla ice creams, please.

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rivederti		rivedire	VERB		1	1e-06	1	1e-06	rivedire	VERB	V	root	VerbForm=Inf	819eb492-0258-520f-ba1a-e92da648c204	dc8779c0-343b-571a-94e1-cb18133a2ec9	Non voglio rivederti mai più.	I don't ever want to see you again.				

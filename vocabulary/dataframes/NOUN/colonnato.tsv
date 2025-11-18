@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+colonnato		colonnato	NOUN		1	1e-06	1	1e-06	colonnato	NOUN	S	nsubj	Gender=Masc|Number=Sing	db0ac86d-8509-5c3b-b0b7-615181592a28	4ebbd4de-12b1-51be-a0ef-fac210f1bf34	Il colonnato della basilica di San Pietro è veramente grande e bello.	The colonnade of the basilica of Saint Peter is truly grand and beautiful.				

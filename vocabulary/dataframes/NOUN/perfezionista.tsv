@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+perfezionista		perfezionista	NOUN		3	3e-06	3	3e-06	perfezionista	NOUN	S	root	Number=Sing	b2b03211-3099-5ce0-aa2f-c29f08ae278e	4044b718-9e0d-58d4-909c-eb2ec362118b	Tom è un perfezionista.	Tom is a perfectionist.	Sono un perfezionista.	I'm a perfectionist.	Io sono un perfezionista.	I'm a perfectionist.

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+bisognosi		bisognoso	NOUN		1	1e-06	1	1e-06	bisognoso	NOUN	S	obj	Gender=Masc|Number=Plur	f5e18829-e16a-53e1-a375-21a3a3f8e845	1019976e-5e1f-54a0-a606-63b861b58d7b	Dovremmo aiutare i bisognosi.	We should help the needy.				

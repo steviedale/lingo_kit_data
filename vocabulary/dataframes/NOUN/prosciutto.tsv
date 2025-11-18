@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+prosciutto		prosciutto	NOUN		9	9e-06	9	9e-06	prosciutto	NOUN	S	nmod	Gender=Masc|Number=Sing	dac82d00-9ae0-5ac8-89fc-e4d3951da52e	b9380d3e-7433-503a-9325-82daa99caa1f	Prendete un po' di prosciutto.	Have some ham.	Prendi un po' di prosciutto.	Have some ham.	Un sandwich senza prosciutto non è un sandwich.	A sandwich without ham is not a sandwich.

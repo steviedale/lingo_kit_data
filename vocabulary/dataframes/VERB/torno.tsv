@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+torno		torno	VERB		2	2e-06	2	2e-06	torno	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	737db1e6-2676-5121-a035-aa756872ebef	35a8d536-999e-5633-bafc-3ea8ac6e319c	Torno subito.	I will be back soon.	Torno a casa presto ogni giorno.	I go home early every day.		

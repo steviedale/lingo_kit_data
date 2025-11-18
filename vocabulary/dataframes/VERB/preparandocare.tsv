@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+preparandoci		preparandocare	VERB		1	1e-06	1	1e-06	preparandocare	VERB	V	xcomp	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	94d2bf9d-a711-59b8-a21c-1320ed602dfb	a39530f8-db8c-53c6-8682-625f696d97ce	Saremo stati occupati preparandoci per il viaggio.	We'll have been busy preparing for the trip.				

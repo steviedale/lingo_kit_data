@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tacos		tacos	NOUN		2	2e-06	2	2e-06	tacos	NOUN	S	obl	Gender=Masc	fe1f4d08-93cb-5c4a-b40f-212393ed92f9	715b90d2-c072-5a17-a3ea-75c46e0b7417	Io voglio dei tacos.	I want tacos.	Voglio dei tacos.	I want tacos.		

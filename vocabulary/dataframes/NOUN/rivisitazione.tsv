@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rivisitazione		rivisitazione	NOUN		1	1e-06	1	1e-06	rivisitazione	NOUN	S	root	Gender=Fem|Number=Sing	0c37b470-b86f-5b54-8940-2b8ae9c34227	6bd7635c-025d-5718-ba17-1a108d501c2a	Gran Torino è una rivisitazione moderna dei film western.	Gran Torino is a modern revisitation of Western movies.				

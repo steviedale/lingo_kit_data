@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+magneti		magneta	NOUN		1	1e-06	1	1e-06	magneta	NOUN	S	nsubj	Gender=Masc|Number=Plur	cab8a5c0-a41b-5c2c-b276-55ec8d9ca104	62f7ddc4-141d-51d9-b469-41df1fa623ba	Come funzionano i magneti?	How do magnets work?				

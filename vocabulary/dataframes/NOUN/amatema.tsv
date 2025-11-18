@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+amatemi		amatema	NOUN		2	2e-06	2	2e-06	amatema	NOUN	S	vocative	Gender=Masc|Number=Plur	2e15eb6a-1bd5-5d12-b4d5-40c7b51d6cbe	f4aaa029-f3c1-5420-99e5-600b612b93cc	Amatemi!	Love me!	Amatemi, amate il mio cane.	Love me, love my dog.		

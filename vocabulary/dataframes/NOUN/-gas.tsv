@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+-gas		-gas	NOUN		1	1e-06	1	1e-06	-gas	NOUN	S	nmod	Gender=Masc	42857188-11eb-5ad7-b5af-ebf4c4224dbf	9bb43e80-8667-50c3-8964-aca653afa76d	Il poliziotto sta indossando una maschera anti-gas.	The policeman is wearing a gas mask.				

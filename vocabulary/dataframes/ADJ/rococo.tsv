@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rococò		rococo	ADJ		1	1e-06	1	1e-06	rococo	ADJ	A	amod	Gender=Masc|Number=Sing	bc6875f9-dd32-53a2-9d6f-1f0b0c3965ff	e8168dd4-4278-596d-b98a-421f685fe935	Il Palazzo Sanssouci è in stile rococò.	The Sanssouci Palace is in the rococo style.				

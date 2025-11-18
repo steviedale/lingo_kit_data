@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+illustrazioni		illustrazione	NOUN		1	1e-06	1	1e-06	illustrazione	NOUN	S	obj	Gender=Fem|Number=Plur	61071dbd-4c2a-5f85-9956-94b722401c0a	8dab761a-412e-5c9e-994a-698cdfe03b5d	Questo libro ha 252 pagine, escludendo le illustrazioni.	This book has 252 pages exclusive of illustrations.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sottostimato		sottostimare	VERB		1	1e-06	1	1e-06	sottostimare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	96000547-e698-539f-bb61-0ac4a3440d76	213c9b29-0f46-504e-9607-f72246199df0	Ho sottostimato la forza del mio avversario.	I have underestimated the strength of my opponent.				

@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+spregevole		spregevole	ADJ		2	2e-06	3	3e-06	spregevole	ADJ	A	root	Number=Sing	14ae3101-4dc6-5fab-9733-4039e55bf5ea	ecb10720-4807-58e7-897b-dcc648542505	Tom è spregevole.	Tom's miserable.	Jason non è un tizio cattivo, ma piuttosto un perdente spregevole.	Jason is no bad guy, but rather a pitiable loser.		
+spregevoli		spregevole	ADJ		1	1e-06	3	3e-06	spregevole	ADJ	A	root	Number=Plur	16f3df0a-b57e-51a1-8197-91053882dcb0	ecb10720-4807-58e7-897b-dcc648542505	Gli elfi sono molto spregevoli.	Elves are very mean.				

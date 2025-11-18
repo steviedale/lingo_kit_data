@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+idiomatica		idiomatico	ADJ		1	1e-06	2	2e-06	idiomatico	ADJ	A	amod	Gender=Fem|Number=Sing	6a110643-6c74-5184-912e-2eb5f11b444f	1a1729a5-f603-566c-89ed-5d5f95ab32c3	L'inglese è una lingua idiomatica.	English is an idiomatic language.				
+idiomatiche		idiomatico	ADJ		1	1e-06	2	2e-06	idiomatico	ADJ	A	amod	Gender=Fem|Number=Plur	bc07e886-061d-5414-ab0a-a3abbab5a675	1a1729a5-f603-566c-89ed-5d5f95ab32c3	L'inglese ha molte espressioni idiomatiche da offrire.	English has a lot of idiomatic expressions to offer.				

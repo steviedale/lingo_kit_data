@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+arò		ardare	VERB		1	1e-06	1	1e-06	ardare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	80cf9b86-2ea8-559b-b005-9dc91ba1f76d	5fa09d08-7624-5077-bc88-f96cd0f56e4d	Arò il campo.	She plowed the field.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tram		tram	NOUN		1	1e-06	1	1e-06	tram	NOUN	S	obl	Gender=Masc	53eecb1b-4ffd-5afd-993f-397811ad810f	0e4b6ed0-8d63-5126-af5b-5f7b374315ce	La metropolitana è più veloce dal tram.	The subway is faster than the streetcar.				

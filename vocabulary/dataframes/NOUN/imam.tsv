@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+imam		imam	NOUN		1	1e-06	1	1e-06	imam	NOUN	S	nmod	Gender=Masc	fa0a9823-30c2-5c9e-807b-cc4894e0db4d	8130df51-037a-5886-a729-0e5c55448693	Questa moschea ha bisogno di un nuovo imam.	This mosque needs a new imam.				

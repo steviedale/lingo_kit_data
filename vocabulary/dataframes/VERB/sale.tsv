@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sali		sale	VERB		1	1e-06	1	1e-06	sale	VERB	V	advcl	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	41825e7d-069f-559c-9248-315854da7a24	7769109a-8442-51b0-8949-c29db1e30be7	Se sali sullo sgabello, puoi raggiungere la parte superiore dell'armadio.	If you stand on this stool, you can reach the top of the closet.				

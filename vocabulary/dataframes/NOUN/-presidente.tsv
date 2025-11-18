@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+-presidente		-presidente	NOUN		2	2e-06	2	2e-06	-presidente	NOUN	S	nsubj	Gender=Masc|Number=Sing	e961982b-0286-573d-8535-42ea774d9d67	920f4b90-3ead-54b4-9d5e-dcb59fcdcfba	Dichiaro Allan il nostro vice-presidente.	I declare Allan as our vice president.	Io dichiaro Allan il nostro vice-presidente.	I declare Allan as our vice president.		

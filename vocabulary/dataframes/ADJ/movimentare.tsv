@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+movimentata		movimentare	ADJ		2	2e-06	2	2e-06	movimentare	ADJ	A	amod	Gender=Fem|Number=Sing	5e680abb-ac57-53b4-b664-339e07441c19	d9ca9ad9-a5b1-5a56-94da-6f83c8e1c622	Tom ha avuto una settimana movimentata.	Tom had a hectic week.	Tom ebbe una settimana movimentata.	Tom had a hectic week.		

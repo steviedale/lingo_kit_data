@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+dieresi		dieresi	NOUN		1	1e-06	1	1e-06	dieresi	NOUN	S	conj	Gender=Fem|Number=Sing	5ea742ef-f0a2-57be-b2c2-b63ed43c8119	66aaa1eb-4ccf-58f8-96ab-171dec939834	Nei sistemi informatici moderni l'umlaut e la dieresi sono rappresentati allo stesso modo.	In modern computer systems, umlaut and diaeresis are represented identically.				

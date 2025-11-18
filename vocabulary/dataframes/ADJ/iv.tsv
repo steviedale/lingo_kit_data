@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+iv		iv	ADJ		2	2e-06	2	2e-06	iv	ADJ	NO	amod	NumType=Ord|Number=Sing	4b0d49d7-aed1-5805-92b2-44814e3924a5	d8410f74-27b6-5557-a4df-a32352b6e122	Di che colore era il cavallo bianco di Enrico IV?	What colour was Henri IV's white horse?	Di che colore è il cavallo bianco di Enrico IV?	What colour is Henri IV's white horse?		

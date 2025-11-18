@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+musicologo		musicologo	NOUN		2	2e-06	2	2e-06	musicologo	NOUN	S	root	Gender=Masc|Number=Sing	2b60675d-0c06-565c-8c93-ba870102b8c7	7baae423-d373-5d95-92ee-36027b2e2649	È un musicologo.	He's a musicologist.	Lui è un musicologo.	He's a musicologist.		

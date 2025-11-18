@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rinata		rinato	ADJ		2	2e-06	4	4e-06	rinato	ADJ	A	xcomp	Gender=Fem|Number=Sing	9cb5ce41-0b91-571a-bfbb-08aa2633d323	d071592a-12f1-509d-b388-cdf70b68dd04	Mi sentivo rinata.	I felt reborn.	Io mi sentivo rinata.	I felt reborn.		
+rinato		rinato	ADJ		2	2e-06	4	4e-06	rinato	ADJ	A	xcomp	Gender=Masc|Number=Sing	6881d472-ca86-58c4-9449-931c22a01891	d071592a-12f1-509d-b388-cdf70b68dd04	Io mi sentivo rinato.	I felt reborn.	Mi sentivo rinato.	I felt reborn.		

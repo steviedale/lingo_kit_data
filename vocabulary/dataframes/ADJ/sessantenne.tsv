@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sessantenne		sessantenne	ADJ		1	1e-06	1	1e-06	sessantenne	ADJ	A	amod	Number=Sing	4b65accd-5716-5fc2-8bbe-559d560d0c68	e8f9cdc1-88df-5772-b3ba-6855c4d8c1d9	Dev'esser più che sessantenne.	He must be over sixty.				

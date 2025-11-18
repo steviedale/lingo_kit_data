@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+abdicò		abdicare	VERB		1	1e-06	2	2e-06	abdicare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	148ceabd-d5d8-5c05-aefc-98e7980ab351	a8d96970-6c56-50e5-8fe1-1ce9d5139e83	Il re abdicò per problemi di salute.	The king abdicated for health issues.				
+abdicato		abdicare	VERB		1	1e-06	2	2e-06	abdicare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	b22f645d-7e96-5edb-b90f-fd0a99933af1	a8d96970-6c56-50e5-8fe1-1ce9d5139e83	Il re ha abdicato per problemi di salute.	The king abdicated for health issues.				

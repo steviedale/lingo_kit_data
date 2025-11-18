@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+drammaturgo		drammaturgo	NOUN		1	1e-06	1	1e-06	drammaturgo	NOUN	S	nsubj:pass	Gender=Masc|Number=Sing	e1309c97-461e-5ffa-89cb-0f2edb08caff	0f98fc43-7c7e-56ab-b655-dcd022a73cdd	Nessun drammaturgo può essere comparato a Shakespeare.	No dramatist can compare with Shakespeare.				

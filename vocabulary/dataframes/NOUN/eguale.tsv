@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+eguali		eguale	NOUN		1	1e-06	1	1e-06	eguale	NOUN	S	nmod	Gender=Masc|Number=Plur	1dec9dfd-6a4c-54d1-adb0-fa2db7c8ac64	0ead2ff1-b77a-5bd5-b2e9-0ce6c2f9d9f5	Lei è una cantante senza eguali.	She is a singer without equal.				

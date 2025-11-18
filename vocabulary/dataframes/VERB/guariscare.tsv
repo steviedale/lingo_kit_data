@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+guariscano		guariscare	VERB		1	1e-06	1	1e-06	guariscare	VERB	V	acl:relcl	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	75d0ee7d-e451-5b47-8558-0392f2fe5c02	8e31d0c8-c583-510d-adbb-1f190e4f93d6	Le parole feriscono più facilmente di quanto non guariscano.	Words wound more easily than they heal.				

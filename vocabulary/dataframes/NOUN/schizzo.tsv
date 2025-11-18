@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+schizzo		schizzo	NOUN		6	6e-06	6	6e-06	schizzo	NOUN	S	obj	Gender=Masc|Number=Sing	f60ce4e0-0e1b-5c3f-8c89-829a2d486fd4	13b46e32-b13e-5811-a91d-443000c860cb	Lui ha fatto lo schizzo di una mela.	He sketched an apple.	Ha fatto lo schizzo di una mela.	He sketched an apple.	Lui fece lo schizzo di una mela.	He sketched an apple.

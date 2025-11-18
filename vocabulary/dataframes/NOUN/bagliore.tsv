@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+bagliore		bagliore	NOUN		1	1e-06	1	1e-06	bagliore	NOUN	S	obl:agent	Gender=Masc|Number=Sing	3b2db762-2299-54cb-b6e0-2d6afffccd71	1f666917-821c-5953-868f-c94900a9b1ec	Eravamo ipnotizzati dal bagliore pulsante della brace.	We were mesmerized by the pulsating glow of the embers.				

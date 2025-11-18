@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+leporino		leporino	ADJ		4	4e-06	4	4e-06	leporino	ADJ	A	amod	Gender=Masc|Number=Sing	393da396-106f-5a7b-8d0c-eaf3bcc07585	806c1343-e6b9-5bcf-a34b-26e885234de0	Ha il labbro leporino.	She has a cleft lip.	Lei ha il labbro leporino.	She has a cleft lip.	Tom ha il labbro leporino.	Tom has a cleft lip.

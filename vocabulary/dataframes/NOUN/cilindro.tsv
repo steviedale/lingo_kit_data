@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cilindri		cilindro	NOUN		1	1e-06	1	1e-06	cilindro	NOUN	S	nmod	Gender=Masc|Number=Plur	6a520875-eee5-51b6-aaab-695652498181	5f12a99e-211b-52a0-b532-f55c89896ded	Questa macchina può disattivare la metà dei cilindri del suo motore.	This car can deactivate half of its engine's cylinders.				

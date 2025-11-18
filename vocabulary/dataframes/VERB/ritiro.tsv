@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ritiri		ritiro	VERB		1	1e-06	1	1e-06	ritiro	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	818993ad-20ac-584f-adfe-44a2407bde79	5e6469c4-d569-5714-b33b-ec1bf7a97771	Non ritiri la sua promessa.	Don't go back on your promise.				

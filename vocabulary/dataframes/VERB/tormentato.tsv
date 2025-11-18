@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tormentata		tormentato	VERB		1	1e-06	1	1e-06	tormentato	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5d64b623-4b8b-5c0a-a17d-9d169ccb62b2	032daef1-79de-5a88-a4cc-bd1768d2c16e	La notte scorsa sono stata tormentata dalle zanzare.	I was harried by mosquitoes last night.				

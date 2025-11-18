@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+felicemente		felicemente	ADV		8	8e-06	8	8e-06	felicemente	ADV	B	advmod		b04a499f-3624-5ba5-a20c-b254e3edd05a	f6b0085e-6c6f-592e-9b8a-6e5d39a2db86	Lui era felicemente sposato.	He was happily married.	Lui non è morto felicemente.	He didn't die happily.	Non è morto felicemente.	He didn't die happily.

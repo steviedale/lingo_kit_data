@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+libellula		libellula	NOUN		1	1e-06	1	1e-06	libellula	NOUN	S	nsubj	Gender=Fem|Number=Sing	2e58dc43-3f00-5385-ae38-7e0b8cf8ac74	b6a85311-43f3-5d71-9a2c-d4ef51ec20ef	C'è una libellula sul soffitto.	There is a dragonfly on the ceiling.				

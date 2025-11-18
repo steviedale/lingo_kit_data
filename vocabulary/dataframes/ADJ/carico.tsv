@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+carico		carico	ADJ		1	1e-06	2	2e-06	carico	ADJ	A	root	Gender=Masc|Number=Sing	3c2b412a-86b9-5c23-a8e2-343929899dc5	de5d1e9a-d54c-5d65-9c09-d5c2275a9616	Il morso di un serpente a sonagli è carico di veleno.	A rattlesnake's bite is filled with poison.				
+carica		carico	ADJ		1	1e-06	2	2e-06	carico	ADJ	A	root	Gender=Fem|Number=Sing	3d077846-bcf6-5727-b33a-1e0b9e923b96	de5d1e9a-d54c-5d65-9c09-d5c2275a9616	L'aria era carica di tensione.	The air was charged with tension.				

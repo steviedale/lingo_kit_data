@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+papille		papilla	NOUN		2	2e-06	2	2e-06	papilla	NOUN	S	nsubj	Gender=Fem|Number=Plur	5aab4aa8-4b74-562f-8dce-efde02dedde1	2f8b8dd1-6154-58e8-8daf-32eff04f3f51	Le papille gustative sono richieste per assaporare il cibo.	Taste buds are needed to taste food.	Le papille gustative sono molto utili.	Taste buds are very useful.		

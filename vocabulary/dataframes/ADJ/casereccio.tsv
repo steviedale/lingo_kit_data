@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+casereccio		casereccio	ADJ		1	1e-06	2	2e-06	casereccio	ADJ	A	root	Gender=Masc|Number=Sing	9c5c943e-f437-5263-af8f-716d3371a129	506b52eb-a6c0-5294-852c-3c9165ba652c	È casereccio.	It's homemade.				
+casereccia		casereccio	ADJ		1	1e-06	2	2e-06	casereccio	ADJ	A	root	Gender=Fem|Number=Sing	fe4ba7ef-acc6-5bf9-816b-f341891e5d19	506b52eb-a6c0-5294-852c-3c9165ba652c	È casereccia.	It's homemade.				

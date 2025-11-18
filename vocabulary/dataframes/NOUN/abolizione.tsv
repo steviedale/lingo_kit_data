@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+abolizione		abolizione	NOUN		1	1e-06	1	1e-06	abolizione	NOUN	S	nsubj	Gender=Fem|Number=Sing	95ef62fd-434d-5c5c-8493-b9a5df6dc567	8da4d337-0531-56f8-a124-93f64e797079	L'abolizione della schiavitù in Europa alla fine ha raggiunto l'America.	The abolition of slavery in Europe eventually reached America.				

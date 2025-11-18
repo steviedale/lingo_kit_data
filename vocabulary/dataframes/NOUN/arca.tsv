@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+arca		arca	NOUN		2	2e-06	2	2e-06	arca	NOUN	S	obj	Gender=Fem|Number=Sing	73800ff2-a213-5d81-afbe-dcef4fc6cbe7	7739df43-1196-5cda-9541-ad3689cab1cb	Conosci l'arca di Noè?	Do you know Noah's ark?	Conosci l'arca di Noé?	Do you know Noah's ark?		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+proiettore		proiettore	NOUN		1	1e-06	1	1e-06	proiettore	NOUN	S	nsubj	Gender=Masc|Number=Sing	660d5017-4a2e-5cd4-a252-71cec6ee371a	b8eb55cc-c51b-5067-8ca9-29e566c3d55f	Il proiettore non funziona.	The projector doesn't work.				

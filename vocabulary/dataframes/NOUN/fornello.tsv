@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fornello		fornello	NOUN		1	1e-06	1	1e-06	fornello	NOUN	S	obj	Gender=Masc|Number=Sing	f7e70117-1b87-5c70-8af2-ffb84bf5a2bf	025eb4ca-d9e1-5134-b572-231cc4166797	Franklin creò un fornello ecologico.	Franklin created an ecological stove.				

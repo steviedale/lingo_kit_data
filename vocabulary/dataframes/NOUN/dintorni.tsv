@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+dintorni		dintorni	NOUN		4	4e-06	4	4e-06	dintorni	NOUN	S	obl	Gender=Masc|Number=Plur	ffa66ca3-ca37-529b-af8f-0732525354cd	aac579b4-acab-5de8-9bb5-19f8295f0f13	C'è una banca nei dintorni?	Is there a bank nearby here?	C'è un ospedale nei dintorni.	There is a hospital nearby.	C'è un ospedale nei dintorni?	Is there a hospital nearby?

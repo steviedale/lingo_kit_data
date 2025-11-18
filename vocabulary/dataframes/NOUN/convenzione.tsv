@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+convenzione		convenzione	NOUN		2	2e-06	2	2e-06	convenzione	NOUN	S	obj	Gender=Fem|Number=Sing	40bb25ab-17a8-59e7-aaf5-cd3473a17db0	87a69400-6c9c-5bab-8e44-4e3afa821f40	Bush rispetta la Convenzione di Ginevra.	Bush respects the Geneva Convention.	Bush non ha mai violato la Convenzione di Ginevra.	Bush never violated the Geneva Convention.		

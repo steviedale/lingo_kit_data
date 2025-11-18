@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+intollerante		intollerante	ADJ		6	6e-06	6	6e-06	intollerante	ADJ	A	root	Number=Sing	7dd04d5b-b5a9-59dc-803b-b1f0e86063a5	5c5537b8-e8bf-5c98-8c56-dc5413445e05	Io penso che Tom sia intollerante.	I think Tom is narrow-minded.	Tom è intollerante.	Tom is intolerant.	È intollerante al lattosio.	He's lactose intolerant.

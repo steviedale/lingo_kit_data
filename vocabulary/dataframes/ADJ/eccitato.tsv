@@ -1,0 +1,4 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+eccitato		eccitato	ADJ		3	3e-06	5	5e-06	eccitato	ADJ	A	root	Gender=Masc|Number=Sing	512a402f-442b-548d-8518-f14165376a98	b4063ac9-2b63-5808-b5ab-5b68901ab757	Sono eccitato.	I'm horny.	È eccitato?	Are you excited?	Sei eccitato?	Are you excited?
+eccitati		eccitato	ADJ		1	1e-06	5	5e-06	eccitato	ADJ	A	root	Gender=Masc|Number=Plur	f7429742-dbda-526c-972c-cb9a02bbd814	b4063ac9-2b63-5808-b5ab-5b68901ab757	Siete eccitati?	Are you excited?				
+eccitate		eccitato	ADJ		1	1e-06	5	5e-06	eccitato	ADJ	A	root	Gender=Fem|Number=Plur	5574ef1c-53af-50d0-ad0e-170f8e191756	b4063ac9-2b63-5808-b5ab-5b68901ab757	Siete eccitate?	Are you excited?				

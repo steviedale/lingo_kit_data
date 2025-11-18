@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rock		rock	NOUN		23	2.2e-05	23	2.2e-05	rock	NOUN	S	compound	Gender=Masc	85a3bc98-748e-5b4b-9cba-af5aa1b185e8	a958d083-9c32-50cb-8fa9-13e77c9638b6	Si comporta come una rock star.	He acts like a rock star.	Io amo la musica, specialmente il rock.	I love music, especially rock.	Mi piace il rock.	I love rock.

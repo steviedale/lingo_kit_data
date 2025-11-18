@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+addosso		addosso	ADV		30	2.9e-05	30	2.9e-05	addosso	ADV	B	advmod		9eef5c93-cea1-56db-ad99-ebd7cca5dfe7	e0ae1b0b-0426-547b-9bb7-a98d2d0c48bd	Tom si provò addosso la parrucca.	Tom tried on the wig.	Io sto provando addosso questo vestito.	I am trying on this dress.	Ti sta davvero bene addosso.	It looks really good on you.

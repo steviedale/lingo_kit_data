@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scoppi		scoppio	VERB		1	1e-06	1	1e-06	scoppio	VERB	V	ccomp	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40729ed9-7c86-527f-ac73-81d0fd03f10c	9ddafcad-a0df-5af3-bfae-e0b801155b0d	Non possiamo escludere che una guerra civile scoppi in questo paese.	We cannot rule out the possibility that civil war will break out in that country.				

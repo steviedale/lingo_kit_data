@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+corre		correre	NOUN		2	2e-06	2	2e-06	correre	NOUN	S	root	Gender=Masc|Number=Sing	376e6b7d-61af-50ff-84f1-647af1a65f46	09a8f2bb-debe-51fd-8acb-b5d86d2f9909	Lei corre veloce.	She runs fast.	Lei corre più veloce di me.	She runs faster than I do.		

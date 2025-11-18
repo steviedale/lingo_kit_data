@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+conviene		convenire	VERB		1	1e-06	1	1e-06	convenire	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	07df5780-bfba-555a-a0a4-637b6a82f936	39a55b13-3f00-5a69-b341-80a33e824447	Conviene andare bene a scuola.	It behooves you to do well in school.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+panettiere		panettiere	NOUN		2	2e-06	2	2e-06	panettiere	NOUN	S	root	Gender=Masc|Number=Sing	c17cc1e2-3a5e-513c-b810-ee80dbc0aad0	f36fcf03-75e8-5d6a-900f-e3bbf03b805e	Il panettiere è accanto al macellaio.	The baker's is next door to the butcher's.	Sono un panettiere.	I'm a baker.		

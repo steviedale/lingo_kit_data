@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tunica		tunica	NOUN		2	2e-06	2	2e-06	tunica	NOUN	S	obj	Gender=Fem|Number=Sing	912dcb34-bc5d-59c2-aa59-61f62ca551cf	7315af41-4750-517a-b1ee-dbd477149b80	A me piace indossare una tunica.	I like to wear a tunic.	Mi piace indossare una tunica.	I like to wear a tunic.		

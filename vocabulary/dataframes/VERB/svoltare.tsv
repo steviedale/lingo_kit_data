@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+svoltare		svoltare	VERB		1	1e-06	1	1e-06	svoltare	VERB	V	advcl	VerbForm=Inf	4aa24fce-9262-5488-bb9c-8c9663853443	743ed7e8-8b3f-5c7f-9a7f-8d85c706c0bb	La bicicletta si inclina a destra prima di svoltare a destra.	The bike leans on the right before turning right.				

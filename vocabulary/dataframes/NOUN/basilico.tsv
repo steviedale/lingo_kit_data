@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+basilico		basilico	NOUN		1	1e-06	1	1e-06	basilico	NOUN	S	obj	Gender=Masc|Number=Sing	3b553c64-9456-5436-85b8-0ca59d5d0e52	56899f09-d743-5260-9ff2-8a6fe9d571f3	Mi piace aggiungere basilico per insaporire il sugo degli spaghetti.	I like to add basil to season my spaghetti sauce.				

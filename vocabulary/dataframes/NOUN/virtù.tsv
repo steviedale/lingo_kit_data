@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+virtù		virtù	NOUN		19	1.8e-05	19	1.8e-05	virtù	NOUN	S	compound	Gender=Fem	cd15755e-7bab-59ba-a222-007c7f3d6ffe	295f4be3-e451-5b15-9b7d-0b07f1b300a5	La calma è la virtù dei forti.	Calm is a virtue of the strong.	La pazienza è una virtù che non ho.	Patience is a virtue that I don't possess.	La pazienza è una virtù.	Patience is a virtue.

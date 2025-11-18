@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+minute		minuta	NOUN		1	1e-06	1	1e-06	minuta	NOUN	S	obj	Gender=Fem|Number=Plur	91a89a82-f130-588b-b6a4-1e0320d083d5	d7aa8dd8-cafe-511f-9843-1ed919be88ad	Ho le minute della riunione.	I have the minutes of the meeting.				

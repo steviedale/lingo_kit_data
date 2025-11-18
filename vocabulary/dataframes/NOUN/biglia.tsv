@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+biglie		biglia	NOUN		1	1e-06	1	1e-06	biglia	NOUN	S	obl	Gender=Fem|Number=Plur	b05d4d46-d2e0-5823-830a-c14d86a1eb75	eef4f9b4-edd2-5da4-8ce2-d9fcf2f125b2	I bambini stanno giocando con le biglie.	The children are playing marbles.				

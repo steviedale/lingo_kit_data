@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+lasciamelo		lasciamelare	VERB		2	2e-06	2	2e-06	lasciamelare	VERB	V	root	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	64dcf8b5-c402-53b9-9b01-1f13db3124bc	5b4580e9-0df4-5aa3-8a2e-4838b775e70c	Per piacere, lasciamelo fare.	Please let me do it.	Per favore, lasciamelo fare.	Please let me do it.		

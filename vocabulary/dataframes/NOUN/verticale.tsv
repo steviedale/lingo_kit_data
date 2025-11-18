@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+verticale		verticale	NOUN		1	1e-06	1	1e-06	verticale	NOUN	S	obl	Gender=Masc|Number=Sing	fffc351d-bdee-553c-851c-669e3d4ee5d5	1786dcd0-479a-5894-b279-3aee3678d008	Un elicottero è in grado di decollare e atterrare in verticale.	A helicopter is able to take off and land straight up and down.				

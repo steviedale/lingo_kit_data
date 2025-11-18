@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tramezzino		tramezzino	NOUN		2	2e-06	2	2e-06	tramezzino	NOUN	S	obj	Gender=Masc|Number=Sing	444dcd83-8fb8-5337-8c00-cbcb4ffe9f9b	e7acbeb9-81c5-5170-80b5-b5be53a08c16	Che tipo di tramezzino vuoi?	What kind of sandwich do you want?	Loro mangiano un tramezzino.	They are eating a sandwich.		

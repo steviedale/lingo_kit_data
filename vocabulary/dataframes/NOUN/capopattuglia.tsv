@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+capopattuglia		capopattuglia	NOUN		2	2e-06	2	2e-06	capopattuglia	NOUN	S	root	Gender=Masc|Number=Sing	7858df7d-30b2-5d5d-b28d-51b30d6d03c3	25896567-bd2f-5a61-9aa2-5869674810de	Chi è il capopattuglia?	Who is the patrol leader?	Io sono il capopattuglia.	I'm the patrol leader.		

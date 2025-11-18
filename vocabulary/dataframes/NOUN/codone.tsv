@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+codone		codone	NOUN		1	1e-06	1	1e-06	codone	NOUN	S	obj	Gender=Masc|Number=Sing	e73e8b49-c895-5497-a89c-d65c7d4de592	7bc61fc7-b9af-5c4f-a73d-a4b1aa8bc362	Il mio gatto ha un codone bianco e folto.	My cat has a big, white, bushy tail.				

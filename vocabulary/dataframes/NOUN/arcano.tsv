@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+arcano		arcano	NOUN		1	1e-06	1	1e-06	arcano	NOUN	S	obj	Gender=Masc|Number=Sing	150728a3-1308-5d9b-be03-ace5079b68b9	bea61e10-ff38-579d-9bc4-2b6164fdf884	Abbiamo scoperto l'arcano.	We uncovered this arcane.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+vivamente		vivamente	ADV		4	4e-06	4	4e-06	vivamente	ADV	B	advmod		193e50d7-52b1-54c4-9cbe-5092fad41582	c48795bc-48fb-5398-af16-a2bb7169a0c3	Io lo consiglierei vivamente.	I would highly recommend it.	Lo consiglierei vivamente.	I would highly recommend it.	Io la consiglierei vivamente.	I would highly recommend it.

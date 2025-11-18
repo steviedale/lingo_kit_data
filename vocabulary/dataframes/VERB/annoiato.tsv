@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+annoiata		annoiato	VERB		14	1.3e-05	14	1.3e-05	annoiato	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5f1b222c-7b7b-5a53-bf1c-921691bfd864	4c135e77-ae39-5f79-a57c-e81ff7839173	Io sono annoiata.	I'm bored.	Anche io sono annoiata.	I'm bored, too.	Sono già annoiata.	I'm already bored.

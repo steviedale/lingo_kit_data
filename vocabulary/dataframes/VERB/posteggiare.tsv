@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+posteggiata		posteggiare	VERB		1	1e-06	1	1e-06	posteggiare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	fe5017c1-d2ef-51b4-9a3f-355037f1ef7c	8688957c-2a0a-541f-af7e-d2bca6778b22	L'auto di Fabio è posteggiata di fronte alla casa di Elena.	Fabio's car is parked in front of Elena's house.				

@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scalcia		scalciare	VERB		1	1e-06	2	2e-06	scalciare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	281c8b89-ce06-50fd-b090-33a39acbc544	659e7cf8-679d-552b-aa15-c8c1ec23ccaf	Questo cavallo scalcia quando qualcuno sale da dietro.	This horse kicks when anyone comes up from behind.				
+scalciando		scalciare	VERB		1	1e-06	2	2e-06	scalciare	VERB	V	root	VerbForm=Ger	9b5228c7-a837-53c4-9706-85d88311da5b	659e7cf8-679d-552b-aa15-c8c1ec23ccaf	Il bebè stava scalciando e urlando.	The baby was kicking and screaming.				

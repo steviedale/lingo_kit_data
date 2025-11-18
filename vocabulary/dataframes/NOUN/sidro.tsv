@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sidro		sidro	NOUN		6	6e-06	6	6e-06	sidro	NOUN	S	nmod	Gender=Masc|Number=Sing	3faeef02-30c5-5fbe-b6f9-6063dde84904	432c7236-0cfe-5c33-aa9f-c63bd870eaab	Io vorrei un po' di sidro, per favore.	I'd like some cider, please.	Amo il sidro di mele.	I love apple cider.	Vorrei un po' di sidro, per piacere.	I'd like some cider, please.

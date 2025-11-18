@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+udito		udire	NOUN		2	2e-06	2	2e-06	udire	NOUN	S	obj	Gender=Masc|Number=Sing	d535fea4-3ffd-591c-87c0-c3af45001a01	881ba65f-06cc-5cb7-a1bd-fcd928563b7a	Tom ha un buon udito.	Tom has good hearing.	A causa della sua età avanzata, mio ​​nonno non ha un buon udito.	Because of his age, my grandfather doesn't hear well.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+fisso		fisso	VERB		3	3e-06	3	3e-06	fisso	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0582e7a3-4533-55ac-9280-3c8b0a4b57de	0724aec5-146e-5898-b8fa-cb007cd6f010	Io fisso le clausole.	I fix the terms.	Io fisso i termini.	I fix the terms.	Io fisso le condizioni.	I fix the terms.

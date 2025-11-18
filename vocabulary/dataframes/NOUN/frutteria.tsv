@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+frutteria		frutteria	NOUN		1	1e-06	1	1e-06	frutteria	NOUN	S	obl	Gender=Fem|Number=Sing	f5cb3397-54da-5343-8e63-1c8a620a7bb2	7bf1b5b7-cef2-5bce-a8e7-c7f4cbe12329	Andò prima in una frutteria.	He went to a fruit store first.				

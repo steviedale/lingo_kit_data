@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+alto		alto	NOUN		29	2.8e-05	29	2.8e-05	alto	NOUN	S	nmod	Gender=Masc|Number=Sing	9a36f919-c56f-59b8-8dcf-8d65e768489a	2e02f872-6fb7-5128-97bb-7901ca2f6081	Metta le mani in alto!	Put your hands up!	Mettete le mani in alto!	Put your hands up!	La Terra, vista dall'alto, sembra un'arancia.	The earth, seen from above, looks like an orange.

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+conservanti		conservante	NOUN		2	2e-06	2	2e-06	conservante	NOUN	S	obl	Gender=Masc|Number=Plur	c7aea584-03b8-5960-bf6d-f93726ecbb02	86493d1f-8fd0-509c-92d4-72d8cebff02d	Mi piace lo yogurt senza conservanti.	I like the yogurt without preservatives.	A me piace lo yogurt senza conservanti.	I like the yogurt without preservatives.		

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+baco		baco	NOUN		1	1e-06	1	1e-06	baco	NOUN	S	obj	Gender=Masc|Number=Sing	f85b7ef1-bf91-5f13-bf9b-02ae569772e0	0bab7056-a6d6-549a-ab0c-15349773884e	Ogni programma non banale ha almeno un baco.	Every non-trivial program has at least one bug.				

@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+colta		colto	ADJ		3	3e-06	5	5e-06	colto	ADJ	A	amod	Gender=Fem|Number=Sing	d0ef0db0-737f-5861-8df5-5c62e512dc80	59e23284-7b5f-5496-bb7d-b9813cd606e8	Io sono colta.	I'm cultured.	Sono colta.	I'm cultured.	La traduzione è una disciplina colta.	Translation is a scholarly discipline.
+colto		colto	ADJ		2	2e-06	5	5e-06	colto	ADJ	A	root	Gender=Masc|Number=Sing	a993d812-97e8-5029-a947-f57c9071fc3e	59e23284-7b5f-5496-bb7d-b9813cd606e8	Sono colto.	I'm cultured.	Io sono colto.	I'm cultured.		

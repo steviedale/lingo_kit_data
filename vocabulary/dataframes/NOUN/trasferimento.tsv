@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+trasferimento		trasferimento	NOUN		1	1e-06	1	1e-06	trasferimento	NOUN	S	nsubj	Gender=Masc|Number=Sing	e9aace97-04eb-5026-afc7-6448b9898176	bdbcac61-bdb2-56f9-b4a5-c95a07878ff6	Il trasferimento nel nuovo ufficio le ha preso un mese.	Moving into the new office took her one month.				

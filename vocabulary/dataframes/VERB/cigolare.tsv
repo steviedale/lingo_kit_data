@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cigolava		cigolare	VERB		1	1e-06	2	2e-06	cigolare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	c8205804-5b49-5671-a12f-26bf836cb559	c9342193-1db9-54c3-b36d-dd7d66944276	La porta cigolava.	The door creaked.				
+cigola		cigolare	VERB		1	1e-06	2	2e-06	cigolare	VERB	V	acl:relcl	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	c56ec82a-26d7-5b67-b42a-529a077b667d	c9342193-1db9-54c3-b36d-dd7d66944276	Una porta che cigola pende a lungo sui cardini.	A creaking door hangs long on its hinges.				

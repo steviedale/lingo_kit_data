@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+merlo		merlo	NOUN		1	1e-06	1	1e-06	merlo	NOUN	S	root	Gender=Masc|Number=Sing	65b366f0-4a6b-5760-a667-3f62970b065f	6b87f3b9-85df-5cbd-8ea4-0b58fbf755f9	Povero merlo!, disse Pinocchio al Gatto. Perché l'hai ucciso?	Poor blackbird! said Pinocchio to the Cat. Why did you kill him?				

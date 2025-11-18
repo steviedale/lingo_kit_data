@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+spiova		spiovare	VERB		1	1e-06	1	1e-06	spiovare	VERB	V	ccomp	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2c8e7182-7032-531b-bcb0-517f159b3202	f101c65d-05c6-5604-a71a-cfb51021be27	Aspettiamo che spiova!	Let's wait for the rain to end!				

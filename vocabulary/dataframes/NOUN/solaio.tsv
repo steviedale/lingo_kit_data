@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+solaio		solaio	NOUN		3	3e-06	3	3e-06	solaio	NOUN	S	root	Gender=Masc|Number=Sing	5d4b1a74-2d29-5e2e-841c-bb8652c2c3de	88add43d-92f2-52e0-a613-3ff998bdead6	Sono in solaio.	I'm in the attic.	Io sono in solaio.	I'm in the attic.	Tom è in solaio.	Tom is in the attic.

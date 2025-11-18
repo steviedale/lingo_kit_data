@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pignolo		pignolo	ADJ		3	3e-06	4	4e-06	pignolo	ADJ	A	root	Gender=Masc|Number=Sing	417201cd-78be-574c-b309-cc352f06c4b3	bc5ce250-e57d-511b-bbf1-7f480f353556	È pignolo con le regole.	He's a stickler for the rules.	Come sei pignolo!	What a nitpicker!	Lui è pignolo con le regole.	He's a stickler for the rules.
+pignola		pignolo	ADJ		1	1e-06	4	4e-06	pignolo	ADJ	A	flat:foreign	Gender=Fem|Number=Sing	8e5906d0-a644-5821-81b2-ac64c12382c9	bc5ce250-e57d-511b-bbf1-7f480f353556	Come sei pignola!	What a nitpicker!				

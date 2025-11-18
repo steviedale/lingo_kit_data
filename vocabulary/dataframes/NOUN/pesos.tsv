@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pesos		pesos	NOUN		1	1e-06	1	1e-06	pesos	NOUN	S	obl	Gender=Masc|Number=Plur	397ff8f8-6c0c-5374-b59d-479a1c4b436f	0317ab99-658e-5f23-8b4d-6ae0de7fa9f6	Cosa mangerò con 20 pesos?	What am I going to eat with 20 pesos?				

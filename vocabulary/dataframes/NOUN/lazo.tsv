@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+lazo		lazo	NOUN		1	1e-06	1	1e-06	lazo	NOUN	S	nsubj	Gender=Masc|Number=Sing	94056bb0-6072-58b9-a104-0ba66a2c1c88	47824c90-bc78-5a63-aa68-ad23e56f7a58	Quel vecchio lazo è a sinistra.	That old lasso is on the left.				

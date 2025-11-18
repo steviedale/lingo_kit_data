@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+venezuelana		venezuelana	ADJ		2	2e-06	2	2e-06	venezuelana	ADJ	A	root	Gender=Fem|Number=Sing	e14f32e8-6645-532f-861c-0a33695167d9	928d9c5e-fc42-5be3-b999-a450d87b4c43	Marta viene dal Venezuela. Lei è venezuelana.	Marta is from Venezuela. She is Venezuelan.	Marta viene dal Venezuela. È venezuelana.	Marta is from Venezuela. She is Venezuelan.		

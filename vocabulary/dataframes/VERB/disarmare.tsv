@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+disarmato		disarmare	VERB		3	3e-06	3	3e-06	disarmare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	d476901c-a5e1-580d-bbd0-4c34993c8ac1	cec77891-2392-585d-9672-6024989426c5	Tom è disarmato.	Tom's unarmed.	Ero disarmato.	I was unarmed.	Io ero disarmato.	I was unarmed.

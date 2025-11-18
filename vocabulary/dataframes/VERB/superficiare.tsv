@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+superficiale		superficiare	VERB		1	1e-06	1	1e-06	superficiare+le	VERB+PRON	V	root	Number=Sing|Tense=Past|VerbForm=Part|Clitic=Yes|Person=3|PronType=Prs	4b96cb79-c4b2-5d4d-8a3e-3fac301b7928	76581f9a-35fb-5b92-9a83-ffbdc3744a6f	È superficiale.	You're shallow.				

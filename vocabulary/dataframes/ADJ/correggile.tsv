@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+correggili		correggile	ADJ		1	1e-06	1	1e-06	correggile	ADJ	A	amod	Gender=Masc|Number=Plur	45d5867c-a5b4-533c-9b20-954a8a171472	33d6e74c-3df7-55b7-b001-644b0cd64594	Se ci sono errori, correggili.	If there are mistakes, correct them.				

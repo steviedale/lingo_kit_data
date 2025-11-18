@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+snob		snob	NOUN		8	8e-06	8	8e-06	snob	NOUN	S	root	Gender=Masc|Number=Sing	619a4cc3-e52f-536f-8cb2-9fc8e2d00c30	a1a0e954-879b-5f3e-b16a-b4c4108c383e	Tu sei uno snob.	You're a snob.	Sei una snob.	You're a snob.	Lei è una snob.	You're a snob.

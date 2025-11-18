@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+embargo		embargo	NOUN		1	1e-06	1	1e-06	embargo	NOUN	S	obj	Gender=Masc|Number=Sing	07c48799-ae87-56e3-acd6-0c8a7932bf16	b38d283e-3e18-594e-9377-7d0ab9eda79e	Gli Stati Uniti stanno richiedendo un embargo sulle armi contro i trasgressori del trattato.	The U.S. is calling for an arms embargo against violators of the treaty.				

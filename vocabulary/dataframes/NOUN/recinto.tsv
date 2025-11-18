@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+recinto		recinto	NOUN		2	2e-06	2	2e-06	recinto	NOUN	S	nsubj	Gender=Masc|Number=Sing	3e3126c2-bc2f-5d56-9c31-4c856252a14c	af289ca0-7c60-5590-8ba4-dce88f8c8862	C'è un recinto intorno alla casa.	There is a fence about the house.	Il recinto è pitturato di verde.	The fence is painted green.		

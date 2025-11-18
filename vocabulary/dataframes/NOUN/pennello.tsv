@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pennello		pennello	NOUN		2	2e-06	3	3e-06	pennello	NOUN	S	obl	Gender=Masc|Number=Sing	183699e4-6d4b-5bbf-8992-54fa9c09e7f8	59885351-e626-5e51-bd92-188ed3e6b02f	Il vestito ti sta a pennello.	The dress fits you very well.	Dove posso comprare un pennello?	Where can I buy a brush?		
+pennelli		pennello	NOUN		1	1e-06	3	3e-06	pennello	NOUN	S	conj	Gender=Masc|Number=Plur	d81053c3-17b4-5d68-b178-4f07fd369d4c	59885351-e626-5e51-bd92-188ed3e6b02f	Comprerò tempere e pennelli oggi pomeriggio.	I'll buy tempera and paintbrushes this afternoon.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+insistenza		insistenza	NOUN		1	1e-06	1	1e-06	insistenza	NOUN	S	obl	Gender=Fem|Number=Sing	cacf6ab3-3b8d-5882-a4d9-30a4c87d26d1	4cb9e9a0-a42b-5f21-8417-6883126f1913	Tom parlava con insistenza.	Tom spoke urgently.				

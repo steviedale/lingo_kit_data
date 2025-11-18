@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+vendemmia		vendemmia	NOUN		1	1e-06	1	1e-06	vendemmia	NOUN	S	obl	Gender=Fem|Number=Sing	256a067f-9cd1-52bb-8342-451c24b023ae	2f35070c-8a9c-5279-8677-91c15d426d4a	Abbiamo tutti aiutato con la vendemmia.	We all helped with the harvest.				

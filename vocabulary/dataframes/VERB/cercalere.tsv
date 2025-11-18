@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cercalo		cercalere	VERB		1	1e-06	1	1e-06	cercalere	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8b66c74e-2aaf-58d2-ba15-bd4acb1deadf	264aff95-96d5-5bac-950d-c55569c969c2	Cercalo per favore.	Please look for it.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+romperai		romperare	VERB		1	1e-06	1	1e-06	romperare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	c8ea0a99-e790-59c7-9325-b900928dc4a2	aa8e34fc-d6ca-5c42-a817-cac670e91f2d	Non sederti su quella scatola! La romperai!	Don't sit on that box! You'll break it!				

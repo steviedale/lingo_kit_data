@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rottama		rottamare	VERB		1	1e-06	1	1e-06	rottamare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	479abc34-81e2-58e8-9d52-d70c2c4958ff	be7576de-d2e7-548b-9313-519ff084e433	Lui li rottama all'istante.	He disposes of them instantly.				

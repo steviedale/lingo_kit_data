@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+rassegnasse		rassegnare	VERB		1	1e-06	2	2e-06	rassegnare	VERB	V	ccomp	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9d421528-e8e0-5fbf-a837-9f07e60df06c	b3db56bc-cbe0-55ed-9c4a-410cb0044793	Hanno chiesto che il presidente rassegnasse le dimissioni.	They demanded that the president resign.				
+rassegnando		rassegnare	VERB		1	1e-06	2	2e-06	rassegnare	VERB	V	root	VerbForm=Ger	656fc74a-83b7-5a43-911c-afaa109fa88f	b3db56bc-cbe0-55ed-9c4a-410cb0044793	Tom sta rassegnando le dimissioni.	Tom is resigning.				

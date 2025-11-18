@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scuona		scuona	NOUN		1	1e-06	1	1e-06	scuona	NOUN	S	nsubj	Gender=Fem|Number=Sing	500fab76-8d90-5d43-9753-518dbb640352	6652770e-840a-5b85-8583-002d3e1bb006	La scuona inizia alle 8:30 del mattino.	School begins at 8:30 a.m.				

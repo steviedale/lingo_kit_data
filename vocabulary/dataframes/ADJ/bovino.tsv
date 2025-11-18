@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+bovine		bovino	ADJ		1	1e-06	2	2e-06	bovino	ADJ	A	amod	Gender=Fem|Number=Plur	8b2f2908-0f7a-58a0-8c36-1d8b73380b2c	d1f13060-0b52-578a-b02f-9341e1a5a86e	Ho una predilezione per le carni bovine.	I have a predilection for beef.				
+bovina		bovino	ADJ		1	1e-06	2	2e-06	bovino	ADJ	A	amod	Gender=Fem|Number=Sing	4800b5b2-9ac3-587b-8636-7f2322a9acc7	d1f13060-0b52-578a-b02f-9341e1a5a86e	Questa carne bovina è molto buona e tenera.	This beef is very nice and tender.				

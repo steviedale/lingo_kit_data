@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+danneggiato		danneggiato	ADJ		1	1e-06	1	1e-06	danneggiato	ADJ	A	amod	Gender=Masc|Number=Sing	9b92d9e4-dfcd-57c7-a3ed-cee29e30b019	8b8216a8-ccda-57d1-a548-c3ce3acc2acc	Stava uscendo dell'acqua dal tubo danneggiato.	Water was coming out of the damaged pipe.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sconvolto		sconvolto	ADJ		1	1e-06	1	1e-06	sconvolto	ADJ	A	xcomp	Gender=Masc|Number=Sing	55bb72f0-d698-5838-ac5c-5238e7a9250b	f04cc435-8c86-5f65-a40d-3612ff7d46f0	Tom sembra terribilmente sconvolto, vero?	Tom seems terribly distraught, doesn't he?				

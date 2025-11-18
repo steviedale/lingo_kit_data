@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+suocera		suocera	NOUN		2	2e-06	2	2e-06	suocera	NOUN	S	obj	Gender=Fem|Number=Sing	7239bee8-aae2-5904-9991-9caab9314685	d9b89d9f-32a6-5a57-bbda-517df38dd626	Mary è la suocera di Tom.	Mary is Tom's mother-in-law.	Odio mia suocera.	I hate my mother-in-law.		

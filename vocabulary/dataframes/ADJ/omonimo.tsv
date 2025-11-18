@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+omonima		omonimo	ADJ		1	1e-06	1	1e-06	omonimo	ADJ	A	amod	Gender=Fem|Number=Sing	55db6744-2ceb-568b-b4ad-cd86270f24ff	64edd745-bc2a-5514-8e10-6644da50abc5	Gli avocado sono i frutti della pianta omonima.	Avocados are the fruit of the avocado tree.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+sete		sete	NOUN		57	5.5e-05	57	5.5e-05	sete	NOUN	S	obj	Gender=Fem|Number=Sing	362a5ee5-3dde-5a81-a82c-411ab0dcce1d	76607fd3-c1c6-5b42-8024-f2ae406706aa	Ha sete di celebrità.	He is thirsty for fame.	Io non ho sete.	I am not thirsty.	Avete sete.	You're thirsty.

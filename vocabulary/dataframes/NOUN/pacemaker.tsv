@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pacemaker		pacemaker	NOUN		1	1e-06	1	1e-06	pacemaker	NOUN	S	obj	Gender=Masc	955615a7-43a3-5e9a-8c35-c5c41f8d4295	9d49ce88-c235-5918-905a-848a58b924f6	Tom ha un pacemaker.	Tom has a pacemaker.				

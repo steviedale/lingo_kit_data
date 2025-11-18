@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+archivio		archivio	NOUN		2	2e-06	4	4e-06	archivio	NOUN	S	nmod	Gender=Masc|Number=Sing	d1cbd75c-a59c-5b50-8037-a73869fe3857	09e3c2db-fa18-55dc-b1cf-c67527fb4954	Cosa c'è nell'archivio?	What's in the file?	Qual è l'estensione dell'archivio?	What is the file extension?		
+archivi		archivio	NOUN		2	2e-06	4	4e-06	archivio	NOUN	S	nmod	Gender=Masc|Number=Plur	aa446080-a182-5817-a471-3871dd1944a2	09e3c2db-fa18-55dc-b1cf-c67527fb4954	Dov'è il resto degli archivi?	Where are the rest of the files?	Mancano gli archivi.	The files are missing.		

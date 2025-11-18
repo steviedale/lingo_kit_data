@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ascolteresti		ascoltere	VERB		1	1e-06	2	2e-06	ascoltere	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ab94d0ce-0210-59fb-9392-7159c830a683	5480cc83-95ea-5240-97e6-cc575066c083	Mi ascolteresti?	Listen to me, will you?				
+ascolterete		ascoltere	VERB		1	1e-06	2	2e-06	ascoltere	VERB	V	root	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	937a6012-924d-5dd4-8e60-2da6e658b651	5480cc83-95ea-5240-97e6-cc575066c083	Mi ascolterete per qualche minuto?	Will you listen to me for a few minutes?				

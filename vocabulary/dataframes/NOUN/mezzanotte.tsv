@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+mezzanotte		mezzanotte	NOUN		50	4.8e-05	50	4.8e-05	mezzanotte	NOUN	S	obl	Gender=Fem|Number=Sing	17eea03e-303d-5f2f-a5fa-8fdd90118e4a	bd7a3eec-7ddb-5b38-a017-bdc78cbcab5d	È già mezzanotte.	It's midnight already.	È solo mezzanotte.	It's just midnight.	Tom è partito a mezzanotte.	Tom left at midnight.

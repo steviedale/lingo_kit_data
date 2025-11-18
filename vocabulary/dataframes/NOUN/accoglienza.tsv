@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+accoglienza		accoglienza	NOUN		1	1e-06	1	1e-06	accoglienza	NOUN	S	obj	Gender=Fem|Number=Sing	642e1d4c-7782-55cf-9cf2-87f501a4b1ad	b781a068-bde8-5544-8958-3645b2502540	Il suo nuovo libro ebbe un'accoglienza favorevole.	His new book met with a favorable reception.				

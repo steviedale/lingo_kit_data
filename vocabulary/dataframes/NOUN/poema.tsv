@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+poema		poema	NOUN		1	1e-06	1	1e-06	poema	NOUN	S	nsubj	Gender=Masc|Number=Sing	8a856ece-34e8-5569-9886-05aa95de8776	4bcf170d-4f50-577c-886b-4ddb5aa59103	Quel poema mescola la prosa con la poesia.	That poem mixes prose with poetry.				

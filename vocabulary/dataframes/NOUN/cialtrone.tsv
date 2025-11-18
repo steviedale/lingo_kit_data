@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cialtrone		cialtrone	NOUN		1	1e-06	1	1e-06	cialtrone	NOUN	S	root	Gender=Masc|Number=Sing	fda41610-8f45-56fa-949d-18be82c16e8d	711adf16-cde5-56c4-86da-d6abeda58d27	Tom è un tale cialtrone.	Tom is such a slob.				

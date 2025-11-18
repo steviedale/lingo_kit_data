@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+caldo		caldo	NOUN		37	3.5e-05	37	3.5e-05	caldo	NOUN	S	obj	Gender=Masc|Number=Sing	fe3f3cf7-cf0f-5f4c-b87e-8292b71202ef	5e96717a-9dc2-5210-ac73-8b81ed52d09d	Io non riesco a farla con questo caldo.	I can't do it in this heat.	Non posso farla con questo caldo.	I can't do it in this heat.	A me piace il caldo.	I like the heat.

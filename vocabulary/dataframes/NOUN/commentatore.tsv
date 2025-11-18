@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+commentatori		commentatore	NOUN		1	1e-06	1	1e-06	commentatore	NOUN	S	nsubj	Gender=Masc|Number=Plur	8c8686d7-9589-5426-8a85-956d55a3b43d	cbba7499-b6da-5cbf-8118-8bc1f24eed8b	Molti commentatori considerano Obama come un centrista.	Many commentators regard Obama as a centrist.				

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+chiaramene		chiaramene	ADV		1	1e-06	1	1e-06	chiaramene	ADV	B	advmod		d9ef2d82-1509-513b-a694-1a1101079a6e	4166ccfe-0b52-5190-a177-7da90e9883f0	Tom è chiaramene uno schizofrenico paranoico.	Tom is clearly a paranoid schizophrenic.				

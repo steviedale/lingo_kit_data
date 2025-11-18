@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+inginocchiatevi		inginocciare	VERB		1	1e-06	1	1e-06	inginocciare+vi	VERB+PRON	V	root	Mood=Ind|Number=Plur|Person=2|Tense=Imp|Verbform=Fin|Clitic=Yes|PronType=Prs	8fab11f7-29c2-502a-99a5-c543d4e6ad65	e72e2342-1bd5-5a97-b20d-16623ae04cdc	Inginocchiatevi.	Get on your knees.				

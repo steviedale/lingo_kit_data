@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+subsahariana		subsahariana	ADJ		1	1e-06	1	1e-06	subsahariana	ADJ	A	amod	Gender=Fem|Number=Sing	7bbbd5d1-b942-50f4-aa63-9d64e0412d6b	20c6a201-8dae-50da-b307-71ce5b6cacd8	Il Mali è uno dei paesi più poveri dell'Africa subsahariana.	Mali is one of the poorest countries in Subsaharan Africa.				

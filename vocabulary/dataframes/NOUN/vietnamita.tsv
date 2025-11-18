@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+vietnamita		vietnamita	NOUN		1	1e-06	1	1e-06	vietnamita	NOUN	S	obl	Gender=Masc|Number=Sing	ea5c43bb-5c67-5e38-aad6-1a5ee46d729c	4ddd025d-f336-594f-b49a-2f3f12501afd	La funzione di riconoscimento automatico della lingua scambia spesso il lojban con il vietnamita.	The Automated Language Recognition feature often mistakes Lojban for Vietnamese.				

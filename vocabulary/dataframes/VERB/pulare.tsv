@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+pulì		pulare	VERB		5	5e-06	5	5e-06	pulare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16aed995-9645-5e4f-95b2-7cde34f89e55	34a68c19-4854-5f8b-ab48-7f8d81a995cd	La domestica pulì il pavimento.	The servant swept the floor.	Tom pulì il bagno.	Tom cleaned the toilet.	Tom pulì il casino.	Tom cleaned up the mess.

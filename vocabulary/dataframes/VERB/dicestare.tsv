@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+dicesti		dicestare	VERB		1	1e-06	2	2e-06	dicestare	VERB	V	acl:relcl	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7d12ce35-3f47-57c7-bfe3-f7fe7114699c	0ffa58e3-f2c5-53c1-8b02-e5c8a5767b6b	Quello che dicesti non ha nessun senso.	What you said is absolute nonsense.				
+diceste		dicestare	VERB		1	1e-06	2	2e-06	dicestare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	90b97a09-d010-52db-b59f-797abe974ee5	0ffa58e3-f2c5-53c1-8b02-e5c8a5767b6b	Tom pensava che voi diceste di sì.	Tom thought you said yes.				

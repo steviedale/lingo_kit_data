@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+svegli		sin	ADV		2	2e-06	2	2e-06	sin+gli	ADV+PRON	B	root	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	d151645b-b66a-50ac-a911-7d71dcf24a5b	dffbca08-d1dd-510a-877f-8de1a7ef5c03	Perché siete svegli?	Why are you awake?	Siete svegli?	Are you awake?		

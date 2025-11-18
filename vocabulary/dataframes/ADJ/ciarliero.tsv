@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+ciarliero		ciarliero	ADJ		2	2e-06	2	2e-06	ciarliero	ADJ	A	root	Gender=Masc|Number=Sing	87067907-dd3d-560b-8fac-281020855f6a	22c2f908-423f-5a22-88f4-1ea5061269e6	Il ragazzo di sicuro non era ciarliero.	The boy certainly wasn't talkative.	Tom non è molto ciarliero.	Tom isn't very talkative.		

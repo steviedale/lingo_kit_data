@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+papà		papà	NOUN		73	7e-05	73	7e-05	papà	NOUN	S	root	Gender=Masc	807c6238-e46f-593b-9936-6658fefbd680	c2838c43-c14d-56f7-8655-c04decfa41e3	Io non posso dirla al mio papà.	I can't say that to my dad.	No, papà!	No, Dad!	Papà mi ha comprato un paio di guanti.	Father bought me a pair of gloves.

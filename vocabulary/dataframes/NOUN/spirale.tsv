@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+spirale		spirale	NOUN		1	1e-06	1	1e-06	spirale	NOUN	S	obl	Gender=Fem|Number=Sing	66f04c6a-30ad-5dce-8cc4-448b3fe8b3b0	e35bc30d-d829-56aa-a5ab-9178668a7dc3	L'economia globale sta andando a spirale verso il basso.	The global economy is spiraling downwards.				

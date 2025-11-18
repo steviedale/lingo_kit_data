@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+bloccaggio		bloccaggio	NOUN		1	1e-06	1	1e-06	bloccaggio	NOUN	S	nmod	Gender=Masc|Number=Sing	733602bd-8996-56b9-b740-15a396298df6	603692a5-91bb-54ae-8ce3-2c35d2eeb675	Il meccanismo di bloccaggio si è bloccato.	The locking mechanism has jammed.				

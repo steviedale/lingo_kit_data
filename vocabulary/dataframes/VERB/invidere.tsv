@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+invidio		invidere	VERB		7	7e-06	7	7e-06	invidere	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	e5d4e189-d24c-5f6a-9b3d-e6caec861512	dcc20ce5-9e3e-53c3-99ef-fe15ca096c34	Invidio la sua bellezza.	I envy you your beauty.	Invidio la sua buona salute.	I envy your good health.	Invidio la sua fortuna.	I envy him his luck.

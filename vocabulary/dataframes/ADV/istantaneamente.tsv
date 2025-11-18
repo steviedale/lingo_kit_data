@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+istantaneamente		istantaneamente	ADV		2	2e-06	2	2e-06	istantaneamente	ADV	B	advmod		616a96ed-5152-5422-beff-19f9f5f7cac1	50438c43-99d5-59f9-b6ef-51661861e0c3	Romeo si è innamorato istantaneamente di Giulietta.	Romeo instantly fell in love with Juliet.	Romeo si innamorò istantaneamente di Giulietta.	Romeo instantly fell in love with Juliet.		

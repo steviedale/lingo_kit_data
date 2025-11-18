@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+haggis		haggis	NOUN		1	1e-06	1	1e-06	haggis	NOUN	S	nsubj	Gender=Masc	70c26595-2fc9-5425-825c-27a84fc75b98	fa13bcd8-83ae-516b-8f76-a0541f83d888	L'haggis è un piatto tradizionale scozzese.	Haggis is a traditional Scottish dish.				

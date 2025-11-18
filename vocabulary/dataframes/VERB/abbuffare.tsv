@@ -1,0 +1,4 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+abbuffai		abbuffare	VERB		1	1e-06	3	3e-06	abbuffare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	f9c9647a-ec5a-5364-9f49-fa23daaa0e1d	8386498b-fed9-5731-be2b-945747ca038d	Mi abbuffai di pizza.	I pigged out on pizza.				
+abbuffata		abbuffare	VERB		1	1e-06	3	3e-06	abbuffare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9acf9107-891d-5639-943d-65a1a6c18d03	8386498b-fed9-5731-be2b-945747ca038d	Mi sono abbuffata di pizza.	I pigged out on pizza.				
+abbuffato		abbuffare	VERB		1	1e-06	3	3e-06	abbuffare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	d69614d3-f7c0-5fbd-a0bf-5eacfb11b334	8386498b-fed9-5731-be2b-945747ca038d	Mi sono abbuffato di pizza.	I pigged out on pizza.				

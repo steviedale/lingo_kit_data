@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+delicatamente		delicatamente	ADV		3	3e-06	3	3e-06	delicatamente	ADV	B	advmod		b1e4f7d5-834f-5098-9e68-851e662f62d6	8d96566f-22ba-5fe6-b579-462cab0b9b77	Lo faccia delicatamente.	Do it delicately.	Fallo delicatamente.	Do it delicately.	Fatelo delicatamente.	Do it delicately.

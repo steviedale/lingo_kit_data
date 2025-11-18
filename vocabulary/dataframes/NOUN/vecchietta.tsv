@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+vecchietta		vecchietta	NOUN		1	1e-06	1	1e-06	vecchietta	NOUN	S	nsubj	Gender=Fem|Number=Sing	1957c2ca-7a5c-5e0c-9840-8902dd7be46f	ec612e40-d46d-5d06-ae0f-1bb979a9a82d	La vecchietta sorrise alla nipote.	The old lady smiled at her granddaughter.				

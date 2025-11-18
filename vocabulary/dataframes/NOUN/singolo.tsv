@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+singolo		singolo	NOUN		1	1e-06	1	1e-06	singolo	NOUN	S	obj	Gender=Masc|Number=Sing	1d052f72-df7b-578a-b9d7-ee27f68ad6bb	ad5f20a1-89b2-5f31-b382-19371537d312	Vorresti un singolo o un doppio?	Would you like a single or a double?				

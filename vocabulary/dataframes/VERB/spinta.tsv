@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+spinte		spinta	VERB		1	1e-06	1	1e-06	spinta	VERB	V	root	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3e6c2ab4-12d9-58ad-9c2e-39bac62cef42	0ff52c46-adda-5279-aa29-59a11da63e48	Tom vi ha spinte?	Did Tom push you?				

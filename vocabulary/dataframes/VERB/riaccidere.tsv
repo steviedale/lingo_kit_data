@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+riacceso		riaccidere	VERB		1	1e-06	1	1e-06	riaccidere	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	838469ee-4f0c-5da7-b5f4-e92d7cfaa1ad	69e5a2a1-05fb-5972-9270-6fb60e3f6445	Tom ha riacceso la luce.	Tom turned the light back on.				

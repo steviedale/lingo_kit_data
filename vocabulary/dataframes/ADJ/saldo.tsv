@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+saldo		saldo	ADJ		1	1e-06	1	1e-06	saldo	ADJ	A	root	Gender=Masc|Number=Sing	f141edc1-6785-52ef-b9e2-a9ee5b10b4e8	fd26ca51-9eef-5ff6-8886-6da91f43de12	Questo coperchio è così saldo che non riesco ad aprirlo.	This lid is so tight I can't open it.				

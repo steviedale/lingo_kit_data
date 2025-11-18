@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+induismo		induismo	NOUN		1	1e-06	1	1e-06	induismo	NOUN	S	nsubj	Gender=Masc|Number=Sing	125ececb-e77b-54c3-b02c-f5ffccf80e0c	163265e2-8f9d-5938-89fc-02da0ba03d19	L'induismo è la religione principale in India.	Hinduism is the main religion in India.				

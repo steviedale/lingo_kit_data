@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tendinite		tendinita	NOUN		2	2e-06	2	2e-06	tendinita	NOUN	S	obj	Gender=Fem|Number=Sing	e4164620-5ed3-5ac1-99e9-0ba98d00c2e8	e509fbea-5b57-5ec1-a52b-0ffd1e9851bc	Penso di avere una tendinite.	I think I have tendonitis.	Io penso di avere una tendinite.	I think I have tendonitis.		

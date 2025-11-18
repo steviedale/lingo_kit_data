@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+uvetta		uvetta	NOUN		2	2e-06	2	2e-06	uvetta	NOUN	S	nmod	Gender=Fem|Number=Sing	bfa84c62-2165-57c4-abd8-d6d7e78ca8a8	ba9fdfab-1574-52c4-b17d-bb8079d7268a	Tom ha mangiato una manciata di uvetta.	Tom ate a handful of raisins.	Tom mangiò una manciata di uvetta.	Tom ate a handful of raisins.		

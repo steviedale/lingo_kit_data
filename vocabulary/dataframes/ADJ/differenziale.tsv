@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+differenziali		differenziale	ADJ		1	1e-06	1	1e-06	differenziale	ADJ	A	amod	Number=Plur	c34bf5e3-af99-5c71-804d-f78b533f1477	d59eff5a-b474-50e7-a5cb-7b2a48dda80b	In generale, si sa poco di equazioni differenziali non lineari del secondo ordine.	In general, little is known about nonlinear second order differential equations.				

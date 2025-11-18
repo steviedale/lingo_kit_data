@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+canta		cantare	NOUN		2	2e-06	2	2e-06	cantare	NOUN	S	root	Gender=Masc|Number=Sing	8821578b-1fc1-53ff-98ab-8c2a06d412ce	b290a578-9e1e-5c8f-a83a-e335ecdfff35	Lei canta e suona il piano.	She sings as well as plays the piano.	Lei canta in un album.	She sings on an album.		

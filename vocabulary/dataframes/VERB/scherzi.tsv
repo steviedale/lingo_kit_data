@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+scherzi		scherzi	VERB		3	3e-06	3	3e-06	scherzi	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	31fae7ce-3782-5adc-9c7d-9543d569c045	8483a27a-0ad4-5893-8b55-26c6e88dee96	Non ci scherzi nemmeno.	Don't even joke about that.	Non ci scherzi neanche.	Don't even joke about that.	Non ci scherzi neppure.	Don't even joke about that.

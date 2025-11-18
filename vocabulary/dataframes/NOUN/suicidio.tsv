@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+suicidio		suicidio	NOUN		18	1.7e-05	18	1.7e-05	suicidio	NOUN	S	root	Gender=Masc|Number=Sing	9529ee60-b121-594b-b532-20c421df45aa	7f3c215d-af2f-5337-a298-5777276bd684	Ha tentato il suicidio.	She attempted suicide.	Lei tentò il suicidio.	She attempted suicide.	Tentò il suicidio.	She attempted suicide.

@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+tappa		tappa	NOUN		1	1e-06	1	1e-06	tappa	NOUN	S	obj	Gender=Fem|Number=Sing	b19b61e2-6654-5c8a-866c-d6c07a54f1e9	1da3fb04-9778-5dfe-a721-43f1c8d33bd8	Marcel Kittel ha vinto la prima tappa del giro di Francia.	Marcel Kittel has won the first stage of the Tour de France.				

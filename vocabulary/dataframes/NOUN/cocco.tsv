@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+cocco		cocco	NOUN		4	4e-06	4	4e-06	cocco	NOUN	S	compound	Gender=Masc|Number=Sing	f79ccba3-38c8-5ff9-8ec0-59541e95f677	56a79da3-d634-50dd-b1a7-90d070058c98	Perché non aprite il cocco?	Why don't you open the coconut?	Perché non apre il cocco?	Why don't you open the coconut?	Sei il mio nuovo dolce cocco.	You are my new sweet coconut.

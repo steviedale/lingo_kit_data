@@ -1,0 +1,3 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+porcospino		porcospino	NOUN		3	3e-06	4	4e-06	porcospino	NOUN	S	obl	Gender=Masc|Number=Sing	4f6f99c5-afd8-546f-a834-82bc922ec3c5	bcd15892-f398-55bf-b2d8-d58ba8e2a9c4	Vivo con un porcospino.	I live with a hedgehog.	Io vivo con un porcospino.	I live with a porcupine.	Cos'è un porcospino?	What's a porcupine?
+porcospini		porcospino	NOUN		1	1e-06	4	4e-06	porcospino	NOUN	S	nsubj	Gender=Masc|Number=Plur	f10fcd0e-6f6a-593f-be7e-c2a0db333f0b	bcd15892-f398-55bf-b2d8-d58ba8e2a9c4	I porcospini sono carini.	Hedgehogs are cute.				

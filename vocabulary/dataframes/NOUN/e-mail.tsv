@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+e-mail		e-mail	NOUN		57	5.5e-05	57	5.5e-05	e-mail	NOUN	S	nmod		cb80d6f0-3269-5b8b-8b97-bad665990501	79b89b2d-e89c-560b-b970-86795e35fecb	Mi sono dimenticato di mandarle un'e-mail.	I forgot to send you an e-mail.	La manderà via e-mail?	Will you send it by mail?	Il mio indirizzo e-mail è stato cambiato.	My e-mail address has been changed.

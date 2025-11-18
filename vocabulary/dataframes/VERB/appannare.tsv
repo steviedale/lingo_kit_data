@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+appannate		appannare	VERB		1	1e-06	1	1e-06	appannare	VERB	V	root	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0d817fc8-70c0-5a1f-8ee2-cbd2bb8644c9	e00efe6b-bc5d-5d07-8789-a0d865e7c3e1	Le finestre erano così appannate da non essere capaci di riconoscere nulla.	The windows were too steamed up to be able to recognize anything.				

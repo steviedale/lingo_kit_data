@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+delizia		delizia	NOUN		1	1e-06	1	1e-06	delizia	NOUN	S	nsubj:pass	Gender=Fem|Number=Sing	ab738672-937a-50b1-8d9c-ca6dbe12b97f	c8fd4e4d-a232-59a8-af0b-9369807bb110	Questa delizia turca è stata fatta in Cina e assemblata in Messico.	This Turkish delight was made in China and assembled in Mexico.				

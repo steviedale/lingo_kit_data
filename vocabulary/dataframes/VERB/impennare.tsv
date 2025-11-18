@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+impennarono		impennare	VERB		1	1e-06	1	1e-06	impennare	VERB	V	root	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	25b583ee-1249-5c1a-81a7-e9138c85aa38	703e5aa8-d31d-5a59-bacc-ff3f8f2dc666	Le vendite di questo modello impennarono.	The sales of this model took off.				

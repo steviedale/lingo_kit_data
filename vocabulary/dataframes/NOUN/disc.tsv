@@ -1,0 +1,2 @@
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
+disc		disc	NOUN		4	4e-06	4	4e-06	disc	NOUN	S	compound	Gender=Masc	7cf87a09-f8b3-5942-bdca-6b5d028bb568	226aa813-e130-5134-8598-f09b39bffcb5	Lei mi diede questo compact disc.	She gave me this compact disc.	Mi ha dato questo compact disc.	She gave me this compact disc.	Lei mi ha dato questo compact disc.	She gave me this compact disc.
