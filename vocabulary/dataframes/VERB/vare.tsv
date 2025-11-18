@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-vacci		vare	VERB		1	1e-06	1	1e-06	vare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	61b565e6-f800-530c-b75d-f3425d59ed36	9247d7ec-51fd-51d6-91b8-8f3a619b3ab4	Vacci piano.	Take it easy.				
+vacci	VAHT-chee	vare	VERB	(you) go there	1	1e-06	1	1e-06	vare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	61b565e6-f800-530c-b75d-f3425d59ed36	9247d7ec-51fd-51d6-91b8-8f3a619b3ab4	Vacci piano.	Take it easy.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-vediamoci		vediamocire	VERB		1	1e-06	1	1e-06	vediamocire	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	a0daa5dc-caff-5b54-bcf3-eb69f647db68	3e63ed4c-8b84-56a4-a3b5-ee8fe5a55893	Vediamoci di domenica.	Let's meet on Sunday.				
+vediamoci	veh-DEE-ah-moh-chee	vediamocire	VERB	let's meet	1	1e-06	1	1e-06	vediamocire	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	a0daa5dc-caff-5b54-bcf3-eb69f647db68	3e63ed4c-8b84-56a4-a3b5-ee8fe5a55893	Vediamoci di domenica.	Let's meet on Sunday.				

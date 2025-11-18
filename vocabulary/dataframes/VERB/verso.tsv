@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-versi		verso	VERB		1	1e-06	1	1e-06	verso	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2ded4898-68bf-521a-a8c0-e51ffba4fae6	a6ab34ab-77ea-57ed-9246-884d7cfbc929	Mi versi da bere.	Pour me a drink.				
+versi	VEHR-see	verso	VERB	you pour	1	1e-06	1	1e-06	verso	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2ded4898-68bf-521a-a8c0-e51ffba4fae6	a6ab34ab-77ea-57ed-9246-884d7cfbc929	Mi versi da bere.	Pour me a drink.				
