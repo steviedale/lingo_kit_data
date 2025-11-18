@@ -7,6 +7,7 @@ import dataclasses
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Dict, Iterable, List, Sequence, Tuple
+import unicodedata
 
 import sys
 
@@ -263,11 +264,99 @@ def needs_update(rows: Iterable[dict[str, str]]) -> bool:
     return False
 
 
-def extract_clitics(parts_lemma: str) -> List[str]:
+def strip_accents(text: str) -> str:
+    return "".join(ch for ch in unicodedata.normalize("NFD", text) if unicodedata.category(ch) != "Mn")
+
+
+CONSONANTS = set("bcdfghjklmnpqrstvwxyz")
+
+
+CLITIC_SEQUENCE_MAP: List[tuple[str, List[str], bool]] = []
+CLITIC_BASES = ["me", "te", "se", "ci", "vi"]
+CLITIC_TAILS = ["lo", "la", "li", "le", "ne"]
+for base in CLITIC_BASES:
+    for tail in CLITIC_TAILS:
+        spelled = base
+        token = base
+        if base == "ci" and tail.startswith(("l", "n")):
+            spelled = "ce"
+        elif base == "vi" and tail.startswith(("l", "n")):
+            spelled = "ve"
+        pattern = spelled + tail
+        needs_consonant = token in {"me", "te", "se"}
+        CLITIC_SEQUENCE_MAP.append((pattern, [token, tail], needs_consonant))
+
+GLI_PATTERNS = [
+    ("gliene", ["gli", "ne"]),
+    ("glielo", ["gli", "lo"]),
+    ("gliela", ["gli", "la"]),
+    ("glieli", ["gli", "li"]),
+    ("gliele", ["gli", "le"]),
+]
+for pattern, seq in GLI_PATTERNS:
+    CLITIC_SEQUENCE_MAP.append((pattern, seq, False))
+
+CLITIC_SEQUENCE_MAP.sort(key=lambda item: len(item[0]), reverse=True)
+
+SIMPLE_CLITICS = {
+    "mi",
+    "ti",
+    "si",
+    "ci",
+    "vi",
+    "gli",
+    "loro",
+    "lo",
+    "la",
+    "li",
+    "le",
+    "ne",
+}
+
+
+def extract_clitics_from_parts(parts_lemma: str) -> List[str]:
     if not parts_lemma or "+" not in parts_lemma:
         return []
     bits = [chunk.strip() for chunk in parts_lemma.split("+") if chunk.strip()]
     return bits[1:]
+
+
+def extract_clitics_from_text(text: str) -> List[str]:
+    cleaned = strip_accents(text.lower().replace("'", "").replace("’", ""))
+    tokens: List[str] = []
+    while cleaned:
+        matched = False
+        for pattern, seq, needs_consonant in CLITIC_SEQUENCE_MAP:
+            if cleaned.endswith(pattern):
+                remaining = cleaned[: -len(pattern)]
+                if not remaining:
+                    break
+                if needs_consonant:
+                    prev = strip_accents(remaining[-1].lower()) if remaining else ""
+                    if prev not in CONSONANTS:
+                        continue
+                cleaned = remaining
+                tokens = seq + tokens
+                matched = True
+                break
+        if matched:
+            continue
+        for simple in sorted(SIMPLE_CLITICS, key=len, reverse=True):
+            if cleaned.endswith(simple) and len(cleaned) > len(simple):
+                cleaned = cleaned[: -len(simple)]
+                tokens = [simple] + tokens
+                matched = True
+                break
+        if not matched:
+            break
+    return tokens
+
+
+def extract_clitics(parts_lemma: str, text: str) -> List[str]:
+    tokens = extract_clitics_from_parts(parts_lemma)
+    if tokens:
+        return tokens
+    return extract_clitics_from_text(text)
 
 
 def build_clitic_phrase(tokens: Sequence[str], feats: dict[str, str], config: VerbConfig) -> str:
@@ -315,7 +404,13 @@ def build_clitic_phrase(tokens: Sequence[str], feats: dict[str, str], config: Ve
             reflexive_parts.append(REFLEXIVE_MAP[low])
             continue
         personal_parts.append(low)
-    parts = reflexive_parts + direct_parts + partitive_parts + personal_parts + indirect_parts
+    parts = reflexive_parts + direct_parts + partitive_parts + personal_parts
+    if indirect_parts:
+        if not (direct_parts or partitive_parts or personal_parts):
+            adjusted = [chunk.replace("to ", "", 1) if chunk.startswith("to ") else chunk for chunk in indirect_parts]
+            parts += adjusted
+        else:
+            parts += indirect_parts
     return " ".join(parts).strip()
 
 
@@ -416,7 +511,7 @@ def compute_translation(row: dict[str, str], config: VerbConfig, presence: dict[
     mood = (feats.get("Mood") or ("ind" if verb_form == "fin" else "")).lower()
     tense = (feats.get("Tense") or ("pres" if verb_form == "fin" else "")).lower()
     subject_label, person, number = subject_from_feats(feats, config)
-    clitic_tokens = extract_clitics(row.get("parts_lemma", ""))
+    clitic_tokens = extract_clitics(row.get("parts_lemma", ""), row.get("text", ""))
     clitic_suffix = build_clitic_phrase(clitic_tokens, feats, config)
     phrases = []
     for sense in config.senses:
@@ -461,6 +556,11 @@ def make_config(*bases: str | Sense, **kwargs) -> VerbConfig:
         else:
             sense_list.append(Sense(base=base))
     return VerbConfig(senses=sense_list, **kwargs)
+
+
+GIVE_SENSE = Sense("give", third="gives", past="gave", participle="given", gerund="giving")
+TELL_SENSE = Sense("tell", third="tells", past="told", participle="told", gerund="telling")
+SAY_SENSE = Sense("say", third="says", past="said", participle="said", gerund="saying")
 
 
 VERB_CONFIGS: Dict[str, VerbConfig] = {
@@ -557,6 +657,235 @@ VERB_CONFIGS: Dict[str, VerbConfig] = {
         Sense("owe"),
     ),
     "durare": make_config("last"),
+    "da": make_config(GIVE_SENSE),
+    "dandolare": make_config(GIVE_SENSE),
+    "dannato": make_config("damn"),
+    "danneggiare": make_config("damage"),
+    "danza": make_config("dance"),
+    "danzerare": make_config("dance"),
+    "danzere": make_config("dance"),
+    "dare": make_config(GIVE_SENSE),
+    "dategliare": make_config(GIVE_SENSE),
+    "datele": make_config(GIVE_SENSE),
+    "datemere": make_config(GIVE_SENSE),
+    "debuggare": make_config("debug"),
+    "decapitare": make_config("decapitate"),
+    "decedere": make_config(Sense("die", past="died", participle="died", gerund="dying")),
+    "decentralizzare": make_config("decentralize"),
+    "decifrare": make_config("decipher"),
+    "declinare": make_config("decline"),
+    "decollare": make_config(
+        Sense("take off", third="takes off", past="took off", participle="taken off", gerund="taking off")
+    ),
+    "decorare": make_config("decorate"),
+    "decorato": make_config("decorate"),
+    "dedere": make_config("deduce"),
+    "dedicare": make_config("dedicate"),
+    "dedurre": make_config("deduce"),
+    "defenire": make_config("defenestrate"),
+    "defenistrare": make_config("defenestrate"),
+    "definire": make_config("define"),
+    "definiscimare": make_config("define"),
+    "deformare": make_config("deform", "distort"),
+    "deformato": make_config("deform", "distort"),
+    "degenerare": make_config("degenerate"),
+    "degnare": make_config("deign"),
+    "delegare": make_config("delegate"),
+    "delimitare": make_config("delimit"),
+    "deliziare": make_config("delight"),
+    "delocalizzare": make_config("relocate", "offshore"),
+    "deludere": make_config("disappoint"),
+    "deluso": make_config("disappoint"),
+    "demolire": make_config("demolish"),
+    "denunciare": make_config("report", "denounce"),
+    "depenalizzare": make_config("decriminalize"),
+    "depilare": make_config("shave"),
+    "deporre": make_config(Sense("lay", past="laid", participle="laid", gerund="laying")),
+    "depositare": make_config("deposit"),
+    "depostare": make_config("depose"),
+    "depravare": make_config("deprave", "corrupt"),
+    "deprimere": make_config("depress"),
+    "deprire": make_config("depress"),
+    "deragliare": make_config("derail"),
+    "dere": make_config(GIVE_SENSE),
+    "deridere": make_config("mock", "laugh at"),
+    "derivante": make_config("derive"),
+    "derivare": make_config("derive"),
+    "derubare": make_config("rob"),
+    "descrivere": make_config("describe"),
+    "descrivimare": make_config("describe"),
+    "desiderare": make_config("desire", "want"),
+    "desideroso": make_config(Sense("be eager", participle="eager")),
+    "designare": make_config("designate"),
+    "desistere": make_config("desist"),
+    "desistiare": make_config("desist"),
+    "destinare": make_config(Sense("destine", participle="destined"), "assign"),
+    "destrimare": make_config(
+        Sense(
+            "be right-handed",
+            third="is right-handed",
+            past="was right-handed",
+            participle="been right-handed",
+            gerund="being right-handed",
+        )
+    ),
+    "detenere": make_config("detain", "hold"),
+    "determinare": make_config("determine"),
+    "detestare": make_config("detest"),
+    "dettagliato": make_config(Sense("detail", participle="detailed")),
+    "devastare": make_config("devastate"),
+    "deviare": make_config("divert", "deviate"),
+    "devolere": make_config("devote", "donate"),
+    "dia": make_config(GIVE_SENSE),
+    "diadere": make_config(GIVE_SENSE),
+    "diagnosticare": make_config("diagnose"),
+    "diamocare": make_config("get to work"),
+    "dibattere": make_config("debate", "discuss"),
+    "dibattettare": make_config("debate", "discuss"),
+    "dicestare": make_config(Sense("say", past="said", participle="said", gerund="saying")),
+    "dichiarare": make_config("declare", "state"),
+    "diedere": make_config(GIVE_SENSE),
+    "difendere": make_config("defend"),
+    "difendilare": make_config("defend"),
+    "difesa": make_config("defend"),
+    "diffamare": make_config("defame"),
+    "differenziare": make_config("differentiate"),
+    "differire": make_config("differ"),
+    "diffidare": make_config("distrust"),
+    "diffondare": make_config("spread"),
+    "diffondere": make_config("spread", "disseminate"),
+    "digerire": make_config("digest"),
+    "digitalizzare": make_config("digitize"),
+    "digitare": make_config("dial", "type"),
+    "digiunare": make_config("fast"),
+    "digliere": make_config(TELL_SENSE),
+    "dilettare": make_config("delight"),
+    "dillo": make_config(SAY_SENSE),
+    "diluire": make_config("dilute"),
+    "diluito": make_config("dilute"),
+    "diluviare": make_config(
+        Sense("pour down", third="pours down", past="poured down", participle="poured down", gerund="pouring down")
+    ),
+    "dimagrire": make_config("lose weight"),
+    "dimenare": make_config("wiggle"),
+    "dimentere": make_config("forget"),
+    "dimenticateverticticare": make_config("forget"),
+    "dimentichiamocinte": make_config("forget"),
+    "dimentichiamocire": make_config("forget"),
+    "dimettere": make_config("resign", "dismiss"),
+    "dimezzare": make_config("halve"),
+    "diminuire": make_config("decrease"),
+    "diminuito": make_config("decrease"),
+    "dimmelare": make_config(TELL_SENSE),
+    "dimmi": make_config(TELL_SENSE),
+    "dimmiare": make_config(TELL_SENSE),
+    "dimora": make_config("dwell", "reside"),
+    "dimostrare": make_config("prove", "demonstrate"),
+    "dipendere": make_config("depend"),
+    "dipingere": make_config("paint"),
+    "dipinto": make_config("paint"),
+    "diplomare": make_config("graduate"),
+    "diramare": make_config("branch", "spread"),
+    "dire": make_config(Sense("say", past="said", participle="said", gerund="saying")),
+    "dirglielere": make_config(TELL_SENSE),
+    "dirigere": make_config("direct", "manage"),
+    "dirle": make_config(TELL_SENSE),
+    "dirmalere": make_config(TELL_SENSE),
+    "dirottare": make_config("reroute", "hijack"),
+    "dirtelere": make_config(TELL_SENSE),
+    "dirvilere": make_config(TELL_SENSE),
+    "disappare": make_config("disappear"),
+    "disapprovare": make_config("disapprove"),
+    "disarmare": make_config("disarm"),
+    "disarmato": make_config(Sense("disarm", participle="disarmed")),
+    "disattivare": make_config("deactivate"),
+    "discendere": make_config("descend"),
+    "disciogliere": make_config("dissolve"),
+    "disconnetitere": make_config("disconnect", "log off"),
+    "discorrere": make_config("talk", "discuss"),
+    "discreditare": make_config("discredit"),
+    "disegnamere": make_config("draw"),
+    "disegnare": make_config("draw"),
+    "disfare": make_config("undo", "unpack"),
+    "disgungere": make_config(Sense("disgust", participle="disgusting")),
+    "disgustare": make_config("disgust"),
+    "disidratare": make_config("dehydrate"),
+    "disinfettare": make_config("disinfect"),
+    "disobbedire": make_config("disobey"),
+    "disorganizzato": make_config(Sense("disorganize", participle="disorganized")),
+    "disorientare": make_config("disorient"),
+    "disperdere": make_config("disperse"),
+    "disperso": make_config("disperse"),
+    "disporre": make_config(Sense("be willing", participle="willing"), "arrange", "have available"),
+    "disprezzare": make_config("despise"),
+    "dissipare": make_config("dissipate"),
+    "dissociare": make_config("dissociate"),
+    "dissolvere": make_config("dissolve"),
+    "dissuadere": make_config("dissuade"),
+    "distaccato": make_config(
+        Sense("detach", participle="detached"),
+        Sense("outdistance", past="outdistanced", participle="outdistanced", gerund="outdistancing"),
+    ),
+    "distanziare": make_config("distance", "outdistance"),
+    "distare": make_config(
+        Sense("be far", third="is far", past="was far", participle="been far", gerund="being far")
+    ),
+    "distillare": make_config("distill"),
+    "distinguo": make_config("distinguish"),
+    "distogliere": make_config("divert", "look away"),
+    "distorcare": make_config("distort"),
+    "distorcere": make_config("distort"),
+    "distorcire": make_config("distort"),
+    "distraggiare": make_config("distract"),
+    "distrarre": make_config("distract"),
+    "distrarree": make_config(Sense("distract", participle="distracted")),
+    "distribuire": make_config("distribute"),
+    "distriggere": make_config("destroy", "crush"),
+    "distruggere": make_config("destroy"),
+    "distruo": make_config("destroy"),
+    "distrussare": make_config("destroy", "crush"),
+    "distrutto": make_config("destroy"),
+    "disturbatemare": make_config("bother"),
+    "disturbatevere": make_config("bother"),
+    "disturbo": make_config("bother"),
+    "ditecere": make_config(TELL_SENSE),
+    "ditegliare": make_config(TELL_SENSE),
+    "ditelare": make_config(SAY_SENSE),
+    "ditele": make_config(TELL_SENSE),
+    "ditemere": make_config(TELL_SENSE),
+    "ditenle": make_config(TELL_SENSE),
+    "divenire": make_config(Sense("become", past="became", participle="become", gerund="becoming")),
+    "diventante": make_config(Sense("become", participle="becoming")),
+    "diventare": make_config(Sense("become", past="became", participle="become", gerund="becoming")),
+    "diverire": make_config("have fun"),
+    "divertare": make_config("amuse"),
+    "divertiamoci": make_config("have fun"),
+    "divertiare": make_config("have fun"),
+    "dividere": make_config("divide"),
+    "dividiamoci": make_config("divide"),
+    "dividilare": make_config("divide"),
+    "divorare": make_config("devour"),
+    "divorzare": make_config("divorce"),
+    "divorziare": make_config("divorce"),
+    "divorziata": make_config("divorce"),
+    "divorziato": make_config("divorce"),
+    "do": make_config(GIVE_SENSE),
+    "documentare": make_config("document"),
+    "domandare": make_config("ask"),
+    "domare": make_config("tame", "extinguish"),
+    "dominare": make_config("dominate"),
+    "donare": make_config("donate"),
+    "dondolare": make_config("swing", "wobble"),
+    "doppiare": make_config("dub"),
+    "dore": make_config("sleep"),
+    "dossire": make_config(GIVE_SENSE),
+    "dotare": make_config("endow"),
+    "driggere": make_config("go straight"),
+    "drogare": make_config("drug"),
+    "dubire": make_config("doubt"),
+    "dubitare": make_config("doubt"),
+    "duolere": make_config("ache"),
+    "durire": make_config("last"),
     "entrare": make_config("enter", "go in"),
     "esistere": make_config("exist"),
     "fallire": make_config("fail"),

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-diluito		diluito	VERB		1	1e-06	1	1e-06	diluito	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	60830180-00b0-5e16-9ee4-74d7325b6431	968fb9f3-e245-5a11-af2e-952fc2907a3e	Il ghiaccio ha diluito il succo.	The ice watered down the juice.				
+diluito	dee-LWEE-toh	diluito	VERB	diluted	1	1e-06	1	1e-06	diluito	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	60830180-00b0-5e16-9ee4-74d7325b6431	968fb9f3-e245-5a11-af2e-952fc2907a3e	Il ghiaccio ha diluito il succo.	The ice watered down the juice.				

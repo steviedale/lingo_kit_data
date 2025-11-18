@@ -1,3 +1,3 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-diluviare		diluviare	VERB		1	1e-06	2	2e-06	diluviare	VERB	V	ccomp	VerbForm=Inf	a6afdf56-a971-52dd-a859-e8cadcbb72dd	8a61e6a7-a112-5190-8499-d54c6dc79e50	Cominciò a diluviare.	It began to rain cats and dogs.				
-diluviando		diluviare	VERB		1	1e-06	2	2e-06	diluviare	VERB	V	root	VerbForm=Ger	1cb9ed74-0417-5d18-9632-b8e3820fd8a5	8a61e6a7-a112-5190-8499-d54c6dc79e50	Sta diluviando.	The rain is teeming down.				
+diluviare	dee-loo-VYAH-reh	diluviare	VERB	to pour down	1	1e-06	2	2e-06	diluviare	VERB	V	ccomp	VerbForm=Inf	a6afdf56-a971-52dd-a859-e8cadcbb72dd	8a61e6a7-a112-5190-8499-d54c6dc79e50	Cominciò a diluviare.	It began to rain cats and dogs.				
+diluviando	dee-loo-VYAHN-doh	diluviare	VERB	pouring down	1	1e-06	2	2e-06	diluviare	VERB	V	root	VerbForm=Ger	1cb9ed74-0417-5d18-9632-b8e3820fd8a5	8a61e6a7-a112-5190-8499-d54c6dc79e50	Sta diluviando.	The rain is teeming down.				

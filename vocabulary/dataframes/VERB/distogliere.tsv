@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-distolse		distogliere	VERB		1	1e-06	1	1e-06	distogliere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2381db04-7ce6-5f04-a9ec-20d504e646a9	401a64a0-c8f3-5484-8ded-eea36ecf4ec7	Distolse lo sguardo.	He looked away.				
+distolse	dee-STOHL-seh	distogliere	VERB	he/she/it diverted; he/she/it looked away	1	1e-06	1	1e-06	distogliere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2381db04-7ce6-5f04-a9ec-20d504e646a9	401a64a0-c8f3-5484-8ded-eea36ecf4ec7	Distolse lo sguardo.	He looked away.				

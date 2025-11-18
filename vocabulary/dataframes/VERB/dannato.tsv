@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dannato		dannato	VERB		1	1e-06	1	1e-06	dannato	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	e4b6d8d0-e70b-52a6-8487-0434d1a44952	c4e83b91-2341-5eb8-81cf-7830d3e6631e	Le sue azioni l'hanno dannato.	His actions damned him.				
+dannato	dahn-NAH-toh	dannato	VERB	damned	1	1e-06	1	1e-06	dannato	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	e4b6d8d0-e70b-52a6-8487-0434d1a44952	c4e83b91-2341-5eb8-81cf-7830d3e6631e	Le sue azioni l'hanno dannato.	His actions damned him.				
