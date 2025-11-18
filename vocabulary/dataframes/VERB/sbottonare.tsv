@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sbottonò		sbottonare	VERB		1	1e-06	1	1e-06	sbottonare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	460ad81b-9079-51e3-a176-f806b4b9e301	f1e63846-05ef-5ef2-897d-4c72ad1c5d0e	Tom si sbottonò la camicia.	Tom unbuttoned his shirt.				
+sbottonò	sboht-toh-NOH	sbottonare	VERB	he/she/it unbuttoned	1	1e-06	1	1e-06	sbottonare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	460ad81b-9079-51e3-a176-f806b4b9e301	f1e63846-05ef-5ef2-897d-4c72ad1c5d0e	Tom si sbottonò la camicia.	Tom unbuttoned his shirt.				

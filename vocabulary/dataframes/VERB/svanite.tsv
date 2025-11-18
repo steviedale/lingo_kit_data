@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-svanite		svanite	VERB		1	1e-06	1	1e-06	svanite	VERB	V	root	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0b31789e-c16b-532b-a844-82dda2e1befb	bc447fb3-c66b-5c43-963d-67b0012b3a93	Tutte le sue speranze sono svanite.	All her hopes have vanished.				
+svanite	svah-NEE-teh	svanite	VERB	vanisheded (feminine) (plural)	1	1e-06	1	1e-06	svanite	VERB	V	root	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0b31789e-c16b-532b-a844-82dda2e1befb	bc447fb3-c66b-5c43-963d-67b0012b3a93	Tutte le sue speranze sono svanite.	All her hopes have vanished.				

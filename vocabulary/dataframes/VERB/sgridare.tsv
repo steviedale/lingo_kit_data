@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sgridare		sgridare	VERB		1	1e-06	1	1e-06	sgridare	VERB	V	root	VerbForm=Inf	dd49a5ee-e860-55ba-b8c4-1c67305b527b	4864d029-fe03-5af7-adfc-2c04b794c2eb	Qualcuno dovrebbe sgridare quell'uomo maleducato.	Somebody should tell off that rude man.				
+sgridare	sjree-DAH-reh	sgridare	VERB	to scold; to tell off	1	1e-06	1	1e-06	sgridare	VERB	V	root	VerbForm=Inf	dd49a5ee-e860-55ba-b8c4-1c67305b527b	4864d029-fe03-5af7-adfc-2c04b794c2eb	Qualcuno dovrebbe sgridare quell'uomo maleducato.	Somebody should tell off that rude man.				

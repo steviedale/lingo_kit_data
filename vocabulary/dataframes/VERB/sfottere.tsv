@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sfotteva		sfottere	VERB		1	1e-06	1	1e-06	sfottere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	253547bd-8699-5f84-8c21-47871cb05535	09f4fe7a-d27d-5c0a-b8c4-70b9b51cb525	Mary sfotteva Tom.	Mary was scornful of Tom.				
+sfotteva	sfoht-TEH-vah	sfottere	VERB	he/she/it mocked; he/she/it made fun of	1	1e-06	1	1e-06	sfottere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	253547bd-8699-5f84-8c21-47871cb05535	09f4fe7a-d27d-5c0a-b8c4-70b9b51cb525	Mary sfotteva Tom.	Mary was scornful of Tom.				

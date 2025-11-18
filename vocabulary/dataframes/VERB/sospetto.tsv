@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sospetti		sospetto	VERB		1	1e-06	1	1e-06	sospetto	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7f8c208a-257c-5fe0-88e1-80501d80336a	a665d4ee-cd07-50af-bc23-20e462a8279c	Perché mi sospetti?	Why do you suspect me?				
+sospetti	soh-SPEHT-tee	sospetto	VERB	I suspect you; I suspicion you	1	1e-06	1	1e-06	sospetto	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7f8c208a-257c-5fe0-88e1-80501d80336a	a665d4ee-cd07-50af-bc23-20e462a8279c	Perché mi sospetti?	Why do you suspect me?				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sareste		sare	VERB		1	1e-06	1	1e-06	sare	VERB	V	root	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	fd027c30-85bc-557b-8471-5a1bcd1cc9db	ff616f1a-ac48-5f03-a235-5c8885b216a5	E voi chi sareste?	And who might you be?				
+sareste	sah-REH-steh	sare	VERB	you (plural) are (plural)	1	1e-06	1	1e-06	sare	VERB	V	root	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	fd027c30-85bc-557b-8471-5a1bcd1cc9db	ff616f1a-ac48-5f03-a235-5c8885b216a5	E voi chi sareste?	And who might you be?				

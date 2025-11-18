@@ -1138,15 +1138,16 @@ VERB_CONFIGS: Dict[str, VerbConfig] = {
 
 
 def load_additional_configs() -> None:
-    data_path = Path(__file__).resolve().parent / "data" / "verb_configs_a.json"
-    if not data_path.exists():
+    data_dir = Path(__file__).resolve().parent / "data"
+    if not data_dir.exists():
         return
-    with data_path.open() as handle:
-        additional: Dict[str, List[str]] = json.load(handle)
-    for lemma, senses in additional.items():
-        if lemma in VERB_CONFIGS:
-            continue
-        VERB_CONFIGS[lemma] = make_config(*senses)
+    for path in sorted(data_dir.glob("verb_configs_*.json")):
+        with path.open() as handle:
+            additional: Dict[str, List[str]] = json.load(handle)
+        for lemma, senses in additional.items():
+            if lemma in VERB_CONFIGS:
+                continue
+            VERB_CONFIGS[lemma] = make_config(*senses)
 
 
 load_additional_configs()

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-spoglio		spoglio	VERB		1	1e-06	1	1e-06	spoglio	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9d921f84-f598-543b-a822-eff59b97109e	6430abdf-819c-593c-ae58-178ede8d1a75	Mi spoglio.	I'm undressing.				
+spoglio	SPOH-lyyoh	spoglio	VERB	I stripped; I bare	1	1e-06	1	1e-06	spoglio	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9d921f84-f598-543b-a822-eff59b97109e	6430abdf-819c-593c-ae58-178ede8d1a75	Mi spoglio.	I'm undressing.				

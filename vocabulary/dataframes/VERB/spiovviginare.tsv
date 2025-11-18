@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-spiovviginando		spiovviginare	VERB		1	1e-06	1	1e-06	spiovviginare	VERB	V	root	VerbForm=Ger	12d88558-294e-5969-8be1-e4ef44362b09	22bf33a8-15d8-5731-968c-ced32ed3a422	Sta spiovviginando fuori in giardino.	It's drizzling out in the garden.				
+spiovviginando	spyohv-vee-jee-NAHN-doh	spiovviginare	VERB	drizzling	1	1e-06	1	1e-06	spiovviginare	VERB	V	root	VerbForm=Ger	12d88558-294e-5969-8be1-e4ef44362b09	22bf33a8-15d8-5731-968c-ced32ed3a422	Sta spiovviginando fuori in giardino.	It's drizzling out in the garden.				

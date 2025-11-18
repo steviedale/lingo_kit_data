@@ -1,3 +1,3 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sfogare		sfogare	VERB		1	1e-06	2	2e-06	sfogare	VERB	V	root	VerbForm=Inf	3464e7d8-4156-5bd5-9143-a4f2c2e75349	958a7e19-e561-539a-a36b-8bc291a7d430	Mi devo sfogare.	I have to let off steam.				
-sfogarmi		sfogare	VERB		1	1e-06	2	2e-06	sfogare+mi	VERB+PRON	V	root	VerbForm=Inf|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	ad63890b-d25b-581b-8da2-4cacce4b29ea	958a7e19-e561-539a-a36b-8bc291a7d430	Devo sfogarmi.	I have to let off steam.				
+sfogare	sfoh-GAH-reh	sfogare	VERB	to vent; to unleash	1	1e-06	2	2e-06	sfogare	VERB	V	root	VerbForm=Inf	3464e7d8-4156-5bd5-9143-a4f2c2e75349	958a7e19-e561-539a-a36b-8bc291a7d430	Mi devo sfogare.	I have to let off steam.				
+sfogarmi	sfoh-GAHR-mee	sfogare	VERB	to vent me; to unleash me	1	1e-06	2	2e-06	sfogare+mi	VERB+PRON	V	root	VerbForm=Inf|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	ad63890b-d25b-581b-8da2-4cacce4b29ea	958a7e19-e561-539a-a36b-8bc291a7d430	Devo sfogarmi.	I have to let off steam.				

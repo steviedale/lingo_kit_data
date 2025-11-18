@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-starnutendo		starnuendere	VERB		1	1e-06	1	1e-06	starnuendere	VERB	V	root	VerbForm=Ger	91404b63-cb82-5bd2-8257-10d130a6cda7	7ed5153a-e547-5a2c-9be3-5fdbd5c489d8	Tom sta starnutendo.	Tom is sneezing.				
+starnutendo	stahr-noo-TEHN-doh	starnuendere	VERB	sneezing	1	1e-06	1	1e-06	starnuendere	VERB	V	root	VerbForm=Ger	91404b63-cb82-5bd2-8257-10d130a6cda7	7ed5153a-e547-5a2c-9be3-5fdbd5c489d8	Tom sta starnutendo.	Tom is sneezing.				

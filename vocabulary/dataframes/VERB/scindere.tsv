@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-scendo		scindere	VERB		1	1e-06	1	1e-06	scindere	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ddb3eb78-efb7-5471-ace9-1d68239e9093	4f805864-a6c6-53e9-a226-d9fbf2aff933	Scendo qui.	I get off here.				
+scendo	SHEHN-doh	scindere	VERB	I split; I sever	1	1e-06	1	1e-06	scindere	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ddb3eb78-efb7-5471-ace9-1d68239e9093	4f805864-a6c6-53e9-a226-d9fbf2aff933	Scendo qui.	I get off here.				

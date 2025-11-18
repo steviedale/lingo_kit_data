@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-seccarmi		seccarmare	VERB		1	1e-06	1	1e-06	seccarmare	VERB	V	xcomp	VerbForm=Inf	938ac325-ff45-510e-b7a0-65f55fce6683	b6baf5cd-8c05-579c-a082-4f16aad1a44f	Smettila di seccarmi, sono occupato.	Stop bugging me. I'm busy.				
+seccarmi	sehk-KAHR-mee	seccarmare	VERB	to dry myself me; to dry it off me	1	1e-06	1	1e-06	seccarmare	VERB	V	xcomp	VerbForm=Inf	938ac325-ff45-510e-b7a0-65f55fce6683	b6baf5cd-8c05-579c-a082-4f16aad1a44f	Smettila di seccarmi, sono occupato.	Stop bugging me. I'm busy.				

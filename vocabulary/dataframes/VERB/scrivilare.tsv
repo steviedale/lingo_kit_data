@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-scrivila		scrivilare	VERB		1	1e-06	1	1e-06	scrivilare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	b3f83913-203a-5845-a054-6139dfe45fe7	f43a5df2-3986-5997-b847-90a37abff4a2	Scrivila a matita.	Write it in pencil.				
+scrivila	shree-VEE-lah	scrivilare	VERB	he/she/it writes it her/it to you (plural)	1	1e-06	1	1e-06	scrivilare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	b3f83913-203a-5845-a054-6139dfe45fe7	f43a5df2-3986-5997-b847-90a37abff4a2	Scrivila a matita.	Write it in pencil.				

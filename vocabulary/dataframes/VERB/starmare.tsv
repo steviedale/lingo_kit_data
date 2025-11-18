@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-starmi		starmare	VERB		1	1e-06	1	1e-06	starmare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	e61abaa0-bfe6-5479-b533-a0e274020007	4966b5f6-09ac-5a45-bd68-2d1e76c0d3a7	Non starmi vicino.	Don't stand near me.				
+starmi	STAHR-mee	starmare	VERB	he/she/it stays me; he/she/it remains me	1	1e-06	1	1e-06	starmare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	e61abaa0-bfe6-5479-b533-a0e274020007	4966b5f6-09ac-5a45-bd68-2d1e76c0d3a7	Non starmi vicino.	Don't stand near me.				
