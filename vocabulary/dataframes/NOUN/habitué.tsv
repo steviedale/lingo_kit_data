@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-habitué		habitué	NOUN		1	1e-06	1	1e-06	habitué	NOUN	S	root	Gender=Masc	551e0274-12b9-5858-929d-e2aac044a920	7e94abcc-f61d-5296-b585-95bc8f2bb0bf	Lui è un habitué per i bar e i pub qui intorno.	He's a regular at the bars and pubs around here.				
+habitué	hah-bee-too-EH	habitué	NOUN	regular patron	1	1e-06	1	1e-06	habitué	NOUN	S	root	Gender=Masc	551e0274-12b9-5858-929d-e2aac044a920	7e94abcc-f61d-5296-b585-95bc8f2bb0bf	Lui è un habitué per i bar e i pub qui intorno.	He's a regular at the bars and pubs around here.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-hippy		hippy	NOUN		1	1e-06	1	1e-06	hippy	NOUN	S	root	Gender=Masc	ea3d3103-9694-5678-abb7-c1482328595f	f413cf36-91a4-5f87-bbad-ef29b8d86782	Tom è un hippy.	Tom is a hippy.				
+hippy	EEP-pee	hippy	NOUN	hippy	1	1e-06	1	1e-06	hippy	NOUN	S	root	Gender=Masc	ea3d3103-9694-5678-abb7-c1482328595f	f413cf36-91a4-5f87-bbad-ef29b8d86782	Tom è un hippy.	Tom is a hippy.				

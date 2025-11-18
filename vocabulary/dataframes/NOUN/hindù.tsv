@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-hindù		hindù	NOUN		1	1e-06	1	1e-06	hindù	NOUN	S	nsubj	Gender=Masc|Number=Plur	aecf9d11-59fd-5385-85bc-e302d923411d	23813286-2d45-59ae-ae5e-3e522c836e95	Gli hindù e i musulmani sono tutti fratelli.	Hindus and Muslims are all brothers.				
+hindù	een-DOO	hindù	NOUN	Hindus	1	1e-06	1	1e-06	hindù	NOUN	S	nsubj	Gender=Masc|Number=Plur	aecf9d11-59fd-5385-85bc-e302d923411d	23813286-2d45-59ae-ae5e-3e522c836e95	Gli hindù e i musulmani sono tutti fratelli.	Hindus and Muslims are all brothers.				
