@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-zuava		zuavo	NOUN		1	1e-06	1	1e-06	zuavo	NOUN	S	nmod	Gender=Fem|Number=Sing	13a98cbc-f75c-53b0-b5d9-17165ef5efb0	07166397-3286-5a7c-9fc1-c7fa877e49cf	I miei calzoni alla zuava sono bagnati.	My knickers are wet.				
+zuava	zoo-AH-vah	zuavo	NOUN	zouave (feminine)	1	1e-06	1	1e-06	zuavo	NOUN	S	nmod	Gender=Fem|Number=Sing	13a98cbc-f75c-53b0-b5d9-17165ef5efb0	07166397-3286-5a7c-9fc1-c7fa877e49cf	I miei calzoni alla zuava sono bagnati.	My knickers are wet.				

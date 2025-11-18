@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-violino		violino	NOUN		1	1e-06	1	1e-06	violino	NOUN	S	nsubj	Gender=Masc|Number=Sing	1d1eeb4d-fb18-5a45-8cfc-a7604ca8309a	aa50c5cb-a89c-5cc6-a590-472289661e91	Violino, pianoforte e arpa sono strumenti musicali.	Violin, piano and harp are musical instruments.				
+violino	vyoh-LEE-noh	violino	NOUN	violin	1	1e-06	1	1e-06	violino	NOUN	S	nsubj	Gender=Masc|Number=Sing	1d1eeb4d-fb18-5a45-8cfc-a7604ca8309a	aa50c5cb-a89c-5cc6-a590-472289661e91	Violino, pianoforte e arpa sono strumenti musicali.	Violin, piano and harp are musical instruments.				

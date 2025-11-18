@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-vulcaniani		vulcaniano	NOUN		1	1e-06	1	1e-06	vulcaniano	NOUN	S	nsubj	Gender=Masc|Number=Plur	138683f1-5b10-5472-ac34-105c4d4c5d09	cec8793b-e96f-504f-a11a-827205b3c131	I vulcaniani hanno le orecchie a punta.	Vulcans have pointy ears.				
+vulcaniani	vool-kah-NYAH-nee	vulcaniano	NOUN	Vulcans	1	1e-06	1	1e-06	vulcaniano	NOUN	S	nsubj	Gender=Masc|Number=Plur	138683f1-5b10-5472-ac34-105c4d4c5d09	cec8793b-e96f-504f-a11a-827205b3c131	I vulcaniani hanno le orecchie a punta.	Vulcans have pointy ears.				

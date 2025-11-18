@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-zitte		zitta	NOUN		2	2e-06	2	2e-06	zitta	NOUN	S	obj	Gender=Fem|Number=Plur	95312430-bfef-56d5-b039-1d50d45f70b0	9f9673a2-7360-5bdb-9992-9810278422ae	State zitte e sedetevi.	Shut up and sit down.	State zitte!	Shut up!		
+zitte	ZEET-teh	zitta	NOUN	be quiet (feminine plural)	2	2e-06	2	2e-06	zitta	NOUN	S	obj	Gender=Fem|Number=Plur	95312430-bfef-56d5-b039-1d50d45f70b0	9f9673a2-7360-5bdb-9992-9810278422ae	State zitte e sedetevi.	Shut up and sit down.	State zitte!	Shut up!		

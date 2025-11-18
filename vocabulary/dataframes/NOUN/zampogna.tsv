@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-zampogna		zampogna	NOUN		1	1e-06	1	1e-06	zampogna	NOUN	S	obj	Gender=Fem|Number=Sing	ebf977d4-8276-5f03-abb0-2c52d03453d2	d7604628-a370-5b13-8143-78145e8c10ea	Insegnami a suonare la zampogna.	Teach me how to play a reed pipe.				
+zampogna	zahm-POHN-yah	zampogna	NOUN	bagpipe	1	1e-06	1	1e-06	zampogna	NOUN	S	obj	Gender=Fem|Number=Sing	ebf977d4-8276-5f03-abb0-2c52d03453d2	d7604628-a370-5b13-8143-78145e8c10ea	Insegnami a suonare la zampogna.	Teach me how to play a reed pipe.				

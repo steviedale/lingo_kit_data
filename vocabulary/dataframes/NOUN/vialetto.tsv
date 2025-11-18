@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-vialetto		vialetto	NOUN		1	1e-06	1	1e-06	vialetto	NOUN	S	obl	Gender=Masc|Number=Sing	ad58c8b5-3ec6-5f35-a304-92e8ac07efef	ebdc4bf1-ebdf-5267-a800-63150f65ab5f	Mi condussero per il vialetto del giardino.	They led me up the garden path.				
+vialetto	vee-ah-LEHT-toh	vialetto	NOUN	path	1	1e-06	1	1e-06	vialetto	NOUN	S	obl	Gender=Masc|Number=Sing	ad58c8b5-3ec6-5f35-a304-92e8ac07efef	ebdc4bf1-ebdf-5267-a800-63150f65ab5f	Mi condussero per il vialetto del giardino.	They led me up the garden path.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-zanna		zanna	NOUN		1	1e-06	1	1e-06	zanna	NOUN	S	root	Gender=Fem|Number=Sing	8f3dc513-3f8d-546f-9d69-7ddb5acf0fdf	a3d80b1d-30e1-506e-8679-32078a80a41d	Questa è una zanna di elefante.	This is an elephant's tusk.				
+zanna	ZAHN-nah	zanna	NOUN	tusk	1	1e-06	1	1e-06	zanna	NOUN	S	root	Gender=Fem|Number=Sing	8f3dc513-3f8d-546f-9d69-7ddb5acf0fdf	a3d80b1d-30e1-506e-8679-32078a80a41d	Questa è una zanna di elefante.	This is an elephant's tusk.				
