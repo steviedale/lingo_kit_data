@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-lineetta		lineetta	NOUN		1	1e-06	1	1e-06	lineetta	NOUN	S	obj	Gender=Fem|Number=Sing	a9577e54-93c4-5f1b-9c66-2d31927451fd	949b5ec4-1702-593d-b83b-1f38065ca1e0	Oggi ho qualche lineetta di di febbre.	I have a slight fever today.				
+lineetta	lee-NEHEHT-tah	lineetta	NOUN	dash	1	1e-06	1	1e-06	lineetta	NOUN	S	obj	Gender=Fem|Number=Sing	a9577e54-93c4-5f1b-9c66-2d31927451fd	949b5ec4-1702-593d-b83b-1f38065ca1e0	Oggi ho qualche lineetta di di febbre.	I have a slight fever today.				

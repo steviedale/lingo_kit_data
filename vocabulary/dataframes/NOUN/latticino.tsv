@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-latticini		latticino	NOUN		1	1e-06	1	1e-06	latticino	NOUN	S	obj	Gender=Masc|Number=Plur	256ad91b-a61e-5c9e-af6a-f98d5d9e3c2c	324100c1-cd92-50ea-90b5-c17ca6156fab	Odio davvero i latticini.	I really hate dairy products.				
+latticini	laht-tee-CHEE-nee	latticino	NOUN	dairy products	1	1e-06	1	1e-06	latticino	NOUN	S	obj	Gender=Masc|Number=Plur	256ad91b-a61e-5c9e-af6a-f98d5d9e3c2c	324100c1-cd92-50ea-90b5-c17ca6156fab	Odio davvero i latticini.	I really hate dairy products.				

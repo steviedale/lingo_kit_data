@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-lapis		lapis	NOUN		1	1e-06	1	1e-06	lapis	NOUN	S	obl	Gender=Masc	51dca4ee-3a89-553d-91d6-5eac2d5a53c3	48fd8bc3-1992-5ace-adae-3a2a0591533d	Ho ricevuto una lettera scritta a lapis.	I got a letter written with a pencil.				
+lapis	LAH-pees	lapis	NOUN	pencil	1	1e-06	1	1e-06	lapis	NOUN	S	obl	Gender=Masc	51dca4ee-3a89-553d-91d6-5eac2d5a53c3	48fd8bc3-1992-5ace-adae-3a2a0591533d	Ho ricevuto una lettera scritta a lapis.	I got a letter written with a pencil.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-lotto		lotto	NOUN		1	1e-06	1	1e-06	lotto	NOUN	S	nsubj	Gender=Masc|Number=Sing	56e9f740-6862-56a2-9f25-b0b39c1df835	8c034aab-3fee-5e64-8d4b-b4ac241b7161	Il lotto non è in vendita.	The lot is not for sale.				
+lotto	LOHT-toh	lotto	NOUN	lot; parcel	1	1e-06	1	1e-06	lotto	NOUN	S	nsubj	Gender=Masc|Number=Sing	56e9f740-6862-56a2-9f25-b0b39c1df835	8c034aab-3fee-5e64-8d4b-b4ac241b7161	Il lotto non è in vendita.	The lot is not for sale.				

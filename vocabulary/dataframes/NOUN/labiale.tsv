@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-labiale		labiale	NOUN		4	4e-06	4	4e-06	labiale	NOUN	S	nsubj	Gender=Masc|Number=Sing	6c47f08f-ee08-5037-9305-af9df3a17f6c	c6df5457-f394-5398-bff7-7eef8d7c4e7f	Io lessi il labiale.	I read lips.	Leggo il labiale.	I read lips.	Io leggo il labiale.	I read lips.
+labiale	lah-BYAH-leh	labiale	NOUN	lip reading	4	4e-06	4	4e-06	labiale	NOUN	S	nsubj	Gender=Masc|Number=Sing	6c47f08f-ee08-5037-9305-af9df3a17f6c	c6df5457-f394-5398-bff7-7eef8d7c4e7f	Io lessi il labiale.	I read lips.	Leggo il labiale.	I read lips.	Io leggo il labiale.	I read lips.

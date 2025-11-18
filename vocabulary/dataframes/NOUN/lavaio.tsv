@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-lavai		lavaio	NOUN		1	1e-06	1	1e-06	lavaio	NOUN	S	root	Gender=Fem|Number=Sing	a3e179af-fc6d-5a01-a0c8-c757cd75161f	c385ad51-a613-50fe-b134-4cbd6f421b5f	La lavai.	I washed it.				
+lavai	LAH-veye	lavaio	NOUN	I washed	1	1e-06	1	1e-06	lavaio	NOUN	S	root	Gender=Fem|Number=Sing	a3e179af-fc6d-5a01-a0c8-c757cd75161f	c385ad51-a613-50fe-b134-4cbd6f421b5f	La lavai.	I washed it.				

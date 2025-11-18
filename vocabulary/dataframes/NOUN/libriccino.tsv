@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-libriccino		libriccino	NOUN		1	1e-06	1	1e-06	libriccino	NOUN	S	root	Gender=Masc|Number=Sing	cb006de2-cc63-514f-bdd9-8e6e41ec2557	a9f42c80-e93f-54b1-b5dd-cd607f2bf84f	Questo è un libriccino.	This is a small book.				
+libriccino	lee-breek-CHEE-noh	libriccino	NOUN	little book	1	1e-06	1	1e-06	libriccino	NOUN	S	root	Gender=Masc|Number=Sing	cb006de2-cc63-514f-bdd9-8e6e41ec2557	a9f42c80-e93f-54b1-b5dd-cd607f2bf84f	Questo è un libriccino.	This is a small book.				

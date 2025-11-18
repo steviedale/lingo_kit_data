@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-limette		limetta	NOUN		1	1e-06	1	1e-06	limetta	NOUN	S	obj	Gender=Fem|Number=Plur	752e893f-5157-56b8-951f-2e4ff840e4d0	1b739bbc-f568-5b96-b9ba-676e21fce02b	Perché non riesco a tenere tutte queste limette?	Why can't I hold all these limes?				
+limette	lee-MEHT-teh	limetta	NOUN	limes	1	1e-06	1	1e-06	limetta	NOUN	S	obj	Gender=Fem|Number=Plur	752e893f-5157-56b8-951f-2e4ff840e4d0	1b739bbc-f568-5b96-b9ba-676e21fce02b	Perché non riesco a tenere tutte queste limette?	Why can't I hold all these limes?				

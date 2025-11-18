@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-loto		loto	NOUN		1	1e-06	1	1e-06	loto	NOUN	S	nmod	Gender=Masc|Number=Sing	0d94fee1-75dd-55f0-9859-bb7b69658787	a45dce72-0878-5daa-a280-a7518dc0973b	Ho imparato la posizione del loto al corso di yoga.	I learned the lotus position in yoga class.				
+loto	LOH-toh	loto	NOUN	lotus	1	1e-06	1	1e-06	loto	NOUN	S	nmod	Gender=Masc|Number=Sing	0d94fee1-75dd-55f0-9859-bb7b69658787	a45dce72-0878-5daa-a280-a7518dc0973b	Ho imparato la posizione del loto al corso di yoga.	I learned the lotus position in yoga class.				

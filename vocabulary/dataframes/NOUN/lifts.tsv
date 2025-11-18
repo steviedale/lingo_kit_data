@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-lifts		lifts	NOUN		1	1e-06	1	1e-06	lifts	NOUN	S	compound		f445845a-85d3-5b22-8ddb-d96473d5d895	000657d9-9d20-5a99-a839-627e4b8b94c8	Gli inglesi chiamano gli ascensori lifts.	English people call elevators lifts.				
+lifts	LEEFTS	lifts	NOUN	lifts (British elevators)	1	1e-06	1	1e-06	lifts	NOUN	S	compound		f445845a-85d3-5b22-8ddb-d96473d5d895	000657d9-9d20-5a99-a839-627e4b8b94c8	Gli inglesi chiamano gli ascensori lifts.	English people call elevators lifts.				
