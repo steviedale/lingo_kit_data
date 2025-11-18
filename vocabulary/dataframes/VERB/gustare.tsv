@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gustando		gustare	VERB		1	1e-06	1	1e-06	gustare	VERB	V	ccomp	VerbForm=Ger	5ff67ca8-6bf2-5847-a7c1-3b8c4269bab0	4b9a5ae7-504b-5a4b-97bd-3333d7c234c5	Sembra che Jane si stia gustando la festa.	Jane appears to be enjoying the party.				
+gustando	goo-STAHN-doh	gustare	VERB	tasting; enjoying	1	1e-06	1	1e-06	gustare	VERB	V	ccomp	VerbForm=Ger	5ff67ca8-6bf2-5847-a7c1-3b8c4269bab0	4b9a5ae7-504b-5a4b-97bd-3333d7c234c5	Sembra che Jane si stia gustando la festa.	Jane appears to be enjoying the party.				
