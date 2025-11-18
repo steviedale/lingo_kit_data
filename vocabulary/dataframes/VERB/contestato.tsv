@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-contestata		contestato	VERB		1	1e-06	1	1e-06	contestato	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2ab63a5c-ca93-5bf1-976a-09be1acb1446	97303b75-3ba4-5874-bd82-6436cc5ecff2	Una multa può essere contestata.	A fine may be issued.				
+contestata	kohn-teh-STAH-tah	contestato	VERB	contested (feminine)	1	1e-06	1	1e-06	contestato	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2ab63a5c-ca93-5bf1-976a-09be1acb1446	97303b75-3ba4-5874-bd82-6436cc5ecff2	Una multa può essere contestata.	A fine may be issued.				

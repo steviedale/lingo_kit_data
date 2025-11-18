@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cacarella		cacare	VERB		1	1e-06	1	1e-06	cacare+le	VERB+PRON	V	ccomp	VerbForm=Inf|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9728b2ac-66c5-5536-ab64-a6ce4345414d	e33f37e6-39a6-598a-a98f-6418173e72e3	Hai la cacarella?	Do you have diarrhea?				
+cacarella	kah-kah-REHL-lah	cacare	VERB	to have diarrhea	1	1e-06	1	1e-06	cacare+le	VERB+PRON	V	ccomp	VerbForm=Inf|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9728b2ac-66c5-5536-ab64-a6ce4345414d	e33f37e6-39a6-598a-a98f-6418173e72e3	Hai la cacarella?	Do you have diarrhea?				

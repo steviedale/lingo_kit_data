@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-consolati		consolato	VERB		1	1e-06	1	1e-06	consolato	VERB	V	root	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8c084f06-92a3-5938-9715-1081d0902dd7	782ff4c8-f2f3-5cdb-a731-2ceabfa7a9a8	Ci siamo consolati a vicenda.	We consoled each other.				
+consolati	kohn-soh-LAH-tee	consolato	VERB	consoled (masculine) (plural)	1	1e-06	1	1e-06	consolato	VERB	V	root	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8c084f06-92a3-5938-9715-1081d0902dd7	782ff4c8-f2f3-5cdb-a731-2ceabfa7a9a8	Ci siamo consolati a vicenda.	We consoled each other.				
