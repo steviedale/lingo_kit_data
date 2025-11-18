@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-rabbrividendo		rabbrividere	VERB		1	1e-06	1	1e-06	rabbrividere	VERB	V	root	VerbForm=Ger	845d91fd-1c8d-52de-8417-3a3c2497d6bd	503ce7be-fe0c-5302-8423-bdbbf7d0ca69	Tom stava rabbrividendo.	Tom was shivering.				
+rabbrividendo	rahb-bree-vee-DEHN-doh	rabbrividere	VERB	shivering	1	1e-06	1	1e-06	rabbrividere	VERB	V	root	VerbForm=Ger	845d91fd-1c8d-52de-8417-3a3c2497d6bd	503ce7be-fe0c-5302-8423-bdbbf7d0ca69	Tom stava rabbrividendo.	Tom was shivering.				
