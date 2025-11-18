@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-jet.		jet.	NOUN		1	1e-06	1	1e-06	jet.	NOUN	S	nmod	Gender=Masc|Number=Sing	b8b5a11d-5499-549b-9937-4212a27291d6	af5e23e6-0c85-523f-8c12-dfa5bc8ccf20	Suo figlio è un pilota di jet.	Her son is a jet pilot.				
+jet.	JEHT	jet.	NOUN	jet plane; jet	1	1e-06	1	1e-06	jet.	NOUN	S	nmod	Gender=Masc|Number=Sing	b8b5a11d-5499-549b-9937-4212a27291d6	af5e23e6-0c85-523f-8c12-dfa5bc8ccf20	Suo figlio è un pilota di jet.	Her son is a jet pilot.				
