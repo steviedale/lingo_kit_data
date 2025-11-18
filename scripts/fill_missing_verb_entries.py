@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import csv
 import dataclasses
+import json
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Dict, Iterable, List, Sequence, Tuple
@@ -87,6 +88,31 @@ IRREGULAR_FORMS: Dict[str, Dict[str, object]] = {
     "go": {"third": "goes", "past": "went", "participle": "gone", "gerund": "going"},
     "make": {"third": "makes", "past": "made", "participle": "made", "gerund": "making"},
     "spend": {"third": "spends", "past": "spent", "participle": "spent", "gerund": "spending"},
+    "bite": {"third": "bites", "past": "bit", "participle": "bitten", "gerund": "biting"},
+    "bring": {"third": "brings", "past": "brought", "participle": "brought", "gerund": "bringing"},
+    "buy": {"third": "buys", "past": "bought", "participle": "bought", "gerund": "buying"},
+    "catch": {"third": "catches", "past": "caught", "participle": "caught", "gerund": "catching"},
+    "come": {"third": "comes", "past": "came", "participle": "come", "gerund": "coming"},
+    "cut": {"third": "cuts", "past": "cut", "participle": "cut", "gerund": "cutting"},
+    "drive": {"third": "drives", "past": "drove", "participle": "driven", "gerund": "driving"},
+    "fall": {"third": "falls", "past": "fell", "participle": "fallen", "gerund": "falling"},
+    "get": {"third": "gets", "past": "got", "participle": "gotten", "gerund": "getting"},
+    "give": {"third": "gives", "past": "gave", "participle": "given", "gerund": "giving"},
+    "grow": {"third": "grows", "past": "grew", "participle": "grown", "gerund": "growing"},
+    "hang": {"third": "hangs", "past": "hung", "participle": "hung", "gerund": "hanging"},
+    "lay": {"third": "lays", "past": "laid", "participle": "laid", "gerund": "laying"},
+    "leave": {"third": "leaves", "past": "left", "participle": "left", "gerund": "leaving"},
+    "run": {"third": "runs", "past": "ran", "participle": "run", "gerund": "running"},
+    "say": {"third": "says", "past": "said", "participle": "said", "gerund": "saying"},
+    "set": {"third": "sets", "past": "set", "participle": "set", "gerund": "setting"},
+    "shake": {"third": "shakes", "past": "shook", "participle": "shaken", "gerund": "shaking"},
+    "stand": {"third": "stands", "past": "stood", "participle": "stood", "gerund": "standing"},
+    "stick": {"third": "sticks", "past": "stuck", "participle": "stuck", "gerund": "sticking"},
+    "take": {"third": "takes", "past": "took", "participle": "taken", "gerund": "taking"},
+    "teach": {"third": "teaches", "past": "taught", "participle": "taught", "gerund": "teaching"},
+    "tear": {"third": "tears", "past": "tore", "participle": "torn", "gerund": "tearing"},
+    "wear": {"third": "wears", "past": "wore", "participle": "worn", "gerund": "wearing"},
+    "write": {"third": "writes", "past": "wrote", "participle": "written", "gerund": "writing"},
 }
 
 PERSONAL_MAP = {
@@ -747,6 +773,21 @@ VERB_CONFIGS: Dict[str, VerbConfig] = {
     "volare": make_config(Sense("fly", past="flew", participle="flown", gerund="flying")),
     "votare": make_config("vote"),
 }
+
+
+def load_additional_configs() -> None:
+    data_path = Path(__file__).resolve().parent / "data" / "verb_configs_a.json"
+    if not data_path.exists():
+        return
+    with data_path.open() as handle:
+        additional: Dict[str, List[str]] = json.load(handle)
+    for lemma, senses in additional.items():
+        if lemma in VERB_CONFIGS:
+            continue
+        VERB_CONFIGS[lemma] = make_config(*senses)
+
+
+load_additional_configs()
 
 
 def main() -> None:

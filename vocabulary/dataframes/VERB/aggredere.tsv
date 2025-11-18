@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-aggredì		aggredere	VERB		1	1e-06	1	1e-06	aggredere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	46e23f67-f9c7-5a0a-91fd-43e7137e3712	2e8a6562-0d4a-5057-9f94-a9aea12882be	Il cane aggredì il ragazzino.	The dog attacked the little boy.				
+aggredì	ahg-jreh-DEE	aggredere	VERB	he/she/it attacked	1	1e-06	1	1e-06	aggredere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	46e23f67-f9c7-5a0a-91fd-43e7137e3712	2e8a6562-0d4a-5057-9f94-a9aea12882be	Il cane aggredì il ragazzino.	The dog attacked the little boy.				

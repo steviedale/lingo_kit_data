@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-animata		animato	VERB		1	1e-06	1	1e-06	animato	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	f8f1b6ee-cab2-5bfa-b03d-12b7f56357d8	23a46cf2-b67d-5dee-bbfd-e0e476c729ed	Tokyo è animata di vita.	Tokyo is bustling with life.				
+animata	ah-nee-MAH-tah	animato	VERB	animated (feminine)	1	1e-06	1	1e-06	animato	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	f8f1b6ee-cab2-5bfa-b03d-12b7f56357d8	23a46cf2-b67d-5dee-bbfd-e0e476c729ed	Tokyo è animata di vita.	Tokyo is bustling with life.				

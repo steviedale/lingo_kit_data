@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ammaccata		ammaccare	VERB		1	1e-06	1	1e-06	ammaccare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	94247e67-8f66-5e31-b0e6-9475e5cced73	baf21c6d-ea49-5a02-9523-84998eda99da	Quella mela è ammaccata.	That apple is bruised.				
+ammaccata	ahm-mahk-KAH-tah	ammaccare	VERB	bruised; dented (feminine)	1	1e-06	1	1e-06	ammaccare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	94247e67-8f66-5e31-b0e6-9475e5cced73	baf21c6d-ea49-5a02-9523-84998eda99da	Quella mela è ammaccata.	That apple is bruised.				
