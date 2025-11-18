@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-hobbit		hobbit	NOUN		1	1e-06	1	1e-06	hobbit	NOUN	S	nsubj	Gender=Masc	376dfdd4-1303-59f4-b7da-fcb78248b830	4d84a364-d448-5fec-afb2-d7a8b0b8d7a5	Otto hobbit formano un hobbyte.	Eight hobbits form one hobbyte.				
+hobbit	OB-bit	hobbit	NOUN	hobbit (fantasy creature)	1	1e-06	1	1e-06	hobbit	NOUN	S	nsubj	Gender=Masc	376dfdd4-1303-59f4-b7da-fcb78248b830	4d84a364-d448-5fec-afb2-d7a8b0b8d7a5	Otto hobbit formano un hobbyte.	Eight hobbits form one hobbyte.				

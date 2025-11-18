@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-humus		humus	NOUN		1	1e-06	1	1e-06	humus	NOUN	S	obl	Gender=Masc	68e98b69-4e22-5d33-ba29-ea0ee46f8fdb	63142ddb-3e66-5f35-b840-b13e0c81ed06	Quel terreno è ricco di humus.	That soil is rich in humus.				
+humus	OO-moos	humus	NOUN	humus	1	1e-06	1	1e-06	humus	NOUN	S	obl	Gender=Masc	68e98b69-4e22-5d33-ba29-ea0ee46f8fdb	63142ddb-3e66-5f35-b840-b13e0c81ed06	Quel terreno è ricco di humus.	That soil is rich in humus.				
