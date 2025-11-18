@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-kitsch		kitsch	NOUN		1	1e-06	1	1e-06	kitsch	NOUN	S	compound	Gender=Masc	3a7861ef-d1a7-5412-86e0-4c145cd6d36d	3a0340bd-3dfc-522e-98cf-8940e1077546	Che programma kitsch che è!	What a kitschy program this is!				
+kitsch	KEECH	kitsch	NOUN	kitsch	1	1e-06	1	1e-06	kitsch	NOUN	S	compound	Gender=Masc	3a7861ef-d1a7-5412-86e0-4c145cd6d36d	3a0340bd-3dfc-522e-98cf-8940e1077546	Che programma kitsch che è!	What a kitschy program this is!				
