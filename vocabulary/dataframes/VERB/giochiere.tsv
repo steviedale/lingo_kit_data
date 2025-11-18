@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-giocheresti		giochiere	VERB		1	1e-06	1	1e-06	giochiere	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	66239cd4-e621-5c51-b7f2-23a508cfc812	327bd779-7a96-5732-b35e-407a5b831a6b	Giocheresti con me?	Would you play with me?				
+giocheresti	jyoh-keh-REH-stee	giochiere	VERB	you would play	1	1e-06	1	1e-06	giochiere	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	66239cd4-e621-5c51-b7f2-23a508cfc812	327bd779-7a96-5732-b35e-407a5b831a6b	Giocheresti con me?	Would you play with me?				

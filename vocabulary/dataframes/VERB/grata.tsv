@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-grata		grata	VERB		1	1e-06	1	1e-06	grata	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12a41b80-68e1-593a-9167-079980b98059	9c6ca1ff-c464-5396-b859-142491d66bd7	Vi sono grata per la vostra gentilezza.	I'm thankful for your kindness.				
+grata	GRAH-tah	grata	VERB	grateful (feminine)	1	1e-06	1	1e-06	grata	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12a41b80-68e1-593a-9167-079980b98059	9c6ca1ff-c464-5396-b859-142491d66bd7	Vi sono grata per la vostra gentilezza.	I'm thankful for your kindness.				
