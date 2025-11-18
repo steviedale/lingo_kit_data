@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-macchia		macchia	VERB		1	1e-06	1	1e-06	macchia	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3a228335-e64e-5af4-8e08-f967a95ce607	3a176b60-a132-591b-a633-8396cf2d3e73	Questo tessuto si macchia facilmente.	This fabric stains easily.				
+macchia	MAHK-kyah	macchia	VERB	he/she/it gets stained	1	1e-06	1	1e-06	macchia	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3a228335-e64e-5af4-8e08-f967a95ce607	3a176b60-a132-591b-a633-8396cf2d3e73	Questo tessuto si macchia facilmente.	This fabric stains easily.				
