@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-evviva		evvivare	VERB		1	1e-06	1	1e-06	evvivare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	e809e9df-f113-5d78-afa2-fd46ca4b65eb	f8c6fb82-4344-5e1b-aad4-1301168b0e25	Evviva le donne italiane!	Hurray for Italian women!				
+evviva	eh-VEE-vah	evvivare	VERB	hooray!	1	1e-06	1	1e-06	evvivare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	e809e9df-f113-5d78-afa2-fd46ca4b65eb	f8c6fb82-4344-5e1b-aad4-1301168b0e25	Evviva le donne italiane!	Hurray for Italian women!				

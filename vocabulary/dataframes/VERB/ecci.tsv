@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-eccì		ecci	VERB		1	1e-06	1	1e-06	ecci	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0c478bfc-cb07-5ca9-89e9-c28428c5ee02	9e784989-26d9-591c-a817-b3ae539c6e7d	Eccì!	Achoo!				
+eccì	eh-CHEE	ecci	VERB	achoo!	1	1e-06	1	1e-06	ecci	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0c478bfc-cb07-5ca9-89e9-c28428c5ee02	9e784989-26d9-591c-a817-b3ae539c6e7d	Eccì!	Achoo!				
