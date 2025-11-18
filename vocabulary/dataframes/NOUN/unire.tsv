@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-unirti		unire	NOUN		1	1e-06	1	1e-06	unire	NOUN	S	root	Gender=Masc|Number=Sing	d81b2905-2611-59f6-aeef-fb5cd25e4e62	e573bf50-0e05-5180-991b-d70f4ba4e7e4	Tutto quello che devi fare è unirti a noi.	All you have to do is to join us.				
+unirti	oo-NEER-tee	unire	NOUN	join us	1	1e-06	1	1e-06	unire	NOUN	S	root	Gender=Masc|Number=Sing	d81b2905-2611-59f6-aeef-fb5cd25e4e62	e573bf50-0e05-5180-991b-d70f4ba4e7e4	Tutto quello che devi fare è unirti a noi.	All you have to do is to join us.				

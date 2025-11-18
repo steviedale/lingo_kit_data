@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-zither		zither	NOUN		1	1e-06	1	1e-06	zither	NOUN	S	nsubj	Gender=Masc	3f980c87-28aa-5ccf-9cb2-ce78e6c68a54	5e855571-ef15-5304-b8fe-59128c10a34b	Lo zither è uno strumento difficile da imparare?	Is the zither a hard instrument to learn?				
+zither	ZIH-thair	zither	NOUN	zither	1	1e-06	1	1e-06	zither	NOUN	S	nsubj	Gender=Masc	3f980c87-28aa-5ccf-9cb2-ce78e6c68a54	5e855571-ef15-5304-b8fe-59128c10a34b	Lo zither è uno strumento difficile da imparare?	Is the zither a hard instrument to learn?				

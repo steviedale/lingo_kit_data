@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-umanoide		umanoide	NOUN		1	1e-06	1	1e-06	umanoide	NOUN	S	nmod	Gender=Masc|Number=Sing	0ed8abd6-71dc-5b14-880d-368c1eb27b3b	e0966d54-f8f1-51de-8791-219143c1504d	Questo è un esempio di umanoide.	This is an example of humanoid.				
+umanoide	oo-mah-NOY-deh	umanoide	NOUN	humanoid	1	1e-06	1	1e-06	umanoide	NOUN	S	nmod	Gender=Masc|Number=Sing	0ed8abd6-71dc-5b14-880d-368c1eb27b3b	e0966d54-f8f1-51de-8791-219143c1504d	Questo è un esempio di umanoide.	This is an example of humanoid.				

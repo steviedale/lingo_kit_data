@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-vuoto		vuoto	NOUN		1	1e-06	1	1e-06	vuoto	NOUN	S	nmod	Gender=Masc|Number=Sing	8076b299-ce74-5eee-b9b4-ee93cf33d5d0	51e3482a-9b6f-5bbb-8bc3-fb485a9e13af	Attenzione al vuoto.	Mind the gap.				
+vuoto	VWAW-toh	vuoto	NOUN	void	1	1e-06	1	1e-06	vuoto	NOUN	S	nmod	Gender=Masc|Number=Sing	8076b299-ce74-5eee-b9b4-ee93cf33d5d0	51e3482a-9b6f-5bbb-8bc3-fb485a9e13af	Attenzione al vuoto.	Mind the gap.				

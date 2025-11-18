@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-urgenza		urgenza	NOUN		1	1e-06	1	1e-06	urgenza	NOUN	S	nsubj	Gender=Fem|Number=Sing	14b7c2ef-ba2d-5eb6-b0c1-8ca054952652	7c869d24-b1d1-5c3a-9a1c-8160b42de894	Non c'è alcuna urgenza.	There's no urgency.				
+urgenza	oor-JEN-zah	urgenza	NOUN	urgency	1	1e-06	1	1e-06	urgenza	NOUN	S	nsubj	Gender=Fem|Number=Sing	14b7c2ef-ba2d-5eb6-b0c1-8ca054952652	7c869d24-b1d1-5c3a-9a1c-8160b42de894	Non c'è alcuna urgenza.	There's no urgency.				

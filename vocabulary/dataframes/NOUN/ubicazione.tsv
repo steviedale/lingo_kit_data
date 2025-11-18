@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ubicazione		ubicazione	NOUN		1	1e-06	1	1e-06	ubicazione	NOUN	S	nsubj:pass	Gender=Fem|Number=Sing	6e42ac8a-f36f-561f-a2ee-3c1eeab66ad8	05624398-cc83-58bc-b36c-06ddbd53f245	L'ubicazione è cambiata.	The location has changed.				
+ubicazione	oo-bee-kah-TSYOH-neh	ubicazione	NOUN	location	1	1e-06	1	1e-06	ubicazione	NOUN	S	nsubj:pass	Gender=Fem|Number=Sing	6e42ac8a-f36f-561f-a2ee-3c1eeab66ad8	05624398-cc83-58bc-b36c-06ddbd53f245	L'ubicazione è cambiata.	The location has changed.				

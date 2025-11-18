@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-zigomi		zigomio	NOUN		1	1e-06	1	1e-06	zigomio	NOUN	S	obl	Gender=Masc|Number=Plur	deeabfb3-c096-5733-b05b-beecce74ea05	9a44a86f-4dd7-57c5-8a85-9fdf4e4bfd0b	Irina ha un viso delicato con zigomi alti.	Irina has a delicate face with high cheekbones.				
+zigomi	dzee-GOH-mee	zigomio	NOUN	cheekbones	1	1e-06	1	1e-06	zigomio	NOUN	S	obl	Gender=Masc|Number=Plur	deeabfb3-c096-5733-b05b-beecce74ea05	9a44a86f-4dd7-57c5-8a85-9fdf4e4bfd0b	Irina ha un viso delicato con zigomi alti.	Irina has a delicate face with high cheekbones.				

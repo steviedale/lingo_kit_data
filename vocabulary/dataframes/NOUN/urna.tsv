@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-urna		urna	NOUN		1	1e-06	1	1e-06	urna	NOUN	S	root	Gender=Fem|Number=Sing	d8946f76-5242-586e-8c89-35d62ae4dcd4	7fd89182-dc8f-58cd-b581-bd7336d2846c	Le ceneri della nonna sono in un'urna nel tempio.	Grandmother's ashes are in an urn at the temple.				
+urna	OOR-nah	urna	NOUN	urn	1	1e-06	1	1e-06	urna	NOUN	S	root	Gender=Fem|Number=Sing	d8946f76-5242-586e-8c89-35d62ae4dcd4	7fd89182-dc8f-58cd-b581-bd7336d2846c	Le ceneri della nonna sono in un'urna nel tempio.	Grandmother's ashes are in an urn at the temple.				

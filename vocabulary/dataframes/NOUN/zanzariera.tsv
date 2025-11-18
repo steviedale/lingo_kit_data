@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-zanzariera		zanzariera	NOUN		1	1e-06	1	1e-06	zanzariera	NOUN	S	obj	Gender=Fem|Number=Sing	308b86ab-b92d-5e1a-81a7-639db33c5a6f	785221d6-20c4-5c5d-ab1c-f59795fb9896	Solleva la zanzariera.	Lift the mosquito net.				
+zanzariera	zahn-zah-ryeh-RAH	zanzariera	NOUN	mosquito net	1	1e-06	1	1e-06	zanzariera	NOUN	S	obj	Gender=Fem|Number=Sing	308b86ab-b92d-5e1a-81a7-639db33c5a6f	785221d6-20c4-5c5d-ab1c-f59795fb9896	Solleva la zanzariera.	Lift the mosquito net.				

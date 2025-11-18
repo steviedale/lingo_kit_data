@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-valsi		valso	NOUN		1	1e-06	1	1e-06	valso	NOUN	S	nsubj	Gender=Masc|Number=Plur	aef3537d-bbde-5034-9f49-636b00461bb7	25a07458-f808-54a9-b63d-327c21a8a457	Dannazione, valsi non è qui.	Damn, Valsi isn't here.				
+valsi	VAHL-see	valso	NOUN	Valsi	1	1e-06	1	1e-06	valso	NOUN	S	nsubj	Gender=Masc|Number=Plur	aef3537d-bbde-5034-9f49-636b00461bb7	25a07458-f808-54a9-b63d-327c21a8a457	Dannazione, valsi non è qui.	Damn, Valsi isn't here.				
