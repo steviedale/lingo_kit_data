@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pettinato		pettinato	VERB		1	1e-06	1	1e-06	pettinato	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	08311b58-ebc2-5c58-b4d3-3dfa8cf5d3b5	fa7668bc-0cdb-5b6e-a0f0-7f33a6583c26	Tom si è pettinato i capelli.	Tom combed his hair.				
+pettinato	peht-tee-NAH-toh	pettinato	VERB	combed (masculine)	1	1e-06	1	1e-06	pettinato	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	08311b58-ebc2-5c58-b4d3-3dfa8cf5d3b5	fa7668bc-0cdb-5b6e-a0f0-7f33a6583c26	Tom si è pettinato i capelli.	Tom combed his hair.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-procastinare		procastinare	VERB		1	1e-06	1	1e-06	procastinare	VERB	V	acl	VerbForm=Inf	fa684d4c-97dc-53c0-89ad-a1d7fd98a69e	f7db7824-5e78-5247-9d7f-cc8bf9fc6990	Tatoeba è un grande modo per procastinare.	Tatoeba is a great way to procrastinate.				
+procastinare	proh-kah-stee-NAH-reh	procastinare	VERB	to procrastinate	1	1e-06	1	1e-06	procastinare	VERB	V	acl	VerbForm=Inf	fa684d4c-97dc-53c0-89ad-a1d7fd98a69e	f7db7824-5e78-5247-9d7f-cc8bf9fc6990	Tatoeba è un grande modo per procastinare.	Tatoeba is a great way to procrastinate.				
