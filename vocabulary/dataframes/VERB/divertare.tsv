@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-diverti		divertare	VERB		1	1e-06	1	1e-06	divertare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	f94f10d8-77c6-5109-a181-073b5dcd274e	a1463794-a7c0-58b4-8fd7-de5184ee81d9	Mi diverti.	You amuse me.				
+diverti	dee-VEHR-tee	divertare	VERB	he/she/it amuses you	1	1e-06	1	1e-06	divertare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	f94f10d8-77c6-5109-a181-073b5dcd274e	a1463794-a7c0-58b4-8fd7-de5184ee81d9	Mi diverti.	You amuse me.				

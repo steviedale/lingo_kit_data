@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-disperso		disperdere	VERB		1	1e-06	1	1e-06	disperdere	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	ee74b4cd-ce4e-538d-b8c1-f528688bb4a6	90fb3225-4dfb-507a-b74d-a0ef86c7373a	La polizia ha disperso la folla.	The police broke up the crowd.				
+disperso	dee-SPEHR-soh	disperdere	VERB	dispersed	1	1e-06	1	1e-06	disperdere	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	ee74b4cd-ce4e-538d-b8c1-f528688bb4a6	90fb3225-4dfb-507a-b74d-a0ef86c7373a	La polizia ha disperso la folla.	The police broke up the crowd.				
