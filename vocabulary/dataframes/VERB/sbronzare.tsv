@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sbronzo		sbronzare	VERB		1	1e-06	1	1e-06	sbronzare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aecf900f-36ba-5079-8bc5-7824947ad070	b7fc4b72-5e1f-5eaf-a732-4604b5675083	Questa sera mi sbronzo!	Tonight I'm getting drunk!				
+sbronzo	SBROHN-tsoh	sbronzare	VERB	I get drunk; I get wasted	1	1e-06	1	1e-06	sbronzare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aecf900f-36ba-5079-8bc5-7824947ad070	b7fc4b72-5e1f-5eaf-a732-4604b5675083	Questa sera mi sbronzo!	Tonight I'm getting drunk!				

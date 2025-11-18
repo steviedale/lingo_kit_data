@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-smistando		smistare	VERB		1	1e-06	1	1e-06	smistare	VERB	V	advcl	VerbForm=Ger	8ff1c324-286b-56ec-b385-21957d3207e3	ff1282c7-6952-5cd9-9d0d-03c878c23c6a	Ho trascorso diversi giorni smistando le sue carte.	I spent several days sorting through her papers.				
+smistando	smee-STAHN-doh	smistare	VERB	sorting	1	1e-06	1	1e-06	smistare	VERB	V	advcl	VerbForm=Ger	8ff1c324-286b-56ec-b385-21957d3207e3	ff1282c7-6952-5cd9-9d0d-03c878c23c6a	Ho trascorso diversi giorni smistando le sue carte.	I spent several days sorting through her papers.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sigillata		sigillare	VERB		1	1e-06	1	1e-06	sigillare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	a61a9fa2-296c-5c82-b1a9-85e8559118d6	e25d0651-0c86-5ebb-becd-cc207ac64152	La scatola è ben sigillata.	The box is well sealed.				
+sigillata	see-jeel-LAH-tah	sigillare	VERB	sealed (feminine)	1	1e-06	1	1e-06	sigillare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	a61a9fa2-296c-5c82-b1a9-85e8559118d6	e25d0651-0c86-5ebb-becd-cc207ac64152	La scatola è ben sigillata.	The box is well sealed.				
