@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fermami		fermamere	VERB		1	1e-06	1	1e-06	fermamere	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	45a3dfe4-ba42-5f2e-8fc8-1dd93d1bd2cd	34748d96-153b-5fb0-a942-9ec9f7a6abc8	Fermami se riesci.	Stop me if you can.				
+fermami	FAIR-mah-mee	fermamere	VERB	stop me	1	1e-06	1	1e-06	fermamere	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	45a3dfe4-ba42-5f2e-8fc8-1dd93d1bd2cd	34748d96-153b-5fb0-a942-9ec9f7a6abc8	Fermami se riesci.	Stop me if you can.				

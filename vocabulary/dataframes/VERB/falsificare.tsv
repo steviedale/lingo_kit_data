@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-falsificata		falsificare	VERB		1	1e-06	1	1e-06	falsificare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	a25c64e7-bd0b-5ee1-9ab3-6244c17c83e0	1f98c9f1-9a49-54fe-ac6a-270db0edd189	La sua carta d'identità era falsificata.	His ID was fake.				
+falsificata	fahl-see-fee-KAH-tah	falsificare	VERB	forged (feminine)	1	1e-06	1	1e-06	falsificare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	a25c64e7-bd0b-5ee1-9ab3-6244c17c83e0	1f98c9f1-9a49-54fe-ac6a-270db0edd189	La sua carta d'identità era falsificata.	His ID was fake.				

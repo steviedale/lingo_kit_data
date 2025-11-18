@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fissatemi		fissatemere	VERB		1	1e-06	1	1e-06	fissatemere	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2581d10f-9262-574c-b690-e3415c89b0f4	07c87f14-b545-51d3-8b20-d62e7c00c0ae	Non fissatemi così.	Don't stare at me like that.				
+fissatemi	fee-SAH-teh-mee	fissatemere	VERB	don't stare at me	1	1e-06	1	1e-06	fissatemere	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2581d10f-9262-574c-b690-e3415c89b0f4	07c87f14-b545-51d3-8b20-d62e7c00c0ae	Non fissatemi così.	Don't stare at me like that.				

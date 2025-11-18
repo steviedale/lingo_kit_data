@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-friggimi		friggimare	VERB		1	1e-06	1	1e-06	friggimare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2256c808-b3a8-53e4-9071-b32c649af9b3	09a4ea3f-7ec8-5d6f-8990-ebe8174f10b2	Friggimi un uovo.	Fry an egg for me.				
+friggimi	FREE-jee-mee	friggimare	VERB	fry me an egg	1	1e-06	1	1e-06	friggimare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2256c808-b3a8-53e4-9071-b32c649af9b3	09a4ea3f-7ec8-5d6f-8990-ebe8174f10b2	Friggimi un uovo.	Fry an egg for me.				
