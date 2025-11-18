@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-quaderni		quadere	VERB		1	1e-06	1	1e-06	quadere+ni	VERB+PRON	V	conj	VerbForm=Inf|Clitic=Yes|PronType=Prs	a68c44e5-497a-5a43-9879-f8134ebe382d	7978fe10-eed4-5d4d-8d93-61ed7ee2629b	Mettete via i vostri libri e quaderni.	Put away your books and notebooks.				
+quaderni	kwah-DER-nee	quadere	VERB	notebooks	1	1e-06	1	1e-06	quadere+ni	VERB+PRON	V	conj	VerbForm=Inf|Clitic=Yes|PronType=Prs	a68c44e5-497a-5a43-9879-f8134ebe382d	7978fe10-eed4-5d4d-8d93-61ed7ee2629b	Mettete via i vostri libri e quaderni.	Put away your books and notebooks.				
