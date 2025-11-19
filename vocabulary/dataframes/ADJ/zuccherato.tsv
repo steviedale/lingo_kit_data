@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-zuccherata		zuccherato	ADJ		1	1e-06	1	1e-06	zuccherato	ADJ	A	root	Gender=Fem|Number=Sing	66575a2b-7681-5f2e-8757-25cc2786b395	64f838b4-93e3-5149-aaf0-20be41604be1	Questa torta è zuccherata.	This cake is sweet.				
+zuccherata	TSOOK-keh-RAH-tah	zuccherato	ADJ	sugary; sweetened (feminine)	1	1e-06	1	1e-06	zuccherato	ADJ	A	root	Gender=Fem|Number=Sing	66575a2b-7681-5f2e-8757-25cc2786b395	64f838b4-93e3-5149-aaf0-20be41604be1	Questa torta è zuccherata.	This cake is sweet.				
