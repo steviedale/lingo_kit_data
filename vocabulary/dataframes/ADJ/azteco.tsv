@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-azteca		azteco	ADJ		1	1e-06	1	1e-06	azteco	ADJ	A	amod	Gender=Fem|Number=Sing	abf94d17-7405-5a95-b553-b95d4fedc9ad	4ba5a160-a50e-5586-a2d1-deada4457253	Mary ammira i capolavori della cultura azteca.	Mary admires the masterpieces of Aztec culture.				
+azteca	ahts-TEH-kah	azteco	ADJ	Aztec	1	1e-06	1	1e-06	azteco	ADJ	A	amod	Gender=Fem|Number=Sing	abf94d17-7405-5a95-b553-b95d4fedc9ad	4ba5a160-a50e-5586-a2d1-deada4457253	Mary ammira i capolavori della cultura azteca.	Mary admires the masterpieces of Aztec culture.				

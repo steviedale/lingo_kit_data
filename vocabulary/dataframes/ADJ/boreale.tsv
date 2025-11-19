@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-boreale		boreale	ADJ		1	1e-06	1	1e-06	boreale	ADJ	A	amod	Number=Sing	8ae66407-c05d-59ed-bb59-fd664bd96fe3	5f3a5613-a2d3-578d-bace-621b911c8fe3	Il Giappone è situato nell'emisfero boreale.	Japan is located in the Northern Hemisphere.				
+boreale	boh-REHAH-leh	boreale	ADJ	northern; boreal	1	1e-06	1	1e-06	boreale	ADJ	A	amod	Number=Sing	8ae66407-c05d-59ed-bb59-fd664bd96fe3	5f3a5613-a2d3-578d-bace-621b911c8fe3	Il Giappone è situato nell'emisfero boreale.	Japan is located in the Northern Hemisphere.				

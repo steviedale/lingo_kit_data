@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-bollito		bollito	ADJ		1	1e-06	1	1e-06	bollito	ADJ	A	amod	Gender=Masc|Number=Sing	2db98ebf-0785-54da-a9c2-f45e4818fe07	3139eb61-0c70-5ab0-81e0-025f6dde4738	Voglio un uovo bollito.	I want a boiled egg.				
+bollito	bohl-LEE-toh	bollito	ADJ	boiled	1	1e-06	1	1e-06	bollito	ADJ	A	amod	Gender=Masc|Number=Sing	2db98ebf-0785-54da-a9c2-f45e4818fe07	3139eb61-0c70-5ab0-81e0-025f6dde4738	Voglio un uovo bollito.	I want a boiled egg.				

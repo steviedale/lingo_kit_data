@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cartacea		cartaceo	ADJ		1	1e-06	1	1e-06	cartaceo	ADJ	A	amod	Gender=Fem|Number=Sing	95e2a815-c508-50bf-a332-c79e4dde8967	060a61b6-1dba-5b21-8978-b0bfabcfb1d3	Ti porto anche la roba cartacea.	I'll take you also the printed stuff.				
+cartacea	kahr-TAH-chehah	cartaceo	ADJ	paper; on-paper	1	1e-06	1	1e-06	cartaceo	ADJ	A	amod	Gender=Fem|Number=Sing	95e2a815-c508-50bf-a332-c79e4dde8967	060a61b6-1dba-5b21-8978-b0bfabcfb1d3	Ti porto anche la roba cartacea.	I'll take you also the printed stuff.				

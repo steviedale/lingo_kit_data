@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-belloccio		belloccio	ADJ		1	1e-06	1	1e-06	belloccio	ADJ	A	root	Gender=Masc|Number=Sing	6ee55d1f-08b9-59ff-a408-1aedd1681c77	c63d69a2-dcb1-579b-a717-c016e2360e4c	Tom è belloccio.	Tom is kind of handsome.				
+belloccio	behl-LOHK-chyoh	belloccio	ADJ	good-looking; cute	1	1e-06	1	1e-06	belloccio	ADJ	A	root	Gender=Masc|Number=Sing	6ee55d1f-08b9-59ff-a408-1aedd1681c77	c63d69a2-dcb1-579b-a717-c016e2360e4c	Tom è belloccio.	Tom is kind of handsome.				
