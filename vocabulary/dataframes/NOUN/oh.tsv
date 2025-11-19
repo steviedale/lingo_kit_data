@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-oh		oh	NOUN		1	1e-06	1	1e-06	oh	NOUN	S	nmod	Gender=Masc	9c413f6c-3eb8-51d7-b44e-dc7e078ce084	07cba04b-0bfe-508d-91d1-a3b0553c9e29	L'utilizzo di oh in inglese è abbastanza complesso.	The use of oh in English is quite complex.				
+oh	oh	oh	NOUN	oh	1	1e-06	1	1e-06	oh	NOUN	S	nmod	Gender=Masc	9c413f6c-3eb8-51d7-b44e-dc7e078ce084	07cba04b-0bfe-508d-91d1-a3b0553c9e29	L'utilizzo di oh in inglese è abbastanza complesso.	The use of oh in English is quite complex.				

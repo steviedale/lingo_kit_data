@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ovulo		ovulo	NOUN		1	1e-06	1	1e-06	ovulo	NOUN	S	nsubj	Gender=Masc|Number=Sing	e185fbaf-5a51-550e-acb0-c69f6dbb796b	76c8f3af-4360-5b4d-936c-9328907c065c	L'ovulo umano è visibile a malapena a occhio nudo.	Human ovum is barely visible to the naked eye.				
+ovulo	OH-voo-loh	ovulo	NOUN	ovum; egg cell	1	1e-06	1	1e-06	ovulo	NOUN	S	nsubj	Gender=Masc|Number=Sing	e185fbaf-5a51-550e-acb0-c69f6dbb796b	76c8f3af-4360-5b4d-936c-9328907c065c	L'ovulo umano è visibile a malapena a occhio nudo.	Human ovum is barely visible to the naked eye.				

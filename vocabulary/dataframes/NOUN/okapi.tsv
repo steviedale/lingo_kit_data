@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-okapi		okapi	NOUN		1	1e-06	1	1e-06	okapi	NOUN	S	obj	Gender=Masc	fb70f213-b6f4-558e-b36b-4076740de5ca	dbab3777-e467-5e1e-962b-a0f3a5a954ea	Questo zoo possiede due okapi.	This zoo owns two okapis.				
+okapi	OH-kah-pee	okapi	NOUN	okapi	1	1e-06	1	1e-06	okapi	NOUN	S	obj	Gender=Masc	fb70f213-b6f4-558e-b36b-4076740de5ca	dbab3777-e467-5e1e-962b-a0f3a5a954ea	Questo zoo possiede due okapi.	This zoo owns two okapis.				

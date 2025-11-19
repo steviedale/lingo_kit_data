@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-oppio		oppio	NOUN		1	1e-06	1	1e-06	oppio	NOUN	S	root	Gender=Masc|Number=Sing	55a680f7-1ef0-5996-952b-c6c5e6b9be8d	512d8ab6-0cbe-51ad-a107-16047fb5923d	La religione è l'oppio dei popoli.	Religion is the opium of the people.				
+oppio	OPP-yoh	oppio	NOUN	opium	1	1e-06	1	1e-06	oppio	NOUN	S	root	Gender=Masc|Number=Sing	55a680f7-1ef0-5996-952b-c6c5e6b9be8d	512d8ab6-0cbe-51ad-a107-16047fb5923d	La religione è l'oppio dei popoli.	Religion is the opium of the people.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ombrellata		ombrellata	NOUN		1	1e-06	1	1e-06	ombrellata	NOUN	S	obj	Gender=Fem|Number=Sing	36d3cd7e-5bc9-566d-b3d5-d06432abf2b1	0928bf53-c1f9-5fa5-8071-32065a3855fb	Non darmi un'ombrellata!	Don't hit me with the umbrella!				
+ombrellata	ohm-brehl-LAH-tah	ombrellata	NOUN	umbrella blow	1	1e-06	1	1e-06	ombrellata	NOUN	S	obj	Gender=Fem|Number=Sing	36d3cd7e-5bc9-566d-b3d5-d06432abf2b1	0928bf53-c1f9-5fa5-8071-32065a3855fb	Non darmi un'ombrellata!	Don't hit me with the umbrella!				

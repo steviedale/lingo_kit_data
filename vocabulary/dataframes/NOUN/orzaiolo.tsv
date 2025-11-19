@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-orzaiolo		orzaiolo	NOUN		1	1e-06	1	1e-06	orzaiolo	NOUN	S	obj	Gender=Masc|Number=Sing	999ac53d-fe51-51d2-87f6-af48f51bc0a0	2c8fbb73-6d92-5924-b65b-2674812f15e3	Un paio di occhiali da sole potrebbe nascondere un orzaiolo.	A pair of sunglasses could hide a stye.				
+orzaiolo	or-dzah-YOH-loh	orzaiolo	NOUN	stye	1	1e-06	1	1e-06	orzaiolo	NOUN	S	obj	Gender=Masc|Number=Sing	999ac53d-fe51-51d2-87f6-af48f51bc0a0	2c8fbb73-6d92-5924-b65b-2674812f15e3	Un paio di occhiali da sole potrebbe nascondere un orzaiolo.	A pair of sunglasses could hide a stye.				

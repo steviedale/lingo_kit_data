@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-orgia		orgia	NOUN		1	1e-06	1	1e-06	orgia	NOUN	S	root	Gender=Fem|Number=Sing	681f83f6-16e3-549d-879c-9ebf2345b426	e7d7de26-bc23-5605-9ea2-768446a5484a	Il giardino era un'orgia di colori.	The garden was a riot of color.				
+orgia	OR-jah	orgia	NOUN	orgy	1	1e-06	1	1e-06	orgia	NOUN	S	root	Gender=Fem|Number=Sing	681f83f6-16e3-549d-879c-9ebf2345b426	e7d7de26-bc23-5605-9ea2-768446a5484a	Il giardino era un'orgia di colori.	The garden was a riot of color.				
