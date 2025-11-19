@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-omofobia		omofobia	NOUN		1	1e-06	1	1e-06	omofobia	NOUN	S	nmod	Gender=Fem|Number=Sing	b3d38c3b-6020-572d-ba7f-b6b6b5748ef5	fb9d0240-fc6c-514f-9076-187423ab5c39	Oggi è la giornata mondiale contro l'omofobia.	Today is International Day Against Homophobia.				
+omofobia	oh-moh-FOH-byah	omofobia	NOUN	homophobia	1	1e-06	1	1e-06	omofobia	NOUN	S	nmod	Gender=Fem|Number=Sing	b3d38c3b-6020-572d-ba7f-b6b6b5748ef5	fb9d0240-fc6c-514f-9076-187423ab5c39	Oggi è la giornata mondiale contro l'omofobia.	Today is International Day Against Homophobia.				

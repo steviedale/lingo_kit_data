@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-orali		orale	NOUN		1	1e-06	1	1e-06	orale	NOUN	S	nmod	Gender=Masc|Number=Plur	dc129671-1b3d-5e3f-aebc-e0af7d316f98	1fa18959-8063-5958-8e25-ba240752eabf	Nel primo trimestre faremo due giri di orali.	During the first quarter we'll make two rounds of orals.				
+orali	oh-RAH-lee	orale	NOUN	oral exams	1	1e-06	1	1e-06	orale	NOUN	S	nmod	Gender=Masc|Number=Plur	dc129671-1b3d-5e3f-aebc-e0af7d316f98	1fa18959-8063-5958-8e25-ba240752eabf	Nel primo trimestre faremo due giri di orali.	During the first quarter we'll make two rounds of orals.				

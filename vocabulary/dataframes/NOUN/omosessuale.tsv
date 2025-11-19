@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-omosessuale		omosessuale	NOUN		1	1e-06	1	1e-06	omosessuale	NOUN	S	root	Number=Sing	99d5c89a-8749-5aa4-b061-c152d8cd3145	d7576b13-376a-5b06-8afd-710355b33727	Tom è un omosessuale latente.	Tom is a closet case.				
+omosessuale	oh-moh-ses-SWAH-leh	omosessuale	NOUN	homosexual	1	1e-06	1	1e-06	omosessuale	NOUN	S	root	Number=Sing	99d5c89a-8749-5aa4-b061-c152d8cd3145	d7576b13-376a-5b06-8afd-710355b33727	Tom è un omosessuale latente.	Tom is a closet case.				

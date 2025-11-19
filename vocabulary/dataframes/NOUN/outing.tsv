@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-outing		outing	NOUN		2	2e-06	2	2e-06	outing	NOUN	S	obj	Gender=Masc	07399645-cd97-5a88-9919-9cbf30fa17a6	63c48f04-961c-5625-9c86-201430795bf3	Laura ha deciso di fare outing.	Laura decided to come out.	Laura decise di fare outing.	Laura decided to come out.		
+outing	OW-ting	outing	NOUN	coming out	2	2e-06	2	2e-06	outing	NOUN	S	obj	Gender=Masc	07399645-cd97-5a88-9919-9cbf30fa17a6	63c48f04-961c-5625-9c86-201430795bf3	Laura ha deciso di fare outing.	Laura decided to come out.	Laura decise di fare outing.	Laura decided to come out.		
