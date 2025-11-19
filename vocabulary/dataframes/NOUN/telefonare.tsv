@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-telefonai		telefonare	NOUN		1	1e-06	1	1e-06	telefonare	NOUN	S	root	Gender=Masc|Number=Plur	5e7a44a8-1603-5d99-9740-0d9186b8574b	46cbd570-6a54-5fee-9293-95cb98620e47	Gli telefonai.	I called him up.				
+telefonai	teh-leh-FOH-neye	telefonare	NOUN	I phoned	1	1e-06	1	1e-06	telefonare	NOUN	S	root	Gender=Masc|Number=Plur	5e7a44a8-1603-5d99-9740-0d9186b8574b	46cbd570-6a54-5fee-9293-95cb98620e47	Gli telefonai.	I called him up.				

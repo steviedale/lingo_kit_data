@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tuttologo		tuttologo	NOUN		2	2e-06	2	2e-06	tuttologo	NOUN	S	root	Gender=Masc|Number=Sing	e0ca1905-0413-5f53-ad34-f895a5ffe721	62988db4-b9a8-5871-b552-983cb98d3279	Lui è solo un tuttologo.	He's just a know-all.	È solo un tuttologo.	He's just a know-all.		
+tuttologo	toot-toh-LOH-goh	tuttologo	NOUN	know-it-all	2	2e-06	2	2e-06	tuttologo	NOUN	S	root	Gender=Masc|Number=Sing	e0ca1905-0413-5f53-ad34-f895a5ffe721	62988db4-b9a8-5871-b552-983cb98d3279	Lui è solo un tuttologo.	He's just a know-all.	È solo un tuttologo.	He's just a know-all.		

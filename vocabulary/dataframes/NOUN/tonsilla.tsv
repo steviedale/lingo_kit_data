@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tonsille		tonsilla	NOUN		1	1e-06	1	1e-06	tonsilla	NOUN	S	nsubj	Gender=Fem|Number=Plur	fc695cb0-d188-5dfa-8c6a-e697ba72b3cf	5343170e-3cbd-5ed7-95b9-37fdb1bdbecf	Ho paura che mi si siano gonfiate le tonsille.	I'm afraid my tonsils are swollen.				
+tonsille	tohn-SEEL-leh	tonsilla	NOUN	tonsils	1	1e-06	1	1e-06	tonsilla	NOUN	S	nsubj	Gender=Fem|Number=Plur	fc695cb0-d188-5dfa-8c6a-e697ba72b3cf	5343170e-3cbd-5ed7-95b9-37fdb1bdbecf	Ho paura che mi si siano gonfiate le tonsille.	I'm afraid my tonsils are swollen.				

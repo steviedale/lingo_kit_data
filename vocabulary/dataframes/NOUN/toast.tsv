@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-toast		toast	NOUN		2	2e-06	2	2e-06	toast	NOUN	S	nsubj	Gender=Masc	072217ab-d711-5c6e-a9ca-e50db511284d	23d57f5f-8dc2-5972-b48d-efbdf97c431e	Il toast si è carbonizzato.	The toast has burned black.	Il toast è freddo.	The toast is cold.		
+toast	TOHAHST	toast	NOUN	toasted sandwich	2	2e-06	2	2e-06	toast	NOUN	S	nsubj	Gender=Masc	072217ab-d711-5c6e-a9ca-e50db511284d	23d57f5f-8dc2-5972-b48d-efbdf97c431e	Il toast si è carbonizzato.	The toast has burned black.	Il toast è freddo.	The toast is cold.		

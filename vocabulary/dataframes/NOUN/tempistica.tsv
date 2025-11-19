@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tempistica		tempistica	NOUN		1	1e-06	1	1e-06	tempistica	NOUN	S	nsubj	Gender=Fem|Number=Sing	242ad843-2ba6-5e4f-9b73-2c745446f193	2b9215fc-ec73-5695-ad23-aa4316904dcf	La tempistica è molto importante.	Timing is very important.				
+tempistica	tehm-pee-STEE-kah	tempistica	NOUN	timeline; scheduling	1	1e-06	1	1e-06	tempistica	NOUN	S	nsubj	Gender=Fem|Number=Sing	242ad843-2ba6-5e4f-9b73-2c745446f193	2b9215fc-ec73-5695-ad23-aa4316904dcf	La tempistica è molto importante.	Timing is very important.				

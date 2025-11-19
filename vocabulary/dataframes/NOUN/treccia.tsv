@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-trecce		treccia	NOUN		2	2e-06	2	2e-06	treccia	NOUN	S	obl	Gender=Fem|Number=Plur	f01227ae-5401-5223-b315-57cea23f3ffb	6f2f52f5-c37f-5c89-a4bc-d38a38449098	Lei ha delle lunghe trecce.	She has long braids.	Ha delle lunghe trecce.	She has long braids.		
+trecce	TREHK-cheh	treccia	NOUN	braids	2	2e-06	2	2e-06	treccia	NOUN	S	obl	Gender=Fem|Number=Plur	f01227ae-5401-5223-b315-57cea23f3ffb	6f2f52f5-c37f-5c89-a4bc-d38a38449098	Lei ha delle lunghe trecce.	She has long braids.	Ha delle lunghe trecce.	She has long braids.		

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-triciclo		triciclo	NOUN		1	1e-06	1	1e-06	triciclo	NOUN	S	root	Gender=Masc|Number=Sing	bbdfda23-2ef7-5deb-b969-e5f9d0d1945d	cde901e5-5360-5106-a232-2d86b8fe1eae	Questo è il mio nuovo triciclo.	This is my new tricycle.				
+triciclo	tree-CHEE-kloh	triciclo	NOUN	tricycle	1	1e-06	1	1e-06	triciclo	NOUN	S	root	Gender=Masc|Number=Sing	bbdfda23-2ef7-5deb-b969-e5f9d0d1945d	cde901e5-5360-5106-a232-2d86b8fe1eae	Questo è il mio nuovo triciclo.	This is my new tricycle.				

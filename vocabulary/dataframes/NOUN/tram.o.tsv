@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tram.		tram.o	NOUN		1	1e-06	1	1e-06	tram.o	NOUN	S	obl	Gender=Masc|Number=Sing	582aea10-b514-5bac-86f0-632aa6c8b79a	120b8af8-abfd-5fdd-a680-9e379961c7ad	Avresti fatto meglio ad andare in tram.	You had better go by tram.				
+tram.	TRAHM.	tram.o	NOUN	tram	1	1e-06	1	1e-06	tram.o	NOUN	S	obl	Gender=Masc|Number=Sing	582aea10-b514-5bac-86f0-632aa6c8b79a	120b8af8-abfd-5fdd-a680-9e379961c7ad	Avresti fatto meglio ad andare in tram.	You had better go by tram.				

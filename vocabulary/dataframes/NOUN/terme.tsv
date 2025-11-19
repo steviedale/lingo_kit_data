@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-terme		terme	NOUN		1	1e-06	1	1e-06	terme	NOUN	S	obl	Gender=Fem|Number=Plur	25a22a55-3884-5f71-95dc-18fcebbff490	a11d3b6c-0033-5f5b-bb65-e95f63096e6e	Mary ama andare alle terme.	Mary loves going to the spa.				
+terme	TEHR-meh	terme	NOUN	thermal baths	1	1e-06	1	1e-06	terme	NOUN	S	obl	Gender=Fem|Number=Plur	25a22a55-3884-5f71-95dc-18fcebbff490	a11d3b6c-0033-5f5b-bb65-e95f63096e6e	Mary ama andare alle terme.	Mary loves going to the spa.				

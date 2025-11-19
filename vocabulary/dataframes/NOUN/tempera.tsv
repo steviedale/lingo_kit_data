@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tempere		tempera	NOUN		1	1e-06	1	1e-06	tempera	NOUN	S	obj	Gender=Fem|Number=Plur	a1e88965-ecb6-5b91-b280-4beb1391b6f5	f153c86b-8b5a-5a0c-830a-1c78da167282	Comprerò tempere e pennelli oggi pomeriggio.	I'll buy tempera and paintbrushes this afternoon.				
+tempere	tehm-PEH-reh	tempera	NOUN	tempera paint	1	1e-06	1	1e-06	tempera	NOUN	S	obj	Gender=Fem|Number=Plur	a1e88965-ecb6-5b91-b280-4beb1391b6f5	f153c86b-8b5a-5a0c-830a-1c78da167282	Comprerò tempere e pennelli oggi pomeriggio.	I'll buy tempera and paintbrushes this afternoon.				

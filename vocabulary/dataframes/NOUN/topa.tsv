@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-topa		topa	NOUN		2	2e-06	2	2e-06	topa	NOUN	S	root	Gender=Fem|Number=Sing	1270eaca-6bbf-5811-8612-21901f436e89	1f9ffb21-3d10-5222-984f-c8369651bf45	Lei è una topa.	She's a beaver.	È una topa.	She's a beaver.		
+topa	TOH-pah	topa	NOUN	beaver (feminine)	2	2e-06	2	2e-06	topa	NOUN	S	root	Gender=Fem|Number=Sing	1270eaca-6bbf-5811-8612-21901f436e89	1f9ffb21-3d10-5222-984f-c8369651bf45	Lei è una topa.	She's a beaver.	È una topa.	She's a beaver.		
