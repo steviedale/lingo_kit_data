@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-crepa		crepa	NOUN		2	2e-06	2	2e-06	crepa	NOUN	S	obj	Gender=Fem|Number=Sing	315d5be9-f6ba-5009-81a4-8f45aab81d67	b569002f-2b52-56f5-a314-8ee1998a00b3	La tazza ha una crepa.	The cup has a crack.	Crepa!	Die!		
+crepa	KREH-pah	crepa	NOUN	crack; fissure	2	2e-06	2	2e-06	crepa	NOUN	S	obj	Gender=Fem|Number=Sing	315d5be9-f6ba-5009-81a4-8f45aab81d67	b569002f-2b52-56f5-a314-8ee1998a00b3	La tazza ha una crepa.	The cup has a crack.	Crepa!	Die!		

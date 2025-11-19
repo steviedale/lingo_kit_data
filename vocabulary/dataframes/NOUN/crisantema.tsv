@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-crisantemi		crisantema	NOUN		1	1e-06	1	1e-06	crisantema	NOUN	S	nsubj	Gender=Masc|Number=Plur	5b2f8328-913c-5d24-bd44-0c1f7630b067	c280f55c-a3f3-5d93-be7f-912cad27acdc	I crisantemi hanno un odore dolce.	Chrysanthemums smell sweet.				
+crisantemi	kree-sahn-TEH-mee	crisantema	NOUN	chrysanthemums	1	1e-06	1	1e-06	crisantema	NOUN	S	nsubj	Gender=Masc|Number=Plur	5b2f8328-913c-5d24-bd44-0c1f7630b067	c280f55c-a3f3-5d93-be7f-912cad27acdc	I crisantemi hanno un odore dolce.	Chrysanthemums smell sweet.				

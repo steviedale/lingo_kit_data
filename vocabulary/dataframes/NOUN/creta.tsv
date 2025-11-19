@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-creta		creta	NOUN		1	1e-06	1	1e-06	creta	NOUN	S	obj	Gender=Fem|Number=Sing	13a5fc06-7c46-5a75-9f86-9f0e504aefe8	b1e603fd-9551-5eea-afc1-cd7e95aab6ab	Tom lavorava la creta per fare un vaso.	Tom worked the clay into a vase.				
+creta	KREH-tah	creta	NOUN	clay	1	1e-06	1	1e-06	creta	NOUN	S	obj	Gender=Fem|Number=Sing	13a5fc06-7c46-5a75-9f86-9f0e504aefe8	b1e603fd-9551-5eea-afc1-cd7e95aab6ab	Tom lavorava la creta per fare un vaso.	Tom worked the clay into a vase.				
