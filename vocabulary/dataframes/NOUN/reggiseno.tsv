@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-reggiseno		reggiseno	NOUN		1	1e-06	1	1e-06	reggiseno	NOUN	S	obj	Gender=Masc|Number=Sing	af5a973b-37fb-5844-9b21-fb96be0d6ab6	8150e578-9b41-552c-b8aa-e8366db3666f	Mary non sta indossando un reggiseno.	Mary is not wearing a bra.				
+reggiseno	reh-jee-SAY-noh	reggiseno	NOUN	bra	1	1e-06	1	1e-06	reggiseno	NOUN	S	obj	Gender=Masc|Number=Sing	af5a973b-37fb-5844-9b21-fb96be0d6ab6	8150e578-9b41-552c-b8aa-e8366db3666f	Mary non sta indossando un reggiseno.	Mary is not wearing a bra.				

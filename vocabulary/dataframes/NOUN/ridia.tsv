@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ridia		ridia	NOUN		1	1e-06	1	1e-06	ridia	NOUN	S	root	Gender=Fem|Number=Sing	1d798ec9-8aec-5a07-b462-32180b636041	a44c3f2e-32a9-5abe-a997-c8df00516a03	La ridia.	Give it back.				
+ridia	ree-DEE-ah	ridia	NOUN	give it back	1	1e-06	1	1e-06	ridia	NOUN	S	root	Gender=Fem|Number=Sing	1d798ec9-8aec-5a07-b462-32180b636041	a44c3f2e-32a9-5abe-a997-c8df00516a03	La ridia.	Give it back.				

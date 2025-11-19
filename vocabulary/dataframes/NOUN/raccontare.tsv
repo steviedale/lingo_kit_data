@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-racconto		raccontare	NOUN		1	1e-06	1	1e-06	raccontare	NOUN	S	root	Gender=Masc|Number=Sing	3ab27be2-eef0-5629-9af4-70dff3128c67	aa8f2d13-1d93-5327-b031-aacbec8f9fae	Racconto delle storie quasi ogni giorno.	I tell stories almost every day.				
+racconto	rahk-KOHN-toh	raccontare	NOUN	story; tale	1	1e-06	1	1e-06	raccontare	NOUN	S	root	Gender=Masc|Number=Sing	3ab27be2-eef0-5629-9af4-70dff3128c67	aa8f2d13-1d93-5327-b031-aacbec8f9fae	Racconto delle storie quasi ogni giorno.	I tell stories almost every day.				

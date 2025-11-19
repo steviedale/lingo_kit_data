@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-rutto		rutto	NOUN		1	1e-06	1	1e-06	rutto	NOUN	S	root	Gender=Masc|Number=Sing	d12fb68c-9455-532d-952e-212db3afaf05	ee905bae-fa96-5807-a569-22128267ed81	Rutto molto.	I burp a lot.				
+rutto	ROOT-toh	rutto	NOUN	burp	1	1e-06	1	1e-06	rutto	NOUN	S	root	Gender=Masc|Number=Sing	d12fb68c-9455-532d-952e-212db3afaf05	ee905bae-fa96-5807-a569-22128267ed81	Rutto molto.	I burp a lot.				

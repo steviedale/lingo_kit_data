@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-romulani		romulano	NOUN		1	1e-06	1	1e-06	romulano	NOUN	S	nsubj	Gender=Masc|Number=Plur	39d57a03-2484-5541-85b3-36f55c4461fc	1e994f56-ee6b-5a72-b1fb-bae1006ebefc	Anche i romulani hanno le orecchie a punta.	Romulans also have pointed ears.				
+romulani	roh-moo-LAH-nee	romulano	NOUN	Romulans	1	1e-06	1	1e-06	romulano	NOUN	S	nsubj	Gender=Masc|Number=Plur	39d57a03-2484-5541-85b3-36f55c4461fc	1e994f56-ee6b-5a72-b1fb-bae1006ebefc	Anche i romulani hanno le orecchie a punta.	Romulans also have pointed ears.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-raccordo		raccordo	NOUN		1	1e-06	1	1e-06	raccordo	NOUN	S	obl	Gender=Masc|Number=Sing	01a22263-9621-5423-8431-50ba10059b4b	bf158bbd-a411-5e90-a7ec-ce131c2b34e5	Siamo usciti dall'autostrada al raccordo 11.	We left the motorway at junction 11.				
+raccordo	rahk-KOHR-doh	raccordo	NOUN	junction; connector	1	1e-06	1	1e-06	raccordo	NOUN	S	obl	Gender=Masc|Number=Sing	01a22263-9621-5423-8431-50ba10059b4b	bf158bbd-a411-5e90-a7ec-ce131c2b34e5	Siamo usciti dall'autostrada al raccordo 11.	We left the motorway at junction 11.				

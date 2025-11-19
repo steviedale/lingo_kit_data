@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-rabbino		rabbino	NOUN		2	2e-06	2	2e-06	rabbino	NOUN	S	root	Gender=Masc|Number=Sing	5404d8e0-afb4-5a3f-a570-9400c93ac35f	e647687e-c49c-594a-987b-c5423cd80bf1	Tom è un rabbino.	Tom is a rabbi.	Sta arrivando il rabbino.	The rabbi is on his way.		
+rabbino	rahb-BEE-noh	rabbino	NOUN	rabbi	2	2e-06	2	2e-06	rabbino	NOUN	S	root	Gender=Masc|Number=Sing	5404d8e0-afb4-5a3f-a570-9400c93ac35f	e647687e-c49c-594a-987b-c5423cd80bf1	Tom è un rabbino.	Tom is a rabbi.	Sta arrivando il rabbino.	The rabbi is on his way.		

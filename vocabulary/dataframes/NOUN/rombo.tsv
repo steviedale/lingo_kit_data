@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-rombo		rombo	NOUN		1	1e-06	1	1e-06	rombo	NOUN	S	nsubj	Gender=Masc|Number=Sing	0d8d1ff4-2164-5153-bbb4-75d41d07a2a4	f78529c4-9fd5-5ddd-90bd-54aca4f57b80	Il rombo dei loro stessi cannoni era estremamente forte.	The roar of their own cannons was extremely loud.				
+rombo	ROM-boh	rombo	NOUN	rumble; roar	1	1e-06	1	1e-06	rombo	NOUN	S	nsubj	Gender=Masc|Number=Sing	0d8d1ff4-2164-5153-bbb4-75d41d07a2a4	f78529c4-9fd5-5ddd-90bd-54aca4f57b80	Il rombo dei loro stessi cannoni era estremamente forte.	The roar of their own cannons was extremely loud.				

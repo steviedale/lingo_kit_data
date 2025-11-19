@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-radioattività		radioattività	NOUN		1	1e-06	1	1e-06	radioattività	NOUN	S	nsubj	Gender=Fem	50563efe-c86b-59e5-98eb-192705a7b630	4a15ac7f-dcfa-5a8d-9e4c-7a748f8786ab	Radioattività è un termine chimico.	'Radioactivity' is a chemical term.				
+radioattività	rah-dyoh-aht-tee-vee-TAH	radioattività	NOUN	radioactivity	1	1e-06	1	1e-06	radioattività	NOUN	S	nsubj	Gender=Fem	50563efe-c86b-59e5-98eb-192705a7b630	4a15ac7f-dcfa-5a8d-9e4c-7a748f8786ab	Radioattività è un termine chimico.	'Radioactivity' is a chemical term.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-resi		reso	NOUN		2	2e-06	2	2e-06	reso	NOUN	S	root	Gender=Masc|Number=Sing	ca37950e-f531-5d10-8cc2-6f318635c0da	12ff32ee-063a-572d-9840-5ed832ce2889	Resi felice John.	I made John happy.	La resi felice.	I made her happy.		
+resi	REH-zee	reso	NOUN	I made	2	2e-06	2	2e-06	reso	NOUN	S	root	Gender=Masc|Number=Sing	ca37950e-f531-5d10-8cc2-6f318635c0da	12ff32ee-063a-572d-9840-5ed832ce2889	Resi felice John.	I made John happy.	La resi felice.	I made her happy.		
