@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-insegnatemi		insegnatemere	VERB		1	1e-06	1	1e-06	insegnatemere	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	85da0c32-a696-5c34-8a67-134a769b8320	8a38dd3d-9184-52f7-951b-4bc41f5768fa	Insegnatemi il judo.	Teach judo to me.				
+insegnatemi	een-seh-NYAH-teh-mee	insegnatemere	VERB	teach me (you (plural))	1	1e-06	1	1e-06	insegnatemere	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	85da0c32-a696-5c34-8a67-134a769b8320	8a38dd3d-9184-52f7-951b-4bc41f5768fa	Insegnatemi il judo.	Teach judo to me.				

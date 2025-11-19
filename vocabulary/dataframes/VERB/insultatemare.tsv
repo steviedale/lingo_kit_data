@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-insultatemi		insultatemare	VERB		1	1e-06	1	1e-06	insultatemare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	53bc2ba6-8e70-5e5b-b0de-43ccc649e25b	b7e9d2e9-3730-5326-957c-ddba9194f3b8	Non insultatemi.	Don't insult me.				
+insultatemi	een-sool-TAH-teh-mee	insultatemare	VERB	insult me (you (plural))	1	1e-06	1	1e-06	insultatemare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	53bc2ba6-8e70-5e5b-b0de-43ccc649e25b	b7e9d2e9-3730-5326-957c-ddba9194f3b8	Non insultatemi.	Don't insult me.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-interdetto		interdetto	VERB		1	1e-06	1	1e-06	interdetto	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	831806e3-3003-5d7a-87b7-ca528a96390a	5d572563-66b4-5e81-9cfa-e53ed3438607	Tom è interdetto.	Tom is puzzled.				
+interdetto	een-tehr-DEHT-toh	interdetto	VERB	puzzled (masculine)	1	1e-06	1	1e-06	interdetto	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	831806e3-3003-5d7a-87b7-ca528a96390a	5d572563-66b4-5e81-9cfa-e53ed3438607	Tom è interdetto.	Tom is puzzled.				

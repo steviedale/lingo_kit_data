@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-insulti		insulto	VERB		1	1e-06	1	1e-06	insulto	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1312dcc3-6b82-59d2-bfd9-233cb255e1b9	402f8aa2-c2dc-54a9-b808-41a6be567697	Non mi insulti.	Don't insult me.				
+insulti	een-SOOL-tee	insulto	VERB	you insult	1	1e-06	1	1e-06	insulto	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1312dcc3-6b82-59d2-bfd9-233cb255e1b9	402f8aa2-c2dc-54a9-b808-41a6be567697	Non mi insulti.	Don't insult me.				
