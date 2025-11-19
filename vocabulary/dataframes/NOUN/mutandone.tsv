@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-mutandoni		mutandone	NOUN		1	1e-06	1	1e-06	mutandone	NOUN	S	nsubj	Gender=Masc|Number=Plur	d1569838-c4d2-5c5d-a256-d6b64caf6ad3	490c941f-77e9-5f6a-9ae5-8f96ae1633ce	I miei mutandoni sono bagnati.	My knickers are wet.				
+mutandoni	moo-tahn-DOH-nee	mutandone	NOUN	long johns; big underpants	1	1e-06	1	1e-06	mutandone	NOUN	S	nsubj	Gender=Masc|Number=Plur	d1569838-c4d2-5c5d-a256-d6b64caf6ad3	490c941f-77e9-5f6a-9ae5-8f96ae1633ce	I miei mutandoni sono bagnati.	My knickers are wet.				

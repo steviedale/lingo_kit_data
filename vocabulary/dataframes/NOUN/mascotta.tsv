@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-mascotte		mascotta	NOUN		1	1e-06	1	1e-06	mascotta	NOUN	S	root	Gender=Fem|Number=Sing	f3eed90b-4c5e-5519-b29b-cfa2c241d5cd	f0329b19-1efc-551f-9b53-2b2743ed144f	Tux è la mascotte di Linux.	Tux is the mascot for Linux.				
+mascotte	mah-SKOHT-teh	mascotta	NOUN	mascot	1	1e-06	1	1e-06	mascotta	NOUN	S	root	Gender=Fem|Number=Sing	f3eed90b-4c5e-5519-b29b-cfa2c241d5cd	f0329b19-1efc-551f-9b53-2b2743ed144f	Tux è la mascotte di Linux.	Tux is the mascot for Linux.				

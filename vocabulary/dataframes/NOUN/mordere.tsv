@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-morse		mordere	NOUN		2	2e-06	2	2e-06	mordere	NOUN	S	nmod	Gender=Fem|Number=Sing	7ae3c831-89a5-5513-a6f4-b6d2c6c546f6	bad3d099-d9f8-51a5-8564-5bfd52846268	Un cane la morse alla gamba.	A dog bit her on the leg.	Lo morse.	She bit him.		
+morse	MOHR-seh	mordere	NOUN	she bit	2	2e-06	2	2e-06	mordere	NOUN	S	nmod	Gender=Fem|Number=Sing	7ae3c831-89a5-5513-a6f4-b6d2c6c546f6	bad3d099-d9f8-51a5-8564-5bfd52846268	Un cane la morse alla gamba.	A dog bit her on the leg.	Lo morse.	She bit him.		

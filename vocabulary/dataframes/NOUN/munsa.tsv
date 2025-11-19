@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-munse		munsa	NOUN		1	1e-06	1	1e-06	munsa	NOUN	S	nmod	Gender=Masc|Number=Plur	9dd45e54-2a46-5632-bb5a-9b6553299b39	e6c7407e-cf2b-52fc-868f-08000f35dc76	Lei munse la vacca.	She milked the cow.				
+munse	MOON-seh	munsa	NOUN	she milked	1	1e-06	1	1e-06	munsa	NOUN	S	nmod	Gender=Masc|Number=Plur	9dd45e54-2a46-5632-bb5a-9b6553299b39	e6c7407e-cf2b-52fc-868f-08000f35dc76	Lei munse la vacca.	She milked the cow.				

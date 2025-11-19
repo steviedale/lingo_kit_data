@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-mais		mais	NOUN		2	2e-06	2	2e-06	mais	NOUN	S	nmod	Gender=Masc	0f001723-cd3d-5553-8d31-e262948e4863	ffbee075-97de-5f22-a40f-146fa59df1ec	Questo mais è fresco.	This corn is fresh.	C'è un bel raccolto di mais di quest'anno.	There's a fine crop of corn this year.		
+mais	MEYES	mais	NOUN	corn; maize	2	2e-06	2	2e-06	mais	NOUN	S	nmod	Gender=Masc	0f001723-cd3d-5553-8d31-e262948e4863	ffbee075-97de-5f22-a40f-146fa59df1ec	Questo mais è fresco.	This corn is fresh.	C'è un bel raccolto di mais di quest'anno.	There's a fine crop of corn this year.		

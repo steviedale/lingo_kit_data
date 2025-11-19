@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-malerba		malerba	NOUN		1	1e-06	1	1e-06	malerba	NOUN	S	nsubj	Gender=Fem|Number=Sing	841a2c87-8e75-514a-991c-3c0c60d30af8	7832f483-a3cd-5c7c-bf72-fae9fdd999a1	La malerba cresce presto.	Ill weeds grow apace.				
+malerba	mah-LEHR-bah	malerba	NOUN	weed	1	1e-06	1	1e-06	malerba	NOUN	S	nsubj	Gender=Fem|Number=Sing	841a2c87-8e75-514a-991c-3c0c60d30af8	7832f483-a3cd-5c7c-bf72-fae9fdd999a1	La malerba cresce presto.	Ill weeds grow apace.				

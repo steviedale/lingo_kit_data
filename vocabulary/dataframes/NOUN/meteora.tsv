@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-meteora		meteora	NOUN		1	1e-06	1	1e-06	meteora	NOUN	S	obj	Gender=Fem|Number=Sing	e2331a0f-af12-5739-9f4e-b2926a72b7c0	895e85b3-22bf-5ae0-bff4-84c2bda44515	Un meteoroide in fiamme produce una meteora.	A burning meteoroid produces a meteor.				
+meteora	meh-TEHOH-rah	meteora	NOUN	meteor	1	1e-06	1	1e-06	meteora	NOUN	S	obj	Gender=Fem|Number=Sing	e2331a0f-af12-5739-9f4e-b2926a72b7c0	895e85b3-22bf-5ae0-bff4-84c2bda44515	Un meteoroide in fiamme produce una meteora.	A burning meteoroid produces a meteor.				

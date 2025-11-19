@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-miopia		miopia	NOUN		1	1e-06	1	1e-06	miopia	NOUN	S	obj	Gender=Fem|Number=Sing	f08c39fb-b628-5b86-bdb3-618d2c7374f5	960ab09d-e632-574c-8fb7-ac35ca0d4595	Non considero la mia miopia come un handicap.	I don't consider my myopia as an impediment.				
+miopia	MYOH-pyah	miopia	NOUN	myopia; nearsightedness	1	1e-06	1	1e-06	miopia	NOUN	S	obj	Gender=Fem|Number=Sing	f08c39fb-b628-5b86-bdb3-618d2c7374f5	960ab09d-e632-574c-8fb7-ac35ca0d4595	Non considero la mia miopia come un handicap.	I don't consider my myopia as an impediment.				

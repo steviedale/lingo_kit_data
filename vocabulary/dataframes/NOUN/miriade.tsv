@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-miriade		miriade	NOUN		1	1e-06	1	1e-06	miriade	NOUN	S	nsubj	Gender=Fem|Number=Sing	f0bfcbfd-9206-5920-aa6d-30e3eee16ef8	a7e5e0d9-0a49-57b8-a14f-bd4c9615b119	C'è una miriade di stelle nell'universo.	There are innumerable stars in the universe.				
+miriade	mee-RYAH-deh	miriade	NOUN	myriad	1	1e-06	1	1e-06	miriade	NOUN	S	nsubj	Gender=Fem|Number=Sing	f0bfcbfd-9206-5920-aa6d-30e3eee16ef8	a7e5e0d9-0a49-57b8-a14f-bd4c9615b119	C'è una miriade di stelle nell'universo.	There are innumerable stars in the universe.				

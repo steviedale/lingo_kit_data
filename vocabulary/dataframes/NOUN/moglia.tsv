@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-moglia		moglia	NOUN		1	1e-06	1	1e-06	moglia	NOUN	S	nsubj	Gender=Fem|Number=Sing	087a2a35-7fe1-5bd0-be07-7322edaee17b	21032d2d-3f2b-5506-b053-c8ca1a16add6	Chiami sua moglia.	Call your wife.				
+moglia	MOH-lyyah	moglia	NOUN	wife (dialect)	1	1e-06	1	1e-06	moglia	NOUN	S	nsubj	Gender=Fem|Number=Sing	087a2a35-7fe1-5bd0-be07-7322edaee17b	21032d2d-3f2b-5506-b053-c8ca1a16add6	Chiami sua moglia.	Call your wife.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-marmotta		marmotta	NOUN		1	1e-06	1	1e-06	marmotta	NOUN	S	nsubj	Gender=Fem|Number=Sing	419f90f6-c931-5c67-af98-d5d9a95cbef5	4997e845-53f4-5305-93a7-3d19e73258af	La marmotta è immortale.	The marmot is immortal.				
+marmotta	mahr-MOHT-tah	marmotta	NOUN	marmot; groundhog	1	1e-06	1	1e-06	marmotta	NOUN	S	nsubj	Gender=Fem|Number=Sing	419f90f6-c931-5c67-af98-d5d9a95cbef5	4997e845-53f4-5305-93a7-3d19e73258af	La marmotta è immortale.	The marmot is immortal.				

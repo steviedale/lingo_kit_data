@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-magistrale		magistrale	NOUN		1	1e-06	1	1e-06	magistrale	NOUN	S	nsubj	Gender=Fem|Number=Sing	5e691802-2c6d-5ffc-be85-afeb9635a815	b5133d81-faf8-55f1-863f-1d1b02fbe698	La magistrale sarà più semplice.	The master's will be easier.				
+magistrale	mah-jee-STRAH-leh	magistrale	NOUN	master's degree	1	1e-06	1	1e-06	magistrale	NOUN	S	nsubj	Gender=Fem|Number=Sing	5e691802-2c6d-5ffc-be85-afeb9635a815	b5133d81-faf8-55f1-863f-1d1b02fbe698	La magistrale sarà più semplice.	The master's will be easier.				

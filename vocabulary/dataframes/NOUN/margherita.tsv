@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-margherita		margherita	NOUN		1	1e-06	1	1e-06	margherita	NOUN	S	obj	Gender=Fem|Number=Sing	af5d381b-00af-5d53-9f9c-fcf79c3e2e96	cf82142a-9cf0-51a6-a4a4-1f7524d9316e	Ho raccolto una margherita per lei.	I picked a daisy for her.				
+margherita	mahr-geh-REE-tah	margherita	NOUN	daisy	1	1e-06	1	1e-06	margherita	NOUN	S	obj	Gender=Fem|Number=Sing	af5d381b-00af-5d53-9f9c-fcf79c3e2e96	cf82142a-9cf0-51a6-a4a4-1f7524d9316e	Ho raccolto una margherita per lei.	I picked a daisy for her.				

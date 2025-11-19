@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-messaggini		messaggine	NOUN		1	1e-06	1	1e-06	messaggine	NOUN	S	obj	Gender=Masc|Number=Plur	c52fdb7c-47f3-5dc3-9e4d-e88cc3c05981	bffdf4ad-c506-5fae-af41-1bc34253dab9	Tommaso continuava a scrivere i messaggini.	Tom kept texting.				
+messaggini	mehs-sahg-JEE-nee	messaggine	NOUN	text messages	1	1e-06	1	1e-06	messaggine	NOUN	S	obj	Gender=Masc|Number=Plur	c52fdb7c-47f3-5dc3-9e4d-e88cc3c05981	bffdf4ad-c506-5fae-af41-1bc34253dab9	Tommaso continuava a scrivere i messaggini.	Tom kept texting.				

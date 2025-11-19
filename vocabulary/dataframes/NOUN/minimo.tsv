@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-minimo		minimo	NOUN		1	1e-06	1	1e-06	minimo	NOUN	S	obl	Gender=Masc|Number=Sing	ff8ef758-c1a4-50b4-aac6-856a6351679c	95e0a3e5-6cdb-5f0c-a03e-37ef4a67f569	Io avrei fatto ricorso, come minimo.	I would have at the least used it.				
+minimo	mee-NEE-moh	minimo	NOUN	minimum; least	1	1e-06	1	1e-06	minimo	NOUN	S	obl	Gender=Masc|Number=Sing	ff8ef758-c1a4-50b4-aac6-856a6351679c	95e0a3e5-6cdb-5f0c-a03e-37ef4a67f569	Io avrei fatto ricorso, come minimo.	I would have at the least used it.				
