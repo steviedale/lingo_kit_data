@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-stremato		stremato	ADJ		2	2e-06	2	2e-06	stremato	ADJ	A	root	Gender=Masc|Number=Sing	a375cec2-0657-593d-97c2-95a8d32e34fb	cca8f5ad-0688-524f-9af1-6fd97c3ccf25	Sono stremato.	I am exhausted.	Tom sembra stremato.	Tom sounds exhausted.		
+stremato	stre-MAH-toh	stremato	ADJ	exhausted; spent	2	2e-06	2	2e-06	stremato	ADJ	A	root	Gender=Masc|Number=Sing	a375cec2-0657-593d-97c2-95a8d32e34fb	cca8f5ad-0688-524f-9af1-6fd97c3ccf25	Sono stremato.	I am exhausted.	Tom sembra stremato.	Tom sounds exhausted.		

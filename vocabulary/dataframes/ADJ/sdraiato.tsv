@@ -1,3 +1,3 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sdraiata		sdraiato	ADJ		1	1e-06	2	2e-06	sdraiato	ADJ	A	xcomp	Gender=Fem|Number=Sing	13f59cc9-1de5-59b1-bc10-e42912d83135	020b8750-73e8-54e3-b156-1d87cdb9cce0	Rimani sdraiata.	Lie still.				
-sdraiato		sdraiato	ADJ		1	1e-06	2	2e-06	sdraiato	ADJ	A	xcomp	Gender=Masc|Number=Sing	666fd0ab-e1d3-5bc1-8bdc-c427e5bd8964	020b8750-73e8-54e3-b156-1d87cdb9cce0	Rimani sdraiato.	Lie still.				
+sdraiata	zdrah-YAH-tah	sdraiato	ADJ	lying down; sprawled (feminine)	1	1e-06	2	2e-06	sdraiato	ADJ	A	xcomp	Gender=Fem|Number=Sing	13f59cc9-1de5-59b1-bc10-e42912d83135	020b8750-73e8-54e3-b156-1d87cdb9cce0	Rimani sdraiata.	Lie still.				
+sdraiato	zdrah-YAH-toh	sdraiato	ADJ	lying down; sprawled (masculine)	1	1e-06	2	2e-06	sdraiato	ADJ	A	xcomp	Gender=Masc|Number=Sing	666fd0ab-e1d3-5bc1-8bdc-c427e5bd8964	020b8750-73e8-54e3-b156-1d87cdb9cce0	Rimani sdraiato.	Lie still.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-spinosa		spinoso	ADJ		1	1e-06	1	1e-06	spinoso	ADJ	A	amod	Gender=Fem|Number=Sing	b5f59fc2-a89d-5788-bd1d-360dfff298d8	8e7a50c2-6f5d-5210-b9b6-e8f2cd5535b8	Questa può essere una domanda spinosa.	This can be a spinous question.				
+spinosa	spee-NOH-zah	spinoso	ADJ	thorny; prickly	1	1e-06	1	1e-06	spinoso	ADJ	A	amod	Gender=Fem|Number=Sing	b5f59fc2-a89d-5788-bd1d-360dfff298d8	8e7a50c2-6f5d-5210-b9b6-e8f2cd5535b8	Questa può essere una domanda spinosa.	This can be a spinous question.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sode		sode	ADJ		1	1e-06	1	1e-06	sode	ADJ	A	amod	Gender=Fem|Number=Plur	e9750202-f1eb-54b2-8655-9b3d9086db6c	325c63c6-6fae-5eaf-87e8-809856a29b1c	Adoro le uova sode.	I love hard-boiled eggs.				
+sode	SOH-deh	sode	ADJ	hard-boiled; firm (plural)	1	1e-06	1	1e-06	sode	ADJ	A	amod	Gender=Fem|Number=Plur	e9750202-f1eb-54b2-8655-9b3d9086db6c	325c63c6-6fae-5eaf-87e8-809856a29b1c	Adoro le uova sode.	I love hard-boiled eggs.				

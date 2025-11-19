@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sociopatico		sociopatico	ADJ		1	1e-06	1	1e-06	sociopatico	ADJ	A	root	Gender=Masc|Number=Sing	661c0010-f30c-57d6-a86c-6d846cb5cfe0	15da10e0-58b1-5ca8-8dec-6eba31677641	Tom è sociopatico.	Tom is a sociopath.				
+sociopatico	soh-chyo-PAH-tee-koh	sociopatico	ADJ	sociopathic	1	1e-06	1	1e-06	sociopatico	ADJ	A	root	Gender=Masc|Number=Sing	661c0010-f30c-57d6-a86c-6d846cb5cfe0	15da10e0-58b1-5ca8-8dec-6eba31677641	Tom è sociopatico.	Tom is a sociopath.				

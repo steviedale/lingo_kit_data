@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-spassoso		spassoso	ADJ		1	1e-06	1	1e-06	spassoso	ADJ	A	root	Gender=Masc|Number=Sing	3e1fa79d-857d-58ff-9553-610cc5843ff6	09b1b308-4afb-5641-ad88-756689553c7a	Tom è spassoso.	Tom's hilarious.				
+spassoso	spah-SOH-zoh	spassoso	ADJ	funny; amusing	1	1e-06	1	1e-06	spassoso	ADJ	A	root	Gender=Masc|Number=Sing	3e1fa79d-857d-58ff-9553-610cc5843ff6	09b1b308-4afb-5641-ad88-756689553c7a	Tom è spassoso.	Tom's hilarious.				

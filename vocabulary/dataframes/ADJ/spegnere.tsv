@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-spenta		spegnere	ADJ		2	2e-06	2	2e-06	spegnere	ADJ	A	root	Gender=Fem|Number=Sing	fe30614d-a587-5e83-9c9b-4fc05dc9e062	22aa68d4-9109-5d61-b11a-1afc82fcbfb6	La luce è spenta.	The light is out.	La radio è spenta.	The radio is powered off.		
+spenta	SPEN-tah	spegnere	ADJ	off; extinguished	2	2e-06	2	2e-06	spegnere	ADJ	A	root	Gender=Fem|Number=Sing	fe30614d-a587-5e83-9c9b-4fc05dc9e062	22aa68d4-9109-5d61-b11a-1afc82fcbfb6	La luce è spenta.	The light is out.	La radio è spenta.	The radio is powered off.		

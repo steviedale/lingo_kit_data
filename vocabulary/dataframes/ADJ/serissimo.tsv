@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-serissimo		serissimo	ADJ		2	2e-06	2	2e-06	serissimo	ADJ	A	root	Gender=Masc|Number=Sing	56e9b4c2-ec0f-5636-a942-82f72b0da19d	27eed2e8-ebd8-5cf1-bb73-311a171e08ab	Sono serissimo.	I'm dead serious.	Io sono serissimo.	I'm dead serious.		
+serissimo	seh-REE-see-moh	serissimo	ADJ	very serious; deadly serious	2	2e-06	2	2e-06	serissimo	ADJ	A	root	Gender=Masc|Number=Sing	56e9b4c2-ec0f-5636-a942-82f72b0da19d	27eed2e8-ebd8-5cf1-bb73-311a171e08ab	Sono serissimo.	I'm dead serious.	Io sono serissimo.	I'm dead serious.		

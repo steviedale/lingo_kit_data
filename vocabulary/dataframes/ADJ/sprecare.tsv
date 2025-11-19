@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sprecato		sprecare	ADJ		1	1e-06	1	1e-06	sprecare	ADJ	A	amod	Gender=Masc|Number=Sing	46976da9-f34f-51b9-8857-0a76fc79b424	13ed0487-5d6b-5d11-8fb0-0cfae128c0ff	Non c'è amore sprecato.	Love is never wasted.				
+sprecato	spreh-KAH-toh	sprecare	ADJ	wasted; squandered	1	1e-06	1	1e-06	sprecare	ADJ	A	amod	Gender=Masc|Number=Sing	46976da9-f34f-51b9-8857-0a76fc79b424	13ed0487-5d6b-5d11-8fb0-0cfae128c0ff	Non c'è amore sprecato.	Love is never wasted.				
