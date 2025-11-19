@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-illumino		illumare	VERB		1	1e-06	1	1e-06	illumare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	04afa158-f7f2-5f57-b9f0-d6c7cc28badc	465bf8e9-4a57-566e-9e71-e141666d6814	M'illumino d'immenso.	I illuminate myself with immensity.				
+illumino	eel-LOO-mee-noh	illumare	VERB	I illuminate myself	1	1e-06	1	1e-06	illumare	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	04afa158-f7f2-5f57-b9f0-d6c7cc28badc	465bf8e9-4a57-566e-9e71-e141666d6814	M'illumino d'immenso.	I illuminate myself with immensity.				

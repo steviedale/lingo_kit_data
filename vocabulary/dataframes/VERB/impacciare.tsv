@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-impacciata		impacciare	VERB		1	1e-06	1	1e-06	impacciare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1b65c856-f4cf-5d23-83b6-c69e11096919	957b13aa-0f97-57ce-96ba-36252fbfa937	Lei è impacciata.	She is awkward.				
+impacciata	eem-pahch-CHAH-tah	impacciare	VERB	awkward	1	1e-06	1	1e-06	impacciare	VERB	V	root	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1b65c856-f4cf-5d23-83b6-c69e11096919	957b13aa-0f97-57ce-96ba-36252fbfa937	Lei è impacciata.	She is awkward.				
