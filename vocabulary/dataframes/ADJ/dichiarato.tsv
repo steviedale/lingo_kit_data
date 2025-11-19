@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dichiarato		dichiarato	ADJ		1	1e-06	1	1e-06	dichiarato	ADJ	A	amod	Gender=Masc|Number=Sing	59bd6ce6-de38-5307-a82b-6e9e7fbd4b47	2d3f0972-488e-596b-96db-e2abc17e44f5	C'è uno stato di emergenza dichiarato.	There is a declared state of emergency.				
+dichiarato	dee-kyah-RAH-toh	dichiarato	ADJ	declared; stated	1	1e-06	1	1e-06	dichiarato	ADJ	A	amod	Gender=Masc|Number=Sing	59bd6ce6-de38-5307-a82b-6e9e7fbd4b47	2d3f0972-488e-596b-96db-e2abc17e44f5	C'è uno stato di emergenza dichiarato.	There is a declared state of emergency.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-esotica		esotico	ADJ		1	1e-06	1	1e-06	esotico	ADJ	A	amod	Gender=Fem|Number=Sing	4e603e23-a97e-56df-b275-3b2cff2253ec	882e1f3c-232f-5271-b944-d372354f2927	La ragazza ha un'immagine esotica per il ragazzo.	The girl has an exotic image of the boy.				
+esotica	eh-soh-TEE-kah	esotico	ADJ	exotic	1	1e-06	1	1e-06	esotico	ADJ	A	amod	Gender=Fem|Number=Sing	4e603e23-a97e-56df-b275-3b2cff2253ec	882e1f3c-232f-5271-b944-d372354f2927	La ragazza ha un'immagine esotica per il ragazzo.	The girl has an exotic image of the boy.				

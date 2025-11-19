@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dotto		dotto	ADJ		1	1e-06	1	1e-06	dotto	ADJ	A	root	Gender=Masc|Number=Sing	63711b0b-7b45-595d-978b-86087524a5a8	4bc3be53-2183-5c32-95b0-c56dc33d741f	Nessuno è così dotto, che possa sapere tutto.	No one is so learned that he can know all things.				
+dotto	DOHT-toh	dotto	ADJ	learned; erudite	1	1e-06	1	1e-06	dotto	ADJ	A	root	Gender=Masc|Number=Sing	63711b0b-7b45-595d-978b-86087524a5a8	4bc3be53-2183-5c32-95b0-c56dc33d741f	Nessuno è così dotto, che possa sapere tutto.	No one is so learned that he can know all things.				

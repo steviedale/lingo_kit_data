@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-diffidente		diffidente	ADJ		1	1e-06	1	1e-06	diffidente	ADJ	A	root	Number=Sing	60e997af-c867-5cea-b886-0b5ef7bad7fa	1a60df30-81d5-5c51-8d37-56343ca23002	Tom è diffidente.	Tom's suspicious.				
+diffidente	deef-fee-DEHN-teh	diffidente	ADJ	suspicious; mistrustful	1	1e-06	1	1e-06	diffidente	ADJ	A	root	Number=Sing	60e997af-c867-5cea-b886-0b5ef7bad7fa	1a60df30-81d5-5c51-8d37-56343ca23002	Tom è diffidente.	Tom's suspicious.				

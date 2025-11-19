@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dotati		dotato	ADJ		2	2e-06	2	2e-06	dotato	ADJ	A	amod	Gender=Masc|Number=Plur	3af6401d-75bf-5ef9-b97d-dc8aa01235b2	0cab0aef-2517-565c-99e8-8c6209cdf248	Sono studenti dotati.	They're able students.	Loro sono studenti dotati.	They're able students.		
+dotati	doh-TAH-tee	dotato	ADJ	gifted; well-equipped (plural)	2	2e-06	2	2e-06	dotato	ADJ	A	amod	Gender=Masc|Number=Plur	3af6401d-75bf-5ef9-b97d-dc8aa01235b2	0cab0aef-2517-565c-99e8-8c6209cdf248	Sono studenti dotati.	They're able students.	Loro sono studenti dotati.	They're able students.		

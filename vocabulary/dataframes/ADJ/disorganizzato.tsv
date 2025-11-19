@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-disorganizzata		disorganizzato	ADJ		1	1e-06	1	1e-06	disorganizzato	ADJ	A	root	Gender=Fem|Number=Sing	6e1b1f71-de67-5ff7-885c-7337033edf20	f8eb128d-b41e-5b2b-92ab-cf734a30a6ec	Sono disorganizzata.	I'm disorganized.				
+disorganizzata	dee-sohr-gah-neets-TSAH-tah	disorganizzato	ADJ	disorganized	1	1e-06	1	1e-06	disorganizzato	ADJ	A	root	Gender=Fem|Number=Sing	6e1b1f71-de67-5ff7-885c-7337033edf20	f8eb128d-b41e-5b2b-92ab-cf734a30a6ec	Sono disorganizzata.	I'm disorganized.				

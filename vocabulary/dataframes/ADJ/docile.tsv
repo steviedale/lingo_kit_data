@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-docili		docile	ADJ		1	1e-06	1	1e-06	docile	ADJ	A	conj	Number=Plur	bdbd91e0-b9fd-579f-9260-b009ae95eb8a	dc68c3ee-9647-5c9b-869d-53c3881d7fe5	Le mucche sembravano grandi e docili.	The cows looked big and docile.				
+docili	doh-CHEE-lee	docile	ADJ	docile; gentle (plural)	1	1e-06	1	1e-06	docile	ADJ	A	conj	Number=Plur	bdbd91e0-b9fd-579f-9260-b009ae95eb8a	dc68c3ee-9647-5c9b-869d-53c3881d7fe5	Le mucche sembravano grandi e docili.	The cows looked big and docile.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-edile		edile	ADJ		2	2e-06	2	2e-06	edile	ADJ	A	amod	Number=Sing	26bf9df3-8ee5-5f4e-8e9e-b5f7567fbeac	4d824114-1c10-5716-b95d-ad2ea8fc82ec	È un operaio edile.	He's a construction worker.	Lui è un operaio edile.	He's a construction worker.		
+edile	eh-DEE-leh	edile	ADJ	building; construction	2	2e-06	2	2e-06	edile	ADJ	A	amod	Number=Sing	26bf9df3-8ee5-5f4e-8e9e-b5f7567fbeac	4d824114-1c10-5716-b95d-ad2ea8fc82ec	È un operaio edile.	He's a construction worker.	Lui è un operaio edile.	He's a construction worker.		
