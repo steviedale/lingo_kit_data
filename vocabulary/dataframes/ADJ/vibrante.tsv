@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-vibrante		vibrante	ADJ		1	1e-06	1	1e-06	vibrante	ADJ	A	amod	Number=Sing	ab5e8f50-dd1b-5f04-bb9a-aaac7ba110e0	8858209e-8798-5235-a591-81299f6d6389	La Francia è una vibrante democrazia.	France is a vibrant democracy.				
+vibrante	vee-BRAHN-teh	vibrante	ADJ	vibrant; resonant	1	1e-06	1	1e-06	vibrante	ADJ	A	amod	Number=Sing	ab5e8f50-dd1b-5f04-bb9a-aaac7ba110e0	8858209e-8798-5235-a591-81299f6d6389	La Francia è una vibrante democrazia.	France is a vibrant democracy.				
