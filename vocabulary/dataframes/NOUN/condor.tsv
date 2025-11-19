@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-condor		condor	NOUN		1	1e-06	1	1e-06	condor	NOUN	S	nsubj	Gender=Masc	3ae932c5-92ad-500d-ba80-f5bb6a2d2698	d60c8e5d-7525-55b6-ba95-362b4a4ce133	I condor non si sono mai riprodotti negli zoo.	Condors have never bred in zoos.				
+condor	KOHN-dohr	condor	NOUN	condor	1	1e-06	1	1e-06	condor	NOUN	S	nsubj	Gender=Masc	3ae932c5-92ad-500d-ba80-f5bb6a2d2698	d60c8e5d-7525-55b6-ba95-362b4a4ce133	I condor non si sono mai riprodotti negli zoo.	Condors have never bred in zoos.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-corsivo		corsivo	NOUN		1	1e-06	1	1e-06	corsivo	NOUN	S	obl	Gender=Masc|Number=Sing	ba0489d7-28bb-5a6d-b568-b84c0444ae64	328b27bc-5f3e-539d-ae38-d8b6c6a924f3	Preferisco scrivere in corsivo.	I prefer to write in cursive.				
+corsivo	kohr-SEE-voh	corsivo	NOUN	italics; cursive	1	1e-06	1	1e-06	corsivo	NOUN	S	obl	Gender=Masc|Number=Sing	ba0489d7-28bb-5a6d-b568-b84c0444ae64	328b27bc-5f3e-539d-ae38-d8b6c6a924f3	Preferisco scrivere in corsivo.	I prefer to write in cursive.				

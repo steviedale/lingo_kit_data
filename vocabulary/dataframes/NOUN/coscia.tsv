@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-coscia		coscia	NOUN		1	1e-06	1	1e-06	coscia	NOUN	S	nmod	Gender=Fem|Number=Sing	3a7d651d-277f-5695-b699-d999e3da5449	51f4eeb3-5f09-5338-b78f-cb699735039d	Lei porta un tatuaggio di una lucertola sulla sua coscia.	She has a tattoo of a lizard on her thigh.				
+coscia	KOH-shyah	coscia	NOUN	thigh	1	1e-06	1	1e-06	coscia	NOUN	S	nmod	Gender=Fem|Number=Sing	3a7d651d-277f-5695-b699-d999e3da5449	51f4eeb3-5f09-5338-b78f-cb699735039d	Lei porta un tatuaggio di una lucertola sulla sua coscia.	She has a tattoo of a lizard on her thigh.				

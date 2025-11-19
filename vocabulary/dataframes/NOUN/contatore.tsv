@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-contatore		contatore	NOUN		1	1e-06	1	1e-06	contatore	NOUN	S	obj	Gender=Masc|Number=Sing	b494334c-bf57-5aed-b9d7-27dcb162ddb6	39e0f3f9-60ac-54d2-a054-3a68ccbe2c83	Devi azzerare il contatore dei chilometri.	You have to reset the odometer.				
+contatore	kohn-tah-TOH-reh	contatore	NOUN	meter; counter	1	1e-06	1	1e-06	contatore	NOUN	S	obj	Gender=Masc|Number=Sing	b494334c-bf57-5aed-b9d7-27dcb162ddb6	39e0f3f9-60ac-54d2-a054-3a68ccbe2c83	Devi azzerare il contatore dei chilometri.	You have to reset the odometer.				

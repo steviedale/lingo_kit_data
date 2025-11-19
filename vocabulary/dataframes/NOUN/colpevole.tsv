@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-colpevole		colpevole	NOUN		2	2e-06	2	2e-06	colpevole	NOUN	S	nsubj	Number=Sing	1a73704c-14e4-54d9-b980-e7ea2ddead6a	9f9cd65f-fff4-5e15-913d-2307525d40f9	Il colpevole era canadese.	The perpetrator was Canadian.	Tom è il colpevole.	Tom is the guilty one.		
+colpevole	kohl-peh-VOH-leh	colpevole	NOUN	culprit; guilty person	2	2e-06	2	2e-06	colpevole	NOUN	S	nsubj	Number=Sing	1a73704c-14e4-54d9-b980-e7ea2ddead6a	9f9cd65f-fff4-5e15-913d-2307525d40f9	Il colpevole era canadese.	The perpetrator was Canadian.	Tom è il colpevole.	Tom is the guilty one.		

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-combustione		combustione	NOUN		1	1e-06	1	1e-06	combustione	NOUN	S	obl	Gender=Fem|Number=Sing	d113b7a9-5d4d-5794-a723-681ad610d116	bf4450cc-1d3e-5da8-8f57-6dda01e15fe8	L'ossigeno è necessario per la combustione.	Oxygen is needed for combustion.				
+combustione	kohm-boo-STYOH-neh	combustione	NOUN	combustion	1	1e-06	1	1e-06	combustione	NOUN	S	obl	Gender=Fem|Number=Sing	d113b7a9-5d4d-5794-a723-681ad610d116	bf4450cc-1d3e-5da8-8f57-6dda01e15fe8	L'ossigeno è necessario per la combustione.	Oxygen is needed for combustion.				

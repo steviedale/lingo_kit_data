@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cosmonauti		cosmonauta	NOUN		1	1e-06	1	1e-06	cosmonauta	NOUN	S	nsubj	Gender=Masc|Number=Plur	069a3046-3894-5b17-b3c0-a00b7f5a73d9	ff8bbe5f-d78e-57a7-8f8e-a77b3fc98499	I cosmonauti indossano delle tute spaziali.	Cosmonauts wear spacesuits.				
+cosmonauti	koh-smoh-NOW-tee	cosmonauta	NOUN	cosmonauts	1	1e-06	1	1e-06	cosmonauta	NOUN	S	nsubj	Gender=Masc|Number=Plur	069a3046-3894-5b17-b3c0-a00b7f5a73d9	ff8bbe5f-d78e-57a7-8f8e-a77b3fc98499	I cosmonauti indossano delle tute spaziali.	Cosmonauts wear spacesuits.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ciurma		ciurma	NOUN		1	1e-06	1	1e-06	ciurma	NOUN	S	nmod	Gender=Fem|Number=Sing	86babbaf-ef7f-509b-8b53-bc24357244b5	3baca6a0-d8d7-5c96-9093-820ab91169e2	Ho bisogno di una ciurma.	I need a crew.				
+ciurma	CHYOOR-mah	ciurma	NOUN	crew; ship crew	1	1e-06	1	1e-06	ciurma	NOUN	S	nmod	Gender=Fem|Number=Sing	86babbaf-ef7f-509b-8b53-bc24357244b5	3baca6a0-d8d7-5c96-9093-820ab91169e2	Ho bisogno di una ciurma.	I need a crew.				
