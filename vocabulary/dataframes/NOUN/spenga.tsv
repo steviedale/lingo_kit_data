@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-spenga		spenga	NOUN		1	1e-06	1	1e-06	spenga	NOUN	S	root	Gender=Fem|Number=Sing	d89b2f35-7d8b-557a-9d3c-48e6c96f1c7a	849dc53b-dc9f-5fd6-b789-784666f796d5	La spenga.	Turn that off.				
+spenga	SPEHN-gah	spenga	NOUN	turn	1	1e-06	1	1e-06	spenga	NOUN	S	root	Gender=Fem|Number=Sing	d89b2f35-7d8b-557a-9d3c-48e6c96f1c7a	849dc53b-dc9f-5fd6-b789-784666f796d5	La spenga.	Turn that off.				

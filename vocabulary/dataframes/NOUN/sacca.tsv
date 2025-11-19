@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sacca		sacca	NOUN		1	1e-06	1	1e-06	sacca	NOUN	S	nsubj	Gender=Fem|Number=Sing	5be96d78-5d37-58c4-9af5-96fdc8a8d94a	5e008dbc-4754-5744-955f-753230bcd7cf	Dov'è la mia sacca da golf?	Where's my golf bag?				
+sacca	SAHK-kah	sacca	NOUN	bag	1	1e-06	1	1e-06	sacca	NOUN	S	nsubj	Gender=Fem|Number=Sing	5be96d78-5d37-58c4-9af5-96fdc8a8d94a	5e008dbc-4754-5744-955f-753230bcd7cf	Dov'è la mia sacca da golf?	Where's my golf bag?				

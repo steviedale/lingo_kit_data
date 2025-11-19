@@ -1,3 +1,3 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sputi		sputo	NOUN		2	2e-06	3	3e-06	sputo	NOUN	S	root	Gender=Masc|Number=Plur	3ac72bf4-af2e-5bd8-a25c-9c9b40ada115	5c3d94ec-6ea5-5683-8b2b-1366e01d3345	Lo sputi fuori!	Spit it out!	La sputi fuori!	Spit it out!		
-sputo		sputo	NOUN		1	1e-06	3	3e-06	sputo	NOUN	S	root	Gender=Masc|Number=Sing	60351378-6e05-5fb7-b5a4-f20c7670a454	5c3d94ec-6ea5-5683-8b2b-1366e01d3345	Sputo sulla tomba di tua madre!	I spit on your mother's grave!				
+sputi	SPOO-tee	sputo	NOUN	spits	2	2e-06	3	3e-06	sputo	NOUN	S	root	Gender=Masc|Number=Plur	3ac72bf4-af2e-5bd8-a25c-9c9b40ada115	5c3d94ec-6ea5-5683-8b2b-1366e01d3345	Lo sputi fuori!	Spit it out!	La sputi fuori!	Spit it out!		
+sputo	SPOO-toh	sputo	NOUN	spit	1	1e-06	3	3e-06	sputo	NOUN	S	root	Gender=Masc|Number=Sing	60351378-6e05-5fb7-b5a4-f20c7670a454	5c3d94ec-6ea5-5683-8b2b-1366e01d3345	Sputo sulla tomba di tua madre!	I spit on your mother's grave!				

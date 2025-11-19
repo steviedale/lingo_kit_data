@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-statunitense		statunitense	NOUN		1	1e-06	1	1e-06	statunitense	NOUN	S	nsubj	Number=Sing	03ff5691-a885-5e81-bdcc-2765f82ce4b3	cf726b38-e48a-582a-8bb1-f59029f32c9f	Lei sposò uno statunitense.	She married an American.				
+statunitense	stah-too-nee-TEHN-seh	statunitense	NOUN	american	1	1e-06	1	1e-06	statunitense	NOUN	S	nsubj	Number=Sing	03ff5691-a885-5e81-bdcc-2765f82ce4b3	cf726b38-e48a-582a-8bb1-f59029f32c9f	Lei sposò uno statunitense.	She married an American.				

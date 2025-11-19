@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-suole		suola	NOUN		1	1e-06	1	1e-06	suola	NOUN	S	nsubj:pass	Gender=Fem|Number=Plur	55308181-cb01-5d21-820a-bac16cfdf6db	b7a644e2-311e-5940-9bfa-b6c945a1e864	Le suole delle mie scarpe sono consumate.	The soles of my shoes are worn.				
+suole	SWOH-leh	suola	NOUN	soles	1	1e-06	1	1e-06	suola	NOUN	S	nsubj:pass	Gender=Fem|Number=Plur	55308181-cb01-5d21-820a-bac16cfdf6db	b7a644e2-311e-5940-9bfa-b6c945a1e864	Le suole delle mie scarpe sono consumate.	The soles of my shoes are worn.				

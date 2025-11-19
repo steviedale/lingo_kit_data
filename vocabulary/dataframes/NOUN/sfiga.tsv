@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sfiga		sfiga	NOUN		2	2e-06	2	2e-06	sfiga	NOUN	S	root	Gender=Fem|Number=Sing	911b969b-d85c-5154-988c-1f1abe2ad732	8fd22c30-f5f6-5a55-8370-45d333285fbe	Non portare sfiga.	Don't bring bad luck.	Questa è davvero sfiga!	This is really bad luck!		
+sfiga	SFEE-gah	sfiga	NOUN	bad luck	2	2e-06	2	2e-06	sfiga	NOUN	S	root	Gender=Fem|Number=Sing	911b969b-d85c-5154-988c-1f1abe2ad732	8fd22c30-f5f6-5a55-8370-45d333285fbe	Non portare sfiga.	Don't bring bad luck.	Questa è davvero sfiga!	This is really bad luck!		

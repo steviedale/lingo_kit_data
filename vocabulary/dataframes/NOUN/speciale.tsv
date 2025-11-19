@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-speciale		speciale	NOUN		1	1e-06	1	1e-06	speciale	NOUN	S	obl	Gender=Masc|Number=Sing	fd18f49d-35f3-55ec-a0ff-ffb6a094ac70	6277d333-0c91-53af-aa50-fa347db29ab4	Il curry non era nulla di speciale.	The curry was nothing special.				
+speciale	speh-CHYAH-leh	speciale	NOUN	special	1	1e-06	1	1e-06	speciale	NOUN	S	obl	Gender=Masc|Number=Sing	fd18f49d-35f3-55ec-a0ff-ffb6a094ac70	6277d333-0c91-53af-aa50-fa347db29ab4	Il curry non era nulla di speciale.	The curry was nothing special.				

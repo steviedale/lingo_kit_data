@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sbirri		sbirro	NOUN		2	2e-06	2	2e-06	sbirro	NOUN	S	root	Gender=Masc|Number=Plur	d1fd0f72-8fdb-5132-a40c-54ed56118730	138cb7ad-0f3b-5ee5-8137-dfa3aec70b09	Loro sono sbirri.	They're cops.	Sono sbirri.	They're cops.		
+sbirri	SBEER-ree	sbirro	NOUN	cops	2	2e-06	2	2e-06	sbirro	NOUN	S	root	Gender=Masc|Number=Plur	d1fd0f72-8fdb-5132-a40c-54ed56118730	138cb7ad-0f3b-5ee5-8137-dfa3aec70b09	Loro sono sbirri.	They're cops.	Sono sbirri.	They're cops.		

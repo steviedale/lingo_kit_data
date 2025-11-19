@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-siesta		siesta	NOUN		1	1e-06	1	1e-06	siesta	NOUN	S	obj	Gender=Fem|Number=Sing	881a88f4-908f-5556-a16e-18096a4e25f7	bb97f7e2-67d1-50ae-8922-25c17f59f77e	Vado a fare una siesta.	I'm going to have a siesta.				
+siesta	SYEH-stah	siesta	NOUN	siesta	1	1e-06	1	1e-06	siesta	NOUN	S	obj	Gender=Fem|Number=Sing	881a88f4-908f-5556-a16e-18096a4e25f7	bb97f7e2-67d1-50ae-8922-25c17f59f77e	Vado a fare una siesta.	I'm going to have a siesta.				

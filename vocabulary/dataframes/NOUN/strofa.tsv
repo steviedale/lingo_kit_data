@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-strofa		strofa	NOUN		1	1e-06	1	1e-06	strofa	NOUN	S	obj	Gender=Fem|Number=Sing	6a84d5ed-e298-5521-be4f-586c28b0cae7	91b3de61-1ebb-5ff4-9fdf-0163c7209b53	Lui tradusse la strofa in Inglese.	He translated the verse into English.				
+strofa	STROH-fah	strofa	NOUN	verse	1	1e-06	1	1e-06	strofa	NOUN	S	obj	Gender=Fem|Number=Sing	6a84d5ed-e298-5521-be4f-586c28b0cae7	91b3de61-1ebb-5ff4-9fdf-0163c7209b53	Lui tradusse la strofa in Inglese.	He translated the verse into English.				

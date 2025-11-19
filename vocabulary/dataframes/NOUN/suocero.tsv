@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-suocero		suocero	NOUN		1	1e-06	1	1e-06	suocero	NOUN	S	root	Gender=Masc|Number=Sing	dbe0371c-8843-5d6b-ba78-ccbe58159b1e	bf45246b-1806-5f72-8509-16ae732c5dae	Il padre di mia moglie è il mio suocero.	My wife's father is my father-in-law.				
+suocero	swoh-CHEH-roh	suocero	NOUN	law	1	1e-06	1	1e-06	suocero	NOUN	S	root	Gender=Masc|Number=Sing	dbe0371c-8843-5d6b-ba78-ccbe58159b1e	bf45246b-1806-5f72-8509-16ae732c5dae	Il padre di mia moglie è il mio suocero.	My wife's father is my father-in-law.				

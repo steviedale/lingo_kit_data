@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sorella		sor	NOUN		1	1e-06	1	1e-06	sor+le	NOUN+PRON	S	root	Gender=Fem|Number=Sing|Clitic=Yes|Person=3|PronType=Prs	184ae09d-893e-596c-ba0d-e3f0e5d32a5a	db54c13c-d5f0-56a7-a4a7-464c1cacdbfb	È sua sorella?	Is she your sister?				
+sorella	soh-REHL-lah	sor	NOUN	sister	1	1e-06	1	1e-06	sor+le	NOUN+PRON	S	root	Gender=Fem|Number=Sing|Clitic=Yes|Person=3|PronType=Prs	184ae09d-893e-596c-ba0d-e3f0e5d32a5a	db54c13c-d5f0-56a7-a4a7-464c1cacdbfb	È sua sorella?	Is she your sister?				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-siepe		siepe	NOUN		1	1e-06	1	1e-06	siepe	NOUN	S	obl	Gender=Fem|Number=Sing	7d106a6b-981b-50b5-aa9b-0f9ae0095a60	29697144-c2ed-5c45-8499-788008ec4d6b	Il gatto è passato attraverso alla siepe.	The cat got through the hedge.				
+siepe	SYEH-peh	siepe	NOUN	hedge	1	1e-06	1	1e-06	siepe	NOUN	S	obl	Gender=Fem|Number=Sing	7d106a6b-981b-50b5-aa9b-0f9ae0095a60	29697144-c2ed-5c45-8499-788008ec4d6b	Il gatto è passato attraverso alla siepe.	The cat got through the hedge.				

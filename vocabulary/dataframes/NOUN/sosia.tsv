@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sosia		sosia	NOUN		1	1e-06	1	1e-06	sosia	NOUN	S	root	Gender=Masc|Number=Sing	b22c9458-f0bc-530e-8179-ab44d456f651	bc59eaf4-eb55-558e-8497-2177d30b56a2	Meg è il sosia di sua madre.	Meg is the double of her mother.				
+sosia	SOH-syah	sosia	NOUN	double	1	1e-06	1	1e-06	sosia	NOUN	S	root	Gender=Masc|Number=Sing	b22c9458-f0bc-530e-8179-ab44d456f651	bc59eaf4-eb55-558e-8497-2177d30b56a2	Meg è il sosia di sua madre.	Meg is the double of her mother.				

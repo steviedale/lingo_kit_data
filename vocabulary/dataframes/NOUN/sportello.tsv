@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sportello		sportello	NOUN		1	1e-06	1	1e-06	sportello	NOUN	S	nsubj	Gender=Masc|Number=Sing	2d448543-9cf0-54af-ad0a-56a5a10563ca	06407afd-6c12-5564-a9b4-45723ec5ab9d	Lo sportello della macchina non chiude bene.	The car door doesn't close properly.				
+sportello	spohr-TEHL-loh	sportello	NOUN	car	1	1e-06	1	1e-06	sportello	NOUN	S	nsubj	Gender=Masc|Number=Sing	2d448543-9cf0-54af-ad0a-56a5a10563ca	06407afd-6c12-5564-a9b4-45723ec5ab9d	Lo sportello della macchina non chiude bene.	The car door doesn't close properly.				

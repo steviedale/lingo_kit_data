@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-status		status	NOUN		1	1e-06	1	1e-06	status	NOUN	S	root	Gender=Masc	fd85c01a-3130-5d49-91a4-96940552d67a	15b3d64b-33ed-5536-a61e-a7cf534eaaad	Una macchina costosa è uno status symbol.	An expensive car is a status symbol.				
+status	STAH-toos	status	NOUN	status	1	1e-06	1	1e-06	status	NOUN	S	root	Gender=Masc	fd85c01a-3130-5d49-91a4-96940552d67a	15b3d64b-33ed-5536-a61e-a7cf534eaaad	Una macchina costosa è uno status symbol.	An expensive car is a status symbol.				

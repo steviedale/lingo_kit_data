@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-stagista		stagista	NOUN		1	1e-06	1	1e-06	stagista	NOUN	S	root	Number=Sing	3a24ef72-e621-5888-a4cd-6f933d17d95a	5ee75ffb-64d1-5ecb-bfbc-c99cd7ed4ad0	Tom è uno stagista.	Tom is an intern.				
+stagista	stah-JEE-stah	stagista	NOUN	intern	1	1e-06	1	1e-06	stagista	NOUN	S	root	Number=Sing	3a24ef72-e621-5888-a4cd-6f933d17d95a	5ee75ffb-64d1-5ecb-bfbc-c99cd7ed4ad0	Tom è uno stagista.	Tom is an intern.				

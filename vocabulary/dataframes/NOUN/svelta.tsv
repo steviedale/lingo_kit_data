@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-svelta		svelta	NOUN		2	2e-06	2	2e-06	svelta	NOUN	S	obl	Gender=Fem|Number=Sing	10f78804-3ce5-578f-b723-287116cf5035	e4d6bb01-ed79-5c27-8940-48b8587b1ed6	Spero che ti passi alla svelta il raffreddore.	I hope you'll get over your cold soon.	Mamma! Svelta!	Mom! Hurry!		
+svelta	SVEHL-tah	svelta	NOUN	cold	2	2e-06	2	2e-06	svelta	NOUN	S	obl	Gender=Fem|Number=Sing	10f78804-3ce5-578f-b723-287116cf5035	e4d6bb01-ed79-5c27-8940-48b8587b1ed6	Spero che ti passi alla svelta il raffreddore.	I hope you'll get over your cold soon.	Mamma! Svelta!	Mom! Hurry!		

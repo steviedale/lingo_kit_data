@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-shot.		shot.	NOUN		1	1e-06	1	1e-06	shot.	NOUN	S	root	Gender=Masc|Number=Sing	ddf53a34-0e35-511a-bd06-bc9409580f62	540db409-6195-5c38-89e6-0d451ebf2002	Vodka e limonata potrebbero essere lo shot.	A vodka and lemonade might be the shot.				
+shot.	SOHT.	shot.	NOUN	shot	1	1e-06	1	1e-06	shot.	NOUN	S	root	Gender=Masc|Number=Sing	ddf53a34-0e35-511a-bd06-bc9409580f62	540db409-6195-5c38-89e6-0d451ebf2002	Vodka e limonata potrebbero essere lo shot.	A vodka and lemonade might be the shot.				
