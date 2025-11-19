@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-intenditor		intenditor	NOUN		1	1e-06	1	1e-06	intenditor	NOUN	S	nmod	Gender=Masc|Number=Plur	7174ebe7-d972-524f-a78b-8d56678850d8	a617c04a-54bb-5488-9e27-a0454ae7e2a1	A buon intenditor, poche parole.	A word to the wise is enough.				
+intenditor	een-tehn-dee-TOR	intenditor	NOUN	the wise; those who understand	1	1e-06	1	1e-06	intenditor	NOUN	S	nmod	Gender=Masc|Number=Plur	7174ebe7-d972-524f-a78b-8d56678850d8	a617c04a-54bb-5488-9e27-a0454ae7e2a1	A buon intenditor, poche parole.	A word to the wise is enough.				

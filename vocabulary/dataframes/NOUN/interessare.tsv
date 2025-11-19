@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-interessato		interessare	NOUN		1	1e-06	1	1e-06	interessare	NOUN	S	nsubj	Gender=Masc|Number=Sing	f014d9a7-9a12-5048-915d-1a00afbd8279	33c6aac3-4099-5dd4-bbce-2be4fffeab87	A cosa sei interessato?	What are you interested in?				
+interessato	een-teh-reh-SAH-toh	interessare	NOUN	interested person	1	1e-06	1	1e-06	interessare	NOUN	S	nsubj	Gender=Masc|Number=Sing	f014d9a7-9a12-5048-915d-1a00afbd8279	33c6aac3-4099-5dd4-bbce-2be4fffeab87	A cosa sei interessato?	What are you interested in?				

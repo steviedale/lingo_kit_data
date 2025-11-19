@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-incolpami		incolpame	NOUN		1	1e-06	1	1e-06	incolpame	NOUN	S	root	Gender=Masc|Number=Plur	b5e54aec-88c1-5bbb-9b1c-e75ca770e0e0	6092103c-9236-5242-b738-78bedff4c534	Incolpami per tutto.	Blame me for everything.				
+incolpami	een-KOHL-pah-mee	incolpame	NOUN	blame me	1	1e-06	1	1e-06	incolpame	NOUN	S	root	Gender=Masc|Number=Plur	b5e54aec-88c1-5bbb-9b1c-e75ca770e0e0	6092103c-9236-5242-b738-78bedff4c534	Incolpami per tutto.	Blame me for everything.				

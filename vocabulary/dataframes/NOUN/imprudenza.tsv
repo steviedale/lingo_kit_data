@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-imprudenza		imprudenza	NOUN		1	1e-06	1	1e-06	imprudenza	NOUN	S	nsubj	Gender=Fem|Number=Sing	aeffcaa8-5445-5dc6-be4f-705daf66306a	c66d118a-d137-56a4-87de-7ef9295cf9b0	L'imprudenza causa spesso degli incidenti.	Carelessness often causes accidents.				
+imprudenza	eem-proo-DEN-tsah	imprudenza	NOUN	recklessness; imprudence	1	1e-06	1	1e-06	imprudenza	NOUN	S	nsubj	Gender=Fem|Number=Sing	aeffcaa8-5445-5dc6-be4f-705daf66306a	c66d118a-d137-56a4-87de-7ef9295cf9b0	L'imprudenza causa spesso degli incidenti.	Carelessness often causes accidents.				

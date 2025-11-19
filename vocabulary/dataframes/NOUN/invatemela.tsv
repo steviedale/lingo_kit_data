@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-invatemela		invatemela	NOUN		1	1e-06	1	1e-06	invatemela	NOUN	S	root	Gender=Fem|Number=Sing	798c6152-46b6-5a14-8696-4d7ee8583a7d	23a4f880-1974-5381-9d3c-2da63991a443	Invatemela.	Send it to me.				
+invatemela	een-vah-TEH-meh-lah	invatemela	NOUN	send it to me	1	1e-06	1	1e-06	invatemela	NOUN	S	root	Gender=Fem|Number=Sing	798c6152-46b6-5a14-8696-4d7ee8583a7d	23a4f880-1974-5381-9d3c-2da63991a443	Invatemela.	Send it to me.				

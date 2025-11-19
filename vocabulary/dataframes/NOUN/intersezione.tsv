@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-intersezione		intersezione	NOUN		1	1e-06	1	1e-06	intersezione	NOUN	S	nmod	Gender=Fem|Number=Sing	e3f147c3-f1dd-5a6c-884c-8eef0cc4db0d	83f2b95a-a30c-5bc8-bfba-b515e1d7b95c	Qual è il nome di questa intersezione?	What's the name of this intersection?				
+intersezione	een-tehr-seh-TSYOH-neh	intersezione	NOUN	intersection	1	1e-06	1	1e-06	intersezione	NOUN	S	nmod	Gender=Fem|Number=Sing	e3f147c3-f1dd-5a6c-884c-8eef0cc4db0d	83f2b95a-a30c-5bc8-bfba-b515e1d7b95c	Qual è il nome di questa intersezione?	What's the name of this intersection?				

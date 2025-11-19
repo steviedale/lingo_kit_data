@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-immigranti		immigrante	NOUN		1	1e-06	1	1e-06	immigrante	NOUN	S	nmod	Gender=Masc|Number=Plur	c8c24fa6-dae8-5314-8849-b84306dffa81	ff415b7b-7596-58be-9623-4862a50ad2df	L'America è una terra di immigranti.	America is a land of immigrants.				
+immigranti	eem-mee-GRAHN-tee	immigrante	NOUN	immigrants	1	1e-06	1	1e-06	immigrante	NOUN	S	nmod	Gender=Masc|Number=Plur	c8c24fa6-dae8-5314-8849-b84306dffa81	ff415b7b-7596-58be-9623-4862a50ad2df	L'America è una terra di immigranti.	America is a land of immigrants.				
