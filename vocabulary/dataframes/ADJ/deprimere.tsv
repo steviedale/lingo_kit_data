@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-depressi		deprimere	ADJ		1	1e-06	1	1e-06	deprimere	ADJ	A	xcomp	Gender=Masc|Number=Plur	3e4bc617-6e34-5683-b930-23509b3a43fa	5669f6a4-126d-580a-bb5e-d4251fb5a07a	Sembrate depressi.	You look gloomy.				
+depressi	deh-PREHS-see	deprimere	ADJ	depressed; downcast (plural)	1	1e-06	1	1e-06	deprimere	ADJ	A	xcomp	Gender=Masc|Number=Plur	3e4bc617-6e34-5683-b930-23509b3a43fa	5669f6a4-126d-580a-bb5e-d4251fb5a07a	Sembrate depressi.	You look gloomy.				

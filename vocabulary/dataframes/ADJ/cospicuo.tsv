@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cospicua		cospicuo	ADJ		1	1e-06	1	1e-06	cospicuo	ADJ	A	root	Gender=Fem|Number=Sing	db807653-38bc-5d4f-ae78-d950270d6900	a1219a17-0037-5305-8f39-f46aa0d49ab4	La cicatrice sulla sua fronte è cospicua.	The scar on his forehead is conspicuous.				
+cospicua	koh-SPEE-kwah	cospicuo	ADJ	conspicuous; substantial	1	1e-06	1	1e-06	cospicuo	ADJ	A	root	Gender=Fem|Number=Sing	db807653-38bc-5d4f-ae78-d950270d6900	a1219a17-0037-5305-8f39-f46aa0d49ab4	La cicatrice sulla sua fronte è cospicua.	The scar on his forehead is conspicuous.				

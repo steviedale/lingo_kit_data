@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cubani		cubano	ADJ		1	1e-06	1	1e-06	cubano	ADJ	A	amod	Gender=Masc|Number=Plur	b5b13f96-b60c-5db1-b48c-d2cedc070ad8	5e165a35-2471-5ebf-8f62-ed85b93cfd93	I sigari cubani sono tra i migliori al mondo.	Cuban cigars are among the best in the world.				
+cubani	koo-BAH-nee	cubano	ADJ	Cuban (plural)	1	1e-06	1	1e-06	cubano	ADJ	A	amod	Gender=Masc|Number=Plur	b5b13f96-b60c-5db1-b48c-d2cedc070ad8	5e165a35-2471-5ebf-8f62-ed85b93cfd93	I sigari cubani sono tra i migliori al mondo.	Cuban cigars are among the best in the world.				
