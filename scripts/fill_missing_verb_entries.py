@@ -1147,6 +1147,304 @@ VERB_CONFIGS: Dict[str, VerbConfig] = {
 }
 
 
+EXTRA_VERB_CONFIGS: Dict[str, VerbConfig] = {}
+
+
+def register_extra(lemmas: Sequence[str], *senses: Sense | str, **kwargs) -> None:
+    config = make_config(*senses, **kwargs)
+    for lemma in lemmas:
+        EXTRA_VERB_CONFIGS[lemma] = config
+
+
+register_extra(["imponetemare", "imporre"], "impose")
+register_extra(
+    ["impormare"],
+    "impose",
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(["importato"], "care", "import")
+register_extra(["importunare"], "bother", "pester")
+register_extra(["impostare"], "set up", "configure")
+register_extra(
+    ["impovare", "impoverire"],
+    Sense("impoverish"),
+    Sense("get poorer", past="got poorer", participle="gotten poorer", gerund="getting poorer"),
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(["imprecare", "impricare", "imprire"], "curse", "swear")
+register_extra(["impressionare", "impressionato"], "impress")
+register_extra(["impreziosire"], "embellish", "enrich")
+register_extra(["imprigionare"], "imprison")
+register_extra(["imprimere"], "imprint", "impress")
+register_extra(["imputare"], "impute", "blame")
+register_extra(["inalare", "inalòre"], "inhale")
+register_extra(["inarcare"], "arch", "bend")
+register_extra(
+    ["incagliare"],
+    Sense("run aground"),
+    Sense("get stuck", past="got stuck", participle="gotten stuck", gerund="getting stuck"),
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(["incantare"], "enchant", "delight")
+register_extra(["incappare"], "run into", "get caught")
+register_extra(["incaricare"], "assign", "charge")
+register_extra(["incarnare"], "embody", "incarnate")
+register_extra(["incartare"], "wrap")
+register_extra(["incassare"], "cash", "collect")
+register_extra(["incastrare"], "fit together", "frame")
+register_extra(["incatenare"], "chain")
+register_extra(
+    ["incazzare"],
+    "infuriate",
+    Sense("get furious", past="got furious", participle="gotten furious", gerund="getting furious"),
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(["incentrare"], "focus", "center on")
+register_extra(
+    ["inchinare"],
+    "bow",
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(["inchiodare"], "nail", "pin down")
+register_extra(["inciampare"], "trip", "stumble")
+register_extra(["incidere", "incisare"], "engrave")
+register_extra(["inclinare"], "tilt", "incline")
+register_extra(["includere"], "include")
+register_extra(["incollare"], "glue", "paste")
+register_extra(["incolparmare", "incolpatotere", "incolpere"], "blame")
+register_extra(["incombere"], "loom", "be imminent")
+register_extra(
+    ["incominciare", "inizio"],
+    "start",
+    Sense("begin", past="began", participle="begun", gerund="beginning"),
+)
+register_extra(
+    ["incontriamoce", "incontro"],
+    Sense("meet", past="met", participle="met", gerund="meeting"),
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(["incoraggiare"], "encourage")
+register_extra(["incorniciare"], "frame")
+register_extra(["incoronare"], "crown")
+register_extra(["incorporare", "incorporre"], "incorporate")
+register_extra(["incrementare"], "increase", "boost")
+register_extra(["incrocare", "incrociare"], "cross", "intersect")
+register_extra(["inculcare"], "instill")
+register_extra(["incuriosire", "incuriosito"], "intrigue", "arouse curiosity")
+register_extra(["incutere"], "instill fear", "strike fear into")
+register_extra(["indagare", "indagherare"], "investigate", "look into")
+register_extra(
+    ["indebitare", "indebitato"],
+    Sense("indebt"),
+    Sense("go into debt", past="went into debt", participle="gone into debt", gerund="going into debt"),
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(
+    ["indebolare", "indebolire"],
+    Sense("weaken"),
+    Sense("get weak", past="got weak", participle="gotten weak", gerund="getting weak"),
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(["indendere"], "intend")
+register_extra(["indicare"], "indicate", "point out")
+register_extra(["indicizzare"], "index")
+register_extra(["indietreggiare"], "back up", "retreat")
+register_extra(["indignare"], "outrage", "anger")
+register_extra(["indirizzare"], "address", "direct")
+register_extra(["individuare"], "identify", "spot")
+register_extra(
+    ["indolenzire", "indolenzito"],
+    Sense("make sore"),
+    Sense("get sore", past="got sore", participle="gotten sore", gerund="getting sore"),
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(
+    ["indossavare", "indosso"],
+    Sense("wear", past="wore", participle="worn", gerund="wearing"),
+)
+register_extra(["indossere", "indurre"], "induce")
+register_extra(["indovinare", "indoviniare"], "guess")
+register_extra(["indulgere"], "indulge")
+register_extra(["indurire"], "harden")
+register_extra(["industrializzato"], "industrialize")
+register_extra(["infangare"], "muddy", "sully")
+register_extra(["infastidere"], "annoy", "bother")
+register_extra(
+    ["inferocito", "inferoco", "infuriare"],
+    Sense("enrage"),
+    Sense("get furious", past="got furious", participle="gotten furious", gerund="getting furious"),
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(["infestare"], "infest")
+register_extra(["infettare"], "infect")
+register_extra(["infiammare"], "inflame", "ignite")
+register_extra(["infilare"], "insert", "slip in")
+register_extra(["infischiare"], "not care", "shrug off")
+register_extra(["infliggere"], "inflict")
+register_extra(["influenzare"], "influence")
+register_extra(["influire"], "influence", "affect")
+register_extra(["informare"], "inform", "tell")
+register_extra(
+    ["infortunare"],
+    Sense("injure"),
+    Sense("get injured", past="got injured", participle="gotten injured", gerund="getting injured"),
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(
+    ["infrangere", "infranse", "infranserare", "infrantare", "infrante"],
+    Sense("break", past="broke", participle="broken", gerund="breaking"),
+)
+register_extra(["ingannare", "ingannatemere", "inganno"], "deceive", "trick")
+register_extra(
+    ["ingelosire"],
+    Sense("make jealous"),
+    Sense("get jealous", past="got jealous", participle="gotten jealous", gerund="getting jealous"),
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(["ingerire"], "ingest", "swallow")
+register_extra(["inghiottire", "ingoiare"], "swallow")
+register_extra(
+    ["inginoccare", "inginocchiare", "inginocciare"],
+    Sense("kneel"),
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(["ingrandire"], "enlarge", "grow bigger")
+register_extra(
+    ["ingrare", "ingrassare", "ingrasserare"],
+    Sense("gain weight", past="gained weight", participle="gained weight", gerund="gaining weight"),
+)
+register_extra(
+    ["ingraziare"],
+    "ingratiate",
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+)
+register_extra(["innaffiare"], "water")
+register_extra(["innalzare"], "raise", "lift")
+register_extra(
+    ["innamorato"],
+    Sense("fall in love", past="fell in love", participle="fallen in love", gerund="falling in love"),
+    reflexive_prons=set(REFLEXIVE_PRON_SET),
+    drop_reflexive_objects=True,
+)
+register_extra(["innervosire", "innervosmere"], "annoy", "make nervous", Sense("get nervous", past="got nervous", participle="gotten nervous", gerund="getting nervous"))
+register_extra(["inoltrare"], "forward", "send on")
+register_extra(["inondare"], "flood")
+register_extra(["inquinare", "inquinere"], "pollute")
+register_extra(["insanguinare"], "cover in blood")
+register_extra(["insaporire"], "season")
+register_extra(
+    ["insegnamare", "insegnatemere", "insegnere"],
+    Sense("teach", past="taught", participle="taught", gerund="teaching"),
+)
+register_extra(["inseguire"], "chase", "pursue")
+register_extra(["inserire", "insierire"], "insert")
+register_extra(["insinuare"], "insinuate")
+register_extra(["insistere"], "insist")
+register_extra(["insonorizzare"], "soundproof")
+register_extra(["insorrere"], "rise up", "revolt")
+register_extra(["installare"], "install")
+register_extra(["instillare"], "instill")
+register_extra(["insultare", "insultatemare", "insulto"], "insult")
+register_extra(["intagliare"], "carve")
+register_extra(["intasare"], "clog")
+register_extra(["integrare"], "integrate")
+register_extra(["intentare"], "file a lawsuit")
+register_extra(
+    ["intento"],
+    Sense("be intent", third="is intent", past="was intent", participle="been intent", gerund="being intent"),
+)
+register_extra(
+    ["intenzionato"],
+    Sense(
+        "be determined",
+        third="is determined",
+        past="was determined",
+        participle="been determined",
+        gerund="being determined",
+    ),
+)
+register_extra(["interagire"], "interact")
+register_extra(
+    ["interdetto"],
+    Sense(
+        "be bewildered",
+        third="is bewildered",
+        past="was bewildered",
+        participle="been bewildered",
+        gerund="being bewildered",
+    ),
+)
+register_extra(["interesse"], "interest")
+register_extra(["interferire"], "interfere")
+register_extra(["interpretare", "interprete"], "interpret")
+register_extra(["interrogare", "interrogato"], "question", "interrogate")
+register_extra(
+    ["interrompere"],
+    Sense("interrupt", past="interrupted", participle="interrupted", gerund="interrupting"),
+)
+register_extra(["intervenire"], "intervene")
+register_extra(["intervistare"], "interview")
+register_extra(["intimidire"], "intimidate")
+register_extra(["intimorire"], "frighten", "scare")
+register_extra(["intonare"], "intone", "strike up")
+register_extra(["intontire"], "stun", "daze")
+register_extra(["intorpidire"], "numb")
+register_extra(["intralciare"], "hinder", "obstruct")
+register_extra(["intrappolare", "intrapporre"], "trap")
+register_extra(
+    ["intraprendere"],
+    Sense("undertake", past="undertook", participle="undertaken", gerund="undertaking"),
+)
+register_extra(["intrattenere"], "entertain", "amuse")
+register_extra(["intrigare"], "intrigue")
+register_extra(["introdurre"], "introduce")
+register_extra(["intromettere"], "interfere", "meddle")
+register_extra(
+    ["intrufolare"],
+    Sense("sneak in", past="snuck in", participle="snuck in", gerund="sneaking in"),
+)
+register_extra(["intuire"], "sense", "guess")
+register_extra(["inutilizzare"], "leave unused")
+register_extra(["invadere"], "invade")
+register_extra(
+    ["invatare", "inviamere", "inviare", "inviire"],
+    Sense("send", past="sent", participle="sent", gerund="sending"),
+)
+register_extra(["invecchiare", "invecchire"], "age")
+register_extra(["inventato"], "invent")
+register_extra(["invertire"], "reverse")
+register_extra(
+    ["investare"],
+    Sense("run over", past="ran over", participle="run over", gerund="running over"),
+)
+register_extra(["investigare"], "investigate")
+register_extra(
+    ["investire"],
+    "invest",
+    Sense("run over", past="ran over", participle="run over", gerund="running over"),
+)
+register_extra(["invidere", "invidiare"], "envy")
+register_extra(["invitato"], "invite")
+register_extra(["invocare"], "invoke", "call upon")
+register_extra(["invogliare"], "encourage", "tempt")
+register_extra(["inzuppare"], "soak")
+
+VERB_CONFIGS.update(EXTRA_VERB_CONFIGS)
+
+
 def load_additional_configs() -> None:
     data_dir = Path(__file__).resolve().parent / "data"
     if not data_dir.exists():

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-incatenato		incatenare	VERB		1	1e-06	1	1e-06	incatenare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7af9cae8-f7ed-5b89-b104-49897af5abfc	65f741c7-465a-54b9-bb7a-2c7e1b31015d	Il prigioniero è incatenato.	The prisoner is in chains.				
+incatenato	een-kah-teh-NAH-toh	incatenare	VERB	chained	1	1e-06	1	1e-06	incatenare	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7af9cae8-f7ed-5b89-b104-49897af5abfc	65f741c7-465a-54b9-bb7a-2c7e1b31015d	Il prigioniero è incatenato.	The prisoner is in chains.				

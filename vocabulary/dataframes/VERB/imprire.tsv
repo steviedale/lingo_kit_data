@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-impreco		imprire	VERB		1	1e-06	1	1e-06	imprire	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	788922de-9fef-5356-851e-925dad865534	688735fd-345b-54c4-8ee6-c35da303b44e	Io impreco troppo?	Do I curse too much?				
+impreco	eem-PREH-koh	imprire	VERB	I curse; I swear	1	1e-06	1	1e-06	imprire	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	788922de-9fef-5356-851e-925dad865534	688735fd-345b-54c4-8ee6-c35da303b44e	Io impreco troppo?	Do I curse too much?				
