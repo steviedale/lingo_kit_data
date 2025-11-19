@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-mediterraneo		mediterraneo	ADJ		1	1e-06	1	1e-06	mediterraneo	ADJ	A	amod	Gender=Masc|Number=Sing	7c28265a-ac5f-5225-bee1-178574755d61	76185290-5a01-5397-b62c-21aa8f256490	L'Algeria è un nostro partner mediterraneo.	Algeria is our Mediterranean partner.				
+mediterraneo	meh-dee-tehr-RAH-nehoh	mediterraneo	ADJ	Mediterranean	1	1e-06	1	1e-06	mediterraneo	ADJ	A	amod	Gender=Masc|Number=Sing	7c28265a-ac5f-5225-bee1-178574755d61	76185290-5a01-5397-b62c-21aa8f256490	L'Algeria è un nostro partner mediterraneo.	Algeria is our Mediterranean partner.				

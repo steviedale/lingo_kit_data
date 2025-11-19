@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-lentament		lentament	ADJ		1	1e-06	1	1e-06	lentament	ADJ	A	xcomp	Number=Sing	9402675e-de80-57b1-8ec5-e8096efcbe7f	0fc46180-572f-5d8a-b0e8-a86ac885eac5	Potreste parlare un po' più lentament?	Could you please speak a little slower?				
+lentament	lehn-TAH-mehnt	lentament	ADJ	slowly	1	1e-06	1	1e-06	lentament	ADJ	A	xcomp	Number=Sing	9402675e-de80-57b1-8ec5-e8096efcbe7f	0fc46180-572f-5d8a-b0e8-a86ac885eac5	Potreste parlare un po' più lentament?	Could you please speak a little slower?				

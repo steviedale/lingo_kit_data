@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-meritevole		meritevole	ADJ		1	1e-06	1	1e-06	meritevole	ADJ	A	root	Number=Sing	5b4fedb4-04f0-5fcc-9d11-ebe9af91ec41	47f24b64-a943-5ba1-a737-691366995207	La sua invenzione è meritevole di attenzione.	His invention is worthy of attention.				
+meritevole	meh-ree-teh-VOH-leh	meritevole	ADJ	worthy; deserving	1	1e-06	1	1e-06	meritevole	ADJ	A	root	Number=Sing	5b4fedb4-04f0-5fcc-9d11-ebe9af91ec41	47f24b64-a943-5ba1-a737-691366995207	La sua invenzione è meritevole di attenzione.	His invention is worthy of attention.				
