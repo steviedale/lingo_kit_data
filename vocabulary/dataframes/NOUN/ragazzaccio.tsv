@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ragazzaccio		ragazzaccio	NOUN		1	1e-06	1	1e-06	ragazzaccio	NOUN	S	root	Gender=Masc|Number=Sing	4b86a71b-2a8f-5502-96a5-14d0cd0586ed	bcad7b4e-6837-5775-9003-6447992e2d54	Tom è un ragazzaccio.	Tom is a bad boy.				
+ragazzaccio	rah-gahts-ZAH-choh	ragazzaccio	NOUN	bad kid; punk	1	1e-06	1	1e-06	ragazzaccio	NOUN	S	root	Gender=Masc|Number=Sing	4b86a71b-2a8f-5502-96a5-14d0cd0586ed	bcad7b4e-6837-5775-9003-6447992e2d54	Tom è un ragazzaccio.	Tom is a bad boy.				

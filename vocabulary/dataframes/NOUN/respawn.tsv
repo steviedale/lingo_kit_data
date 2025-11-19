@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-respawn		respawn	NOUN		1	1e-06	1	1e-06	respawn	NOUN	S	obl	Gender=Masc	17991146-8aa7-5b0d-a514-fb0278439d5c	a077ae36-4c2c-555e-8961-d5d70707ee79	Credo fortemente nel respawn dopo la morte.	I strongly believe in respawn after death.				
+respawn	ree-SPAWN	respawn	NOUN	respawn	1	1e-06	1	1e-06	respawn	NOUN	S	obl	Gender=Masc	17991146-8aa7-5b0d-a514-fb0278439d5c	a077ae36-4c2c-555e-8961-d5d70707ee79	Credo fortemente nel respawn dopo la morte.	I strongly believe in respawn after death.				

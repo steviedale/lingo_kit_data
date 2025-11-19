@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-routine		routine	NOUN		1	1e-06	1	1e-06	routine	NOUN	S	obl	Gender=Fem	4f83ba69-1131-589f-bc85-892d75a8571e	f9f9d744-5092-581e-9aff-029317f2c5f3	Sono stanco della routine di ogni giorno.	I am tired of the day-to-day routine of life.				
+routine	roo-TEEN	routine	NOUN	routine	1	1e-06	1	1e-06	routine	NOUN	S	obl	Gender=Fem	4f83ba69-1131-589f-bc85-892d75a8571e	f9f9d744-5092-581e-9aff-029317f2c5f3	Sono stanco della routine di ogni giorno.	I am tired of the day-to-day routine of life.				

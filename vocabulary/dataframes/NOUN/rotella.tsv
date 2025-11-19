@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-rotella		rotella	NOUN		1	1e-06	1	1e-06	rotella	NOUN	S	obj	Gender=Fem|Number=Sing	cb10a440-474e-5059-b380-2d32509091aa	1999eb72-46a9-5245-9588-b7616c6ee933	Quel vecchio deve avere qualche rotella fuori posto.	That old man must be off his rock.				
+rotella	roh-TEL-lah	rotella	NOUN	small wheel	1	1e-06	1	1e-06	rotella	NOUN	S	obj	Gender=Fem|Number=Sing	cb10a440-474e-5059-b380-2d32509091aa	1999eb72-46a9-5245-9588-b7616c6ee933	Quel vecchio deve avere qualche rotella fuori posto.	That old man must be off his rock.				

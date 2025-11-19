@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ronza		ronza	NOUN		1	1e-06	1	1e-06	ronza	NOUN	S	compound	Gender=Fem|Number=Sing	4936a056-852c-5d32-b1de-dd44bb4c62f6	80606950-a1af-519b-938e-ac086a44ebc2	Un'ape ronza.	A bee buzzes.				
+ronza	RON-dzah	ronza	NOUN	buzz	1	1e-06	1	1e-06	ronza	NOUN	S	compound	Gender=Fem|Number=Sing	4936a056-852c-5d32-b1de-dd44bb4c62f6	80606950-a1af-519b-938e-ac086a44ebc2	Un'ape ronza.	A bee buzzes.				

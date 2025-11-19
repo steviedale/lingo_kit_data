@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-reietto		reietto	NOUN		1	1e-06	1	1e-06	reietto	NOUN	S	root	Gender=Masc|Number=Sing	4237742b-56d0-5d48-9a1f-eb71220f5378	12fa060d-3aed-5681-adc6-0bfe2285f487	Tom è un reietto.	Tom is an outcast.				
+reietto	reh-YEHT-toh	reietto	NOUN	outcast	1	1e-06	1	1e-06	reietto	NOUN	S	root	Gender=Masc|Number=Sing	4237742b-56d0-5d48-9a1f-eb71220f5378	12fa060d-3aed-5681-adc6-0bfe2285f487	Tom è un reietto.	Tom is an outcast.				

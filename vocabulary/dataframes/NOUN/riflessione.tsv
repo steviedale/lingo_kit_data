@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-riflessione		riflessione	NOUN		1	1e-06	1	1e-06	riflessione	NOUN	S	nsubj	Gender=Fem|Number=Sing	5d7c0b94-9f93-57bb-8672-93d178cee44f	e8e32113-2446-5f7a-916d-eb633c937f1c	La riflessione è molto necessaria.	Consideration is very necessary.				
+riflessione	ree-fleh-SYOH-neh	riflessione	NOUN	reflection; thought	1	1e-06	1	1e-06	riflessione	NOUN	S	nsubj	Gender=Fem|Number=Sing	5d7c0b94-9f93-57bb-8672-93d178cee44f	e8e32113-2446-5f7a-916d-eb633c937f1c	La riflessione è molto necessaria.	Consideration is very necessary.				

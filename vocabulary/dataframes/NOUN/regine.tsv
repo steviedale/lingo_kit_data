@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-regine		regine	NOUN		1	1e-06	1	1e-06	regine	NOUN	S	nsubj	Gender=Fem|Number=Plur	992743d5-adc7-54ea-9de4-ea639fb1341f	0caa08b1-ea09-5aca-b1db-6621e3e7d40e	Le due Regine sono molto diverse.	The two Queens are very different.				
+regine	reh-JEE-neh	regine	NOUN	queens	1	1e-06	1	1e-06	regine	NOUN	S	nsubj	Gender=Fem|Number=Plur	992743d5-adc7-54ea-9de4-ea639fb1341f	0caa08b1-ea09-5aca-b1db-6621e3e7d40e	Le due Regine sono molto diverse.	The two Queens are very different.				

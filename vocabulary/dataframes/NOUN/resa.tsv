@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-resa		resa	NOUN		1	1e-06	1	1e-06	resa	NOUN	S	obl	Gender=Fem|Number=Sing	21cc6e18-b025-5448-968e-8fd2fdc91a14	19ed814e-7591-5e7a-a922-4847ab72d5e4	La guarnigione fu costretta alla resa.	The garrison was forced to surrender.				
+resa	REH-zah	resa	NOUN	surrender; yield	1	1e-06	1	1e-06	resa	NOUN	S	obl	Gender=Fem|Number=Sing	21cc6e18-b025-5448-968e-8fd2fdc91a14	19ed814e-7591-5e7a-a922-4847ab72d5e4	La guarnigione fu costretta alla resa.	The garrison was forced to surrender.				

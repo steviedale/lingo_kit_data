@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-raffica		raffica	NOUN		1	1e-06	1	1e-06	raffica	NOUN	S	nsubj	Gender=Fem|Number=Sing	f6201021-cf24-5cc5-a4ad-46773ad036f7	b914de02-b379-51a1-94c8-34869399792a	Una raffica di vento gonfiò le vele.	A gust of wind swelled the sails.				
+raffica	RAHF-fee-kah	raffica	NOUN	gust; burst	1	1e-06	1	1e-06	raffica	NOUN	S	nsubj	Gender=Fem|Number=Sing	f6201021-cf24-5cc5-a4ad-46773ad036f7	b914de02-b379-51a1-94c8-34869399792a	Una raffica di vento gonfiò le vele.	A gust of wind swelled the sails.				
