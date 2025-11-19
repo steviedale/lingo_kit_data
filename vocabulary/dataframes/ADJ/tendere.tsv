@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tese		tendere	ADJ		2	2e-06	2	2e-06	tendere	ADJ	A	root	Gender=Fem|Number=Plur	00b505f5-aa2b-5cb6-8de4-5533ff430a6e	e7da5e78-3d43-554e-8bc5-cb3997f72073	Siete troppo tese.	You're too tense.	Sono tese.	They're jittery.		
+tese	TEH-seh	tendere	ADJ	tense; taut (plural)	2	2e-06	2	2e-06	tendere	ADJ	A	root	Gender=Fem|Number=Plur	00b505f5-aa2b-5cb6-8de4-5533ff430a6e	e7da5e78-3d43-554e-8bc5-cb3997f72073	Siete troppo tese.	You're too tense.	Sono tese.	They're jittery.		
