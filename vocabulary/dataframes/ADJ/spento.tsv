@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-spento		spento	ADJ		1	1e-06	1	1e-06	spento	ADJ	A	root	Gender=Masc|Number=Sing	4e50b5b9-617a-54bf-b56f-b5bd8e98d0be	b38270c4-033b-5d39-acb5-b2b6613b741f	Il fuoco è spento.	The fire is out.				
+spento	SPEN-toh	spento	ADJ	off; dull	1	1e-06	1	1e-06	spento	ADJ	A	root	Gender=Masc|Number=Sing	4e50b5b9-617a-54bf-b56f-b5bd8e98d0be	b38270c4-033b-5d39-acb5-b2b6613b741f	Il fuoco è spento.	The fire is out.				

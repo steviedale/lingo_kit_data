@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-smilzo		smilzo	ADJ		2	2e-06	2	2e-06	smilzo	ADJ	A	ccomp	Gender=Masc|Number=Sing	91914cc4-3dd4-5bd6-b99e-a161030efb60	64b432cf-36eb-5342-920f-ca67c5514961	Penso che Tom sia smilzo.	I think Tom is skinny.	Io penso che Tom sia smilzo.	I think Tom is skinny.		
+smilzo	SMEEL-tsoh	smilzo	ADJ	skinny; scrawny	2	2e-06	2	2e-06	smilzo	ADJ	A	ccomp	Gender=Masc|Number=Sing	91914cc4-3dd4-5bd6-b99e-a161030efb60	64b432cf-36eb-5342-920f-ca67c5514961	Penso che Tom sia smilzo.	I think Tom is skinny.	Io penso che Tom sia smilzo.	I think Tom is skinny.		

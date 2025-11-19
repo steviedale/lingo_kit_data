@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-stampati		stampare	ADJ		1	1e-06	1	1e-06	stampare	ADJ	A	amod	Gender=Masc|Number=Plur	b459a0bf-746b-51f8-b1b5-cdc0b9bb7d79	9c06614e-16e6-5aa4-8a24-dfc54088a20f	I libri appena stampati hanno un buon odore.	Newly printed books smell good.				
+stampati	stahm-PAH-tee	stampare	ADJ	printed (plural)	1	1e-06	1	1e-06	stampare	ADJ	A	amod	Gender=Masc|Number=Plur	b459a0bf-746b-51f8-b1b5-cdc0b9bb7d79	9c06614e-16e6-5aa4-8a24-dfc54088a20f	I libri appena stampati hanno un buon odore.	Newly printed books smell good.				

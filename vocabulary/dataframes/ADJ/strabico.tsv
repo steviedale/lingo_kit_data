@@ -1,3 +1,3 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-strabico		strabico	ADJ		1	1e-06	2	2e-06	strabico	ADJ	A	amod	Gender=Masc|Number=Sing	0ae98058-d2d2-566b-8389-5328c98fc9a2	948143d4-88b9-597f-80dc-3282869b6040	Ho un occhio strabico.	I'm cross-eyed.				
-strabica		strabico	ADJ		1	1e-06	2	2e-06	strabico	ADJ	A	root	Gender=Fem|Number=Sing	bbaadfdf-0ad9-514a-8847-6fd139d8b2d6	948143d4-88b9-597f-80dc-3282869b6040	Emma è strabica.	Emma is cross-eyed.				
+strabico	STRAH-bee-koh	strabico	ADJ	cross-eyed (masculine)	1	1e-06	2	2e-06	strabico	ADJ	A	amod	Gender=Masc|Number=Sing	0ae98058-d2d2-566b-8389-5328c98fc9a2	948143d4-88b9-597f-80dc-3282869b6040	Ho un occhio strabico.	I'm cross-eyed.				
+strabica	STRAH-bee-kah	strabico	ADJ	cross-eyed (feminine)	1	1e-06	2	2e-06	strabico	ADJ	A	root	Gender=Fem|Number=Sing	bbaadfdf-0ad9-514a-8847-6fd139d8b2d6	948143d4-88b9-597f-80dc-3282869b6040	Emma è strabica.	Emma is cross-eyed.				

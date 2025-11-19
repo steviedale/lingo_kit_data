@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-stantio		stantio	ADJ		1	1e-06	1	1e-06	stantio	ADJ	A	amod	Gender=Masc|Number=Sing	a1c90c43-6e78-556a-aa32-c41ad326f073	33dc416b-4b9b-5ab3-8580-5403043d1e60	Questo pesce stantio ha uno strano sapore.	This old fish has a strange taste.				
+stantio	stahn-TEE-oh	stantio	ADJ	stale; musty	1	1e-06	1	1e-06	stantio	ADJ	A	amod	Gender=Masc|Number=Sing	a1c90c43-6e78-556a-aa32-c41ad326f073	33dc416b-4b9b-5ab3-8580-5403043d1e60	Questo pesce stantio ha uno strano sapore.	This old fish has a strange taste.				

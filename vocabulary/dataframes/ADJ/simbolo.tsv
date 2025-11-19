@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-simbolo		simbolo	ADJ		1	1e-06	1	1e-06	simbolo	ADJ	A	amod	Gender=Masc|Number=Sing	ed63910e-ea43-5a78-83b0-e35cbd80bd86	0bcf1003-5c31-54ff-b5e5-87302cb68a03	L'uccello simbolo del Minnesota è la zanzara.	Minnesota's state bird is the mosquito.				
+simbolo	SEEM-boh-loh	simbolo	ADJ	symbol	1	1e-06	1	1e-06	simbolo	ADJ	A	amod	Gender=Masc|Number=Sing	ed63910e-ea43-5a78-83b0-e35cbd80bd86	0bcf1003-5c31-54ff-b5e5-87302cb68a03	L'uccello simbolo del Minnesota è la zanzara.	Minnesota's state bird is the mosquito.				
