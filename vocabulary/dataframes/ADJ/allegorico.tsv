@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-allegorica		allegorico	ADJ		1	1e-06	1	1e-06	allegorico	ADJ	A	amod	Gender=Fem|Number=Sing	e7e26553-b967-5630-8c65-1cf2aa390f09	49e26c1d-5cf0-5be9-a625-94c9c9673688	È una descrizione molto allegorica.	It's a very allegoric description.				
+allegorica	ahl-leh-goh-REE-kah	allegorico	ADJ	allegorical	1	1e-06	1	1e-06	allegorico	ADJ	A	amod	Gender=Fem|Number=Sing	e7e26553-b967-5630-8c65-1cf2aa390f09	49e26c1d-5cf0-5be9-a625-94c9c9673688	È una descrizione molto allegorica.	It's a very allegoric description.				

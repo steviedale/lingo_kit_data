@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-acid		acid	ADJ		1	1e-06	1	1e-06	acid	ADJ	A	amod		591c1384-56db-5271-8b7d-224d35d85dd7	e1e9adfa-7ec4-5c7b-af70-42c88513aa0a	Non era ancora chiamato acid rock all'epoca?	Wasn't it still called acid rock back then?				
+acid	AH-cheed	acid	ADJ	acid; psychedelic	1	1e-06	1	1e-06	acid	ADJ	A	amod		591c1384-56db-5271-8b7d-224d35d85dd7	e1e9adfa-7ec4-5c7b-af70-42c88513aa0a	Non era ancora chiamato acid rock all'epoca?	Wasn't it still called acid rock back then?				

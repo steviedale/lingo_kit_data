@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-anacronistico		anacronistico	ADJ		1	1e-06	1	1e-06	anacronistico	ADJ	A	amod	Gender=Masc|Number=Sing	830fe5d3-5205-5c64-85a5-3de281c9e367	5f0be206-8940-56e4-85bf-f637f8d94a5f	Questo è un momento anacronistico.	This is an anachronistic moment.				
+anacronistico	ah-nah-kroh-nee-STEE-koh	anacronistico	ADJ	anachronistic	1	1e-06	1	1e-06	anacronistico	ADJ	A	amod	Gender=Masc|Number=Sing	830fe5d3-5205-5c64-85a5-3de281c9e367	5f0be206-8940-56e4-85bf-f637f8d94a5f	Questo è un momento anacronistico.	This is an anachronistic moment.				

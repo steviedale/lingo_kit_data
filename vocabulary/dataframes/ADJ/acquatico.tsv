@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-acquatico		acquatico	ADJ		1	1e-06	1	1e-06	acquatico	ADJ	A	amod	Gender=Masc|Number=Sing	6c9ab312-aa46-51c3-8a70-b5c2e8cc60f9	508dd6e3-5f76-5aab-acc8-575a91920a0e	Più tardi andremo al parco acquatico.	Later, we'll visit the aquatic park.				
+acquatico	ahk-qwah-TEE-koh	acquatico	ADJ	aquatic; water-based	1	1e-06	1	1e-06	acquatico	ADJ	A	amod	Gender=Masc|Number=Sing	6c9ab312-aa46-51c3-8a70-b5c2e8cc60f9	508dd6e3-5f76-5aab-acc8-575a91920a0e	Più tardi andremo al parco acquatico.	Later, we'll visit the aquatic park.				

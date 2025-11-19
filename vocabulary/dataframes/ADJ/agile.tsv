@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-agile		agile	ADJ		1	1e-06	1	1e-06	agile	ADJ	A	root	Number=Sing	3e4377ed-a69b-5587-88a3-61429ece1dde	934172b5-6929-54b1-9140-3bf603fecffe	Tom è sorprendentemente agile.	Tom is surprisingly agile.				
+agile	ah-JEE-leh	agile	ADJ	agile; nimble	1	1e-06	1	1e-06	agile	ADJ	A	root	Number=Sing	3e4377ed-a69b-5587-88a3-61429ece1dde	934172b5-6929-54b1-9140-3bf603fecffe	Tom è sorprendentemente agile.	Tom is surprisingly agile.				
