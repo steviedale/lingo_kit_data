@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-indagato		indagato	NOUN		1	1e-06	1	1e-06	indagato	NOUN	S	nsubj	Gender=Masc|Number=Sing	d0bf1e9d-3a59-558f-97f4-9352e97f9a9a	e03ca18f-a7be-5f91-a006-754785c1c43d	C'è un unico indagato.	There's only one person under investigation.				
+indagato	een-dah-GAH-toh	indagato	NOUN	person under investigation	1	1e-06	1	1e-06	indagato	NOUN	S	nsubj	Gender=Masc|Number=Sing	d0bf1e9d-3a59-558f-97f4-9352e97f9a9a	e03ca18f-a7be-5f91-a006-754785c1c43d	C'è un unico indagato.	There's only one person under investigation.				

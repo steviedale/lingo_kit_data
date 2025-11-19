@@ -1,3 +1,3 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-incolpo		incolpo	NOUN		2	2e-06	3	3e-06	incolpo	NOUN	S	root	Gender=Masc|Number=Sing	9e64229f-a671-5638-83e8-279894e2344c	7ecde3d8-c717-574b-8c4e-3ce6d747df05	Incolpo Tom.	I blame Tom.	Incolpo Tom per quello.	I blame Tom for that.		
-incolpi		incolpo	NOUN		1	1e-06	3	3e-06	incolpo	NOUN	S	root	Gender=Masc|Number=Plur	5d5be129-c008-5e66-b823-790764b82878	7ecde3d8-c717-574b-8c4e-3ce6d747df05	Incolpi Tom?	Do you blame Tom?				
+incolpo	een-KOHL-poh	incolpo	NOUN	I blame	2	2e-06	3	3e-06	incolpo	NOUN	S	root	Gender=Masc|Number=Sing	9e64229f-a671-5638-83e8-279894e2344c	7ecde3d8-c717-574b-8c4e-3ce6d747df05	Incolpo Tom.	I blame Tom.	Incolpo Tom per quello.	I blame Tom for that.		
+incolpi	een-KOHL-pee	incolpo	NOUN	you blame	1	1e-06	3	3e-06	incolpo	NOUN	S	root	Gender=Masc|Number=Plur	5d5be129-c008-5e66-b823-790764b82878	7ecde3d8-c717-574b-8c4e-3ce6d747df05	Incolpi Tom?	Do you blame Tom?				

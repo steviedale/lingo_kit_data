@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-imbocco		imboccare	NOUN		1	1e-06	1	1e-06	imboccare	NOUN	S	nsubj	Gender=Masc|Number=Sing	00a9ef5c-66c3-56dc-abef-9cae8ebb1300	a468e8ff-03b9-5075-872f-aef821a63ab0	Dov'è l'imbocco dell'autostrada?	Where's the motorway entrance?				
+imbocco	eem-BOHK-koh	imboccare	NOUN	entrance; on-ramp	1	1e-06	1	1e-06	imboccare	NOUN	S	nsubj	Gender=Masc|Number=Sing	00a9ef5c-66c3-56dc-abef-9cae8ebb1300	a468e8ff-03b9-5075-872f-aef821a63ab0	Dov'è l'imbocco dell'autostrada?	Where's the motorway entrance?				

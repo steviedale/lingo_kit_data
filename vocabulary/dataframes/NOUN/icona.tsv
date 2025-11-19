@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-icona		icona	NOUN		1	1e-06	1	1e-06	icona	NOUN	S	root	Gender=Fem|Number=Sing	ccf517e5-f4b8-51cf-886b-ff5a1868a436	dd2db481-0ec7-51c8-84fd-8251d2918266	L'orologio del Big Ben è un'icona inglese.	Big Ben's clock is an English icon.				
+icona	ee-KOH-nah	icona	NOUN	icon	1	1e-06	1	1e-06	icona	NOUN	S	root	Gender=Fem|Number=Sing	ccf517e5-f4b8-51cf-886b-ff5a1868a436	dd2db481-0ec7-51c8-84fd-8251d2918266	L'orologio del Big Ben è un'icona inglese.	Big Ben's clock is an English icon.				

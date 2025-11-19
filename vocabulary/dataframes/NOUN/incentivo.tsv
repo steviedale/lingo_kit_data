@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-incentivi		incentivo	NOUN		1	1e-06	1	1e-06	incentivo	NOUN	S	nsubj	Gender=Masc|Number=Plur	15dd09dd-2e46-5874-a178-f818683fd339	f3e2d615-8709-5903-98f5-2b1671010f07	Gli incentivi aiutano sempre.	Incentives always help.				
+incentivi	een-chen-TEE-vee	incentivo	NOUN	incentives	1	1e-06	1	1e-06	incentivo	NOUN	S	nsubj	Gender=Masc|Number=Plur	15dd09dd-2e46-5874-a178-f818683fd339	f3e2d615-8709-5903-98f5-2b1671010f07	Gli incentivi aiutano sempre.	Incentives always help.				

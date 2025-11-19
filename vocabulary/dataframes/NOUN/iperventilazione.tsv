@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-iperventilazione		iperventilazione	NOUN		1	1e-06	1	1e-06	iperventilazione	NOUN	S	root	Gender=Fem|Number=Sing	5f07dc3c-f0d9-5510-8422-8d8cee683b8d	3f204597-176a-5f87-82ec-c0e28958d968	Tom è in iperventilazione.	Tom's hyperventilating.				
+iperventilazione	ee-pehr-vehn-tee-lah-TSYOH-neh	iperventilazione	NOUN	hyperventilation	1	1e-06	1	1e-06	iperventilazione	NOUN	S	root	Gender=Fem|Number=Sing	5f07dc3c-f0d9-5510-8422-8d8cee683b8d	3f204597-176a-5f87-82ec-c0e28958d968	Tom è in iperventilazione.	Tom's hyperventilating.				

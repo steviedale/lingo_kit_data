@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-intrate		intrata	NOUN		1	1e-06	1	1e-06	intrata	NOUN	S	obl	Gender=Fem|Number=Plur	8a295b02-ab0e-57dc-a6ce-a506034e517e	32b95208-665d-589c-aca4-345c3efb2c0e	Lasciate ogne speranza, voi ch'intrate.	Abandon hope, all ye who enter here.				
+intrate	een-TRAH-teh	intrata	NOUN	enter (you all)	1	1e-06	1	1e-06	intrata	NOUN	S	obl	Gender=Fem|Number=Plur	8a295b02-ab0e-57dc-a6ce-a506034e517e	32b95208-665d-589c-aca4-345c3efb2c0e	Lasciate ogne speranza, voi ch'intrate.	Abandon hope, all ye who enter here.				

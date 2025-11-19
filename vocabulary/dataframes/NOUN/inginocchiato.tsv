@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-inginocchiati		inginocchiato	NOUN		1	1e-06	1	1e-06	inginocchiato	NOUN	S	root	Gender=Masc|Number=Plur	aa813eb1-78cf-5942-93b6-c2a600155bb0	74ae581e-3760-5075-a6f9-eed674dfa5b9	Inginocchiati.	Get on your knees.				
+inginocchiati	een-jee-nohk-KYAH-tee	inginocchiato	NOUN	kneel	1	1e-06	1	1e-06	inginocchiato	NOUN	S	root	Gender=Masc|Number=Plur	aa813eb1-78cf-5942-93b6-c2a600155bb0	74ae581e-3760-5075-a6f9-eed674dfa5b9	Inginocchiati.	Get on your knees.				

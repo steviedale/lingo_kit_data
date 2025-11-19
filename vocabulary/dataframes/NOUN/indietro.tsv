@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-indietro		indietro	NOUN		1	1e-06	1	1e-06	indietro	NOUN	S	obl	Gender=Masc|Number=Sing	73d517a2-be7d-5923-b5e0-238f7c2591d7	dd00edb2-4736-5401-b5a8-e089e86e5a81	Cadde all'indietro.	He fell backward.				
+indietro	een-DYEH-troh	indietro	NOUN	backward motion	1	1e-06	1	1e-06	indietro	NOUN	S	obl	Gender=Masc|Number=Sing	73d517a2-be7d-5923-b5e0-238f7c2591d7	dd00edb2-4736-5401-b5a8-e089e86e5a81	Cadde all'indietro.	He fell backward.				

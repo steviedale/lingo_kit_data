@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-itinerario		itinerario	NOUN		1	1e-06	1	1e-06	itinerario	NOUN	S	nsubj	Gender=Masc|Number=Sing	dc56ec8f-477d-5f18-81e4-ecfea5dc1633	0070428a-d4bd-5c71-b313-b236c732c8df	Qual è l'itinerario per Parigi?	Which is the route to Paris?				
+itinerario	ee-tee-neh-RAH-ryoh	itinerario	NOUN	itinerary; route	1	1e-06	1	1e-06	itinerario	NOUN	S	nsubj	Gender=Masc|Number=Sing	dc56ec8f-477d-5f18-81e4-ecfea5dc1633	0070428a-d4bd-5c71-b313-b236c732c8df	Qual è l'itinerario per Parigi?	Which is the route to Paris?				
