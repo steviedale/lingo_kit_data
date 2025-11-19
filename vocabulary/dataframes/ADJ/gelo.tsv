@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gela		gelo	ADJ		1	1e-06	1	1e-06	gelo	ADJ	A	amod	Gender=Fem|Number=Sing	4398aef4-3c8a-50e6-aee8-054a20f77bd3	e8bed559-2044-53c5-9092-6c7096e605af	L'acqua gela a zero gradi Celsius.	Water freezes at 0 degrees Centigrade.				
+gela	JEH-lah	gelo	ADJ	freezes	1	1e-06	1	1e-06	gelo	ADJ	A	amod	Gender=Fem|Number=Sing	4398aef4-3c8a-50e6-aee8-054a20f77bd3	e8bed559-2044-53c5-9092-6c7096e605af	L'acqua gela a zero gradi Celsius.	Water freezes at 0 degrees Centigrade.				

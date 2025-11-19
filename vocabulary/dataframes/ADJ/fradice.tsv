@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fradice		fradice	ADJ		1	1e-06	1	1e-06	fradice	ADJ	A	xcomp	Gender=Fem|Number=Plur	1b8312f5-2213-53c2-86f9-9481c934cf42	ea7b846f-a2ab-579e-894a-8b053442e2b3	Siete bagnate fradice.	You're soaking wet.				
+fradice	frah-DEE-cheh	fradice	ADJ	soaked; drenched (plural)	1	1e-06	1	1e-06	fradice	ADJ	A	xcomp	Gender=Fem|Number=Plur	1b8312f5-2213-53c2-86f9-9481c934cf42	ea7b846f-a2ab-579e-894a-8b053442e2b3	Siete bagnate fradice.	You're soaking wet.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fluttuante		fluttuante	ADJ		1	1e-06	1	1e-06	fluttuante	ADJ	A	amod	Number=Sing	c541e6fb-15c2-514b-8486-50df33294408	8b601fe1-f4e7-5451-9d2f-2e41a0a3a0f2	Guardò una nuvola fluttuante.	She looked at a floating cloud.				
+fluttuante	floot-TWAHN-teh	fluttuante	ADJ	floating; fluctuating	1	1e-06	1	1e-06	fluttuante	ADJ	A	amod	Number=Sing	c541e6fb-15c2-514b-8486-50df33294408	8b601fe1-f4e7-5451-9d2f-2e41a0a3a0f2	Guardò una nuvola fluttuante.	She looked at a floating cloud.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fradici		fradico	ADJ		1	1e-06	1	1e-06	fradico	ADJ	A	xcomp	Gender=Masc|Number=Plur	b3497169-086a-505f-82df-ba6900ca7626	5f51f7a6-4d83-534e-8105-7df1b13a3d5a	Siete bagnati fradici.	You're soaking wet.				
+fradici	frah-DEE-chee	fradico	ADJ	soaked; drenched (plural)	1	1e-06	1	1e-06	fradico	ADJ	A	xcomp	Gender=Masc|Number=Plur	b3497169-086a-505f-82df-ba6900ca7626	5f51f7a6-4d83-534e-8105-7df1b13a3d5a	Siete bagnati fradici.	You're soaking wet.				

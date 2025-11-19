@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fioriti		fiorire	ADJ		1	1e-06	1	1e-06	fiorire	ADJ	A	root	Gender=Masc|Number=Plur	edf2f1ad-7706-55d3-a43e-4d9987583340	972c271a-3ae9-5972-920f-147dd66b0f39	Gli albicocchi sono completamente fioriti.	The apricot trees are in full blossom.				
+fioriti	fyoh-REE-tee	fiorire	ADJ	in bloom; blossoming (plural)	1	1e-06	1	1e-06	fiorire	ADJ	A	root	Gender=Masc|Number=Plur	edf2f1ad-7706-55d3-a43e-4d9987583340	972c271a-3ae9-5972-920f-147dd66b0f39	Gli albicocchi sono completamente fioriti.	The apricot trees are in full blossom.				
