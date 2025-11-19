@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-esagono		esagono	NOUN		1	1e-06	1	1e-06	esagono	NOUN	S	nsubj	Gender=Masc|Number=Sing	784d2e0c-f75a-5afd-8362-f0c863bbffb3	2dde69af-92c6-5589-b565-a826806c7fb2	Un esagono ha sei lati.	An hexagon has six sides.				
+esagono	eh-ZAH-goh-noh	esagono	NOUN	hexagon	1	1e-06	1	1e-06	esagono	NOUN	S	nsubj	Gender=Masc|Number=Sing	784d2e0c-f75a-5afd-8362-f0c863bbffb3	2dde69af-92c6-5589-b565-a826806c7fb2	Un esagono ha sei lati.	An hexagon has six sides.				
