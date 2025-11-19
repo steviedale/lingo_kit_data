@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-perdoni		perdone	NOUN		2	2e-06	2	2e-06	perdone	NOUN	S	root	Gender=Masc|Number=Plur	3e2e830b-c73a-5599-bf87-aa14f8985e9a	a1d422d8-b4e4-5ce4-aa15-87a24ee12834	Perdoni Tom.	Forgive Tom.	Perdoni e dimentichi.	Forgive and forget.		
+perdoni	pehr-DOH-nee	perdone	NOUN	forgive	2	2e-06	2	2e-06	perdone	NOUN	S	root	Gender=Masc|Number=Plur	3e2e830b-c73a-5599-bf87-aa14f8985e9a	a1d422d8-b4e4-5ce4-aa15-87a24ee12834	Perdoni Tom.	Forgive Tom.	Perdoni e dimentichi.	Forgive and forget.		

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pirla		pirla	NOUN		1	1e-06	1	1e-06	pirla	NOUN	S	obl	Gender=Fem|Number=Sing	da8774e3-434c-5c0b-8b38-c7ff6a5deef7	b3ead7b6-6079-591f-9285-e76910701725	Che faccia da pirla!	What an idiot!				
+pirla	PEER-lah	pirla	NOUN	idiot	1	1e-06	1	1e-06	pirla	NOUN	S	obl	Gender=Fem|Number=Sing	da8774e3-434c-5c0b-8b38-c7ff6a5deef7	b3ead7b6-6079-591f-9285-e76910701725	Che faccia da pirla!	What an idiot!				

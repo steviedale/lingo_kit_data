@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pedaggio		pedaggio	NOUN		1	1e-06	1	1e-06	pedaggio	NOUN	S	nsubj	Gender=Masc|Number=Sing	8e4781fd-96a3-5347-97dc-507e827ed3b2	7ccb5824-16a8-5a19-9987-0a51c03c2acd	È qui che si paga il pedaggio per il tunnel?	Do you pay the tunnel toll here?				
+pedaggio	peh-DAHG-jyoh	pedaggio	NOUN	toll	1	1e-06	1	1e-06	pedaggio	NOUN	S	nsubj	Gender=Masc|Number=Sing	8e4781fd-96a3-5347-97dc-507e827ed3b2	7ccb5824-16a8-5a19-9987-0a51c03c2acd	È qui che si paga il pedaggio per il tunnel?	Do you pay the tunnel toll here?				

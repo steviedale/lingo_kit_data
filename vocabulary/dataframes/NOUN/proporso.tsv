@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-proporsi		proporso	NOUN		1	1e-06	1	1e-06	proporso	NOUN	S	obl	Gender=Masc|Number=Plur	924d7788-19ae-5080-b1c3-36bae9e6c2bd	2b25c89b-4cf3-548c-8f49-d5835954219c	Il giovane uomo decise di proporsi.	The young man decided to propose to her.				
+proporsi	proh-POHR-see	proporso	NOUN	propose	1	1e-06	1	1e-06	proporso	NOUN	S	obl	Gender=Masc|Number=Plur	924d7788-19ae-5080-b1c3-36bae9e6c2bd	2b25c89b-4cf3-548c-8f49-d5835954219c	Il giovane uomo decise di proporsi.	The young man decided to propose to her.				

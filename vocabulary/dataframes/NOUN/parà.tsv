@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-parà		parà	NOUN		1	1e-06	1	1e-06	parà	NOUN	S	root	Gender=Masc|Number=Sing	467358b6-33a3-54c5-b8c9-c5992cddd0a3	5131b27b-8ed1-5a54-bbf2-2c8d28bcfada	Tom è un ex parà.	Tom is a former paratrooper.				
+parà	pah-RAH	parà	NOUN	paratrooper	1	1e-06	1	1e-06	parà	NOUN	S	root	Gender=Masc|Number=Sing	467358b6-33a3-54c5-b8c9-c5992cddd0a3	5131b27b-8ed1-5a54-bbf2-2c8d28bcfada	Tom è un ex parà.	Tom is a former paratrooper.				

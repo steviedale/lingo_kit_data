@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-patrigno		patrigno	NOUN		1	1e-06	1	1e-06	patrigno	NOUN	S	root	Gender=Masc|Number=Sing	7fe2d974-95b0-51b9-af03-565360b0d434	af38315e-f8d2-546e-9759-6fc8b3e7f011	Tom è il patrigno di Mary.	Tom is Mary's stepfather.				
+patrigno	pah-TREE-nyoh	patrigno	NOUN	stepfather	1	1e-06	1	1e-06	patrigno	NOUN	S	root	Gender=Masc|Number=Sing	7fe2d974-95b0-51b9-af03-565360b0d434	af38315e-f8d2-546e-9759-6fc8b3e7f011	Tom è il patrigno di Mary.	Tom is Mary's stepfather.				

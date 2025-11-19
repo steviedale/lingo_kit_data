@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-protettorato		protettorato	NOUN		1	1e-06	1	1e-06	protettorato	NOUN	S	root	Gender=Masc|Number=Sing	1b2db6fe-5fae-514e-af1b-426d88ef2042	afc1a4a2-caf4-5bcf-bc38-ba6bb731d325	Cipro era un protettorato britannico.	Cyprus was a British protectorate.				
+protettorato	proh-teht-toh-RAH-toh	protettorato	NOUN	protectorate	1	1e-06	1	1e-06	protettorato	NOUN	S	root	Gender=Masc|Number=Sing	1b2db6fe-5fae-514e-af1b-426d88ef2042	afc1a4a2-caf4-5bcf-bc38-ba6bb731d325	Cipro era un protettorato britannico.	Cyprus was a British protectorate.				

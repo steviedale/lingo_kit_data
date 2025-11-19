@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pollastra		pollastra	NOUN		1	1e-06	1	1e-06	pollastra	NOUN	S	nsubj	Gender=Fem|Number=Sing	dabaf556-1776-52b0-9c91-1588ab01599c	80dd3ae5-d56f-5bee-a773-f5bd99eb247c	La pollastra ha deposto un uovo stamattina.	The chicken laid an egg this morning.				
+pollastra	pohl-LAH-strah	pollastra	NOUN	laid	1	1e-06	1	1e-06	pollastra	NOUN	S	nsubj	Gender=Fem|Number=Sing	dabaf556-1776-52b0-9c91-1588ab01599c	80dd3ae5-d56f-5bee-a773-f5bd99eb247c	La pollastra ha deposto un uovo stamattina.	The chicken laid an egg this morning.				

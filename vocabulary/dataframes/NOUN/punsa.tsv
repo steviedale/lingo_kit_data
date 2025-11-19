@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-punse		punsa	NOUN		1	1e-06	1	1e-06	punsa	NOUN	S	nmod	Gender=Masc|Number=Plur	b9a69d86-6be3-53eb-9991-ee40c9e7fe63	702675e7-667f-5ea2-8bba-6529ceb3da99	Lei punse il palloncino.	She pricked the balloon.				
+punse	POON-seh	punsa	NOUN	pricked	1	1e-06	1	1e-06	punsa	NOUN	S	nmod	Gender=Masc|Number=Plur	b9a69d86-6be3-53eb-9991-ee40c9e7fe63	702675e7-667f-5ea2-8bba-6529ceb3da99	Lei punse il palloncino.	She pricked the balloon.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-plutocrazia		plutocrazia	NOUN		1	1e-06	1	1e-06	plutocrazia	NOUN	S	xcomp	Gender=Fem|Number=Sing	7175b8fb-f830-56aa-bef1-c73491cdf543	53711c8e-405a-564b-a80c-cf13641e7674	Questo paese è diventato una plutocrazia.	This country has become a plutocracy.				
+plutocrazia	ploo-toh-KRAH-tsyah	plutocrazia	NOUN	plutocracy	1	1e-06	1	1e-06	plutocrazia	NOUN	S	xcomp	Gender=Fem|Number=Sing	7175b8fb-f830-56aa-bef1-c73491cdf543	53711c8e-405a-564b-a80c-cf13641e7674	Questo paese è diventato una plutocrazia.	This country has become a plutocracy.				

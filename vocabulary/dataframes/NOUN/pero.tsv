@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pero		pero	NOUN		1	1e-06	1	1e-06	pero	NOUN	S	nsubj	Gender=Masc|Number=Sing	b3176e8d-145c-5237-8d95-3b2fc2296bd4	f4df2539-254a-5c22-ba1e-6c8266e1552a	Il pero in giardino produce molti frutti.	The pear tree in the garden bears a lot of fruit.				
+pero	PEH-roh	pero	NOUN	pear	1	1e-06	1	1e-06	pero	NOUN	S	nsubj	Gender=Masc|Number=Sing	b3176e8d-145c-5237-8d95-3b2fc2296bd4	f4df2539-254a-5c22-ba1e-6c8266e1552a	Il pero in giardino produce molti frutti.	The pear tree in the garden bears a lot of fruit.				

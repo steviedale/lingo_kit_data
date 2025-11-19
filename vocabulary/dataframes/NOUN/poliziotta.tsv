@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-poliziotta		poliziotta	NOUN		1	1e-06	1	1e-06	poliziotta	NOUN	S	nsubj	Gender=Fem|Number=Sing	ef9b740d-fb45-5049-b08c-08d58d3da93a	bf46e2ba-a765-56d3-bf56-b6175124b9ee	Divenne una poliziotta.	She became a police officer.				
+poliziotta	poh-lee-TSYOHT-tah	poliziotta	NOUN	police	1	1e-06	1	1e-06	poliziotta	NOUN	S	nsubj	Gender=Fem|Number=Sing	ef9b740d-fb45-5049-b08c-08d58d3da93a	bf46e2ba-a765-56d3-bf56-b6175124b9ee	Divenne una poliziotta.	She became a police officer.				

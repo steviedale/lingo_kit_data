@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pensata		pensata	NOUN		1	1e-06	1	1e-06	pensata	NOUN	S	root	Gender=Fem|Number=Sing	3bc44724-4a3f-5dcf-b213-ba2df49cebc9	416e49c7-12c8-5990-841c-fa994c760233	Buona pensata!	Good thinking!				
+pensata	pehn-SAH-tah	pensata	NOUN	thinking	1	1e-06	1	1e-06	pensata	NOUN	S	root	Gender=Fem|Number=Sing	3bc44724-4a3f-5dcf-b213-ba2df49cebc9	416e49c7-12c8-5990-841c-fa994c760233	Buona pensata!	Good thinking!				

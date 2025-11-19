@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-piadina		piadina	NOUN		1	1e-06	1	1e-06	piadina	NOUN	S	root	Gender=Fem|Number=Sing	0e07844c-c45b-5bee-a7c5-816f776010ba	cb7e0280-2c9e-5b51-aa15-b8c65ca08b4f	Per me una piadina calda, per favore.	A hot piadina for me, please.				
+piadina	pyah-DEE-nah	piadina	NOUN	piadina	1	1e-06	1	1e-06	piadina	NOUN	S	root	Gender=Fem|Number=Sing	0e07844c-c45b-5bee-a7c5-816f776010ba	cb7e0280-2c9e-5b51-aa15-b8c65ca08b4f	Per me una piadina calda, per favore.	A hot piadina for me, please.				

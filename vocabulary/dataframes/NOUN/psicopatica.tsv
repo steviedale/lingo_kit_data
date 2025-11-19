@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-psicopatica		psicopatica	NOUN		1	1e-06	1	1e-06	psicopatica	NOUN	S	root	Gender=Fem|Number=Sing	aa1bc97d-810d-5788-9b40-644b9f8fffad	1ea49304-c334-55a6-8574-9d1f46402072	La tua ex è una psicopatica.	Your ex is a psychopath.				
+psicopatica	psee-koh-pah-TEE-kah	psicopatica	NOUN	psychopath	1	1e-06	1	1e-06	psicopatica	NOUN	S	root	Gender=Fem|Number=Sing	aa1bc97d-810d-5788-9b40-644b9f8fffad	1ea49304-c334-55a6-8574-9d1f46402072	La tua ex è una psicopatica.	Your ex is a psychopath.				

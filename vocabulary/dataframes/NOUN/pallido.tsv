@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pallido		pallido	NOUN		1	1e-06	1	1e-06	pallido	NOUN	S	root	Gender=Masc|Number=Sing	255344c3-a323-562f-9cff-cbf62acf5826	4a02067e-e08a-58b3-a255-3da3e23d5a32	Stai poco bene? Sei pallido.	Are you sick? You look pale.				
+pallido	pahl-LEE-doh	pallido	NOUN	pale	1	1e-06	1	1e-06	pallido	NOUN	S	root	Gender=Masc|Number=Sing	255344c3-a323-562f-9cff-cbf62acf5826	4a02067e-e08a-58b3-a255-3da3e23d5a32	Stai poco bene? Sei pallido.	Are you sick? You look pale.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-picche		picca	NOUN		2	2e-06	2	2e-06	picca	NOUN	S	nmod	Gender=Fem|Number=Plur	f59c0f55-b77e-59b8-be33-49ff5f96970b	d3fbc844-242d-5348-8168-727293e3df3f	Io ho l'asso di picche.	I have the ace of spades.	Ho l'asso di picche.	I have the ace of spades.		
+picche	PEEK-keh	picca	NOUN	spades	2	2e-06	2	2e-06	picca	NOUN	S	nmod	Gender=Fem|Number=Plur	f59c0f55-b77e-59b8-be33-49ff5f96970b	d3fbc844-242d-5348-8168-727293e3df3f	Io ho l'asso di picche.	I have the ace of spades.	Ho l'asso di picche.	I have the ace of spades.		

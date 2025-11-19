@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pano		pano	NOUN		1	1e-06	1	1e-06	pano	NOUN	S	nmod	Gender=Masc|Number=Sing	82656c8b-ea60-5169-9703-d5d503af650b	4a3a5fc3-c462-57e2-8f73-8bf5b38405f4	C'è una bella visuale del Monte Akagi dal pano di sopra.	There's a good view of Mt. Akagi from upstairs.				
+pano	PAH-noh	pano	NOUN	akagi	1	1e-06	1	1e-06	pano	NOUN	S	nmod	Gender=Masc|Number=Sing	82656c8b-ea60-5169-9703-d5d503af650b	4a3a5fc3-c462-57e2-8f73-8bf5b38405f4	C'è una bella visuale del Monte Akagi dal pano di sopra.	There's a good view of Mt. Akagi from upstairs.				

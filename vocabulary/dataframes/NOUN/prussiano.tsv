@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-prussiano		prussiano	NOUN		1	1e-06	1	1e-06	prussiano	NOUN	S	nsubj	Gender=Masc|Number=Sing	e11fca31-2222-5af0-9ebc-1548b6186bcc	5c2fe36b-5bbc-5d24-8ecd-8f6095295037	Il prussiano è una lingua baltica.	Prussian is a Baltic language.				
+prussiano	proos-SYAH-noh	prussiano	NOUN	prussian	1	1e-06	1	1e-06	prussiano	NOUN	S	nsubj	Gender=Masc|Number=Sing	e11fca31-2222-5af0-9ebc-1548b6186bcc	5c2fe36b-5bbc-5d24-8ecd-8f6095295037	Il prussiano è una lingua baltica.	Prussian is a Baltic language.				

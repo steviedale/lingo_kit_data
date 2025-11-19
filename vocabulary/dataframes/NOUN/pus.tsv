@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pus		pus	NOUN		1	1e-06	1	1e-06	pus	NOUN	S	obl	Gender=Masc	aacba113-779e-519f-bbbc-c76991d7b225	08679ede-b322-5d3b-8bab-cdd9f8c5d3a4	Mi sta uscendo del pus dall'orecchio destro.	Pus is coming out of my right ear.				
+pus	POOS	pus	NOUN	pus	1	1e-06	1	1e-06	pus	NOUN	S	obl	Gender=Masc	aacba113-779e-519f-bbbc-c76991d7b225	08679ede-b322-5d3b-8bab-cdd9f8c5d3a4	Mi sta uscendo del pus dall'orecchio destro.	Pus is coming out of my right ear.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pièce		pièca	NOUN		1	1e-06	1	1e-06	pièca	NOUN	S	obj	Gender=Fem|Number=Sing	0146b71d-d792-5e9a-a9e0-d5f41e02d44e	39781cc9-b30e-5da9-9892-f61b09d13c43	Sta mettendo in piedi una nuova pièce.	She is getting up a new play.				
+pièce	PYEH-cheh	pièca	NOUN	play	1	1e-06	1	1e-06	pièca	NOUN	S	obj	Gender=Fem|Number=Sing	0146b71d-d792-5e9a-a9e0-d5f41e02d44e	39781cc9-b30e-5da9-9892-f61b09d13c43	Sta mettendo in piedi una nuova pièce.	She is getting up a new play.				

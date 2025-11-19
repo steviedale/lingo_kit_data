@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-psoriasi		psoriasi	NOUN		2	2e-06	2	2e-06	psoriasi	NOUN	S	obj	Gender=Fem|Number=Sing	2ba7bc5f-ab22-5c14-ba10-3fbf15fa6892	6a5b0f3c-57ff-5215-b7e8-860e640bf193	Ho la psoriasi.	I have psoriasis.	Io ho la psoriasi.	I have psoriasis.		
+psoriasi	psoh-RYAH-see	psoriasi	NOUN	psoriasis	2	2e-06	2	2e-06	psoriasi	NOUN	S	obj	Gender=Fem|Number=Sing	2ba7bc5f-ab22-5c14-ba10-3fbf15fa6892	6a5b0f3c-57ff-5215-b7e8-860e640bf193	Ho la psoriasi.	I have psoriasis.	Io ho la psoriasi.	I have psoriasis.		
