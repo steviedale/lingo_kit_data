@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-riposiate		riposiare	VERB		1	1e-06	1	1e-06	riposiare	VERB	V	ccomp	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	62e5cdcc-5974-53fd-aaac-5d634b8a51f3	33d9ffea-13da-5249-81c4-c16d973e4546	Voglio che vi riposiate un po'.	I want you to get some rest.				
+riposiate	ree-poh-SYAH-teh	riposiare	VERB	I rest	1	1e-06	1	1e-06	riposiare	VERB	V	ccomp	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	62e5cdcc-5974-53fd-aaac-5d634b8a51f3	33d9ffea-13da-5249-81c4-c16d973e4546	Voglio che vi riposiate un po'.	I want you to get some rest.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-risica		risicare	VERB		1	1e-06	1	1e-06	risicare	VERB	V	acl:relcl	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	d4ae521e-f420-5441-a7f2-813cb14a3873	2508ee7e-2991-5634-a16d-93b1411fc8c3	Chi non risica non rosica.	He who risks not gains not.				
+risica	ree-SEE-kah	risicare	VERB	he/she/it risks	1	1e-06	1	1e-06	risicare	VERB	V	acl:relcl	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	d4ae521e-f420-5441-a7f2-813cb14a3873	2508ee7e-2991-5634-a16d-93b1411fc8c3	Chi non risica non rosica.	He who risks not gains not.				

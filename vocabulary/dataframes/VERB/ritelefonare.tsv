@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ritelefonare		ritelefonare	VERB		1	1e-06	1	1e-06	ritelefonare	VERB	V	root	VerbForm=Inf	2fb9c7af-bce0-588c-a798-bf6611e3161a	aeb9edd0-444a-5feb-829d-099b54e26dd4	Mi potresti ritelefonare più tardi, per favore?	Could you call again later, please?				
+ritelefonare	ree-teh-leh-foh-NAH-reh	ritelefonare	VERB	to call back	1	1e-06	1	1e-06	ritelefonare	VERB	V	root	VerbForm=Inf	2fb9c7af-bce0-588c-a798-bf6611e3161a	aeb9edd0-444a-5feb-829d-099b54e26dd4	Mi potresti ritelefonare più tardi, per favore?	Could you call again later, please?				

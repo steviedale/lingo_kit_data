@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ruppi		ruppire	VERB		1	1e-06	1	1e-06	ruppire	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5e847024-4fca-591c-9272-1575fa061c02	b9884b33-9543-586c-b75b-98a6edf14c66	Io ruppi la frizione.	I broke the clutch.				
+ruppi	ROOP-pee	ruppire	VERB	I break	1	1e-06	1	1e-06	ruppire	VERB	V	root	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5e847024-4fca-591c-9272-1575fa061c02	b9884b33-9543-586c-b75b-98a6edf14c66	Io ruppi la frizione.	I broke the clutch.				

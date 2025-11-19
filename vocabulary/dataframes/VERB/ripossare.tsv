@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-riposammo		ripossare	VERB		1	1e-06	1	1e-06	ripossare	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	80129a2c-b194-5373-9f6d-5f22a68ce1df	5747f8b1-4ba6-5816-8b4f-8a51a2719248	Ci riposammo là per un'ora.	We rested there for an hour.				
+riposammo	ree-poh-SAHM-moh	ripossare	VERB	we rest (plural)	1	1e-06	1	1e-06	ripossare	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	80129a2c-b194-5373-9f6d-5f22a68ce1df	5747f8b1-4ba6-5816-8b4f-8a51a2719248	Ci riposammo là per un'ora.	We rested there for an hour.				

@@ -1,0 +1,962 @@
+{
+  "raccolta": [
+    "collect"
+  ],
+  "raccomandare": [
+    "recommend"
+  ],
+  "raccontamb": [
+    "tell"
+  ],
+  "racconti": [
+    "tell"
+  ],
+  "racconto": [
+    "tell"
+  ],
+  "rada": [
+    "shave"
+  ],
+  "raddoppare": [
+    "double"
+  ],
+  "raddoppiare": [
+    "double"
+  ],
+  "raddoppiato": [
+    "double"
+  ],
+  "raddrizzare": [
+    "straighten"
+  ],
+  "radere": [
+    "shave"
+  ],
+  "radermare": [
+    "shave"
+  ],
+  "radetemere": [
+    "shave"
+  ],
+  "radiare": [
+    "radiate"
+  ],
+  "radicato": [
+    "root"
+  ],
+  "radimare": [
+    "shave"
+  ],
+  "radire": [
+    "shave"
+  ],
+  "rado": [
+    "shave"
+  ],
+  "rafforzare": [
+    "strengthen"
+  ],
+  "raffreddare": [
+    "cool"
+  ],
+  "raggruppare": [
+    "group"
+  ],
+  "ragionare": [
+    "reason"
+  ],
+  "ragionato": [
+    "reason"
+  ],
+  "ragionere": [
+    "be reasonable"
+  ],
+  "rallegrare": [
+    "cheer"
+  ],
+  "rallentare": [
+    "slow down"
+  ],
+  "rammaricare": [
+    "regret"
+  ],
+  "rammarico": [
+    "regret"
+  ],
+  "rammendare": [
+    "mend"
+  ],
+  "rannuvolare": [
+    "cloud over"
+  ],
+  "rapinare": [
+    "rob"
+  ],
+  "rapire": [
+    "kidnap"
+  ],
+  "rapportare": [
+    "report"
+  ],
+  "rappresentare": [
+    "represent"
+  ],
+  "rasare": [
+    "shave"
+  ],
+  "rassegnare": [
+    "resign"
+  ],
+  "rassicurare": [
+    "reassure"
+  ],
+  "ravvedere": [
+    "repent"
+  ],
+  "ravvivare": [
+    "enliven"
+  ],
+  "reagire": [
+    "react"
+  ],
+  "realizzare": [
+    "realize"
+  ],
+  "recare": [
+    "bring"
+  ],
+  "recitare": [
+    "recite"
+  ],
+  "recupare": [
+    "recover"
+  ],
+  "recuperare": [
+    "recover"
+  ],
+  "redare": [
+    "scold"
+  ],
+  "regalare": [
+    "give as a gift"
+  ],
+  "regalerare": [
+    "give as a gift"
+  ],
+  "regalo": [
+    "give as a gift"
+  ],
+  "reggere": [
+    "hold"
+  ],
+  "registrare": [
+    "record"
+  ],
+  "regnare": [
+    "reign"
+  ],
+  "regolare": [
+    "regulate"
+  ],
+  "reincontare": [
+    "meet again"
+  ],
+  "relazionare": [
+    "relate"
+  ],
+  "relegare": [
+    "relegate"
+  ],
+  "remare": [
+    "row"
+  ],
+  "rendimare": [
+    "render"
+  ],
+  "replicare": [
+    "reply"
+  ],
+  "reprimere": [
+    "repress"
+  ],
+  "rescerdere": [
+    "grow back"
+  ],
+  "resistere": [
+    "resist"
+  ],
+  "resistettare": [
+    "resist"
+  ],
+  "respingere": [
+    "repel"
+  ],
+  "respirare": [
+    "breathe"
+  ],
+  "respiro": [
+    "breathe"
+  ],
+  "restaurare": [
+    "restore"
+  ],
+  "restiare": [
+    "hesitate"
+  ],
+  "restituire": [
+    "return"
+  ],
+  "restituiscilare": [
+    "return"
+  ],
+  "retrocedere": [
+    "retreat"
+  ],
+  "retrocettere": [
+    "return"
+  ],
+  "rettificare": [
+    "rectify"
+  ],
+  "revisionare": [
+    "revise"
+  ],
+  "revocare": [
+    "revoke"
+  ],
+  "riabilitare": [
+    "rehabilitate"
+  ],
+  "riaccendere": [
+    "switch back on"
+  ],
+  "riaccidere": [
+    "kill again"
+  ],
+  "riaddormentare": [
+    "fall asleep again"
+  ],
+  "riagganciare": [
+    "reconnect"
+  ],
+  "rialzare": [
+    "raise again"
+  ],
+  "riaprire": [
+    "reopen"
+  ],
+  "riassegnare": [
+    "reassign"
+  ],
+  "riassumere": [
+    "summarize"
+  ],
+  "riavere": [
+    "get back"
+  ],
+  "riavviare": [
+    "restart"
+  ],
+  "ribaltare": [
+    "overturn"
+  ],
+  "ribellare": [
+    "rebel"
+  ],
+  "ribollire": [
+    "boil over"
+  ],
+  "ricadere": [
+    "fall again"
+  ],
+  "ricamare": [
+    "embroider"
+  ],
+  "ricapitare": [
+    "happen again"
+  ],
+  "ricaricare": [
+    "recharge"
+  ],
+  "ricattare": [
+    "blackmail"
+  ],
+  "ricatto": [
+    "blackmail"
+  ],
+  "ricercare": [
+    "research"
+  ],
+  "riceverare": [
+    "receive"
+  ],
+  "richiamare": [
+    "recall"
+  ],
+  "richiamere": [
+    "recall"
+  ],
+  "richiamo": [
+    "recall"
+  ],
+  "richiedere": [
+    "request"
+  ],
+  "riciclare": [
+    "recycle"
+  ],
+  "ricollegare": [
+    "reconnect"
+  ],
+  "ricominciare": [
+    "restart"
+  ],
+  "ricompensare": [
+    "reward"
+  ],
+  "ricomprare": [
+    "buy back"
+  ],
+  "riconciliare": [
+    "reconcile"
+  ],
+  "ricondurre": [
+    "lead back"
+  ],
+  "ricopiare": [
+    "copy again"
+  ],
+  "ricoprire": [
+    "cover"
+  ],
+  "ricordamare": [
+    "remember"
+  ],
+  "ricordatemare": [
+    "remember"
+  ],
+  "ricordatevere": [
+    "remember"
+  ],
+  "ricordiare": [
+    "remember"
+  ],
+  "ricorrere": [
+    "resort"
+  ],
+  "ricostruire": [
+    "rebuild"
+  ],
+  "ricoverare": [
+    "hospitalize"
+  ],
+  "ricreare": [
+    "recreate"
+  ],
+  "ricrescere": [
+    "regrow"
+  ],
+  "ridacchiare": [
+    "chuckle"
+  ],
+  "ridare": [
+    "give back"
+  ],
+  "ridategliare": [
+    "give back"
+  ],
+  "ride": [
+    "laugh"
+  ],
+  "riderare": [
+    "laugh"
+  ],
+  "ridicare": [
+    "laugh"
+  ],
+  "ridicolizzare": [
+    "ridicule"
+  ],
+  "ridimensionare": [
+    "resize"
+  ],
+  "ridire": [
+    "repeat"
+  ],
+  "ridonere": [
+    "give back"
+  ],
+  "ridurre": [
+    "reduce"
+  ],
+  "rieleggere": [
+    "reelect"
+  ],
+  "riempiare": [
+    "fill"
+  ],
+  "riempilare": [
+    "fill"
+  ],
+  "riempire": [
+    "fill"
+  ],
+  "riempitelare": [
+    "fill"
+  ],
+  "rientrare": [
+    "return"
+  ],
+  "riesrire": [
+    "succeed again"
+  ],
+  "riesumare": [
+    "exhume"
+  ],
+  "rifacciare": [
+    "redo"
+  ],
+  "rifallare": [
+    "fail again"
+  ],
+  "rifare": [
+    "redo"
+  ],
+  "rifatelare": [
+    "redo"
+  ],
+  "rifecire": [
+    "redo"
+  ],
+  "riferire": [
+    "report"
+  ],
+  "rifiutatevere": [
+    "refuse"
+  ],
+  "rifiuto": [
+    "refuse"
+  ],
+  "riflettere": [
+    "reflect"
+  ],
+  "riformare": [
+    "reform"
+  ],
+  "riformulare": [
+    "reformulate"
+  ],
+  "rigirare": [
+    "turn again"
+  ],
+  "riguadagnare": [
+    "regain"
+  ],
+  "riguardante": [
+    "concern"
+  ],
+  "riguardare": [
+    "concern"
+  ],
+  "rilagere": [
+    "give off again"
+  ],
+  "rilasciare": [
+    "release"
+  ],
+  "rilassare": [
+    "relax"
+  ],
+  "rilassatevere": [
+    "relax"
+  ],
+  "rilassato": [
+    "relax"
+  ],
+  "rilassiamoci": [
+    "relax"
+  ],
+  "rileggere": [
+    "reread"
+  ],
+  "rilevare": [
+    "detect"
+  ],
+  "rimandare": [
+    "postpone"
+  ],
+  "rimandato": [
+    "postpone"
+  ],
+  "rimando": [
+    "postpone"
+  ],
+  "rimaniare": [
+    "stay again"
+  ],
+  "rimarginare": [
+    "heal over"
+  ],
+  "rimbalzare": [
+    "bounce"
+  ],
+  "rimboccare": [
+    "tuck"
+  ],
+  "rimborsare": [
+    "reimburse"
+  ],
+  "rimedere": [
+    "remedy"
+  ],
+  "rimediare": [
+    "remedy"
+  ],
+  "rimettere": [
+    "put back"
+  ],
+  "rimettire": [
+    "put back"
+  ],
+  "rimodellare": [
+    "reshape"
+  ],
+  "rimosso": [
+    "remove"
+  ],
+  "rimpiangare": [
+    "regret"
+  ],
+  "rimpiangere": [
+    "regret"
+  ],
+  "rimpianto": [
+    "mourn"
+  ],
+  "rimpiare": [
+    "replace"
+  ],
+  "rimpiazzare": [
+    "replace"
+  ],
+  "rimpolpare": [
+    "plump up"
+  ],
+  "rimprovarare": [
+    "scold"
+  ],
+  "rimproverare": [
+    "scold"
+  ],
+  "rimuovere": [
+    "remove"
+  ],
+  "rinchiudere": [
+    "lock up"
+  ],
+  "rincontrare": [
+    "meet again"
+  ],
+  "rincorrere": [
+    "chase"
+  ],
+  "rincrescere": [
+    "regret"
+  ],
+  "rincuorare": [
+    "hearten"
+  ],
+  "rinfrescare": [
+    "refresh"
+  ],
+  "ringhiare": [
+    "growl"
+  ],
+  "ringrazare": [
+    "thank"
+  ],
+  "rinnegare": [
+    "renounce"
+  ],
+  "rinnovare": [
+    "renew"
+  ],
+  "rinnovo": [
+    "renew"
+  ],
+  "rinomare": [
+    "rename"
+  ],
+  "rintanare": [
+    "hole up"
+  ],
+  "rintracciare": [
+    "track down"
+  ],
+  "rinunciare": [
+    "give up"
+  ],
+  "rinviare": [
+    "postpone"
+  ],
+  "riordinare": [
+    "reorder"
+  ],
+  "ripagare": [
+    "repay"
+  ],
+  "ripagherare": [
+    "repay"
+  ],
+  "riparalare": [
+    "repair"
+  ],
+  "riparerare": [
+    "repair"
+  ],
+  "riparere": [
+    "repair"
+  ],
+  "riparo": [
+    "shelter"
+  ],
+  "ripartire": [
+    "depart again"
+  ],
+  "ripassamare": [
+    "review"
+  ],
+  "ripassare": [
+    "review"
+  ],
+  "ripasso": [
+    "review"
+  ],
+  "ripatare": [
+    "kick again"
+  ],
+  "ripensacere": [
+    "rethink"
+  ],
+  "ripensare": [
+    "rethink"
+  ],
+  "ripetare": [
+    "repeat"
+  ],
+  "ripetimare": [
+    "repeat"
+  ],
+  "riporre": [
+    "put away"
+  ],
+  "riportagliare": [
+    "bring back"
+  ],
+  "riportare": [
+    "bring back"
+  ],
+  "riposastare": [
+    "rest"
+  ],
+  "riposatevere": [
+    "rest"
+  ],
+  "riposiamocare": [
+    "rest"
+  ],
+  "riposiare": [
+    "rest"
+  ],
+  "riposo": [
+    "rest"
+  ],
+  "riposrare": [
+    "rest"
+  ],
+  "ripossare": [
+    "rest"
+  ],
+  "riprendere": [
+    "resume"
+  ],
+  "riprodurre": [
+    "reproduce"
+  ],
+  "riprogrammare": [
+    "reprogram"
+  ],
+  "riprova": [
+    "try again"
+  ],
+  "riprovare": [
+    "try again"
+  ],
+  "ripudare": [
+    "repudiate"
+  ],
+  "ripulare": [
+    "clean up"
+  ],
+  "ripulire": [
+    "clean"
+  ],
+  "risalire": [
+    "climb back up"
+  ],
+  "risarcire": [
+    "compensate"
+  ],
+  "riscaldare": [
+    "warm up"
+  ],
+  "rischiarare": [
+    "brighten"
+  ],
+  "rischiare": [
+    "risk"
+  ],
+  "rischio": [
+    "risk"
+  ],
+  "riscontrare": [
+    "notice"
+  ],
+  "riscrivere": [
+    "rewrite"
+  ],
+  "riscuotere": [
+    "collect"
+  ],
+  "rise": [
+    "laugh"
+  ],
+  "risedere": [
+    "sit again"
+  ],
+  "riserare": [
+    "reserve again"
+  ],
+  "riservare": [
+    "reserve"
+  ],
+  "risicare": [
+    "risk"
+  ],
+  "risiedere": [
+    "reside"
+  ],
+  "risorgere": [
+    "rise again"
+  ],
+  "risparmiare": [
+    "save"
+  ],
+  "risparmiere": [
+    "save"
+  ],
+  "risparmio": [
+    "save"
+  ],
+  "rispecchiare": [
+    "mirror"
+  ],
+  "rispettare": [
+    "respect"
+  ],
+  "rispetto": [
+    "respect"
+  ],
+  "risplendere": [
+    "shine"
+  ],
+  "ristabilire": [
+    "restore"
+  ],
+  "ristampare": [
+    "reprint"
+  ],
+  "ristorare": [
+    "refresh"
+  ],
+  "ristrutturare": [
+    "restructure"
+  ],
+  "risucchiare": [
+    "suck back in"
+  ],
+  "risultare": [
+    "turn out"
+  ],
+  "risultato": [
+    "result"
+  ],
+  "risuscitare": [
+    "resurrect"
+  ],
+  "risvegliare": [
+    "wake up"
+  ],
+  "ritagliare": [
+    "cut out"
+  ],
+  "ritardare": [
+    "delay"
+  ],
+  "ritelefonare": [
+    "call back"
+  ],
+  "ritenere": [
+    "consider"
+  ],
+  "riterrare": [
+    "return to land"
+  ],
+  "ritirare": [
+    "withdraw"
+  ],
+  "ritirata": [
+    "retreat"
+  ],
+  "ritiro": [
+    "withdraw"
+  ],
+  "ritorgere": [
+    "rise again"
+  ],
+  "ritorre": [
+    "return"
+  ],
+  "ritrarre": [
+    "portray"
+  ],
+  "ritrovare": [
+    "find again"
+  ],
+  "ritrovo": [
+    "meet up"
+  ],
+  "riunire": [
+    "gather"
+  ],
+  "riusciare": [
+    "succeed"
+  ],
+  "riuscito": [
+    "succeed"
+  ],
+  "rivaleggiare": [
+    "rival"
+  ],
+  "rivalutare": [
+    "revalue"
+  ],
+  "rivedere": [
+    "review"
+  ],
+  "rivedire": [
+    "see again"
+  ],
+  "rivelare": [
+    "reveal"
+  ],
+  "riverniciare": [
+    "repaint"
+  ],
+  "riversare": [
+    "pour out"
+  ],
+  "rividere": [
+    "see again"
+  ],
+  "rivivere": [
+    "relive"
+  ],
+  "rivogliare": [
+    "want again"
+  ],
+  "rivogliere": [
+    "turn again"
+  ],
+  "rivolere": [
+    "want again"
+  ],
+  "rivolgere": [
+    "address"
+  ],
+  "rivoluzionare": [
+    "revolutionize"
+  ],
+  "rivuoire": [
+    "want again"
+  ],
+  "rivuolere": [
+    "want again"
+  ],
+  "rizzare": [
+    "erect"
+  ],
+  "rodare": [
+    "break in"
+  ],
+  "rodere": [
+    "gnaw"
+  ],
+  "romperare": [
+    "break"
+  ],
+  "rompermare": [
+    "break"
+  ],
+  "ronzare": [
+    "buzz"
+  ],
+  "roppere": [
+    "break"
+  ],
+  "rosicare": [
+    "gnaw"
+  ],
+  "rotolare": [
+    "roll"
+  ],
+  "rotolo": [
+    "roll"
+  ],
+  "rottamare": [
+    "scrap"
+  ],
+  "rovare": [
+    "find again"
+  ],
+  "rovesciare": [
+    "overturn"
+  ],
+  "rovinare": [
+    "ruin"
+  ],
+  "rovistare": [
+    "rummage"
+  ],
+  "rubato": [
+    "steal"
+  ],
+  "ruggire": [
+    "roar"
+  ],
+  "ruotalere": [
+    "rotate"
+  ],
+  "ruotare": [
+    "rotate"
+  ],
+  "ruppire": [
+    "break"
+  ],
+  "russare": [
+    "snore"
+  ],
+  "ruttare": [
+    "burp"
+  ]
+}
