@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-afa		afa	NOUN		2	2e-06	2	2e-06	afa	NOUN	S	nsubj	Gender=Fem|Number=Sing	c905d0b1-9602-50ac-8f2b-05f171b16347	7233e34b-5e68-5340-8d67-941d1e0eb649	L'afa è terribile quest'oggi.	The heat is terrible today.	Oggi l'afa è terribile.	The heat is terrible today.		
+afa	AH-fah	afa	NOUN	dog-day heat	2	2e-06	2	2e-06	afa	NOUN	S	nsubj	Gender=Fem|Number=Sing	c905d0b1-9602-50ac-8f2b-05f171b16347	7233e34b-5e68-5340-8d67-941d1e0eb649	L'afa è terribile quest'oggi.	The heat is terrible today.	Oggi l'afa è terribile.	The heat is terrible today.		

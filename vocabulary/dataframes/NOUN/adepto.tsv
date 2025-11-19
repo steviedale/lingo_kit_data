@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-adepto		adepto	NOUN		1	1e-06	1	1e-06	adepto	NOUN	S	root	Gender=Masc|Number=Sing	d6510e0a-1c1b-55ea-9691-e2b599351e45	dd5a9838-5f86-529a-8f3a-9fff2627d10e	Sono un adepto di quella scuola.	I am a follower of that school.				
+adepto	ah-DEHP-toh	adepto	NOUN	adept; follower (masculine)	1	1e-06	1	1e-06	adepto	NOUN	S	root	Gender=Masc|Number=Sing	d6510e0a-1c1b-55ea-9691-e2b599351e45	dd5a9838-5f86-529a-8f3a-9fff2627d10e	Sono un adepto di quella scuola.	I am a follower of that school.				

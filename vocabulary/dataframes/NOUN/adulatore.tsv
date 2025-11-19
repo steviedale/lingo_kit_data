@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-adulatore		adulatore	NOUN		1	1e-06	1	1e-06	adulatore	NOUN	S	root	Gender=Masc|Number=Sing	e87d1977-0dd3-50e5-a8c0-e8c9ebecda9f	0462c0a8-bee3-504a-a670-f35238a38b88	In una parola, è un adulatore.	In a word, he is a flatterer.				
+adulatore	ah-doo-lah-TOH-reh	adulatore	NOUN	flatterer (masculine)	1	1e-06	1	1e-06	adulatore	NOUN	S	root	Gender=Masc|Number=Sing	e87d1977-0dd3-50e5-a8c0-e8c9ebecda9f	0462c0a8-bee3-504a-a670-f35238a38b88	In una parola, è un adulatore.	In a word, he is a flatterer.				

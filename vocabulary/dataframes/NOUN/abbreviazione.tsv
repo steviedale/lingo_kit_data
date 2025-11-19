@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-abbreviazione		abbreviazione	NOUN		1	1e-06	1	1e-06	abbreviazione	NOUN	S	root	Gender=Fem|Number=Sing	5cb83201-749f-5c99-9a3e-bc0b99735e25	cd87c639-233e-56f8-b254-b47949bb88f1	Jim è l'abbreviazione di James.	Jim is short for James.				
+abbreviazione	ahb-breh-vyah-TSYOH-neh	abbreviazione	NOUN	abbreviation	1	1e-06	1	1e-06	abbreviazione	NOUN	S	root	Gender=Fem|Number=Sing	5cb83201-749f-5c99-9a3e-bc0b99735e25	cd87c639-233e-56f8-b254-b47949bb88f1	Jim è l'abbreviazione di James.	Jim is short for James.				
