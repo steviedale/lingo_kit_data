@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-nevicata		nevicata	NOUN		1	1e-06	1	1e-06	nevicata	NOUN	S	nmod	Gender=Fem|Number=Sing	72ce3f9f-0792-56c4-a198-c6e1858dc4b3	d55ca7a2-4a3b-5758-8206-651e4f371fee	Il treno era in ritardo per una pesante nevicata.	The train was delayed by a heavy snowfall.				
+nevicata	neh-vee-KAH-tah	nevicata	NOUN	snowfall	1	1e-06	1	1e-06	nevicata	NOUN	S	nmod	Gender=Fem|Number=Sing	72ce3f9f-0792-56c4-a198-c6e1858dc4b3	d55ca7a2-4a3b-5758-8206-651e4f371fee	Il treno era in ritardo per una pesante nevicata.	The train was delayed by a heavy snowfall.				

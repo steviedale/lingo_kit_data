@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-nubile		nubile	NOUN		1	1e-06	1	1e-06	nubile	NOUN	S	nmod	Number=Sing	0ff4c480-788a-5967-a0e8-e3087e2b388a	913c9413-b0c0-5e55-a718-f32ca20b0b08	Qual è il cognome da nubile di Mary?	What's Mary's maiden name?				
+nubile	NOO-bee-leh	nubile	NOUN	unmarried woman	1	1e-06	1	1e-06	nubile	NOUN	S	nmod	Number=Sing	0ff4c480-788a-5967-a0e8-e3087e2b388a	913c9413-b0c0-5e55-a718-f32ca20b0b08	Qual è il cognome da nubile di Mary?	What's Mary's maiden name?				

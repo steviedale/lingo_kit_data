@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ninfa		ninfa	NOUN		1	1e-06	1	1e-06	ninfa	NOUN	S	conj	Gender=Fem|Number=Sing	07d1c8ee-7065-503a-81d0-7f3761397662	07c6bbb0-7823-5ffc-85b6-5f94988b1d4e	Tom è un centauro e Mary è una ninfa.	Tom is a centaur and Mary is a nymph.				
+ninfa	NEEN-fah	ninfa	NOUN	nymph	1	1e-06	1	1e-06	ninfa	NOUN	S	conj	Gender=Fem|Number=Sing	07d1c8ee-7065-503a-81d0-7f3761397662	07c6bbb0-7823-5ffc-85b6-5f94988b1d4e	Tom è un centauro e Mary è una ninfa.	Tom is a centaur and Mary is a nymph.				

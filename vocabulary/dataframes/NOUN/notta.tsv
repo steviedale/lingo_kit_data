@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-notta		notta	NOUN		1	1e-06	1	1e-06	notta	NOUN	S	obl	Gender=Fem|Number=Sing	f6b7bf4e-f7a6-5b72-9a3d-750c6dc15b3f	79a90e65-0d36-5f2d-9aec-6496fb241d18	Abbiamo avuto una pioggia pesante la scorsa notta.	We had heavy rainfall last night.				
+notta	NOHT-tah	notta	NOUN	night	1	1e-06	1	1e-06	notta	NOUN	S	obl	Gender=Fem|Number=Sing	f6b7bf4e-f7a6-5b72-9a3d-750c6dc15b3f	79a90e65-0d36-5f2d-9aec-6496fb241d18	Abbiamo avuto una pioggia pesante la scorsa notta.	We had heavy rainfall last night.				
