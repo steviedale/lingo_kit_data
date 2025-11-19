@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-scalerà		scalerà	NOUN		1	1e-06	1	1e-06	scalerà	NOUN	S	nmod	Gender=Masc|Number=Plur	12cd31db-53f9-5431-b68f-3609c678b2dc	42d94233-e28c-568f-ab2e-65070fcfd7de	Lei scalerà quella montagna un giorno.	She is going to climb that mountain someday.				
+scalerà	skah-leh-RAH	scalerà	NOUN	climb	1	1e-06	1	1e-06	scalerà	NOUN	S	nmod	Gender=Masc|Number=Plur	12cd31db-53f9-5431-b68f-3609c678b2dc	42d94233-e28c-568f-ab2e-65070fcfd7de	Lei scalerà quella montagna un giorno.	She is going to climb that mountain someday.				

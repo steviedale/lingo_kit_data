@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sollevatore		sollevatore	NOUN		1	1e-06	1	1e-06	sollevatore	NOUN	S	root	Gender=Masc|Number=Sing	de31ef9d-8ad7-5eb0-800b-053e3881322f	7cec801a-3c2b-5c2d-af09-fbdf52eaf1f0	Tom è un sollevatore di pesi.	Tom is a powerlifter.				
+sollevatore	sohl-leh-vah-TOH-reh	sollevatore	NOUN	powerlifter	1	1e-06	1	1e-06	sollevatore	NOUN	S	root	Gender=Masc|Number=Sing	de31ef9d-8ad7-5eb0-800b-053e3881322f	7cec801a-3c2b-5c2d-af09-fbdf52eaf1f0	Tom è un sollevatore di pesi.	Tom is a powerlifter.				

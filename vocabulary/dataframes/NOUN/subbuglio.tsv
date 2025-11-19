@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-subbuglio		subbuglio	NOUN		1	1e-06	1	1e-06	subbuglio	NOUN	S	nmod	Gender=Masc|Number=Sing	6ddcacaa-bc1d-576a-b6f2-bc6988e9a5f0	f1118dce-5647-5f8d-8b44-b8d64c0ced23	Qual è lo scopo di tutto questo subbuglio?	What's the purpose of all this commotion?				
+subbuglio	soob-BOO-lyyoh	subbuglio	NOUN	commotion	1	1e-06	1	1e-06	subbuglio	NOUN	S	nmod	Gender=Masc|Number=Sing	6ddcacaa-bc1d-576a-b6f2-bc6988e9a5f0	f1118dce-5647-5f8d-8b44-b8d64c0ced23	Qual è lo scopo di tutto questo subbuglio?	What's the purpose of all this commotion?				

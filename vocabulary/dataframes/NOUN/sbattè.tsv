@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sbattè		sbattè	NOUN		1	1e-06	1	1e-06	sbattè	NOUN	S	nmod	Gender=Masc|Number=Plur	45eb8336-4c50-594b-a056-f508b2d23115	652fa5ee-76d2-506b-879e-dddbb0a97ad5	Lei sbattè la porta.	She slammed the door.				
+sbattè	sbaht-TEH	sbattè	NOUN	slammed	1	1e-06	1	1e-06	sbattè	NOUN	S	nmod	Gender=Masc|Number=Plur	45eb8336-4c50-594b-a056-f508b2d23115	652fa5ee-76d2-506b-879e-dddbb0a97ad5	Lei sbattè la porta.	She slammed the door.				

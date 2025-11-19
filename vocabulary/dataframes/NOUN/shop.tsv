@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-shop		shop	NOUN		1	1e-06	1	1e-06	shop	NOUN	S	compound	Gender=Masc	c3bbf1d6-9bb8-5e63-bd03-7fdd18e5bf8c	28870b1f-f901-5dea-8e2b-24a2acace668	L'ho incontrata in un coffee shop vicino la stazione.	I met her in a coffee shop near the station.				
+shop	SOHP	shop	NOUN	shop	1	1e-06	1	1e-06	shop	NOUN	S	compound	Gender=Masc	c3bbf1d6-9bb8-5e63-bd03-7fdd18e5bf8c	28870b1f-f901-5dea-8e2b-24a2acace668	L'ho incontrata in un coffee shop vicino la stazione.	I met her in a coffee shop near the station.				

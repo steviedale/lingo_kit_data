@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sorellastre		sorellastra	NOUN		1	1e-06	1	1e-06	sorellastra	NOUN	S	obj	Gender=Fem|Number=Plur	bd16a01a-46c1-5e51-90ee-15f0e5334961	74a7a8a4-0cc2-5b70-896b-b5604671b0ff	Cenerentola aveva due sorellastre cattive.	Cinderella had two wicked stepsisters.				
+sorellastre	soh-rehl-LAH-streh	sorellastra	NOUN	stepsisters	1	1e-06	1	1e-06	sorellastra	NOUN	S	obj	Gender=Fem|Number=Plur	bd16a01a-46c1-5e51-90ee-15f0e5334961	74a7a8a4-0cc2-5b70-896b-b5604671b0ff	Cenerentola aveva due sorellastre cattive.	Cinderella had two wicked stepsisters.				

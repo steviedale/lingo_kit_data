@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-skate		skate	NOUN		1	1e-06	1	1e-06	skate	NOUN	S	obj	Gender=Masc	867c5ed8-98a7-507e-af29-3c26eb63fa7a	b88f1ffb-761b-56f5-8d0e-e8040a0fe345	Oggi non andrei a fare skate.	I would not go skating today.				
+skate	SKAH-teh	skate	NOUN	skating	1	1e-06	1	1e-06	skate	NOUN	S	obj	Gender=Masc	867c5ed8-98a7-507e-af29-3c26eb63fa7a	b88f1ffb-761b-56f5-8d0e-e8040a0fe345	Oggi non andrei a fare skate.	I would not go skating today.				

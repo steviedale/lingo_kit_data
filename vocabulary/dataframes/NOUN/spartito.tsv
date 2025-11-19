@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-spartito		spartito	NOUN		1	1e-06	1	1e-06	spartito	NOUN	S	obj	Gender=Masc|Number=Sing	0a3a00d1-ca7c-5138-978a-919f7077169d	5a41be60-eb14-51d5-bf8e-2767e1e3b435	Ha scritto lo spartito dell'opera.	He wrote the score of the opera.				
+spartito	spahr-TEE-toh	spartito	NOUN	score	1	1e-06	1	1e-06	spartito	NOUN	S	obj	Gender=Masc|Number=Sing	0a3a00d1-ca7c-5138-978a-919f7077169d	5a41be60-eb14-51d5-bf8e-2767e1e3b435	Ha scritto lo spartito dell'opera.	He wrote the score of the opera.				

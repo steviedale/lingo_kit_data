@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-secchiello		secchiello	NOUN		1	1e-06	1	1e-06	secchiello	NOUN	S	obj	Gender=Masc|Number=Sing	7e34f8b4-2517-5f9d-9114-0d9128be095d	20442b57-173c-54c0-9803-59e85367f7c4	Vuoi anche il secchiello?	Do you want also the bucket?				
+secchiello	sehk-KYEHL-loh	secchiello	NOUN	bucket	1	1e-06	1	1e-06	secchiello	NOUN	S	obj	Gender=Masc|Number=Sing	7e34f8b4-2517-5f9d-9114-0d9128be095d	20442b57-173c-54c0-9803-59e85367f7c4	Vuoi anche il secchiello?	Do you want also the bucket?				

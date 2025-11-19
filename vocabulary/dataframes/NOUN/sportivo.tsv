@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sportivo		sportivo	NOUN		1	1e-06	1	1e-06	sportivo	NOUN	S	nsubj	Gender=Masc|Number=Sing	f565d823-1fb0-51c6-8f05-cd62beb78967	0ae55bdd-f6ee-55a8-9de4-c87a2ec4f73b	Uno sportivo abile dovrebbe essere coraggioso.	An able sportsman should be brave.				
+sportivo	spohr-TEE-voh	sportivo	NOUN	sportsman	1	1e-06	1	1e-06	sportivo	NOUN	S	nsubj	Gender=Masc|Number=Sing	f565d823-1fb0-51c6-8f05-cd62beb78967	0ae55bdd-f6ee-55a8-9de4-c87a2ec4f73b	Uno sportivo abile dovrebbe essere coraggioso.	An able sportsman should be brave.				

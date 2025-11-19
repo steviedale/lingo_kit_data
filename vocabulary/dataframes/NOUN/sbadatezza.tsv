@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sbadatezza		sbadatezza	NOUN		1	1e-06	1	1e-06	sbadatezza	NOUN	S	obl	Gender=Fem|Number=Sing	869dd7ef-1337-58e3-910b-f8ba9477ff52	8a3cc9c1-bcca-5b33-b63f-10ac97e4ff2b	L'incidente era dovuto alla sua sbadatezza.	The accident was due to his carelessness.				
+sbadatezza	sbah-dah-TEHTS-tsah	sbadatezza	NOUN	carelessness	1	1e-06	1	1e-06	sbadatezza	NOUN	S	obl	Gender=Fem|Number=Sing	869dd7ef-1337-58e3-910b-f8ba9477ff52	8a3cc9c1-bcca-5b33-b63f-10ac97e4ff2b	L'incidente era dovuto alla sua sbadatezza.	The accident was due to his carelessness.				

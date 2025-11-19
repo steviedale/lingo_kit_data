@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-stilista		stilista	NOUN		1	1e-06	1	1e-06	stilista	NOUN	S	nmod	Number=Sing	6ef45b82-dd26-5036-b1b2-c9044ca6626d	a5c53100-1871-5802-88da-520196aaf947	Indossa occhiali di uno stilista.	He wears designer glasses.				
+stilista	stee-LEE-stah	stilista	NOUN	designer	1	1e-06	1	1e-06	stilista	NOUN	S	nmod	Number=Sing	6ef45b82-dd26-5036-b1b2-c9044ca6626d	a5c53100-1871-5802-88da-520196aaf947	Indossa occhiali di uno stilista.	He wears designer glasses.				

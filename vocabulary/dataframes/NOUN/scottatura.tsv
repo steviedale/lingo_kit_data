@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-scottatura		scottatura	NOUN		1	1e-06	1	1e-06	scottatura	NOUN	S	obj	Gender=Fem|Number=Sing	d7d39f0e-be5f-5e10-bf21-bbe145bff3cc	12392c3e-d6ce-5c2a-92f1-0400c53d5a13	Il mio gatto ha una scottatura.	My tomcat has a sunburn.				
+scottatura	skoht-tah-TOO-rah	scottatura	NOUN	sunburn	1	1e-06	1	1e-06	scottatura	NOUN	S	obj	Gender=Fem|Number=Sing	d7d39f0e-be5f-5e10-bf21-bbe145bff3cc	12392c3e-d6ce-5c2a-92f1-0400c53d5a13	Il mio gatto ha una scottatura.	My tomcat has a sunburn.				

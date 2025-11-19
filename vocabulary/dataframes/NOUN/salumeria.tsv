@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-salumeria		salumeria	NOUN		1	1e-06	1	1e-06	salumeria	NOUN	S	obj	Gender=Fem|Number=Sing	0967a151-628c-524a-a04e-962f82a375d4	4ff65ccb-7353-53b6-b6b7-fba9f0a82d2c	Scusi, dove posso trovare una salumeria?	Sorry, where can I find a delicatessen?				
+salumeria	sah-loo-MEH-ryah	salumeria	NOUN	delicatessen	1	1e-06	1	1e-06	salumeria	NOUN	S	obj	Gender=Fem|Number=Sing	0967a151-628c-524a-a04e-962f82a375d4	4ff65ccb-7353-53b6-b6b7-fba9f0a82d2c	Scusi, dove posso trovare una salumeria?	Sorry, where can I find a delicatessen?				

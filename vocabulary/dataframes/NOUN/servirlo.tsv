@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-servirlo		servirlo	NOUN		1	1e-06	1	1e-06	servirlo	NOUN	S	conj	Gender=Masc|Number=Sing	ae89712c-b199-5a1a-961d-6a8248050cff	040c7008-54e2-582b-891d-4b0417b4b295	Bush ama Dio e vuole servirLo.	Bush loves God and wants to serve Him.				
+servirlo	sehr-VEER-loh	servirlo	NOUN	serve	1	1e-06	1	1e-06	servirlo	NOUN	S	conj	Gender=Masc|Number=Sing	ae89712c-b199-5a1a-961d-6a8248050cff	040c7008-54e2-582b-891d-4b0417b4b295	Bush ama Dio e vuole servirLo.	Bush loves God and wants to serve Him.				

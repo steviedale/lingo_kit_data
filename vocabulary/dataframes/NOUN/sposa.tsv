@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-spose		sposa	NOUN		1	1e-06	1	1e-06	sposa	NOUN	S	nsubj	Gender=Fem|Number=Plur	4e435b03-2b59-5bc3-bc7f-c2940f67a9e3	e64ed175-1b80-5687-b9fb-ebc6443593a4	Tutte le spose sono belle nel giorno del loro matrimonio.	All brides are beautiful on their wedding days.				
+spose	SPOH-seh	sposa	NOUN	beautiful	1	1e-06	1	1e-06	sposa	NOUN	S	nsubj	Gender=Fem|Number=Plur	4e435b03-2b59-5bc3-bc7f-c2940f67a9e3	e64ed175-1b80-5687-b9fb-ebc6443593a4	Tutte le spose sono belle nel giorno del loro matrimonio.	All brides are beautiful on their wedding days.				

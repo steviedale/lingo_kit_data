@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-schegge		scheggia	NOUN		1	1e-06	1	1e-06	scheggia	NOUN	S	obl	Gender=Fem|Number=Plur	7937ad98-08bf-5cbe-b768-5155b4ac2433	18ef8215-68a7-5316-b058-1c57d46d1a0f	La vita è piena di schegge.	Life is full of splinters.				
+schegge	SHEHG-jeh	scheggia	NOUN	splinters	1	1e-06	1	1e-06	scheggia	NOUN	S	obl	Gender=Fem|Number=Plur	7937ad98-08bf-5cbe-b768-5155b4ac2433	18ef8215-68a7-5316-b058-1c57d46d1a0f	La vita è piena di schegge.	Life is full of splinters.				

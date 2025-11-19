@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sorrise		sorrisa	NOUN		2	2e-06	2	2e-06	sorrisa	NOUN	S	root	Gender=Masc|Number=Plur	4ee35f0d-6b0d-5b8a-a9d3-ae31b0206c72	2432cd79-46d0-56fc-8c76-28a44f5464d7	Lei sorrise.	She smiled.	Lei sorrise al suo bebè.	She smiled at her baby.		
+sorrise	sohr-REE-seh	sorrisa	NOUN	smiled	2	2e-06	2	2e-06	sorrisa	NOUN	S	root	Gender=Masc|Number=Plur	4ee35f0d-6b0d-5b8a-a9d3-ae31b0206c72	2432cd79-46d0-56fc-8c76-28a44f5464d7	Lei sorrise.	She smiled.	Lei sorrise al suo bebè.	She smiled at her baby.		

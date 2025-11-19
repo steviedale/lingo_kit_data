@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sghignazzi		sghignazzo	NOUN		1	1e-06	1	1e-06	sghignazzo	NOUN	S	conj	Gender=Masc|Number=Plur	7cc7a426-9c67-5a91-b4cb-4b322ffa5b55	5c817afd-cd32-5492-a837-9d53145d18c8	Avanti, sghignazzi.	Go on, snigger.				
+sghignazzi	sgee-NYAHTS-tsee	sghignazzo	NOUN	snigger	1	1e-06	1	1e-06	sghignazzo	NOUN	S	conj	Gender=Masc|Number=Plur	7cc7a426-9c67-5a91-b4cb-4b322ffa5b55	5c817afd-cd32-5492-a837-9d53145d18c8	Avanti, sghignazzi.	Go on, snigger.				

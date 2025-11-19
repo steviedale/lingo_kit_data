@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-spense		spensa	NOUN		2	2e-06	2	2e-06	spensa	NOUN	S	nmod	Gender=Masc|Number=Plur	14a3d595-3a6a-52cb-8a13-e022897c881a	0a4bce2e-8a3a-5b79-acda-b154ae3ae4da	Lei spense la radio.	She turned off the radio.	Lei spense le luci.	She turned off the lights.		
+spense	SPEHN-seh	spensa	NOUN	turned	2	2e-06	2	2e-06	spensa	NOUN	S	nmod	Gender=Masc|Number=Plur	14a3d595-3a6a-52cb-8a13-e022897c881a	0a4bce2e-8a3a-5b79-acda-b154ae3ae4da	Lei spense la radio.	She turned off the radio.	Lei spense le luci.	She turned off the lights.		

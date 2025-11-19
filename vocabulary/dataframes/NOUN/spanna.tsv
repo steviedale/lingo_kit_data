@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-spanna		spanna	NOUN		1	1e-06	1	1e-06	spanna	NOUN	S	root	Gender=Fem|Number=Sing	c44763ab-1c97-5bdc-8710-9c4f02240c36	17485301-a776-566a-b36c-6f0620a13322	Tom è una spanna sopra gli altri.	Tom is head and shoulders above others.				
+spanna	SPAHN-nah	spanna	NOUN	head	1	1e-06	1	1e-06	spanna	NOUN	S	root	Gender=Fem|Number=Sing	c44763ab-1c97-5bdc-8710-9c4f02240c36	17485301-a776-566a-b36c-6f0620a13322	Tom è una spanna sopra gli altri.	Tom is head and shoulders above others.				
