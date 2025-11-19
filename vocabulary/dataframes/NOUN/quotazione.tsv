@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-quotazioni		quotazione	NOUN		1	1e-06	1	1e-06	quotazione	NOUN	S	root	Gender=Fem|Number=Plur	b0e05536-3fce-5b53-bd6d-a5a89281c3fe	5c86f1d3-8f6a-5035-8797-b40dcd5db2ac	Come sono le quotazioni?	How are the odds?				
+quotazioni	kwoh-tah-TSYOH-nee	quotazione	NOUN	quotations; market prices; odds	1	1e-06	1	1e-06	quotazione	NOUN	S	root	Gender=Fem|Number=Plur	b0e05536-3fce-5b53-bd6d-a5a89281c3fe	5c86f1d3-8f6a-5035-8797-b40dcd5db2ac	Come sono le quotazioni?	How are the odds?				

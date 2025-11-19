@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-quenya		quenya	NOUN		1	1e-06	1	1e-06	quenya	NOUN	S	obl	Gender=Masc|Number=Sing	c0e104ca-aa99-5490-adbc-d2f99c523c00	aeaf044a-c8b2-5ff4-a78a-e67c2e1a8ea7	Lei traduce dal quenya al klingon? Magnifico.	You translate from Quenya to Klingon? Awesome.				
+quenya	KWEHN-yah	quenya	NOUN	Quenya language	1	1e-06	1	1e-06	quenya	NOUN	S	obl	Gender=Masc|Number=Sing	c0e104ca-aa99-5490-adbc-d2f99c523c00	aeaf044a-c8b2-5ff4-a78a-e67c2e1a8ea7	Lei traduce dal quenya al klingon? Magnifico.	You translate from Quenya to Klingon? Awesome.				
