@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-figliastra		figliastra	NOUN		1	1e-06	1	1e-06	figliastra	NOUN	S	root	Gender=Fem|Number=Sing	d0ccb5b7-da85-5943-a7f9-dcbf0cb4058e	bc308aeb-f58a-5314-84c0-7a65812cbaef	Mary è la figliastra di Tom.	Mary is Tom's stepdaughter.				
+figliastra	feelyah-STRAH	figliastra	NOUN	stepdaughter	1	1e-06	1	1e-06	figliastra	NOUN	S	root	Gender=Fem|Number=Sing	d0ccb5b7-da85-5943-a7f9-dcbf0cb4058e	bc308aeb-f58a-5314-84c0-7a65812cbaef	Mary è la figliastra di Tom.	Mary is Tom's stepdaughter.				

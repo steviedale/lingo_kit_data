@@ -1,3 +1,3 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-franco		franco	NOUN		1	1e-06	2	2e-06	franco	NOUN	S	nsubj	Gender=Masc|Number=Sing	7fcf9c2d-e64a-53ab-8a10-548a241df18d	3ec484d0-58e3-53a3-8ce3-3231726b3fa9	Il franco svizzero sta salendo alle stelle.	The Swiss Franc is soaring.				
-franchi		franco	NOUN		1	1e-06	2	2e-06	franco	NOUN	S	root	Gender=Masc|Number=Plur	0e7eeb84-7904-5209-aacb-1053d4e55853	3ec484d0-58e3-53a3-8ce3-3231726b3fa9	Siamo franchi in questa questione.	Let's be frank in this question.				
+franco	FRAN-koh	franco	NOUN	franc	1	1e-06	2	2e-06	franco	NOUN	S	nsubj	Gender=Masc|Number=Sing	7fcf9c2d-e64a-53ab-8a10-548a241df18d	3ec484d0-58e3-53a3-8ce3-3231726b3fa9	Il franco svizzero sta salendo alle stelle.	The Swiss Franc is soaring.				
+franchi	FRAN-kee	franco	NOUN	francs	1	1e-06	2	2e-06	franco	NOUN	S	root	Gender=Masc|Number=Plur	0e7eeb84-7904-5209-aacb-1053d4e55853	3ec484d0-58e3-53a3-8ce3-3231726b3fa9	Siamo franchi in questa questione.	Let's be frank in this question.				

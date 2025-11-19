@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-figliastro		figliastro	NOUN		1	1e-06	1	1e-06	figliastro	NOUN	S	root	Gender=Masc|Number=Sing	7fb28141-02de-56bb-b00e-c23416be14c3	8bf132fe-d660-57f3-adfb-02e5108b6da4	Tom è il figliastro di Mary.	Tom is Mary's stepson.				
+figliastro	feelyah-STROH	figliastro	NOUN	stepson	1	1e-06	1	1e-06	figliastro	NOUN	S	root	Gender=Masc|Number=Sing	7fb28141-02de-56bb-b00e-c23416be14c3	8bf132fe-d660-57f3-adfb-02e5108b6da4	Tom è il figliastro di Mary.	Tom is Mary's stepson.				

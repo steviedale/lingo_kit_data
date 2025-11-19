@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-falò		falò	NOUN		2	2e-06	2	2e-06	falò	NOUN	S	obj	Gender=Masc|Number=Sing	dfc3e590-e673-57ce-9521-741b4cb254b5	319ba413-938b-5950-9ee6-db1e840ed5b8	Noi dobbiamo costruire un falò.	We need to build a fire.	Dobbiamo costruire un falò.	We need to build a fire.		
+falò	fah-LOH	falò	NOUN	bonfire	2	2e-06	2	2e-06	falò	NOUN	S	obj	Gender=Masc|Number=Sing	dfc3e590-e673-57ce-9521-741b4cb254b5	319ba413-938b-5950-9ee6-db1e840ed5b8	Noi dobbiamo costruire un falò.	We need to build a fire.	Dobbiamo costruire un falò.	We need to build a fire.		

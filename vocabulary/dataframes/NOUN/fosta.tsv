@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-foste		fosta	NOUN		1	1e-06	1	1e-06	fosta	NOUN	S	obj	Gender=Fem|Number=Plur	2870e319-ce42-507f-8455-2fc332760ac1	377e9949-e295-5341-9d65-38da73ff2aa9	Pensavo foste di Boston.	I thought you were from Boston.				
+foste	FOHS-teh	fosta	NOUN	you were	1	1e-06	1	1e-06	fosta	NOUN	S	obj	Gender=Fem|Number=Plur	2870e319-ce42-507f-8455-2fc332760ac1	377e9949-e295-5341-9d65-38da73ff2aa9	Pensavo foste di Boston.	I thought you were from Boston.				

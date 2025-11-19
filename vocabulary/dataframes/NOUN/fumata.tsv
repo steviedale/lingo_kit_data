@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fumate		fumata	NOUN		1	1e-06	1	1e-06	fumata	NOUN	S	root	Gender=Fem|Number=Plur	c68536e4-9ad2-512f-9f13-3b24c97cfedb	57c685aa-31ec-5b3d-9309-35a20ab11bbb	Fumate troppo. Non fumate così tanto!	You smoke too much. Don't smoke so much!				
+fumate	FOO-mah-teh	fumata	NOUN	smokes; puffs	1	1e-06	1	1e-06	fumata	NOUN	S	root	Gender=Fem|Number=Plur	c68536e4-9ad2-512f-9f13-3b24c97cfedb	57c685aa-31ec-5b3d-9309-35a20ab11bbb	Fumate troppo. Non fumate così tanto!	You smoke too much. Don't smoke so much!				

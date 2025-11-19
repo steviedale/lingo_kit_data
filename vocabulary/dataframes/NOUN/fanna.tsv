@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fanne		fanna	NOUN		1	1e-06	1	1e-06	fanna	NOUN	S	conj	Gender=Fem|Number=Sing	0d36c655-46d7-5d34-944b-103cd2cc4ffa	d60d3cf4-ccd0-58bf-b6af-89010058e04d	Coltiva cetrioli e fanne buon uso.	Grow cucumbers and make good use of them.				
+fanne	FAHN-neh	fanna	NOUN	make some (imperative)	1	1e-06	1	1e-06	fanna	NOUN	S	conj	Gender=Fem|Number=Sing	0d36c655-46d7-5d34-944b-103cd2cc4ffa	d60d3cf4-ccd0-58bf-b6af-89010058e04d	Coltiva cetrioli e fanne buon uso.	Grow cucumbers and make good use of them.				

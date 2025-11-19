@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-frana		frana	NOUN		1	1e-06	1	1e-06	frana	NOUN	S	obl:agent	Gender=Fem|Number=Sing	13ee4bd0-7515-5bd5-a1ec-94275087ee6b	21f9ba83-aae3-5ba4-aca6-16881ad9fc45	Il traffico è stato bloccato da una frana.	Traffic was blocked by a landslide.				
+frana	FRAH-nah	frana	NOUN	landslide	1	1e-06	1	1e-06	frana	NOUN	S	obl:agent	Gender=Fem|Number=Sing	13ee4bd0-7515-5bd5-a1ec-94275087ee6b	21f9ba83-aae3-5ba4-aca6-16881ad9fc45	Il traffico è stato bloccato da una frana.	Traffic was blocked by a landslide.				

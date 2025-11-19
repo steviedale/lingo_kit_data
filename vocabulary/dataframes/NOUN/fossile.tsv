@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fossili		fossile	NOUN		1	1e-06	1	1e-06	fossile	NOUN	S	obl	Gender=Masc|Number=Plur	ae5b85f9-e200-5069-b3a3-46408c66da52	b0cad5b0-7ac1-5022-b560-1d7d3a56b56d	Tom è interessato ai fossili.	Tom is interested in fossils.				
+fossili	FOS-see-lee	fossile	NOUN	fossils	1	1e-06	1	1e-06	fossile	NOUN	S	obl	Gender=Masc|Number=Plur	ae5b85f9-e200-5069-b3a3-46408c66da52	b0cad5b0-7ac1-5022-b560-1d7d3a56b56d	Tom è interessato ai fossili.	Tom is interested in fossils.				

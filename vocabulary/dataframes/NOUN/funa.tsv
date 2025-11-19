@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fune		funa	NOUN		2	2e-06	2	2e-06	funa	NOUN	S	obj	Gender=Fem|Number=Sing	7c46f3cb-5011-5030-9cce-b9aac2b3e692	64316639-950a-560c-8e02-6c1cb6ec83e6	Tom tirò la fune.	Tom pulled the rope.	Tom ha tirato la fune.	Tom pulled the rope.		
+fune	FOO-neh	funa	NOUN	rope	2	2e-06	2	2e-06	funa	NOUN	S	obj	Gender=Fem|Number=Sing	7c46f3cb-5011-5030-9cce-b9aac2b3e692	64316639-950a-560c-8e02-6c1cb6ec83e6	Tom tirò la fune.	Tom pulled the rope.	Tom ha tirato la fune.	Tom pulled the rope.		

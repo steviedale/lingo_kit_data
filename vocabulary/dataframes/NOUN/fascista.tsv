@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fascista		fascista	NOUN		2	2e-06	2	2e-06	fascista	NOUN	S	root	Gender=Masc|Number=Sing	3f7d856a-48f0-5a61-9e90-1f72e5edb9b9	d1740925-dcd2-5ba4-8353-80a9d09b183b	Bush non è un fascista.	Bush is not a fascist.	Tom è un fascista.	Tom is a fascist.		
+fascista	fah-SHEES-tah	fascista	NOUN	fascist	2	2e-06	2	2e-06	fascista	NOUN	S	root	Gender=Masc|Number=Sing	3f7d856a-48f0-5a61-9e90-1f72e5edb9b9	d1740925-dcd2-5ba4-8353-80a9d09b183b	Bush non è un fascista.	Bush is not a fascist.	Tom è un fascista.	Tom is a fascist.		

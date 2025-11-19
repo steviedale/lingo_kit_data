@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fracasso		fracasso	NOUN		1	1e-06	1	1e-06	fracasso	NOUN	S	nmod	Gender=Masc|Number=Sing	afbe64f2-7ea1-533d-9487-023c83b0a2bc	e0ca28a2-3a89-5810-ae93-d45f6da27577	Qual è lo scopo di tutto questo fracasso?	What's the purpose of all this commotion?				
+fracasso	fra-KAH-soh	fracasso	NOUN	crash; racket	1	1e-06	1	1e-06	fracasso	NOUN	S	nmod	Gender=Masc|Number=Sing	afbe64f2-7ea1-533d-9487-023c83b0a2bc	e0ca28a2-3a89-5810-ae93-d45f6da27577	Qual è lo scopo di tutto questo fracasso?	What's the purpose of all this commotion?				

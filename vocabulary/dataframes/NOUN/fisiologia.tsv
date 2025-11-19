@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fisiologia		fisiologia	NOUN		1	1e-06	1	1e-06	fisiologia	NOUN	S	nsubj	Gender=Fem|Number=Sing	4eb10bf4-a3f9-555a-8a1b-412651519027	72399fea-5bb2-5b77-9c31-8bd419131ce8	Fisiologia umana è un corso da tre crediti.	Human physiology is a three-credit course.				
+fisiologia	fee-zee-oh-loh-JEE-ah	fisiologia	NOUN	physiology	1	1e-06	1	1e-06	fisiologia	NOUN	S	nsubj	Gender=Fem|Number=Sing	4eb10bf4-a3f9-555a-8a1b-412651519027	72399fea-5bb2-5b77-9c31-8bd419131ce8	Fisiologia umana è un corso da tre crediti.	Human physiology is a three-credit course.				

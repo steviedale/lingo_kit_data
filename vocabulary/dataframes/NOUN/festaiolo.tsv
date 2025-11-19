@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-festaiolo		festaiolo	NOUN		1	1e-06	1	1e-06	festaiolo	NOUN	S	root	Gender=Masc|Number=Sing	c4816d54-876e-551a-8196-1d203c08e1f7	8515e988-1d25-53a4-bb42-9a26bf5cd179	Tom è un festaiolo.	Tom is a party boy.				
+festaiolo	fes-tah-YOH-loh	festaiolo	NOUN	partygoer; party animal	1	1e-06	1	1e-06	festaiolo	NOUN	S	root	Gender=Masc|Number=Sing	c4816d54-876e-551a-8196-1d203c08e1f7	8515e988-1d25-53a4-bb42-9a26bf5cd179	Tom è un festaiolo.	Tom is a party boy.				

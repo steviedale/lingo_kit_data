@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fucsia		fucsia	NOUN		1	1e-06	1	1e-06	fucsia	NOUN	S	obl	Gender=Masc|Number=Sing	899c8695-dc92-55ec-8518-b5c9ea0b25a8	3d7b9268-65b1-5dca-a76d-49d7a3b275a3	Non distinguo il rosa dal fucsia.	I can't tell pink from fuchsia.				
+fucsia	FOOK-syah	fucsia	NOUN	fuchsia	1	1e-06	1	1e-06	fucsia	NOUN	S	obl	Gender=Masc|Number=Sing	899c8695-dc92-55ec-8518-b5c9ea0b25a8	3d7b9268-65b1-5dca-a76d-49d7a3b275a3	Non distinguo il rosa dal fucsia.	I can't tell pink from fuchsia.				

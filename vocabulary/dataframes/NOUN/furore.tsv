@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-furore		furore	NOUN		1	1e-06	1	1e-06	furore	NOUN	S	obl	Gender=Masc|Number=Sing	bb102411-c332-5caa-b7ba-f2da8c633187	8184fbaf-543c-5fba-9a26-0b1496e501f9	La musica dà suono al furore, forma alla gioia.	Music gives sound to fury, shape to joy.				
+furore	foo-ROH-reh	furore	NOUN	fury; craze	1	1e-06	1	1e-06	furore	NOUN	S	obl	Gender=Masc|Number=Sing	bb102411-c332-5caa-b7ba-f2da8c633187	8184fbaf-543c-5fba-9a26-0b1496e501f9	La musica dà suono al furore, forma alla gioia.	Music gives sound to fury, shape to joy.				

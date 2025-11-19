@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-familiare		familiare	NOUN		1	1e-06	1	1e-06	familiare	NOUN	S	root	Number=Sing	a8138b97-bdd9-5f56-a797-a5ad82820ce8	753be00e-f4ae-5122-a1ab-880cbdf31716	Non sono un familiare del ragazzo.	I'm not familiar with the boy.				
+familiare	fah-mee-LYAH-reh	familiare	NOUN	family member; relative	1	1e-06	1	1e-06	familiare	NOUN	S	root	Number=Sing	a8138b97-bdd9-5f56-a797-a5ad82820ce8	753be00e-f4ae-5122-a1ab-880cbdf31716	Non sono un familiare del ragazzo.	I'm not familiar with the boy.				

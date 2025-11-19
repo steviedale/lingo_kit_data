@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-forfora		forfora	NOUN		2	2e-06	2	2e-06	forfora	NOUN	S	obj	Gender=Fem|Number=Sing	e9b4fa90-d63c-5e07-a2a6-4613511e90f8	bd9a3c8c-2eb7-5ec3-80f3-1fe6a5d44ffa	Ho la forfora.	I have dandruff.	Io ho la forfora.	I have dandruff.		
+forfora	FOR-foh-rah	forfora	NOUN	dandruff	2	2e-06	2	2e-06	forfora	NOUN	S	obj	Gender=Fem|Number=Sing	e9b4fa90-d63c-5e07-a2a6-4613511e90f8	bd9a3c8c-2eb7-5ec3-80f3-1fe6a5d44ffa	Ho la forfora.	I have dandruff.	Io ho la forfora.	I have dandruff.		

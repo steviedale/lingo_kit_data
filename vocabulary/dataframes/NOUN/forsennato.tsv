@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-forsennato		forsennato	NOUN		1	1e-06	1	1e-06	forsennato	NOUN	S	obl	Gender=Masc|Number=Sing	62584aee-b271-5727-9cd0-3ce0aaa715c1	5246f4eb-80e7-5ba8-bad5-f1de8050f4ba	Tom lavorava come un forsennato.	Tom worked like a madman.				
+forsennato	for-sen-NAH-toh	forsennato	NOUN	madman; frantic person	1	1e-06	1	1e-06	forsennato	NOUN	S	obl	Gender=Masc|Number=Sing	62584aee-b271-5727-9cd0-3ce0aaa715c1	5246f4eb-80e7-5ba8-bad5-f1de8050f4ba	Tom lavorava come un forsennato.	Tom worked like a madman.				
