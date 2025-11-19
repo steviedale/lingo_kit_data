@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-abbaglianti		abbagliante	NOUN		1	1e-06	1	1e-06	abbagliante	NOUN	S	nsubj	Gender=Masc|Number=Plur	9f97240b-b349-5ea3-8c83-5e962d3ad5f0	3e27b81c-2875-52b2-b431-a80eac17fd99	I miei abbaglianti sono accesi.	My brights are on.				
+abbaglianti	ah-bahl-YAHN-tee	abbagliante	NOUN	high beams; headlights	1	1e-06	1	1e-06	abbagliante	NOUN	S	nsubj	Gender=Masc|Number=Plur	9f97240b-b349-5ea3-8c83-5e962d3ad5f0	3e27b81c-2875-52b2-b431-a80eac17fd99	I miei abbaglianti sono accesi.	My brights are on.				
