@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fin		fino	ADJ		2	2e-06	2	2e-06	fino	ADJ	A	amod	Gender=Fem|Number=Sing	5339af82-590e-5cc9-a114-7b9e9524d497	4b084fad-1159-5fbc-8a2a-2ad6844d0ed8	Aveva ragione alla fin fine.	He was right after all.	Lui aveva ragione alla fin fine.	He was right after all.		
+fin	FEEN	fino	ADJ	final; ultimate	2	2e-06	2	2e-06	fino	ADJ	A	amod	Gender=Fem|Number=Sing	5339af82-590e-5cc9-a114-7b9e9524d497	4b084fad-1159-5fbc-8a2a-2ad6844d0ed8	Aveva ragione alla fin fine.	He was right after all.	Lui aveva ragione alla fin fine.	He was right after all.		

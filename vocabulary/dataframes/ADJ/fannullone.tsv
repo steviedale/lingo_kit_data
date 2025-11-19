@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fannullone		fannullone	ADJ		1	1e-06	1	1e-06	fannullone	ADJ	A	amod	Gender=Masc|Number=Sing	f2b477f7-a3ad-5d6d-9ca9-9ce336c69151	f6bea1e6-deb4-51ec-8f0b-3a74340ad2a5	È uno studente fannullone.	He is a lazy student.				
+fannullone	fahn-nool-LOH-neh	fannullone	ADJ	lazy; idle	1	1e-06	1	1e-06	fannullone	ADJ	A	amod	Gender=Masc|Number=Sing	f2b477f7-a3ad-5d6d-9ca9-9ce336c69151	f6bea1e6-deb4-51ec-8f0b-3a74340ad2a5	È uno studente fannullone.	He is a lazy student.				
