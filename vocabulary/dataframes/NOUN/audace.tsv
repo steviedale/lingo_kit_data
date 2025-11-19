@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-audaci		audace	NOUN		1	1e-06	1	1e-06	audace	NOUN	S	obj	Gender=Masc|Number=Plur	bf48cb7a-9dfc-56f2-8d9b-f560e23a4c0d	ad1eed28-b9e4-567b-929d-899b5554728b	La fortuna aiuta gli audaci.	Fortune favors the bold.				
+audaci	ow-DAH-chee	audace	NOUN	bold people	1	1e-06	1	1e-06	audace	NOUN	S	obj	Gender=Masc|Number=Plur	bf48cb7a-9dfc-56f2-8d9b-f560e23a4c0d	ad1eed28-b9e4-567b-929d-899b5554728b	La fortuna aiuta gli audaci.	Fortune favors the bold.				

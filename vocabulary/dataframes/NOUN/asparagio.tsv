@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-asparagi		asparagio	NOUN		2	2e-06	2	2e-06	asparagio	NOUN	S	obj	Gender=Masc|Number=Plur	0d35f8be-9f38-5181-8ea7-998f6ca87fa5	686508c6-f393-5817-85b3-db0226b58958	Io odio gli asparagi.	I hate asparagus.	Odio gli asparagi.	I hate asparagus.		
+asparagi	ahs-PAH-rah-jee	asparagio	NOUN	asparagus spears	2	2e-06	2	2e-06	asparagio	NOUN	S	obj	Gender=Masc|Number=Plur	0d35f8be-9f38-5181-8ea7-998f6ca87fa5	686508c6-f393-5817-85b3-db0226b58958	Io odio gli asparagi.	I hate asparagus.	Odio gli asparagi.	I hate asparagus.		

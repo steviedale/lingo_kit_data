@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-audioguide		audioguide	NOUN		1	1e-06	1	1e-06	audioguide	NOUN	S	obl	Gender=Fem|Number=Plur	e3eba739-7c6c-5e8c-9306-8e309ba71bed	1a6cf12e-45c6-5148-a1c3-44781491c11c	Ci sono delle audioguide in francese?	Are there French audio guides?				
+audioguide	ow-dyoh-GWEE-deh	audioguide	NOUN	audio guides	1	1e-06	1	1e-06	audioguide	NOUN	S	obl	Gender=Fem|Number=Plur	e3eba739-7c6c-5e8c-9306-8e309ba71bed	1a6cf12e-45c6-5148-a1c3-44781491c11c	Ci sono delle audioguide in francese?	Are there French audio guides?				

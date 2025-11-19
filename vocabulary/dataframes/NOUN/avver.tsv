@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-avverbi		avver	NOUN		1	1e-06	1	1e-06	avver+bi	NOUN+NOUN	S	nsubj	Gender=Masc	048d26c9-ec70-5d13-a290-10bdb65c64e2	e4fface3-37a9-59b1-a076-65022690edc3	Cosa modificano gli avverbi?	What do adverbs modify?				
+avverbi	ahv-VEHR-bee	avver	NOUN	adverbs	1	1e-06	1	1e-06	avver+bi	NOUN+NOUN	S	nsubj	Gender=Masc	048d26c9-ec70-5d13-a290-10bdb65c64e2	e4fface3-37a9-59b1-a076-65022690edc3	Cosa modificano gli avverbi?	What do adverbs modify?				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-autostop		autostop	NOUN		1	1e-06	1	1e-06	autostop	NOUN	S	obj	Gender=Masc	3149b149-fa85-562d-86d5-f193620da049	9d92348e-d794-53ec-abd8-3e0b5bd3982a	Quali sono i pro e i contro di fare l'autostop?	What are the pros and cons of hitchhiking?				
+autostop	ow-toh-STOHP	autostop	NOUN	hitchhiking	1	1e-06	1	1e-06	autostop	NOUN	S	obj	Gender=Masc	3149b149-fa85-562d-86d5-f193620da049	9d92348e-d794-53ec-abd8-3e0b5bd3982a	Quali sono i pro e i contro di fare l'autostop?	What are the pros and cons of hitchhiking?				

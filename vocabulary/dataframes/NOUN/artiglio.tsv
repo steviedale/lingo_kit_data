@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-artigli		artiglio	NOUN		1	1e-06	1	1e-06	artiglio	NOUN	S	obj	Gender=Masc|Number=Plur	cb5b233f-3b3b-5a0c-8c0e-5e042e10e460	ef75c6df-2cbe-50fc-ad3b-066dec5de9bd	Il gatto sta nascondendo i suoi artigli.	The cat is hiding its claws.				
+artigli	ahr-TEE-lyee	artiglio	NOUN	claws	1	1e-06	1	1e-06	artiglio	NOUN	S	obj	Gender=Masc|Number=Plur	cb5b233f-3b3b-5a0c-8c0e-5e042e10e460	ef75c6df-2cbe-50fc-ad3b-066dec5de9bd	Il gatto sta nascondendo i suoi artigli.	The cat is hiding its claws.				

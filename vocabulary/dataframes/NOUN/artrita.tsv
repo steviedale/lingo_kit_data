@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-artrite		artrita	NOUN		1	1e-06	1	1e-06	artrita	NOUN	S	obj	Gender=Fem|Number=Sing	e05630fc-bf48-5f94-a0f2-9f69721c0080	3558b9b1-2e5d-5fe2-893f-f9676d481cfd	Tom ha l'artrite.	Tom has arthritis.				
+artrite	ahr-TREE-teh	artrita	NOUN	arthritis	1	1e-06	1	1e-06	artrita	NOUN	S	obj	Gender=Fem|Number=Sing	e05630fc-bf48-5f94-a0f2-9f69721c0080	3558b9b1-2e5d-5fe2-893f-f9676d481cfd	Tom ha l'artrite.	Tom has arthritis.				
