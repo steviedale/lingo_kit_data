@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-folk		folk	NOUN		1	1e-06	1	1e-06	folk	NOUN	S	compound	Gender=Masc	1e8e3bd0-fbe2-5787-8eec-f9f90be37acc	e0d2ce6f-f512-5c3a-9729-838a66ec2030	Una volta mi piaceva la musica folk.	I used to like folk music.				
+folk	FOLK	folk	NOUN	folk (music)	1	1e-06	1	1e-06	folk	NOUN	S	compound	Gender=Masc	1e8e3bd0-fbe2-5787-8eec-f9f90be37acc	e0d2ce6f-f512-5c3a-9729-838a66ec2030	Una volta mi piaceva la musica folk.	I used to like folk music.				

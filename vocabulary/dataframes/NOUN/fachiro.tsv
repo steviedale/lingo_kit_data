@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fachiro		fachiro	NOUN		1	1e-06	1	1e-06	fachiro	NOUN	S	root	Gender=Masc|Number=Sing	670b216d-dcc4-56f3-a904-6903af100c31	d9da0d29-43bb-5e18-b8ba-48b5ed155062	Tom è un fachiro.	Tom is a fakir.				
+fachiro	fah-KEE-roh	fachiro	NOUN	fakir	1	1e-06	1	1e-06	fachiro	NOUN	S	root	Gender=Masc|Number=Sing	670b216d-dcc4-56f3-a904-6903af100c31	d9da0d29-43bb-5e18-b8ba-48b5ed155062	Tom è un fachiro.	Tom is a fakir.				

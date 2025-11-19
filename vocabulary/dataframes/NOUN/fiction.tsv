@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fiction		fiction	NOUN		1	1e-06	1	1e-06	fiction	NOUN	S	nmod	Gender=Fem	6e6ed34b-5021-5d67-9cbf-d64a6ae01100	74ec141c-a725-5549-8f95-c3a71752047e	È cresciuta una nuova scuola di fiction.	A new school of fiction has grown up.				
+fiction	FEEK-shon	fiction	NOUN	fiction (TV series)	1	1e-06	1	1e-06	fiction	NOUN	S	nmod	Gender=Fem	6e6ed34b-5021-5d67-9cbf-d64a6ae01100	74ec141c-a725-5549-8f95-c3a71752047e	È cresciuta una nuova scuola di fiction.	A new school of fiction has grown up.				

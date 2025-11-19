@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fluenza		fluenza	NOUN		1	1e-06	1	1e-06	fluenza	NOUN	S	obl	Gender=Fem|Number=Sing	4b71bc31-a3a9-5dd1-84e3-8315d2400e4e	01d0d02f-d990-511f-81d8-79c2f629ff15	Io sono stupito della tua fluenza in inglese.	I'm amazed at your fluency in English.				
+fluenza	floo-EN-tsah	fluenza	NOUN	fluency	1	1e-06	1	1e-06	fluenza	NOUN	S	obl	Gender=Fem|Number=Sing	4b71bc31-a3a9-5dd1-84e3-8315d2400e4e	01d0d02f-d990-511f-81d8-79c2f629ff15	Io sono stupito della tua fluenza in inglese.	I'm amazed at your fluency in English.				

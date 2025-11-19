@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-footing		footing	NOUN		1	1e-06	1	1e-06	footing	NOUN	S	obj	Gender=Masc	fb06e5b5-57ae-577f-92aa-4fbc8ffb3ee0	03825b38-2f42-594a-8dc2-72c764e13dcd	Jim dice che fa footing almeno tre volte alla settimana.	Jim says he goes jogging at least three times a week.				
+footing	FOO-ting	footing	NOUN	jogging	1	1e-06	1	1e-06	footing	NOUN	S	obj	Gender=Masc	fb06e5b5-57ae-577f-92aa-4fbc8ffb3ee0	03825b38-2f42-594a-8dc2-72c764e13dcd	Jim dice che fa footing almeno tre volte alla settimana.	Jim says he goes jogging at least three times a week.				

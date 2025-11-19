@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fast		fast	NOUN		1	1e-06	1	1e-06	fast	NOUN	S	nsubj		ef662827-1e2e-54ec-862d-ef6fe8f0ce8c	e9f69376-b94c-56fd-9b91-b93f21cd2369	I fast food possono dare dipendenza.	Fast food can be addictive.				
+fast	FAHST	fast	NOUN	fast (loanword)	1	1e-06	1	1e-06	fast	NOUN	S	nsubj		ef662827-1e2e-54ec-862d-ef6fe8f0ce8c	e9f69376-b94c-56fd-9b91-b93f21cd2369	I fast food possono dare dipendenza.	Fast food can be addictive.				

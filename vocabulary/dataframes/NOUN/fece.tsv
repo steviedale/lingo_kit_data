@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-feci		fece	NOUN		3	3e-06	3	3e-06	fece	NOUN	S	root	Gender=Fem|Number=Sing	cd4f38f5-a0b5-5866-a20e-045a04ba40f2	d5f9cbb9-896a-54a7-bc93-94593314680a	Feci del brasato.	I made a pot roast.	Feci del casino.	I messed up.	Feci degli altri piani.	I made other plans.
+feci	FEH-chee	fece	NOUN	I made; I did	3	3e-06	3	3e-06	fece	NOUN	S	root	Gender=Fem|Number=Sing	cd4f38f5-a0b5-5866-a20e-045a04ba40f2	d5f9cbb9-896a-54a7-bc93-94593314680a	Feci del brasato.	I made a pot roast.	Feci del casino.	I messed up.	Feci degli altri piani.	I made other plans.
