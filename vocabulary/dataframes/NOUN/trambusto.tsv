@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-trambusto		trambusto	NOUN		1	1e-06	1	1e-06	trambusto	NOUN	S	nmod	Gender=Masc|Number=Sing	ab42fddf-b47a-5242-a8db-18b1b387c86f	a3e49f96-6d9e-52da-a540-54aed1b47906	Qual è lo scopo di tutto questo trambusto?	What's the purpose of all this commotion?				
+trambusto	trahm-BOO-stoh	trambusto	NOUN	commotion	1	1e-06	1	1e-06	trambusto	NOUN	S	nmod	Gender=Masc|Number=Sing	ab42fddf-b47a-5242-a8db-18b1b387c86f	a3e49f96-6d9e-52da-a540-54aed1b47906	Qual è lo scopo di tutto questo trambusto?	What's the purpose of all this commotion?				

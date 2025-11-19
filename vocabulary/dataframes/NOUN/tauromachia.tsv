@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tauromachia		tauromachia	NOUN		1	1e-06	1	1e-06	tauromachia	NOUN	S	nsubj	Gender=Fem|Number=Sing	219a5d55-2d04-5baf-a61e-c243a7f1ddc9	345910d2-69ff-517b-87fa-4248fe864487	Cos'è la tauromachia?	What is bullfighting?				
+tauromachia	tow-roh-MAH-kyah	tauromachia	NOUN	bullfighting	1	1e-06	1	1e-06	tauromachia	NOUN	S	nsubj	Gender=Fem|Number=Sing	219a5d55-2d04-5baf-a61e-c243a7f1ddc9	345910d2-69ff-517b-87fa-4248fe864487	Cos'è la tauromachia?	What is bullfighting?				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tuorli		tuorli	NOUN		1	1e-06	1	1e-06	tuorli	NOUN	S	obj	Gender=Masc|Number=Plur	936f3b18-885a-5a8a-bab4-d3e1224b1532	e017d90f-ef73-5899-83bf-322d7d386cb3	Chi se ne frega se Tom mangia tuorli d'uovo o meno.	Who cares whether Tom eats egg yolks or not?				
+tuorli	TWOHR-lee	tuorli	NOUN	egg yolks	1	1e-06	1	1e-06	tuorli	NOUN	S	obj	Gender=Masc|Number=Plur	936f3b18-885a-5a8a-bab4-d3e1224b1532	e017d90f-ef73-5899-83bf-322d7d386cb3	Chi se ne frega se Tom mangia tuorli d'uovo o meno.	Who cares whether Tom eats egg yolks or not?				

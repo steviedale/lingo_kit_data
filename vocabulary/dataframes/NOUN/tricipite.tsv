@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tricipite		tricipite	NOUN		1	1e-06	1	1e-06	tricipite	NOUN	S	nsubj	Gender=Masc|Number=Sing	63d9775b-7c39-5c83-aa9a-0f2a5c0aa755	b4bc19d0-6825-5ba2-8566-54b2f6f5f1fe	Mi sono strappato un tricipite.	I pulled a triceps.				
+tricipite	tree-chee-PEE-teh	tricipite	NOUN	triceps muscle	1	1e-06	1	1e-06	tricipite	NOUN	S	nsubj	Gender=Masc|Number=Sing	63d9775b-7c39-5c83-aa9a-0f2a5c0aa755	b4bc19d0-6825-5ba2-8566-54b2f6f5f1fe	Mi sono strappato un tricipite.	I pulled a triceps.				

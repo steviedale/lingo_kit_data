@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-termostato		termostato	NOUN		1	1e-06	1	1e-06	termostato	NOUN	S	nsubj	Gender=Masc|Number=Sing	745c8064-cfd8-5eeb-8643-c3cb754ab16d	8d588d3b-37ab-57dd-9332-13eeabee2684	Il termostato è difettoso.	The thermostat is defective.				
+termostato	tehr-moh-STAH-toh	termostato	NOUN	thermostat	1	1e-06	1	1e-06	termostato	NOUN	S	nsubj	Gender=Masc|Number=Sing	745c8064-cfd8-5eeb-8643-c3cb754ab16d	8d588d3b-37ab-57dd-9332-13eeabee2684	Il termostato è difettoso.	The thermostat is defective.				

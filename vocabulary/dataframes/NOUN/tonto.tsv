@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tonto		tonto	NOUN		1	1e-06	1	1e-06	tonto	NOUN	S	obj	Gender=Masc|Number=Sing	0a940b19-5616-58bc-971a-371c83f0c1ba	d070ebc0-37d5-5e16-9efa-63f3d5e78e46	Non fare il finto tonto, Tom.	Don't play dumb, Tom.				
+tonto	TOHN-toh	tonto	NOUN	fool; idiot	1	1e-06	1	1e-06	tonto	NOUN	S	obj	Gender=Masc|Number=Sing	0a940b19-5616-58bc-971a-371c83f0c1ba	d070ebc0-37d5-5e16-9efa-63f3d5e78e46	Non fare il finto tonto, Tom.	Don't play dumb, Tom.				

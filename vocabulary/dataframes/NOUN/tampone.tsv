@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tamponi		tampone	NOUN		1	1e-06	1	1e-06	tampone	NOUN	S	conj	Gender=Masc|Number=Plur	e88544c2-c611-5c3e-a701-01f3d2e83721	09a5bd88-4a3c-5e0b-98f7-2e05e00eccf5	Preferisci assorbenti o tamponi?	Do you prefer using sanitary napkins or tampons?				
+tamponi	tahm-POH-nee	tampone	NOUN	tampons	1	1e-06	1	1e-06	tampone	NOUN	S	conj	Gender=Masc|Number=Plur	e88544c2-c611-5c3e-a701-01f3d2e83721	09a5bd88-4a3c-5e0b-98f7-2e05e00eccf5	Preferisci assorbenti o tamponi?	Do you prefer using sanitary napkins or tampons?				
