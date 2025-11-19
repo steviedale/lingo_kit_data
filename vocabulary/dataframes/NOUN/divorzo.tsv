@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-divorzi		divorzo	NOUN		1	1e-06	1	1e-06	divorzo	NOUN	S	nmod	Gender=Masc|Number=Plur	c343857a-c526-54c7-beb9-5eef831c1260	97313c38-e695-53fd-a6f7-e3a185b6fd90	Il matrimonio è la causa principale di tutti i divorzi.	Marriage is the main cause of all divorces.				
+divorzi	dee-VOR-tsee	divorzo	NOUN	divorces	1	1e-06	1	1e-06	divorzo	NOUN	S	nmod	Gender=Masc|Number=Plur	c343857a-c526-54c7-beb9-5eef831c1260	97313c38-e695-53fd-a6f7-e3a185b6fd90	Il matrimonio è la causa principale di tutti i divorzi.	Marriage is the main cause of all divorces.				

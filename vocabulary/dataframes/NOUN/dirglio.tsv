@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dirgli		dirglio	NOUN		1	1e-06	1	1e-06	dirglio	NOUN	S	obl	Gender=Masc|Number=Sing	987bacb1-86b1-54cd-8f1a-1ffaf9fcbbc2	7a7c310d-20b3-5628-80f9-0a12ffc92e4e	Non ascolta mai quello che cerco di dirgli.	He never listens to what I am trying to say.				
+dirgli	DEER-lyee	dirglio	NOUN	tell him	1	1e-06	1	1e-06	dirglio	NOUN	S	obl	Gender=Masc|Number=Sing	987bacb1-86b1-54cd-8f1a-1ffaf9fcbbc2	7a7c310d-20b3-5628-80f9-0a12ffc92e4e	Non ascolta mai quello che cerco di dirgli.	He never listens to what I am trying to say.				

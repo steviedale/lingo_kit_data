@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-detenuta		detenere	NOUN		1	1e-06	1	1e-06	detenere	NOUN	S	root	Gender=Fem|Number=Sing	211c39fc-be3a-500a-91a1-444d7801f98e	d7723515-462d-5ef1-8494-680dcd595450	Quella donna è una detenuta.	That woman is a convict.				
+detenuta	deh-teh-NOO-tah	detenere	NOUN	detainee (feminine)	1	1e-06	1	1e-06	detenere	NOUN	S	root	Gender=Fem|Number=Sing	211c39fc-be3a-500a-91a1-444d7801f98e	d7723515-462d-5ef1-8494-680dcd595450	Quella donna è una detenuta.	That woman is a convict.				

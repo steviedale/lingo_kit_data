@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-diavoletto		diavoletto	NOUN		2	2e-06	2	2e-06	diavoletto	NOUN	S	root	Gender=Masc|Number=Sing	2ba3e3d7-3946-5217-ad25-c44bc59153a6	666567cc-4e55-5c2d-8031-d1449c52d1fe	Lui è un diavoletto.	He's a little devil.	È un diavoletto.	He's a little devil.		
+diavoletto	dee-ah-voh-LET-toh	diavoletto	NOUN	little devil; imp	2	2e-06	2	2e-06	diavoletto	NOUN	S	root	Gender=Masc|Number=Sing	2ba3e3d7-3946-5217-ad25-c44bc59153a6	666567cc-4e55-5c2d-8031-d1449c52d1fe	Lui è un diavoletto.	He's a little devil.	È un diavoletto.	He's a little devil.		

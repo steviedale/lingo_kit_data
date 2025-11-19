@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-diossido		diossido	NOUN		1	1e-06	1	1e-06	diossido	NOUN	S	nsubj	Gender=Masc|Number=Sing	6e986b00-6fb4-5cef-8dde-1d7f4ba4d84a	c011bad4-77db-53ff-8cc2-40f7e36f8768	Il diossido di carbonio non è velenoso di per sé.	Carbon dioxide is not a poison in itself.				
+diossido	dee-OSS-see-doh	diossido	NOUN	dioxide	1	1e-06	1	1e-06	diossido	NOUN	S	nsubj	Gender=Masc|Number=Sing	6e986b00-6fb4-5cef-8dde-1d7f4ba4d84a	c011bad4-77db-53ff-8cc2-40f7e36f8768	Il diossido di carbonio non è velenoso di per sé.	Carbon dioxide is not a poison in itself.				

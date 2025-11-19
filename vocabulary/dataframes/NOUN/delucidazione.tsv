@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-delucidazione		delucidazione	NOUN		1	1e-06	1	1e-06	delucidazione	NOUN	S	obj	Gender=Fem|Number=Sing	4a2a12bf-6058-5600-a49c-0fde94cd6423	1d0611d9-1c8c-59b5-9bac-140751ffcdef	Posso chiedere una delucidazione?	Can I ask for a clarification?				
+delucidazione	deh-loo-chee-dah-TSYOH-neh	delucidazione	NOUN	clarification	1	1e-06	1	1e-06	delucidazione	NOUN	S	obj	Gender=Fem|Number=Sing	4a2a12bf-6058-5600-a49c-0fde94cd6423	1d0611d9-1c8c-59b5-9bac-140751ffcdef	Posso chiedere una delucidazione?	Can I ask for a clarification?				

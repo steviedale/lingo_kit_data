@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-derelitto		derelitto	NOUN		1	1e-06	1	1e-06	derelitto	NOUN	S	root	Gender=Masc|Number=Sing	f02a51a0-1c0b-5000-a029-42f13edbb678	49c71e47-57a8-5364-8199-c641a585f926	Tom è un derelitto.	Tom is an outcast.				
+derelitto	deh-reh-LEET-toh	derelitto	NOUN	castaway; derelict	1	1e-06	1	1e-06	derelitto	NOUN	S	root	Gender=Masc|Number=Sing	f02a51a0-1c0b-5000-a029-42f13edbb678	49c71e47-57a8-5364-8199-c641a585f926	Tom è un derelitto.	Tom is an outcast.				

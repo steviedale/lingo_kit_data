@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dirvi		dirvo	NOUN		1	1e-06	1	1e-06	dirvo	NOUN	S	obl	Gender=Masc|Number=Sing	272ea71d-e593-50d2-9bcb-c2f12fbe66ab	a3ecd45c-2e18-557c-8c51-d7e266845402	Quello che ho da dirvi è molto importante.	What I have to tell you is very important.				
+dirvi	DEER-vee	dirvo	NOUN	tell you all	1	1e-06	1	1e-06	dirvo	NOUN	S	obl	Gender=Masc|Number=Sing	272ea71d-e593-50d2-9bcb-c2f12fbe66ab	a3ecd45c-2e18-557c-8c51-d7e266845402	Quello che ho da dirvi è molto importante.	What I have to tell you is very important.				

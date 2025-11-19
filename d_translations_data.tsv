@@ -1,0 +1,384 @@
+path	text	pronunciation	translation_en
+vocabulary/dataframes/NOUN/d.tsv	d	DEE	letter d
+vocabulary/dataframes/NOUN/dachshund.tsv	dachshund	DAHK-soond	dachshund
+vocabulary/dataframes/NOUN/dade.tsv	dadi	DAH-dee	dice
+vocabulary/dataframes/NOUN/dado.tsv	dado	DAH-doh	die; gaming cube
+vocabulary/dataframes/NOUN/daiquire.tsv	daiquiri	DAI-kwee-ree	daiquiri
+vocabulary/dataframes/NOUN/dama.tsv	dama	DAH-mah	lady; dame
+vocabulary/dataframes/NOUN/dan.tsv	dan	DAHN	dan rank
+vocabulary/dataframes/NOUN/danese.tsv	danese	dah-NEH-zeh	Danish; Dane
+vocabulary/dataframes/NOUN/dannazione.tsv	dannazione	dahn-nah-TSYOH-neh	damnation; damn it
+vocabulary/dataframes/NOUN/danno.tsv	danni	DAHN-nee	damages; harms
+vocabulary/dataframes/NOUN/danno.tsv	danno	DAHN-noh	damage; harm
+vocabulary/dataframes/NOUN/danza.tsv	danza	DAHN-tsah	dance
+vocabulary/dataframes/NOUN/danzatore.tsv	danzatrice	dahn-tsah-TREE-cheh	dancer (feminine)
+vocabulary/dataframes/NOUN/danzatore.tsv	danzatrici	dahn-tsah-TREE-chee	dancers (feminine)
+vocabulary/dataframes/NOUN/danzo.tsv	danzo	DAHN-dzoh	I dance
+vocabulary/dataframes/NOUN/dardo.tsv	dardo	DAR-doh	dart
+vocabulary/dataframes/NOUN/dare.tsv	dia	DEE-ah	give it (formal imperative)
+vocabulary/dataframes/NOUN/darle.tsv	darle	DAR-leh	to give her
+vocabulary/dataframes/NOUN/data.tsv	data	DAH-tah	date
+vocabulary/dataframes/NOUN/data.tsv	date	DAH-teh	dates
+vocabulary/dataframes/NOUN/database.tsv	database	DAH-tah-bays	database
+vocabulary/dataframes/NOUN/datazione.tsv	datazione	dah-tah-TSYOH-neh	dating; chronology
+vocabulary/dataframes/NOUN/dativo.tsv	dativo	dah-TEE-voh	dative case
+vocabulary/dataframes/NOUN/dato.tsv	dati	DAH-tee	data; figures
+vocabulary/dataframes/NOUN/dato.tsv	dato	DAH-toh	data point; fact
+vocabulary/dataframes/NOUN/datore.tsv	datore	dah-TOH-reh	employer
+vocabulary/dataframes/NOUN/datore.tsv	datori	dah-TOH-ree	employers
+vocabulary/dataframes/NOUN/davanzale.tsv	davanzale	dah-vahn-ZAH-leh	windowsill
+vocabulary/dataframes/NOUN/dazio.tsv	dazio	DAH-tsyoh	customs duty
+vocabulary/dataframes/NOUN/debito.tsv	debiti	DEH-bee-tee	debts
+vocabulary/dataframes/NOUN/debito.tsv	debito	DEH-bee-toh	debt
+vocabulary/dataframes/NOUN/debitore.tsv	debitori	deh-bee-TOH-ree	debtors
+vocabulary/dataframes/NOUN/debole.tsv	debole	DEH-boh-leh	weakness; soft spot
+vocabulary/dataframes/NOUN/debolezza.tsv	debolezze	deh-boh-LET-tseh	weaknesses
+vocabulary/dataframes/NOUN/debolezza.tsv	debolezza	deh-boh-LET-tsah	weakness
+vocabulary/dataframes/NOUN/debugging.tsv	debugging	dee-BUHG-ghing	debugging
+vocabulary/dataframes/NOUN/decappottabile.tsv	decappottabile	deh-kahp-poht-TAH-bee-leh	convertible car
+vocabulary/dataframes/NOUN/decennio.tsv	decenni	deh-CHEN-nee	decades
+vocabulary/dataframes/NOUN/decenza.tsv	decenza	deh-CHEN-tsah	decency
+vocabulary/dataframes/NOUN/decesso.tsv	decesso	deh-CHEH-soh	death
+vocabulary/dataframes/NOUN/decimale.tsv	decimali	deh-chee-MAH-lee	decimals
+vocabulary/dataframes/NOUN/decina.tsv	decina	deh-CHEE-nah	group of ten
+vocabulary/dataframes/NOUN/declinazione.tsv	declinazioni	deh-klee-nah-TSYOH-nee	declensions
+vocabulary/dataframes/NOUN/declino.tsv	declino	deh-KLEE-noh	decline
+vocabulary/dataframes/NOUN/decollo.tsv	decollo	deh-KOHL-loh	takeoff
+vocabulary/dataframes/NOUN/decoratore.tsv	decoratrice	deh-koh-rah-TREE-cheh	decorator (feminine)
+vocabulary/dataframes/NOUN/decorazione.tsv	decorazione	deh-koh-rah-TSYOH-neh	decoration
+vocabulary/dataframes/NOUN/decorazione.tsv	decorazioni	deh-koh-rah-TSYOH-nee	decorations
+vocabulary/dataframes/NOUN/decoro.tsv	decoro	deh-KOH-roh	decorum
+vocabulary/dataframes/NOUN/dedizione.tsv	dedizione	deh-dee-TSYOH-neh	dedication; devotion
+vocabulary/dataframes/NOUN/defenestro.tsv	defenestro	deh-feh-NEH-stroh	I defenestrate
+vocabulary/dataframes/NOUN/deferenza.tsv	deferenza	deh-feh-REN-tsah	deference
+vocabulary/dataframes/NOUN/defibrillatore.tsv	defibrillatore	deh-fee-breel-lah-TOH-reh	defibrillator
+vocabulary/dataframes/NOUN/defibrillatore.tsv	defibrillatori	deh-fee-breel-lah-TOH-ree	defibrillators
+vocabulary/dataframes/NOUN/deficiente.tsv	deficienti	deh-fee-CHEN-tee	idiots; morons
+vocabulary/dataframes/NOUN/definizione.tsv	definizione	deh-fee-nee-TSYOH-neh	definition
+vocabulary/dataframes/NOUN/definizione.tsv	definizioni	deh-fee-nee-TSYOH-nee	definitions
+vocabulary/dataframes/NOUN/defunto.tsv	defunto	deh-FOON-toh	deceased person
+vocabulary/dataframes/NOUN/degradazione.tsv	degradazione	deh-grah-dah-TSYOH-neh	degradation
+vocabulary/dataframes/NOUN/delegato.tsv	delegati	deh-leh-GAH-tee	delegates
+vocabulary/dataframes/NOUN/delfino.tsv	delfini	dehl-FEE-nee	dolphins
+vocabulary/dataframes/NOUN/delfino.tsv	delfino	dehl-FEE-noh	dolphin
+vocabulary/dataframes/NOUN/delicatezza.tsv	delicatezza	deh-lee-kah-TET-tsah	delicacy; gentleness
+vocabulary/dataframes/NOUN/delinquente.tsv	delinquente	deh-leen-KWEN-teh	delinquent
+vocabulary/dataframes/NOUN/delinquenza.tsv	delinquenza	deh-leen-KWEN-tsah	delinquency
+vocabulary/dataframes/NOUN/delirio.tsv	delirio	deh-LEE-ryoh	delirium
+vocabulary/dataframes/NOUN/delitto.tsv	delitto	deh-LEET-toh	crime
+vocabulary/dataframes/NOUN/delizia.tsv	delizia	deh-LEE-tsyah	delight
+vocabulary/dataframes/NOUN/delucidazione.tsv	delucidazione	deh-loo-chee-dah-TSYOH-neh	clarification
+vocabulary/dataframes/NOUN/delusione.tsv	delusione	deh-loo-ZYOH-neh	disappointment
+vocabulary/dataframes/NOUN/demagogia.tsv	demagogia	deh-mah-goh-JEE-ah	demagoguery
+vocabulary/dataframes/NOUN/demenza.tsv	demenza	deh-MEN-tsah	dementia
+vocabulary/dataframes/NOUN/democratico.tsv	democratici	deh-moh-KRAH-tee-chee	democrats
+vocabulary/dataframes/NOUN/democratico.tsv	democratico	deh-moh-KRAH-tee-koh	democrat
+vocabulary/dataframes/NOUN/democrazia.tsv	democrazia	deh-moh-krah-ZEE-ah	democracy
+vocabulary/dataframes/NOUN/democrazia.tsv	democrazie	deh-moh-krah-ZEE-eh	democracies
+vocabulary/dataframes/NOUN/demone.tsv	demoni	deh-MOH-nee	demons
+vocabulary/dataframes/NOUN/demonimo.tsv	demonimo	deh-moh-NEE-moh	demonym
+vocabulary/dataframes/NOUN/demonio.tsv	demonio	deh-MOH-nyoh	demon; devil
+vocabulary/dataframes/NOUN/densità.tsv	densità	den-see-TAH	density
+vocabulary/dataframes/NOUN/dentifricio.tsv	dentifricio	den-tee-FREE-chyo	toothpaste
+vocabulary/dataframes/NOUN/dentista.tsv	dentista	den-TEE-stah	dentist
+vocabulary/dataframes/NOUN/denuncia.tsv	denuncia	deh-NOON-chah	complaint; report
+vocabulary/dataframes/NOUN/denuncia.tsv	denunce	deh-NOON-cheh	complaints; reports
+vocabulary/dataframes/NOUN/deodorante.tsv	deodorante	deh-oh-doh-RAHN-teh	deodorant
+vocabulary/dataframes/NOUN/depliant.tsv	depliant	day-plee-AHN	brochure
+vocabulary/dataframes/NOUN/deposito.tsv	deposito	deh-POH-zee-toh	warehouse; storage
+vocabulary/dataframes/NOUN/deposito.tsv	depositi	deh-POH-zee-tee	warehouses; storages
+vocabulary/dataframes/NOUN/deposizione.tsv	deposizione	deh-poh-zee-TSYOH-neh	testimony; deposition
+vocabulary/dataframes/NOUN/depressione.tsv	depressione	deh-preh-SYOH-neh	depression
+vocabulary/dataframes/NOUN/depurazione.tsv	depurazione	deh-poo-rah-TSYOH-neh	purification
+vocabulary/dataframes/NOUN/derelitto.tsv	derelitto	deh-reh-LEET-toh	castaway; derelict
+vocabulary/dataframes/NOUN/derisa.tsv	derise	deh-REE-seh	mocked (feminine plural)
+vocabulary/dataframes/NOUN/deriva.tsv	deriva	deh-REE-vah	drift
+vocabulary/dataframes/NOUN/derivazione.tsv	derivazione	deh-ree-vah-TSYOH-neh	derivation
+vocabulary/dataframes/NOUN/descrizione.tsv	descrizione	deh-skree-TSYOH-neh	description
+vocabulary/dataframes/NOUN/descrizione.tsv	descrizioni	deh-skree-TSYOH-nee	descriptions
+vocabulary/dataframes/NOUN/deserto.tsv	deserto	deh-ZER-toh	desert
+vocabulary/dataframes/NOUN/deserto.tsv	deserti	deh-ZER-tee	deserts
+vocabulary/dataframes/NOUN/desiderio.tsv	desiderio	deh-zee-DEH-ryoh	desire
+vocabulary/dataframes/NOUN/desidero.tsv	desideri	deh-zee-DEH-ree	desires
+vocabulary/dataframes/NOUN/design.tsv	design	dee-ZINE	design
+vocabulary/dataframes/NOUN/designer.tsv	designer	dee-ZY-ner	designer
+vocabulary/dataframes/NOUN/dessert.tsv	dessert	deh-SER	dessert
+vocabulary/dataframes/NOUN/destinatario.tsv	destinatario	deh-stee-nah-TAH-ryoh	recipient; addressee
+vocabulary/dataframes/NOUN/destinazione.tsv	destinazione	deh-stee-nah-TSYOH-neh	destination
+vocabulary/dataframes/NOUN/destino.tsv	destino	deh-STEEN-oh	destiny
+vocabulary/dataframes/NOUN/destra.tsv	destra	DEHS-trah	right side; right wing
+vocabulary/dataframes/NOUN/destriero.tsv	destriero	dehs-TREE-eh-roh	steed
+vocabulary/dataframes/NOUN/detectiva.tsv	detective	deh-TEK-teev	detective
+vocabulary/dataframes/NOUN/detenere.tsv	detenuta	deh-teh-NOO-tah	detainee (feminine)
+vocabulary/dataframes/NOUN/detenuto.tsv	detenuto	deh-teh-NOO-toh	detainee (masculine)
+vocabulary/dataframes/NOUN/detenuto.tsv	detenuti	deh-teh-NOO-tee	detainees (masculine)
+vocabulary/dataframes/NOUN/detergente.tsv	detergenti	deh-tehr-JEN-tee	cleaners; detergents
+vocabulary/dataframes/NOUN/determinazione.tsv	determinazione	deh-tehr-mee-nah-TSYOH-neh	determination
+vocabulary/dataframes/NOUN/detrito.tsv	detriti	deh-TREE-tee	debris
+vocabulary/dataframes/NOUN/dettagio.tsv	dettagio	det-TAH-joh	detail (dialectal)
+vocabulary/dataframes/NOUN/dettaglio.tsv	dettagli	det-TAH-lyee	details
+vocabulary/dataframes/NOUN/dettaglio.tsv	dettaglio	det-TAH-lyoh	detail
+vocabulary/dataframes/NOUN/deviazione.tsv	deviazione	deh-vyah-TSYOH-neh	diversion; detour
+vocabulary/dataframes/NOUN/diaframma.tsv	diaframma	dee-ah-FRAHM-mah	diaphragm
+vocabulary/dataframes/NOUN/diagnosi.tsv	diagnosi	dee-AH-nyoh-see	diagnosis
+vocabulary/dataframes/NOUN/diagramma.tsv	diagrammi	dee-ah-GRAHM-mee	diagrams
+vocabulary/dataframes/NOUN/diagramma.tsv	diagramma	dee-ah-GRAHM-mah	diagram
+vocabulary/dataframes/NOUN/dialetto.tsv	dialetto	dee-ah-LEHT-toh	dialect
+vocabulary/dataframes/NOUN/dialetto.tsv	dialetti	dee-ah-LEHT-tee	dialects
+vocabulary/dataframes/NOUN/dialogo.tsv	dialoghi	dee-AH-loh-ghee	dialogues
+vocabulary/dataframes/NOUN/diamante.tsv	diamante	dee-ah-MAHN-teh	diamond
+vocabulary/dataframes/NOUN/diamante.tsv	diamanti	dee-ah-MAHN-tee	diamonds
+vocabulary/dataframes/NOUN/diametro.tsv	diametro	dee-AH-meh-troh	diameter
+vocabulary/dataframes/NOUN/diamine.tsv	diamine	dee-ah-MEE-neh	gosh; good grief
+vocabulary/dataframes/NOUN/diario.tsv	diario	dee-AH-ryoh	diary; journal
+vocabulary/dataframes/NOUN/diario.tsv	diari	dee-AH-ree	diaries
+vocabulary/dataframes/NOUN/diarrea.tsv	diarrea	dee-ah-RREH-ah	diarrhea
+vocabulary/dataframes/NOUN/diavoletto.tsv	diavoletto	dee-ah-voh-LET-toh	little devil; imp
+vocabulary/dataframes/NOUN/diavolo.tsv	diavolo	dee-AH-voh-loh	devil
+vocabulary/dataframes/NOUN/diavolo.tsv	diavoli	dee-AH-voh-lee	devils
+vocabulary/dataframes/NOUN/dibattito.tsv	dibattito	dee-BAHT-tee-toh	debate
+vocabulary/dataframes/NOUN/dibattito.tsv	dibattiti	dee-BAHT-tee-tee	debates
+vocabulary/dataframes/NOUN/dicembre.tsv	dicembre	dee-CHEM-breh	December
+vocabulary/dataframes/NOUN/diceria.tsv	diceria	dee-cheh-REE-ah	rumor; hearsay
+vocabulary/dataframes/NOUN/diceria.tsv	dicerie	dee-cheh-REE-eh	rumors; gossip
+vocabulary/dataframes/NOUN/dichiarazione.tsv	dichiarazione	dee-kyah-rah-TSYOH-neh	declaration
+vocabulary/dataframes/NOUN/dichiarazione.tsv	dichiarazioni	dee-kyah-rah-TSYOH-nee	declarations
+vocabulary/dataframes/NOUN/didgeridoo.tsv	didgeridoo	did-jay-ree-DOO	didgeridoo
+vocabulary/dataframes/NOUN/dieresi.tsv	dieresi	dee-EH-reh-see	diaeresis
+vocabulary/dataframes/NOUN/dieta.tsv	dieta	dee-EH-tah	diet
+vocabulary/dataframes/NOUN/dieta.tsv	diete	dee-EH-teh	diets
+vocabulary/dataframes/NOUN/dietista.tsv	dietisti	dee-eh-TEE-stee	dietitians
+vocabulary/dataframes/NOUN/difensiva.tsv	difensiva	dee-fehn-ZEE-vah	defense (stance)
+vocabulary/dataframes/NOUN/difensore.tsv	difensori	dee-fehn-ZOH-ree	defenders
+vocabulary/dataframes/NOUN/difesa.tsv	difesa	dee-FEH-sah	defense
+vocabulary/dataframes/NOUN/difesa.tsv	difese	dee-FEH-seh	defenses
+vocabulary/dataframes/NOUN/difetto.tsv	difetti	dee-FET-tee	flaws
+vocabulary/dataframes/NOUN/difetto.tsv	difetto	dee-FET-toh	flaw
+vocabulary/dataframes/NOUN/difficoltà.tsv	difficoltà	dif-fee-kohl-TAH	difficulty
+vocabulary/dataframes/NOUN/diffidare.tsv	diffida	dif-FEE-dah	warning; injunction
+vocabulary/dataframes/NOUN/diffidenza.tsv	diffidenza	dif-fee-DEN-tsah	distrust
+vocabulary/dataframes/NOUN/diffusione.tsv	diffusione	dif-foo-SYOH-neh	diffusion
+vocabulary/dataframes/NOUN/diga.tsv	diga	DEE-gah	dam
+vocabulary/dataframes/NOUN/diglio.tsv	digli	DEE-lyee	tell him
+vocabulary/dataframes/NOUN/dignità.tsv	dignità	din-yih-TAH	dignity
+vocabulary/dataframes/NOUN/dildo.tsv	dildo	DEEL-doh	dildo
+vocabulary/dataframes/NOUN/dilemma.tsv	dilemma	dee-LEHM-mah	dilemma
+vocabulary/dataframes/NOUN/dilettante.tsv	dilettante	dee-leh-TAHN-teh	amateur
+vocabulary/dataframes/NOUN/diligenza.tsv	diligenza	dee-lee-JEN-tsah	diligence
+vocabulary/dataframes/NOUN/dille.tsv	dille	DEE-leh	tell her
+vocabulary/dataframes/NOUN/dillo.tsv	dillo	DEE-loh	say it
+vocabulary/dataframes/NOUN/diluvio.tsv	diluvio	dee-LOO-vyoh	flood; deluge
+vocabulary/dataframes/NOUN/dimensione.tsv	dimensioni	dee-men-SYOH-nee	dimensions
+vocabulary/dataframes/NOUN/dimensione.tsv	dimensione	dee-men-SYOH-neh	dimension
+vocabulary/dataframes/NOUN/dimenticanza.tsv	dimenticanza	dee-men-tee-KAHN-tsah	forgetfulness
+vocabulary/dataframes/NOUN/diminutivo.tsv	diminutivo	dee-mee-noo-TEE-voh	diminutive
+vocabulary/dataframes/NOUN/diminuzione.tsv	diminuzione	dee-mee-noo-TSYOH-neh	reduction
+vocabulary/dataframes/NOUN/dimissione.tsv	dimissioni	dee-mee-SYOH-nee	resignations
+vocabulary/dataframes/NOUN/dimostrazione.tsv	dimostrazioni	dee-moh-strah-TSYOH-nee	demonstrations
+vocabulary/dataframes/NOUN/dimostrazione.tsv	dimostrazione	dee-moh-strah-TSYOH-neh	demonstration
+vocabulary/dataframes/NOUN/dinamite.tsv	dinamite	dee-nah-MEE-teh	dynamite
+vocabulary/dataframes/NOUN/dinastia.tsv	dinastia	dee-nah-STEE-ah	dynasty
+vocabulary/dataframes/NOUN/dinosaurio.tsv	dinosauri	dee-noh-SOW-ree	dinosaurs
+vocabulary/dataframes/NOUN/dinosauro.tsv	dinosauro	dee-noh-SOW-roh	dinosaur
+vocabulary/dataframes/NOUN/dintorni.tsv	dintorni	deen-TOR-nee	surroundings
+vocabulary/dataframes/NOUN/dio.tsv	dio	DEE-oh	God
+vocabulary/dataframes/NOUN/diossido.tsv	diossido	dee-OSS-see-doh	dioxide
+vocabulary/dataframes/NOUN/diossina.tsv	diossina	dee-OSS-see-nah	dioxin
+vocabulary/dataframes/NOUN/dipartimento.tsv	dipartimento	dee-par-tee-MEN-toh	department
+vocabulary/dataframes/NOUN/dipartimento.tsv	dipartimenti	dee-par-tee-MEN-tee	departments
+vocabulary/dataframes/NOUN/dipendente.tsv	dipendenti	dee-pen-DEN-tee	employees
+vocabulary/dataframes/NOUN/dipendente.tsv	dipendente	dee-pen-DEN-teh	employee
+vocabulary/dataframes/NOUN/dipendenza.tsv	dipendenza	dee-pen-DEN-tsah	addiction; dependence
+vocabulary/dataframes/NOUN/dipinto.tsv	dipinto	dee-PEEN-toh	painting
+vocabulary/dataframes/NOUN/dipinto.tsv	dipinti	dee-PEEN-tee	paintings
+vocabulary/dataframes/NOUN/diploma.tsv	diploma	dee-PLOH-mah	diploma
+vocabulary/dataframes/NOUN/diplomatico.tsv	diplomatico	dee-plo-MAH-tee-koh	diplomat (masculine)
+vocabulary/dataframes/NOUN/diplomatico.tsv	diplomatica	dee-plo-MAH-tee-kah	diplomat (feminine)
+vocabulary/dataframes/NOUN/diplomatico.tsv	diplomatici	dee-plo-MAH-tee-chee	diplomats
+vocabulary/dataframes/NOUN/diplomazia.tsv	diplomazia	dee-plo-mah-ZEE-ah	diplomacy
+vocabulary/dataframes/NOUN/dire.tsv	detto	DET-toh	saying; proverb
+vocabulary/dataframes/NOUN/diretta.tsv	diretta	dee-REHT-tah	live broadcast
+vocabulary/dataframes/NOUN/diretto.tsv	diretto	dee-RET-toh	direct route
+vocabulary/dataframes/NOUN/direttore.tsv	direttore	dee-reht-TOH-reh	director; manager
+vocabulary/dataframes/NOUN/direzione.tsv	direzione	dee-reh-TSYOH-neh	direction; management
+vocabulary/dataframes/NOUN/direzione.tsv	direzioni	dee-reh-TSYOH-nee	directions
+vocabulary/dataframes/NOUN/dirglielo.tsv	dirglielo	DEER-lyeh-loh	tell him it
+vocabulary/dataframes/NOUN/dirglio.tsv	dirgli	DEER-lyee	tell him
+vocabulary/dataframes/NOUN/dirigente.tsv	dirigente	dee-ree-JEN-teh	executive; manager
+vocabulary/dataframes/NOUN/dirigibile.tsv	dirigibile	dee-ree-JEE-bee-leh	dirigible; airship
+vocabulary/dataframes/NOUN/dirla.tsv	dirle	DEER-leh	tell her (formal)
+vocabulary/dataframes/NOUN/dirlo.tsv	dirlo	DEER-loh	say it
+vocabulary/dataframes/NOUN/dirotto.tsv	dirotto	dee-ROHT-toh	downpour
+vocabulary/dataframes/NOUN/dirso.tsv	dirsi	DEER-see	to tell each other
+vocabulary/dataframes/NOUN/dirto.tsv	dirti	DEER-tee	tell you
+vocabulary/dataframes/NOUN/dirvo.tsv	dirvi	DEER-vee	tell you all
+vocabulary/dataframes/NOUN/disabilità.tsv	disabilità	dee-sah-bee-lee-TAH	disability
+vocabulary/dataframes/NOUN/disaccordo.tsv	disaccordo	dee-sah-KOR-doh	disagreement
+vocabulary/dataframes/NOUN/disagio.tsv	disagio	dee-ZAH-joh	discomfort
+vocabulary/dataframes/NOUN/disappunto.tsv	disappunto	dee-zah-POON-toh	disappointment
+vocabulary/dataframes/NOUN/disastro.tsv	disastro	dee-ZAH-stroh	disaster
+vocabulary/dataframes/NOUN/disastro.tsv	disastri	dee-ZAH-stree	disasters
+vocabulary/dataframes/NOUN/disattenzione.tsv	disattenzione	dee-zat-ten-TSYOH-neh	inattention
+vocabulary/dataframes/NOUN/disc.tsv	disc	DISK	disc
+vocabulary/dataframes/NOUN/discapito.tsv	discapito	dee-skah-PEE-toh	detriment
+vocabulary/dataframes/NOUN/discendente.tsv	discendenti	dee-shen-DEN-tee	descendants
+vocabulary/dataframes/NOUN/discepolo.tsv	discepoli	dee-SHEH-poh-lee	disciples
+vocabulary/dataframes/NOUN/discepolo.tsv	discepolo	dee-SHEH-poh-loh	disciple
+vocabulary/dataframes/NOUN/discesa.tsv	discesa	dee-SHEH-zah	descent
+vocabulary/dataframes/NOUN/disciplina.tsv	disciplina	dee-shee-PLEE-nah	discipline
+vocabulary/dataframes/NOUN/disco.tsv	disco	DEE-skoh	record; disc
+vocabulary/dataframes/NOUN/disco.tsv	dischi	DEE-skee	records; discs
+vocabulary/dataframes/NOUN/discor.tsv	discorsi	dee-SKOR-see	speeches
+vocabulary/dataframes/NOUN/discordia.tsv	discordia	dee-SKOR-dyah	discord
+vocabulary/dataframes/NOUN/discoteca.tsv	discoteca	dee-skoh-TEH-kah	club; disco
+vocabulary/dataframes/NOUN/discriminazione.tsv	discriminazione	dee-skree-mee-nah-TSYOH-neh	discrimination
+vocabulary/dataframes/NOUN/discussione.tsv	discussione	dee-skhoo-SYOH-neh	discussion
+vocabulary/dataframes/NOUN/discussione.tsv	discussioni	dee-skhoo-SYOH-nee	discussions
+vocabulary/dataframes/NOUN/disegnatore.tsv	disegnatrice	dee-seh-nyah-TREE-cheh	designer (feminine)
+vocabulary/dataframes/NOUN/disegnatore.tsv	disegnatore	dee-seh-nyah-TOH-reh	designer (masculine)
+vocabulary/dataframes/NOUN/disegno.tsv	disegno	dee-SEH-nyoh	drawing; design
+vocabulary/dataframes/NOUN/disegno.tsv	disegni	dee-SEH-nyee	drawings
+vocabulary/dataframes/NOUN/disgrazia.tsv	disgrazia	dee-SGRAH-tsyah	tragedy; misfortune
+vocabulary/dataframes/NOUN/disgrazia.tsv	disgrazie	dee-SGRAH-tsyay	tragedies; misfortunes
+vocabulary/dataframes/NOUN/disillusione.tsv	disillusione	dee-seel-loo-ZYOH-neh	disillusion
+vocabulary/dataframes/NOUN/disincentivo.tsv	disincentivo	dee-seen-chen-TEE-voh	disincentive
+vocabulary/dataframes/NOUN/disk.tsv	disk	DISK	disk
+vocabulary/dataframes/NOUN/disobbedienza.tsv	disobbedienza	dee-sohb-bay-DYEN-tsah	disobedience
+vocabulary/dataframes/NOUN/disoccupato.tsv	disoccupati	dee-zok-koo-PAH-tee	unemployed people (masculine)
+vocabulary/dataframes/NOUN/disoccupazione.tsv	disoccupazione	dee-zok-koo-pah-TSYOH-neh	unemployment
+vocabulary/dataframes/NOUN/disonestà.tsv	disonestà	dee-soh-nes-TAH	dishonesty
+vocabulary/dataframes/NOUN/disonore.tsv	disonore	dee-soh-NOH-reh	dishonor
+vocabulary/dataframes/NOUN/disordine.tsv	disordine	dee-SOR-dee-neh	disorder; mess
+vocabulary/dataframes/NOUN/disordine.tsv	disordini	dee-SOR-dee-nee	riots; disorders
+vocabulary/dataframes/NOUN/disperazione.tsv	disperazione	dee-speh-rah-TSYOH-neh	desperation
+vocabulary/dataframes/NOUN/dispetto.tsv	dispetto	dee-SPET-toh	spite
+vocabulary/dataframes/NOUN/dispiacere.tsv	dispiacere	dee-spyah-CHEH-reh	regret; displeasure
+vocabulary/dataframes/NOUN/disponibilità.tsv	disponibilità	dee-spoh-nee-bee-lee-TAH	availability
+vocabulary/dataframes/NOUN/dispositivo.tsv	dispositivo	dee-spoh-zee-TEE-voh	device
+vocabulary/dataframes/NOUN/disposizione.tsv	disposizione	dee-spoh-zee-TSYOH-neh	arrangement; disposition
+vocabulary/dataframes/NOUN/disprezzo.tsv	disprezzo	dee-SPRET-tsoh	scorn
+vocabulary/dataframes/NOUN/disprezzo.tsv	disprezzi	dee-SPRET-tsee	scorns; slights
+vocabulary/dataframes/NOUN/dissenso.tsv	dissenso	dee-SEN-soh	dissent
+vocabulary/dataframes/NOUN/dissenso.tsv	dissensi	dee-SEN-see	dissents
+vocabulary/dataframes/NOUN/dissolutezza.tsv	dissolutezza	dee-soh-loo-TET-tsah	debauchery
+vocabulary/dataframes/NOUN/distaccare.tsv	distaccato	dee-stahk-KAH-toh	aloof person
+vocabulary/dataframes/NOUN/distanza.tsv	distanza	dee-STAN-tsah	distance
+vocabulary/dataframes/NOUN/distanza.tsv	distanze	dee-STAN-tseh	distances
+vocabulary/dataframes/NOUN/distesa.tsv	distesa	dee-STAY-zah	expanse
+vocabulary/dataframes/NOUN/distintivo.tsv	distintivo	dee-steen-TEE-voh	badge
+vocabulary/dataframes/NOUN/distinzione.tsv	distinzione	dee-steen-TSYOH-neh	distinction
+vocabulary/dataframes/NOUN/distorsione.tsv	distorsione	dee-stor-SYOH-neh	distortion
+vocabulary/dataframes/NOUN/distrazione.tsv	distrazione	dee-strah-TSYOH-neh	distraction
+vocabulary/dataframes/NOUN/distretto.tsv	distretto	dee-STRET-toh	district
+vocabulary/dataframes/NOUN/distributore.tsv	distributori	dee-stree-boo-TOH-ree	distributors
+vocabulary/dataframes/NOUN/distribuzione.tsv	distribuzione	dee-stree-boo-TSYOH-neh	distribution
+vocabulary/dataframes/NOUN/distruzione.tsv	distruzione	dee-stroo-TSYOH-neh	destruction
+vocabulary/dataframes/NOUN/disturbassa.tsv	disturbasse	dee-stoor-BAHS-seh	would bother her
+vocabulary/dataframes/NOUN/disturbo.tsv	disturbi	dee-STOOR-bee	disorders; troubles
+vocabulary/dataframes/NOUN/disturbo.tsv	disturbo	dee-STOOR-boh	disturbance; trouble
+vocabulary/dataframes/NOUN/ditale.tsv	ditale	dee-TAH-leh	thimble
+vocabulary/dataframes/NOUN/ditecio.tsv	diteci	DEE-teh-chee	tell us
+vocabulary/dataframes/NOUN/diteglio.tsv	ditegli	DEE-teh-lyee	tell him
+vocabulary/dataframes/NOUN/ditta.tsv	ditta	DEE-tah	firm
+vocabulary/dataframes/NOUN/ditta.tsv	ditte	DEE-teh	firms
+vocabulary/dataframes/NOUN/dittatore.tsv	dittatore	dee-tah-TOH-reh	dictator
+vocabulary/dataframes/NOUN/dittatura.tsv	dittatura	dee-tah-TOO-rah	dictatorship
+vocabulary/dataframes/NOUN/diva.tsv	diva	DEE-vah	diva
+vocabulary/dataframes/NOUN/divano.tsv	divano	dee-VAH-noh	sofa; couch
+vocabulary/dataframes/NOUN/diver.tsv	diversi	dee-VER-see	different ones; various
+vocabulary/dataframes/NOUN/diverbio.tsv	diverbio	dee-VER-byoh	quarrel
+vocabulary/dataframes/NOUN/divergenza.tsv	divergenza	dee-ver-JEN-tsah	divergence
+vocabulary/dataframes/NOUN/divergenza.tsv	divergenze	dee-ver-JEN-tseh	divergences
+vocabulary/dataframes/NOUN/diversità.tsv	diversità	dee-ver-see-TAH	diversity
+vocabulary/dataframes/NOUN/diversivo.tsv	diversivo	dee-ver-SEE-voh	diversion
+vocabulary/dataframes/NOUN/divertimento.tsv	divertimento	dee-ver-tee-MEN-toh	fun; entertainment
+vocabulary/dataframes/NOUN/divertimento.tsv	divertimenti	dee-ver-tee-MEN-tee	entertainments
+vocabulary/dataframes/NOUN/divieto.tsv	divieto	dee-VYAY-toh	ban
+vocabulary/dataframes/NOUN/divinità.tsv	divinità	dee-vee-nee-TAH	divinity; deity
+vocabulary/dataframes/NOUN/divisione.tsv	divisione	dee-vee-ZYOH-neh	division
+vocabulary/dataframes/NOUN/divisione.tsv	divisioni	dee-vee-ZYOH-nee	divisions
+vocabulary/dataframes/NOUN/divorzio.tsv	divorzio	dee-VOR-tsyoh	divorce
+vocabulary/dataframes/NOUN/divorzo.tsv	divorzi	dee-VOR-tsee	divorces
+vocabulary/dataframes/NOUN/dna..tsv	dna.	DEE-en-AH	DNA
+vocabulary/dataframes/NOUN/docente.tsv	docenti	doh-CHEN-tee	teachers; instructors
+vocabulary/dataframes/NOUN/docente.tsv	docente	doh-CHEN-teh	teacher; instructor
+vocabulary/dataframes/NOUN/documentario.tsv	documentario	doh-koo-men-TAH-ryoh	documentary
+vocabulary/dataframes/NOUN/documentazione.tsv	documentazione	doh-koo-men-tah-TSYOH-neh	documentation
+vocabulary/dataframes/NOUN/documento.tsv	documenti	doh-koo-MEN-tee	documents
+vocabulary/dataframes/NOUN/documento.tsv	documento	doh-koo-MEN-toh	document
+vocabulary/dataframes/NOUN/dodgeball.tsv	dodgeball	DOHJ-bawl	dodgeball
+vocabulary/dataframes/NOUN/dog.tsv	dog	DOG	dog
+vocabulary/dataframes/NOUN/dogana.tsv	dogana	doh-GAH-nah	customs office
+vocabulary/dataframes/NOUN/dogmio.tsv	dogmi	DOG-mee	dogmas
+vocabulary/dataframes/NOUN/dolce.tsv	dolci	DOL-chee	sweets; desserts
+vocabulary/dataframes/NOUN/dolce.tsv	dolce	DOL-cheh	sweet; dessert
+vocabulary/dataframes/NOUN/dolcetto.tsv	dolcetti	dol-CHET-tee	small sweets; candies
+vocabulary/dataframes/NOUN/dolcetto.tsv	dolcetto	dol-CHET-toh	little cake; treat
+vocabulary/dataframes/NOUN/dolcezza.tsv	dolcezza	dol-CHET-tsah	sweetness
+vocabulary/dataframes/NOUN/dolcificante.tsv	dolcificante	dol-chee-fee-KAHN-teh	sweetener
+vocabulary/dataframes/NOUN/dolciume.tsv	dolciumi	dol-CHOO-mee	confections
+vocabulary/dataframes/NOUN/domani.tsv	domani	doh-MAH-nee	tomorrow
+vocabulary/dataframes/NOUN/domattina.tsv	domattina	doh-maht-TEE-nah	tomorrow morning
+vocabulary/dataframes/NOUN/domestico.tsv	domestica	doh-MES-tee-kah	maid (feminine)
+vocabulary/dataframes/NOUN/domestico.tsv	domestico	doh-MES-tee-koh	servant (masculine)
+vocabulary/dataframes/NOUN/domestico.tsv	domestiche	doh-MES-tee-keh	maids (feminine plural)
+vocabulary/dataframes/NOUN/domini.tsv	domini	doh-MEE-nee	domains; realms
+vocabulary/dataframes/NOUN/dominio.tsv	dominio	doh-MEE-nyoh	domain; control
+vocabulary/dataframes/NOUN/donateice.tsv	donatrice	doh-nah-TREE-cheh	donor (feminine)
+vocabulary/dataframes/NOUN/donatore.tsv	donatore	doh-nah-TOH-reh	donor (masculine)
+vocabulary/dataframes/NOUN/donazione.tsv	donazione	doh-nah-TSYOH-neh	donation
+vocabulary/dataframes/NOUN/donazione.tsv	donazioni	doh-nah-TSYOH-nee	donations
+vocabulary/dataframes/NOUN/done.tsv	doni	DOH-nee	gifts
+vocabulary/dataframes/NOUN/doner.tsv	doner	DOH-ner	döner kebab
+vocabulary/dataframes/NOUN/donnaccia.tsv	donnaccia	doh-NAH-chah	hussy
+vocabulary/dataframes/NOUN/donnaiolo.tsv	donnaiolo	doh-nah-YOH-loh	womanizer
+vocabulary/dataframes/NOUN/donnola.tsv	donnola	DON-noh-lah	weasel
+vocabulary/dataframes/NOUN/dono.tsv	dono	DOH-noh	gift
+vocabulary/dataframes/NOUN/dopobarba.tsv	dopobarba	doh-poh-BAR-bah	aftershave
+vocabulary/dataframes/NOUN/dopoguerra.tsv	dopoguerra	doh-poh-GWER-rah	postwar period
+vocabulary/dataframes/NOUN/doppio.tsv	doppio	DOP-pyoh	double
+vocabulary/dataframes/NOUN/doppio.tsv	doppia	DOP-pyah	double (feminine)
+vocabulary/dataframes/NOUN/dormita.tsv	dormita	dor-MEE-tah	nap
+vocabulary/dataframes/NOUN/dormitorio.tsv	dormitorio	dor-mee-TOH-ryoh	dormitory
+vocabulary/dataframes/NOUN/dosaggio.tsv	dosaggio	doh-ZAHJ-joh	dosage
+vocabulary/dataframes/NOUN/dose.tsv	dose	DOH-seh	dose
+vocabulary/dataframes/NOUN/dossier.tsv	dossier	doh-SYARE	dossier
+vocabulary/dataframes/NOUN/dosso.tsv	dosso	DOS-soh	road hump; bump
+vocabulary/dataframes/NOUN/dott.tsv	dott	DOT	doctor (abbreviation)
+vocabulary/dataframes/NOUN/dottor.tsv	dottor	doh-TOR	Dr. (title)
+vocabulary/dataframes/NOUN/dottorato.tsv	dottorato	doh-toh-RAH-toh	doctorate
+vocabulary/dataframes/NOUN/dottoressa.tsv	dottoressa	doh-toh-REH-sah	doctor (feminine)
+vocabulary/dataframes/NOUN/dottrina.tsv	dottrina	doh-TREE-nah	doctrine
+vocabulary/dataframes/NOUN/dovere.tsv	dovere	doh-VEH-reh	duty
+vocabulary/dataframes/NOUN/dovere.tsv	doveri	doh-VEH-ree	duties
+vocabulary/dataframes/NOUN/dovere.tsv	dovuto	doh-VOO-toh	amount owed
+vocabulary/dataframes/NOUN/download.tsv	download	DOWN-lohd	download
+vocabulary/dataframes/NOUN/dozzina.tsv	dozzina	dohd-ZEE-nah	dozen
+vocabulary/dataframes/NOUN/dozzina.tsv	dozzine	dohd-ZEE-neh	dozens
+vocabulary/dataframes/NOUN/dozzine.tsv	dozzine	dohd-ZEE-neh	dozens
+vocabulary/dataframes/NOUN/drago.tsv	drago	DRAH-goh	dragon
+vocabulary/dataframes/NOUN/drago.tsv	draghi	DRAH-gee	dragons
+vocabulary/dataframes/NOUN/dramma.tsv	dramma	DRAHM-mah	drama
+vocabulary/dataframes/NOUN/dramma.tsv	drammi	DRAHM-mee	dramas
+vocabulary/dataframes/NOUN/drammaturgo.tsv	drammaturgo	drahm-mah-TOOR-goh	playwright
+vocabulary/dataframes/NOUN/dress.tsv	dress	DRESS	dress
+vocabulary/dataframes/NOUN/drink.tsv	drink	DRINK	drink
+vocabulary/dataframes/NOUN/dritta.tsv	dritta	DREET-tah	tip; hint
+vocabulary/dataframes/NOUN/droga.tsv	droga	DROH-gah	drug
+vocabulary/dataframes/NOUN/droga.tsv	droghe	DROH-geh	drugs
+vocabulary/dataframes/NOUN/drogata.tsv	drogata	droh-GAH-tah	drug addict (feminine)
+vocabulary/dataframes/NOUN/drogato.tsv	drogato	droh-GAH-toh	drug addict (masculine)
+vocabulary/dataframes/NOUN/drogheria.tsv	drogheria	droh-geh-REE-ah	grocery store
+vocabulary/dataframes/NOUN/drosofile.tsv	drosofile	droh-SOH-fee-leh	fruit flies
+vocabulary/dataframes/NOUN/dubita.tsv	dubita	doo-BEE-tah	you doubt
+vocabulary/dataframes/NOUN/duchessa.tsv	duchessa	doo-KEH-sah	duchess
+vocabulary/dataframes/NOUN/duello.tsv	duello	doo-EL-loh	duel
+vocabulary/dataframes/NOUN/duna.tsv	duna	DOO-nah	sand dune
+vocabulary/dataframes/NOUN/duplicato.tsv	duplicato	doo-plee-KAH-toh	duplicate
+vocabulary/dataframes/NOUN/durata.tsv	durata	doo-RAH-tah	duration
+vocabulary/dataframes/NOUN/durezza.tsv	durezza	doo-REHT-tsah	hardness
+vocabulary/dataframes/NOUN/duty-frea.tsv	duty-free	DOO-tee-free	duty-free shop
+vocabulary/dataframes/NOUN/duty.tsv	duty	DOO-tee	duty
+vocabulary/dataframes/NOUN/dvd.tsv	dvd	DEE-vee-DEE	DVD
+vocabulary/dataframes/NOUN/dvdicale.tsv	dvd.	DEE-vee-DEE	DVD
+vocabulary/dataframes/NOUN/dyad.tsv	dyad	DYAD	dyad

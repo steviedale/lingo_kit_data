@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dinastia		dinastia	NOUN		1	1e-06	1	1e-06	dinastia	NOUN	S	nsubj	Gender=Fem|Number=Sing	f3416faf-7c9a-5516-b91e-76bb9eac41ab	e7011b86-6268-57b7-91a2-8fbe000148b5	La dinastia Tudor cadde nell'anno 1603.	The Tudor Dynasty fell in the year 1603.				
+dinastia	dee-nah-STEE-ah	dinastia	NOUN	dynasty	1	1e-06	1	1e-06	dinastia	NOUN	S	nsubj	Gender=Fem|Number=Sing	f3416faf-7c9a-5516-b91e-76bb9eac41ab	e7011b86-6268-57b7-91a2-8fbe000148b5	La dinastia Tudor cadde nell'anno 1603.	The Tudor Dynasty fell in the year 1603.				

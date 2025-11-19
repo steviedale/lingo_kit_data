@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dado		dado	NOUN		2	2e-06	2	2e-06	dado	NOUN	S	nsubj:pass	Gender=Masc|Number=Sing	0b4d1c48-919d-563e-bc34-fc163693c1f1	cd811d4e-afe3-5433-8539-688c8183ac4c	Il dado è tratto.	The die is cast.	Tocca a me lanciare il dado.	It's my turn to roll the dice.		
+dado	DAH-doh	dado	NOUN	die; gaming cube	2	2e-06	2	2e-06	dado	NOUN	S	nsubj:pass	Gender=Masc|Number=Sing	0b4d1c48-919d-563e-bc34-fc163693c1f1	cd811d4e-afe3-5433-8539-688c8183ac4c	Il dado è tratto.	The die is cast.	Tocca a me lanciare il dado.	It's my turn to roll the dice.		

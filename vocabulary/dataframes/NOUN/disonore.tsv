@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-disonore		disonore	NOUN		1	1e-06	1	1e-06	disonore	NOUN	S	nmod	Gender=Masc|Number=Sing	c40192be-8536-5f21-bd8e-94e8b15d913b	c2e92423-c5cc-582c-96b3-cb34ac5c8abb	La morte prima del disonore!	Death before dishonor!				
+disonore	dee-soh-NOH-reh	disonore	NOUN	dishonor	1	1e-06	1	1e-06	disonore	NOUN	S	nmod	Gender=Masc|Number=Sing	c40192be-8536-5f21-bd8e-94e8b15d913b	c2e92423-c5cc-582c-96b3-cb34ac5c8abb	La morte prima del disonore!	Death before dishonor!				

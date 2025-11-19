@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dardo		dardo	NOUN		2	2e-06	2	2e-06	dardo	NOUN	S	obj	Gender=Masc|Number=Sing	7bc9da98-d710-55e3-b223-b5fdc77dbeec	9bedd50f-a3b7-5388-b4da-df8ec731f951	Tom ha lanciato il dardo.	Tom threw the dart.	Tom lanciò il dardo.	Tom threw the dart.		
+dardo	DAR-doh	dardo	NOUN	dart	2	2e-06	2	2e-06	dardo	NOUN	S	obj	Gender=Masc|Number=Sing	7bc9da98-d710-55e3-b223-b5fdc77dbeec	9bedd50f-a3b7-5388-b4da-df8ec731f951	Tom ha lanciato il dardo.	Tom threw the dart.	Tom lanciò il dardo.	Tom threw the dart.		
