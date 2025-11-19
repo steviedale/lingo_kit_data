@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tracagnotto		tracagnotto	ADJ		1	1e-06	1	1e-06	tracagnotto	ADJ	A	root	Gender=Masc|Number=Sing	35dc56f7-b46b-563d-a148-24bf4eb317ab	fc50d113-4faa-500b-bf40-5af205c62f0d	Tom è tracagnotto.	Tom is pudgy.				
+tracagnotto	trah-kah-NYOHT-toh	tracagnotto	ADJ	stocky; dumpy	1	1e-06	1	1e-06	tracagnotto	ADJ	A	root	Gender=Masc|Number=Sing	35dc56f7-b46b-563d-a148-24bf4eb317ab	fc50d113-4faa-500b-bf40-5af205c62f0d	Tom è tracagnotto.	Tom is pudgy.				

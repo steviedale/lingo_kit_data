@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-urinario		urinario	ADJ		1	1e-06	1	1e-06	urinario	ADJ	A	amod	Gender=Masc|Number=Sing	a2131d01-1047-5470-8de7-320e36b69995	a9afbcd5-4e73-5359-86b4-797182699495	Ho un problema urinario.	I have a urinary problem.				
+urinario	oo-ree-NAH-ryoh	urinario	ADJ	urinary	1	1e-06	1	1e-06	urinario	ADJ	A	amod	Gender=Masc|Number=Sing	a2131d01-1047-5470-8de7-320e36b69995	a9afbcd5-4e73-5359-86b4-797182699495	Ho un problema urinario.	I have a urinary problem.				

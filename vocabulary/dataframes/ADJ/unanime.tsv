@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-unanime		unanime	ADJ		1	1e-06	1	1e-06	unanime	ADJ	A	root	Number=Sing	e289d177-e8de-56fc-909e-da5b5c0b6246	1419823a-7661-599f-8605-8db583f3ac66	Il voto è unanime.	The vote is unanimous.				
+unanime	oo-nah-NEE-meh	unanime	ADJ	unanimous	1	1e-06	1	1e-06	unanime	ADJ	A	root	Number=Sing	e289d177-e8de-56fc-909e-da5b5c0b6246	1419823a-7661-599f-8605-8db583f3ac66	Il voto è unanime.	The vote is unanimous.				

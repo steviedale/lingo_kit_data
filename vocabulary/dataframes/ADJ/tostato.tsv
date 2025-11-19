@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tostato		tostato	ADJ		1	1e-06	1	1e-06	tostato	ADJ	A	amod	Gender=Masc|Number=Sing	80045170-9dbd-5852-b3cc-281451bfc964	ff9ebe78-f001-54e7-a8de-e8869a49d5a4	Amo l'aroma del caffè appena tostato.	I love the aroma of freshly brewed coffee.				
+tostato	toh-STAH-toh	tostato	ADJ	toasted; roasted	1	1e-06	1	1e-06	tostato	ADJ	A	amod	Gender=Masc|Number=Sing	80045170-9dbd-5852-b3cc-281451bfc964	ff9ebe78-f001-54e7-a8de-e8869a49d5a4	Amo l'aroma del caffè appena tostato.	I love the aroma of freshly brewed coffee.				

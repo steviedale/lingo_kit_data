@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tirchi		tirco	ADJ		1	1e-06	1	1e-06	tirco	ADJ	A	root	Gender=Masc|Number=Plur	2d82b0b5-c675-526d-8860-7fe017e05f49	c864838c-64ec-56a1-9a9f-1a99849bdf6c	Gli elfi sono molto tirchi.	Elves are very mean.				
+tirchi	TEER-kee	tirco	ADJ	stingy; miserly (plural)	1	1e-06	1	1e-06	tirco	ADJ	A	root	Gender=Masc|Number=Plur	2d82b0b5-c675-526d-8860-7fe017e05f49	c864838c-64ec-56a1-9a9f-1a99849bdf6c	Gli elfi sono molto tirchi.	Elves are very mean.				
