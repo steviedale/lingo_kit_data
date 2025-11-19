@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-crème		crème	NOUN		2	2e-06	2	2e-06	crème	NOUN	S	root	Gender=Fem	777f8903-0452-5301-b010-06f5ea7e429c	ce77cefa-0179-5426-821f-0ceefd347b4a	Siamo la crème de la crème!	We are the cream of the crop!				
+crème	KREHM	crème	NOUN	cream of the crop	2	2e-06	2	2e-06	crème	NOUN	S	root	Gender=Fem	777f8903-0452-5301-b010-06f5ea7e429c	ce77cefa-0179-5426-821f-0ceefd347b4a	Siamo la crème de la crème!	We are the cream of the crop!				

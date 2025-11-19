@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cubetto		cubetto	NOUN		1	1e-06	1	1e-06	cubetto	NOUN	S	root	Gender=Masc|Number=Sing	563eefb0-6e5e-5043-ab79-43b42873c952	22a95db3-40b6-5fb0-a4ee-7224b9195842	Questo è un cubetto di ghiaccio.	This is an ice cube.				
+cubetto	koo-BEHT-toh	cubetto	NOUN	ice cube	1	1e-06	1	1e-06	cubetto	NOUN	S	root	Gender=Masc|Number=Sing	563eefb0-6e5e-5043-ab79-43b42873c952	22a95db3-40b6-5fb0-a4ee-7224b9195842	Questo è un cubetto di ghiaccio.	This is an ice cube.				

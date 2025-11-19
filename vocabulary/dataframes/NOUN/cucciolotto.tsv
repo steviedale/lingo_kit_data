@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cucciolotto		cucciolotto	NOUN		1	1e-06	1	1e-06	cucciolotto	NOUN	S	appos	Gender=Masc|Number=Sing	9aaddffb-bbfd-5c4f-8213-a0bc46d97b1e	a94195a3-c411-5aa0-8e24-fa0764afc03a	Quello è Tom, il mio cucciolotto.	That's Tom, my teddy-bear.				
+cucciolotto	koo-choh-LOHT-toh	cucciolotto	NOUN	little puppy	1	1e-06	1	1e-06	cucciolotto	NOUN	S	appos	Gender=Masc|Number=Sing	9aaddffb-bbfd-5c4f-8213-a0bc46d97b1e	a94195a3-c411-5aa0-8e24-fa0764afc03a	Quello è Tom, il mio cucciolotto.	That's Tom, my teddy-bear.				

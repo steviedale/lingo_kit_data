@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cuccetta		cuccetta	NOUN		1	1e-06	1	1e-06	cuccetta	NOUN	S	obl	Gender=Fem|Number=Sing	5dd58435-b891-5b3a-8bf5-3b6e70891a83	d89a050d-d156-5e08-9054-cc1cfa61c805	Tom è seduto sulla sua cuccetta.	Tom is sitting on his bunk.				
+cuccetta	koo-CHEHT-tah	cuccetta	NOUN	berth; bunk	1	1e-06	1	1e-06	cuccetta	NOUN	S	obl	Gender=Fem|Number=Sing	5dd58435-b891-5b3a-8bf5-3b6e70891a83	d89a050d-d156-5e08-9054-cc1cfa61c805	Tom è seduto sulla sua cuccetta.	Tom is sitting on his bunk.				

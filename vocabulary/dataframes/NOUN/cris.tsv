@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-c°.		cris	NOUN		1	1e-06	1	1e-06	cris	NOUN	S	obj	Gender=Masc|Number=Sing	07be3bb6-d78d-56cc-af73-1569c4c7fd11	fe8bc831-d70d-591c-a208-2a9470963cec	Il termometro segna 10 C°.	The thermometer reads 10C.				
+c°.	GRAH-dee CHEHL-see-oos	cris	NOUN	degrees Celsius	1	1e-06	1	1e-06	cris	NOUN	S	obj	Gender=Masc|Number=Sing	07be3bb6-d78d-56cc-af73-1569c4c7fd11	fe8bc831-d70d-591c-a208-2a9470963cec	Il termometro segna 10 C°.	The thermometer reads 10C.				
