@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cd.		cd.	NOUN		15	1.4e-05	15	1.4e-05	cd.	NOUN	S	root		1c221340-21f9-5606-9ca0-76de4ee96550	0391e259-0285-596a-9cde-6fc8344b7693	Questi sono i miei CD.	These are my CDs.	Quelli sono i miei CD.	Those are my CDs.	È il mio CD.	It's my CD.
+cd.	KD.	cd.	NOUN	CD	15	1.4e-05	15	1.4e-05	cd.	NOUN	S	root		1c221340-21f9-5606-9ca0-76de4ee96550	0391e259-0285-596a-9cde-6fc8344b7693	Questi sono i miei CD.	These are my CDs.	Quelli sono i miei CD.	Those are my CDs.	È il mio CD.	It's my CD.

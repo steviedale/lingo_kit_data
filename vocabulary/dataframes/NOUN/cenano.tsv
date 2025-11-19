@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cenano		cenano	NOUN		1	1e-06	1	1e-06	cenano	NOUN	S	root	Gender=Masc|Number=Plur	047fc554-eb88-5850-ba98-d67aa04ae228	374cd2ee-7351-5f75-a3e7-14479a326a3c	Cenano alle sette.	They dine at seven.				
+cenano	cheh-NAH-noh	cenano	NOUN	they have dinner	1	1e-06	1	1e-06	cenano	NOUN	S	root	Gender=Masc|Number=Plur	047fc554-eb88-5850-ba98-d67aa04ae228	374cd2ee-7351-5f75-a3e7-14479a326a3c	Cenano alle sette.	They dine at seven.				

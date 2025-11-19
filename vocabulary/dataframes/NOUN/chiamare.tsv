@@ -1,3 +1,3 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-chiamata		chiamare	NOUN		1	1e-06	2	2e-06	chiamare	NOUN	S	obj	Gender=Fem|Number=Sing	49a3bd4a-41cd-5839-8ea2-097f41c7b898	84c08951-5184-5e5a-a500-1ad644fe82d5	Ogni Cristiano ha la Chiamata Generale.	Every Christian has the General Calling.				
-chiamate		chiamare	NOUN		1	1e-06	2	2e-06	chiamare	NOUN	S	root	Gender=Fem|Number=Plur	f2bb28ed-6b36-5363-af0a-d0045f919141	84c08951-5184-5e5a-a500-1ad644fe82d5	Chiamate Tom.	Call Tom.				
+chiamata	kyah-MAH-tah	chiamare	NOUN	phone call	1	1e-06	2	2e-06	chiamare	NOUN	S	obj	Gender=Fem|Number=Sing	49a3bd4a-41cd-5839-8ea2-097f41c7b898	84c08951-5184-5e5a-a500-1ad644fe82d5	Ogni Cristiano ha la Chiamata Generale.	Every Christian has the General Calling.				
+chiamate	kyah-MAH-teh	chiamare	NOUN	phone calls	1	1e-06	2	2e-06	chiamare	NOUN	S	root	Gender=Fem|Number=Plur	f2bb28ed-6b36-5363-af0a-d0045f919141	84c08951-5184-5e5a-a500-1ad644fe82d5	Chiamate Tom.	Call Tom.				

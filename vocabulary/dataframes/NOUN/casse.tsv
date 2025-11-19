@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-casse		casse	NOUN		2	2e-06	2	2e-06	casse	NOUN	S	nsubj	Gender=Fem	6689c9c8-85c3-586d-b67b-e3e68cd49e37	5d1e104e-b2bd-5917-b9b4-33ef2f81129f	Tutte le casse sono vuote.	All the boxes are empty.	La nave sta scaricando le casse.	The ship is unloading the boxes.		
+casse	KAHS-seh	casse	NOUN	boxes; crates	2	2e-06	2	2e-06	casse	NOUN	S	nsubj	Gender=Fem	6689c9c8-85c3-586d-b67b-e3e68cd49e37	5d1e104e-b2bd-5917-b9b4-33ef2f81129f	Tutte le casse sono vuote.	All the boxes are empty.	La nave sta scaricando le casse.	The ship is unloading the boxes.		

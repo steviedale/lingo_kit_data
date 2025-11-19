@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-chicca		chicca	NOUN		1	1e-06	1	1e-06	chicca	NOUN	S	root	Gender=Fem|Number=Sing	ffdaf1c1-a314-5c57-b15b-c38975363a9d	7c9fd3cd-1b69-5cfb-bac2-be98835a52e7	Il primo passo è una chicca.	The first step is a doozy.				
+chicca	KEEK-kah	chicca	NOUN	treat; little gem	1	1e-06	1	1e-06	chicca	NOUN	S	root	Gender=Fem|Number=Sing	ffdaf1c1-a314-5c57-b15b-c38975363a9d	7c9fd3cd-1b69-5cfb-bac2-be98835a52e7	Il primo passo è una chicca.	The first step is a doozy.				

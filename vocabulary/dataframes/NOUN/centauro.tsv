@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-centauro		centauro	NOUN		1	1e-06	1	1e-06	centauro	NOUN	S	root	Gender=Masc|Number=Sing	825109f1-a51f-5a67-9956-80d94d8c6f28	b9d4c225-52a0-5d66-b648-ef7266a4f2a4	Tom è un centauro e Mary è una ninfa.	Tom is a centaur and Mary is a nymph.				
+centauro	chehn-TOW-roh	centauro	NOUN	centaur	1	1e-06	1	1e-06	centauro	NOUN	S	root	Gender=Masc|Number=Sing	825109f1-a51f-5a67-9956-80d94d8c6f28	b9d4c225-52a0-5d66-b648-ef7266a4f2a4	Tom è un centauro e Mary è una ninfa.	Tom is a centaur and Mary is a nymph.				

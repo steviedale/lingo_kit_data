@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cago		cago	NOUN		1	1e-06	1	1e-06	cago	NOUN	S	root	Gender=Masc|Number=Sing	a34024d5-8581-58af-b88c-68b6cecc1822	cd2e923d-1e05-582b-8f0d-b83d218d2b53	Cago nel suo latte.	I shit in your milk.				
+cago	KAH-goh	cago	NOUN	I shit	1	1e-06	1	1e-06	cago	NOUN	S	root	Gender=Masc|Number=Sing	a34024d5-8581-58af-b88c-68b6cecc1822	cd2e923d-1e05-582b-8f0d-b83d218d2b53	Cago nel suo latte.	I shit in your milk.				

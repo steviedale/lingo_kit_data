@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cabarettista		cabarettista	NOUN		1	1e-06	1	1e-06	cabarettista	NOUN	S	root	Number=Sing	1889bf33-d9a3-5cf0-a5d8-6cb6e1fdf05b	9eadad3b-5e03-5c58-921e-ed44bae86a45	Quell'uomo è un celebre cabarettista.	That man is a famous cabaret performer.				
+cabarettista	kah-bah-reht-TEE-stah	cabarettista	NOUN	cabaret performer	1	1e-06	1	1e-06	cabarettista	NOUN	S	root	Number=Sing	1889bf33-d9a3-5cf0-a5d8-6cb6e1fdf05b	9eadad3b-5e03-5c58-921e-ed44bae86a45	Quell'uomo è un celebre cabarettista.	That man is a famous cabaret performer.				
