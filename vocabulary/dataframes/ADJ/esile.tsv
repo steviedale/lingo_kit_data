@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-esile		esile	ADJ		2	2e-06	2	2e-06	esile	ADJ	A	ccomp	Number=Sing	475c849c-6f8d-5355-8f6d-9cb02f54213f	1fbd4a76-09cd-5756-a555-9e5e71e207dc	Io penso che Tom sia esile.	I think Tom is thin.	Penso che Tom sia esile.	I think Tom is thin.		
+esile	eh-SEE-leh	esile	ADJ	slender; thin	2	2e-06	2	2e-06	esile	ADJ	A	ccomp	Number=Sing	475c849c-6f8d-5355-8f6d-9cb02f54213f	1fbd4a76-09cd-5756-a555-9e5e71e207dc	Io penso che Tom sia esile.	I think Tom is thin.	Penso che Tom sia esile.	I think Tom is thin.		
