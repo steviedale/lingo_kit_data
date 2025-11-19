@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-apprezzati		apprezzato	ADJ		1	1e-06	1	1e-06	apprezzato	ADJ	A	xcomp	Gender=Masc|Number=Plur	4fddae48-974c-5fc0-bedc-d54b2b73d8af	bd76c89f-ce1f-5493-ac73-02142168538f	A tutti piace essere apprezzati.	Everybody likes to be appreciated.				
+apprezzati	ahp-prehts-AH-tee	apprezzato	ADJ	appreciated; valued (masculine plural)	1	1e-06	1	1e-06	apprezzato	ADJ	A	xcomp	Gender=Masc|Number=Plur	4fddae48-974c-5fc0-bedc-d54b2b73d8af	bd76c89f-ce1f-5493-ac73-02142168538f	A tutti piace essere apprezzati.	Everybody likes to be appreciated.				

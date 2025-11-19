@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-anchilosati		anchilosato	ADJ		1	1e-06	1	1e-06	anchilosato	ADJ	A	root	Gender=Masc|Number=Plur	318bcac7-c32a-503e-a68c-e339335c34d8	4d2e35c1-dea6-532a-88a9-ce63eda35acf	I loro muscoli sono anchilosati.	Their muscles are stiff.				
+anchilosati	ahn-kee-loh-ZAH-tee	anchilosato	ADJ	stiff; ankylosed (masculine plural)	1	1e-06	1	1e-06	anchilosato	ADJ	A	root	Gender=Masc|Number=Plur	318bcac7-c32a-503e-a68c-e339335c34d8	4d2e35c1-dea6-532a-88a9-ce63eda35acf	I loro muscoli sono anchilosati.	Their muscles are stiff.				

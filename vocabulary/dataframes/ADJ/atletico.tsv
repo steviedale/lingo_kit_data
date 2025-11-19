@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-atletico		atletico	ADJ		2	2e-06	2	2e-06	atletico	ADJ	A	root	Gender=Masc|Number=Sing	10589943-e351-5561-bdda-c3841d043128	ac8d2e55-c2f2-5a08-8d34-2d3223ad62b7	Io sono atletico.	I'm athletic.	Sono atletico.	I'm athletic.		
+atletico	ah-TLEH-tee-koh	atletico	ADJ	athletic (masculine)	2	2e-06	2	2e-06	atletico	ADJ	A	root	Gender=Masc|Number=Sing	10589943-e351-5561-bdda-c3841d043128	ac8d2e55-c2f2-5a08-8d34-2d3223ad62b7	Io sono atletico.	I'm athletic.	Sono atletico.	I'm athletic.		

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-assomigliante		assomigliante	ADJ		1	1e-06	1	1e-06	assomigliante	ADJ	A	amod	Number=Sing	27b674bf-a59f-508f-9941-034d037fb212	f110a815-2b6e-5005-bbc3-246e5607fe27	Questo è un cane assomigliante a un cavallo.	This is a dog resembling a horse.				
+assomigliante	ahs-soh-mee-LYAHN-teh	assomigliante	ADJ	resembling; similar	1	1e-06	1	1e-06	assomigliante	ADJ	A	amod	Number=Sing	27b674bf-a59f-508f-9941-034d037fb212	f110a815-2b6e-5005-bbc3-246e5607fe27	Questo è un cane assomigliante a un cavallo.	This is a dog resembling a horse.				

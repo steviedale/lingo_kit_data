@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ammutolito		ammutolito	ADJ		1	1e-06	1	1e-06	ammutolito	ADJ	A	root	Gender=Masc|Number=Sing	3cf81fb2-411d-543e-a319-40b728cc5713	c586e641-2d89-5a76-b104-8542db2e45e2	Tom era ammutolito.	Tom was speechless.				
+ammutolito	ahm-moo-toh-LEE-toh	ammutolito	ADJ	speechless (masculine)	1	1e-06	1	1e-06	ammutolito	ADJ	A	root	Gender=Masc|Number=Sing	3cf81fb2-411d-543e-a319-40b728cc5713	c586e641-2d89-5a76-b104-8542db2e45e2	Tom era ammutolito.	Tom was speechless.				

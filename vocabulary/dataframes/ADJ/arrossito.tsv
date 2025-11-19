@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-arrossito		arrossito	ADJ		1	1e-06	1	1e-06	arrossito	ADJ	A	root	Gender=Masc|Number=Sing	fa101088-a6d3-5596-b96c-6f807905e20c	8d0f1334-db88-5595-8282-664c802ed879	Tom è arrossito.	Tom blushed.				
+arrossito	ahr-roh-SEE-toh	arrossito	ADJ	blushing; flushed (masculine)	1	1e-06	1	1e-06	arrossito	ADJ	A	root	Gender=Masc|Number=Sing	fa101088-a6d3-5596-b96c-6f807905e20c	8d0f1334-db88-5595-8282-664c802ed879	Tom è arrossito.	Tom blushed.				

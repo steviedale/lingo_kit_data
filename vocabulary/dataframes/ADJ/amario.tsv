@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-amari		amario	ADJ		1	1e-06	1	1e-06	amario	ADJ	A	root	Gender=Masc|Number=Plur	5f705ba0-7678-56c4-a95b-ea1307c0fbe7	cd7ff0a5-79d9-5dba-b1c9-43cf8d78fa13	I limoni sono amari.	Lemons are sour.				
+amari	ah-MAH-ree	amario	ADJ	bitter (masculine plural)	1	1e-06	1	1e-06	amario	ADJ	A	root	Gender=Masc|Number=Plur	5f705ba0-7678-56c4-a95b-ea1307c0fbe7	cd7ff0a5-79d9-5dba-b1c9-43cf8d78fa13	I limoni sono amari.	Lemons are sour.				
