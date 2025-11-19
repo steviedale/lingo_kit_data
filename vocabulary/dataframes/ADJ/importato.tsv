@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-importato		importato	ADJ		1	1e-06	1	1e-06	importato	ADJ	A	amod	Gender=Masc|Number=Sing	2cdfd62c-e3ad-5042-9be1-3031c06f0b5b	f0260309-e8fa-533d-8186-4ea506749572	C'era una carenza di petrolio importato.	There was a shortage of imported oil.				
+importato	ee-mpoh-RTAH-toh	importato	ADJ	imported (masculine)	1	1e-06	1	1e-06	importato	ADJ	A	amod	Gender=Masc|Number=Sing	2cdfd62c-e3ad-5042-9be1-3031c06f0b5b	f0260309-e8fa-533d-8186-4ea506749572	C'era una carenza di petrolio importato.	There was a shortage of imported oil.				

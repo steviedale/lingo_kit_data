@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-incuriosito		incuriosito	ADJ		1	1e-06	1	1e-06	incuriosito	ADJ	A	xcomp	Gender=Masc|Number=Sing	05e000ff-6cfc-50b6-b1a7-ce711a5ef076	b9595114-65ed-596d-b9f2-b3dac0167252	Tom sembra incuriosito.	Tom looks intrigued.				
+incuriosito	ee-nkoo-ree-oh-SEE-toh	incuriosito	ADJ	curious; intrigued (masculine)	1	1e-06	1	1e-06	incuriosito	ADJ	A	xcomp	Gender=Masc|Number=Sing	05e000ff-6cfc-50b6-b1a7-ce711a5ef076	b9595114-65ed-596d-b9f2-b3dac0167252	Tom sembra incuriosito.	Tom looks intrigued.				

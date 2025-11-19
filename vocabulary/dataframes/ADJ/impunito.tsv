@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-impunita		impunito	ADJ		1	1e-06	1	1e-06	impunito	ADJ	A	root	Gender=Fem|Number=Sing	b13ab302-1fad-56f5-a725-e0ce7d35388c	703f57f5-1708-5036-9cc5-b98d5307a456	Una buona azione non è mai impunita.	A good deed never goes unpunished.				
+impunita	ee-mpoo-NEE-tah	impunito	ADJ	unpunished (feminine)	1	1e-06	1	1e-06	impunito	ADJ	A	root	Gender=Fem|Number=Sing	b13ab302-1fad-56f5-a725-e0ce7d35388c	703f57f5-1708-5036-9cc5-b98d5307a456	Una buona azione non è mai impunita.	A good deed never goes unpunished.				

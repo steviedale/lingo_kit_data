@@ -1,3 +1,3 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-glaciale		glaciale	ADJ		1	1e-06	2	2e-06	glaciale	ADJ	A	amod	Number=Sing	8cc87bab-51d1-5d7a-9212-d98ec9c6223e	425e7923-7ed2-5594-8405-93233e5c26ff	Fa un freddo glaciale.	It is freezing cold.				
-glaciali		glaciale	ADJ		1	1e-06	2	2e-06	glaciale	ADJ	A	amod	Number=Plur	1213d889-3eaa-5d44-8c47-1dab0606cf75	425e7923-7ed2-5594-8405-93233e5c26ff	Le calotte glaciali si stanno sciogliendo.	The ice caps are melting.				
+glaciale	glah-ch-AH-leh	glaciale	ADJ	glacial; icy	1	1e-06	2	2e-06	glaciale	ADJ	A	amod	Number=Sing	8cc87bab-51d1-5d7a-9212-d98ec9c6223e	425e7923-7ed2-5594-8405-93233e5c26ff	Fa un freddo glaciale.	It is freezing cold.				
+glaciali	glah-ch-AH-lee	glaciale	ADJ	glacial; icy (plural)	1	1e-06	2	2e-06	glaciale	ADJ	A	amod	Number=Plur	1213d889-3eaa-5d44-8c47-1dab0606cf75	425e7923-7ed2-5594-8405-93233e5c26ff	Le calotte glaciali si stanno sciogliendo.	The ice caps are melting.				

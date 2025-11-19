@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-incorretto		incorretto	ADJ		1	1e-06	1	1e-06	incorretto	ADJ	A	root	Gender=Masc|Number=Sing	d53fc39e-b9f0-57d3-b83c-8752a871c975	ffb05cd4-aa49-59bc-b5aa-c4b207822374	Questo è incorretto.	This is incorrect.				
+incorretto	ee-nkoh-RREH-ttoh	incorretto	ADJ	incorrect; improper (masculine)	1	1e-06	1	1e-06	incorretto	ADJ	A	root	Gender=Masc|Number=Sing	d53fc39e-b9f0-57d3-b83c-8752a871c975	ffb05cd4-aa49-59bc-b5aa-c4b207822374	Questo è incorretto.	This is incorrect.				

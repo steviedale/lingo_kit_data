@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-influente		influente	ADJ		1	1e-06	1	1e-06	influente	ADJ	A	amod	Number=Sing	e402ba21-a6ee-58c8-a9ee-cb10ebbd38cc	104799ac-fc3e-5b37-a835-4667050a958c	Tom è l'uomo più influente di Boston.	Tom is the most influential man in Boston.				
+influente	ee-nfloo-EH-nteh	influente	ADJ	influential	1	1e-06	1	1e-06	influente	ADJ	A	amod	Number=Sing	e402ba21-a6ee-58c8-a9ee-cb10ebbd38cc	104799ac-fc3e-5b37-a835-4667050a958c	Tom è l'uomo più influente di Boston.	Tom is the most influential man in Boston.				

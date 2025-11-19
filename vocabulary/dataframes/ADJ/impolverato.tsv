@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-impolverati		impolverato	ADJ		1	1e-06	1	1e-06	impolverato	ADJ	A	root	Gender=Masc|Number=Plur	a3b02b90-7b24-5505-8f8d-cf1fafcaae97	7bcf730e-c6ca-5a8b-baa1-58bad591c357	I mobili erano impolverati.	The furniture was dusty.				
+impolverati	ee-mpoh-lveh-RAH-tee	impolverato	ADJ	dusty (masculine plural)	1	1e-06	1	1e-06	impolverato	ADJ	A	root	Gender=Masc|Number=Plur	a3b02b90-7b24-5505-8f8d-cf1fafcaae97	7bcf730e-c6ca-5a8b-baa1-58bad591c357	I mobili erano impolverati.	The furniture was dusty.				

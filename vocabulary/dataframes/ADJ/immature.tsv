@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-immaturi		immature	ADJ		1	1e-06	1	1e-06	immature	ADJ	A	root	Gender=Masc|Number=Plur	9392ec26-d846-50f2-9cd9-62b6d694021a	c06aef83-35b2-5fd9-bf6e-7f289dfd8e4a	Siete così immaturi.	You're so immature.				
+immaturi	ee-mmah-TOO-ree	immature	ADJ	immature (masculine plural)	1	1e-06	1	1e-06	immature	ADJ	A	root	Gender=Masc|Number=Plur	9392ec26-d846-50f2-9cd9-62b6d694021a	c06aef83-35b2-5fd9-bf6e-7f289dfd8e4a	Siete così immaturi.	You're so immature.				

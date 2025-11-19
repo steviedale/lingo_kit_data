@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-hawaiana		hawaiano	ADJ		1	1e-06	1	1e-06	hawaiano	ADJ	A	amod	Gender=Fem|Number=Sing	69004b67-d306-5bce-9388-ed517431242b	e2ffa0e4-4108-5511-9c4e-d703f69237bb	Tom indossava una camicia hawaiana.	Tom wore a Hawaiian shirt.				
+hawaiana	ah-wah-ee-AH-nah	hawaiano	ADJ	Hawaiian (feminine)	1	1e-06	1	1e-06	hawaiano	ADJ	A	amod	Gender=Fem|Number=Sing	69004b67-d306-5bce-9388-ed517431242b	e2ffa0e4-4108-5511-9c4e-d703f69237bb	Tom indossava una camicia hawaiana.	Tom wore a Hawaiian shirt.				
