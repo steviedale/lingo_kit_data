@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gamberetti		gamberotto	NOUN		1	1e-06	1	1e-06	gamberotto	NOUN	S	nmod	Gender=Masc|Number=Plur	2ed14dbc-f9aa-5c6a-b33e-081d5f9e7e2b	0b295145-d9ed-5d3b-9299-ef3ab56b9513	Il cocktail ai gamberetti era delizioso.	The prawn cocktail was delicious.				
+gamberetti	gahm-beh-REHT-tee	gamberotto	NOUN	shrimps; prawns	1	1e-06	1	1e-06	gamberotto	NOUN	S	nmod	Gender=Masc|Number=Plur	2ed14dbc-f9aa-5c6a-b33e-081d5f9e7e2b	0b295145-d9ed-5d3b-9299-ef3ab56b9513	Il cocktail ai gamberetti era delizioso.	The prawn cocktail was delicious.				

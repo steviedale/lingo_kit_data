@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-girini		girino	NOUN		2	2e-06	2	2e-06	girino	NOUN	S	nsubj	Gender=Masc|Number=Plur	99a08cbc-a06b-5d26-88e1-7bb37343cd88	4d218231-6909-54d3-ad8b-f13fa8981980	I girini diventano rane.	Tadpoles become frogs.	I girini si trasformano in rane.	Tadpoles become frogs.		
+girini	jee-REE-nee	girino	NOUN	tadpoles	2	2e-06	2	2e-06	girino	NOUN	S	nsubj	Gender=Masc|Number=Plur	99a08cbc-a06b-5d26-88e1-7bb37343cd88	4d218231-6909-54d3-ad8b-f13fa8981980	I girini diventano rane.	Tadpoles become frogs.	I girini si trasformano in rane.	Tadpoles become frogs.		

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-garofani		garofano	NOUN		1	1e-06	1	1e-06	garofano	NOUN	S	root	Gender=Masc|Number=Plur	cbf3ef8b-7646-5d23-a17d-df8759fccf8f	6ac20e3c-0cc4-5845-b24b-a12d78e6a930	Per favore, altri due garofani rossi.	Please give me two more of the red carnations.				
+garofani	gah-roh-FAH-nee	garofano	NOUN	carnations	1	1e-06	1	1e-06	garofano	NOUN	S	root	Gender=Masc|Number=Plur	cbf3ef8b-7646-5d23-a17d-df8759fccf8f	6ac20e3c-0cc4-5845-b24b-a12d78e6a930	Per favore, altri due garofani rossi.	Please give me two more of the red carnations.				

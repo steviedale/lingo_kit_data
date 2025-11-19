@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gerundi		gerundo	NOUN		1	1e-06	1	1e-06	gerundo	NOUN	S	nsubj	Gender=Masc|Number=Plur	e4501129-cbf7-5126-a747-89a4a318f309	881ba1ea-d041-5cbd-8ced-56536a7d2ca6	I gerundi sono divertentissimi.	Gerunds are very funny.				
+gerundi	jeh-ROON-dee	gerundo	NOUN	gerunds	1	1e-06	1	1e-06	gerundo	NOUN	S	nsubj	Gender=Masc|Number=Plur	e4501129-cbf7-5126-a747-89a4a318f309	881ba1ea-d041-5cbd-8ced-56536a7d2ca6	I gerundi sono divertentissimi.	Gerunds are very funny.				

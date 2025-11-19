@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-granello		granello	NOUN		1	1e-06	1	1e-06	granello	NOUN	S	nmod	Gender=Masc|Number=Sing	907a639a-4c97-524c-af2a-fd232e443075	76d1f596-e6a8-5411-91b3-aaf8c8ee103d	Non fare una montagna di un granello di sabbia.	Don't make a mountain out of a molehill.				
+granello	grah-NEHL-loh	granello	NOUN	grain (of sand)	1	1e-06	1	1e-06	granello	NOUN	S	nmod	Gender=Masc|Number=Sing	907a639a-4c97-524c-af2a-fd232e443075	76d1f596-e6a8-5411-91b3-aaf8c8ee103d	Non fare una montagna di un granello di sabbia.	Don't make a mountain out of a molehill.				

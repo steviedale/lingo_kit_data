@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gol		gol	NOUN		1	1e-06	1	1e-06	gol	NOUN	S	obj	Gender=Masc	284be441-3a8f-582a-8484-228561ea0170	28a1093a-64e5-5977-95f7-73f6b663c652	Tom ha segnato un gol!	Tom scored a goal!				
+gol	GOHL	gol	NOUN	goal (sports)	1	1e-06	1	1e-06	gol	NOUN	S	obj	Gender=Masc	284be441-3a8f-582a-8484-228561ea0170	28a1093a-64e5-5977-95f7-73f6b663c652	Tom ha segnato un gol!	Tom scored a goal!				
