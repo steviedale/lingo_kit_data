@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-guscio		guscio	NOUN		1	1e-06	1	1e-06	guscio	NOUN	S	nsubj	Gender=Masc|Number=Sing	653f95de-0feb-57dc-b4c9-3a117a5dbf03	3e8c340e-49bc-5b50-980c-9ec634f67380	Il guscio di un uovo si rompe facilmente.	The shell of an egg is easily broken.				
+guscio	GOO-shyoh	guscio	NOUN	shell	1	1e-06	1	1e-06	guscio	NOUN	S	nsubj	Gender=Masc|Number=Sing	653f95de-0feb-57dc-b4c9-3a117a5dbf03	3e8c340e-49bc-5b50-980c-9ec634f67380	Il guscio di un uovo si rompe facilmente.	The shell of an egg is easily broken.				

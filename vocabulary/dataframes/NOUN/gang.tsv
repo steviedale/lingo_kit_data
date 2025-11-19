@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gang		gang	NOUN		2	2e-06	2	2e-06	gang	NOUN	S	root	Gender=Fem	29fdc335-e038-5ed7-9f70-a81c3f24fea1	d8d5691b-6e77-52ab-855c-fececcd10076	Sono in una gang.	I'm in a gang.	Io sono in una gang.	I'm in a gang.		
+gang	GAHNG	gang	NOUN	gang	2	2e-06	2	2e-06	gang	NOUN	S	root	Gender=Fem	29fdc335-e038-5ed7-9f70-a81c3f24fea1	d8d5691b-6e77-52ab-855c-fececcd10076	Sono in una gang.	I'm in a gang.	Io sono in una gang.	I'm in a gang.		

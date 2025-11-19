@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-g.		geswe	NOUN		1	1e-06	1	1e-06	geswe	NOUN	S	root	Gender=Masc|Number=Sing	750fc131-e445-5414-a2ca-f0c3458daeb2	70921e31-0b2a-5ca0-a45e-f2ff035fce3b	La gravità sulla superficie di Titano è di 0,14 g.	Titan's surface gravity is 0.14 g.				
+g.	G.	geswe	NOUN	g (gravity unit)	1	1e-06	1	1e-06	geswe	NOUN	S	root	Gender=Masc|Number=Sing	750fc131-e445-5414-a2ca-f0c3458daeb2	70921e31-0b2a-5ca0-a45e-f2ff035fce3b	La gravità sulla superficie di Titano è di 0,14 g.	Titan's surface gravity is 0.14 g.				

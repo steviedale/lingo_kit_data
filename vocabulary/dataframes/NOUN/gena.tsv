@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gene		gena	NOUN		1	1e-06	1	1e-06	gena	NOUN	S	obj	Gender=Masc|Number=Sing	f59ad304-8f63-51cf-bd09-9d14c19527ff	cc41f347-34d2-53c4-b80d-9c7e6629b732	Il DNA è una sostanza chimica complessa che costituisce un gene.	DNA is a complex chemical that makes up a gene.				
+gene	JEH-neh	gena	NOUN	gene	1	1e-06	1	1e-06	gena	NOUN	S	obj	Gender=Masc|Number=Sing	f59ad304-8f63-51cf-bd09-9d14c19527ff	cc41f347-34d2-53c4-b80d-9c7e6629b732	Il DNA è una sostanza chimica complessa che costituisce un gene.	DNA is a complex chemical that makes up a gene.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-guitar		guitar	NOUN		1	1e-06	1	1e-06	guitar	NOUN	S	nmod	Gender=Masc	8b98082b-bbc0-5c0b-811b-0da031c2ffe1	a56d66f2-5c09-5df4-a82a-ec379d7bdf7f	L'accento di guitar cade sulla seconda sillaba.	The accent in guitar falls on the second syllable.				
+guitar	GWEE-tahr	guitar	NOUN	guitar	1	1e-06	1	1e-06	guitar	NOUN	S	nmod	Gender=Masc	8b98082b-bbc0-5c0b-811b-0da031c2ffe1	a56d66f2-5c09-5df4-a82a-ec379d7bdf7f	L'accento di guitar cade sulla seconda sillaba.	The accent in guitar falls on the second syllable.				

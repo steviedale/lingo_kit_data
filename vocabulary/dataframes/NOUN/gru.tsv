@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gru		gru	NOUN		1	1e-06	1	1e-06	gru	NOUN	S	nsubj	Gender=Fem|Number=Sing	a91396fc-1025-5698-9129-4fa41fc3529d	9d4b3979-d0f1-5a39-ac1b-38c4a155f2e0	Una gru solleva materiali di costruzione pesanti.	A crane raises heavy construction materials.				
+gru	GROO	gru	NOUN	crane (machine; bird)	1	1e-06	1	1e-06	gru	NOUN	S	nsubj	Gender=Fem|Number=Sing	a91396fc-1025-5698-9129-4fa41fc3529d	9d4b3979-d0f1-5a39-ac1b-38c4a155f2e0	Una gru solleva materiali di costruzione pesanti.	A crane raises heavy construction materials.				

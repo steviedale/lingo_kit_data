@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-giaccone		giaccone	NOUN		1	1e-06	1	1e-06	giaccone	NOUN	S	nsubj	Gender=Masc|Number=Sing	167e2c11-9f08-5e6a-92c7-19fcbb27533f	4f73b216-3349-5e86-86de-c7166d532c24	Dov'è il tuo giaccone?	Where's your coat?				
+giaccone	jyahk-KOH-neh	giaccone	NOUN	heavy coat; parka	1	1e-06	1	1e-06	giaccone	NOUN	S	nsubj	Gender=Masc|Number=Sing	167e2c11-9f08-5e6a-92c7-19fcbb27533f	4f73b216-3349-5e86-86de-c7166d532c24	Dov'è il tuo giaccone?	Where's your coat?				

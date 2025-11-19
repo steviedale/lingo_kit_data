@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-getti		getto	NOUN		1	1e-06	1	1e-06	getto	NOUN	S	root	Gender=Masc|Number=Plur	002f2d4e-8daa-5f7a-8df5-c7d6a834802d	41300640-cee0-5016-aeef-67dae0102558	Getti la pistola per terra.	Toss your gun on the ground.				
+getti	JEHT-tee	getto	NOUN	jets; streams	1	1e-06	1	1e-06	getto	NOUN	S	root	Gender=Masc|Number=Plur	002f2d4e-8daa-5f7a-8df5-c7d6a834802d	41300640-cee0-5016-aeef-67dae0102558	Getti la pistola per terra.	Toss your gun on the ground.				

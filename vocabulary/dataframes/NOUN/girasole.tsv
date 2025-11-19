@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-girasoli		girasole	NOUN		2	2e-06	2	2e-06	girasole	NOUN	S	root	Gender=Masc|Number=Plur	58a6f16b-e2d4-5638-b15b-d1ead8e2701d	0a2ff3d8-8a1e-5c1b-882e-38094acfeb6f	Quelli sono dei girasoli.	Those are sunflowers.	Quelli sono girasoli.	Those are sunflowers.		
+girasoli	jee-rah-SOH-lee	girasole	NOUN	sunflowers	2	2e-06	2	2e-06	girasole	NOUN	S	root	Gender=Masc|Number=Plur	58a6f16b-e2d4-5638-b15b-d1ead8e2701d	0a2ff3d8-8a1e-5c1b-882e-38094acfeb6f	Quelli sono dei girasoli.	Those are sunflowers.	Quelli sono girasoli.	Those are sunflowers.		

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gagliarda		gagliarda	NOUN		1	1e-06	1	1e-06	gagliarda	NOUN	S	flat:foreign	Gender=Fem|Number=Sing	f2143685-b29f-531f-9b4f-2baac65194ca	f290e300-1d47-5332-903d-8d51ab9b4fea	Come sei gagliarda!	How brave you are!				
+gagliarda	gah-LYYAHR-dah	gagliarda	NOUN	brave woman	1	1e-06	1	1e-06	gagliarda	NOUN	S	flat:foreign	Gender=Fem|Number=Sing	f2143685-b29f-531f-9b4f-2baac65194ca	f290e300-1d47-5332-903d-8d51ab9b4fea	Come sei gagliarda!	How brave you are!				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ginoccho		ginoccho	NOUN		1	1e-06	1	1e-06	ginoccho	NOUN	S	obj	Gender=Masc|Number=Sing	647c542e-0881-57f4-ae85-51b5014eff88	bfef5809-71db-5521-8036-17be3141ebbf	Ha battuto il ginoccho.	He banged his knee.				
+ginoccho	jee-NOHK-koh	ginoccho	NOUN	knee	1	1e-06	1	1e-06	ginoccho	NOUN	S	obj	Gender=Masc|Number=Sing	647c542e-0881-57f4-ae85-51b5014eff88	bfef5809-71db-5521-8036-17be3141ebbf	Ha battuto il ginoccho.	He banged his knee.				
