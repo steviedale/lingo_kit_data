@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-rompermi		rompermare	VERB		1	1e-06	1	1e-06	rompermare	VERB	V	advcl	VerbForm=Inf	6af89f74-2fb6-513c-80b7-fe23eee3bce7	47b25c37-66ef-50ab-b621-5a3d923acb5d	Questo lavoro è sufficiente per rompermi la schiena.	This work is enough to break my back.				
+rompermi	rohm-PEHR-mee	rompermare	VERB	to break me	1	1e-06	1	1e-06	rompermare	VERB	V	advcl	VerbForm=Inf	6af89f74-2fb6-513c-80b7-fe23eee3bce7	47b25c37-66ef-50ab-b621-5a3d923acb5d	Questo lavoro è sufficiente per rompermi la schiena.	This work is enough to break my back.				

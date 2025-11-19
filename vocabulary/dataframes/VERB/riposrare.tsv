@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-riposiamo		riposrare	VERB		1	1e-06	1	1e-06	riposrare	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5ea28c0a-85fe-5f57-accc-e7e81a680672	e138e7f4-14ac-5d78-9dab-8fea03fd17e9	Perché non ci riposiamo qui?	Why don't we rest here?				
+riposiamo	ree-poh-SYAH-moh	riposrare	VERB	we rest (plural)	1	1e-06	1	1e-06	riposrare	VERB	V	root	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5ea28c0a-85fe-5f57-accc-e7e81a680672	e138e7f4-14ac-5d78-9dab-8fea03fd17e9	Perché non ci riposiamo qui?	Why don't we rest here?				

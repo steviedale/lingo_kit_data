@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-resce		rescerdere	VERB		1	1e-06	1	1e-06	rescerdere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	b1b97f9d-11af-59ca-beab-788515416923	1cc6e683-5c06-5c12-a3b1-af9740e8b149	Qualcuno resce a sentirmi?	Can anybody hear me?				
+resce	REH-sheh	rescerdere	VERB	he/she/it grows back	1	1e-06	1	1e-06	rescerdere	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	b1b97f9d-11af-59ca-beab-788515416923	1cc6e683-5c06-5c12-a3b1-af9740e8b149	Qualcuno resce a sentirmi?	Can anybody hear me?				
