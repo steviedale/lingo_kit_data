@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-esserti		esserto	NOUN		1	1e-06	1	1e-06	esserto	NOUN	S	nmod	Gender=Masc|Number=Plur	ef8817d0-e91b-5381-9e4a-f6653d3f82a3	fb9910b4-6b6f-59cf-bfea-877e159234b6	Grazie per esserti occupato di tutto questo.	Thanks for taking care of all of this.				
+esserti	EH-sehr-tee	esserto	NOUN	yourself being (reflexive)	1	1e-06	1	1e-06	esserto	NOUN	S	nmod	Gender=Masc|Number=Plur	ef8817d0-e91b-5381-9e4a-f6653d3f82a3	fb9910b4-6b6f-59cf-bfea-877e159234b6	Grazie per esserti occupato di tutto questo.	Thanks for taking care of all of this.				

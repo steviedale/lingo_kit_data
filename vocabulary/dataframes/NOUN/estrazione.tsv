@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-estrazione		estrazione	NOUN		1	1e-06	1	1e-06	estrazione	NOUN	S	nmod	Gender=Fem|Number=Sing	e0dfd9be-af63-54bb-bdb9-e952ff4f3c5f	ff128a68-d70b-50d9-98cb-53c422d49933	È un uomo di elevata estrazione sociale.	He is a man of high social status.				
+estrazione	eh-strah-TSEE-oh-neh	estrazione	NOUN	extraction; drawing	1	1e-06	1	1e-06	estrazione	NOUN	S	nmod	Gender=Fem|Number=Sing	e0dfd9be-af63-54bb-bdb9-e952ff4f3c5f	ff128a68-d70b-50d9-98cb-53c422d49933	È un uomo di elevata estrazione sociale.	He is a man of high social status.				

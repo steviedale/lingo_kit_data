@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ettolitro		ettolitro	NOUN		1	1e-06	1	1e-06	ettolitro	NOUN	S	root	Gender=Masc|Number=Sing	24f45bbe-e9f8-5ecf-bdc4-b63840c215a2	4a2b7e8d-0f1e-5bbf-9f33-57c23e2193e5	Questo è un ettolitro di vino.	This is a hectoliter of wine.				
+ettolitro	et-TOH-lee-troh	ettolitro	NOUN	hectoliter	1	1e-06	1	1e-06	ettolitro	NOUN	S	root	Gender=Masc|Number=Sing	24f45bbe-e9f8-5ecf-bdc4-b63840c215a2	4a2b7e8d-0f1e-5bbf-9f33-57c23e2193e5	Questo è un ettolitro di vino.	This is a hectoliter of wine.				

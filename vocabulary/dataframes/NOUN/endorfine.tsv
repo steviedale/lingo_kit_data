@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-endorfine		endorfine	NOUN		1	1e-06	1	1e-06	endorfine	NOUN	S	nsubj	Gender=Fem|Number=Plur	5931120e-b7ea-591e-80dc-4e38143dacd8	139de742-4cf8-55b1-9bdd-db7afcf5dfd7	Le endorfine sono analgesici naturali.	Endorphins are natural analgesics.				
+endorfine	en-dor-FEE-neh	endorfine	NOUN	endorphins	1	1e-06	1	1e-06	endorfine	NOUN	S	nsubj	Gender=Fem|Number=Plur	5931120e-b7ea-591e-80dc-4e38143dacd8	139de742-4cf8-55b1-9bdd-db7afcf5dfd7	Le endorfine sono analgesici naturali.	Endorphins are natural analgesics.				

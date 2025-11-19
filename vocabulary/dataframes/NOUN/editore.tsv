@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-editore		editore	NOUN		1	1e-06	1	1e-06	editore	NOUN	S	conj	Gender=Masc|Number=Sing	cd52bae7-e138-5b23-aff0-3fa7f08eb6ac	0be70d21-4e93-58a6-87a8-0c0df423a019	Il redattore ed editore è mio cugino.	The editor and publisher is my cousin.				
+editore	eh-dee-TOH-reh	editore	NOUN	publisher (masculine)	1	1e-06	1	1e-06	editore	NOUN	S	conj	Gender=Masc|Number=Sing	cd52bae7-e138-5b23-aff0-3fa7f08eb6ac	0be70d21-4e93-58a6-87a8-0c0df423a019	Il redattore ed editore è mio cugino.	The editor and publisher is my cousin.				
