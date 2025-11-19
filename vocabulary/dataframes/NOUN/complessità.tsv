@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-complessità		complessità	NOUN		1	1e-06	1	1e-06	complessità	NOUN	S	obj	Gender=Fem	685bbde0-8e5b-5dbd-b4a7-eb0578f2e462	088d3b6a-2172-559f-9635-da4bbbdf8e9d	Dobbiamo provare a ridurre la sua complessità.	We have to try to reduce its complexity.				
+complessità	kohm-plehs-see-TAH	complessità	NOUN	complexity	1	1e-06	1	1e-06	complessità	NOUN	S	obj	Gender=Fem	685bbde0-8e5b-5dbd-b4a7-eb0578f2e462	088d3b6a-2172-559f-9635-da4bbbdf8e9d	Dobbiamo provare a ridurre la sua complessità.	We have to try to reduce its complexity.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-congedo		congedo	NOUN		2	2e-06	2	2e-06	congedo	NOUN	S	root	Gender=Masc|Number=Sing	cac227e6-af53-5825-9782-95adf3424616	818319cd-43a7-54c6-9ccb-5fb7cdbe70a7	Noi siamo in congedo.	We're on leave.	Siamo in congedo.	We're on leave.		
+congedo	kohn-JEH-doh	congedo	NOUN	leave; furlough	2	2e-06	2	2e-06	congedo	NOUN	S	root	Gender=Masc|Number=Sing	cac227e6-af53-5825-9782-95adf3424616	818319cd-43a7-54c6-9ccb-5fb7cdbe70a7	Noi siamo in congedo.	We're on leave.	Siamo in congedo.	We're on leave.		

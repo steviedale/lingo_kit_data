@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ciance		ciancia	NOUN		1	1e-06	1	1e-06	ciancia	NOUN	S	nmod	Gender=Fem|Number=Plur	0e407eea-c8a9-5c77-b160-ae6872d102ad	7ddca1db-383e-58f1-9ae5-02e4946e8169	Bando alle ciance!	No more chatting!				
+ciance	CHYAHN-cheh	ciancia	NOUN	chatter; idle talk	1	1e-06	1	1e-06	ciancia	NOUN	S	nmod	Gender=Fem|Number=Plur	0e407eea-c8a9-5c77-b160-ae6872d102ad	7ddca1db-383e-58f1-9ae5-02e4946e8169	Bando alle ciance!	No more chatting!				

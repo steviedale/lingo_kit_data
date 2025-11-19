@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-coffee		coffea	NOUN		1	1e-06	1	1e-06	coffea	NOUN	S	obl	Gender=Masc	3c333201-77ea-59e3-bdbd-d9800f361db9	22dfe397-2973-5968-b95b-dfc67745f3c5	L'ho incontrata in un coffee shop vicino la stazione.	I met her in a coffee shop near the station.				
+coffee	KOHF-feheh	coffea	NOUN	coffee shop	1	1e-06	1	1e-06	coffea	NOUN	S	obl	Gender=Masc	3c333201-77ea-59e3-bdbd-d9800f361db9	22dfe397-2973-5968-b95b-dfc67745f3c5	L'ho incontrata in un coffee shop vicino la stazione.	I met her in a coffee shop near the station.				

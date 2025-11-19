@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-correzioni		correzione	NOUN		1	1e-06	1	1e-06	correzione	NOUN	S	nmod	Gender=Fem|Number=Plur	bdca0439-bb23-543d-9fc4-4e854ff78a62	28d1761f-4b67-58e2-bf69-7039c935676a	Grazie per le correzioni.	Thank you for the corrections.				
+correzioni	kohr-reh-TSYOH-nee	correzione	NOUN	corrections	1	1e-06	1	1e-06	correzione	NOUN	S	nmod	Gender=Fem|Number=Plur	bdca0439-bb23-543d-9fc4-4e854ff78a62	28d1761f-4b67-58e2-bf69-7039c935676a	Grazie per le correzioni.	Thank you for the corrections.				

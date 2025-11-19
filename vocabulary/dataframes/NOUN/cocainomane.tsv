@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cocainomane		cocainomane	NOUN		1	1e-06	1	1e-06	cocainomane	NOUN	S	root	Number=Sing	f6b175e3-a712-5e8b-bce1-d5dad3d515df	e81f2989-f5ed-507c-a4a2-30bcbc314857	Tom è un cocainomane.	Tom is addicted to cocaine.				
+cocainomane	koh-keye-noh-MAH-neh	cocainomane	NOUN	cocaine addict	1	1e-06	1	1e-06	cocainomane	NOUN	S	root	Number=Sing	f6b175e3-a712-5e8b-bce1-d5dad3d515df	e81f2989-f5ed-507c-a4a2-30bcbc314857	Tom è un cocainomane.	Tom is addicted to cocaine.				
