@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-anti		anti	ADJ		5	5e-06	5	5e-06	anti	ADJ	A	amod		f5e4f674-d9ef-531d-ace3-a72585d3b14a	4192cae4-2c2d-5741-bf08-3ce71cf817e9	L'allarme anti-incendio suonò.	The fire alarm rang.	Lui è un anti-eroe.	He's an antihero.	È un anti-eroe.	He's an antihero.
+anti	AHN-tee	anti	ADJ	anti; against	5	5e-06	5	5e-06	anti	ADJ	A	amod		f5e4f674-d9ef-531d-ace3-a72585d3b14a	4192cae4-2c2d-5741-bf08-3ce71cf817e9	L'allarme anti-incendio suonò.	The fire alarm rang.	Lui è un anti-eroe.	He's an antihero.	È un anti-eroe.	He's an antihero.

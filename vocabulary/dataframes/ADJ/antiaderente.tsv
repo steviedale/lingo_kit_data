@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-antiaderente		antiaderente	ADJ		1	1e-06	1	1e-06	antiaderente	ADJ	A	amod	Number=Sing	3c64f037-3cc1-5d31-b36c-1b43c89857d4	16c0f56b-cc66-53e6-a1d1-cd80fd401dc9	Questa è una teglia antiaderente.	This is a nonstick pan.				
+antiaderente	ahn-tee-ah-deh-REN-teh	antiaderente	ADJ	nonstick	1	1e-06	1	1e-06	antiaderente	ADJ	A	amod	Number=Sing	3c64f037-3cc1-5d31-b36c-1b43c89857d4	16c0f56b-cc66-53e6-a1d1-cd80fd401dc9	Questa è una teglia antiaderente.	This is a nonstick pan.				
