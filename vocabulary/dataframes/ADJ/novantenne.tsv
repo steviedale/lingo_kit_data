@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-novantenne		novantenne	ADJ		1	1e-06	1	1e-06	novantenne	ADJ	A	root	Number=Sing	28c9fd9b-22fb-5b16-8ca1-9e1576117743	275cf6ae-5225-5a89-9d01-b62177ee34cd	Mio nonno è novantenne.	My grandfather is in his nineties.				
+novantenne	noh-vahn-TEHN-neh	novantenne	ADJ	ninety-year-old	1	1e-06	1	1e-06	novantenne	ADJ	A	root	Number=Sing	28c9fd9b-22fb-5b16-8ca1-9e1576117743	275cf6ae-5225-5a89-9d01-b62177ee34cd	Mio nonno è novantenne.	My grandfather is in his nineties.				

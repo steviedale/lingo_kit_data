@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-neozelandese		neozelandese	ADJ		1	1e-06	1	1e-06	neozelandese	ADJ	A	amod	Number=Sing	3b7e1202-fb53-5ac0-a4e5-276dd9eb3e2e	faed665f-8a48-523d-a3c3-f9f3afc0b706	Dov'è l'ambasciata neozelandese?	Where is the New Zealand embassy?				
+neozelandese	nehoh-tseh-lahn-DEH-seh	neozelandese	ADJ	New Zealand; Kiwi	1	1e-06	1	1e-06	neozelandese	ADJ	A	amod	Number=Sing	3b7e1202-fb53-5ac0-a4e5-276dd9eb3e2e	faed665f-8a48-523d-a3c3-f9f3afc0b706	Dov'è l'ambasciata neozelandese?	Where is the New Zealand embassy?				

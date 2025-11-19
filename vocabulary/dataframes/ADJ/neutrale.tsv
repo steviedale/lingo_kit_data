@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-neutrale		neutrale	ADJ		1	1e-06	1	1e-06	neutrale	ADJ	A	amod	Number=Sing	1ed18677-d47f-5239-89ad-55799770e965	d22739f6-71bf-5c31-aa1e-2f05304f9e06	La Svizzera è un paese neutrale.	Switzerland is a neutral country.				
+neutrale	neh-oo-TRAH-leh	neutrale	ADJ	neutral; impartial	1	1e-06	1	1e-06	neutrale	ADJ	A	amod	Number=Sing	1ed18677-d47f-5239-89ad-55799770e965	d22739f6-71bf-5c31-aa1e-2f05304f9e06	La Svizzera è un paese neutrale.	Switzerland is a neutral country.				

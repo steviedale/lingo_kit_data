@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-paffuto		paffuto	ADJ		1	1e-06	1	1e-06	paffuto	ADJ	A	root	Gender=Masc|Number=Sing	592aa3f9-a488-5af6-887f-fe258a3ebb85	309da3c4-d5f1-52a1-b609-fc32cda1a2cf	Sono paffuto.	I'm chubby.				
+paffuto	pahf-FOO-toh	paffuto	ADJ	chubby; plump (masculine)	1	1e-06	1	1e-06	paffuto	ADJ	A	root	Gender=Masc|Number=Sing	592aa3f9-a488-5af6-887f-fe258a3ebb85	309da3c4-d5f1-52a1-b609-fc32cda1a2cf	Sono paffuto.	I'm chubby.				

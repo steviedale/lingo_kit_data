@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ovvi		ovvo	ADJ		1	1e-06	1	1e-06	ovvo	ADJ	A	amod	Gender=Masc|Number=Plur	026f1acc-825f-5107-99f4-b20f91f5e028	a0709277-c47c-5262-bf06-a4e931f5dc9c	Questo sistema ha degli ovvi difetti.	This system has obvious defects.				
+ovvi	OHV-vee	ovvo	ADJ	obvious; evident (masculine plural)	1	1e-06	1	1e-06	ovvo	ADJ	A	amod	Gender=Masc|Number=Plur	026f1acc-825f-5107-99f4-b20f91f5e028	a0709277-c47c-5262-bf06-a4e931f5dc9c	Questo sistema ha degli ovvi difetti.	This system has obvious defects.				

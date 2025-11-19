@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-n		n	ADJ		1	1e-06	1	1e-06	n	ADJ	A	amod	Number=Sing	75ecf181-4e57-526f-b395-f4b7cac961ae	c5f6d1e6-2ea1-5c42-847a-49b7e5a017f4	Puoi incartarmelo? È n regalo.	Can you wrap it up for me? It's a gift.				
+n	N	n	ADJ	a; an (colloquial contraction)	1	1e-06	1	1e-06	n	ADJ	A	amod	Number=Sing	75ecf181-4e57-526f-b395-f4b7cac961ae	c5f6d1e6-2ea1-5c42-847a-49b7e5a017f4	Puoi incartarmelo? È n regalo.	Can you wrap it up for me? It's a gift.				

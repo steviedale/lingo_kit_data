@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-montagnoso		montagnoso	ADJ		1	1e-06	1	1e-06	montagnoso	ADJ	A	amod	Gender=Masc|Number=Sing	b15b6f17-b55a-5d60-8e4a-ef906e13d828	371dee86-53cd-53aa-bd16-e72742724a5c	L'Armenia è un paese montagnoso.	Armenia is a mountainous country.				
+montagnoso	mohn-tah-NYOH-soh	montagnoso	ADJ	mountainous; hilly (masculine)	1	1e-06	1	1e-06	montagnoso	ADJ	A	amod	Gender=Masc|Number=Sing	b15b6f17-b55a-5d60-8e4a-ef906e13d828	371dee86-53cd-53aa-bd16-e72742724a5c	L'Armenia è un paese montagnoso.	Armenia is a mountainous country.				
