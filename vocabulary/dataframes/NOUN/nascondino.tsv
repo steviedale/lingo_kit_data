@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-nascondino		nascondino	NOUN		1	1e-06	1	1e-06	nascondino	NOUN	S	obl	Gender=Masc|Number=Sing	5b898481-3477-519c-ae9c-4b986ce2e09a	bbfc9176-cb39-5e66-8b10-2255688c3aeb	Giochiamo a nascondino!	Let's play hide-and-seek!				
+nascondino	nahs-kohn-DEE-noh	nascondino	NOUN	hide-and-seek	1	1e-06	1	1e-06	nascondino	NOUN	S	obl	Gender=Masc|Number=Sing	5b898481-3477-519c-ae9c-4b986ce2e09a	bbfc9176-cb39-5e66-8b10-2255688c3aeb	Giochiamo a nascondino!	Let's play hide-and-seek!				

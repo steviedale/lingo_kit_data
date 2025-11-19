@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-nylon		nylon	NOUN		1	1e-06	1	1e-06	nylon	NOUN	S	nmod	Gender=Masc	79a59b14-c7a3-5d60-921e-b2caf6759cde	6e136b23-6ba1-5849-98b8-f36ea299238e	Questi calzini di nylon si lavano bene.	These nylon socks wash well.				
+nylon	NEE-lon	nylon	NOUN	nylon	1	1e-06	1	1e-06	nylon	NOUN	S	nmod	Gender=Masc	79a59b14-c7a3-5d60-921e-b2caf6759cde	6e136b23-6ba1-5849-98b8-f36ea299238e	Questi calzini di nylon si lavano bene.	These nylon socks wash well.				
