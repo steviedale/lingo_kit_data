@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-braghe		braga	NOUN		1	1e-06	1	1e-06	braga	NOUN	S	root	Gender=Fem|Number=Plur	c06f88c0-b36b-593c-824c-c3b6932b3866	ba6d738e-4f72-55f8-a9f7-81dbe692fc8e	Tom è in braghe corte.	Tom is in shorts.				
+braghe	BRAH-geh	braga	NOUN	pants; breeches	1	1e-06	1	1e-06	braga	NOUN	S	root	Gender=Fem|Number=Plur	c06f88c0-b36b-593c-824c-c3b6932b3866	ba6d738e-4f72-55f8-a9f7-81dbe692fc8e	Tom è in braghe corte.	Tom is in shorts.				

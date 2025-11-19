@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-baguette		baguette	NOUN		1	1e-06	1	1e-06	baguette	NOUN	S	nsubj	Gender=Fem|Number=Sing	4af650a0-639e-574f-9377-ba67a848ad59	5c3c48e9-5880-59a3-8999-bb098a4bef07	La baguette è francese.	The baguette is French.				
+baguette	bah-GWEHT-teh	baguette	NOUN	baguette	1	1e-06	1	1e-06	baguette	NOUN	S	nsubj	Gender=Fem|Number=Sing	4af650a0-639e-574f-9377-ba67a848ad59	5c3c48e9-5880-59a3-8999-bb098a4bef07	La baguette è francese.	The baguette is French.				

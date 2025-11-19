@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-brevetti		brevetto	NOUN		1	1e-06	1	1e-06	brevetto	NOUN	S	compound	Gender=Masc|Number=Plur	2e0dd6b4-f1ab-5f98-bd08-3fcbf7b64d18	0a01e811-397f-5387-9b59-60c74d260d49	Dov'è l'ufficio brevetti di Tokyo?	Where is the Tokyo patent office?				
+brevetti	breh-VEHT-tee	brevetto	NOUN	patents	1	1e-06	1	1e-06	brevetto	NOUN	S	compound	Gender=Masc|Number=Plur	2e0dd6b4-f1ab-5f98-bd08-3fcbf7b64d18	0a01e811-397f-5387-9b59-60c74d260d49	Dov'è l'ufficio brevetti di Tokyo?	Where is the Tokyo patent office?				

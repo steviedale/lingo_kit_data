@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-boschetti		boschetto	NOUN		1	1e-06	1	1e-06	boschetto	NOUN	S	obl	Gender=Masc|Number=Plur	e69e6723-61c0-59d3-a1f7-9ade59f46761	ef5d2e40-a8d8-5f55-be2d-ca105cf95c5b	I panda vivono in boschetti di bambù.	Pandas live in bamboo thickets.				
+boschetti	boh-SHEHT-tee	boschetto	NOUN	groves; thickets	1	1e-06	1	1e-06	boschetto	NOUN	S	obl	Gender=Masc|Number=Plur	e69e6723-61c0-59d3-a1f7-9ade59f46761	ef5d2e40-a8d8-5f55-be2d-ca105cf95c5b	I panda vivono in boschetti di bambù.	Pandas live in bamboo thickets.				

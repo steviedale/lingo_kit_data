@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-brano		brano	NOUN		1	1e-06	1	1e-06	brano	NOUN	S	nsubj	Gender=Masc|Number=Sing	4a2760c1-0c2c-56cb-a5bd-9ecdfe3bcd0f	1fffe44a-e136-5a30-babc-06f0541ca309	Questo brano è molto familiare a tutti noi.	This tune is quite familiar to us all.				
+brano	BRAH-noh	brano	NOUN	passage; track	1	1e-06	1	1e-06	brano	NOUN	S	nsubj	Gender=Masc|Number=Sing	4a2760c1-0c2c-56cb-a5bd-9ecdfe3bcd0f	1fffe44a-e136-5a30-babc-06f0541ca309	Questo brano è molto familiare a tutti noi.	This tune is quite familiar to us all.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-bilico		bilico	NOUN		1	1e-06	1	1e-06	bilico	NOUN	S	obl	Gender=Masc|Number=Sing	2c334d03-57f3-57dc-81e8-f55b015e72f3	945ad507-4983-5059-be64-9bd5cdd8348f	Restò in bilico tra la vita e la morte.	He hovered between life and death.				
+bilico	bee-LEE-koh	bilico	NOUN	balance; precarious state	1	1e-06	1	1e-06	bilico	NOUN	S	obl	Gender=Masc|Number=Sing	2c334d03-57f3-57dc-81e8-f55b015e72f3	945ad507-4983-5059-be64-9bd5cdd8348f	Restò in bilico tra la vita e la morte.	He hovered between life and death.				

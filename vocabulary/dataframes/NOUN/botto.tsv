@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-botti		botto	NOUN		1	1e-06	1	1e-06	botto	NOUN	S	obl	Gender=Masc|Number=Plur	04bcc5ca-ef40-597d-ad2a-e671e0891a19	4698d970-98eb-5bc6-838e-52cc1fb7ed5e	Il vino è messo nelle botti ad invecchiare.	Wine is put in casks to age.				
+botti	BOHT-tee	botto	NOUN	barrels	1	1e-06	1	1e-06	botto	NOUN	S	obl	Gender=Masc|Number=Plur	04bcc5ca-ef40-597d-ad2a-e671e0891a19	4698d970-98eb-5bc6-838e-52cc1fb7ed5e	Il vino è messo nelle botti ad invecchiare.	Wine is put in casks to age.				

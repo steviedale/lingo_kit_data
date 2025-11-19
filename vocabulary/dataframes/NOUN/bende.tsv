@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-bende		bende	NOUN		1	1e-06	1	1e-06	bende	NOUN	S	obl	Gender=Fem|Number=Plur	7d42eb6a-b26f-58bd-a016-a2f7ab7e6661	94482158-8e9d-554b-a05a-cc446e29918d	Tom ha la testa coperta di bende.	Tom's head is covered with bandages.				
+bende	BEHN-deh	bende	NOUN	bandages	1	1e-06	1	1e-06	bende	NOUN	S	obl	Gender=Fem|Number=Plur	7d42eb6a-b26f-58bd-a016-a2f7ab7e6661	94482158-8e9d-554b-a05a-cc446e29918d	Tom ha la testa coperta di bende.	Tom's head is covered with bandages.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-badante		badante	NOUN		1	1e-06	1	1e-06	badante	NOUN	S	obl	Gender=Fem|Number=Sing	7399a401-62ce-5a2a-be74-3f5e205c89ba	9d81eb60-b6ee-5dee-9c30-ecbb7563554e	Mia madre si è fatta male, devo farle da badante.	My mother got injured, I need to be her carer.				
+badante	bah-DAHN-teh	badante	NOUN	caregiver; home aide	1	1e-06	1	1e-06	badante	NOUN	S	obl	Gender=Fem|Number=Sing	7399a401-62ce-5a2a-be74-3f5e205c89ba	9d81eb60-b6ee-5dee-9c30-ecbb7563554e	Mia madre si è fatta male, devo farle da badante.	My mother got injured, I need to be her carer.				

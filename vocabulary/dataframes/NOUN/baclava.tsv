@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-baclava		baclava	NOUN		1	1e-06	1	1e-06	baclava	NOUN	S	nsubj	Gender=Masc|Number=Plur	749ebc87-0d4f-58f2-b8b1-f5694d931a61	5166461a-1d77-5f2e-891a-39b0b930ca71	Mi piacciono i baclava.	I like baclava.				
+baclava	bah-KLAH-vah	baclava	NOUN	baklavas	1	1e-06	1	1e-06	baclava	NOUN	S	nsubj	Gender=Masc|Number=Plur	749ebc87-0d4f-58f2-b8b1-f5694d931a61	5166461a-1d77-5f2e-891a-39b0b930ca71	Mi piacciono i baclava.	I like baclava.				

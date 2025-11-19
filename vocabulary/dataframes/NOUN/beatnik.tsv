@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-beatnik		beatnik	NOUN		1	1e-06	1	1e-06	beatnik	NOUN	S	root	Gender=Masc	93d1b19f-d306-56f0-8ec7-5bc9c8b63337	49e76e47-e902-5c81-8d29-93eeabcff334	Tom è un beatnik.	Tom is a beatnik.				
+beatnik	BEHAHT-neek	beatnik	NOUN	beatnik	1	1e-06	1	1e-06	beatnik	NOUN	S	root	Gender=Masc	93d1b19f-d306-56f0-8ec7-5bc9c8b63337	49e76e47-e902-5c81-8d29-93eeabcff334	Tom è un beatnik.	Tom is a beatnik.				
