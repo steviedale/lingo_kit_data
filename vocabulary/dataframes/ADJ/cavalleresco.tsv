@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cavalleresco		cavalleresco	ADJ		1	1e-06	1	1e-06	cavalleresco	ADJ	A	amod	Gender=Masc|Number=Sing	e6a90f00-509f-5eb5-a48e-383d2b777edf	0841fd4f-9aa5-5519-bdd1-e85385f5e3da	Il signor Tanaka è un uomo cavalleresco.	Mr Tanaka is a chivalrous man.				
+cavalleresco	kah-vahl-leh-REH-skoh	cavalleresco	ADJ	chivalrous	1	1e-06	1	1e-06	cavalleresco	ADJ	A	amod	Gender=Masc|Number=Sing	e6a90f00-509f-5eb5-a48e-383d2b777edf	0841fd4f-9aa5-5519-bdd1-e85385f5e3da	Il signor Tanaka è un uomo cavalleresco.	Mr Tanaka is a chivalrous man.				

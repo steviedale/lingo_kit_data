@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-bruciate		bruciato	ADJ		1	1e-06	1	1e-06	bruciato	ADJ	A	amod	Gender=Fem|Number=Plur	02040628-a2b2-529c-8a70-368310b7bc28	e259d89f-9b98-5009-8db7-5f8fa82c1f40	Questa pianta ha alcune foglie bruciate.	This plant has some burnt leaves.				
+bruciate	broo-CHYAH-teh	bruciato	ADJ	burnt; scorched (plural)	1	1e-06	1	1e-06	bruciato	ADJ	A	amod	Gender=Fem|Number=Plur	02040628-a2b2-529c-8a70-368310b7bc28	e259d89f-9b98-5009-8db7-5f8fa82c1f40	Questa pianta ha alcune foglie bruciate.	This plant has some burnt leaves.				

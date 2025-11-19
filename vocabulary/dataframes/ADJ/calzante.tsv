@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-calzante		calzante	ADJ		1	1e-06	1	1e-06	calzante	ADJ	A	amod	Number=Sing	e70e9ffa-6deb-553f-97f5-a8eb88612711	d5b8c2e6-6628-590c-ad88-6c742cf6c290	Credo che questo sia un esempio calzante.	I believe this is a case in point.				
+calzante	kahl-TSAHN-teh	calzante	ADJ	well-fitting; apt	1	1e-06	1	1e-06	calzante	ADJ	A	amod	Number=Sing	e70e9ffa-6deb-553f-97f5-a8eb88612711	d5b8c2e6-6628-590c-ad88-6c742cf6c290	Credo che questo sia un esempio calzante.	I believe this is a case in point.				

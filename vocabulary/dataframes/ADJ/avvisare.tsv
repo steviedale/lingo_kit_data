@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-avvisato		avvisare	ADJ		1	1e-06	1	1e-06	avvisare	ADJ	A	amod	Gender=Masc|Number=Sing	38e99e89-bcbe-547b-a374-0a76ac0de7cf	d9f075cf-3198-5acf-938f-f8b76b28d1f5	Uomo avvisato è mezzo salvato.	Forewarned is forearmed.				
+avvisato	ahv-vee-SAH-toh	avvisare	ADJ	forewarned; alerted	1	1e-06	1	1e-06	avvisare	ADJ	A	amod	Gender=Masc|Number=Sing	38e99e89-bcbe-547b-a374-0a76ac0de7cf	d9f075cf-3198-5acf-938f-f8b76b28d1f5	Uomo avvisato è mezzo salvato.	Forewarned is forearmed.				

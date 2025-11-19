@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-caduti		cadere	ADJ		1	1e-06	1	1e-06	cadere	ADJ	A	amod	Gender=Masc|Number=Plur	1007f8a0-48e3-5aec-bc66-3200865f0c6a	28067d44-d873-5eb9-b968-b0b586baf0d9	La strada era ostruita da degli alberi caduti.	The road was obstructed by fallen trees.				
+caduti	kah-DOO-tee	cadere	ADJ	fallen; dropped (plural)	1	1e-06	1	1e-06	cadere	ADJ	A	amod	Gender=Masc|Number=Plur	1007f8a0-48e3-5aec-bc66-3200865f0c6a	28067d44-d873-5eb9-b968-b0b586baf0d9	La strada era ostruita da degli alberi caduti.	The road was obstructed by fallen trees.				

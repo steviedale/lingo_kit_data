@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-audio		audio	ADJ		1	1e-06	1	1e-06	audio	ADJ	A	amod		8548e0f1-c955-56e3-946b-02b0850bb7a2	d1c0aad0-67a9-54ae-bd49-6c1b12cdb942	Le registrazioni audio delle frasi di Tatoeba sono fornite da Shtooka.	Audio in Tatoeba sentences are provided by Shtooka.				
+audio	OW-dyoh	audio	ADJ	audio; sound-related	1	1e-06	1	1e-06	audio	ADJ	A	amod		8548e0f1-c955-56e3-946b-02b0850bb7a2	d1c0aad0-67a9-54ae-bd49-6c1b12cdb942	Le registrazioni audio delle frasi di Tatoeba sono fornite da Shtooka.	Audio in Tatoeba sentences are provided by Shtooka.				

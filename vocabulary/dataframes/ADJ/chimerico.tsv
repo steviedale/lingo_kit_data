@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-chimerico		chimerico	ADJ		1	1e-06	1	1e-06	chimerico	ADJ	A	root	Gender=Masc|Number=Sing	d67b0965-d929-5bcb-a7df-6446231025db	b8e51499-d933-5f26-9290-cc43053e00c8	Tom è chimerico.	Tom is being unrealistic.				
+chimerico	kee-meh-REE-koh	chimerico	ADJ	chimerical; fanciful	1	1e-06	1	1e-06	chimerico	ADJ	A	root	Gender=Masc|Number=Sing	d67b0965-d929-5bcb-a7df-6446231025db	b8e51499-d933-5f26-9290-cc43053e00c8	Tom è chimerico.	Tom is being unrealistic.				

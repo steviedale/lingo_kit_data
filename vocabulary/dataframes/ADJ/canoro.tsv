@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-canoro		canoro	ADJ		1	1e-06	1	1e-06	canoro	ADJ	A	amod	Gender=Masc|Number=Sing	fa4f2f56-d702-5be1-be56-a3f637207f5a	88603cc9-c121-5925-96bf-0be9928ea4e2	Ci sono molti cantanti a questo festival canoro.	There are many singers in this singing festival.				
+canoro	kah-NOH-roh	canoro	ADJ	melodious; singing	1	1e-06	1	1e-06	canoro	ADJ	A	amod	Gender=Masc|Number=Sing	fa4f2f56-d702-5be1-be56-a3f637207f5a	88603cc9-c121-5925-96bf-0be9928ea4e2	Ci sono molti cantanti a questo festival canoro.	There are many singers in this singing festival.				

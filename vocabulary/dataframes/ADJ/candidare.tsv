@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-candidi		candidare	ADJ		2	2e-06	2	2e-06	candidare	ADJ	A	root	Gender=Masc|Number=Plur	41b9b280-8c4e-55e9-83cf-f4bb77f244c7	832dbfc4-3dc5-5cdb-bac4-fa90eb12e6f4	Siamo candidi.	Let's be candid.	Noi siamo candidi.	We're candid.		
+candidi	kahn-DEE-dee	candidare	ADJ	nominated; put forward (plural)	2	2e-06	2	2e-06	candidare	ADJ	A	root	Gender=Masc|Number=Plur	41b9b280-8c4e-55e9-83cf-f4bb77f244c7	832dbfc4-3dc5-5cdb-bac4-fa90eb12e6f4	Siamo candidi.	Let's be candid.	Noi siamo candidi.	We're candid.		

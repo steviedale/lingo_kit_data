@@ -1,3 +1,3 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-brutale		brutale	ADJ		4	4e-06	5	5e-06	brutale	ADJ	A	root	Number=Sing	98496e4b-0e46-5ff5-a8a5-f5307d32be80	9972fbe3-8ef5-569c-90e6-fb4971fe2559	È brutale.	It's brutal.	Lei è brutale.	She's brutal.	Sarà brutale.	It's going to be brutal.
-brutali		brutale	ADJ		1	1e-06	5	5e-06	brutale	ADJ	A	root	Number=Plur	f4273b50-90e6-51a5-9273-3f4a52ae6151	9972fbe3-8ef5-569c-90e6-fb4971fe2559	Sono sufficientemente brutali?	Are they brutal enough?				
+brutale	broo-TAH-leh	brutale	ADJ	brutal; cruel	4	4e-06	5	5e-06	brutale	ADJ	A	root	Number=Sing	98496e4b-0e46-5ff5-a8a5-f5307d32be80	9972fbe3-8ef5-569c-90e6-fb4971fe2559	È brutale.	It's brutal.	Lei è brutale.	She's brutal.	Sarà brutale.	It's going to be brutal.
+brutali	broo-TAH-lee	brutale	ADJ	brutal; cruel (plural)	1	1e-06	5	5e-06	brutale	ADJ	A	root	Number=Plur	f4273b50-90e6-51a5-9273-3f4a52ae6151	9972fbe3-8ef5-569c-90e6-fb4971fe2559	Sono sufficientemente brutali?	Are they brutal enough?				

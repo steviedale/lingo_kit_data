@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-carina		carina	ADJ		1	1e-06	1	1e-06	carina	ADJ	A	root	Gender=Fem|Number=Sing	395effc6-4ac5-5fcd-a5f6-8c67f3dc3fa5	58f3bc6e-5386-5ef6-b183-3c67d23ed39a	Carina, vero?	Pretty, isn't it?				
+carina	kah-REE-nah	carina	ADJ	pretty; cute	1	1e-06	1	1e-06	carina	ADJ	A	root	Gender=Fem|Number=Sing	395effc6-4ac5-5fcd-a5f6-8c67f3dc3fa5	58f3bc6e-5386-5ef6-b183-3c67d23ed39a	Carina, vero?	Pretty, isn't it?				

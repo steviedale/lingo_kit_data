@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-azzurrognolo		azzurrognolo	ADJ		1	1e-06	1	1e-06	azzurrognolo	ADJ	A	root	Gender=Masc|Number=Sing	ce8ea8b6-840d-504c-8da4-ca12bbc5a72a	163cedd7-9bd5-5ff1-927a-29d9a07eafe6	Questo zaino è azzurrognolo.	This backpack is blue-ish.				
+azzurrognolo	ahts-tsoor-roh-NYOH-loh	azzurrognolo	ADJ	bluish; sky-blueish	1	1e-06	1	1e-06	azzurrognolo	ADJ	A	root	Gender=Masc|Number=Sing	ce8ea8b6-840d-504c-8da4-ca12bbc5a72a	163cedd7-9bd5-5ff1-927a-29d9a07eafe6	Questo zaino è azzurrognolo.	This backpack is blue-ish.				

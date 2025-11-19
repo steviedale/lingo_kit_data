@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-candide		candido	ADJ		2	2e-06	2	2e-06	candido	ADJ	A	root	Gender=Fem|Number=Plur	f09f9d1e-7cea-5434-8be3-a4b296704683	5c2e72c5-c313-5b24-9dd5-3ebd6808b6bd	Noi siamo candide.	We're candid.	Siamo candide.	Let's be candid.		
+candide	kahn-DEE-deh	candido	ADJ	candid; pure; white (plural)	2	2e-06	2	2e-06	candido	ADJ	A	root	Gender=Fem|Number=Plur	f09f9d1e-7cea-5434-8be3-a4b296704683	5c2e72c5-c313-5b24-9dd5-3ebd6808b6bd	Noi siamo candide.	We're candid.	Siamo candide.	Let's be candid.		

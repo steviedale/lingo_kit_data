@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-bui		bui	ADJ		1	1e-06	1	1e-06	bui	ADJ	A	amod	Gender=Masc|Number=Plur	35613c50-510a-5e67-9590-7466de8ffdb1	38cdd55e-bab3-583b-ab55-90a3aff8520d	I gatti possono vedere anche in luoghi bui.	Cats can see even in dark places.				
+bui	BWEE	bui	ADJ	dark (plural)	1	1e-06	1	1e-06	bui	ADJ	A	amod	Gender=Masc|Number=Plur	35613c50-510a-5e67-9590-7466de8ffdb1	38cdd55e-bab3-583b-ab55-90a3aff8520d	I gatti possono vedere anche in luoghi bui.	Cats can see even in dark places.				

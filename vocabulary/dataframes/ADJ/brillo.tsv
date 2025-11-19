@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-brillo		brillo	ADJ		2	2e-06	2	2e-06	brillo	ADJ	A	root	Gender=Masc|Number=Sing	a2a8c6cc-bec2-582b-b01a-156e34c651b8	c4376ef2-54a9-53bf-a3d7-8599f4ddd585	Tom è un po' brillo.	Tom is a little tipsy.	Tom è brillo.	Tom's tipsy.		
+brillo	BREEL-loh	brillo	ADJ	tipsy; buzzed	2	2e-06	2	2e-06	brillo	ADJ	A	root	Gender=Masc|Number=Sing	a2a8c6cc-bec2-582b-b01a-156e34c651b8	c4376ef2-54a9-53bf-a3d7-8599f4ddd585	Tom è un po' brillo.	Tom is a little tipsy.	Tom è brillo.	Tom's tipsy.		
