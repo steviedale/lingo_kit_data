@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-alluminio		alluminio	NOUN		1	1e-06	1	1e-06	alluminio	NOUN	S	nsubj	Gender=Masc|Number=Sing	c0b98e66-266d-5887-a91b-92603d0f3c71	e5b25b87-37df-5ff2-91e7-088fdf0b17d2	L'alluminio è un metallo.	Aluminium is a metal.				
+alluminio	ahl-loo-MEE-nyoh	alluminio	NOUN	aluminum	1	1e-06	1	1e-06	alluminio	NOUN	S	nsubj	Gender=Masc|Number=Sing	c0b98e66-266d-5887-a91b-92603d0f3c71	e5b25b87-37df-5ff2-91e7-088fdf0b17d2	L'alluminio è un metallo.	Aluminium is a metal.				

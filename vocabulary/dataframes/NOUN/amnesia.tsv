@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-amnesie		amnesia	NOUN		2	2e-06	2	2e-06	amnesia	NOUN	S	obl	Gender=Fem|Number=Plur	55cc713a-7a03-5914-9538-62ef2c60ad46	e518b0ee-1669-59ea-9ad6-4f47d4dfba55	Io soffro di amnesie.	I have amnesia.	Soffro di amnesie.	I have amnesia.		
+amnesie	ahm-NEH-syeh	amnesia	NOUN	amnesias	2	2e-06	2	2e-06	amnesia	NOUN	S	obl	Gender=Fem|Number=Plur	55cc713a-7a03-5914-9538-62ef2c60ad46	e518b0ee-1669-59ea-9ad6-4f47d4dfba55	Io soffro di amnesie.	I have amnesia.	Soffro di amnesie.	I have amnesia.		

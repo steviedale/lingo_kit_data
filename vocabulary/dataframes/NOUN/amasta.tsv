@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-amaste		amasta	NOUN		2	2e-06	2	2e-06	amasta	NOUN	S	nsubj	Gender=Fem|Number=Plur	0dfd73a7-4ab9-5362-bb39-ad2965ed683f	661d9212-e204-5920-a673-963d4ca08949	Pensavo la amaste.	I thought you loved it.	Pensavo lo amaste.	I thought you loved it.		
+amaste	ah-MAH-steh	amasta	NOUN	you loved (plural)	2	2e-06	2	2e-06	amasta	NOUN	S	nsubj	Gender=Fem|Number=Plur	0dfd73a7-4ab9-5362-bb39-ad2965ed683f	661d9212-e204-5920-a673-963d4ca08949	Pensavo la amaste.	I thought you loved it.	Pensavo lo amaste.	I thought you loved it.		

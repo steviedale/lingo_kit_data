@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-amplificatore		amplificatore	NOUN		1	1e-06	1	1e-06	amplificatore	NOUN	S	nsubj	Gender=Masc|Number=Sing	af1b65b3-db22-504f-adae-fe0ebdc9e896	5d6b79ba-8e56-550c-9001-81c57ca7465e	Quell'amplificatore non funziona.	That amplifier doesn't work.				
+amplificatore	ahm-plee-fee-kah-TOH-reh	amplificatore	NOUN	amplifier	1	1e-06	1	1e-06	amplificatore	NOUN	S	nsubj	Gender=Masc|Number=Sing	af1b65b3-db22-504f-adae-fe0ebdc9e896	5d6b79ba-8e56-550c-9001-81c57ca7465e	Quell'amplificatore non funziona.	That amplifier doesn't work.				

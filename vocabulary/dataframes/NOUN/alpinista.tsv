@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-alpinista		alpinista	NOUN		1	1e-06	1	1e-06	alpinista	NOUN	S	nsubj	Number=Sing	7e18f0c4-363b-5a68-be1d-d4dda766cdfd	23a8e293-8cd1-560d-b1eb-c8f8dfc7dc76	L'alpinista aveva una fame da lupi.	The mountaineer was hungry as a wolf.				
+alpinista	ahl-pee-NEE-stah	alpinista	NOUN	mountaineer; alpinist	1	1e-06	1	1e-06	alpinista	NOUN	S	nsubj	Number=Sing	7e18f0c4-363b-5a68-be1d-d4dda766cdfd	23a8e293-8cd1-560d-b1eb-c8f8dfc7dc76	L'alpinista aveva una fame da lupi.	The mountaineer was hungry as a wolf.				

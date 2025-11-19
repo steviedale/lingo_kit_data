@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ammonio		ammonio	NOUN		1	1e-06	1	1e-06	ammonio	NOUN	S	nmod	Gender=Masc|Number=Sing	dee2562b-62bf-5339-9a91-ba98ac137540	1b32d917-f926-575f-8a06-772a7c636605	Il carbonato di ammonio è un composto organico.	Ammonium carbonate is an organic compound.				
+ammonio	ahm-MOH-nyoh	ammonio	NOUN	ammonium	1	1e-06	1	1e-06	ammonio	NOUN	S	nmod	Gender=Masc|Number=Sing	dee2562b-62bf-5339-9a91-ba98ac137540	1b32d917-f926-575f-8a06-772a7c636605	Il carbonato di ammonio è un composto organico.	Ammonium carbonate is an organic compound.				

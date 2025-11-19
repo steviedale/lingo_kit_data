@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-annaffia		annaffia	NOUN		1	1e-06	1	1e-06	annaffia	NOUN	S	ccomp	Gender=Fem|Number=Sing	c63418d2-1e97-5f49-ae3e-1eb486172610	fc01d1ae-7c77-50c0-842c-7f1567400125	Quella rosa ravviverà se la annaffia.	That rose will revive if you water it.				
+annaffia	ahn-NAHF-fyah	annaffia	NOUN	she waters	1	1e-06	1	1e-06	annaffia	NOUN	S	ccomp	Gender=Fem|Number=Sing	c63418d2-1e97-5f49-ae3e-1eb486172610	fc01d1ae-7c77-50c0-842c-7f1567400125	Quella rosa ravviverà se la annaffia.	That rose will revive if you water it.				
