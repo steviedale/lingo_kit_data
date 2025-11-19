@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-presagio		presagio	NOUN		1	1e-06	1	1e-06	presagio	NOUN	S	root	Gender=Masc|Number=Sing	b15b9e15-d58b-5bb3-b755-8eee7c3ef5f0	856f6a20-5b92-50ac-a38f-5cdf9ec70793	La sua pigrizia è un cattivo presagio per il futuro.	His laziness is a bad omen for the future.				
+presagio	preh-SAH-jyoh	presagio	NOUN	bad	1	1e-06	1	1e-06	presagio	NOUN	S	root	Gender=Masc|Number=Sing	b15b9e15-d58b-5bb3-b755-8eee7c3ef5f0	856f6a20-5b92-50ac-a38f-5cdf9ec70793	La sua pigrizia è un cattivo presagio per il futuro.	His laziness is a bad omen for the future.				

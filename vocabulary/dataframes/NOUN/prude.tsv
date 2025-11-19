@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-prude		prude	NOUN		7	7e-06	7	7e-06	prude	NOUN	S	root	Gender=Masc|Number=Sing	8938e9c0-a923-5af9-837c-db28d91c69fe	e226f5e0-b6c9-5177-844d-557934f1ac67	Lei è una prude.	You're a prude.	Lei è un prude.	You're a prude.	È una prude.	You're a prude.
+prude	PROO-deh	prude	NOUN	prude	7	7e-06	7	7e-06	prude	NOUN	S	root	Gender=Masc|Number=Sing	8938e9c0-a923-5af9-837c-db28d91c69fe	e226f5e0-b6c9-5177-844d-557934f1ac67	Lei è una prude.	You're a prude.	Lei è un prude.	You're a prude.	È una prude.	You're a prude.

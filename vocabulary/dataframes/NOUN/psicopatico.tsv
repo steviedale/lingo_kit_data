@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-psicopatico		psicopatico	NOUN		1	1e-06	1	1e-06	psicopatico	NOUN	S	root	Gender=Masc|Number=Sing	a06044a1-16d6-5c10-90e7-ce3b07c188b2	46604b71-bc7a-5504-8166-25aeadc1c11d	Lui è uno psicopatico.	He is a psycho.				
+psicopatico	psee-koh-pah-TEE-koh	psicopatico	NOUN	psycho	1	1e-06	1	1e-06	psicopatico	NOUN	S	root	Gender=Masc|Number=Sing	a06044a1-16d6-5c10-90e7-ce3b07c188b2	46604b71-bc7a-5504-8166-25aeadc1c11d	Lui è uno psicopatico.	He is a psycho.				

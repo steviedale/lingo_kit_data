@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-presidentessa		presidentessa	NOUN		1	1e-06	1	1e-06	presidentessa	NOUN	S	xcomp	Gender=Fem|Number=Sing	5f9e0f18-973f-56c0-ad77-d331d50803f5	b7339f57-bd67-5770-870b-9873923a84de	Fu nominata presidentessa.	She was appointed chairperson.				
+presidentessa	preh-see-dehn-TEHS-sah	presidentessa	NOUN	appointed	1	1e-06	1	1e-06	presidentessa	NOUN	S	xcomp	Gender=Fem|Number=Sing	5f9e0f18-973f-56c0-ad77-d331d50803f5	b7339f57-bd67-5770-870b-9873923a84de	Fu nominata presidentessa.	She was appointed chairperson.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-passe		passe	NOUN		1	1e-06	1	1e-06	passe	NOUN	S	obj	Gender=Masc	982fafb8-fc4e-5815-b968-09d07decb103	bcc65c7e-a097-51a9-a9e6-854761aaaa15	Ho il passe-partout.	I have the master key.				
+passe	PAHS-seh	passe	NOUN	master	1	1e-06	1	1e-06	passe	NOUN	S	obj	Gender=Masc	982fafb8-fc4e-5815-b968-09d07decb103	bcc65c7e-a097-51a9-a9e6-854761aaaa15	Ho il passe-partout.	I have the master key.				

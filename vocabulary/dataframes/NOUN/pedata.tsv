@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pedata		pedata	NOUN		1	1e-06	1	1e-06	pedata	NOUN	S	obj	Gender=Fem|Number=Sing	584057ca-04d6-57ca-a6cc-59290f76df13	9e3bf865-31d2-5452-a4c4-063fc1f523ba	Appena sono uscito, ho tirato una pedata contro al muro.	As soon as I got out, I kicked the wall.				
+pedata	peh-DAH-tah	pedata	NOUN	kicked	1	1e-06	1	1e-06	pedata	NOUN	S	obj	Gender=Fem|Number=Sing	584057ca-04d6-57ca-a6cc-59290f76df13	9e3bf865-31d2-5452-a4c4-063fc1f523ba	Appena sono uscito, ho tirato una pedata contro al muro.	As soon as I got out, I kicked the wall.				

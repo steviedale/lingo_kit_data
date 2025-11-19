@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-prototipo		prototipo	NOUN		1	1e-06	1	1e-06	prototipo	NOUN	S	nmod	Gender=Masc|Number=Sing	86f4cc01-c51f-52e9-ab6e-0273aba93b63	dfdb5634-8f6f-5a3d-89f7-2b3711588732	Ecco la posizione del prototipo.	Here is the location of the prototype.				
+prototipo	proh-toh-TEE-poh	prototipo	NOUN	prototype	1	1e-06	1	1e-06	prototipo	NOUN	S	nmod	Gender=Masc|Number=Sing	86f4cc01-c51f-52e9-ab6e-0273aba93b63	dfdb5634-8f6f-5a3d-89f7-2b3711588732	Ecco la posizione del prototipo.	Here is the location of the prototype.				

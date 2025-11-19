@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pedofilia		pedofilia	NOUN		1	1e-06	1	1e-06	pedofilia	NOUN	S	nsubj	Gender=Fem|Number=Sing	4dc8b7d3-2897-52a8-8536-ed38db7029bd	afd1c1f9-7662-514d-b419-5b8e598d7351	La pedofilia è un reato.	Pedophilia is a crime.				
+pedofilia	peh-doh-FEE-lyah	pedofilia	NOUN	pedophilia	1	1e-06	1	1e-06	pedofilia	NOUN	S	nsubj	Gender=Fem|Number=Sing	4dc8b7d3-2897-52a8-8536-ed38db7029bd	afd1c1f9-7662-514d-b419-5b8e598d7351	La pedofilia è un reato.	Pedophilia is a crime.				

@@ -1,3 +1,3 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-puzzo		puzzo	NOUN		1	1e-06	2	2e-06	puzzo	NOUN	S	advcl	Gender=Masc|Number=Sing	38cf8982-eaa7-56ab-9db8-f949d13868cf	44295598-a055-5653-a2d3-86d236ee2a4d	Vado a farmi la doccia perché puzzo.	I'm going to take a shower because I stink.				
-puzzi		puzzo	NOUN		1	1e-06	2	2e-06	puzzo	NOUN	S	root	Gender=Fem|Number=Sing	e87c4073-bd76-5a0f-8be9-214687ac74ee	44295598-a055-5653-a2d3-86d236ee2a4d	Puzzi sul serio.	You really stink.				
+puzzo	POOTS-tsoh	puzzo	NOUN	stink (masculine)	1	1e-06	2	2e-06	puzzo	NOUN	S	advcl	Gender=Masc|Number=Sing	38cf8982-eaa7-56ab-9db8-f949d13868cf	44295598-a055-5653-a2d3-86d236ee2a4d	Vado a farmi la doccia perché puzzo.	I'm going to take a shower because I stink.				
+puzzi	POOTS-tsee	puzzo	NOUN	stink (feminine)	1	1e-06	2	2e-06	puzzo	NOUN	S	root	Gender=Fem|Number=Sing	e87c4073-bd76-5a0f-8be9-214687ac74ee	44295598-a055-5653-a2d3-86d236ee2a4d	Puzzi sul serio.	You really stink.				

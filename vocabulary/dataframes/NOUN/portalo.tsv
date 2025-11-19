@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-portalo		portalo	NOUN		1	1e-06	1	1e-06	portalo	NOUN	S	conj	Gender=Masc|Number=Sing	c211998a-3541-5f44-85d1-530b9b200951	bc63b9a2-09b4-57fa-b752-6d5f22a3b7ce	Catturalo e portalo a Darwin.	Catch it and bring it to Darwin.				
+portalo	pohr-TAH-loh	portalo	NOUN	bring	1	1e-06	1	1e-06	portalo	NOUN	S	conj	Gender=Masc|Number=Sing	c211998a-3541-5f44-85d1-530b9b200951	bc63b9a2-09b4-57fa-b752-6d5f22a3b7ce	Catturalo e portalo a Darwin.	Catch it and bring it to Darwin.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-parlale		parlale	NOUN		1	1e-06	1	1e-06	parlale	NOUN	S	root	Gender=Masc|Number=Sing	f56f9c49-7bd0-5423-97b4-03582fb09bd3	1a71371d-b338-5844-8c5d-ec5ac638ac23	Parlale e basta.	Just talk to her.				
+parlale	pahr-LAH-leh	parlale	NOUN	talk	1	1e-06	1	1e-06	parlale	NOUN	S	root	Gender=Masc|Number=Sing	f56f9c49-7bd0-5423-97b4-03582fb09bd3	1a71371d-b338-5844-8c5d-ec5ac638ac23	Parlale e basta.	Just talk to her.				

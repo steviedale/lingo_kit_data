@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pale		pala	NOUN		1	1e-06	1	1e-06	pala	NOUN	S	nsubj	Gender=Fem|Number=Sing	32cb443c-e2f6-5f10-84af-5453d8285402	33e65c04-6c2d-518b-8a01-bfcb2d9b4568	La pale ale è una birra a basso contenuto alcolico.	Pale ale is a low-alcohol beer.				
+pale	PAH-leh	pala	NOUN	pale	1	1e-06	1	1e-06	pala	NOUN	S	nsubj	Gender=Fem|Number=Sing	32cb443c-e2f6-5f10-84af-5453d8285402	33e65c04-6c2d-518b-8a01-bfcb2d9b4568	La pale ale è una birra a basso contenuto alcolico.	Pale ale is a low-alcohol beer.				

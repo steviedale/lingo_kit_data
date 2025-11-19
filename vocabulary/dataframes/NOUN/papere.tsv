@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-papere		papere	NOUN		2	2e-06	2	2e-06	papere	NOUN	S	nsubj	Gender=Fem|Number=Plur	d513ddf5-89e7-50ea-a9dc-ec0246905568	bcabe4b5-fada-5700-b820-900759025ed9	Le papere hanno fatto qua qua.	The ducks quacked.	Le papere fecero qua qua.	The ducks quacked.		
+papere	pah-PEH-reh	papere	NOUN	ducks quacked	2	2e-06	2	2e-06	papere	NOUN	S	nsubj	Gender=Fem|Number=Plur	d513ddf5-89e7-50ea-a9dc-ec0246905568	bcabe4b5-fada-5700-b820-900759025ed9	Le papere hanno fatto qua qua.	The ducks quacked.	Le papere fecero qua qua.	The ducks quacked.		

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-papera		papera	NOUN		2	2e-06	2	2e-06	papera	NOUN	S	nsubj	Gender=Fem|Number=Sing	9416fab4-25de-512b-9691-0067d5d509ae	ac8bdd06-24e0-567e-8182-daf58b536efd	Sembra una papera.	It looks like a duck.	È simile a una papera.	It's similar to a duck.		
+papera	pah-PEH-rah	papera	NOUN	duck	2	2e-06	2	2e-06	papera	NOUN	S	nsubj	Gender=Fem|Number=Sing	9416fab4-25de-512b-9691-0067d5d509ae	ac8bdd06-24e0-567e-8182-daf58b536efd	Sembra una papera.	It looks like a duck.	È simile a una papera.	It's similar to a duck.		

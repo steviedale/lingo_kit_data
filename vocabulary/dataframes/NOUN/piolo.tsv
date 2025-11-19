@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pioli		piolo	NOUN		1	1e-06	1	1e-06	piolo	NOUN	S	nmod	Gender=Masc|Number=Plur	9821826d-b127-5477-af93-713b00b36eca	812d559c-1002-5098-9a0d-1f67efa411d7	Non salire su quella scala a pioli - non è sicura.	Don't climb that ladder – it's not secure.				
+pioli	PYOH-lee	piolo	NOUN	ladder	1	1e-06	1	1e-06	piolo	NOUN	S	nmod	Gender=Masc|Number=Plur	9821826d-b127-5477-af93-713b00b36eca	812d559c-1002-5098-9a0d-1f67efa411d7	Non salire su quella scala a pioli - non è sicura.	Don't climb that ladder – it's not secure.				

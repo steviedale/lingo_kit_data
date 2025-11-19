@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pass		pass	NOUN		6	6e-06	6	6e-06	pass	NOUN	S	obj	Gender=Masc	09c7fc97-6e18-52e6-96e1-145a633f5cc9	dbd89472-521c-5d3a-8e2e-04f02701e855	Io comprai un pass VIP.	I bought a VIP pass.	Comprai un pass VIP.	I bought a VIP pass.	Lei ha un pass VIP.	She has a VIP pass.
+pass	PAHSS	pass	NOUN	vip pass	6	6e-06	6	6e-06	pass	NOUN	S	obj	Gender=Masc	09c7fc97-6e18-52e6-96e1-145a633f5cc9	dbd89472-521c-5d3a-8e2e-04f02701e855	Io comprai un pass VIP.	I bought a VIP pass.	Comprai un pass VIP.	I bought a VIP pass.	Lei ha un pass VIP.	She has a VIP pass.

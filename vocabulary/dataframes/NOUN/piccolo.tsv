@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-piccolo		piccolo	NOUN		1	1e-06	1	1e-06	piccolo	NOUN	S	root	Gender=Masc|Number=Sing	bc853f7f-c180-5517-9026-338cc2c46ae1	9a7aa8cd-b246-5f88-b0e3-f1207444965b	Dov'è il tuo piccolo?	Where's your baby?				
+piccolo	peek-KOH-loh	piccolo	NOUN	baby	1	1e-06	1	1e-06	piccolo	NOUN	S	root	Gender=Masc|Number=Sing	bc853f7f-c180-5517-9026-338cc2c46ae1	9a7aa8cd-b246-5f88-b0e3-f1207444965b	Dov'è il tuo piccolo?	Where's your baby?				
