@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-man		mano	ADJ		1	1e-06	1	1e-06	mano	ADJ	A	amod	Gender=Fem|Number=Sing	ce9d8499-9439-507f-9c58-cd5e5e0c7e33	2a9df72d-808c-520a-8258-d14747f85b44	Diventava sempre più bella man mano che cresceva.	She became more and more beautiful as she grew older.				
+man	MAHN	mano	ADJ	gradually; little by little	1	1e-06	1	1e-06	mano	ADJ	A	amod	Gender=Fem|Number=Sing	ce9d8499-9439-507f-9c58-cd5e5e0c7e33	2a9df72d-808c-520a-8258-d14747f85b44	Diventava sempre più bella man mano che cresceva.	She became more and more beautiful as she grew older.				

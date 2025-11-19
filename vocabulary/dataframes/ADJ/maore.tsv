@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-maori		maore	ADJ		1	1e-06	1	1e-06	maore	ADJ	A	amod	Number=Sing	23bf83d8-fe3a-584a-a875-774d7193bdf1	94bef266-a7cc-5528-9112-e5f644123296	La lingua maori è parlata in Nuova Zelanda.	The Maori language is spoken in New Zealand.				
+maori	MAHOH-ree	maore	ADJ	Maori	1	1e-06	1	1e-06	maore	ADJ	A	amod	Number=Sing	23bf83d8-fe3a-584a-a875-774d7193bdf1	94bef266-a7cc-5528-9112-e5f644123296	La lingua maori è parlata in Nuova Zelanda.	The Maori language is spoken in New Zealand.				

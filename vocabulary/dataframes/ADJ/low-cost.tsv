@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-low-cost		low-cost	ADJ		1	1e-06	1	1e-06	low-cost	ADJ	A	amod		c79b41da-a19c-5509-883e-1b17c41d43e6	98bb1b84-6655-56c1-8037-c677a8e91486	Le compagnie aeree low-cost hanno una cattiva reputazione.	No-frills airlines have a bad reputation.				
+low-cost	LOHW-KOHST	low-cost	ADJ	low-cost; budget	1	1e-06	1	1e-06	low-cost	ADJ	A	amod		c79b41da-a19c-5509-883e-1b17c41d43e6	98bb1b84-6655-56c1-8037-c677a8e91486	Le compagnie aeree low-cost hanno una cattiva reputazione.	No-frills airlines have a bad reputation.				

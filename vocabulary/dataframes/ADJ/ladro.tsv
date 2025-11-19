@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ladro		ladro	ADJ		1	1e-06	1	1e-06	ladro	ADJ	A	amod	Gender=Masc|Number=Sing	5f8be27d-34e2-57da-adbf-66021eafe680	a4a96884-584c-55ed-9674-f785b72126fd	Il sospetto ladro è ora sotto processo.	The accused thief is on trial now.				
+ladro	LAH-droh	ladro	ADJ	thieving; thievish	1	1e-06	1	1e-06	ladro	ADJ	A	amod	Gender=Masc|Number=Sing	5f8be27d-34e2-57da-adbf-66021eafe680	a4a96884-584c-55ed-9674-f785b72126fd	Il sospetto ladro è ora sotto processo.	The accused thief is on trial now.				
