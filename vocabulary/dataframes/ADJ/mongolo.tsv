@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-mongolo		mongolo	ADJ		1	1e-06	1	1e-06	mongolo	ADJ	A	amod	Gender=Masc|Number=Sing	c2b8bdd6-b2db-5867-974b-a551f02e1832	8b9f9381-4a17-5ea0-b42b-cdcb906d5666	L'esercito mongolo si avvicinò alla città.	The Mongolian army approached the city.				
+mongolo	mohn-GOH-loh	mongolo	ADJ	Mongolian; Mongol (masculine)	1	1e-06	1	1e-06	mongolo	ADJ	A	amod	Gender=Masc|Number=Sing	c2b8bdd6-b2db-5867-974b-a551f02e1832	8b9f9381-4a17-5ea0-b42b-cdcb906d5666	L'esercito mongolo si avvicinò alla città.	The Mongolian army approached the city.				

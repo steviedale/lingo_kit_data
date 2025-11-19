@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ottomano		ottomano	ADJ		1	1e-06	1	1e-06	ottomano	ADJ	A	amod	Gender=Masc|Number=Sing	56fb0fec-08ca-5a10-b532-5716c5f877c5	8b9aea6b-0938-5ec5-952f-ee631c77a7bf	La Turchia è l'erede dell'Impero Ottomano.	Turkey is the heir of the Ottoman Empire.				
+ottomano	oht-toh-MAH-noh	ottomano	ADJ	Ottoman; Turkish (masculine)	1	1e-06	1	1e-06	ottomano	ADJ	A	amod	Gender=Masc|Number=Sing	56fb0fec-08ca-5a10-b532-5716c5f877c5	8b9aea6b-0938-5ec5-952f-ee631c77a7bf	La Turchia è l'erede dell'Impero Ottomano.	Turkey is the heir of the Ottoman Empire.				

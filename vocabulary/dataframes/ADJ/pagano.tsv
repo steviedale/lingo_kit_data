@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pagana		pagano	ADJ		1	1e-06	1	1e-06	pagano	ADJ	A	amod	Gender=Fem|Number=Sing	63c5de4f-7e90-5f76-8950-3c675cca0890	98a97c04-fc0d-556a-8d6b-157aa88b69fe	La Pasqua è una vacanza pagana.	Easter is a pagan holiday.				
+pagana	pah-GAH-nah	pagano	ADJ	pagan (feminine)	1	1e-06	1	1e-06	pagano	ADJ	A	amod	Gender=Fem|Number=Sing	63c5de4f-7e90-5f76-8950-3c675cca0890	98a97c04-fc0d-556a-8d6b-157aa88b69fe	La Pasqua è una vacanza pagana.	Easter is a pagan holiday.				

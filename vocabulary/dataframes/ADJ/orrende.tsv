@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-orrendi		orrende	ADJ		1	1e-06	1	1e-06	orrende	ADJ	A	root	Gender=Masc|Number=Plur	f0f64ec3-b5c7-5597-9dc7-b7b0613dc5be	8dbe9dca-e832-5b08-91c8-540053df8f60	Siete orrendi.	You're horrible.				
+orrendi	ohr-REHN-dee	orrende	ADJ	horrendous; dreadful (masculine plural)	1	1e-06	1	1e-06	orrende	ADJ	A	root	Gender=Masc|Number=Plur	f0f64ec3-b5c7-5597-9dc7-b7b0613dc5be	8dbe9dca-e832-5b08-91c8-540053df8f60	Siete orrendi.	You're horrible.				
