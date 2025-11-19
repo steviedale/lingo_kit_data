@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-autovelox		autovelox	NOUN		1	1e-06	1	1e-06	autovelox	NOUN	S	nsubj	Gender=Masc	0ffbec0f-5929-524b-887b-9f3a217be4f3	07312e28-ea7f-5054-940a-cdccc98a3ad1	Occhio! C'è un autovelox.	Watch out! There's a speed camera.				
+autovelox	ow-toh-VEH-lohks	autovelox	NOUN	speed camera	1	1e-06	1	1e-06	autovelox	NOUN	S	nsubj	Gender=Masc	0ffbec0f-5929-524b-887b-9f3a217be4f3	07312e28-ea7f-5054-940a-cdccc98a3ad1	Occhio! C'è un autovelox.	Watch out! There's a speed camera.				

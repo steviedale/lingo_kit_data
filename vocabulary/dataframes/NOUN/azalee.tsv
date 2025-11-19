@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-azalee		azalee	NOUN		1	1e-06	1	1e-06	azalee	NOUN	S	obj	Gender=Fem|Number=Plur	a52f1ff3-8af3-55ee-8c34-88d2ab552e48	70a958ab-1823-59e8-8696-bf106687a4a0	Diversi giardinieri curano le azalee nel parco.	Several gardeners look after the azaleas in the park.				
+azalee	ah-zah-LEH-eh	azalee	NOUN	azaleas	1	1e-06	1	1e-06	azalee	NOUN	S	obj	Gender=Fem|Number=Plur	a52f1ff3-8af3-55ee-8c34-88d2ab552e48	70a958ab-1823-59e8-8696-bf106687a4a0	Diversi giardinieri curano le azalee nel parco.	Several gardeners look after the azaleas in the park.				

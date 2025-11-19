@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-asfissia		asfissia	NOUN		1	1e-06	1	1e-06	asfissia	NOUN	S	obl	Gender=Fem|Number=Sing	b95f48dc-aa33-5bb3-a7e4-bbe5a2b63d0c	941a8cb4-a7b5-5549-969c-24a5c3bf49c9	Il mio migliore amico è morto per asfissia.	My best friend died of asphyxiation.				
+asfissia	ahs-fee-SEE-ah	asfissia	NOUN	asphyxia	1	1e-06	1	1e-06	asfissia	NOUN	S	obl	Gender=Fem|Number=Sing	b95f48dc-aa33-5bb3-a7e4-bbe5a2b63d0c	941a8cb4-a7b5-5549-969c-24a5c3bf49c9	Il mio migliore amico è morto per asfissia.	My best friend died of asphyxiation.				

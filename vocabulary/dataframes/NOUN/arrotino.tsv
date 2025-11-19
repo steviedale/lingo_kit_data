@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-arrotino		arrotino	NOUN		1	1e-06	1	1e-06	arrotino	NOUN	S	nsubj	Gender=Masc|Number=Sing	f0ba73a9-a71c-5a3b-953b-8cac3fd8f00a	2a4def7b-cd0b-5da7-83ca-3668f330ef5f	Donne! È arrivato l'arrotino!	Women! The knife grinder is arrived!				
+arrotino	ahr-roh-TEE-noh	arrotino	NOUN	knife grinder	1	1e-06	1	1e-06	arrotino	NOUN	S	nsubj	Gender=Masc|Number=Sing	f0ba73a9-a71c-5a3b-953b-8cac3fd8f00a	2a4def7b-cd0b-5da7-83ca-3668f330ef5f	Donne! È arrivato l'arrotino!	Women! The knife grinder is arrived!				

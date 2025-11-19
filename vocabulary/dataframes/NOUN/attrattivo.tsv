@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-attrattiva		attrattivo	NOUN		1	1e-06	1	1e-06	attrattivo	NOUN	S	obj	Gender=Fem|Number=Sing	18de4e8d-b12e-5470-8017-2f25e9ab33e2	fa04c938-b173-5a24-b83b-abc71a716732	Il jazz, ha una qualche attrattiva per te?	Does jazz hold any appeal for you?				
+attrattiva	ah-trah-TEE-vah	attrattivo	NOUN	appeal; attraction	1	1e-06	1	1e-06	attrattivo	NOUN	S	obj	Gender=Fem|Number=Sing	18de4e8d-b12e-5470-8017-2f25e9ab33e2	fa04c938-b173-5a24-b83b-abc71a716732	Il jazz, ha una qualche attrattiva per te?	Does jazz hold any appeal for you?				

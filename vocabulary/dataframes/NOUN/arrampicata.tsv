@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-arrampicata		arrampicata	NOUN		1	1e-06	1	1e-06	arrampicata	NOUN	S	nsubj	Gender=Fem|Number=Sing	9adcb548-0260-5b49-a0b0-5e7e293c91de	e97c3cda-5ad3-5c44-97ff-0e788604c77f	L'arrampicata valeva la pena.	The climb was worth it.				
+arrampicata	ahr-rahm-pee-KAH-tah	arrampicata	NOUN	climbing	1	1e-06	1	1e-06	arrampicata	NOUN	S	nsubj	Gender=Fem|Number=Sing	9adcb548-0260-5b49-a0b0-5e7e293c91de	e97c3cda-5ad3-5c44-97ff-0e788604c77f	L'arrampicata valeva la pena.	The climb was worth it.				

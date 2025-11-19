@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-austerity		austerity	NOUN		1	1e-06	1	1e-06	austerity	NOUN	S	nmod	Gender=Fem	899cb50e-b201-5baf-a70c-2bbabe19d3db	925ea09a-3def-5492-9053-90aa231a5de0	Angela Merkel è a favore dell'austerity.	Angela Merkel is in favor of austerity.				
+austerity	ow-steh-REE-tee	austerity	NOUN	austerity	1	1e-06	1	1e-06	austerity	NOUN	S	nmod	Gender=Fem	899cb50e-b201-5baf-a70c-2bbabe19d3db	925ea09a-3def-5492-9053-90aa231a5de0	Angela Merkel è a favore dell'austerity.	Angela Merkel is in favor of austerity.				

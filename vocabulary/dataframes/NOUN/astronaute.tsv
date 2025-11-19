@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-astronaute		astronaute	NOUN		1	1e-06	1	1e-06	astronaute	NOUN	S	root	Gender=Fem|Number=Plur	a7c1458d-d1b3-5dfa-9334-98ec63b9acb1	030bfafd-dc49-58d6-b7f2-d6ca1654a606	Anche le ragazze possono essere delle astronaute.	Girls can be astronauts, too.				
+astronaute	ahs-troh-NOW-teh	astronaute	NOUN	astronauts (feminine)	1	1e-06	1	1e-06	astronaute	NOUN	S	root	Gender=Fem|Number=Plur	a7c1458d-d1b3-5dfa-9334-98ec63b9acb1	030bfafd-dc49-58d6-b7f2-d6ca1654a606	Anche le ragazze possono essere delle astronaute.	Girls can be astronauts, too.				
