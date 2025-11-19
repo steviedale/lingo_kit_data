@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cuoco		cuoco	ADJ		1	1e-06	1	1e-06	cuoco	ADJ	A	amod	Gender=Masc|Number=Sing	eab73f0d-d262-5748-9991-f87a3e5b6bdb	cc48581b-e2f4-5817-a71b-7f6837635f3a	Il mio aiuto cuoco ha l'intelligenza di una spatola.	My kitchen help has the intelligence of a spatula.				
+cuoco	KWOH-koh	cuoco	ADJ	cook; chef	1	1e-06	1	1e-06	cuoco	ADJ	A	amod	Gender=Masc|Number=Sing	eab73f0d-d262-5748-9991-f87a3e5b6bdb	cc48581b-e2f4-5817-a71b-7f6837635f3a	Il mio aiuto cuoco ha l'intelligenza di una spatola.	My kitchen help has the intelligence of a spatula.				

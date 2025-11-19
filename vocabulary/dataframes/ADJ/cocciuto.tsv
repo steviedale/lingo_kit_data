@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cocciuto		cocciuto	ADJ		2	2e-06	2	2e-06	cocciuto	ADJ	A	root	Gender=Masc|Number=Sing	9a4802ae-b3b2-5bee-a9d1-8976d812ea4e	035e05c2-19db-5bd9-a459-f132790362ee	Tom è cocciuto.	Tom is stubborn.	Tom è molto cocciuto.	Tom is very stubborn.		
+cocciuto	kohk-CHYOO-toh	cocciuto	ADJ	stubborn; pigheaded	2	2e-06	2	2e-06	cocciuto	ADJ	A	root	Gender=Masc|Number=Sing	9a4802ae-b3b2-5bee-a9d1-8976d812ea4e	035e05c2-19db-5bd9-a459-f132790362ee	Tom è cocciuto.	Tom is stubborn.	Tom è molto cocciuto.	Tom is very stubborn.		

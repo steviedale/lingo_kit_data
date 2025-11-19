@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-comparata		comparato	ADJ		1	1e-06	1	1e-06	comparato	ADJ	A	amod	Gender=Fem|Number=Sing	4247284e-6931-5755-b2bc-7f2ea7d02c66	02c6ef3a-fc35-5d06-89e5-94b3f4d7b88e	La mia specializzazione è la religione comparata.	My major is comparative religion.				
+comparata	kohm-pah-RAH-tah	comparato	ADJ	comparative	1	1e-06	1	1e-06	comparato	ADJ	A	amod	Gender=Fem|Number=Sing	4247284e-6931-5755-b2bc-7f2ea7d02c66	02c6ef3a-fc35-5d06-89e5-94b3f4d7b88e	La mia specializzazione è la religione comparata.	My major is comparative religion.				

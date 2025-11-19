@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-desiderati		desiderare	ADJ		1	1e-06	1	1e-06	desiderare	ADJ	A	xcomp	Gender=Masc|Number=Plur	bce61fa3-8ad4-5eba-bfcc-c54fa6f3df84	86023f5a-0543-5e56-9fde-6e65de376921	È bello sentirsi desiderati.	It's nice to feel wanted.				
+desiderati	deh-see-deh-RAH-tee	desiderare	ADJ	desired; wanted (plural)	1	1e-06	1	1e-06	desiderare	ADJ	A	xcomp	Gender=Masc|Number=Plur	bce61fa3-8ad4-5eba-bfcc-c54fa6f3df84	86023f5a-0543-5e56-9fde-6e65de376921	È bello sentirsi desiderati.	It's nice to feel wanted.				

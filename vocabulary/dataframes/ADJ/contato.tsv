@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-contati		contato	ADJ		1	1e-06	1	1e-06	contato	ADJ	A	amod	Gender=Masc|Number=Plur	e1362600-b282-560d-b52b-0862b568f565	803fd640-6db7-5294-970d-e4c4b6a53979	Tom ha i giorni contati.	Tom's days are numbered.				
+contati	kohn-TAH-tee	contato	ADJ	numbered (plural)	1	1e-06	1	1e-06	contato	ADJ	A	amod	Gender=Masc|Number=Plur	e1362600-b282-560d-b52b-0862b568f565	803fd640-6db7-5294-970d-e4c4b6a53979	Tom ha i giorni contati.	Tom's days are numbered.				
