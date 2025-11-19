@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-marcio		marcio	NOUN		1	1e-06	1	1e-06	marcio	NOUN	S	obl	Gender=Masc|Number=Sing	657abdaa-95d6-509b-9fb7-021ea2a788e2	a526de42-d9f9-5a24-b8a7-5529a7350f9f	Questo cibo odora di marcio.	This food smells rotten.				
+marcio	MAHR-chyoh	marcio	NOUN	rotten (masculine)	1	1e-06	1	1e-06	marcio	NOUN	S	obl	Gender=Masc|Number=Sing	657abdaa-95d6-509b-9fb7-021ea2a788e2	a526de42-d9f9-5a24-b8a7-5529a7350f9f	Questo cibo odora di marcio.	This food smells rotten.				

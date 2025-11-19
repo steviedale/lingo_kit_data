@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-mode		mode	NOUN		1	1e-06	1	1e-06	mode	NOUN	S	nsubj	Gender=Fem|Number=Plur	a5fdb053-7ae4-53d6-8ab5-d28801f8e892	f0ffee72-67c6-587f-aba9-a694a519578e	Le mode cambiano rapidamente.	Fashions change quickly.				
+mode	MOH-deh	mode	NOUN	fashions	1	1e-06	1	1e-06	mode	NOUN	S	nsubj	Gender=Fem|Number=Plur	a5fdb053-7ae4-53d6-8ab5-d28801f8e892	f0ffee72-67c6-587f-aba9-a694a519578e	Le mode cambiano rapidamente.	Fashions change quickly.				

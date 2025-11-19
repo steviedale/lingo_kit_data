@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-meta		meta	NOUN		1	1e-06	1	1e-06	meta	NOUN	S	root	Gender=Fem|Number=Sing	a11c8343-5069-5f71-ab0d-168414c7d552	1c3b9e56-e893-5d74-9442-0365e380d77b	È anche una meta popolare per le coppie.	It's also a popular destination for couples.				
+meta	MEH-tah	meta	NOUN	destination; goal	1	1e-06	1	1e-06	meta	NOUN	S	root	Gender=Fem|Number=Sing	a11c8343-5069-5f71-ab0d-168414c7d552	1c3b9e56-e893-5d74-9442-0365e380d77b	È anche una meta popolare per le coppie.	It's also a popular destination for couples.				

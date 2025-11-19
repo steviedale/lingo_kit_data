@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-meteoroide		meteoroide	NOUN		1	1e-06	1	1e-06	meteoroide	NOUN	S	nsubj	Gender=Masc|Number=Sing	4469af88-4389-5010-b5b3-8467354f5c4c	b5b89dd2-2155-52b6-ae82-d4cb2e6cc338	Un meteoroide in fiamme produce una meteora.	A burning meteoroid produces a meteor.				
+meteoroide	meh-tehoh-ROY-deh	meteoroide	NOUN	meteoroid	1	1e-06	1	1e-06	meteoroide	NOUN	S	nsubj	Gender=Masc|Number=Sing	4469af88-4389-5010-b5b3-8467354f5c4c	b5b89dd2-2155-52b6-ae82-d4cb2e6cc338	Un meteoroide in fiamme produce una meteora.	A burning meteoroid produces a meteor.				

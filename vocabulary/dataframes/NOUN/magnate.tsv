@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-magnate		magnate	NOUN		2	2e-06	2	2e-06	magnate	NOUN	S	root	Gender=Masc|Number=Sing	28f58c2e-fd50-5eb1-8fe9-da22591d2236	94026d58-0d63-5111-ab6e-0d63d2084c66	È un magnate.	He's a tycoon.	Lui è un magnate.	He's a tycoon.		
+magnate	mah-NYAH-teh	magnate	NOUN	tycoon; magnate	2	2e-06	2	2e-06	magnate	NOUN	S	root	Gender=Masc|Number=Sing	28f58c2e-fd50-5eb1-8fe9-da22591d2236	94026d58-0d63-5111-ab6e-0d63d2084c66	È un magnate.	He's a tycoon.	Lui è un magnate.	He's a tycoon.		

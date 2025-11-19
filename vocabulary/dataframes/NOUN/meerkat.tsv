@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-meerkat		meerkat	NOUN		1	1e-06	1	1e-06	meerkat	NOUN	S	nsubj	Gender=Masc	2e0daabb-065f-5078-9057-65e29500725f	bf9423f5-f195-5074-b1c2-ed3f2afb32ab	I meerkat vivono in Africa.	Meerkats live in Africa.				
+meerkat	MEHEHR-kaht	meerkat	NOUN	meerkat	1	1e-06	1	1e-06	meerkat	NOUN	S	nsubj	Gender=Masc	2e0daabb-065f-5078-9057-65e29500725f	bf9423f5-f195-5074-b1c2-ed3f2afb32ab	I meerkat vivono in Africa.	Meerkats live in Africa.				

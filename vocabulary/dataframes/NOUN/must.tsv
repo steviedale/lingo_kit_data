@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-must		must	NOUN		2	2e-06	2	2e-06	must	NOUN	S	root	Gender=Masc	48e67bae-4fda-5026-aa86-f78ac16ec1c2	857df3b7-0c19-52b7-9ad0-1e8f046c8f0b	Questo film è un must!	This movie is a must!	Have to è più comune di must.	Have to is more common than must.		
+must	MOOST	must	NOUN	must-see; must-have	2	2e-06	2	2e-06	must	NOUN	S	root	Gender=Masc	48e67bae-4fda-5026-aa86-f78ac16ec1c2	857df3b7-0c19-52b7-9ad0-1e8f046c8f0b	Questo film è un must!	This movie is a must!	Have to è più comune di must.	Have to is more common than must.		
