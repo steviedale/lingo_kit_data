@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-annaffi		annaffo	NOUN		1	1e-06	1	1e-06	annaffo	NOUN	S	ccomp	Gender=Fem|Number=Sing	d031d092-507e-586e-b46a-9df72e380bee	a3b46aac-566e-5b1d-80fc-292941174674	Quella rosa ravviverà se la annaffi.	That rose will revive if you water it.				
+annaffi	ahn-NAHF-fee	annaffo	NOUN	you water	1	1e-06	1	1e-06	annaffo	NOUN	S	ccomp	Gender=Fem|Number=Sing	d031d092-507e-586e-b46a-9df72e380bee	a3b46aac-566e-5b1d-80fc-292941174674	Quella rosa ravviverà se la annaffi.	That rose will revive if you water it.				

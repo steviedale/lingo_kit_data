@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-amo		amo	NOUN		1	1e-06	1	1e-06	amo	NOUN	S	obl	Gender=Masc|Number=Sing	c5c236cc-dc03-588f-a82a-7c8797ca5e34	cc0f4b96-1cf7-55c3-b328-15ea1c590d95	Ho messo l'esca sull'amo.	I put bait on the hook.				
+amo	AH-moh	amo	NOUN	hook; fishhook	1	1e-06	1	1e-06	amo	NOUN	S	obl	Gender=Masc|Number=Sing	c5c236cc-dc03-588f-a82a-7c8797ca5e34	cc0f4b96-1cf7-55c3-b328-15ea1c590d95	Ho messo l'esca sull'amo.	I put bait on the hook.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-annuii		annuio	NOUN		1	1e-06	1	1e-06	annuio	NOUN	S	root	Gender=Masc|Number=Plur	a7ef1623-5090-53f6-b7f9-aeff5f907c91	5e756eb5-c054-5808-a0db-fc9a90c22690	Annuii, ma non mi mossi.	I nodded, but did not move.				
+annuii	AHN-nweeee	annuio	NOUN	I nodded	1	1e-06	1	1e-06	annuio	NOUN	S	root	Gender=Masc|Number=Plur	a7ef1623-5090-53f6-b7f9-aeff5f907c91	5e756eb5-c054-5808-a0db-fc9a90c22690	Annuii, ma non mi mossi.	I nodded, but did not move.				

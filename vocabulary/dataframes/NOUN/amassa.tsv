@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-amasse		amassa	NOUN		1	1e-06	1	1e-06	amassa	NOUN	S	nsubj	Gender=Fem|Number=Sing	598be0f5-9fd3-5b9d-8170-c34c876de67e	4873df36-8f21-5010-b4e4-2d4d86e61a79	Pensavo la amasse.	I thought you loved it.				
+amasse	ah-MAHS-seh	amassa	NOUN	loved (subjunctive)	1	1e-06	1	1e-06	amassa	NOUN	S	nsubj	Gender=Fem|Number=Sing	598be0f5-9fd3-5b9d-8170-c34c876de67e	4873df36-8f21-5010-b4e4-2d4d86e61a79	Pensavo la amasse.	I thought you loved it.				

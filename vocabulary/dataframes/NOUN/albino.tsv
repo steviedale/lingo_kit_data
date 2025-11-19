@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-albino		albino	NOUN		1	1e-06	1	1e-06	albino	NOUN	S	root	Gender=Masc|Number=Sing	e8f06e11-c616-512d-9c2b-e6e752d06b12	e85a1037-4a5d-5eed-b923-fc2ea22bf20a	È un albino.	He is an albino.				
+albino	ahl-BEE-noh	albino	NOUN	albino (person)	1	1e-06	1	1e-06	albino	NOUN	S	root	Gender=Masc|Number=Sing	e8f06e11-c616-512d-9c2b-e6e752d06b12	e85a1037-4a5d-5eed-b923-fc2ea22bf20a	È un albino.	He is an albino.				

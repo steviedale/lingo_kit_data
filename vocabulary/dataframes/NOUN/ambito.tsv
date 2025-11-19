@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ambito		ambito	NOUN		1	1e-06	1	1e-06	ambito	NOUN	S	root	Gender=Masc|Number=Sing	e06848da-f69e-5ccd-9a85-cb5e5e83d6ae	02cb3db5-729c-59e9-a5aa-427dd7cf39af	Il soggetto è fuori dal suo ambito.	The subject is out of his sphere.				
+ambito	ahm-BEE-toh	ambito	NOUN	field; sphere	1	1e-06	1	1e-06	ambito	NOUN	S	root	Gender=Masc|Number=Sing	e06848da-f69e-5ccd-9a85-cb5e5e83d6ae	02cb3db5-729c-59e9-a5aa-427dd7cf39af	Il soggetto è fuori dal suo ambito.	The subject is out of his sphere.				
