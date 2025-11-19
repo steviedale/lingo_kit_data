@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tossendo		tossere	VERB		2	2e-06	2	2e-06	tossere	VERB	V	root	VerbForm=Ger	5dc37fe3-b5b3-5b39-8425-790f6120ac6e	794608b9-06f3-5758-963d-e38067a1f360	Stavo tossendo.	I was coughing.	Io stavo tossendo.	I was coughing.		
+tossendo	tohs-SEN-doh	tossere	VERB	coughing	2	2e-06	2	2e-06	tossere	VERB	V	root	VerbForm=Ger	5dc37fe3-b5b3-5b39-8425-790f6120ac6e	794608b9-06f3-5758-963d-e38067a1f360	Stavo tossendo.	I was coughing.	Io stavo tossendo.	I was coughing.		

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-trapelare		trapelare	VERB		1	1e-06	1	1e-06	trapelare	VERB	V	ccomp	VerbForm=Inf	8aeaa537-3aaf-55d6-b607-b60fd4675eba	9c67275d-c921-52da-9453-c9424f0e2ec6	Qualcuno ha fatto trapelare il segreto al nemico.	Someone leaked the secret to the enemy.				
+trapelare	trah-peh-LAH-reh	trapelare	VERB	to leak out	1	1e-06	1	1e-06	trapelare	VERB	V	ccomp	VerbForm=Inf	8aeaa537-3aaf-55d6-b607-b60fd4675eba	9c67275d-c921-52da-9453-c9424f0e2ec6	Qualcuno ha fatto trapelare il segreto al nemico.	Someone leaked the secret to the enemy.				
