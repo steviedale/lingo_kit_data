@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-branda		branda	NOUN		1	1e-06	1	1e-06	branda	NOUN	S	obl	Gender=Fem|Number=Sing	34daef70-fb54-5b8e-846c-8aad305cda24	8fa7f9f0-8e2f-5e9b-8dd8-d2f13c06d883	Tom è seduto sulla sua branda.	Tom is sitting on his bunk.				
+branda	BRAHN-dah	branda	NOUN	cot; bunk	1	1e-06	1	1e-06	branda	NOUN	S	obl	Gender=Fem|Number=Sing	34daef70-fb54-5b8e-846c-8aad305cda24	8fa7f9f0-8e2f-5e9b-8dd8-d2f13c06d883	Tom è seduto sulla sua branda.	Tom is sitting on his bunk.				

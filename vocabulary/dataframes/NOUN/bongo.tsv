@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-bonghi		bongo	NOUN		2	2e-06	2	2e-06	bongo	NOUN	S	obj	Gender=Masc|Number=Plur	5df8b35b-b58d-593d-a6e8-dc19aa53c856	bfb4ee7a-f405-5e77-8944-6ef1af26d0c5	Persi i miei bonghi là.	I lost my bongos there.	Ho perso i miei bonghi là.	I lost my bongos there.		
+bonghi	BOHN-gee	bongo	NOUN	bongos	2	2e-06	2	2e-06	bongo	NOUN	S	obj	Gender=Masc|Number=Plur	5df8b35b-b58d-593d-a6e8-dc19aa53c856	bfb4ee7a-f405-5e77-8944-6ef1af26d0c5	Persi i miei bonghi là.	I lost my bongos there.	Ho perso i miei bonghi là.	I lost my bongos there.		

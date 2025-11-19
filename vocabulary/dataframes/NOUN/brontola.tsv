@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-brontola		brontola	NOUN		1	1e-06	1	1e-06	brontola	NOUN	S	root	Gender=Masc|Number=Plur	acc85b13-c0c5-59cc-bb40-baad75c44c5a	8af190f0-7ddd-53e7-b5e2-269e3f1f6f7b	Lei brontola sempre.	You're always grumbling.				
+brontola	brohn-TOH-lah	brontola	NOUN	grumblers	1	1e-06	1	1e-06	brontola	NOUN	S	root	Gender=Masc|Number=Plur	acc85b13-c0c5-59cc-bb40-baad75c44c5a	8af190f0-7ddd-53e7-b5e2-269e3f1f6f7b	Lei brontola sempre.	You're always grumbling.				

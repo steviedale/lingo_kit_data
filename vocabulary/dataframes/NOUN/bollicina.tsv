@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-bollicine		bollicina	NOUN		1	1e-06	1	1e-06	bollicina	NOUN	S	obj	Gender=Fem|Number=Plur	2cbcd898-c1ad-5b24-ae31-73da5e65141d	897755b0-9970-5bf3-a9d4-48738eb21125	Lo champagne faceva le bollicine nel bicchiere.	The champagne bubbled in the glass.				
+bollicine	bohl-lee-CHEE-neh	bollicina	NOUN	bubbles	1	1e-06	1	1e-06	bollicina	NOUN	S	obj	Gender=Fem|Number=Plur	2cbcd898-c1ad-5b24-ae31-73da5e65141d	897755b0-9970-5bf3-a9d4-48738eb21125	Lo champagne faceva le bollicine nel bicchiere.	The champagne bubbled in the glass.				

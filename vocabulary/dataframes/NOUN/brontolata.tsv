@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-brontolate		brontolata	NOUN		1	1e-06	1	1e-06	brontolata	NOUN	S	root	Gender=Masc|Number=Plur	8116ac5d-d17c-533b-869d-04514774e642	3453dad0-bc96-5865-806f-03b6da9f6dad	Brontolate sempre.	You're always grumbling.				
+brontolate	brohn-toh-LAH-teh	brontolata	NOUN	grumbles	1	1e-06	1	1e-06	brontolata	NOUN	S	root	Gender=Masc|Number=Plur	8116ac5d-d17c-533b-869d-04514774e642	3453dad0-bc96-5865-806f-03b6da9f6dad	Brontolate sempre.	You're always grumbling.				

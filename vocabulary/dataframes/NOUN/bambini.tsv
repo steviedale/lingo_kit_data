@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-bambini		bambini	NOUN		1	1e-06	1	1e-06	bambini	NOUN	S	root	Gender=Masc|Number=Plur	e5dbd89a-04ae-5fe2-9167-8d08acd04a8e	dc9b07d9-e69a-5567-bb22-c12066895bf9	Bambini, ascoltate!	Kids, listen!				
+bambini	bahm-BEE-nee	bambini	NOUN	children; boys (masculine)	1	1e-06	1	1e-06	bambini	NOUN	S	root	Gender=Masc|Number=Plur	e5dbd89a-04ae-5fe2-9167-8d08acd04a8e	dc9b07d9-e69a-5567-bb22-c12066895bf9	Bambini, ascoltate!	Kids, listen!				

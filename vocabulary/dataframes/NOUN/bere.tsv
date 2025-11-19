@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-beve		bere	NOUN		4	4e-06	4	4e-06	bere	NOUN	S	root	Gender=Masc|Number=Sing	3fa3fff5-2068-554c-a155-bb4b4df6fdc5	f82671e8-bd68-5e6b-b5f5-15cbe9a913c1	Lei beve del tè?	Do you drink tea?	Lei beve del tè.	You drink tea.	Lei beve del vino?	Do you drink wine?
+beve	BEH-veh	bere	NOUN	drink; beverage	4	4e-06	4	4e-06	bere	NOUN	S	root	Gender=Masc|Number=Sing	3fa3fff5-2068-554c-a155-bb4b4df6fdc5	f82671e8-bd68-5e6b-b5f5-15cbe9a913c1	Lei beve del tè?	Do you drink tea?	Lei beve del tè.	You drink tea.	Lei beve del vino?	Do you drink wine?

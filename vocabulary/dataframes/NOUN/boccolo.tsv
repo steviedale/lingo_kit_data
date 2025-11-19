@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-boccoli		boccolo	NOUN		1	1e-06	1	1e-06	boccolo	NOUN	S	nsubj	Gender=Masc|Number=Plur	fe35a2de-db5b-5613-9375-84c4b9c1e717	497eaef9-1b53-5765-acb3-3ac6c68d686e	Mi piacciono i boccoli.	I like curls.				
+boccoli	bohk-KOH-lee	boccolo	NOUN	curls	1	1e-06	1	1e-06	boccolo	NOUN	S	nsubj	Gender=Masc|Number=Plur	fe35a2de-db5b-5613-9375-84c4b9c1e717	497eaef9-1b53-5765-acb3-3ac6c68d686e	Mi piacciono i boccoli.	I like curls.				

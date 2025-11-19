@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-baule		baule	NOUN		2	2e-06	2	2e-06	baule	NOUN	S	obj	Gender=Masc|Number=Sing	b45d6aff-785d-5e06-a614-2c5d87a3f08c	2f4c213a-9971-5e74-a04c-80687a78e897	Tom chiuse il baule.	Tom shut the trunk.	Tom ha chiuso il baule.	Tom shut the trunk.		
+baule	BOW-leh	baule	NOUN	trunk; chest	2	2e-06	2	2e-06	baule	NOUN	S	obj	Gender=Masc|Number=Sing	b45d6aff-785d-5e06-a614-2c5d87a3f08c	2f4c213a-9971-5e74-a04c-80687a78e897	Tom chiuse il baule.	Tom shut the trunk.	Tom ha chiuso il baule.	Tom shut the trunk.		

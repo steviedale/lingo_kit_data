@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-berrai		berraio	NOUN		1	1e-06	1	1e-06	berraio	NOUN	S	root	Gender=Masc|Number=Sing	a0c56e38-61e3-569a-89ae-a90e753c4a8f	bf883bed-0ea5-5684-bd6f-fe93d81241bf	Berrai del vino al posto del latte?	Will you drink wine instead of milk?				
+berrai	BEHR-reye	berraio	NOUN	I will drink	1	1e-06	1	1e-06	berraio	NOUN	S	root	Gender=Masc|Number=Sing	a0c56e38-61e3-569a-89ae-a90e753c4a8f	bf883bed-0ea5-5684-bd6f-fe93d81241bf	Berrai del vino al posto del latte?	Will you drink wine instead of milk?				

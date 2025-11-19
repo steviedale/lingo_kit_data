@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-barbeque		barbeque	NOUN		1	1e-06	1	1e-06	barbeque	NOUN	S	compound	Gender=Masc	c8d43b3e-fcd5-59c0-8d71-46df85951ac4	1f667e76-4243-5508-8474-bae78ee3eb0f	Mi piacciono le ali di pollo con la salsa barbeque.	I like my chicken wings with barbeque sauce.				
+barbeque	bahr-BEH-qweh	barbeque	NOUN	barbecue	1	1e-06	1	1e-06	barbeque	NOUN	S	compound	Gender=Masc	c8d43b3e-fcd5-59c0-8d71-46df85951ac4	1f667e76-4243-5508-8474-bae78ee3eb0f	Mi piacciono le ali di pollo con la salsa barbeque.	I like my chicken wings with barbeque sauce.				

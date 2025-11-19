@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-best-seller		best-seller	NOUN		1	1e-06	1	1e-06	best-seller	NOUN	S	compound	Gender=Masc	f5874802-bc56-5eb2-bc07-c30e10d4a705	d76b6111-88af-54b6-9473-59b6109977a7	La Bibbia è un libro best-seller.	The Bible is a best-seller book.				
+best-seller	BEHST-SEHL-lehr	best-seller	NOUN	best seller	1	1e-06	1	1e-06	best-seller	NOUN	S	compound	Gender=Masc	f5874802-bc56-5eb2-bc07-c30e10d4a705	d76b6111-88af-54b6-9473-59b6109977a7	La Bibbia è un libro best-seller.	The Bible is a best-seller book.				
