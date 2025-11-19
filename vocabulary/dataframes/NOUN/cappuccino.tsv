@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cappuccino		cappuccino	NOUN		1	1e-06	1	1e-06	cappuccino	NOUN	S	conj	Gender=Masc|Number=Sing	f382164a-e5ad-5119-b6af-1aaf73fb5bcf	d6536bc9-f391-5359-b822-f2479abd73f2	Vorrei una pasta e un cappuccino.	I'd like a pastry and a cappuccino.				
+cappuccino	kahp-pook-CHEE-noh	cappuccino	NOUN	cappuccino	1	1e-06	1	1e-06	cappuccino	NOUN	S	conj	Gender=Masc|Number=Sing	f382164a-e5ad-5119-b6af-1aaf73fb5bcf	d6536bc9-f391-5359-b822-f2479abd73f2	Vorrei una pasta e un cappuccino.	I'd like a pastry and a cappuccino.				

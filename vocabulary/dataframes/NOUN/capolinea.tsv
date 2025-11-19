@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-capolinea		capolinea	NOUN		1	1e-06	1	1e-06	capolinea	NOUN	S	obl	Gender=Masc|Number=Sing	7a2756e5-4bdd-5e4b-9412-6756840eb067	9d16c466-cfcd-54af-9d51-14a40561108f	Il nostro matrimonio è arrivato al capolinea.	Our marriage has come to an end.				
+capolinea	kah-poh-LEE-nehah	capolinea	NOUN	end of the line; terminus	1	1e-06	1	1e-06	capolinea	NOUN	S	obl	Gender=Masc|Number=Sing	7a2756e5-4bdd-5e4b-9412-6756840eb067	9d16c466-cfcd-54af-9d51-14a40561108f	Il nostro matrimonio è arrivato al capolinea.	Our marriage has come to an end.				

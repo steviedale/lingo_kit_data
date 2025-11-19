@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cavie		cavia	NOUN		1	1e-06	1	1e-06	cavia	NOUN	S	root	Gender=Fem|Number=Plur	22212f4e-c694-5979-a6b7-71f10373fb94	e6151d5c-f89a-5cf5-a148-38a7a4379612	Siamo cavie umane.	We're test subjects.				
+cavie	KAH-vyeh	cavia	NOUN	guinea pigs	1	1e-06	1	1e-06	cavia	NOUN	S	root	Gender=Fem|Number=Plur	22212f4e-c694-5979-a6b7-71f10373fb94	e6151d5c-f89a-5cf5-a148-38a7a4379612	Siamo cavie umane.	We're test subjects.				

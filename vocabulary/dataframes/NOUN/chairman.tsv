@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-chairman		chairman	NOUN		1	1e-06	1	1e-06	chairman	NOUN	S	nmod	Gender=Masc	42f53916-f6e9-5418-9c39-53bf1304bfc6	a5668450-6bba-541e-a4d2-a0347ef04e09	Ha accettato la nomina a chairman.	He accepted his appointment as chairman.				
+chairman	KEYER-mahn	chairman	NOUN	chairman	1	1e-06	1	1e-06	chairman	NOUN	S	nmod	Gender=Masc	42f53916-f6e9-5418-9c39-53bf1304bfc6	a5668450-6bba-541e-a4d2-a0347ef04e09	Ha accettato la nomina a chairman.	He accepted his appointment as chairman.				

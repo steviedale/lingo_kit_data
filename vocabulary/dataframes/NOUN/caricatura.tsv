@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-caricatura		caricatura	NOUN		1	1e-06	1	1e-06	caricatura	NOUN	S	root	Gender=Fem|Number=Sing	35d38a92-a061-5a19-8d12-641e4323c30e	5c289bce-ec96-58cd-971a-33f05f514aa4	È una caricatura.	It's a travesty.				
+caricatura	kah-ree-kah-TOO-rah	caricatura	NOUN	caricature	1	1e-06	1	1e-06	caricatura	NOUN	S	root	Gender=Fem|Number=Sing	35d38a92-a061-5a19-8d12-641e4323c30e	5c289bce-ec96-58cd-971a-33f05f514aa4	È una caricatura.	It's a travesty.				

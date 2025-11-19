@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-capitalista		capitalista	NOUN		1	1e-06	1	1e-06	capitalista	NOUN	S	root	Number=Sing	bb0edf1e-58b0-55d4-b306-de8ea7ef064a	ec4d027a-aa02-51d1-8ae7-d57d4e53bf35	Tom è un capitalista clientelare.	Tom is a crony capitalist.				
+capitalista	kah-pee-tah-LEE-stah	capitalista	NOUN	capitalist	1	1e-06	1	1e-06	capitalista	NOUN	S	root	Number=Sing	bb0edf1e-58b0-55d4-b306-de8ea7ef064a	ec4d027a-aa02-51d1-8ae7-d57d4e53bf35	Tom è un capitalista clientelare.	Tom is a crony capitalist.				

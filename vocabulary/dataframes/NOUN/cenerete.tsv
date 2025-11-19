@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cenerete		cenerete	NOUN		1	1e-06	1	1e-06	cenerete	NOUN	S	root	Gender=Fem|Number=Plur	b40adff6-836e-57f7-847a-76ecc9ba7cbe	54666d35-51da-5928-bd2c-e77b3fd6b5fc	Cenerete con me?	Will you have dinner with me?				
+cenerete	cheh-neh-REH-teh	cenerete	NOUN	will you have dinner	1	1e-06	1	1e-06	cenerete	NOUN	S	root	Gender=Fem|Number=Plur	b40adff6-836e-57f7-847a-76ecc9ba7cbe	54666d35-51da-5928-bd2c-e77b3fd6b5fc	Cenerete con me?	Will you have dinner with me?				

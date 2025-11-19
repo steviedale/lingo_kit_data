@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-callo		callo	NOUN		1	1e-06	1	1e-06	callo	NOUN	S	obj	Gender=Masc|Number=Sing	f7778951-0bea-595b-a258-631fde1f43a0	701ee00a-00f7-5514-9d30-7074e5366f1b	Ho un callo sul piede destro.	I have a corn on my right foot.				
+callo	KAHL-loh	callo	NOUN	callus	1	1e-06	1	1e-06	callo	NOUN	S	obj	Gender=Masc|Number=Sing	f7778951-0bea-595b-a258-631fde1f43a0	701ee00a-00f7-5514-9d30-7074e5366f1b	Ho un callo sul piede destro.	I have a corn on my right foot.				

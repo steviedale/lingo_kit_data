@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cenò		cenò	NOUN		1	1e-06	1	1e-06	cenò	NOUN	S	root	Gender=Masc|Number=Sing	f3acd1cc-9bed-55c6-a48f-2aa480918ea1	3c9fdabf-f172-5e63-b08b-f0131ab6ef6c	Cenò da solo.	He had dinner by himself.				
+cenò	cheh-NOH	cenò	NOUN	he or she had dinner	1	1e-06	1	1e-06	cenò	NOUN	S	root	Gender=Masc|Number=Sing	f3acd1cc-9bed-55c6-a48f-2aa480918ea1	3c9fdabf-f172-5e63-b08b-f0131ab6ef6c	Cenò da solo.	He had dinner by himself.				

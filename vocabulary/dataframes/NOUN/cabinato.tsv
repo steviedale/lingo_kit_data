@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cabinato		cabinato	NOUN		1	1e-06	1	1e-06	cabinato	NOUN	S	obj	Gender=Masc|Number=Sing	f386c884-b580-563b-b8b4-69ae7305909f	c4a75576-3713-5eb1-9e22-9b4fec4ba501	Ho appena comprato un cabinato molto costoso.	I just bought an extremely expensive cabin boat.				
+cabinato	kah-bee-NAH-toh	cabinato	NOUN	cabin cruiser	1	1e-06	1	1e-06	cabinato	NOUN	S	obj	Gender=Masc|Number=Sing	f386c884-b580-563b-b8b4-69ae7305909f	c4a75576-3713-5eb1-9e22-9b4fec4ba501	Ho appena comprato un cabinato molto costoso.	I just bought an extremely expensive cabin boat.				

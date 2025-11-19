@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-canterete		canterete	NOUN		1	1e-06	1	1e-06	canterete	NOUN	S	root	Gender=Masc|Number=Plur	71a29ce6-75c3-51a4-82ed-d157794c315c	0f6ee419-596a-5d50-a831-e16535af59e5	Canterete delle canzoni inglesi per noi?	Will you sing some English songs for us?				
+canterete	kahn-teh-REH-teh	canterete	NOUN	will you all sing	1	1e-06	1	1e-06	canterete	NOUN	S	root	Gender=Masc|Number=Plur	71a29ce6-75c3-51a4-82ed-d157794c315c	0f6ee419-596a-5d50-a831-e16535af59e5	Canterete delle canzoni inglesi per noi?	Will you sing some English songs for us?				

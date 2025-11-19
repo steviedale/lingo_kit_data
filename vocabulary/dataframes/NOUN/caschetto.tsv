@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-caschetti		caschetto	NOUN		1	1e-06	1	1e-06	caschetto	NOUN	S	nsubj	Gender=Masc|Number=Plur	fb9f7382-0d27-5761-9f2b-a530082a5bf5	edbc1d95-4c9c-54e2-bf74-2d1c853b88ec	Quei caschetti sono disgustosi.	Those helmets are disgusting.				
+caschetti	kah-SHEHT-tee	caschetto	NOUN	helmets	1	1e-06	1	1e-06	caschetto	NOUN	S	nsubj	Gender=Masc|Number=Plur	fb9f7382-0d27-5761-9f2b-a530082a5bf5	edbc1d95-4c9c-54e2-bf74-2d1c853b88ec	Quei caschetti sono disgustosi.	Those helmets are disgusting.				

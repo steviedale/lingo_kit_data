@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-candeggina		candeggina	NOUN		1	1e-06	1	1e-06	candeggina	NOUN	S	nsubj	Gender=Fem|Number=Sing	8f6fdbd1-72e7-579d-b72e-c5891d7632d2	64cc9a1e-bde7-521a-8842-2a50bf37d757	Mescolare l'ammoniaca e la candeggina è pericoloso.	Mixing ammonia and bleach is dangerous.				
+candeggina	kahn-dehg-JEE-nah	candeggina	NOUN	bleach	1	1e-06	1	1e-06	candeggina	NOUN	S	nsubj	Gender=Fem|Number=Sing	8f6fdbd1-72e7-579d-b72e-c5891d7632d2	64cc9a1e-bde7-521a-8842-2a50bf37d757	Mescolare l'ammoniaca e la candeggina è pericoloso.	Mixing ammonia and bleach is dangerous.				

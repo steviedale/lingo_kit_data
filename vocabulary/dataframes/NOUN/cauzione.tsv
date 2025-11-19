@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cauzione		cauzione	NOUN		1	1e-06	1	1e-06	cauzione	NOUN	S	obj	Gender=Fem|Number=Sing	76fd6567-fa43-531c-a933-cf5e950452e3	f8ee2fce-c8e5-5c35-a859-ddc41c22aedb	Tom sta organizzando la cauzione.	Tom is arranging bail.				
+cauzione	kow-TSYOH-neh	cauzione	NOUN	bail; bond	1	1e-06	1	1e-06	cauzione	NOUN	S	obj	Gender=Fem|Number=Sing	76fd6567-fa43-531c-a933-cf5e950452e3	f8ee2fce-c8e5-5c35-a859-ddc41c22aedb	Tom sta organizzando la cauzione.	Tom is arranging bail.				

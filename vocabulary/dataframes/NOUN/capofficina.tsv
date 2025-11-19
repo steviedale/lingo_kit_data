@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-capofficina		capofficina	NOUN		1	1e-06	1	1e-06	capofficina	NOUN	S	obl	Gender=Masc|Number=Sing	f3ac56eb-398f-595c-b1a5-009085e1c24e	7cfca728-a1e6-5bc7-9c1c-fe4c5a11cb5d	Mi faccia parlare con il capofficina.	Let me speak with the foreman.				
+capofficina	kah-pohf-fee-CHEE-nah	capofficina	NOUN	shop foreman	1	1e-06	1	1e-06	capofficina	NOUN	S	obl	Gender=Masc|Number=Sing	f3ac56eb-398f-595c-b1a5-009085e1c24e	7cfca728-a1e6-5bc7-9c1c-fe4c5a11cb5d	Mi faccia parlare con il capofficina.	Let me speak with the foreman.				

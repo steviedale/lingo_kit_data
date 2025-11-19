@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-chicchi		chicco	NOUN		1	1e-06	1	1e-06	chicco	NOUN	S	nsubj	Gender=Masc|Number=Plur	ac3b65e9-b747-534e-822d-7efb4d2a1aeb	8edb187c-e0a7-59e2-a41f-c00fb78e0a69	I chicchi di grandine erano grandi come palle da tennis.	The hailstones were as big as tennis balls.				
+chicchi	KEEK-kee	chicco	NOUN	grains; kernels	1	1e-06	1	1e-06	chicco	NOUN	S	nsubj	Gender=Masc|Number=Plur	ac3b65e9-b747-534e-822d-7efb4d2a1aeb	8edb187c-e0a7-59e2-a41f-c00fb78e0a69	I chicchi di grandine erano grandi come palle da tennis.	The hailstones were as big as tennis balls.				
