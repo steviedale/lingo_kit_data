@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-indoviniate		indoviniare	VERB		1	1e-06	1	1e-06	indoviniare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	bf3bb389-cb22-5ada-98f7-3a77883f750b	4186ac2e-7140-5943-b441-b1feee34f540	Voglio che indoviniate.	I want you to guess.				
+indoviniate	een-doh-vee-NYAH-teh	indoviniare	VERB	they guess (plural)	1	1e-06	1	1e-06	indoviniare	VERB	V	ccomp	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	bf3bb389-cb22-5ada-98f7-3a77883f750b	4186ac2e-7140-5943-b441-b1feee34f540	Voglio che indoviniate.	I want you to guess.				
