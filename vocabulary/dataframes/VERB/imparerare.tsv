@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-imparerai		imparerare	VERB		1	1e-06	1	1e-06	imparerare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	1f9e83c5-80e5-56b2-b6a6-9885636da99b	cdad58ea-ce2a-594a-91af-71fafd499335	Imparerai molto qui.	You'll learn a lot here.				
+imparerai	eem-pah-reh-RAI	imparerare	VERB	you will learn	1	1e-06	1	1e-06	imparerare	VERB	V	root	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	1f9e83c5-80e5-56b2-b6a6-9885636da99b	cdad58ea-ce2a-594a-91af-71fafd499335	Imparerai molto qui.	You'll learn a lot here.				
