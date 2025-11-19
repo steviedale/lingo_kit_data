@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dogana		dogana	NOUN		1	1e-06	1	1e-06	dogana	NOUN	S	nsubj	Gender=Fem|Number=Sing	6129ef37-34c4-5908-879f-5364ce733c33	41e70aa7-ecd4-501f-b18a-e7dc144bd483	La dogana chiederà una ricevuta.	Customs will ask for a receipt.				
+dogana	doh-GAH-nah	dogana	NOUN	customs office	1	1e-06	1	1e-06	dogana	NOUN	S	nsubj	Gender=Fem|Number=Sing	6129ef37-34c4-5908-879f-5364ce733c33	41e70aa7-ecd4-501f-b18a-e7dc144bd483	La dogana chiederà una ricevuta.	Customs will ask for a receipt.				

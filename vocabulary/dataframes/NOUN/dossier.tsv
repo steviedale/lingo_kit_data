@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dossier		dossier	NOUN		1	1e-06	1	1e-06	dossier	NOUN	S	nsubj:pass	Gender=Masc	34acdd3c-c042-51bf-b349-0c891df202be	a2e04241-2c17-599f-af24-22e3fd3a4c55	Il dossier è stato inviato al Ministero.	The record was sent to the ministry.				
+dossier	doh-SYARE	dossier	NOUN	dossier	1	1e-06	1	1e-06	dossier	NOUN	S	nsubj:pass	Gender=Masc	34acdd3c-c042-51bf-b349-0c891df202be	a2e04241-2c17-599f-af24-22e3fd3a4c55	Il dossier è stato inviato al Ministero.	The record was sent to the ministry.				

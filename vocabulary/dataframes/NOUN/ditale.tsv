@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ditale		ditale	NOUN		1	1e-06	1	1e-06	ditale	NOUN	S	obj	Gender=Masc|Number=Sing	bc195a17-5254-50cd-87d6-a6ea7c00a3d5	9c394630-e7d1-5562-bc89-dff70ae847c0	Comprò un ditale.	He bought a thimble.				
+ditale	dee-TAH-leh	ditale	NOUN	thimble	1	1e-06	1	1e-06	ditale	NOUN	S	obj	Gender=Masc|Number=Sing	bc195a17-5254-50cd-87d6-a6ea7c00a3d5	9c394630-e7d1-5562-bc89-dff70ae847c0	Comprò un ditale.	He bought a thimble.				

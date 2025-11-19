@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-distintivo		distintivo	NOUN		2	2e-06	2	2e-06	distintivo	NOUN	S	obj	Gender=Masc|Number=Sing	af23affd-1960-5708-a723-0f2df1f927ec	1d2462d6-9d00-5b3f-ad4b-0708ef2fdabe	Non ho un distintivo.	I don't have a badge.	Io non ho un distintivo.	I don't have a badge.		
+distintivo	dee-steen-TEE-voh	distintivo	NOUN	badge	2	2e-06	2	2e-06	distintivo	NOUN	S	obj	Gender=Masc|Number=Sing	af23affd-1960-5708-a723-0f2df1f927ec	1d2462d6-9d00-5b3f-ad4b-0708ef2fdabe	Non ho un distintivo.	I don't have a badge.	Io non ho un distintivo.	I don't have a badge.		

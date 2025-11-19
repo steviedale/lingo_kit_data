@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-drogheria		drogheria	NOUN		1	1e-06	1	1e-06	drogheria	NOUN	S	ccomp	Gender=Fem|Number=Sing	8b590cf7-cc22-5c78-b5f5-d0004cfc3d15	30920868-8e11-520f-bf57-bfa4880fa1c0	Per piacere, ci dica dov'è una drogheria.	Please tell us where there is a grocery store.				
+drogheria	droh-geh-REE-ah	drogheria	NOUN	grocery store	1	1e-06	1	1e-06	drogheria	NOUN	S	ccomp	Gender=Fem|Number=Sing	8b590cf7-cc22-5c78-b5f5-d0004cfc3d15	30920868-8e11-520f-bf57-bfa4880fa1c0	Per piacere, ci dica dov'è una drogheria.	Please tell us where there is a grocery store.				

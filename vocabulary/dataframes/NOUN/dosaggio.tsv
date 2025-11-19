@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dosaggio		dosaggio	NOUN		1	1e-06	1	1e-06	dosaggio	NOUN	S	nsubj	Gender=Masc|Number=Sing	564cf80d-a5fd-5825-98c5-892de38168b3	79e926ef-dd30-51b8-8887-e2cc3b553177	Qual è il dosaggio massimo per un adulto?	What is the maximum dosage for an adult?				
+dosaggio	doh-ZAHJ-joh	dosaggio	NOUN	dosage	1	1e-06	1	1e-06	dosaggio	NOUN	S	nsubj	Gender=Masc|Number=Sing	564cf80d-a5fd-5825-98c5-892de38168b3	79e926ef-dd30-51b8-8887-e2cc3b553177	Qual è il dosaggio massimo per un adulto?	What is the maximum dosage for an adult?				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-densità		densità	NOUN		1	1e-06	1	1e-06	densità	NOUN	S	obj	Gender=Fem	3bb06a73-00bb-5268-a9d1-ee105870617c	7c3c3e2e-10c4-5c47-bf7c-ead73c6d6292	Il Giappone ha un'alta densità di popolazione.	Japan has a high population density.				
+densità	den-see-TAH	densità	NOUN	density	1	1e-06	1	1e-06	densità	NOUN	S	obj	Gender=Fem	3bb06a73-00bb-5268-a9d1-ee105870617c	7c3c3e2e-10c4-5c47-bf7c-ead73c6d6292	Il Giappone ha un'alta densità di popolazione.	Japan has a high population density.				

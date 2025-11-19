@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dativo		dativo	NOUN		1	1e-06	1	1e-06	dativo	NOUN	S	nsubj	Gender=Masc|Number=Sing	22c411ea-9c07-5d8b-b422-2ae191dc13f0	9e4d7484-d114-5709-8f58-9cd427aa9298	Il dativo comporta la morte del genitivo.	Dative spells the death of the genitive.				
+dativo	dah-TEE-voh	dativo	NOUN	dative case	1	1e-06	1	1e-06	dativo	NOUN	S	nsubj	Gender=Masc|Number=Sing	22c411ea-9c07-5d8b-b422-2ae191dc13f0	9e4d7484-d114-5709-8f58-9cd427aa9298	Il dativo comporta la morte del genitivo.	Dative spells the death of the genitive.				

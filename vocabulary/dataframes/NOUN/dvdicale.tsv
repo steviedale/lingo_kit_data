@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dvd.		dvdicale	NOUN		1	1e-06	1	1e-06	dvdicale	NOUN	S	root	Gender=Masc|Number=Sing	664c6e5b-12f7-559f-a3bd-101575255740	171c222b-a47a-53f0-b282-9b6f19558d41	Questo è un DVD.	This is a DVD.				
+dvd.	DEE-vee-DEE	dvdicale	NOUN	DVD	1	1e-06	1	1e-06	dvdicale	NOUN	S	root	Gender=Masc|Number=Sing	664c6e5b-12f7-559f-a3bd-101575255740	171c222b-a47a-53f0-b282-9b6f19558d41	Questo è un DVD.	This is a DVD.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dritta		dritta	NOUN		1	1e-06	1	1e-06	dritta	NOUN	S	nmod	Gender=Fem|Number=Sing	5b0b2bc8-0026-584d-b8e1-5c1acfdef92d	1a2ff802-abb8-59d5-b1a9-d65da0cc5371	Grazie per la dritta.	Thank you for the lead.				
+dritta	DREET-tah	dritta	NOUN	tip; hint	1	1e-06	1	1e-06	dritta	NOUN	S	nmod	Gender=Fem|Number=Sing	5b0b2bc8-0026-584d-b8e1-5c1acfdef92d	1a2ff802-abb8-59d5-b1a9-d65da0cc5371	Grazie per la dritta.	Thank you for the lead.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dubita		dubita	NOUN		1	1e-06	1	1e-06	dubita	NOUN	S	root	Gender=Masc|Number=Sing	88700e3b-f334-58e5-92e3-e22534096115	fcf9de6d-7e88-5a28-bebf-ad6d3ba1d935	Lei dubita di me?	Do you doubt me?				
+dubita	doo-BEE-tah	dubita	NOUN	you doubt	1	1e-06	1	1e-06	dubita	NOUN	S	root	Gender=Masc|Number=Sing	88700e3b-f334-58e5-92e3-e22534096115	fcf9de6d-7e88-5a28-bebf-ad6d3ba1d935	Lei dubita di me?	Do you doubt me?				

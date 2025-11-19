@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-distorsione		distorsione	NOUN		1	1e-06	1	1e-06	distorsione	NOUN	S	root	Gender=Fem|Number=Sing	1d0e1d4b-232d-58c8-ae6b-2a6b33e9556c	c0fb39ab-76cd-5862-8e43-2cc038e9079d	È una distorsione grossolana della verità.	It's a gross distortion of the truth.				
+distorsione	dee-stor-SYOH-neh	distorsione	NOUN	distortion	1	1e-06	1	1e-06	distorsione	NOUN	S	root	Gender=Fem|Number=Sing	1d0e1d4b-232d-58c8-ae6b-2a6b33e9556c	c0fb39ab-76cd-5862-8e43-2cc038e9079d	È una distorsione grossolana della verità.	It's a gross distortion of the truth.				
