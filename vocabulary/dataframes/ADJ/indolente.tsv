@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-indolente		indolente	ADJ		2	2e-06	2	2e-06	indolente	ADJ	A	xcomp	Number=Sing	76b5c501-17c8-5534-b4c1-c1b38323f087	3da6605f-abaf-5715-acbb-743b0ce9ba09	Mi sento indolente.	I feel lethargic.	Io mi sento indolente.	I feel lethargic.		
+indolente	ee-ndoh-LEH-nteh	indolente	ADJ	indolent; lazy	2	2e-06	2	2e-06	indolente	ADJ	A	xcomp	Number=Sing	76b5c501-17c8-5534-b4c1-c1b38323f087	3da6605f-abaf-5715-acbb-743b0ce9ba09	Mi sento indolente.	I feel lethargic.	Io mi sento indolente.	I feel lethargic.		

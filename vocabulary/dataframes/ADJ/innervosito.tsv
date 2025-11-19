@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-innervosito		innervosito	ADJ		1	1e-06	1	1e-06	innervosito	ADJ	A	xcomp	Gender=Masc|Number=Sing	de4d2fcd-879f-5581-bbbf-d9ce2d1f55a7	dada64ce-7bf1-5427-8f51-af297f82cd22	Tom sembra innervosito.	Tom looks unnerved.				
+innervosito	ee-nneh-rvoh-SEE-toh	innervosito	ADJ	irritated; made nervous (masculine)	1	1e-06	1	1e-06	innervosito	ADJ	A	xcomp	Gender=Masc|Number=Sing	de4d2fcd-879f-5581-bbbf-d9ce2d1f55a7	dada64ce-7bf1-5427-8f51-af297f82cd22	Tom sembra innervosito.	Tom looks unnerved.				

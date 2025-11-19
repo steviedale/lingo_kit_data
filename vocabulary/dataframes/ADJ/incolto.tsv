@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-incolto		incolto	ADJ		2	2e-06	2	2e-06	incolto	ADJ	A	root	Gender=Masc|Number=Sing	231cb12e-88ec-5e91-9d12-ea9dbefe57ea	03c8b405-1417-5bbb-8d0c-c0e1a58fe2f1	Tom è incolto.	Tom's illiterate.	Questo campo è incolto.	This field is uncultivated.		
+incolto	ee-NKOH-ltoh	incolto	ADJ	uncultivated; uncultured (masculine)	2	2e-06	2	2e-06	incolto	ADJ	A	root	Gender=Masc|Number=Sing	231cb12e-88ec-5e91-9d12-ea9dbefe57ea	03c8b405-1417-5bbb-8d0c-c0e1a58fe2f1	Tom è incolto.	Tom's illiterate.	Questo campo è incolto.	This field is uncultivated.		

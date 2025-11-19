@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ingrossata		ingrossato	ADJ		1	1e-06	1	1e-06	ingrossato	ADJ	A	amod	Gender=Fem|Number=Sing	72d46b1d-a964-5fde-9230-c513ca4f9235	ab8a5d52-458a-597c-a049-8136afd9ba53	Avevo la prostata ingrossata.	I had an enlarged prostate.				
+ingrossata	ee-ngroh-SSAH-tah	ingrossato	ADJ	swollen; enlarged (feminine)	1	1e-06	1	1e-06	ingrossato	ADJ	A	amod	Gender=Fem|Number=Sing	72d46b1d-a964-5fde-9230-c513ca4f9235	ab8a5d52-458a-597c-a049-8136afd9ba53	Avevo la prostata ingrossata.	I had an enlarged prostate.				

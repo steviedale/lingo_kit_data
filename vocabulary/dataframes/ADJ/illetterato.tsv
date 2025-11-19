@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-illetterato		illetterato	ADJ		1	1e-06	1	1e-06	illetterato	ADJ	A	root	Gender=Masc|Number=Sing	979e9eb2-968b-58f0-b804-b4c14bdffb94	9b45dfaa-f0e4-55ad-b86d-fac10d7af16a	Tom è illetterato.	Tom's illiterate.				
+illetterato	ee-lleh-tteh-RAH-toh	illetterato	ADJ	illiterate; uneducated (masculine)	1	1e-06	1	1e-06	illetterato	ADJ	A	root	Gender=Masc|Number=Sing	979e9eb2-968b-58f0-b804-b4c14bdffb94	9b45dfaa-f0e4-55ad-b86d-fac10d7af16a	Tom è illetterato.	Tom's illiterate.				

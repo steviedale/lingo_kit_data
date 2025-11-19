@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-indonesiano		indonesiano	ADJ		1	1e-06	1	1e-06	indonesiano	ADJ	A	amod	Gender=Masc|Number=Sing	6773b9ef-b442-533e-ac64-201ab6c5c25a	7170346a-d723-5a37-baef-4a5e7214d075	Ti piace il cibo indonesiano?	Do you like Indonesian food?				
+indonesiano	ee-ndoh-neh-see-AH-noh	indonesiano	ADJ	Indonesian (masculine)	1	1e-06	1	1e-06	indonesiano	ADJ	A	amod	Gender=Masc|Number=Sing	6773b9ef-b442-533e-ac64-201ab6c5c25a	7170346a-d723-5a37-baef-4a5e7214d075	Ti piace il cibo indonesiano?	Do you like Indonesian food?				

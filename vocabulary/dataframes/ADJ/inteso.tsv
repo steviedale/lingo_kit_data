@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-intesi		inteso	ADJ		1	1e-06	1	1e-06	inteso	ADJ	A	amod	Gender=Masc|Number=Plur	794acda4-13a5-51d2-9ce3-1902ccd7fa06	b835c7c6-9184-5414-a980-3228a34c2d72	Non bere troppo, intesi?	Don't drink too much, okay?				
+intesi	ee-NTEH-see	inteso	ADJ	meant; intended (masculine plural)	1	1e-06	1	1e-06	inteso	ADJ	A	amod	Gender=Masc|Number=Plur	794acda4-13a5-51d2-9ce3-1902ccd7fa06	b835c7c6-9184-5414-a980-3228a34c2d72	Non bere troppo, intesi?	Don't drink too much, okay?				

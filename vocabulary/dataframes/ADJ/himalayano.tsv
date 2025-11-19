@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-himalayana		himalayano	ADJ		1	1e-06	1	1e-06	himalayano	ADJ	A	amod	Gender=Fem|Number=Sing	e74b18d8-206b-5e60-bd74-504e9c71b2fe	afcc71d7-4610-5354-bb25-2baaecf78c53	La catena himalayana è più alta delle Alpi.	The Himalayas are higher than the Alps.				
+himalayana	ee-mah-lah-YAH-nah	himalayano	ADJ	Himalayan (feminine)	1	1e-06	1	1e-06	himalayano	ADJ	A	amod	Gender=Fem|Number=Sing	e74b18d8-206b-5e60-bd74-504e9c71b2fe	afcc71d7-4610-5354-bb25-2baaecf78c53	La catena himalayana è più alta delle Alpi.	The Himalayas are higher than the Alps.				

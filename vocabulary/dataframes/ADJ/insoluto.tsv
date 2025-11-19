@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-insoluti		insoluto	ADJ		1	1e-06	1	1e-06	insoluto	ADJ	A	xcomp	Gender=Masc|Number=Plur	551f4c03-a5fd-5f0e-a4c6-f8218ce9d211	2fee17eb-38ee-5609-9386-8cafdf54071e	Due problemi sono rimasti insoluti.	Two problems remained unsolved.				
+insoluti	ee-nsoh-LOO-tee	insoluto	ADJ	unresolved; unsettled (masculine plural)	1	1e-06	1	1e-06	insoluto	ADJ	A	xcomp	Gender=Masc|Number=Plur	551f4c03-a5fd-5f0e-a4c6-f8218ce9d211	2fee17eb-38ee-5609-9386-8cafdf54071e	Due problemi sono rimasti insoluti.	Two problems remained unsolved.				

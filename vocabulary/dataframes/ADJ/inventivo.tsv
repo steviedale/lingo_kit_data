@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-inventivo		inventivo	ADJ		1	1e-06	1	1e-06	inventivo	ADJ	A	root	Gender=Masc|Number=Sing	d69130ec-b70f-5903-8a65-816382551db7	da6c9a0b-b32c-5ae3-b708-eef237fde356	Tom è inventivo.	Tom is inventive.				
+inventivo	ee-nveh-NTEE-voh	inventivo	ADJ	inventive; creative (masculine)	1	1e-06	1	1e-06	inventivo	ADJ	A	root	Gender=Masc|Number=Sing	d69130ec-b70f-5903-8a65-816382551db7	da6c9a0b-b32c-5ae3-b708-eef237fde356	Tom è inventivo.	Tom is inventive.				

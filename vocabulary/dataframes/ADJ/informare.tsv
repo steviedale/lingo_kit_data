@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-informati		informare	ADJ		1	1e-06	1	1e-06	informare	ADJ	A	xcomp	Gender=Masc|Number=Plur	93ddf04c-3774-571e-b44e-b0b1b2b2429b	2dd22d57-ba0b-5efd-8a51-9291427eba9f	Tom vi terrà informati.	Tom will keep you posted.				
+informati	ee-nfoh-RMAH-tee	informare	ADJ	to inform; to notify (masculine plural)	1	1e-06	1	1e-06	informare	ADJ	A	xcomp	Gender=Masc|Number=Plur	93ddf04c-3774-571e-b44e-b0b1b2b2429b	2dd22d57-ba0b-5efd-8a51-9291427eba9f	Tom vi terrà informati.	Tom will keep you posted.				

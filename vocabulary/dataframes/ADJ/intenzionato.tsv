@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-intenzionato		intenzionato	ADJ		1	1e-06	1	1e-06	intenzionato	ADJ	A	conj	Gender=Masc|Number=Sing	92f5a49e-c7f9-5310-ab73-c2fb511eb3fa	8274f94f-2ea3-587f-8308-5c198a23f674	Tom è sia in grado e che intenzionato.	Tom is both able and willing.				
+intenzionato	ee-nteh-ntsee-oh-NAH-toh	intenzionato	ADJ	intent on; determined (masculine)	1	1e-06	1	1e-06	intenzionato	ADJ	A	conj	Gender=Masc|Number=Sing	92f5a49e-c7f9-5310-ab73-c2fb511eb3fa	8274f94f-2ea3-587f-8308-5c198a23f674	Tom è sia in grado e che intenzionato.	Tom is both able and willing.				

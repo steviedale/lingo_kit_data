@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ilegale		ilegale	ADJ		1	1e-06	1	1e-06	ilegale	ADJ	A	amod	Number=Sing	ca261bef-673a-548b-bace-e0f8a7e01cc8	a27bdefd-e75f-56ba-9957-ee2a1f4cc566	Pharamp ha pagato una multa per parcheggio ilegale.	Pharamp paid a fine for illegal parking.				
+ilegale	ee-leh-GAH-leh	ilegale	ADJ	illegal	1	1e-06	1	1e-06	ilegale	ADJ	A	amod	Number=Sing	ca261bef-673a-548b-bace-e0f8a7e01cc8	a27bdefd-e75f-56ba-9957-ee2a1f4cc566	Pharamp ha pagato una multa per parcheggio ilegale.	Pharamp paid a fine for illegal parking.				
