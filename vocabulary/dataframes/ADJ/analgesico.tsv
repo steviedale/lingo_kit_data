@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-analgesici		analgesico	ADJ		1	1e-06	1	1e-06	analgesico	ADJ	A	root	Gender=Masc|Number=Plur	53b63b23-7ef5-5f61-851e-153e581e7fa3	3fab1e83-518b-5fcd-a51e-f3c1ac04e800	Le endorfine sono analgesici naturali.	Endorphins are natural analgesics.				
+analgesici	ah-nahl-jeh-SEE-chee	analgesico	ADJ	analgesic; pain-relieving (plural)	1	1e-06	1	1e-06	analgesico	ADJ	A	root	Gender=Masc|Number=Plur	53b63b23-7ef5-5f61-851e-153e581e7fa3	3fab1e83-518b-5fcd-a51e-f3c1ac04e800	Le endorfine sono analgesici naturali.	Endorphins are natural analgesics.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-antartico		antartico	ADJ		1	1e-06	1	1e-06	antartico	ADJ	A	amod	Gender=Masc|Number=Sing	5ac8ed11-8dad-53ec-bcf0-b49d28deada8	5cab7c52-89be-5427-a5ab-56ed9ae72c20	Tux è un uccello antartico.	Tux is an Antarctic bird.				
+antartico	ahn-tahr-TEE-koh	antartico	ADJ	antarctic	1	1e-06	1	1e-06	antartico	ADJ	A	amod	Gender=Masc|Number=Sing	5ac8ed11-8dad-53ec-bcf0-b49d28deada8	5cab7c52-89be-5427-a5ab-56ed9ae72c20	Tux è un uccello antartico.	Tux is an Antarctic bird.				

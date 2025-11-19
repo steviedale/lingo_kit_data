@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-annegato		annegare	ADJ		1	1e-06	1	1e-06	annegare	ADJ	A	amod	Gender=Masc|Number=Sing	7921834e-e5ea-5b9d-b307-ecaad8448626	61fdca19-dd4d-5784-9811-5b37ded55adb	Il corpo annegato non è stato recuperato.	The drowned body has not been recovered.				
+annegato	ahn-neh-GAH-toh	annegare	ADJ	drowned	1	1e-06	1	1e-06	annegare	ADJ	A	amod	Gender=Masc|Number=Sing	7921834e-e5ea-5b9d-b307-ecaad8448626	61fdca19-dd4d-5784-9811-5b37ded55adb	Il corpo annegato non è stato recuperato.	The drowned body has not been recovered.				

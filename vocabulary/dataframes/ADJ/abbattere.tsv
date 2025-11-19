@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-abbattuto		abbattere	ADJ		1	1e-06	1	1e-06	abbattere	ADJ	A	amod	Gender=Masc|Number=Sing	bd8f75ad-1aff-5ac4-aa84-b99923d980d8	49884d22-7261-5528-8124-dcf7ef10f480	L'uomo era seduto su un albero abbattuto.	The man was sitting on a fallen tree.				
+abbattuto	ahb-baht-TOO-toh	abbattere	ADJ	felled; knocked down	1	1e-06	1	1e-06	abbattere	ADJ	A	amod	Gender=Masc|Number=Sing	bd8f75ad-1aff-5ac4-aa84-b99923d980d8	49884d22-7261-5528-8124-dcf7ef10f480	L'uomo era seduto su un albero abbattuto.	The man was sitting on a fallen tree.				

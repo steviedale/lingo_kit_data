@@ -1,3 +1,3 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-angusto		angusto	ADJ		1	1e-06	2	2e-06	angusto	ADJ	A	conj	Gender=Masc|Number=Sing	c2dc5dc3-e1bc-59b5-87fd-746b1e0b9c9c	732e5e6b-3535-5c01-983b-45461e1a2afc	È piccolissimo e angusto.	It's very small and cramped.				
-angusti		angusto	ADJ		1	1e-06	2	2e-06	angusto	ADJ	A	root	Gender=Masc|Number=Plur	62bad77b-300f-5635-b4be-b8c120ee1601	732e5e6b-3535-5c01-983b-45461e1a2afc	Non si angusti.	Don't worry.				
+angusto	ahn-GOO-stoh	angusto	ADJ	narrow; cramped	1	1e-06	2	2e-06	angusto	ADJ	A	conj	Gender=Masc|Number=Sing	c2dc5dc3-e1bc-59b5-87fd-746b1e0b9c9c	732e5e6b-3535-5c01-983b-45461e1a2afc	È piccolissimo e angusto.	It's very small and cramped.				
+angusti	ahn-GOO-stee	angusto	ADJ	narrow; cramped (plural)	1	1e-06	2	2e-06	angusto	ADJ	A	root	Gender=Masc|Number=Plur	62bad77b-300f-5635-b4be-b8c120ee1601	732e5e6b-3535-5c01-983b-45461e1a2afc	Non si angusti.	Don't worry.				

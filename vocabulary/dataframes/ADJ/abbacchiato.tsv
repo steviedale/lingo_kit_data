@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-abbacchiato		abbacchiato	ADJ		1	1e-06	1	1e-06	abbacchiato	ADJ	A	amod	Gender=Masc|Number=Sing	f807f4a6-a3ad-5475-826d-05a841dc1580	e67017a9-5fba-5f77-97cd-a4719fb0270e	Mi sento un tantino abbacchiato.	I feel a bit depressed.				
+abbacchiato	ahb-bahk-KYAH-toh	abbacchiato	ADJ	dejected; downcast	1	1e-06	1	1e-06	abbacchiato	ADJ	A	amod	Gender=Masc|Number=Sing	f807f4a6-a3ad-5475-826d-05a841dc1580	e67017a9-5fba-5f77-97cd-a4719fb0270e	Mi sento un tantino abbacchiato.	I feel a bit depressed.				

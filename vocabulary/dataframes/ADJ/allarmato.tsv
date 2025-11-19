@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-allarmato		allarmato	ADJ		1	1e-06	1	1e-06	allarmato	ADJ	A	xcomp	Gender=Masc|Number=Sing	4864bc3b-42ec-5dff-afeb-aafc0dcace26	a20c563b-a07f-5b61-8f8c-efb399010ba6	Tom di sicuro non sembrava allarmato.	Tom certainly didn't sound alarmed.				
+allarmato	ahl-lahr-MAH-toh	allarmato	ADJ	alarmed; worried	1	1e-06	1	1e-06	allarmato	ADJ	A	xcomp	Gender=Masc|Number=Sing	4864bc3b-42ec-5dff-afeb-aafc0dcace26	a20c563b-a07f-5b61-8f8c-efb399010ba6	Tom di sicuro non sembrava allarmato.	Tom certainly didn't sound alarmed.				

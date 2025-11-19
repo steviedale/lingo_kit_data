@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-agri		agrio	ADJ		1	1e-06	1	1e-06	agrio	ADJ	A	root	Gender=Masc|Number=Plur	f9109621-38c6-5f91-9cf4-428e357d28bd	0433070b-7afb-51d5-b0b0-1d304c038918	I frutti acidi come gli ananas e i limoni sono agri.	Acid fruits like pineapples and lemons are sour.				
+agri	AH-jree	agrio	ADJ	sour; tart (plural)	1	1e-06	1	1e-06	agrio	ADJ	A	root	Gender=Masc|Number=Plur	f9109621-38c6-5f91-9cf4-428e357d28bd	0433070b-7afb-51d5-b0b0-1d304c038918	I frutti acidi come gli ananas e i limoni sono agri.	Acid fruits like pineapples and lemons are sour.				

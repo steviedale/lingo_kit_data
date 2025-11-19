@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-alticcio		alticcio	ADJ		1	1e-06	1	1e-06	alticcio	ADJ	A	root	Gender=Masc|Number=Sing	8c1af14c-c797-5931-932f-2ec825cc8b80	905da74e-e6c8-5c4a-bf4e-e8ba4bbbba1f	Tom è alticcio.	Tom's tipsy.				
+alticcio	ahl-TEEK-chyoh	alticcio	ADJ	tipsy; slightly drunk	1	1e-06	1	1e-06	alticcio	ADJ	A	root	Gender=Masc|Number=Sing	8c1af14c-c797-5931-932f-2ec825cc8b80	905da74e-e6c8-5c4a-bf4e-e8ba4bbbba1f	Tom è alticcio.	Tom's tipsy.				

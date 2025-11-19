@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-affettuosa		affettuoso	ADJ		1	1e-06	1	1e-06	affettuoso	ADJ	A	amod	Gender=Fem|Number=Sing	c6f88859-c5c7-597c-a78b-0662d68e0e06	6315b615-6a49-5b3f-a1d7-cf68f70588e9	Mi ha scritto una lettera affettuosa.	He sent me an affectionate letter.				
+affettuosa	ahf-feht-TWOH-sah	affettuoso	ADJ	affectionate; loving	1	1e-06	1	1e-06	affettuoso	ADJ	A	amod	Gender=Fem|Number=Sing	c6f88859-c5c7-597c-a78b-0662d68e0e06	6315b615-6a49-5b3f-a1d7-cf68f70588e9	Mi ha scritto una lettera affettuosa.	He sent me an affectionate letter.				
