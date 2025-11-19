@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tienitela		tienitelare	VERB		1	1e-06	1	1e-06	tienitelare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	e4f64a2a-a6be-5f14-8cc3-fa7b83f7223f	7f8e007b-89d5-5d34-ae90-3bb82b9dcfe1	Tienitela per te.	Keep it to yourself.				
+tienitela	TYEH-nee-teh-lah	tienitelare	VERB	(you) keep it for yourself	1	1e-06	1	1e-06	tienitelare	VERB	V	root	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	e4f64a2a-a6be-5f14-8cc3-fa7b83f7223f	7f8e007b-89d5-5d34-ae90-3bb82b9dcfe1	Tienitela per te.	Keep it to yourself.				

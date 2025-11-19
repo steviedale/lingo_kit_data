@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-taccheggiare		taccheggiare	VERB		1	1e-06	1	1e-06	taccheggiare	VERB	V	ccomp	VerbForm=Inf	f8ee5bfd-d887-548f-9f4b-68ecc0a5fdde	c71e5787-2069-5e03-a074-400e10441c3f	Andiamo a taccheggiare il supermercato.	Let's go shoplift from the supermarket.				
+taccheggiare	tahk-kehj-JAH-reh	taccheggiare	VERB	to shoplift	1	1e-06	1	1e-06	taccheggiare	VERB	V	ccomp	VerbForm=Inf	f8ee5bfd-d887-548f-9f4b-68ecc0a5fdde	c71e5787-2069-5e03-a074-400e10441c3f	Andiamo a taccheggiare il supermercato.	Let's go shoplift from the supermarket.				

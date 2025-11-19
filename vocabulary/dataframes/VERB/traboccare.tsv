@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-traboccare		traboccare	VERB		1	1e-06	1	1e-06	traboccare	VERB	V	ccomp	VerbForm=Inf	fe12a398-5f3c-5230-83da-6c55366d385c	ecbfb941-a525-5adc-b845-92aca08616e3	L'ultima goccia fa traboccare il vaso.	The last straw breaks the camel's back.				
+traboccare	trah-bohk-KAH-reh	traboccare	VERB	to overflow	1	1e-06	1	1e-06	traboccare	VERB	V	ccomp	VerbForm=Inf	fe12a398-5f3c-5230-83da-6c55366d385c	ecbfb941-a525-5adc-b845-92aca08616e3	L'ultima goccia fa traboccare il vaso.	The last straw breaks the camel's back.				

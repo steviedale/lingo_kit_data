@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-teso		teso	VERB		1	1e-06	1	1e-06	teso	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	86c5518c-57e5-547a-90e6-008be6549b86	377f1ba4-90f0-50d8-a1fb-3bbeb7e457eb	Loro hanno teso un'imboscata al nemico.	They ambushed the enemy.				
+teso	TEH-zoh	teso	VERB	stretched (masculine)	1	1e-06	1	1e-06	teso	VERB	V	root	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	86c5518c-57e5-547a-90e6-008be6549b86	377f1ba4-90f0-50d8-a1fb-3bbeb7e457eb	Loro hanno teso un'imboscata al nemico.	They ambushed the enemy.				

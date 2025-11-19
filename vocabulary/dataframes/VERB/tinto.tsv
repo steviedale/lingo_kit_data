@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tinti		tinto	VERB		1	1e-06	1	1e-06	tinto	VERB	V	root	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	93e76cb9-cc3a-5f3f-b859-74d7fd9c66e5	377846de-7ea0-50f9-9e0c-e50b2ee43840	Vi siete mai tinti i capelli?	Have you ever dyed your hair?				
+tinti	TEEN-tee	tinto	VERB	dyed (masculine) (plural)	1	1e-06	1	1e-06	tinto	VERB	V	root	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	93e76cb9-cc3a-5f3f-b859-74d7fd9c66e5	377846de-7ea0-50f9-9e0c-e50b2ee43840	Vi siete mai tinti i capelli?	Have you ever dyed your hair?				
