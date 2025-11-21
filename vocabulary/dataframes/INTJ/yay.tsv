@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-yay		yay	INTJ		2	2e-06	2	2e-06	yay	INTJ	I	discourse		33d5408f-826c-53b8-ab38-c1cb1e832d38	b5c6fed6-7b76-5f51-86ca-6648159fc4b5	Yay, sono andata al negozio!	Yay, I went to the store!	Yay, sono andato al negozio!	Yay, I went to the store!		
+yay	yay	yay	INTJ	yay	2	2e-06	2	2e-06	yay	INTJ	I	discourse		33d5408f-826c-53b8-ab38-c1cb1e832d38	b5c6fed6-7b76-5f51-86ca-6648159fc4b5	Yay, sono andata al negozio!	Yay, I went to the store!	Yay, sono andato al negozio!	Yay, I went to the store!		

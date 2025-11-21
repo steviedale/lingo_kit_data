@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ehi		ehi	INTJ		17	1.6e-05	17	1.6e-05	ehi	INTJ	I	discourse		f6ae93fb-885e-5127-8659-5c75766b5ff5	9c3021f0-6498-5abd-983d-4279cd9c2e52	Ehi, hai la patta aperta. Chiudila.	Hey, your fly is down. Zip it up.	Ehi, rallenta!	Hey, slow down!	Ehi, amico.	Hey, dude.
+ehi	AY-ee	ehi	INTJ	hey	17	1.6e-05	17	1.6e-05	ehi	INTJ	I	discourse		f6ae93fb-885e-5127-8659-5c75766b5ff5	9c3021f0-6498-5abd-983d-4279cd9c2e52	Ehi, hai la patta aperta. Chiudila.	Hey, your fly is down. Zip it up.	Ehi, rallenta!	Hey, slow down!	Ehi, amico.	Hey, dude.

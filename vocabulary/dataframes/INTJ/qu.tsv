@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-quell'		qu	INTJ		1	1e-06	1	1e-06	qu+il	INTJ+DET	I	discourse	Definite=Def|Number=Sing|PronType=Art	3f041af5-75c4-5106-8f15-0b7ca2e52aae	1a0be613-76e1-5931-a828-f8c2286814cd	Quell'aereo è enorme!	That plane is enormous!				
+quell'	KWEL	qu	INTJ	that	1	1e-06	1	1e-06	qu+il	INTJ+DET	I	discourse	Definite=Def|Number=Sing|PronType=Art	3f041af5-75c4-5106-8f15-0b7ca2e52aae	1a0be613-76e1-5931-a828-f8c2286814cd	Quell'aereo è enorme!	That plane is enormous!				
