@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-protetta		protetto	ADJ		1	1e-06	1	1e-06	protetto	ADJ	A	amod	Gender=Fem|Number=Sing	5923b294-30b2-55d9-a4e1-21220085f4d9	70e0ffdb-28aa-586a-bf19-9f6e2176e24f	Tom vive una vita protetta.	Tom lives a sheltered life.				
+protetta	proh-TEHT-tah	protetto	ADJ	protected; sheltered	1	1e-06	1	1e-06	protetto	ADJ	A	amod	Gender=Fem|Number=Sing	5923b294-30b2-55d9-a4e1-21220085f4d9	70e0ffdb-28aa-586a-bf19-9f6e2176e24f	Tom vive una vita protetta.	Tom lives a sheltered life.				

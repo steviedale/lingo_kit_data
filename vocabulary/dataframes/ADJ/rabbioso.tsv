@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-rabbioso		rabbioso	ADJ		1	1e-06	1	1e-06	rabbioso	ADJ	A	root	Gender=Masc|Number=Sing	451d8f28-6210-5574-9dd6-bdfd8cb9f468	d3d098c5-564b-510a-ab39-9b7586915e4a	Il mare è rabbioso.	The sea is angry.				
+rabbioso	rahb-BYOH-soh	rabbioso	ADJ	rabid; enraged	1	1e-06	1	1e-06	rabbioso	ADJ	A	root	Gender=Masc|Number=Sing	451d8f28-6210-5574-9dd6-bdfd8cb9f468	d3d098c5-564b-510a-ab39-9b7586915e4a	Il mare è rabbioso.	The sea is angry.				
