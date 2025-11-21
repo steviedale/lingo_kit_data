@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-debitamente		debitamente	ADV		1	1e-06	1	1e-06	debitamente	ADV	B	advmod		da914e69-ac1f-59b8-b4c6-59abcdd916a9	9b1e47b4-5599-5c16-b381-dab48e2956e9	Tom era debitamente impressionato.	Tom was duly impressed.				
+debitamente	deh-bee-tah-MEHN-teh	debitamente	ADV	duly; properly	1	1e-06	1	1e-06	debitamente	ADV	B	advmod		da914e69-ac1f-59b8-b4c6-59abcdd916a9	9b1e47b4-5599-5c16-b381-dab48e2956e9	Tom era debitamente impressionato.	Tom was duly impressed.				
