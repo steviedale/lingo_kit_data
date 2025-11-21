@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-​​un		vuul	DET		1	1e-06	1	1e-06	vuul	DET	RI	det	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	dc763c0f-78ba-5003-adfc-3f5164b3240f	5707bbe7-b3c2-5a09-962f-8bc0796e06cf	Siamo arrivati ​​un po' in ritardo.	We've arrived a little late.				
+​​un	OON	vuul	DET	a; one (masculine)	1	1e-06	1	1e-06	vuul	DET	RI	det	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	dc763c0f-78ba-5003-adfc-3f5164b3240f	5707bbe7-b3c2-5a09-962f-8bc0796e06cf	Siamo arrivati ​​un po' in ritardo.	We've arrived a little late.				

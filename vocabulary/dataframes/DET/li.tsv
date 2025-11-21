@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-li		li	DET		3	3e-06	3	3e-06	li	DET	RD	root	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	a9518732-9d67-5b45-bdd9-420d4c568def	8b495018-0f07-5f78-8fdb-717d76e54b6b	È Li Ying.	He is Li Ying.	Lei è Li Ying.	She is Li Ying.	Lui è Li Ying.	He is Li Ying.
+li	LEE	li	DET	Li (proper noun)	3	3e-06	3	3e-06	li	DET	RD	root	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	a9518732-9d67-5b45-bdd9-420d4c568def	8b495018-0f07-5f78-8fdb-717d76e54b6b	È Li Ying.	He is Li Ying.	Lei è Li Ying.	She is Li Ying.	Lui è Li Ying.	He is Li Ying.
