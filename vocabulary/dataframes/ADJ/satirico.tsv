@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-satirica		satirico	ADJ		1	1e-06	1	1e-06	satirico	ADJ	A	amod	Gender=Fem|Number=Sing	14955822-735c-54ac-801b-040db6933245	d03c63ef-fad9-5011-a450-a3d8c34e3cff	Tim è un grande fan della commedia satirica.	Tim is a huge fan of satirical comedy.				
+satirica	sah-TEE-ree-kah	satirico	ADJ	satirical (feminine)	1	1e-06	1	1e-06	satirico	ADJ	A	amod	Gender=Fem|Number=Sing	14955822-735c-54ac-801b-040db6933245	d03c63ef-fad9-5011-a450-a3d8c34e3cff	Tim è un grande fan della commedia satirica.	Tim is a huge fan of satirical comedy.				

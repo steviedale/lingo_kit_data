@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-scusata		scusato	ADJ		1	1e-06	1	1e-06	scusato	ADJ	A	root	Gender=Fem|Number=Sing	00adcdb2-290c-5ccf-b892-ebbd137f5cd2	f863523c-c85b-5f3a-82a8-a00ce326d4c2	Sei scusata.	You are excused.				
+scusata	skoo-ZAH-tah	scusato	ADJ	excused; forgiven (feminine)	1	1e-06	1	1e-06	scusato	ADJ	A	root	Gender=Fem|Number=Sing	00adcdb2-290c-5ccf-b892-ebbd137f5cd2	f863523c-c85b-5f3a-82a8-a00ce326d4c2	Sei scusata.	You are excused.				

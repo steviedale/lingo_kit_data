@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sanguinante		sanguinare	ADJ		1	1e-06	1	1e-06	sanguinare	ADJ	A	amod	Number=Sing	08919e99-24b1-5695-92e3-d5e6e817bf85	65f308a4-1324-5c35-aa82-66751d92f032	Tom ha il naso sanguinante.	Tom has a bloody nose.				
+sanguinante	sahn-gwee-NAHN-teh	sanguinare	ADJ	bleeding; bloodied	1	1e-06	1	1e-06	sanguinare	ADJ	A	amod	Number=Sing	08919e99-24b1-5695-92e3-d5e6e817bf85	65f308a4-1324-5c35-aa82-66751d92f032	Tom ha il naso sanguinante.	Tom has a bloody nose.				

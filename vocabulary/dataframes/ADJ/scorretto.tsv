@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-scorretto		scorretto	ADJ		1	1e-06	1	1e-06	scorretto	ADJ	A	root	Gender=Masc|Number=Sing	f3d860b7-238e-5233-92a7-37e4a09bee73	de1d7cdb-1361-57d6-965b-bc05718a98e5	Questo film è politicamente scorretto.	This movie is politically incorrect.				
+scorretto	skor-RET-toh	scorretto	ADJ	incorrect; unfair (masculine)	1	1e-06	1	1e-06	scorretto	ADJ	A	root	Gender=Masc|Number=Sing	f3d860b7-238e-5233-92a7-37e4a09bee73	de1d7cdb-1361-57d6-965b-bc05718a98e5	Questo film è politicamente scorretto.	This movie is politically incorrect.				

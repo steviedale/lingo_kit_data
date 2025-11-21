@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ruvida		ruvido	ADJ		1	1e-06	1	1e-06	ruvido	ADJ	A	root	Gender=Fem|Number=Sing	19aa1587-2cbe-563c-aed3-eb0c0021af60	69b382ee-87d3-57bd-bfc7-27a38702a641	Questa carta è ruvida.	This paper is rough.				
+ruvida	ROO-vee-dah	ruvido	ADJ	rough; coarse (feminine)	1	1e-06	1	1e-06	ruvido	ADJ	A	root	Gender=Fem|Number=Sing	19aa1587-2cbe-563c-aed3-eb0c0021af60	69b382ee-87d3-57bd-bfc7-27a38702a641	Questa carta è ruvida.	This paper is rough.				
