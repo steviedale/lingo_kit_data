@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-scivolosa		scivoloso	ADJ		1	1e-06	1	1e-06	scivoloso	ADJ	A	conj	Gender=Fem|Number=Sing	173dde06-4c27-566b-a481-18fcff19028a	66108978-2dd8-5316-beec-d6d87c3f6bc4	La strada è ghiacciata e ora è scivolosa.	The road has frozen and it's now slippery.				
+scivolosa	shee-voh-LOH-zah	scivoloso	ADJ	slippery; slick (feminine)	1	1e-06	1	1e-06	scivoloso	ADJ	A	conj	Gender=Fem|Number=Sing	173dde06-4c27-566b-a481-18fcff19028a	66108978-2dd8-5316-beec-d6d87c3f6bc4	La strada è ghiacciata e ora è scivolosa.	The road has frozen and it's now slippery.				
