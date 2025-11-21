@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-niente		niente	ADV		1	1e-06	1	1e-06	niente	ADV	B	advmod		1faf7184-507c-5744-82e5-6a5d3a01ddf9	79ef9131-8ed2-5976-bb40-25b6b727cab5	Lei non è per niente sorpresa.	She is not in the least surprised.				
+niente	NYEN-teh	niente	ADV	nothing	1	1e-06	1	1e-06	niente	ADV	B	advmod		1faf7184-507c-5744-82e5-6a5d3a01ddf9	79ef9131-8ed2-5976-bb40-25b6b727cab5	Lei non è per niente sorpresa.	She is not in the least surprised.				

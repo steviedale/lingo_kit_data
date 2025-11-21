@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-meravigliosamente		meravigliosamente	ADV		1	1e-06	1	1e-06	meravigliosamente	ADV	B	advmod		f2274b65-7384-53e5-9f6a-58f92f8d8daa	c054d2ac-647e-5bfd-b431-8d617bbc6dab	Questo libro è illustrato meravigliosamente.	This book is beautifully illustrated.				
+meravigliosamente	meh-rah-veel-yoh-sah-MEN-teh	meravigliosamente	ADV	wonderfully	1	1e-06	1	1e-06	meravigliosamente	ADV	B	advmod		f2274b65-7384-53e5-9f6a-58f92f8d8daa	c054d2ac-647e-5bfd-b431-8d617bbc6dab	Questo libro è illustrato meravigliosamente.	This book is beautifully illustrated.				

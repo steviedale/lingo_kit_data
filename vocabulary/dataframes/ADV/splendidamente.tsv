@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-splendidamente		splendidamente	ADV		1	1e-06	1	1e-06	splendidamente	ADV	B	advmod		6d788b29-030c-5732-966d-af7705d49bd5	801c4e96-00a7-5f09-be70-056445a921f6	Tom canta splendidamente.	Tom sings beautifully.				
+splendidamente	splen-dee-dah-MEN-teh	splendidamente	ADV	splendidly	1	1e-06	1	1e-06	splendidamente	ADV	B	advmod		6d788b29-030c-5732-966d-af7705d49bd5	801c4e96-00a7-5f09-be70-056445a921f6	Tom canta splendidamente.	Tom sings beautifully.				

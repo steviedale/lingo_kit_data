@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-maleducatamente		maleducatamente	ADV		1	1e-06	1	1e-06	maleducatamente	ADV	B	advmod		81fe1fe9-d589-5a22-9fc3-27412d42e4eb	3fc7b077-f199-50f2-a408-130ef4873577	Come osi comportarti così maleducatamente?	How dare you behave so rudely!				
+maleducatamente	mah-leh-doo-kah-tah-MEN-teh	maleducatamente	ADV	rudely	1	1e-06	1	1e-06	maleducatamente	ADV	B	advmod		81fe1fe9-d589-5a22-9fc3-27412d42e4eb	3fc7b077-f199-50f2-a408-130ef4873577	Come osi comportarti così maleducatamente?	How dare you behave so rudely!				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pubblicamente		pubblicamente	ADV		1	1e-06	1	1e-06	pubblicamente	ADV	B	advmod		e09a7cff-2b36-5bbb-a68b-c3d18dc5b709	c22193b6-2fe6-588b-b141-f10b9ffbde17	Mi insultò pubblicamente.	He insulted me in public.				
+pubblicamente	poob-blee-kah-MEN-teh	pubblicamente	ADV	publicly	1	1e-06	1	1e-06	pubblicamente	ADV	B	advmod		e09a7cff-2b36-5bbb-a68b-c3d18dc5b709	c22193b6-2fe6-588b-b141-f10b9ffbde17	Mi insultò pubblicamente.	He insulted me in public.				

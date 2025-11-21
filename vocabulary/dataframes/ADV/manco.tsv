@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-manco		manco	ADV		3	3e-06	3	3e-06	manco	ADV	B	case		350b8c29-95c1-5e86-8a65-4abe6eb788a7	bc39fa7f-5a49-5d3e-b83d-c02ff338e293	Oggi manco di ispirazione.	Today I'm lacking inspiration.	Manco a qualcuno?	Anybody miss me?	Io manco a qualcuno?	Anybody miss me?
+manco	MAHN-koh	manco	ADV	not even	3	3e-06	3	3e-06	manco	ADV	B	case		350b8c29-95c1-5e86-8a65-4abe6eb788a7	bc39fa7f-5a49-5d3e-b83d-c02ff338e293	Oggi manco di ispirazione.	Today I'm lacking inspiration.	Manco a qualcuno?	Anybody miss me?	Io manco a qualcuno?	Anybody miss me?

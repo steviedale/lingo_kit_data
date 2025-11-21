@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-potenzialmente		potenzialmente	ADV		1	1e-06	1	1e-06	potenzialmente	ADV	B	advmod		28978eb4-9cee-58a3-bef9-db9e5b653a4b	97d6d7fd-b669-54c3-b978-697530513e21	Le nostre parole sono potenzialmente ambigue.	Our words are potentially ambiguous.				
+potenzialmente	poh-ten-tsyahl-MEN-teh	potenzialmente	ADV	potentially	1	1e-06	1	1e-06	potenzialmente	ADV	B	advmod		28978eb4-9cee-58a3-bef9-db9e5b653a4b	97d6d7fd-b669-54c3-b978-697530513e21	Le nostre parole sono potenzialmente ambigue.	Our words are potentially ambiguous.				
