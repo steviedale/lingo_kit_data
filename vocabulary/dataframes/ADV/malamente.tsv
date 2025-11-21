@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-malamente		malamente	ADV		3	3e-06	3	3e-06	malamente	ADV	B	advmod		1f3c4c3c-09e1-5601-9238-5907531aef68	4817a0c9-dddd-5e2f-9c6a-64f1c728bfa6	Scrive malamente.	He writes badly.	Lui scrive malamente.	He writes badly.	Sta andando malamente.	It's going badly.
+malamente	mah-lah-MEN-teh	malamente	ADV	badly	3	3e-06	3	3e-06	malamente	ADV	B	advmod		1f3c4c3c-09e1-5601-9238-5907531aef68	4817a0c9-dddd-5e2f-9c6a-64f1c728bfa6	Scrive malamente.	He writes badly.	Lui scrive malamente.	He writes badly.	Sta andando malamente.	It's going badly.

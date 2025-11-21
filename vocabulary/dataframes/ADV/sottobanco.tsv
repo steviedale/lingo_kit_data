@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sottobanco		sottobanco	ADV		1	1e-06	1	1e-06	sottobanco	ADV	B	advmod		d16f0b7d-87c6-5b26-8b1c-6cc8541b742c	c75e6766-21aa-5581-b45f-943159113b9a	Venne pagato sottobanco.	He got paid under the table.				
+sottobanco	soht-toh-BAHN-koh	sottobanco	ADV	under the table	1	1e-06	1	1e-06	sottobanco	ADV	B	advmod		d16f0b7d-87c6-5b26-8b1c-6cc8541b742c	c75e6766-21aa-5581-b45f-943159113b9a	Venne pagato sottobanco.	He got paid under the table.				

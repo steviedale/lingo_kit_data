@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-quant'		quant	ADV		1	1e-06	1	1e-06	quant	ADV	B	advmod		8609c5fe-fc92-5af7-9619-732bc0dd76e0	85cc524c-5b6c-5200-910a-82342bed9ccd	Quant'è vecchio questo libro!	How old this book is!				
+quant'	KWAHNT	quant	ADV	how; how much	1	1e-06	1	1e-06	quant	ADV	B	advmod		8609c5fe-fc92-5af7-9619-732bc0dd76e0	85cc524c-5b6c-5200-910a-82342bed9ccd	Quant'è vecchio questo libro!	How old this book is!				

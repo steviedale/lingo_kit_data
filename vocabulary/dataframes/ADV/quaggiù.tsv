@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-quaggiù		quaggiù	ADV		9	9e-06	9	9e-06	quaggiù	ADV	B	advmod		7998c144-06fd-51f4-bd40-5fe4ec4e93cc	dbdf606e-8f73-508e-91ed-0fdd2e279ecc	Non mi piace quaggiù.	I don't like it down here.	Vieni quaggiù.	Come down here.	Venga quaggiù!	Get down here!
+quaggiù	kwah-JOO	quaggiù	ADV	down here	9	9e-06	9	9e-06	quaggiù	ADV	B	advmod		7998c144-06fd-51f4-bd40-5fe4ec4e93cc	dbdf606e-8f73-508e-91ed-0fdd2e279ecc	Non mi piace quaggiù.	I don't like it down here.	Vieni quaggiù.	Come down here.	Venga quaggiù!	Get down here!

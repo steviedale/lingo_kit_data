@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-prevalentemente		prevalente	ADV		1	1e-06	1	1e-06	prevalente	ADV	B	advmod		96ea227e-b4c0-5bb7-b838-1ea07b25e5db	33ce15e6-c1dd-5e08-81b6-956fccd95e0a	La sua malattia era prevalentemente psicologica.	His illness was mainly psychological.				
+prevalentemente	preh-vah-lehn-teh-MEN-teh	prevalente	ADV	mainly; predominantly	1	1e-06	1	1e-06	prevalente	ADV	B	advmod		96ea227e-b4c0-5bb7-b838-1ea07b25e5db	33ce15e6-c1dd-5e08-81b6-956fccd95e0a	La sua malattia era prevalentemente psicologica.	His illness was mainly psychological.				

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sù		sù	ADV		1	1e-06	1	1e-06	sù	ADV	B	advmod		44c3a600-12af-5c4a-90d7-9cbbec603c95	23641436-5348-58a5-8f08-f5a915bf8fe3	Il gatto corse sù per l'albero.	The cat ran up the tree.				
+sù	SOO	sù	ADV	up	1	1e-06	1	1e-06	sù	ADV	B	advmod		44c3a600-12af-5c4a-90d7-9cbbec603c95	23641436-5348-58a5-8f08-f5a915bf8fe3	Il gatto corse sù per l'albero.	The cat ran up the tree.				

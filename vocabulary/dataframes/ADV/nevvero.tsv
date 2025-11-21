@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-nevvero		nevvero	ADV		1	1e-06	1	1e-06	nevvero	ADV	B	advmod		065b8601-e453-5a67-9866-34e0830bf9a4	81ce3241-221f-52a6-bf4a-b88fd7ea3734	Questo fiore è bello, nevvero?	This flower is beautiful, isn't it?				
+nevvero	nehv-VEH-roh	nevvero	ADV	isn't it	1	1e-06	1	1e-06	nevvero	ADV	B	advmod		065b8601-e453-5a67-9866-34e0830bf9a4	81ce3241-221f-52a6-bf4a-b88fd7ea3734	Questo fiore è bello, nevvero?	This flower is beautiful, isn't it?				

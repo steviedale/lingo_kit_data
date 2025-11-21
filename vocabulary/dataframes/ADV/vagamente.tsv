@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-vagamente		vagamente	ADV		1	1e-06	1	1e-06	vagamente	ADV	B	advmod		67dc8ef9-d676-51dc-a885-d026a40d4728	5d0ec878-b850-5beb-a07b-b998f2b19aaa	Ma il suo nome mi è vagamente famigliare.	But his name is slightly familiar to me.				
+vagamente	vah-gah-MEN-teh	vagamente	ADV	vaguely	1	1e-06	1	1e-06	vagamente	ADV	B	advmod		67dc8ef9-d676-51dc-a885-d026a40d4728	5d0ec878-b850-5beb-a07b-b998f2b19aaa	Ma il suo nome mi è vagamente famigliare.	But his name is slightly familiar to me.				
