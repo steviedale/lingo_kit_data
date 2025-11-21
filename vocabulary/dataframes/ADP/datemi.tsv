@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-datemi		datemi	ADP		2	2e-06	2	2e-06	datemi	ADP	E	amod		5f4b426f-e722-55f3-bcab-1b04eae3a297	b8a29034-80da-5de8-8d94-c9006d7a6d30	Datemi quella chiave.	Give me that key.	Datemi capitolo e verso.	Give me chapter and verse.		
+datemi	DAH-teh-mee	datemi	ADP	give me	2	2e-06	2	2e-06	datemi	ADP	E	amod		5f4b426f-e722-55f3-bcab-1b04eae3a297	b8a29034-80da-5de8-8d94-c9006d7a6d30	Datemi quella chiave.	Give me that key.	Datemi capitolo e verso.	Give me chapter and verse.		
