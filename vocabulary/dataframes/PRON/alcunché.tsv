@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-alcunché		alcunché	PRON		1	1e-06	1	1e-06	alcunché	PRON	PI	obj	Gender=Masc|Number=Sing|PronType=Ind	c17a79b1-f5f2-531a-9842-b0fc91e9922b	3d2f2b8e-dc53-520a-9679-bfb6daca2c5c	Tom non vuole bere alcunché.	Tom doesn't want to drink a thing.				
+alcunché	ahl-koon-KEH	alcunché	PRON	anything at all	1	1e-06	1	1e-06	alcunché	PRON	PI	obj	Gender=Masc|Number=Sing|PronType=Ind	c17a79b1-f5f2-531a-9842-b0fc91e9922b	3d2f2b8e-dc53-520a-9679-bfb6daca2c5c	Tom non vuole bere alcunché.	Tom doesn't want to drink a thing.				

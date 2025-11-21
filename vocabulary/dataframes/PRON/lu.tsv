@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-lu		lu	PRON		1	1e-06	1	1e-06	lu	PRON	PC	expl	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34232753-15f0-5684-a695-a3b33ddd4818	7687a037-320e-504a-9f57-5ee9ff8ce481	Lu saluta tutti a voce alta.	He greets everyone loudly.				
+lu	LOO	lu	PRON	him; it (masculine)	1	1e-06	1	1e-06	lu	PRON	PC	expl	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34232753-15f0-5684-a695-a3b33ddd4818	7687a037-320e-504a-9f57-5ee9ff8ce481	Lu saluta tutti a voce alta.	He greets everyone loudly.				
