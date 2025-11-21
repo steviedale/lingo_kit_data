@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-do		do	ADP		1	1e-06	1	1e-06	do	ADP	E	case		cac7b049-bf28-534a-93c1-726a86b4b332	b1e024b7-930d-5a78-a753-624e61875ff3	Gliele do domani.	I'm giving them to him tomorrow.				
+do	DOH	do	ADP	I give	1	1e-06	1	1e-06	do	ADP	E	case		cac7b049-bf28-534a-93c1-726a86b4b332	b1e024b7-930d-5a78-a753-624e61875ff3	Gliele do domani.	I'm giving them to him tomorrow.				
