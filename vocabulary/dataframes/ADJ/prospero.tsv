@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-prospero		prospero	ADJ		1	1e-06	1	1e-06	prospero	ADJ	A	root	Gender=Masc|Number=Sing	5ac2db29-79e3-5a34-aab7-6ec47c087724	f79c1926-5fd0-5f06-9c30-c77ae505d2fa	Quest'anno sarà prospero.	This year is going to be prosperous.				
+prospero	proh-SPEH-roh	prospero	ADJ	prosperous	1	1e-06	1	1e-06	prospero	ADJ	A	root	Gender=Masc|Number=Sing	5ac2db29-79e3-5a34-aab7-6ec47c087724	f79c1926-5fd0-5f06-9c30-c77ae505d2fa	Quest'anno sarà prospero.	This year is going to be prosperous.				

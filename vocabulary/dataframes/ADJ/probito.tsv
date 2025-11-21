@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-probito		probito	ADJ		1	1e-06	1	1e-06	probito	ADJ	A	root	Gender=Masc|Number=Sing	e3e7df33-6de3-5360-84fc-22a93949c606	6ca7cc97-c16e-552d-ae92-d8a9e289a6d9	In questa zona è probito nuotare.	This is a no-swimming zone.				
+probito	proh-BEE-toh	probito	ADJ	forbidden; prohibited	1	1e-06	1	1e-06	probito	ADJ	A	root	Gender=Masc|Number=Sing	e3e7df33-6de3-5360-84fc-22a93949c606	6ca7cc97-c16e-552d-ae92-d8a9e289a6d9	In questa zona è probito nuotare.	This is a no-swimming zone.				
