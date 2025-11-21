@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ponderato		ponderato	ADJ		1	1e-06	1	1e-06	ponderato	ADJ	A	amod	Gender=Masc|Number=Sing	5fcfbc72-aa33-5a70-8a73-47fa6559ccee	f2388606-05bc-5bb3-af3b-ecd68c1734f7	Questo è un voto ponderato.	This is a thoughtful vote.				
+ponderato	pohn-deh-RAH-toh	ponderato	ADJ	considered; well-weighed (masculine)	1	1e-06	1	1e-06	ponderato	ADJ	A	amod	Gender=Masc|Number=Sing	5fcfbc72-aa33-5a70-8a73-47fa6559ccee	f2388606-05bc-5bb3-af3b-ecd68c1734f7	Questo è un voto ponderato.	This is a thoughtful vote.				

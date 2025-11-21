@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-posssibile		posssibile	ADJ		1	1e-06	1	1e-06	posssibile	ADJ	A	obj	Number=Sing	aa0ace8a-4caf-5ae3-afa1-734c51862196	e454e387-f46d-54c2-ade4-6e53c2d71d9c	Tom vuole vederti il prima posssibile.	Tom wants to see you as soon as possible.				
+posssibile	pohs-SEE-bee-leh	posssibile	ADJ	possible	1	1e-06	1	1e-06	posssibile	ADJ	A	obj	Number=Sing	aa0ace8a-4caf-5ae3-afa1-734c51862196	e454e387-f46d-54c2-ade4-6e53c2d71d9c	Tom vuole vederti il prima posssibile.	Tom wants to see you as soon as possible.				
