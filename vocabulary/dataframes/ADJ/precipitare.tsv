@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-precipitato		precipitare	ADJ		1	1e-06	1	1e-06	precipitare	ADJ	A	amod	Gender=Masc|Number=Sing	0d1a3c77-5bd8-5e30-8cad-5ec95ce6a750	cacfb693-1a0e-5d68-adc0-c84bc5a4780a	Ho scoperto di chi è l'aereo precipitato.	I found out whose airplane crashed.				
+precipitato	preh-chee-pee-TAH-toh	precipitare	ADJ	crashed; wrecked (masculine)	1	1e-06	1	1e-06	precipitare	ADJ	A	amod	Gender=Masc|Number=Sing	0d1a3c77-5bd8-5e30-8cad-5ec95ce6a750	cacfb693-1a0e-5d68-adc0-c84bc5a4780a	Ho scoperto di chi è l'aereo precipitato.	I found out whose airplane crashed.				
