@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sue		sue	PRON		1	1e-06	1	1e-06	sue	PRON	PE	nsubj	Gender=Fem|Number=Plur|Person=3|PronType=Prs	f64ff880-3962-52af-9904-73a466c267d8	e886ac09-1363-5000-b540-5136b7070b74	Sue potrebbe incontrare i Brown.	Sue may meet the Browns.				
+sue	SOO-eh	sue	PRON	his or hers or its (feminine plural); yours (formal, feminine plural)	1	1e-06	1	1e-06	sue	PRON	PE	nsubj	Gender=Fem|Number=Plur|Person=3|PronType=Prs	f64ff880-3962-52af-9904-73a466c267d8	e886ac09-1363-5000-b540-5136b7070b74	Sue potrebbe incontrare i Brown.	Sue may meet the Browns.				
