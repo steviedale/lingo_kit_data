@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-do		do	INTJ		1	1e-06	1	1e-06	do	INTJ	I	discourse		ef5f1923-0944-5ea6-86cf-46042eff87e2	c50fc3dc-7353-5a44-909a-e9e810678022	Do la mela a John.	I give John the apple.				
+do	doh	do	INTJ	I give	1	1e-06	1	1e-06	do	INTJ	I	discourse		ef5f1923-0944-5ea6-86cf-46042eff87e2	c50fc3dc-7353-5a44-909a-e9e810678022	Do la mela a John.	I give John the apple.				

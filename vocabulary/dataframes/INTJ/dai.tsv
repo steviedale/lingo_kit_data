@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dai		dai	INTJ		10	1e-05	10	1e-05	dai	INTJ	I	discourse		4f748742-cffa-5d5a-b68c-49e715b1a91a	c3df0776-46ab-5463-b8be-13bba25ccf0f	Dai a Tom i 300$.	Give Tom the $300.	Dai, Tom. Non essere timido.	Come on, Tom. Don't be shy.	Dai, andiamo!	Come on, let's go!
+dai	DAI	dai	INTJ	come on	10	1e-05	10	1e-05	dai	INTJ	I	discourse		4f748742-cffa-5d5a-b68c-49e715b1a91a	c3df0776-46ab-5463-b8be-13bba25ccf0f	Dai a Tom i 300$.	Give Tom the $300.	Dai, Tom. Non essere timido.	Come on, Tom. Don't be shy.	Dai, andiamo!	Come on, let's go!

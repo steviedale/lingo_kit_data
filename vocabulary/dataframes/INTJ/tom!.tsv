@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tom!		tom!	INTJ		3	3e-06	3	3e-06	tom!	INTJ	I	root		f2f5058c-f8aa-5236-a086-4082114ea444	d628e5b7-2e76-5813-aff7-09fa47467924	Nooo! Tom! Noo!	Nooo! Tom! Noo!	Ciao, Tom! Ciao, Mary!	Hi, Tom! Hi, Mary!	Tom! Mary!	“Tom!” “Mary!”
+tom!	tahm	tom!	INTJ	Tom	3	3e-06	3	3e-06	tom!	INTJ	I	root		f2f5058c-f8aa-5236-a086-4082114ea444	d628e5b7-2e76-5813-aff7-09fa47467924	Nooo! Tom! Noo!	Nooo! Tom! Noo!	Ciao, Tom! Ciao, Mary!	Hi, Tom! Hi, Mary!	Tom! Mary!	“Tom!” “Mary!”

@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-eccolo		eccolo	INTJ		2	2e-06	2	2e-06	eccolo	INTJ	I	discourse		d514bc68-4af0-512d-8e60-fe930ab53542	b6de1534-f4eb-512f-b3ea-4afda4499022	Eccolo.	There he is.	Posso vedere il suo biglietto? Sì. Eccolo.	Can I see your ticket? Yes. Here it is.		
+eccolo	EHK-koh-loh	eccolo	INTJ	here he is; here it is	2	2e-06	2	2e-06	eccolo	INTJ	I	discourse		d514bc68-4af0-512d-8e60-fe930ab53542	b6de1534-f4eb-512f-b3ea-4afda4499022	Eccolo.	There he is.	Posso vedere il suo biglietto? Sì. Eccolo.	Can I see your ticket? Yes. Here it is.		

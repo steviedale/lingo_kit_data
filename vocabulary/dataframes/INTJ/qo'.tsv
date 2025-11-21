@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-qo'		qo'	INTJ		1	1e-06	1	1e-06	qo'	INTJ	I	discourse		167534de-57dd-5879-bfe7-0c0da6ca7003	abb9e32c-9bd3-50dd-b3e9-2bf0c857abf9	Qo'noS è il pianeta nativo dei klingon.	Qo'noS is the home planet of the Klingons.				
+qo'	KOH	qo'	INTJ	Qo'noS	1	1e-06	1	1e-06	qo'	INTJ	I	discourse		167534de-57dd-5879-bfe7-0c0da6ca7003	abb9e32c-9bd3-50dd-b3e9-2bf0c857abf9	Qo'noS è il pianeta nativo dei klingon.	Qo'noS is the home planet of the Klingons.				

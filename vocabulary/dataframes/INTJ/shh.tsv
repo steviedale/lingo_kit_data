@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-shh		shh	INTJ		2	2e-06	2	2e-06	shh	INTJ	I	discourse		57d9ddb3-53bc-5d2a-bdf7-85a5c5d8690a	86f38b05-8564-5b42-8b79-08151243d0be	Shh, stai parlando troppo forte.	Shh, you're speaking too loudly.	Shh, state parlando troppo forte.	Shh, you're speaking too loudly.		
+shh	shh	shh	INTJ	shh	2	2e-06	2	2e-06	shh	INTJ	I	discourse		57d9ddb3-53bc-5d2a-bdf7-85a5c5d8690a	86f38b05-8564-5b42-8b79-08151243d0be	Shh, stai parlando troppo forte.	Shh, you're speaking too loudly.	Shh, state parlando troppo forte.	Shh, you're speaking too loudly.		

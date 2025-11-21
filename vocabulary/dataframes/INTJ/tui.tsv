@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tui		tui	INTJ		1	1e-06	1	1e-06	tui	INTJ	I	discourse		f1d95b6a-ffbc-5f50-9c76-9604d9b27bcb	17629d53-9416-5624-9038-e7b93b30f80c	Tui a volte bevi del vino rosso col pesce?	Do you sometimes drink red wine with fish?				
+tui	TOO-ee	tui	INTJ	you	1	1e-06	1	1e-06	tui	INTJ	I	discourse		f1d95b6a-ffbc-5f50-9c76-9604d9b27bcb	17629d53-9416-5624-9038-e7b93b30f80c	Tui a volte bevi del vino rosso col pesce?	Do you sometimes drink red wine with fish?				

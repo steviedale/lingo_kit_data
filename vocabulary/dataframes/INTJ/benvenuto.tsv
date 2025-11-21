@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-benvenuto		benvenuto	INTJ		1	1e-06	1	1e-06	benvenuto	INTJ	I	root		378d40e4-8764-5d55-a4cc-d0c0cd313977	174a9808-d45b-59ab-9dc1-efad9bcf4bf2	Benvenuto!	Welcome.				
+benvenuto	ben-veh-NOO-toh	benvenuto	INTJ	welcome	1	1e-06	1	1e-06	benvenuto	INTJ	I	root		378d40e4-8764-5d55-a4cc-d0c0cd313977	174a9808-d45b-59ab-9dc1-efad9bcf4bf2	Benvenuto!	Welcome.				
