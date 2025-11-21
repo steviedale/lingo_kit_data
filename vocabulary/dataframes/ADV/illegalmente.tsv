@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-illegalmente		illegalmente	ADV		1	1e-06	1	1e-06	illegalmente	ADV	B	advmod		9e69f4c0-04e5-514f-aa9c-a48edf91753b	5bb97241-cf4a-5bdb-a72a-f2b5b04b4d0f	Tom lavora illegalmente negli Stati Uniti.	Tom works illegally in the U.S.				
+illegalmente	eel-leh-gahl-MEHN-teh	illegalmente	ADV	illegally	1	1e-06	1	1e-06	illegalmente	ADV	B	advmod		9e69f4c0-04e5-514f-aa9c-a48edf91753b	5bb97241-cf4a-5bdb-a72a-f2b5b04b4d0f	Tom lavora illegalmente negli Stati Uniti.	Tom works illegally in the U.S.				

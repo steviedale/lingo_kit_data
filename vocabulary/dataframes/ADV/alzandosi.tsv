@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-alzandosi		alzandosi	ADV		1	1e-06	1	1e-06	alzandosi	ADV	B	advmod		4edee62c-b706-5cff-a0d0-4952f9aa3bf0	52d09128-2629-5c95-8c34-0a2d4f0c2674	Alzandosi presto domani, vedrà il sole che sorge.	Getting up early tomorrow, you will see the rising sun.				
+alzandosi	ahl-tsahn-DOH-see	alzandosi	ADV	getting up	1	1e-06	1	1e-06	alzandosi	ADV	B	advmod		4edee62c-b706-5cff-a0d0-4952f9aa3bf0	52d09128-2629-5c95-8c34-0a2d4f0c2674	Alzandosi presto domani, vedrà il sole che sorge.	Getting up early tomorrow, you will see the rising sun.				

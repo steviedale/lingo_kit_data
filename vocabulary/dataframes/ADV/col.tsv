@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-col		col	ADV		1	1e-06	1	1e-06	col	ADV	B	advmod		736ffeb6-7277-5077-a6f6-a8084e78eb1d	9816e1db-8fc1-517d-b275-af35b36935d7	Starò col bebè se vuoi andare.	I'll stay with the baby if you want to go.				
+col	KOHL	col	ADV	with the	1	1e-06	1	1e-06	col	ADV	B	advmod		736ffeb6-7277-5077-a6f6-a8084e78eb1d	9816e1db-8fc1-517d-b275-af35b36935d7	Starò col bebè se vuoi andare.	I'll stay with the baby if you want to go.				

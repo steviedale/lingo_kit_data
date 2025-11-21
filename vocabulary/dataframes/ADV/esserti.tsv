@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-esserti		esserti	ADV		1	1e-06	1	1e-06	esserti	ADV	B	advmod		97df0a0a-474d-5580-a536-d76c2a603c1e	425e9cee-9b95-576b-a482-95de95ab68ef	Grazie per esserti occupata di tutto questo.	Thanks for taking care of all of this.				
+esserti	ehs-SEHR-tee	esserti	ADV	having (yourself)	1	1e-06	1	1e-06	esserti	ADV	B	advmod		97df0a0a-474d-5580-a536-d76c2a603c1e	425e9cee-9b95-576b-a482-95de95ab68ef	Grazie per esserti occupata di tutto questo.	Thanks for taking care of all of this.				
