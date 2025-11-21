@@ -1,2 +1,2 @@
 text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ricorrente		ricorrente	ADJ		1	1e-06	1	1e-06	ricorrente	ADJ	A	amod	Number=Sing	c9d544d1-e22d-5785-ac90-f41b83fdd892	ce8993b0-1b61-5bb5-8aae-c7cd1d325bd3	Il suo incubo ricorrente riguardava uno tsunami.	Her recurrent nightmare involved a tsunami.				
+ricorrente	ree-kohr-REN-teh	ricorrente	ADJ	recurring; recurrent	1	1e-06	1	1e-06	ricorrente	ADJ	A	amod	Number=Sing	c9d544d1-e22d-5785-ac90-f41b83fdd892	ce8993b0-1b61-5bb5-8aae-c7cd1d325bd3	Il suo incubo ricorrente riguardava uno tsunami.	Her recurrent nightmare involved a tsunami.				
