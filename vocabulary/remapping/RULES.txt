@@ -1,0 +1,14 @@
+- map AUX to VERB
+- map:
+    - text: aborrava, lemma: avore, pos: AUX --> text: aborrava, lemma: aborrare, pos: VERB
+    - text: desidererei, lemma: dosedere, pos: AUX --> text: desidererei, lemma: desiderare, pos: VERB
+    - text: dormiremo, lemma: dovmire, pos: AUX --> text: dormiremo, lemma: dormire, pos: VERB
+    - text: desiderate, lemma: dwsiderare, pos: AUX --> text: desiderate, lemma: desiderare, pos: VERB
+    - text: saresti, lemma: essesere, pos: AUX --> text: saresti, lemma: essere, pos: VERB
+    - text: sapresti, lemma: essestare, pos: AUX --> text: sapresti, lemma: sapere, pos: VERB
+    - text: staresti, lemma: essestere, pos: AUX --> text: staresti, lemma: stare, pos: VERB
+    - text: sareste, lemma: essestire, pos: AUX --> text: sareste, lemma: essere, pos: VERB
+    - text: sapreste, lemma: essestire, pos: AUX --> text: sapreste, lemma: sapere, pos: VERB
+    - text: sei, lemma: il, pos: AUX --> text: sei, lemma: essere, pos: VERB
+    - text: stessi, lemma: stesso, pos: AUX --> text: stessi, lemma: stare, pos: VERB
+    - text: steste, lemma: stestere, pos: AUX --> text: steste, lemma: stare, pos: VERB

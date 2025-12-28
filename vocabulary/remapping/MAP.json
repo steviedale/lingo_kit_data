@@ -1,0 +1,50 @@
+[
+  {
+    "before": { "text": "aborrava", "lemma": "avore", "pos": "AUX" },
+    "after": { "text": "aborrava", "lemma": "aborrare", "pos": "VERB" }
+  },
+  {
+    "before": { "text": "desidererei", "lemma": "dosedere", "pos": "AUX" },
+    "after": { "text": "desidererei", "lemma": "desiderare", "pos": "VERB" }
+  },
+  {
+    "before": { "text": "dormiremo", "lemma": "dovmire", "pos": "AUX" },
+    "after": { "text": "dormiremo", "lemma": "dormire", "pos": "VERB" }
+  },
+  {
+    "before": { "text": "desiderate", "lemma": "dwsiderare", "pos": "AUX" },
+    "after": { "text": "desiderate", "lemma": "desiderare", "pos": "VERB" }
+  },
+  {
+    "before": { "text": "saresti", "lemma": "essesere", "pos": "AUX" },
+    "after": { "text": "saresti", "lemma": "essere", "pos": "VERB" }
+  },
+  {
+    "before": { "text": "sapresti", "lemma": "essestare", "pos": "AUX" },
+    "after": { "text": "sapresti", "lemma": "sapere", "pos": "VERB" }
+  },
+  {
+    "before": { "text": "staresti", "lemma": "essestere", "pos": "AUX" },
+    "after": { "text": "staresti", "lemma": "stare", "pos": "VERB" }
+  },
+  {
+    "before": { "text": "sareste", "lemma": "essestire", "pos": "AUX" },
+    "after": { "text": "sareste", "lemma": "essere", "pos": "VERB" }
+  },
+  {
+    "before": { "text": "sapreste", "lemma": "essestire", "pos": "AUX" },
+    "after": { "text": "sapreste", "lemma": "sapere", "pos": "VERB" }
+  },
+  {
+    "before": { "text": "sei", "lemma": "il", "pos": "AUX" },
+    "after": { "text": "sei", "lemma": "essere", "pos": "VERB" }
+  },
+  {
+    "before": { "text": "stessi", "lemma": "stesso", "pos": "AUX" },
+    "after": { "text": "stessi", "lemma": "stare", "pos": "VERB" }
+  },
+  {
+    "before": { "text": "steste", "lemma": "stestere", "pos": "AUX" },
+    "after": { "text": "steste", "lemma": "stare", "pos": "VERB" }
+  }
+]
