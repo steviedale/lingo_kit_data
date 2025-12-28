@@ -1,2 +1,0 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
--marito		-marito	NOUN		2	2e-06	2	2e-06	-marito	NOUN	S	nsubj	Gender=Masc|Number=Sing	0fe16eeb-5c03-5bb7-8c61-1746ccc847fb	4edf98b7-a4e3-5605-b125-e59f712984f5	Il mio ex-marito non vive più in questa città.	My ex-husband no longer lives in this city.	Il mio ex-marito non abita più in questa città.	My ex-husband no longer lives in this city.		

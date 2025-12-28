@@ -1,2 +1,0 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
--linguistico		-linguistico	ADJ		1	1e-06	1	1e-06	-linguistico	ADJ	A	amod	Gender=Masc|Number=Sing	2b05657b-e6dd-5750-a8bc-55e38f6122ec	7af544a6-dd7f-5ac1-ab12-016344df00db	Questo è uno studio socio-linguistico su Steven Emmet.	This is a socio-linguistic study on Steven Emmet.				
