@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-aprila	ah-PREE-lah	aprila	INTJ	open it	2	2e-06	2	2e-06	aprila	INTJ	I	root		fd61a93d-5d4a-56b7-8b18-bfcc95215431	e4bc8190-76ed-5744-bfe2-b52a4ab215c9	Per favore, aprila.	Please open it.	Per piacere, aprila.	Please open it.		
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+aprila	ah-PREE-lah	aprila	INTJ	open it	2	2e-06	2	2e-06	aprila	INTJ	I	root		fd61a93d-5d4a-56b7-8b18-bfcc95215431	e4bc8190-76ed-5744-bfe2-b52a4ab215c9	08441678f24ac84b398e7e4e7e80f7b9e58a986f552ca450abc7b2e9ac690c49	2fe4a8fef7e6173b10023806259961692d02b335eac56d2b0482c8a9000c9294		

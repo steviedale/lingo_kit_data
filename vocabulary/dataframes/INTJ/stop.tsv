@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-stop	stahp	stop	INTJ	stop	1	1e-06	1	1e-06	stop	INTJ	I	root		f30c0fcf-ee3c-5548-bcc6-a3c1daa29186	87219956-e1fd-5dad-9b61-53aa7fa7cf16	Stop!	Stop!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+stop	stahp	stop	INTJ	stop	1	1e-06	1	1e-06	stop	INTJ	I	root		f30c0fcf-ee3c-5548-bcc6-a3c1daa29186	87219956-e1fd-5dad-9b61-53aa7fa7cf16	4a6654311134e6906a564a2817be0a4a9ed326559392b74d4a442c932470ac21	5695757fa9d7b7a5b63921ae32eb5fa79fe86a1fea28342a0436e7dd3fc8005e		

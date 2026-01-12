@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-aaah!	ahhh	aaah!	INTJ	aaah	1	1e-06	1	1e-06	aaah!	INTJ	I	root		60b104e1-657b-5bc1-89e8-876701dfdfe2	99ed905a-dafa-5c4a-9884-362f854a7a94	Aaah!! Il mio computer è rotto!	Aaah!! My computer is broken!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+aaah!	ahhh	aaah!	INTJ	aaah	1	1e-06	1	1e-06	aaah!	INTJ	I	root		60b104e1-657b-5bc1-89e8-876701dfdfe2	99ed905a-dafa-5c4a-9884-362f854a7a94	3db940010d25e8e534c403514e1fc4245428ebb0581d029c283fda7af70dc3b6	58ee88c32376fd55e2634e8760004f7d896fd99039d409410bf70b2832356d4a		

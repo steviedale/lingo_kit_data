@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-and	AND	and	ADP	and	1	1e-06	1	1e-06	and	ADP	E	cc		35e9ef14-7a31-5d0f-b205-b3bb39ce59ae	f0aa2038-351d-5b07-a574-fe13f3b672ea	Lei è fan di Sex and the City.	She's a fan of Sex and the City.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+and	AND	and	ADP	and	1	1e-06	1	1e-06	and	ADP	E	cc		35e9ef14-7a31-5d0f-b205-b3bb39ce59ae	f0aa2038-351d-5b07-a574-fe13f3b672ea	6fe99b5694449bfdd2c2a838a0dfa94d4085ee5639726cee76e4b68474893b3a	435b413a4f78bc4ea81c73a4d4ca315edc4c2cdcde4959c9dc493913e6b7d456		936.0

@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-slip	SLEEP	slip	NOUN	knickers	1	1e-06	1	1e-06	slip	NOUN	S	nsubj	Gender=Masc	cd73af36-c639-5b91-bbc1-8496cb686039	98a505a2-1baf-55c7-8ae4-b42a52bf815a	I miei slip sono bagnati.	My knickers are wet.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+slip	SLEEP	slip	NOUN	knickers	1	1e-06	1	1e-06	slip	NOUN	S	nsubj	Gender=Masc	cd73af36-c639-5b91-bbc1-8496cb686039	98a505a2-1baf-55c7-8ae4-b42a52bf815a	a4c7760d6a05920cb84d19d58f0c378683ef18fcc8cd724e5eb67b5114925490	b00639f1c72e7ba5c28278f97f33db7fbe7dfebdf7a0e1ce7dbef81a80de842b		

@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cloni	KLOH-nee	cloni	NOUN	clones	1	1e-06	1	1e-06	cloni	NOUN	S	root	Gender=Masc|Number=Plur	437b1d19-4e2a-5ea1-9fc1-5cc9045181a0	a4933f6f-3d0f-5f7a-91ea-2924c958e453	I gemelli sono cloni.	Twins are clones.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+cloni	KLOH-nee	cloni	NOUN	clones	1	1e-06	1	1e-06	cloni	NOUN	S	root	Gender=Masc|Number=Plur	437b1d19-4e2a-5ea1-9fc1-5cc9045181a0	a4933f6f-3d0f-5f7a-91ea-2924c958e453	d0242776505b1348b535d2b647e1c3f17733bdef9e1b3b40ae0800106f013010	027991f6fc31794ac10f2908fb636b82756e8dfb9160af05609ea502ee5af4b2		

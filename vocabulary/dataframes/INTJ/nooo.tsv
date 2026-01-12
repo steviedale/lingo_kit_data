@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-nooo	noh	nooo	INTJ	nooo	1	1e-06	1	1e-06	nooo	INTJ	I	discourse		5818d2ef-3059-510a-9051-b3e6bef7da4c	4066de70-706f-524e-8a0b-27d496ea2353	Nooo! Tom! Noo!	Nooo! Tom! Noo!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+nooo	noh	nooo	INTJ	nooo	1	1e-06	1	1e-06	nooo	INTJ	I	discourse		5818d2ef-3059-510a-9051-b3e6bef7da4c	4066de70-706f-524e-8a0b-27d496ea2353	217e3c879041e55fc61f990f2310a055d3e1f5bc8981ed1fb46b1d74065827c2	963f124fc3738436eea6789adb205510c044c11a06e36cfbdecf4fc46d30d44a		

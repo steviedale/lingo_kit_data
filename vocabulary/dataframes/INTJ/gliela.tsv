@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gliela	GLYEH-lah	gliela	INTJ	to him/her it	1	1e-06	1	1e-06	gliela	INTJ	I	discourse		c0ebf347-2584-5724-becd-73633b037d90	c0280aea-5bc7-5941-9ae9-d24b9cd532fe	Gliela rubo.	I steal it from you.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+gliela	GLYEH-lah	gliela	INTJ	to him/her it	1	1e-06	1	1e-06	gliela	INTJ	I	discourse		c0ebf347-2584-5724-becd-73633b037d90	c0280aea-5bc7-5941-9ae9-d24b9cd532fe	da9cb9d516547e0e18533a925df0e259f5464b1ddec0d46f103103b1f33d4e99	c98d03a02b5a997ae26e07b9def690f74cbe39c6b46b4e5ee9bd8b09a81ee56f		

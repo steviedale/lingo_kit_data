@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gobba	GOHB-bah	gobba	NOUN	hump	1	1e-06	1	1e-06	gobba	NOUN	S	obj	Gender=Fem|Number=Sing	86995880-10f5-58d6-bbff-ff7b8ee85269	7b63d615-2322-5e6d-8ef5-1fb6648bee26	Ho la gobba.	I have a hump.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+gobba	GOHB-bah	gobba	NOUN	hump	1	1e-06	1	1e-06	gobba	NOUN	S	obj	Gender=Fem|Number=Sing	86995880-10f5-58d6-bbff-ff7b8ee85269	7b63d615-2322-5e6d-8ef5-1fb6648bee26	96f25ad4ecb3ce00979acebd36f58c152552a7db08cfe278aeae5841ee2b98ef	470d284a24b727c12221f22d89656603550b5f7e8219c79af484b68dd0634e14		

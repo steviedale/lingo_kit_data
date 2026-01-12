@@ -12,7 +12,7 @@ def get_all_csv_files_rec(dir):
     csv_files = []
     for root, dirs, files in os.walk(dir):
         for file in files:
-            if file.endswith('.csv'):
+            if file.endswith('.csv') or file.endswith('.tsv'):
                 csv_files.append(os.path.join(root, file))
     return csv_files
 

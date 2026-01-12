@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-anch'io	ahn-KEE-oh	anch'io	INTJ	me too	2	2e-06	2	2e-06	anch'io	INTJ	I	root		0baffe39-a3bb-5585-8392-9a834668d113	409047c6-16ba-5bab-937a-ccc2b4089dd5	Sto per andarmene anch'io.	I am going, too.	Anch'io.	So do I.		
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+anch'io	ahn-KEE-oh	anch'io	INTJ	me too	2	2e-06	2	2e-06	anch'io	INTJ	I	root		0baffe39-a3bb-5585-8392-9a834668d113	409047c6-16ba-5bab-937a-ccc2b4089dd5	55f952b68c2f95b6d6f41e0dfac8491582deaef4acd1a246422f2f50a5617f6e	86918c5b1630e71aabb5d4a24beae446d34b0022b35ea21b17b9055ada9cf8ad		

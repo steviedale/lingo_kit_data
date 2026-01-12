@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-cribbio	KREEB-byoh	cribbio	INTJ	blimey	1	1e-06	1	1e-06	cribbio	INTJ	I	root		17048363-5b3d-5670-b7b3-caadc64b2bce	67b2b332-2dee-5b24-8fe9-f061b7097360	Cribbio!	Blimey!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+cribbio	KREEB-byoh	cribbio	INTJ	blimey	1	1e-06	1	1e-06	cribbio	INTJ	I	root		17048363-5b3d-5670-b7b3-caadc64b2bce	67b2b332-2dee-5b24-8fe9-f061b7097360	bdd1ab07ccb232e9e8d743854e71673a36da6aa6a8b4e9a238367304c0dd2a32	80ea9afb2c50782c7d3ec0a8c3cee4ac4e9ca36432203d887e783664c8912ef2		

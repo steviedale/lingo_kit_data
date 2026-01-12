@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-balla	BAHL-lah	ballare	NOUN	lie; fib	1	1e-06	1	1e-06	ballare	NOUN	S	root	Gender=Fem|Number=Sing	3712fc7c-f6a7-52af-82b2-924ef2689629	c8feeeb3-020e-5053-8293-d7bf6d4688d6	Lei balla?	Do you dance?				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+balla	BAHL-lah	ballare	NOUN	lie; fib	1	1e-06	1	1e-06	ballare	NOUN	S	root	Gender=Fem|Number=Sing	3712fc7c-f6a7-52af-82b2-924ef2689629	c8feeeb3-020e-5053-8293-d7bf6d4688d6	edd36c5987c608e87e7ebfe7eb43d78ebcf79d61b94a6b96d9b7e52e6c6dce9b	5acbc69f8acc2bcdf8931c4d91cbc83d923e6b73115769db43fa699009ba5053		

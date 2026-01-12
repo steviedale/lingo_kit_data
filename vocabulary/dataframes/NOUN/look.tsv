@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-look	LOHOHK	look	NOUN	look	1	1e-06	1	1e-06	look	NOUN	S	obj	Gender=Masc	f96b4b38-5ce6-5cea-92ab-6deef51cc026	4377b049-bf4c-5daf-be69-bb2f53160993	Questa ragazza ha cambiato look.	This girl changed her look.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+look	LOHOHK	look	NOUN	look	1	1e-06	1	1e-06	look	NOUN	S	obj	Gender=Masc	f96b4b38-5ce6-5cea-92ab-6deef51cc026	4377b049-bf4c-5daf-be69-bb2f53160993	58578b0c8502f029614d88b9e34a5cf8b4b87b3533286233e1d9002cb7f9374e	02437c2b5189d7e0154a5e83061b2ed7051cbeb832c97b00ff89624c326bd9ce		

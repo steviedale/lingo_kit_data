@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-disk	DISK	disk	NOUN	disk	1	1e-06	1	1e-06	disk	NOUN	S	compound	Gender=Masc	f0d5ace9-c051-5ddf-afbf-7c823597159a	8eefc780-4648-5eca-b878-97fc3d8bfa54	Tom sta usando un hard disk esterno.	Tom is using an external hard disk.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+disk	DISK	disk	NOUN	disk	1	1e-06	1	1e-06	disk	NOUN	S	compound	Gender=Masc	f0d5ace9-c051-5ddf-afbf-7c823597159a	8eefc780-4648-5eca-b878-97fc3d8bfa54	dc60ccb010370e41f8b1f0fee85b24be7c53d769412e4e2b4857614b2745072f	5836e8086be560dc2c7a8b9feb6b4602a5c12260df7e073875c3d4a72ba8b1a4		

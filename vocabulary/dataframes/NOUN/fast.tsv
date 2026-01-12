@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fast	FAHST	fast	NOUN	fast (loanword)	1	1e-06	1	1e-06	fast	NOUN	S	nsubj		ef662827-1e2e-54ec-862d-ef6fe8f0ce8c	e9f69376-b94c-56fd-9b91-b93f21cd2369	I fast food possono dare dipendenza.	Fast food can be addictive.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+fast	FAHST	fast	NOUN	fast (loanword)	1	1e-06	1	1e-06	fast	NOUN	S	nsubj		ef662827-1e2e-54ec-862d-ef6fe8f0ce8c	e9f69376-b94c-56fd-9b91-b93f21cd2369	69dd9d6b06b592ad7f82b0b0c5c7992a4636ec22933b48b80c234bc1d5c3838d	87e8d954c7951d939ceffb5f491c634ba2281bcb85cabd1b72507caa07291773		

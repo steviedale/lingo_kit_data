@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-blues	BLWEHS	blues	NOUN	blues	1	1e-06	1	1e-06	blues	NOUN	S	nmod	Gender=Masc	5f0fe3f3-6a60-5ffe-8d58-dbd1917ef19c	2599e215-dd53-5d1c-99ae-a1ce1f41412b	Suoniamo un po' di blues.	Let's play some blues.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+blues	BLWEHS	blues	NOUN	blues	1	1e-06	1	1e-06	blues	NOUN	S	nmod	Gender=Masc	5f0fe3f3-6a60-5ffe-8d58-dbd1917ef19c	2599e215-dd53-5d1c-99ae-a1ce1f41412b	1d33d21c200fc0dc011a787751d20013ad1a3d23671498aea6d547fbe0d75301	f0897fc2c32a5ba5e6d8245564a6b03748d3edaddae4d6ddb4bf9e291ad55bff		

@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-finiscila	fee-NEE-shee-lah	finiscila	INTJ	cut it out	1	1e-06	1	1e-06	finiscila	INTJ	I	root		8e67e196-fd11-51f4-91ee-bd7dfd4e577a	4d44b23a-bf48-542e-9c0e-19082a033a8e	Finiscila, Tom.	Cut it out, Tom.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+finiscila	fee-NEE-shee-lah	finiscila	INTJ	cut it out	1	1e-06	1	1e-06	finiscila	INTJ	I	root		8e67e196-fd11-51f4-91ee-bd7dfd4e577a	4d44b23a-bf48-542e-9c0e-19082a033a8e	0037d069a9ceb9c7862e37111a03636b3b44cca1592535e9571825fdeca0fc13	fa178019fa3c7528dfb401de20487332c60461d20c9a122e6d6e0e8c3a45f79e		

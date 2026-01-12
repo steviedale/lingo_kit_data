@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ave	AH-veh	ave	INTJ	hail	2	2e-06	2	2e-06	ave	INTJ	I	root		4d3cd65a-7c8f-5df8-bbd0-47631c6c466f	f88a9f22-0274-5197-8af5-6d63787fb3ea	Ave Cesare!	Hail, Caesar!	Ave!	Hail!		
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+ave	AH-veh	ave	INTJ	hail	2	2e-06	2	2e-06	ave	INTJ	I	root		4d3cd65a-7c8f-5df8-bbd0-47631c6c466f	f88a9f22-0274-5197-8af5-6d63787fb3ea	028bc804b480414776ed5d6dfedf9a97d518909590b10c38a715444fb82d55dc	6f4893e15b6673bef46b3799fa2c27e8bb65b1ea381bca9ca6f0d74b41873095		1008.0

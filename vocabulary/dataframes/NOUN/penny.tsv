@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-penny	PEHNNY	penny	NOUN	penny	1	1e-06	1	1e-06	penny	NOUN	S	root	Gender=Masc	cc2a38a7-ae2c-5149-9d0e-d04a44911772	e4cf7b7c-dc37-51fa-9a21-a541b894e45a	Un penny per i tuoi pensieri.	A penny for your thoughts.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+penny	PEHNNY	penny	NOUN	penny	1	1e-06	1	1e-06	penny	NOUN	S	root	Gender=Masc	cc2a38a7-ae2c-5149-9d0e-d04a44911772	e4cf7b7c-dc37-51fa-9a21-a541b894e45a	9dd6706cbd782c7c6595e2f5febdc7da3c82a31beab9084164c2031e8b500ebc	56d1db3af36abfb6a31da93131032338228e77f617d14b7ba3e9139b8cf31bd1		

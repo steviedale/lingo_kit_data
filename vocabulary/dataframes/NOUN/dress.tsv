@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dress	DRESS	dress	NOUN	dress	1	1e-06	1	1e-06	dress	NOUN	S	amod	Gender=Masc	6b8b7a6a-2d2f-5036-b4cd-1e0d896b6b9b	f108e54a-4609-5085-ac23-e1554a016175	Non c'è alcun dress code.	There is no dress code.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+dress	DRESS	dress	NOUN	dress	1	1e-06	1	1e-06	dress	NOUN	S	amod	Gender=Masc	6b8b7a6a-2d2f-5036-b4cd-1e0d896b6b9b	f108e54a-4609-5085-ac23-e1554a016175	93ec3d1d75d396199773a55f33fd9bb527a209a0f9dec1faa17187067b816567	2420bc23f53881f940814aa0610e5f04517d73ec009bd44d2e87d9c3fea40785		1128.0

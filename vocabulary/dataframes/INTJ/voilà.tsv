@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-voilà	vwah-LAH	voilà	INTJ	voilà	1	1e-06	1	1e-06	voilà	INTJ	I	root		810c4cfb-c1e9-5845-9feb-08d539022ebf	3540700a-6d5e-53d2-ae81-8b54b78d4780	Voilà! Caso risolto!	Voilà! Case resolved!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+voilà	vwah-LAH	voilà	INTJ	voilà	1	1e-06	1	1e-06	voilà	INTJ	I	root		810c4cfb-c1e9-5845-9feb-08d539022ebf	3540700a-6d5e-53d2-ae81-8b54b78d4780	810847722ef752bd338e6aa0feb38e2656d721647809af983aa1260b77f5127e	c3783f20d2cfff9024813dca836c83488a6d46f9680d524657336b979b4e9c15		

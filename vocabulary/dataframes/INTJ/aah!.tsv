@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-aah!	ahh	aah!	INTJ	aah	2	2e-06	2	2e-06	aah!	INTJ	I	discourse		a6ecff2d-651f-5045-ab76-c49df8029400	d34faaae-8419-5bbc-8d6a-d812680b48fa	Aah!, sospirò.	Aah! she sighed.	Aah!, sospirò lei.	Aah! she sighed.		
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+aah!	ahh	aah!	INTJ	aah	2	2e-06	2	2e-06	aah!	INTJ	I	discourse		a6ecff2d-651f-5045-ab76-c49df8029400	d34faaae-8419-5bbc-8d6a-d812680b48fa	a4f3fae6d82d09ea6e87b2b5a6cf5da21a8b73c605eacfee1c826cbdb5a44e66	db659c8eac3b630847b27e4598f27c2a3bb0152ff55776ff2166599abde963e8		

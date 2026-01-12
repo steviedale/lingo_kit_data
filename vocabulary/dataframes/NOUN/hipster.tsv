@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-hipster	EEP-ster	hipster	NOUN	hipster	1	1e-06	1	1e-06	hipster	NOUN	S	root	Gender=Masc	30e3cb6f-6832-50ae-bbb0-b4da8897fd88	3eefc7c4-60e8-5b33-91d1-5add3d778ea8	Tom è un hipster.	Tom is a hipster.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+hipster	EEP-ster	hipster	NOUN	hipster	1	1e-06	1	1e-06	hipster	NOUN	S	root	Gender=Masc	30e3cb6f-6832-50ae-bbb0-b4da8897fd88	3eefc7c4-60e8-5b33-91d1-5add3d778ea8	722d70246989842fc171c7ad4aeb03812b7c7d2744ea395f7d51b4d98586c043	cf33e47f4599795f00facd35ba08d369bb677dabdeb75bab5af62e5c1bbf63ce		

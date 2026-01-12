@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-yo-yo	YOH-yoh	yo-yo	NOUN	yo-yo	1	1e-06	1	1e-06	yo-yo	NOUN	S	obl	Gender=Masc	ed34679b-1492-50e0-a8e9-ef411d3d7446	b19c7beb-fcc7-5a81-857d-933331c5e5ba	Tom sta giocando con il suo yo-yo.	Tom is playing with his yo-yo.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+yo-yo	YOH-yoh	yo-yo	NOUN	yo-yo	1	1e-06	1	1e-06	yo-yo	NOUN	S	obl	Gender=Masc	ed34679b-1492-50e0-a8e9-ef411d3d7446	b19c7beb-fcc7-5a81-857d-933331c5e5ba	6e361377e8a5a277decbb93046ecb5ad334286de4eb27a244c2a325487521074	553f1d2573261521d9ff41b1bfb0c2419deb2f8a89ff3347c1f9dfabaa9c74e7		

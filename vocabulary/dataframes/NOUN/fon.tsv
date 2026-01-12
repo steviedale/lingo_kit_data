@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-fon	FON	fon	NOUN	hair dryer	1	1e-06	1	1e-06	fon	NOUN	S	nsubj	Gender=Masc	adc1d5a2-9748-5ac9-b1b2-97589fcab04a	ec4d26b7-18d3-50d7-a6df-8f9978bbd6ae	Mi presti il fon?	Can I borrow your hair drier?				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+fon	FON	fon	NOUN	hair dryer	1	1e-06	1	1e-06	fon	NOUN	S	nsubj	Gender=Masc	adc1d5a2-9748-5ac9-b1b2-97589fcab04a	ec4d26b7-18d3-50d7-a6df-8f9978bbd6ae	aeb98ab125c967dfd1efa871ed800007e110e8a115bee1e1a25dbcbecfd81115	b53f194aec50b395bb4f1d3f14d4ba7730f9b3f57ec2fca2a4cea0b4de884ec8		

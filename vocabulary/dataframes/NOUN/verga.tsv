@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-verga	VER-gah	verga	NOUN	rod	1	1e-06	1	1e-06	verga	NOUN	S	nsubj	Gender=Fem|Number=Sing	e55b3e68-3163-59ce-8458-631cd80e6ac9	46089bfb-0d5e-5bdc-b3be-87acbc305d6b	Ti piace la verga?	Do you like the rod?				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+verga	VER-gah	verga	NOUN	rod	1	1e-06	1	1e-06	verga	NOUN	S	nsubj	Gender=Fem|Number=Sing	e55b3e68-3163-59ce-8458-631cd80e6ac9	46089bfb-0d5e-5bdc-b3be-87acbc305d6b	208280a0685f944891aa5b1284ddfaeafa6ec9824636e43bce2490ac3abab463	3419bc170de23fb2c071bb5714aa1db2deb2e40077bdf2c0d6d34295d93cb2a9		

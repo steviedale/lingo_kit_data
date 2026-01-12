@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-usalo	oo-SAH-loh	usalo	ADJ	use it	1	1e-06	1	1e-06	usalo	ADJ	A	root	Gender=Masc|Number=Sing	e00e96ff-f6bc-5dfa-8879-eb733e988ac0	9cd86c7d-38df-5651-afc7-1e32a1ffa96b	Usalo o perdilo.	Use it or lose it.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+usalo	oo-SAH-loh	usalo	ADJ	use it	1	1e-06	1	1e-06	usalo	ADJ	A	root	Gender=Masc|Number=Sing	e00e96ff-f6bc-5dfa-8879-eb733e988ac0	9cd86c7d-38df-5651-afc7-1e32a1ffa96b	ee01973b6ab6e9cf3f87dc28aa5f9a0968d0b5691285f97478d3435e00b57231	4a7e8e7b04bbec0b923b8bda37438bc14c678cf6612169bd35f763a74dfc5292		

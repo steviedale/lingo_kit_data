@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-kung	KOONG	kung	NOUN	kung (kung fu)	1	1e-06	1	1e-06	kung	NOUN	S	obj	Gender=Masc	92315dd0-7b46-5b23-81f4-83fb036a483b	59027902-1b39-5923-a790-5cbbbadaa224	Mary ama il kung fu.	Mary loves kung fu.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+kung	KOONG	kung	NOUN	kung (kung fu)	1	1e-06	1	1e-06	kung	NOUN	S	obj	Gender=Masc	92315dd0-7b46-5b23-81f4-83fb036a483b	59027902-1b39-5923-a790-5cbbbadaa224	069f3ece5e71fd797a418dc098691a36284ecd975425a87cb5e223c8674ac665	2d0fb0e0f4bf831871c2eb71e8f0e09789b66a4f4f6edad56d844bec9f6b587d		

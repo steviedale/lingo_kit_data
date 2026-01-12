@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-svelto	SVEHL-toh	svelto	ADJ	quick; nimble	1	1e-06	1	1e-06	svelto	ADJ	A	root	Gender=Masc|Number=Sing	e8311d4e-2cd0-5dce-8740-c56126fb3e31	4041f9fc-3011-52b6-a9dd-d4d46dd14b63	Svelto!	Hurry up.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+svelto	SVEHL-toh	svelto	ADJ	quick; nimble	1	1e-06	1	1e-06	svelto	ADJ	A	root	Gender=Masc|Number=Sing	e8311d4e-2cd0-5dce-8740-c56126fb3e31	4041f9fc-3011-52b6-a9dd-d4d46dd14b63	ebeaf71eb3bf49adda968cea88f0879d839cbef7ffe035f34b15a343cfbd07d7	4b262a93831932a712512574dfb5f499477eb6f4bc9b93f72e88bd05d5f8b0c3		

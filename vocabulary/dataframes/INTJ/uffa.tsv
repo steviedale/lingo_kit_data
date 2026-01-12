@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-uffa	OOF-fah	uffa	INTJ	ugh	1	1e-06	1	1e-06	uffa	INTJ	I	root		7d4035f7-9a45-5878-9473-2ac0a852110a	07c3af30-644b-57a4-9812-3dde133206f0	Uffa!	Ugh!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+uffa	OOF-fah	uffa	INTJ	ugh	1	1e-06	1	1e-06	uffa	INTJ	I	root		7d4035f7-9a45-5878-9473-2ac0a852110a	07c3af30-644b-57a4-9812-3dde133206f0	48e03c99025a8d7667ad748d5424080ac028d5758fd91e0bb36ceae97a1f0de2	73930fbb284b20ca3edf826ca9abe9f07485280fdc6db37735c8052d698f0438		

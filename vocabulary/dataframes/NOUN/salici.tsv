@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-salici	sah-LEE-chee	salici	NOUN	get	1	1e-06	1	1e-06	salici	NOUN	S	root	Gender=Masc|Number=Plur	97094a11-e6e8-575f-b821-ba2f6b017283	d35d1402-b7c3-5d73-8ad2-37ee44d590b9	Salici sopra.	Get on it.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+salici	sah-LEE-chee	salici	NOUN	get	1	1e-06	1	1e-06	salici	NOUN	S	root	Gender=Masc|Number=Plur	97094a11-e6e8-575f-b821-ba2f6b017283	d35d1402-b7c3-5d73-8ad2-37ee44d590b9	b2300886c4f169d2a765b9f4b6604f1b134bdb45a6480d5d597a31cb06788cf4	4d6d9f682497e1a15d5e186e2a61c96b9922867b610e0e319b0a4dfb3eb4d139		

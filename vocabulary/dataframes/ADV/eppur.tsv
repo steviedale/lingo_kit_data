@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-eppur	EHP-poor	eppur	ADV	yet; still	1	1e-06	1	1e-06	eppur	ADV	B	advmod		086e388c-ddd0-51c4-8975-9ca66cc669b4	962c6cb0-46ca-59b6-bc74-d29e3dcfb8fd	Eppur si muove!	And yet it moves!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+eppur	EHP-poor	eppur	ADV	yet; still	1	1e-06	1	1e-06	eppur	ADV	B	advmod		086e388c-ddd0-51c4-8975-9ca66cc669b4	962c6cb0-46ca-59b6-bc74-d29e3dcfb8fd	b108b0559f4432cb6b8d4d2b139b95973cffb555247aa90132e6116499677b7f	9936aababe6ea94f17bd81cde63a20916d9b05c995787f7fff373b867180639b		

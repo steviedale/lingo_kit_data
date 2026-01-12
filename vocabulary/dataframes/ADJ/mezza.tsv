@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-mezza	MEHTS-tsah	mezza	ADJ	half	1	1e-06	1	1e-06	mezza	ADJ	A	amod	Gender=Fem|Number=Sing	25fc72be-e6c5-5714-87d7-6a966b794195	33c00a22-4fcb-5945-a557-0a90c4627c4a	Mezza sega.	Wanker.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+mezza	MEHTS-tsah	mezza	ADJ	half	1	1e-06	1	1e-06	mezza	ADJ	A	amod	Gender=Fem|Number=Sing	25fc72be-e6c5-5714-87d7-6a966b794195	33c00a22-4fcb-5945-a557-0a90c4627c4a	bf2ba6caa26d1817d542ef0371554742dcb1b3160868fdaa527a5edcf72563ed	104d3998a95e840ede0dde753d955a7a56b5459f7eb0080ad0ff190dfb64d182	1344.0	

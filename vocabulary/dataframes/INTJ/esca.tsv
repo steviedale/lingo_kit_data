@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-esca	EHS-kah	esca	INTJ	get out	2	2e-06	2	2e-06	esca	INTJ	I	root		bdcba01c-8b73-5dc1-8a2c-e9136c5f3ba2	7d8a60c0-5da5-5a38-b262-86264f735a3e	Esca!	Get out!	Esca.	Get out.		
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+esca	EHS-kah	esca	INTJ	get out	2	2e-06	2	2e-06	esca	INTJ	I	root		bdcba01c-8b73-5dc1-8a2c-e9136c5f3ba2	7d8a60c0-5da5-5a38-b262-86264f735a3e	d8e08a3425240859928e635d2a39dcf9555468c9ba18b7c2da65f629aff4821c	3590c51251be09d108db19f1ac2661479dd5838ce8810f687777bfc8ee9a1ed2	1248.0	1176.0

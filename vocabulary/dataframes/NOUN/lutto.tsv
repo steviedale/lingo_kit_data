@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-lutto	LOOT-toh	lutto	NOUN	mourning	1	1e-06	1	1e-06	lutto	NOUN	S	root	Gender=Masc|Number=Sing	42620719-1f2f-55ba-8488-dd155781c94e	77208a98-0713-5d43-a6aa-ebc785471b9d	Tom è in lutto.	Tom's grieving.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+lutto	LOOT-toh	lutto	NOUN	mourning	1	1e-06	1	1e-06	lutto	NOUN	S	root	Gender=Masc|Number=Sing	42620719-1f2f-55ba-8488-dd155781c94e	77208a98-0713-5d43-a6aa-ebc785471b9d	de3ccdbecff5e830452f84df4c245dc771eeeb8a7ca71c5cbf9cabaa3582b38d	b409791b92662ca043bff15a2de340d6399bdeab2859356f2871fe1c4f3c7065		

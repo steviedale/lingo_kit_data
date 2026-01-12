@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-yankee	YAN-kee	yankee	NOUN	Yankee	1	1e-06	1	1e-06	yankee	NOUN	S	root	Gender=Masc	efe2639e-6fce-5967-8bd9-2206c75afb10	336fee46-2c54-5560-a014-af3d7045e97e	Sei uno yankee?	Are you a yankee?				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+yankee	YAN-kee	yankee	NOUN	Yankee	1	1e-06	1	1e-06	yankee	NOUN	S	root	Gender=Masc	efe2639e-6fce-5967-8bd9-2206c75afb10	336fee46-2c54-5560-a014-af3d7045e97e	3ea880e11345bb99e6628a4de33cf57269403867b4b8bce730354c0e01aea569	0718e2cbac3422bda0e8e3650d62b4a82bc4408b92af478c948ca35d93ca6c1d		

@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-idem	EE-dem	idem	INTJ	same here	1	1e-06	1	1e-06	idem	INTJ	I	root		5e177354-823a-57cb-96df-5889249d3762	2fcbb8f9-d803-59ee-9874-c1a4bb2ce1df	Idem.	Same here.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+idem	EE-dem	idem	INTJ	same here	1	1e-06	1	1e-06	idem	INTJ	I	root		5e177354-823a-57cb-96df-5889249d3762	2fcbb8f9-d803-59ee-9874-c1a4bb2ce1df	664b452419cc8affd64d5b5d7c739cdc008f3fb1bbb959f740a448df01e2371e	e2f61e47231880c82b26e6dffc28be4f6a0b9e8dcadb6577c47e1ce9aa8563e4		

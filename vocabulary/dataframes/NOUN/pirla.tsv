@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pirla	PEER-lah	pirla	NOUN	idiot	1	1e-06	1	1e-06	pirla	NOUN	S	obl	Gender=Fem|Number=Sing	da8774e3-434c-5c0b-8b38-c7ff6a5deef7	b3ead7b6-6079-591f-9285-e76910701725	Che faccia da pirla!	What an idiot!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+pirla	PEER-lah	pirla	NOUN	idiot	1	1e-06	1	1e-06	pirla	NOUN	S	obl	Gender=Fem|Number=Sing	da8774e3-434c-5c0b-8b38-c7ff6a5deef7	b3ead7b6-6079-591f-9285-e76910701725	c1eccf8d79262ecf46edb5646619fcb0c937d96311b6fd9f4a34e6dabcb11cdd	0bbcf3af8e18f5d17851c5ca79093e7516b920d7b5e9bcc02995dd4669682a2b		

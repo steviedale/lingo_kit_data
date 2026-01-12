@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-yaaaawn..	yawhn	yaaaawn..	INTJ	yawn	1	1e-06	1	1e-06	yaaaawn..	INTJ	I	root		4d4dfa6a-65e9-5387-a851-887ae29bf41f	74d0ba64-075f-506d-9646-d6844eb36722	Yaaaawn... Vado a letto.	Yaaaawn... I'm going to bed.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+yaaaawn..	yawhn	yaaaawn..	INTJ	yawn	1	1e-06	1	1e-06	yaaaawn..	INTJ	I	root		4d4dfa6a-65e9-5387-a851-887ae29bf41f	74d0ba64-075f-506d-9646-d6844eb36722	54181a39332f334c4f070d9b5dc4018ba7819226bc1e47a00b71f31591f47edf	04ba08de376ef1369af1378d694c1c321ac67ba670c94950eb24267710b7a000		

@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-vente	VEN-teh	vente	ADV	come	1	1e-06	1	1e-06	vente	ADV	B	advmod		64b97461-c502-5209-be85-77eae9c21b51	b019a912-3603-5637-94ab-38311a190c75	Vente il più velocemente che potete.	Come as fast as you can.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+vente	VEN-teh	vente	ADV	come	1	1e-06	1	1e-06	vente	ADV	B	advmod		64b97461-c502-5209-be85-77eae9c21b51	b019a912-3603-5637-94ab-38311a190c75	b900d50cc3c37ce945ab0ab595026616e67adc41c6050b3dc7b0b1fa4b826cab	844643d5ce44bfcea1842998820b2dea3357e9a75e3533f348269e81e95e1b89		960.0

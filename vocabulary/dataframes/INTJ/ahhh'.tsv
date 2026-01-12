@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ahhh'	ahh	ahhh'	INTJ	ahh	1	1e-06	1	1e-06	ahhh'	INTJ	I	discourse		35f16f07-5e0b-5736-ab1b-b7b5524ffd4c	64fa525c-0b96-502d-9148-07a0d8832fec	Dica 'ahhh'.	Say 'ahhh'.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+ahhh'	ahh	ahhh'	INTJ	ahh	1	1e-06	1	1e-06	ahhh'	INTJ	I	discourse		35f16f07-5e0b-5736-ab1b-b7b5524ffd4c	64fa525c-0b96-502d-9148-07a0d8832fec	190f69d530fa776e9427d2a9d2467f40d850cf5708c45cf41276767c21bc9c53	c036c1b09881c4d81fa0346db169e30ae07a4c7246707ed06b517c3cc5656015		

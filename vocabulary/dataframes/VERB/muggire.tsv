@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-muggendo	moo-JEN-doh	muggire	VERB	mooing	1	1e-06	1	1e-06	muggire	VERB	V	root	VerbForm=Ger	d5f6cc6d-7c68-58b3-a8ba-3ab7e5e59516	7bcfb2a4-c701-5ed7-8cd5-ea1321e2f605	Il toro sta muggendo.	The bull is mooing.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+muggendo	moo-JEN-doh	muggire	VERB	mooing	1	1e-06	1	1e-06	muggire	VERB	V	root	VerbForm=Ger	d5f6cc6d-7c68-58b3-a8ba-3ab7e5e59516	7bcfb2a4-c701-5ed7-8cd5-ea1321e2f605	ceaf46384cc12c235355093653b8426ce7e6a8e33b795756279aea95551fd871	40a5f580ad4abc4861c0f9f6402992c918ed9f19116088c89c4caf03aa304b1d		

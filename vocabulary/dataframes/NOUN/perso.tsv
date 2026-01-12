@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-persi	PEHR-see	perso	NOUN	lost	1	1e-06	1	1e-06	perso	NOUN	S	root	Gender=Masc|Number=Plur	1f679750-74f7-510f-95d3-0df8ae78996e	44883f15-96aa-5092-a737-921d1c5afbcc	La persi.	I lost it.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+persi	PEHR-see	perso	NOUN	lost	1	1e-06	1	1e-06	perso	NOUN	S	root	Gender=Masc|Number=Plur	1f679750-74f7-510f-95d3-0df8ae78996e	44883f15-96aa-5092-a737-921d1c5afbcc	d14544cd2c25668265443852f3be5b0330b180b7ea54a1dec252b145573182db	a6550f923f1b91eb2ac6c0803e8c86986d0ac07a2c9e617e98123012e7871aba	1344.0	1128.0

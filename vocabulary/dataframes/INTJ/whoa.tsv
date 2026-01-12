@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-whoa	woh	whoa	INTJ	whoa	1	1e-06	1	1e-06	whoa	INTJ	I	root		f3679b6d-0de3-51fd-9bbe-73789fa96c83	6824143f-f008-5368-9e42-ff5e3f31073d	Whoa, Kelly!	Whoa, Kelly!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+whoa	woh	whoa	INTJ	whoa	1	1e-06	1	1e-06	whoa	INTJ	I	root		f3679b6d-0de3-51fd-9bbe-73789fa96c83	6824143f-f008-5368-9e42-ff5e3f31073d	b847c646baa3e032ccaf74a6bf1148424c70e875b140ddc1236440e749bd69de	9e0c9e9f12a72190bd5196a66ef390877a60ccb9d9df93c7f9bc0c8666456fcc		

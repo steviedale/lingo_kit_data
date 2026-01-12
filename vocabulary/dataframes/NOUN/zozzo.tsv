@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-zozzo	ZOH-tsoh	zozzo	NOUN	slob	1	1e-06	1	1e-06	zozzo	NOUN	S	root	Gender=Masc|Number=Sing	c15c5e35-55fa-5fc8-82da-c93c98815c45	a3a4e74f-4679-5fa0-b318-e070e6d870d4	Tom è un tale zozzo.	Tom is such a slob.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+zozzo	ZOH-tsoh	zozzo	NOUN	slob	1	1e-06	1	1e-06	zozzo	NOUN	S	root	Gender=Masc|Number=Sing	c15c5e35-55fa-5fc8-82da-c93c98815c45	a3a4e74f-4679-5fa0-b318-e070e6d870d4	a4d9d683e58b82c7f36feacdb8ac9ce32e0b7a2ca5f5193189d63a802b190c39	b87360eb9f591ecfc90910be711fb0b0b016d4d4612f5dec6bdf59245c7e196d		

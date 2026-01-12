@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sodo	SOH-doh	sodo	ADV	hard	1	1e-06	1	1e-06	sodo	ADV	B	advmod		c06ba54e-452f-5783-86bb-754b92b9e651	60fbda07-da8c-55fc-95cf-474c1235fa90	È abituato a lavorar sodo.	He is accustomed to hard work.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+sodo	SOH-doh	sodo	ADV	hard	1	1e-06	1	1e-06	sodo	ADV	B	advmod		c06ba54e-452f-5783-86bb-754b92b9e651	60fbda07-da8c-55fc-95cf-474c1235fa90	0c6b31687fdcfe9234b9bbbe293d7c8a534f90caa5172326a28ac4d39a0007f3	e3838ed6d38f8c474d288f87c08bbb3356882159e6589508d303081f4409ac8d		

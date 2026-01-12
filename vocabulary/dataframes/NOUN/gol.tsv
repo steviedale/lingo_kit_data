@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gol	GOHL	gol	NOUN	goal (sports)	1	1e-06	1	1e-06	gol	NOUN	S	obj	Gender=Masc	284be441-3a8f-582a-8484-228561ea0170	28a1093a-64e5-5977-95f7-73f6b663c652	Tom ha segnato un gol!	Tom scored a goal!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+gol	GOHL	gol	NOUN	goal (sports)	1	1e-06	1	1e-06	gol	NOUN	S	obj	Gender=Masc	284be441-3a8f-582a-8484-228561ea0170	28a1093a-64e5-5977-95f7-73f6b663c652	d432ed1eb63d1e1c2820db05e91970900a3710e8000bd5cebcf4028a41e8b981	dcdf4982c3b5ca033505a15cc11ee61a31f45d7b7edcc7a32e3449dc5e5a9e01		

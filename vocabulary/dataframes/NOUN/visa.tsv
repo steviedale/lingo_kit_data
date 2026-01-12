@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-visa	VEE-zah	visa	NOUN	visa	1	1e-06	1	1e-06	visa	NOUN	S	obj	Gender=Fem|Number=Sing	71759e35-382b-59b4-83fe-a0752622529f	f7f92efc-54a2-5cce-8e50-0c1735d2ec53	Ho una visa.	I have a visa.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+visa	VEE-zah	visa	NOUN	visa	1	1e-06	1	1e-06	visa	NOUN	S	obj	Gender=Fem|Number=Sing	71759e35-382b-59b4-83fe-a0752622529f	f7f92efc-54a2-5cce-8e50-0c1735d2ec53	91c9d1f24f53c65f5c007f0d47607b4619219810ba94e34a483b5179a1e81f88	4a1a2f38c07530bb74275235a5a8c0e5292e6e2f71e5ddca8368217c91933345		

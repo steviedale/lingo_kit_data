@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-rise	REE-zeh	risa	NOUN	laughs	1	1e-06	1	1e-06	risa	NOUN	S	root	Gender=Masc|Number=Plur	19bbb0e5-002e-5744-bb1e-1877c80e88bb	5d91a55e-a63b-54ee-a8d6-3d630587554f	Lei rise di me.	She laughed at me.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+rise	REE-zeh	risa	NOUN	laughs	1	1e-06	1	1e-06	risa	NOUN	S	root	Gender=Masc|Number=Plur	19bbb0e5-002e-5744-bb1e-1877c80e88bb	5d91a55e-a63b-54ee-a8d6-3d630587554f	536fa9b254a5222e9067aee5b0c08bdd2471aaefcf607c7b3eec18de29bf494a	71159e2b5eac5472fffa2d0eb9284c10a1229954e541fa712a75c3d4c3e33e11		

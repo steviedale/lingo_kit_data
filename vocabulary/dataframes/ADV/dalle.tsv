@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-dalle	DAHL-leh	dalle	ADV	to her	1	1e-06	1	1e-06	dalle	ADV	B	advmod		ac538e1f-6307-5f32-bf40-0858d82cb9f8	7c33fe2c-db33-5e95-99fa-2d215220246a	Dalle il libro.	Give her the book.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+dalle	DAHL-leh	dalle	ADV	to her	1	1e-06	1	1e-06	dalle	ADV	B	advmod		ac538e1f-6307-5f32-bf40-0858d82cb9f8	7c33fe2c-db33-5e95-99fa-2d215220246a	b15354d2fd73cc2a9348787e81ef556eeeb1e176684571b6b2ab549a00b81b1f	ba586bf08cff984f972f69e6411c1ab0c63a55c0c20f0d1c5a0ead07ec658cb8	1272.0	1080.0

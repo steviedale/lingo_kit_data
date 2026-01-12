@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-do	doh	do	INTJ	I give	1	1e-06	1	1e-06	do	INTJ	I	discourse		ef5f1923-0944-5ea6-86cf-46042eff87e2	c50fc3dc-7353-5a44-909a-e9e810678022	Do la mela a John.	I give John the apple.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+do	doh	do	INTJ	I give	1	1e-06	1	1e-06	do	INTJ	I	discourse		ef5f1923-0944-5ea6-86cf-46042eff87e2	c50fc3dc-7353-5a44-909a-e9e810678022	0dd2db437c23b13088169e00eb5bdcd031801289a0d42154ff663e53131310ac	5b34068e7aee0a4600319c902895b496b75d2a413e27c80c4ffdefdd5574ea3b	960.0	1080.0

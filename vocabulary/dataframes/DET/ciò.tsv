@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ciò	CHOH	ciò	DET	this; that	1	1e-06	1	1e-06	ciò	DET	DD	det	Number=Sing|PronType=Dem	0c131280-0ca5-5462-91c8-d51e87139905	9a25c0a3-fe77-5e68-ac9c-d96f75415c42	Ciò cosa significa?	What does this mean?				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+ciò	CHOH	ciò	DET	this; that	1	1e-06	1	1e-06	ciò	DET	DD	det	Number=Sing|PronType=Dem	0c131280-0ca5-5462-91c8-d51e87139905	9a25c0a3-fe77-5e68-ac9c-d96f75415c42	4c30d0e785ecab3e4ed628932e8334fa34e951e236411afd944d178876d9d698	fa15904ba9de7c93ece39b1f9385b8afaa8a7a5ae8e52b6a6d2edbec8d915e52	984.0	

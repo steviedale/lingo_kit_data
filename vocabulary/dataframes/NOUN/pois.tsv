@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pois	POYS	pois	NOUN	dots	1	1e-06	1	1e-06	pois	NOUN	S	obl	Gender=Masc	c2e46763-c43b-563e-9b3f-f6989120ed8a	6889d8ba-15a0-513e-ab81-f5ef6c95f4d2	La sua gonna è gialla a pois.	Her skirt is yellow with polka dots.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+pois	POYS	pois	NOUN	dots	1	1e-06	1	1e-06	pois	NOUN	S	obl	Gender=Masc	c2e46763-c43b-563e-9b3f-f6989120ed8a	6889d8ba-15a0-513e-ab81-f5ef6c95f4d2	adfec7d65aa45674c5f1efb4770522221aa04adca2bd2ad0cc9439798b6d650a	0a9ca4770675f2cea108643f06c682a15ad0221141782cceb22eff46057e822f		

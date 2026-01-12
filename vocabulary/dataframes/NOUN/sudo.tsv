@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sudo	SOO-doh	sudo	NOUN	sweat	1	1e-06	1	1e-06	sudo	NOUN	S	root	Gender=Masc|Number=Sing	88a2c195-dd46-5886-a2e5-611bd410deed	b7efc2e2-0176-51d5-a930-99ccb8af436e	Sudo tutti i giorni.	I sweat every day.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+sudo	SOO-doh	sudo	NOUN	sweat	1	1e-06	1	1e-06	sudo	NOUN	S	root	Gender=Masc|Number=Sing	88a2c195-dd46-5886-a2e5-611bd410deed	b7efc2e2-0176-51d5-a930-99ccb8af436e	c624c3d550a8e48bf3fb00b357d0b7e3ffd1acc76d8f8ba3a9a7dbdc6af3b049	cebf0fff1627251f4ec68553c34a8129ff845f6f61504d6618103f9019d95b67	1320.0	

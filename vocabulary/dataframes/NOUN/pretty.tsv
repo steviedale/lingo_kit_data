@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pretty	PREHTTY	pretty	NOUN	pretty	1	1e-06	1	1e-06	pretty	NOUN	S	nsubj	Gender=Masc	4c9f9651-c040-5391-834b-1a7e56ffe6cf	44658b9a-4a25-5038-b730-1c6b9d43eaff	Come si scrive pretty?	How do you spell pretty?				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+pretty	PREHTTY	pretty	NOUN	pretty	1	1e-06	1	1e-06	pretty	NOUN	S	nsubj	Gender=Masc	4c9f9651-c040-5391-834b-1a7e56ffe6cf	44658b9a-4a25-5038-b730-1c6b9d43eaff	292b6f4ff3a702cd0cd8f4e14f0eaed8980ab90239e9ba0dedb4deb69e3360af	b5b3d2026623e8f3fe531228e00345a041981d76765b3e256ca06ec6af4eb4a0		

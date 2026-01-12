@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ow	ow	ow	INTJ	ow	1	1e-06	1	1e-06	ow	INTJ	I	discourse		9cc1c402-41bd-5935-8001-bbaa06e6f8ab	290186d2-2406-5c89-b0a0-56a7ebdb20ba	Ow, il caffè è molto caldo!	Ow, the coffee is very hot!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+ow	ow	ow	INTJ	ow	1	1e-06	1	1e-06	ow	INTJ	I	discourse		9cc1c402-41bd-5935-8001-bbaa06e6f8ab	290186d2-2406-5c89-b0a0-56a7ebdb20ba	ba199049d6d5b2ed90c21a2fac13ba3c459be83bc1cef6169119ad79807cc9e6	741bc863477a36a8e7e184fcdf027c048769553fc6f1d4c0ad9d125a92de03cf		

@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-the	TEH	the	NOUN	tea	1	1e-06	1	1e-06	the	NOUN	S	nsubj		4a403793-eda1-5824-86f5-021d55fef92e	ca199da4-a0ae-536d-974e-6ac267fc4fae	Il the e il caffè aiutano a iniziare la giornata.	Tea and coffee helps to start the day.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+the	TEH	the	NOUN	tea	1	1e-06	1	1e-06	the	NOUN	S	nsubj		4a403793-eda1-5824-86f5-021d55fef92e	ca199da4-a0ae-536d-974e-6ac267fc4fae	a34af4cd142b39a78e45deaaa621a2efe8b8388da20fccbf2f230fded2a140ae	e13fafd77d2d421351cf1cdcc1f2a23674d9af29bff44b52a5776c528e8dea60		960.0

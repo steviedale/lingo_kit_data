@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-mangiami	MAHN-jah-mee	mangiami	INTJ	eat me	1	1e-06	1	1e-06	mangiami	INTJ	I	root		e45a0399-c8f9-538d-ad15-c3008e317242	8e4380b0-88c9-5eb1-b6af-e97a811a5de4	Mangiami.	Eat me.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+mangiami	MAHN-jah-mee	mangiami	INTJ	eat me	1	1e-06	1	1e-06	mangiami	INTJ	I	root		e45a0399-c8f9-538d-ad15-c3008e317242	8e4380b0-88c9-5eb1-b6af-e97a811a5de4	84334a9d23ea697b686535aadd3845e0f1aa14d68ec45f13bf4d439a844a1323	d97d494d18ac58b04c7d2fb361c56dea4a729b087dae06f189b314e8f69bb10a		

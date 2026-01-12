@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-ooh!	oo	ooh!	INTJ	ooh	1	1e-06	1	1e-06	ooh!	INTJ	I	discourse		67cb4e24-5e14-503c-a224-6ecf8a77cea4	a21ad652-c891-56ef-af86-4d409a4b16e1	Ooh! Mousse di cioccolata. Gnam.	Ooh! Chocolate mousse. Yummy.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+ooh!	oo	ooh!	INTJ	ooh	1	1e-06	1	1e-06	ooh!	INTJ	I	discourse		67cb4e24-5e14-503c-a224-6ecf8a77cea4	a21ad652-c891-56ef-af86-4d409a4b16e1	98c6408a97fae2bf223b563e1c9fa65bb6066ffad039cc5e9fb76410de8869e8	3bcdd706a3dea300e95d47b55e0898a6b80d40f2ea6479978afb95b414392b42		

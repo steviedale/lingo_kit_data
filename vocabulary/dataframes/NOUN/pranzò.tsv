@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-pranzò	prahn-TSOH	pranzò	NOUN	lunch	1	1e-06	1	1e-06	pranzò	NOUN	S	root	Gender=Masc|Number=Plur	8d6fdc30-93a0-5928-9c39-d117ed83ddfd	ce7837b2-f2c3-51d6-ba14-9cfbb12df10f	Lei pranzò.	She had lunch.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+pranzò	prahn-TSOH	pranzò	NOUN	lunch	1	1e-06	1	1e-06	pranzò	NOUN	S	root	Gender=Masc|Number=Plur	8d6fdc30-93a0-5928-9c39-d117ed83ddfd	ce7837b2-f2c3-51d6-ba14-9cfbb12df10f	b898a667ddc80167cd621ed81a8689a8cbc5c40109c12047b1fe7b3a00656f43	aecd3f02240002ae808c75649e6d55e68cfbf3cbc389dbe9545f18a561725d39		

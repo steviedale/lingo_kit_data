@@ -1,16 +1,17 @@
 # %%
-import os
 import sys
-import pandas as pd
+from pathlib import Path
+
 import matplotlib.pyplot as plt
-from tqdm import tqdm
 import pandas as pd
+from tqdm import tqdm
 
 # %%
-sys.path.append('/Users/stevie/repos/lingo_kit_data/vocabulary')
-sys.path.append('/home/ubuntu/lingo_kit_data/vocabulary')
+BASE_DIR = Path(__file__).resolve().parents[2]
+if str(BASE_DIR) not in sys.path:
+    sys.path.append(str(BASE_DIR))
 
-from stanza_tokenizer import StanzaTokenizer
+from utils.tokenization import StanzaTokenizer
 
 # %%
 bad_pos = ['X', 'PUNCT', 'PROPN', 'NUM']
@@ -180,6 +181,5 @@ gram3_df.to_csv('gram3.csv', sep='\t', index=False)
 
 
 # %%
-
 
 

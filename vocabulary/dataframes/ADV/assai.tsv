@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-assai	AHS-seye	assai	ADV	very; quite	1	1e-06	1	1e-06	assai	ADV	B	advmod		2fbb0501-d2fe-518f-81ed-1f6a67aba792	eb266789-f5f2-56d4-8269-9ab95e8a680e	Mi piace assai.	I like it so much.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+assai	AHS-seye	assai	ADV	very; quite	1	1e-06	1	1e-06	assai	ADV	B	advmod		2fbb0501-d2fe-518f-81ed-1f6a67aba792	eb266789-f5f2-56d4-8269-9ab95e8a680e	4f1df2206fbec2f15e8cf703c5bce93ffd16609465b8fd2e44542ca57053bfa8	42b0b066ca1b43bc666e5d2d648e34eee1ddf8749457cd6877079341115e6a0e		

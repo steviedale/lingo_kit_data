@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-venia	VEH-nyah	venia	NOUN	pardon	1	1e-06	1	1e-06	venia	NOUN	S	obj	Gender=Fem|Number=Sing	f4b0f279-4552-53e0-989a-2e086c4fedaf	7877cec5-702a-517c-bf48-855b02895e42	Chiedo venia.	I apologize.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+venia	VEH-nyah	venia	NOUN	pardon	1	1e-06	1	1e-06	venia	NOUN	S	obj	Gender=Fem|Number=Sing	f4b0f279-4552-53e0-989a-2e086c4fedaf	7877cec5-702a-517c-bf48-855b02895e42	8809bb7dbbdbba455e81491a05dab2a4d591bd7937e8fc803095e294c2450c0d	311a2158d526c8801d524286fabad98c2a2ba5abf3cf752264e047e0415b1116		

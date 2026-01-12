@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-gossip	GOHS-seep	gossip	NOUN	gossip	1	1e-06	1	1e-06	gossip	NOUN	S	nsubj	Gender=Masc	bf21ae75-7fba-5116-a9bc-7645a7fab9f4	6a1f6a93-83d2-5948-ab17-91d7cd9eed14	Il gossip è vero!	The gossip is true!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+gossip	GOHS-seep	gossip	NOUN	gossip	1	1e-06	1	1e-06	gossip	NOUN	S	nsubj	Gender=Masc	bf21ae75-7fba-5116-a9bc-7645a7fab9f4	6a1f6a93-83d2-5948-ab17-91d7cd9eed14	220cab617937fa47bc986e41ab312a3323065c44db14b19a4539a62b56019b70	64feec107dc76553872a5ee822e04def812df63538afef638cdb7c72b332bb3b		1152.0

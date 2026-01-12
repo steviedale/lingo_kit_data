@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-salpa	SAHL-pah	salpa	NOUN	sails	1	1e-06	1	1e-06	salpa	NOUN	S	root	Gender=Fem|Number=Sing	4180af8b-2d27-548b-94c0-fdb47e9a3611	23dbeae0-a46c-54cb-a649-a6ef942a6d2d	Salpa per la Svezia.	He sails to Sweden.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+salpa	SAHL-pah	salpa	NOUN	sails	1	1e-06	1	1e-06	salpa	NOUN	S	root	Gender=Fem|Number=Sing	4180af8b-2d27-548b-94c0-fdb47e9a3611	23dbeae0-a46c-54cb-a649-a6ef942a6d2d	0fb7ea485d56662dce132cc99839ba9cd2d0698f8968bebdb5125ffe34151fd4	0d09f28257c42744d2fad55e3b7af1c533d01b327b24d81514d1b23de3c79d79		

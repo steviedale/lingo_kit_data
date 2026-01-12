@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-deev	deev	deev	INTJ	Deev	1	1e-06	1	1e-06	deev	INTJ	I	discourse		a7f396ce-231c-572c-9d47-ec03c4b5bdde	e4056b30-6deb-5c1f-80ed-1c76a6b7ad30	Deev mancargli il buon senso.	He must be lacking in common sense.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+deev	deev	deev	INTJ	Deev	1	1e-06	1	1e-06	deev	INTJ	I	discourse		a7f396ce-231c-572c-9d47-ec03c4b5bdde	e4056b30-6deb-5c1f-80ed-1c76a6b7ad30	be1773fea39fcee1fceb31d3afe152bc648f7e8f4c4668f76cf2abb90760592a	5b784642be27f530f771cf19e532a6d63f5b079ee3209bb9c4c8ed4ca7ad9152		

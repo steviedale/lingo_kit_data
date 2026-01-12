@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-aha	ah-HAH	aha	INTJ	aha	1	1e-06	1	1e-06	aha	INTJ	I	discourse		d04ee43b-509b-55f7-b6ce-5414fdae765e	1718df7a-2bcf-53cb-a619-45bf81095830	Aha! dissero loro.	Aha! they said.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+aha	ah-HAH	aha	INTJ	aha	1	1e-06	1	1e-06	aha	INTJ	I	discourse		d04ee43b-509b-55f7-b6ce-5414fdae765e	1718df7a-2bcf-53cb-a619-45bf81095830	8f7a01ad5e9342635b4e10ff0c50fb18eb22bf6080dce9fb5227ace6d7dd623f	52645b47cb1238ab80e015720dbbccdd8507b1d1f2aee7894319c3bd446da14d		

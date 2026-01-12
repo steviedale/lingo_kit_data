@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-eccomi	EHK-koh-mee	eccomi	INTJ	here I am	1	1e-06	1	1e-06	eccomi	INTJ	I	root		c6e47352-bdc6-5e60-a3e3-38a22437b756	cf09c18d-c475-5e72-a186-85a29bb74380	Eccomi.	Here I am.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+eccomi	EHK-koh-mee	eccomi	INTJ	here I am	1	1e-06	1	1e-06	eccomi	INTJ	I	root		c6e47352-bdc6-5e60-a3e3-38a22437b756	cf09c18d-c475-5e72-a186-85a29bb74380	dc830c720a9ce0569e72bca2bb087700ffccb1ffdee13dde7d1efb7485194106	089d5e7beb54151c2fd662b0fed87af6bf580c1a8b49cfca8779ee0c0047f5c9	1320.0	1344.0

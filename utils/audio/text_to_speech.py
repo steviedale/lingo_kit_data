@@ -3,7 +3,6 @@ import os
 PATH_TO_REPO = os.getenv('PATH_TO_REPO')
 assert PATH_TO_REPO is not None, "Please set PATH_TO_REPO environment variable"
 
-from google.cloud import texttospeech
 import pandas as pd
 import os
 import time
@@ -14,7 +13,7 @@ import hashlib
 from pydub import AudioSegment
 import requests
 import base64
-from filelock import FileLock, Timeout
+from filelock import FileLock
 import os, io, yaml, tempfile
 
 
@@ -22,9 +21,10 @@ API_KEY_PATH = os.path.join(PATH_TO_REPO, "utils/audio/google_cloud_api_key.txt"
 assert(os.path.exists(API_KEY_PATH))
 API_KEY = open(API_KEY_PATH).read().strip()
 
-SAVE_DIR = os.path.join(PATH_TO_REPO, 'data/audio')
+SAVE_DIR = 'data/audio'
+SAVE_DIR_ABS = os.path.join(PATH_TO_REPO, SAVE_DIR)
 DF_PATH = os.path.join(PATH_TO_REPO, 'data/dataframe.csv')
-assert(os.path.exists(SAVE_DIR))
+assert(os.path.exists(SAVE_DIR_ABS))
 assert(os.path.exists(DF_PATH))
 
 ENDPOINT = f"https://texttospeech.googleapis.com/v1/text:synthesize?key={API_KEY}"
@@ -77,6 +77,7 @@ def ssml_single_word(word, rate, pitch, pause_ms, slash_pause_ms):
     # Add a period to encourage natural sentence prosody
     safe = word.strip()
     safe = safe.replace("/", f'.<break time="{slash_pause_ms}ms"/>')
+    safe = safe.replace(";", f'.<break time="{slash_pause_ms}ms"/>')
     safe = safe.replace(" (", f'. (')
     safe = safe.replace("you. (formal)", "you (formal)")
     if safe[-1] not in ".!?":
@@ -151,8 +152,8 @@ class TextToSpeech:
     def __init__(self):
 
 
-        if not os.path.exists(SAVE_DIR):
-            os.makedirs(SAVE_DIR)
+        if not os.path.exists(SAVE_DIR_ABS):
+            os.makedirs(SAVE_DIR_ABS)
 
         if not os.path.exists(DF_PATH):
             self.df = pd.DataFrame(columns=[
@@ -174,7 +175,8 @@ class TextToSpeech:
         # hash text
         hash_key = get_audio_hash(text, voice_name, speaking_rate, pitch)
 
-        audio_file = f'{SAVE_DIR}/{hash_key}.mp3'
+        audio_file_abs = f'{SAVE_DIR_ABS}/{hash_key}.mp3'
+        audio_file_rel = f'{SAVE_DIR}/{hash_key}.mp3'
 
         # check if text already exists
         match_df = self.df[self.df['hash'] == hash_key]
@@ -188,10 +190,14 @@ class TextToSpeech:
             assert(row['pitch'] == pitch)
             assert(row['voice_name'] == voice_name)
             assert(row['hash'] == hash_key)
-            assert(row['audio_file'] == audio_file)
+            # print(f"row['audio_file']: {row['audio_file']}")
+            # print(f"{os.path.exists(os.path.join(PATH_TO_REPO, row['audio_file']))}")
+            # print(f"audio_file: {audio_file_rel}")
+            # print(f"{os.path.exists(os.path.join(PATH_TO_REPO, audio_file_rel))}")
+            assert(row['audio_file'] == audio_file_rel)
 
         else:
-            if not force_generate and os.path.exists(audio_file):
+            if not force_generate and os.path.exists(audio_file_abs):
                 # print(f"WARNING: file {audio_file} exists but not in dataframe, adding to dataframe")
                 # since we don't know the synthesis time, just make it -1
                 synthesis_time = -1
@@ -207,7 +213,7 @@ class TextToSpeech:
                 t0 = time.perf_counter()
                 cost = synthesize_word(
                     text, voice_name=voice_name,
-                    speaking_rate=speaking_rate, outfile=audio_file
+                    speaking_rate=speaking_rate, outfile=audio_file_abs
                 )
                 t1 = time.perf_counter()
                 synthesis_time = t1 - t0
@@ -215,12 +221,12 @@ class TextToSpeech:
                     print(f"synthesized {hash_key} in {synthesis_time:.2f} seconds, cost ${cost:.6f}")
                 total_cost += cost
 
-            duration_ms = get_duration_ms(audio_file)
+            duration_ms = get_duration_ms(audio_file_abs)
 
             # store in dataframe
             if len(match_df) == 0:
                 self.df.loc[self.df.shape[0]] = [
-                    hash_key, text, audio_file, synthesis_time, voice_name, speaking_rate, pitch, duration_ms
+                    hash_key, text, audio_file_rel, synthesis_time, voice_name, speaking_rate, pitch, duration_ms
                 ]
                 row = self.df.iloc[-1]
             else:

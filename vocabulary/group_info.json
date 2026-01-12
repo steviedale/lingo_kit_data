@@ -1,0 +1,1644 @@
+{
+  "all_topics": [
+    "Core Conversations",
+    "Describing People & Things",
+    "People & Relationships",
+    "Family & Home",
+    "Daily Routines",
+    "Food & Dining",
+    "Travel & Transportation",
+    "Work & School",
+    "Emotions & Attitudes",
+    "Time & Scheduling",
+    "Shopping & Money",
+    "Health & Wellness",
+    "Learning & Knowledge",
+    "City Life & Services",
+    "Leisure & Entertainment",
+    "Technology & Media",
+    "Nature & Environment",
+    "Numbers & Measurements",
+    "Directions & Location",
+    "Questions & Explanations"
+  ],
+  "adj": {
+    "altro": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "other",
+      "pos": "adj"
+    },
+    "bello": {
+      "topics": [
+        "Describing People & Things",
+        "Emotions & Attitudes"
+      ],
+      "english": "beautiful",
+      "pos": "adj"
+    },
+    "buono": {
+      "topics": [
+        "Describing People & Things",
+        "Emotions & Attitudes"
+      ],
+      "english": "good",
+      "pos": "adj"
+    },
+    "felice": {
+      "topics": [
+        "Emotions & Attitudes",
+        "People & Relationships"
+      ],
+      "english": "happy",
+      "pos": "adj"
+    },
+    "grande": {
+      "topics": [
+        "Describing People & Things",
+        "Family & Home"
+      ],
+      "english": "big",
+      "pos": "adj"
+    },
+    "nuovo": {
+      "topics": [
+        "Describing People & Things",
+        "Shopping & Money"
+      ],
+      "english": "new",
+      "pos": "adj"
+    },
+    "primo": {
+      "topics": [
+        "Describing People & Things",
+        "Time & Scheduling"
+      ],
+      "english": "first",
+      "pos": "adj"
+    },
+    "scorso": {
+      "topics": [
+        "Time & Scheduling",
+        "Daily Routines"
+      ],
+      "english": "last",
+      "pos": "adj"
+    },
+    "sicuro": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Health & Wellness"
+      ],
+      "english": "sure",
+      "pos": "adj"
+    },
+    "solo": {
+      "topics": [
+        "Core Conversations",
+        "Emotions & Attitudes"
+      ],
+      "english": "alone",
+      "pos": "adj"
+    },
+    "stanco": {
+      "topics": [
+        "Daily Routines",
+        "Health & Wellness"
+      ],
+      "english": "tired",
+      "pos": "adj"
+    },
+    "vero": {
+      "topics": [
+        "Core Conversations",
+        "Learning & Knowledge"
+      ],
+      "english": "true",
+      "pos": "adj"
+    }
+  },
+  "adp": {
+    "a": {
+      "topics": [
+        "Core Conversations",
+        "Directions & Location"
+      ],
+      "english": "to",
+      "pos": "adp"
+    },
+    "come": {
+      "topics": [
+        "Core Conversations",
+        "Directions & Location"
+      ],
+      "english": "as",
+      "pos": "adp"
+    },
+    "con": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "with",
+      "pos": "adp"
+    },
+    "da": {
+      "topics": [
+        "Core Conversations",
+        "Directions & Location"
+      ],
+      "english": "from",
+      "pos": "adp"
+    },
+    "di": {
+      "topics": [
+        "Core Conversations",
+        "Directions & Location"
+      ],
+      "english": "of",
+      "pos": "adp"
+    },
+    "in": {
+      "topics": [
+        "Core Conversations",
+        "Directions & Location"
+      ],
+      "english": "in",
+      "pos": "adp"
+    },
+    "per": {
+      "topics": [
+        "Core Conversations",
+        "Travel & Transportation"
+      ],
+      "english": "for",
+      "pos": "adp"
+    },
+    "senza": {
+      "topics": [
+        "Core Conversations",
+        "Health & Wellness"
+      ],
+      "english": "without",
+      "pos": "adp"
+    },
+    "su": {
+      "topics": [
+        "Core Conversations",
+        "Directions & Location"
+      ],
+      "english": "on",
+      "pos": "adp"
+    }
+  },
+  "adv": {
+    "abbastanza": {
+      "topics": [
+        "Core Conversations",
+        "Shopping & Money"
+      ],
+      "english": "enough",
+      "pos": "adv"
+    },
+    "adesso": {
+      "topics": [
+        "Core Conversations",
+        "Time & Scheduling"
+      ],
+      "english": "now",
+      "pos": "adv"
+    },
+    "anche": {
+      "topics": [
+        "Core Conversations"
+      ],
+      "english": "also",
+      "pos": "adv"
+    },
+    "ancora": {
+      "topics": [
+        "Core Conversations",
+        "Time & Scheduling"
+      ],
+      "english": "still",
+      "pos": "adv"
+    },
+    "bene": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Health & Wellness"
+      ],
+      "english": "well",
+      "pos": "adv"
+    },
+    "come": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "how",
+      "pos": "adv"
+    },
+    "così": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "so",
+      "pos": "adv"
+    },
+    "davvero": {
+      "topics": [
+        "Core Conversations",
+        "Emotions & Attitudes"
+      ],
+      "english": "really",
+      "pos": "adv"
+    },
+    "domani": {
+      "topics": [
+        "Daily Routines",
+        "Time & Scheduling"
+      ],
+      "english": "tomorrow",
+      "pos": "adv"
+    },
+    "dove": {
+      "topics": [
+        "Directions & Location",
+        "Questions & Explanations"
+      ],
+      "english": "where",
+      "pos": "adv"
+    },
+    "già": {
+      "topics": [
+        "Core Conversations",
+        "Time & Scheduling"
+      ],
+      "english": "already",
+      "pos": "adv"
+    },
+    "ieri": {
+      "topics": [
+        "Daily Routines",
+        "Time & Scheduling"
+      ],
+      "english": "yesterday",
+      "pos": "adv"
+    },
+    "mai": {
+      "topics": [
+        "Core Conversations",
+        "Time & Scheduling"
+      ],
+      "english": "ever",
+      "pos": "adv"
+    },
+    "molto": {
+      "topics": [
+        "Describing People & Things",
+        "Emotions & Attitudes"
+      ],
+      "english": "very",
+      "pos": "adv"
+    },
+    "non": {
+      "topics": [
+        "Core Conversations"
+      ],
+      "english": "not",
+      "pos": "adv"
+    },
+    "oggi": {
+      "topics": [
+        "Daily Routines",
+        "Time & Scheduling"
+      ],
+      "english": "today",
+      "pos": "adv"
+    },
+    "ora": {
+      "topics": [
+        "Daily Routines",
+        "Time & Scheduling"
+      ],
+      "english": "now",
+      "pos": "adv"
+    },
+    "perché": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "why",
+      "pos": "adv"
+    },
+    "però": {
+      "topics": [
+        "Core Conversations",
+        "Emotions & Attitudes"
+      ],
+      "english": "however",
+      "pos": "adv"
+    },
+    "più": {
+      "topics": [
+        "Describing People & Things",
+        "Shopping & Money"
+      ],
+      "english": "more",
+      "pos": "adv"
+    },
+    "poco": {
+      "topics": [
+        "Shopping & Money",
+        "Describing People & Things"
+      ],
+      "english": "little",
+      "pos": "adv"
+    },
+    "presto": {
+      "topics": [
+        "Daily Routines",
+        "Time & Scheduling"
+      ],
+      "english": "soon",
+      "pos": "adv"
+    },
+    "prima": {
+      "topics": [
+        "Learning & Knowledge",
+        "Time & Scheduling"
+      ],
+      "english": "before",
+      "pos": "adv"
+    },
+    "qui": {
+      "topics": [
+        "Core Conversations",
+        "Directions & Location"
+      ],
+      "english": "here",
+      "pos": "adv"
+    },
+    "sempre": {
+      "topics": [
+        "Daily Routines",
+        "Time & Scheduling"
+      ],
+      "english": "always",
+      "pos": "adv"
+    },
+    "solo": {
+      "topics": [
+        "Core Conversations",
+        "Emotions & Attitudes"
+      ],
+      "english": "only",
+      "pos": "adv"
+    },
+    "troppo": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Shopping & Money"
+      ],
+      "english": "too",
+      "pos": "adv"
+    }
+  },
+  "aux": {
+    "avere": {
+      "topics": [
+        "Core Conversations",
+        "Daily Routines"
+      ],
+      "english": "to have",
+      "pos": "aux"
+    },
+    "dovere": {
+      "topics": [
+        "Daily Routines",
+        "Work & School"
+      ],
+      "english": "must",
+      "pos": "aux"
+    },
+    "essere": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "to be",
+      "pos": "aux"
+    },
+    "potere": {
+      "topics": [
+        "Core Conversations",
+        "Daily Routines"
+      ],
+      "english": "to be able to",
+      "pos": "aux"
+    },
+    "stare": {
+      "topics": [
+        "Core Conversations",
+        "Health & Wellness"
+      ],
+      "english": "to stay",
+      "pos": "aux"
+    },
+    "volere": {
+      "topics": [
+        "Core Conversations",
+        "Emotions & Attitudes"
+      ],
+      "english": "to want",
+      "pos": "aux"
+    }
+  },
+  "cconj": {
+    "e": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "and",
+      "pos": "cconj"
+    },
+    "ma": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "but",
+      "pos": "cconj"
+    },
+    "o": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "or",
+      "pos": "cconj"
+    }
+  },
+  "det": {
+    "alcuno": {
+      "topics": [
+        "Core Conversations",
+        "Shopping & Money"
+      ],
+      "english": "any",
+      "pos": "det"
+    },
+    "che": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "which",
+      "pos": "det"
+    },
+    "il": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "the",
+      "pos": "det"
+    },
+    "mio": {
+      "topics": [
+        "Family & Home",
+        "People & Relationships"
+      ],
+      "english": "my",
+      "pos": "det"
+    },
+    "molto": {
+      "topics": [
+        "Core Conversations",
+        "Shopping & Money"
+      ],
+      "english": "many",
+      "pos": "det"
+    },
+    "nostro": {
+      "topics": [
+        "Family & Home",
+        "People & Relationships"
+      ],
+      "english": "our",
+      "pos": "det"
+    },
+    "ogni": {
+      "topics": [
+        "Daily Routines",
+        "Time & Scheduling"
+      ],
+      "english": "every",
+      "pos": "det"
+    },
+    "qualche": {
+      "topics": [
+        "Daily Routines",
+        "Shopping & Money"
+      ],
+      "english": "some",
+      "pos": "det"
+    },
+    "quanto": {
+      "topics": [
+        "Questions & Explanations",
+        "Shopping & Money"
+      ],
+      "english": "how much",
+      "pos": "det"
+    },
+    "quello": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "that",
+      "pos": "det"
+    },
+    "questo": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "this",
+      "pos": "det"
+    },
+    "suo": {
+      "topics": [
+        "Family & Home",
+        "People & Relationships"
+      ],
+      "english": "his/her",
+      "pos": "det"
+    },
+    "tuo": {
+      "topics": [
+        "Family & Home",
+        "People & Relationships"
+      ],
+      "english": "your",
+      "pos": "det"
+    },
+    "tutto": {
+      "topics": [
+        "Core Conversations",
+        "Learning & Knowledge"
+      ],
+      "english": "all",
+      "pos": "det"
+    },
+    "uno": {
+      "topics": [
+        "Core Conversations",
+        "Numbers & Measurements"
+      ],
+      "english": "one",
+      "pos": "det"
+    },
+    "vostro": {
+      "topics": [
+        "Family & Home",
+        "People & Relationships"
+      ],
+      "english": "your (plural)",
+      "pos": "det"
+    }
+  },
+  "noun": {
+    "amico": {
+      "topics": [
+        "People & Relationships",
+        "Leisure & Entertainment"
+      ],
+      "english": "friend",
+      "pos": "noun"
+    },
+    "anno": {
+      "topics": [
+        "Daily Routines",
+        "Time & Scheduling"
+      ],
+      "english": "year",
+      "pos": "noun"
+    },
+    "bambino": {
+      "topics": [
+        "Family & Home",
+        "People & Relationships"
+      ],
+      "english": "child",
+      "pos": "noun"
+    },
+    "bisogno": {
+      "topics": [
+        "Daily Routines",
+        "Emotions & Attitudes"
+      ],
+      "english": "need",
+      "pos": "noun"
+    },
+    "cane": {
+      "topics": [
+        "Family & Home",
+        "Leisure & Entertainment"
+      ],
+      "english": "dog",
+      "pos": "noun"
+    },
+    "casa": {
+      "topics": [
+        "Daily Routines",
+        "Family & Home"
+      ],
+      "english": "house",
+      "pos": "noun"
+    },
+    "città": {
+      "topics": [
+        "City Life & Services",
+        "Travel & Transportation"
+      ],
+      "english": "city",
+      "pos": "noun"
+    },
+    "cosa": {
+      "topics": [
+        "Core Conversations",
+        "Learning & Knowledge"
+      ],
+      "english": "thing",
+      "pos": "noun"
+    },
+    "favore": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "favor",
+      "pos": "noun"
+    },
+    "figlio": {
+      "topics": [
+        "Family & Home",
+        "People & Relationships"
+      ],
+      "english": "son",
+      "pos": "noun"
+    },
+    "giorno": {
+      "topics": [
+        "Daily Routines",
+        "Time & Scheduling"
+      ],
+      "english": "day",
+      "pos": "noun"
+    },
+    "inglese": {
+      "topics": [
+        "Learning & Knowledge",
+        "Travel & Transportation",
+        "Work & School"
+      ],
+      "english": "English",
+      "pos": "noun"
+    },
+    "insegnante": {
+      "topics": [
+        "Learning & Knowledge",
+        "Work & School"
+      ],
+      "english": "teacher",
+      "pos": "noun"
+    },
+    "lavoro": {
+      "topics": [
+        "Daily Routines",
+        "Shopping & Money",
+        "Work & School"
+      ],
+      "english": "work",
+      "pos": "noun"
+    },
+    "libro": {
+      "topics": [
+        "Learning & Knowledge",
+        "Leisure & Entertainment"
+      ],
+      "english": "book",
+      "pos": "noun"
+    },
+    "macchina": {
+      "topics": [
+        "Daily Routines",
+        "Travel & Transportation"
+      ],
+      "english": "car",
+      "pos": "noun"
+    },
+    "madre": {
+      "topics": [
+        "Family & Home",
+        "People & Relationships"
+      ],
+      "english": "mother",
+      "pos": "noun"
+    },
+    "nome": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "name",
+      "pos": "noun"
+    },
+    "ora": {
+      "topics": [
+        "Daily Routines",
+        "Time & Scheduling"
+      ],
+      "english": "hour",
+      "pos": "noun"
+    },
+    "padre": {
+      "topics": [
+        "Family & Home",
+        "People & Relationships"
+      ],
+      "english": "father",
+      "pos": "noun"
+    },
+    "parola": {
+      "topics": [
+        "Core Conversations",
+        "Learning & Knowledge"
+      ],
+      "english": "word",
+      "pos": "noun"
+    },
+    "parte": {
+      "topics": [
+        "Learning & Knowledge",
+        "Work & School"
+      ],
+      "english": "part",
+      "pos": "noun"
+    },
+    "persona": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "person",
+      "pos": "noun"
+    },
+    "piacere": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Leisure & Entertainment"
+      ],
+      "english": "pleasure",
+      "pos": "noun"
+    },
+    "problema": {
+      "topics": [
+        "Daily Routines",
+        "Emotions & Attitudes",
+        "Work & School"
+      ],
+      "english": "problem",
+      "pos": "noun"
+    },
+    "ragazzo": {
+      "topics": [
+        "Family & Home",
+        "People & Relationships"
+      ],
+      "english": "boy",
+      "pos": "noun"
+    },
+    "scuola": {
+      "topics": [
+        "Learning & Knowledge",
+        "Work & School"
+      ],
+      "english": "school",
+      "pos": "noun"
+    },
+    "settimana": {
+      "topics": [
+        "Daily Routines",
+        "Time & Scheduling"
+      ],
+      "english": "week",
+      "pos": "noun"
+    },
+    "soldo": {
+      "topics": [
+        "Daily Routines",
+        "Shopping & Money"
+      ],
+      "english": "money",
+      "pos": "noun"
+    },
+    "stanza": {
+      "topics": [
+        "Daily Routines",
+        "Family & Home"
+      ],
+      "english": "room",
+      "pos": "noun"
+    },
+    "studente": {
+      "topics": [
+        "Learning & Knowledge",
+        "Work & School"
+      ],
+      "english": "student",
+      "pos": "noun"
+    },
+    "tempo": {
+      "topics": [
+        "Nature & Environment",
+        "Time & Scheduling"
+      ],
+      "english": "time",
+      "pos": "noun"
+    },
+    "uomo": {
+      "topics": [
+        "People & Relationships",
+        "Work & School"
+      ],
+      "english": "man",
+      "pos": "noun"
+    },
+    "vita": {
+      "topics": [
+        "Daily Routines",
+        "Emotions & Attitudes"
+      ],
+      "english": "life",
+      "pos": "noun"
+    },
+    "volta": {
+      "topics": [
+        "Core Conversations",
+        "Time & Scheduling"
+      ],
+      "english": "time",
+      "pos": "noun"
+    }
+  },
+  "num": {
+    "due": {
+      "topics": [
+        "Numbers & Measurements",
+        "Shopping & Money"
+      ],
+      "english": "two",
+      "pos": "num"
+    },
+    "tre": {
+      "topics": [
+        "Numbers & Measurements",
+        "Shopping & Money"
+      ],
+      "english": "three",
+      "pos": "num"
+    }
+  },
+  "pron": {
+    "altro": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "other",
+      "pos": "pron"
+    },
+    "che": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "that",
+      "pos": "pron"
+    },
+    "chi": {
+      "topics": [
+        "People & Relationships",
+        "Questions & Explanations"
+      ],
+      "english": "who",
+      "pos": "pron"
+    },
+    "ci": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "us",
+      "pos": "pron"
+    },
+    "ciò": {
+      "topics": [
+        "Core Conversations",
+        "Learning & Knowledge"
+      ],
+      "english": "that",
+      "pos": "pron"
+    },
+    "cosa": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "what",
+      "pos": "pron"
+    },
+    "cui": {
+      "topics": [
+        "People & Relationships",
+        "Questions & Explanations"
+      ],
+      "english": "whom",
+      "pos": "pron"
+    },
+    "gli": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "to them",
+      "pos": "pron"
+    },
+    "io": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "I",
+      "pos": "pron"
+    },
+    "la": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "her",
+      "pos": "pron"
+    },
+    "le": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "them",
+      "pos": "pron"
+    },
+    "lei": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "she",
+      "pos": "pron"
+    },
+    "lo": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "him",
+      "pos": "pron"
+    },
+    "loro": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "they",
+      "pos": "pron"
+    },
+    "lui": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "he",
+      "pos": "pron"
+    },
+    "me": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "me",
+      "pos": "pron"
+    },
+    "mi": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "me",
+      "pos": "pron"
+    },
+    "ne": {
+      "topics": [
+        "Core Conversations",
+        "Shopping & Money"
+      ],
+      "english": "of it",
+      "pos": "pron"
+    },
+    "nessuno": {
+      "topics": [
+        "Emotions & Attitudes",
+        "People & Relationships"
+      ],
+      "english": "nobody",
+      "pos": "pron"
+    },
+    "niente": {
+      "topics": [
+        "Core Conversations",
+        "Emotions & Attitudes"
+      ],
+      "english": "nothing",
+      "pos": "pron"
+    },
+    "noi": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "we",
+      "pos": "pron"
+    },
+    "perché": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "why",
+      "pos": "pron"
+    },
+    "poco": {
+      "topics": [
+        "Core Conversations",
+        "Shopping & Money"
+      ],
+      "english": "little",
+      "pos": "pron"
+    },
+    "qual": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "which",
+      "pos": "pron"
+    },
+    "qualcosa": {
+      "topics": [
+        "Core Conversations",
+        "Daily Routines"
+      ],
+      "english": "something",
+      "pos": "pron"
+    },
+    "quello": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "that",
+      "pos": "pron"
+    },
+    "questo": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "this",
+      "pos": "pron"
+    },
+    "si": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "oneself",
+      "pos": "pron"
+    },
+    "te": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "you",
+      "pos": "pron"
+    },
+    "ti": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "you",
+      "pos": "pron"
+    },
+    "tu": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "you",
+      "pos": "pron"
+    },
+    "tutto": {
+      "topics": [
+        "Core Conversations",
+        "Learning & Knowledge"
+      ],
+      "english": "everything",
+      "pos": "pron"
+    },
+    "vi": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "you (plural)",
+      "pos": "pron"
+    },
+    "voi": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "you (plural)",
+      "pos": "pron"
+    }
+  },
+  "sconj": {
+    "che": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "that",
+      "pos": "sconj"
+    },
+    "come": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "as",
+      "pos": "sconj"
+    },
+    "perché": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "because",
+      "pos": "sconj"
+    },
+    "quando": {
+      "topics": [
+        "Questions & Explanations",
+        "Time & Scheduling"
+      ],
+      "english": "when",
+      "pos": "sconj"
+    },
+    "se": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "if",
+      "pos": "sconj"
+    }
+  },
+  "verb": {
+    "aiutare": {
+      "topics": [
+        "Daily Routines",
+        "People & Relationships",
+        "Work & School"
+      ],
+      "english": "to help",
+      "pos": "verb"
+    },
+    "amare": {
+      "topics": [
+        "Emotions & Attitudes",
+        "People & Relationships"
+      ],
+      "english": "to love",
+      "pos": "verb"
+    },
+    "andare": {
+      "topics": [
+        "Daily Routines",
+        "Travel & Transportation"
+      ],
+      "english": "to go",
+      "pos": "verb"
+    },
+    "arrivare": {
+      "topics": [
+        "Time & Scheduling",
+        "Travel & Transportation"
+      ],
+      "english": "to arrive",
+      "pos": "verb"
+    },
+    "aspettare": {
+      "topics": [
+        "Daily Routines",
+        "Time & Scheduling",
+        "Travel & Transportation"
+      ],
+      "english": "to wait",
+      "pos": "verb"
+    },
+    "avere": {
+      "topics": [
+        "Core Conversations",
+        "Daily Routines"
+      ],
+      "english": "to have",
+      "pos": "verb"
+    },
+    "bere": {
+      "topics": [
+        "Food & Dining",
+        "Leisure & Entertainment"
+      ],
+      "english": "to drink",
+      "pos": "verb"
+    },
+    "capire": {
+      "topics": [
+        "Core Conversations",
+        "Learning & Knowledge"
+      ],
+      "english": "to understand",
+      "pos": "verb"
+    },
+    "chiamare": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "to call",
+      "pos": "verb"
+    },
+    "chiedere": {
+      "topics": [
+        "Core Conversations",
+        "Questions & Explanations"
+      ],
+      "english": "to ask",
+      "pos": "verb"
+    },
+    "comprare": {
+      "topics": [
+        "Daily Routines",
+        "Shopping & Money"
+      ],
+      "english": "to buy",
+      "pos": "verb"
+    },
+    "conoscere": {
+      "topics": [
+        "Learning & Knowledge",
+        "People & Relationships"
+      ],
+      "english": "to know",
+      "pos": "verb"
+    },
+    "credere": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Learning & Knowledge"
+      ],
+      "english": "to believe",
+      "pos": "verb"
+    },
+    "dare": {
+      "topics": [
+        "People & Relationships",
+        "Shopping & Money"
+      ],
+      "english": "to give",
+      "pos": "verb"
+    },
+    "dire": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "to say",
+      "pos": "verb"
+    },
+    "diventare": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Work & School"
+      ],
+      "english": "to become",
+      "pos": "verb"
+    },
+    "essere": {
+      "topics": [
+        "Core Conversations",
+        "Describing People & Things"
+      ],
+      "english": "to be",
+      "pos": "verb"
+    },
+    "fare": {
+      "topics": [
+        "Daily Routines",
+        "Work & School"
+      ],
+      "english": "to do",
+      "pos": "verb"
+    },
+    "finire": {
+      "topics": [
+        "Time & Scheduling",
+        "Work & School"
+      ],
+      "english": "to finish",
+      "pos": "verb"
+    },
+    "giocare": {
+      "topics": [
+        "Leisure & Entertainment",
+        "People & Relationships"
+      ],
+      "english": "to play",
+      "pos": "verb"
+    },
+    "guardare": {
+      "topics": [
+        "Leisure & Entertainment",
+        "Technology & Media"
+      ],
+      "english": "to watch",
+      "pos": "verb"
+    },
+    "imparare": {
+      "topics": [
+        "Learning & Knowledge",
+        "Work & School"
+      ],
+      "english": "to learn",
+      "pos": "verb"
+    },
+    "lasciare": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Travel & Transportation"
+      ],
+      "english": "to leave",
+      "pos": "verb"
+    },
+    "lavorare": {
+      "topics": [
+        "Shopping & Money",
+        "Work & School"
+      ],
+      "english": "to work",
+      "pos": "verb"
+    },
+    "leggere": {
+      "topics": [
+        "Learning & Knowledge",
+        "Leisure & Entertainment"
+      ],
+      "english": "to read",
+      "pos": "verb"
+    },
+    "mangiare": {
+      "topics": [
+        "Daily Routines",
+        "Food & Dining"
+      ],
+      "english": "to eat",
+      "pos": "verb"
+    },
+    "mettere": {
+      "topics": [
+        "Daily Routines",
+        "Family & Home"
+      ],
+      "english": "to put",
+      "pos": "verb"
+    },
+    "morire": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Health & Wellness"
+      ],
+      "english": "to die",
+      "pos": "verb"
+    },
+    "parlare": {
+      "topics": [
+        "Core Conversations",
+        "People & Relationships"
+      ],
+      "english": "to speak",
+      "pos": "verb"
+    },
+    "passare": {
+      "topics": [
+        "Leisure & Entertainment",
+        "Travel & Transportation"
+      ],
+      "english": "to pass",
+      "pos": "verb"
+    },
+    "pensare": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Learning & Knowledge"
+      ],
+      "english": "to think",
+      "pos": "verb"
+    },
+    "perdere": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Travel & Transportation"
+      ],
+      "english": "to lose",
+      "pos": "verb"
+    },
+    "piacere": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Leisure & Entertainment"
+      ],
+      "english": "to like",
+      "pos": "verb"
+    },
+    "portare": {
+      "topics": [
+        "Family & Home",
+        "Travel & Transportation"
+      ],
+      "english": "to bring",
+      "pos": "verb"
+    },
+    "prendere": {
+      "topics": [
+        "Shopping & Money",
+        "Travel & Transportation"
+      ],
+      "english": "to take",
+      "pos": "verb"
+    },
+    "provare": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Learning & Knowledge",
+        "Leisure & Entertainment"
+      ],
+      "english": "to try",
+      "pos": "verb"
+    },
+    "rimanere": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Travel & Transportation"
+      ],
+      "english": "to stay",
+      "pos": "verb"
+    },
+    "riuscire": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Work & School"
+      ],
+      "english": "to succeed",
+      "pos": "verb"
+    },
+    "sapere": {
+      "topics": [
+        "Core Conversations",
+        "Learning & Knowledge"
+      ],
+      "english": "to know",
+      "pos": "verb"
+    },
+    "scrivere": {
+      "topics": [
+        "Technology & Media",
+        "Work & School",
+        "Learning & Knowledge"
+      ],
+      "english": "to write",
+      "pos": "verb"
+    },
+    "sembrare": {
+      "topics": [
+        "Core Conversations",
+        "Emotions & Attitudes"
+      ],
+      "english": "to seem",
+      "pos": "verb"
+    },
+    "sentire": {
+      "topics": [
+        "Emotions & Attitudes",
+        "Health & Wellness"
+      ],
+      "english": "to feel",
+      "pos": "verb"
+    },
+    "stare": {
+      "topics": [
+        "Daily Routines",
+        "Health & Wellness"
+      ],
+      "english": "to stay",
+      "pos": "verb"
+    },
+    "studiare": {
+      "topics": [
+        "Learning & Knowledge",
+        "Work & School"
+      ],
+      "english": "to study",
+      "pos": "verb"
+    },
+    "tornare": {
+      "topics": [
+        "Family & Home",
+        "Travel & Transportation"
+      ],
+      "english": "to return",
+      "pos": "verb"
+    },
+    "trovare": {
+      "topics": [
+        "Daily Routines",
+        "Shopping & Money"
+      ],
+      "english": "to find",
+      "pos": "verb"
+    },
+    "vedere": {
+      "topics": [
+        "Learning & Knowledge",
+        "Leisure & Entertainment"
+      ],
+      "english": "to see",
+      "pos": "verb"
+    },
+    "venire": {
+      "topics": [
+        "People & Relationships",
+        "Travel & Transportation"
+      ],
+      "english": "to come",
+      "pos": "verb"
+    },
+    "vivere": {
+      "topics": [
+        "Daily Routines",
+        "Emotions & Attitudes",
+        "Family & Home"
+      ],
+      "english": "to live",
+      "pos": "verb"
+    },
+    "volere": {
+      "topics": [
+        "Daily Routines",
+        "Emotions & Attitudes"
+      ],
+      "english": "to want",
+      "pos": "verb"
+    }
+  }
+}

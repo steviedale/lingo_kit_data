@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-aoi	ah-OH-ee	aoi	INTJ	Aoi	2	2e-06	2	2e-06	aoi	INTJ	I	discourse		94374ba2-592e-5eae-8c25-c00700d7bf8f	c0b3d882-e6fe-57da-993c-ebee41aa5f3b	Aoi danza molto bene.	Aoi dances very well.	Aoi danza.	Aoi dances.		
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+aoi	ah-OH-ee	aoi	INTJ	Aoi	2	2e-06	2	2e-06	aoi	INTJ	I	discourse		94374ba2-592e-5eae-8c25-c00700d7bf8f	c0b3d882-e6fe-57da-993c-ebee41aa5f3b	5f13fb1df7f0c0c3b5c61f536b12113cf9f276a5c3ea1981b66bad9f561f654c	042fbe1aeb8ae705ae060763bf09d0d8151c6e180473e7ee5f0ef092ae6e4eae		

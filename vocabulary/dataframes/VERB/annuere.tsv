@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-annuendo	ahn-NWEHN-doh	annuere	VERB	noding	1	1e-06	1	1e-06	annuere	VERB	V	root	VerbForm=Ger	5ee3716c-94c1-55b5-bc56-9d562166039d	49cc8895-52b8-5421-8060-444d7c96a19d	Tom sta annuendo.	Tom is nodding.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+annuendo	ahn-NWEHN-doh	annuere	VERB	noding	1	1e-06	1	1e-06	annuere	VERB	V	root	VerbForm=Ger	5ee3716c-94c1-55b5-bc56-9d562166039d	49cc8895-52b8-5421-8060-444d7c96a19d	0e8e177d90ce6bb0b78d39c088163eac7ea3c13e5c17935e953f7ac1cfc9c943	c198a1f2d32c810064593c84adb210b623bcf14e857d8f0715b04835ec373244		

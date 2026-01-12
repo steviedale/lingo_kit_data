@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-starnutì	stahr-noo-TEE	starnutì	ADJ	sneezed	1	1e-06	1	1e-06	starnutì	ADJ	A	amod	Number=Sing	0400c171-bb15-5406-bab8-0e4688d99499	c869ae2b-6a17-505f-90b6-5c8fa0c78c89	Tom starnutì.	Tom sneezed.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+starnutì	stahr-noo-TEE	starnutì	ADJ	sneezed	1	1e-06	1	1e-06	starnutì	ADJ	A	amod	Number=Sing	0400c171-bb15-5406-bab8-0e4688d99499	c869ae2b-6a17-505f-90b6-5c8fa0c78c89	0cd60ded9971e74cf4112b9854608fd7d060b7a2bbfede075aee06f928c59c5f	80c752224c9cf9357500bd0c0bb7264999e9eef063d7b4df104fc3bfd618ed93		

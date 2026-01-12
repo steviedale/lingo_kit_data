@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-sposami	spoh-SAH-mee	sposame	NOUN	marry	1	1e-06	1	1e-06	sposame	NOUN	S	root	Gender=Masc|Number=Sing	a2c6bfe1-9f52-5eb4-aca4-966aefcd8b5b	f580a461-7469-5602-8634-20ef15563b4c	Sposami.	Marry me.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+sposami	spoh-SAH-mee	sposame	NOUN	marry	1	1e-06	1	1e-06	sposame	NOUN	S	root	Gender=Masc|Number=Sing	a2c6bfe1-9f52-5eb4-aca4-966aefcd8b5b	f580a461-7469-5602-8634-20ef15563b4c	61d2812dfac262ba1177949f32bc17a6c4aba9e1c2ca6f1e1882c19781d3669a	afa5857b9e467489f5509fb3bf1ba91157d3515168c8bf574fca63415ffa69b4		

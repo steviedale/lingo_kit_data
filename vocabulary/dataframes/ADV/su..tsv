@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-su.	SOO	su.	ADV	on it	1	1e-06	1	1e-06	su.	ADV	B	advmod		49e9397b-4f3d-5dd9-92f6-bb0fd2a6099f	cf8b0b55-7994-54b0-a117-268a34631371	Ci dormirò su.	I'm going to sleep on it.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+su.	SOO	su.	ADV	on it	1	1e-06	1	1e-06	su.	ADV	B	advmod		49e9397b-4f3d-5dd9-92f6-bb0fd2a6099f	cf8b0b55-7994-54b0-a117-268a34631371	e297d51e05c36500b3c43aefe921d32a5b602bff08edf621dda8d7b0b96525a3	28b5f3db81071f079f32ec498e03397d3cab483f0e11ad62efce9726a553010c		

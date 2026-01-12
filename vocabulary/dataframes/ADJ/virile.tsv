@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-virile	vee-REE-leh	virile	ADJ	manly; virile	1	1e-06	1	1e-06	virile	ADJ	A	amod	Number=Sing	1ee6dc8b-e875-5614-936c-cc3bbd26c74a	75f9d5d7-e6c6-523a-ba72-b14a73f6e5d2	Sei un uomo virile!	You are a manly man!				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+virile	vee-REE-leh	virile	ADJ	manly; virile	1	1e-06	1	1e-06	virile	ADJ	A	amod	Number=Sing	1ee6dc8b-e875-5614-936c-cc3bbd26c74a	75f9d5d7-e6c6-523a-ba72-b14a73f6e5d2	c703160924186e4c1fb6182c97f91000b88915fad2c5be197d8866254c1df650	2801d7487e5193ea28e3804512355b66d62436489fad3e7133678c380efbcba9		

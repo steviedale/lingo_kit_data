@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-tu!	too	tu!	INTJ	you	1	1e-06	1	1e-06	tu!	INTJ	I	discourse		037ca901-f90b-573d-bc6d-823e9e1dcfbc	0de8adc5-9031-5fb2-bda0-97c4f5dca3d0	Hey, tu! Cosa stai facendo?	Hey, you! What are you doing?				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+tu!	too	tu!	INTJ	you	1	1e-06	1	1e-06	tu!	INTJ	I	discourse		037ca901-f90b-573d-bc6d-823e9e1dcfbc	0de8adc5-9031-5fb2-bda0-97c4f5dca3d0	607f522b3e4f66d432ce58d3e23b7d67f2312a1961e5231d0f3fb4f92c4d0edf	119657305dcc1041c13f5775bf6eea60a0941a05dbdbb471559f81b74e2519a1		912.0

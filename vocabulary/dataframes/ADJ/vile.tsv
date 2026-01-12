@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-vile	VEE-leh	vile	ADJ	vile; mean	1	1e-06	1	1e-06	vile	ADJ	A	amod	Number=Sing	090e8899-3e99-590d-b7c7-ac423f70bea7	309b0b79-b28d-5d66-9011-d66e28685f4c	Sei una persona vile.	You are a mean person.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+vile	VEE-leh	vile	ADJ	vile; mean	1	1e-06	1	1e-06	vile	ADJ	A	amod	Number=Sing	090e8899-3e99-590d-b7c7-ac423f70bea7	309b0b79-b28d-5d66-9011-d66e28685f4c	04bbf226c08fd3e04cfb154587bab74ab17771741aec47a3e88c7cbaae17ada5	b22e02ecb734736545a044a135683fdf90a14996228746469b40b2462ed7e22f		

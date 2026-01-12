@@ -1,2 +1,2 @@
-text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	sentence_1_it	sentence_1_en	sentence_2_it	sentence_2_en	sentence_3_it	sentence_3_en
-mostratemi	moh-STRAH-teh-mee	mostratemi	INTJ	show me	1	1e-06	1	1e-06	mostratemi	INTJ	I	root		94c5e142-881a-55a3-a77b-76c6179f42b5	9af26be3-bfbd-5463-973b-78f8952ccf1a	Mostratemi.	Show me.				
+text	pronunciation	lemma	pos	translation_en	token_count	token_pct	group_count	group_pct	parts_lemma	parts_pos	xpos	deprel	feats	token_hash	group_hash	italian_audio_hash	english_audio_hash	italian_audio_duration_ms	english_audio_duration_ms
+mostratemi	moh-STRAH-teh-mee	mostratemi	INTJ	show me	1	1e-06	1	1e-06	mostratemi	INTJ	I	root		94c5e142-881a-55a3-a77b-76c6179f42b5	9af26be3-bfbd-5463-973b-78f8952ccf1a	8115c83cf9dff978523afa79dc6e4a8638c14f3b6342b74ef8bbfee78048b6e3	d5233f853b414219f1e322feac52d2e71540c6586261f0e4431b44c16229906c		1080.0
